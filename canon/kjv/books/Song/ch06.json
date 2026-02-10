@@ -1,0 +1,272 @@
+{
+  "work": "KJV",
+  "osis": "Song",
+  "abbr": "SNG",
+  "chapter": 6,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "my beloved’s, and my beloved"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "mine: he feedeth among the lilies."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "¶ Thou"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as"
+        },
+        {
+          "add": "an army"
+        },
+        {
+          "t": "with banners."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Turn away thine eyes from me, for they have overcome me: thy hair"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "as a flock of goats that appear from Gilead."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Thy teeth"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "as a flock of sheep which go up from the washing, whereof every one beareth twins, and"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "not one barren among them."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "As a piece of a pomegranate"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "thy temples within thy locks."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "There are threescore queens, and fourscore concubines, and virgins without number."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "My dove, my undefiled is"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "one; she"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "add": "only"
+        },
+        {
+          "t": "one of her mother, she"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the choice"
+        },
+        {
+          "add": "one"
+        },
+        {
+          "t": "of her that bare her. The daughters saw her, and blessed her;"
+        },
+        {
+          "add": "yea"
+        },
+        {
+          "t": ", the queens and the concubines, and they praised her."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "¶ Who"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "she"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "looketh forth as the morning, fair as the moon, clear as the sun,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "terrible as"
+        },
+        {
+          "add": "an army"
+        },
+        {
+          "t": "with banners?"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "I went down into the garden of nuts to see the fruits of the valley,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "to see whether the vine flourished,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the pomegranates budded."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Or ever I was aware, my soul made me"
+        },
+        {
+          "add": "like"
+        },
+        {
+          "t": "the chariots of Amminadib."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "overcome…: or, puffed me up"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 12
+      },
+      "text": "Or ever…: Heb. I knew not"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 12
+      },
+      "text": "made…: or, set me on the chariots of my willing people"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 13
+      },
+      "text": "of…: or, of Mahanaim"
+    }
+  ]
+}

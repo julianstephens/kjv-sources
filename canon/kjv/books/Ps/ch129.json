@@ -1,0 +1,120 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 129,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Many a time have they afflicted me from my youth, may Israel now say:"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Many a time have they afflicted me from my youth: yet they have not prevailed against me."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "The plowers plowed upon my back: they made long their furrows."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "righteous: he hath cut asunder the cords of the wicked."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Let them all be confounded and turned back that hate Zion."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Let them be as the grass"
+        },
+        {
+          "add": "upon"
+        },
+        {
+          "t": "the housetops, which withereth afore it groweth up:"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Neither do they which go by say, The blessing of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "upon you: we bless you in the name of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Many…: or, Much"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "Many…: or, Much"
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "work": "KJV",
+  "osis": "Prov",
+  "abbr": "PRO",
+  "chapter": 15,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "A soft answer turneth away wrath: but grievous words stir up anger."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "The eyes of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "in every place, beholding the evil and the good."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "A wholesome tongue"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a tree of life: but perverseness therein"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a breach in the spirit."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "A fool despiseth his father’s instruction: but he that regardeth reproof is prudent."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "In the house of the righteous"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "much treasure: but in the revenues of the wicked is trouble."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The lips of the wise disperse knowledge: but the heart of the foolish"
+        },
+        {
+          "add": "doeth"
+        },
+        {
+          "t": "not so."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The sacrifice of the wicked"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "an abomination to the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": but the prayer of the upright"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "his delight."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "The way of the wicked"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "an abomination unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": but he loveth him that followeth after righteousness."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Correction"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "grievous unto him that forsaketh the way:"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "he that hateth reproof shall die."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Hell and destruction"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": how much more then the hearts of the children of men?"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "A scorner loveth not one that reproveth him: neither will he go unto the wise."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "All the days of the afflicted"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "evil: but he that is of a merry heart"
+        },
+        {
+          "add": "hath"
+        },
+        {
+          "t": "a continual feast."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Better"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "little with the fear of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "than great treasure and trouble therewith."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Better"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a dinner of herbs where love is, than a stalled ox and hatred therewith."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "A wrathful man stirreth up strife: but"
+        },
+        {
+          "add": "he that is"
+        },
+        {
+          "t": "slow to anger appeaseth strife."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "The way of the slothful"
+        },
+        {
+          "add": "man is"
+        },
+        {
+          "t": "as an hedge of thorns: but the way of the righteous"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "made plain."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "A wise son maketh a glad father: but a foolish man despiseth his mother."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "Folly"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "joy to"
+        },
+        {
+          "add": "him that is"
+        },
+        {
+          "t": "destitute of wisdom: but a man of understanding walketh uprightly."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "Without counsel purposes are disappointed: but in the multitude of counsellors they are established."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "A man hath joy by the answer of his mouth: and a word"
+        },
+        {
+          "add": "spoken"
+        },
+        {
+          "t": "in due season, how good"
+        },
+        {
+          "add": "is it"
+        },
+        {
+          "t": "!"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "The way of life"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "above to the wise, that he may depart from hell beneath."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "will destroy the house of the proud: but he will establish the border of the widow."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "The thoughts of the wicked"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "an abomination to the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": but"
+        },
+        {
+          "add": "the words"
+        },
+        {
+          "t": "of the pure"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "pleasant words."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "He that is greedy of gain troubleth his own house; but he that hateth gifts shall live."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "far from the wicked: but he heareth the prayer of the righteous."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "The light of the eyes rejoiceth the heart:"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "a good report maketh the bones fat."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "The ear that heareth the reproof of life abideth among the wise."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "The fear of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the instruction of wisdom; and before honour"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "humility."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "poureth: Heb. belcheth, or, bubbleth"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "A wholesome…: Heb. The healing of the tongue"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 10
+      },
+      "text": "Correction: or, Instruction"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 19
+      },
+      "text": "is made…: Heb. is raised up as a causey"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 21
+      },
+      "text": "destitute…: Heb. void of heart"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 23
+      },
+      "text": "due…: Heb. his season"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 26
+      },
+      "text": "pleasant…: Heb. words of pleasantness"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 32
+      },
+      "text": "instruction: or, correction"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 32
+      },
+      "text": "heareth: or, obeyeth"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 32
+      },
+      "text": "getteth…: Heb. possesseth an heart"
+    }
+  ]
+}

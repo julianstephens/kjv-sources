@@ -1,0 +1,188 @@
+{
+  "work": "KJV",
+  "osis": "Ezek",
+  "abbr": "EZK",
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "unto this very day."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "For"
+        },
+        {
+          "add": "they are"
+        },
+        {
+          "t": "impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "And they, whether they will hear, or whether they will forbear, (for they"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "a rebellious house,) yet shall know that there hath been a prophet among them."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "¶ And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "a rebellious house."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "most rebellious."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "¶ And when I looked, behold, an hand"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "sent unto me; and, lo, a roll of a book"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "therein;"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And he spread it before me; and it"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "written within and without: and"
+        },
+        {
+          "add": "there was"
+        },
+        {
+          "t": "written therein lamentations, and mourning, and woe."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "nation: Heb. nations"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "impudent: Heb. hard of face"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "briers…: or, rebels"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "most…: Heb. rebellion"
+    }
+  ]
+}

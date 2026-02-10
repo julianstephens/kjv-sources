@@ -1,0 +1,236 @@
+{
+  "work": "KJV",
+  "osis": "2 Chr",
+  "abbr": "2CH",
+  "chapter": 19,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? therefore"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "wrath upon thee from before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "God of their fathers."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "¶ And he set judges in the land throughout all the fenced cities of Judah, city by city,"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "And said to the judges, Take heed what ye do: for ye judge not for man, but for the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", who"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "with you in the judgment."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Wherefore now let the fear of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "be upon you; take heed and do"
+        },
+        {
+          "add": "it:"
+        },
+        {
+          "t": "for"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "no iniquity with the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "our God, nor respect of persons, nor taking of gifts."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "¶ Moreover in Jerusalem did Jehoshaphat set of the Levites, and"
+        },
+        {
+          "add": "of"
+        },
+        {
+          "t": "the priests, and of the chief of the fathers of Israel, for the judgment of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and for controversies, when they returned to Jerusalem."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "And he charged them, saying, Thus shall ye do in the fear of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", faithfully, and with a perfect heart."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and"
+        },
+        {
+          "add": "so"
+        },
+        {
+          "t": "wrath come upon you, and upon your brethren: this do, and ye shall not trespass."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And, behold, Amariah the chief priest"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "over you in all matters of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "officers before you. Deal courageously, and the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "shall be with the good."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "he went…: Heb. he returned and went out"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "in…: Heb. in the matter of judgment"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 11
+      },
+      "text": "Deal…: Heb. Take courage and do"
+    }
+  ]
+}

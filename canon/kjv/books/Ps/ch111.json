@@ -1,0 +1,217 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 111,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". I will praise the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "with"
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": "whole heart, in the assembly of the upright, and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "the congregation."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "The works of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "great, sought out of all them that have pleasure therein."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "His work"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "honourable and glorious: and his righteousness endureth for ever."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "He hath made his wonderful works to be remembered: the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "gracious and full of compassion."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "He hath given meat unto them that fear him: he will ever be mindful of his covenant."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "He hath shewed his people the power of his works, that he may give them the heritage of the heathen."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The works of his hands"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "verity and judgment; all his commandments"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "sure."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "They stand fast for ever and ever,"
+        },
+        {
+          "add": "and are"
+        },
+        {
+          "t": "done in truth and uprightness."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "his name."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "The fear of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the beginning of wisdom: a good understanding have all they that do"
+        },
+        {
+          "add": "his commandments:"
+        },
+        {
+          "t": "his praise endureth for ever."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Praise ye…: Heb. Hallelujah"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "meat: Heb. prey"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 8
+      },
+      "text": "stand…: Heb. are established"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 10
+      },
+      "text": "a good…: or, good success"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 10
+      },
+      "text": "his commandments: Heb. them"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 150,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". Praise God in his sanctuary: praise him in the firmament of his power."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Praise him for his mighty acts: praise him according to his excellent greatness."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Praise him with the sound of the trumpet: praise him with the psaltery and harp."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Praise him with the timbrel and dance: praise him with stringed instruments and organs."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Let every thing that hath breath praise the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Praise ye…: Heb. Hallelujah"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "trumpet: or, cornet"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "dance: or, pipe"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "work": "KJV",
+  "osis": "2 Chr",
+  "abbr": "2CH",
+  "chapter": 27,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Jotham"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "Jerushah, the daughter of Zadok."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And he did"
+        },
+        {
+          "add": "that which was"
+        },
+        {
+          "t": "right in the sight of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", according to all that his father Uzziah did: howbeit he entered not into the temple of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". And the people did yet corruptly."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "He built the high gate of the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and on the wall of Ophel he built much."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "¶ He fought also with the king of the Ammonites, and prevailed against them. And the children of Ammon gave him the same year an hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon pay unto him, both the second year, and the third."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "So Jotham became mighty, because he prepared his ways before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "his God."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "¶ Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "written in the book of the kings of Israel and Judah."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "¶ And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "Ophel: or, the tower"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "So…: Heb. This"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "prepared: or, established"
+    }
+  ]
+}

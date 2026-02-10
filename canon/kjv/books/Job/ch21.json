@@ -1,0 +1,502 @@
+{
+  "work": "KJV",
+  "osis": "Job",
+  "abbr": "JOB",
+  "chapter": 21,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "But Job answered and said,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Hear diligently my speech, and let this be your consolations."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Suffer me that I may speak; and after that I have spoken, mock on."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "As for me,"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my complaint to man? and if"
+        },
+        {
+          "add": "it were so"
+        },
+        {
+          "t": ", why should not my spirit be troubled?"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Mark me, and be astonished, and lay"
+        },
+        {
+          "add": "your"
+        },
+        {
+          "t": "hand upon"
+        },
+        {
+          "add": "your"
+        },
+        {
+          "t": "mouth."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Even when I remember I am afraid, and trembling taketh hold on my flesh."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Wherefore do the wicked live, become old, yea, are mighty in power?"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Their seed is established in their sight with them, and their offspring before their eyes."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Their houses"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "safe from fear, neither"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the rod of God upon them."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "They send forth their little ones like a flock, and their children dance."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "They take the timbrel and harp, and rejoice at the sound of the organ."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "They spend their days in wealth, and in a moment go down to the grave."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "What"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the Almighty, that we should serve him? and what profit should we have, if we pray unto him?"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Lo, their good"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "not in their hand: the counsel of the wicked is far from me."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "How oft is the candle of the wicked put out! and"
+        },
+        {
+          "add": "how oft"
+        },
+        {
+          "t": "cometh their destruction upon them!"
+        },
+        {
+          "add": "God"
+        },
+        {
+          "t": "distributeth sorrows in his anger."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "They are as stubble before the wind, and as chaff that the storm carrieth away."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "God layeth up his iniquity for his children: he rewardeth him, and he shall know"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "His eyes shall see his destruction, and he shall drink of the wrath of the Almighty."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "For what pleasure"
+        },
+        {
+          "add": "hath"
+        },
+        {
+          "t": "he in his house after him, when the number of his months is cut off in the midst?"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "Shall"
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": "teach God knowledge? seeing he judgeth those that are high."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "One dieth in his full strength, being wholly at ease and quiet."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "His breasts are full of milk, and his bones are moistened with marrow."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And another dieth in the bitterness of his soul, and never eateth with pleasure."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "They shall lie down alike in the dust, and the worms shall cover them."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "Behold, I know your thoughts, and the devices"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "ye wrongfully imagine against me."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "For ye say, Where"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the house of the prince? and where"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "the dwelling places of the wicked?"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "Have ye not asked them that go by the way? and do ye not know their tokens,"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "Who shall declare his way to his face? and who shall repay him"
+        },
+        {
+          "add": "what"
+        },
+        {
+          "t": "he hath done?"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "Yet shall he be brought to the grave, and shall remain in the tomb."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "The clods of the valley shall be sweet unto him, and every man shall draw after him, as"
+        },
+        {
+          "add": "there are"
+        },
+        {
+          "t": "innumerable before him."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "How then comfort ye me in vain, seeing in your answers there remaineth falsehood?"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "troubled: Heb. shortened?"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "Mark…: Heb. Look unto me"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 9
+      },
+      "text": "safe…: Heb. peace from"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 13
+      },
+      "text": "in wealth: or, in mirth"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 17
+      },
+      "text": "candle: or, lamp"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 18
+      },
+      "text": "carrieth: Heb. stealeth"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 19
+      },
+      "text": "his iniquity: that is, the punishment of his iniquity"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 23
+      },
+      "text": "his…: Heb. his very, or, the strength of, his perfection"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 24
+      },
+      "text": "breasts: or, milk pails"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 28
+      },
+      "text": "the dwelling…: Heb. the tent of the tabernacles"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 30
+      },
+      "text": "wrath: Heb. wraths"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 32
+      },
+      "text": "grave: Heb. graves"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 32
+      },
+      "text": "remain…: Heb. watch in the heap"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 34
+      },
+      "text": "falsehood: Heb. transgression?"
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "work": "KJV",
+  "osis": "1 Sam",
+  "abbr": "1SA",
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And Hannah prayed, and said, My heart rejoiceth in the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", mine horn is exalted in the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": my mouth is enlarged over mine enemies; because I rejoice in thy salvation."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "add": "There is"
+        },
+        {
+          "t": "none holy as the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": for"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "none beside thee: neither"
+        },
+        {
+          "add": "is there"
+        },
+        {
+          "t": "any rock like our God."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Talk no more so exceeding proudly; let"
+        },
+        {
+          "add": "not"
+        },
+        {
+          "t": "arrogancy come out of your mouth: for the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a God of knowledge, and by him actions are weighed."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "The bows of the mighty men"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "broken, and they that stumbled are girded with strength."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "add": "They that were"
+        },
+        {
+          "t": "full have hired out themselves for bread; and"
+        },
+        {
+          "add": "they that were"
+        },
+        {
+          "t": "hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "killeth, and maketh alive: he bringeth down to the grave, and bringeth up."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "maketh poor, and maketh rich: he bringeth low, and lifteth up."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "He raiseth up the poor out of the dust,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "lifteth up the beggar from the dunghill, to set"
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": "among princes, and to make them inherit the throne of glory: for the pillars of the earth"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD’s"
+        },
+        {
+          "t": ", and he hath set the world upon them."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "The adversaries of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "shall be broken to pieces; out of heaven shall he thunder upon them: the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And Elkanah went to Ramah to his house. And the child did minister unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "before Eli the priest."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "¶ Now the sons of Eli"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "sons of Belial; they knew not the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "And the priests’ custom with the people"
+        },
+        {
+          "add": "was, that"
+        },
+        {
+          "t": ", when any man offered sacrifice, the priest’s servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "And he struck"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Also before they burnt the fat, the priest’s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "And"
+        },
+        {
+          "add": "if"
+        },
+        {
+          "t": "any man said unto him, Let them not fail to burn the fat presently, and"
+        },
+        {
+          "add": "then"
+        },
+        {
+          "t": "take"
+        },
+        {
+          "add": "as much"
+        },
+        {
+          "t": "as thy soul desireth; then he would answer him,"
+        },
+        {
+          "add": "Nay;"
+        },
+        {
+          "t": "but thou shalt give"
+        },
+        {
+          "add": "it me"
+        },
+        {
+          "t": "now: and if not, I will take"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "by force."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Wherefore the sin of the young men was very great before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": for men abhorred the offering of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "¶ But Samuel ministered before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ","
+        },
+        {
+          "add": "being"
+        },
+        {
+          "t": "a child, girded with a linen ephod."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Moreover his mother made him a little coat, and brought"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "to him from year to year, when she came up with her husband to offer the yearly sacrifice."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "¶ And Eli blessed Elkanah and his wife, and said, The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "give thee seed of this woman for the loan which is lent to the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". And they went unto their own home."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "And the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "¶ Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled"
+        },
+        {
+          "add": "at"
+        },
+        {
+          "t": "the door of the tabernacle of the congregation."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "Nay, my sons; for"
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": "no good report that I hear: ye make the"
+        },
+        {
+          "nd": "LORD’s"
+        },
+        {
+          "t": "people to transgress."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "If one man sin against another, the judge shall judge him: but if a man sin against the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "would slay them."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "And the child Samuel grew on, and was in favour both with the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and also with men."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "¶ And there came a man of God unto Eli, and said unto him, Thus saith the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh’s house?"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "And did I choose him out of all the tribes of Israel"
+        },
+        {
+          "add": "to be"
+        },
+        {
+          "t": "my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded"
+        },
+        {
+          "add": "in my"
+        },
+        {
+          "t": "habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "Wherefore the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "God of Israel saith, I said indeed"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "thy house, and the house of thy father, should walk before me for ever: but now the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "Behold, the days come, that I will cut off thine arm, and the arm of thy father’s house, that there shall not be an old man in thine house."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "And thou shalt see an enemy"
+        },
+        {
+          "add": "in my"
+        },
+        {
+          "t": "habitation, in all"
+        },
+        {
+          "add": "the wealth"
+        },
+        {
+          "t": "which"
+        },
+        {
+          "add": "God"
+        },
+        {
+          "t": "shall give Israel: and there shall not be an old man in thine house for ever."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "And the man of thine,"
+        },
+        {
+          "add": "whom"
+        },
+        {
+          "t": "I shall not cut off from mine altar,"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "And this"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them."
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "And I will raise me up a faithful priest,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "shall do according to"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever."
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "And it shall come to pass,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "every one that is left in thine house shall come"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests’ offices, that I may eat a piece of bread."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "arrogancy: Heb. hard"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 16
+      },
+      "text": "presently: Heb. as on the day"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 20
+      },
+      "text": "loan…: or, petition which she asked, etc"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 22
+      },
+      "text": "assembled: Heb. assembled by troops"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 23
+      },
+      "text": "of your…: or, evil words of you"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 24
+      },
+      "text": "transgress: or, cry out"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 32
+      },
+      "text": "an enemy…: or, the affliction of the tabernacle, for all the wealth which God would have given Israel"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 33
+      },
+      "text": "in the flower…: Heb. men"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 36
+      },
+      "text": "Put: Heb. Join"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 36
+      },
+      "text": "one of…: or, somewhat about the priesthood"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 125,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "They that trust in the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "as mount Zion,"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "cannot be removed,"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "abideth for ever."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "As the mountains"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "round about Jerusalem, so the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "round about his people from henceforth even for ever."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Do good, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", unto"
+        },
+        {
+          "add": "those that be"
+        },
+        {
+          "t": "good, and"
+        },
+        {
+          "add": "to them that are"
+        },
+        {
+          "t": "upright in their hearts."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "As for such as turn aside unto their crooked ways, the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "shall lead them forth with the workers of iniquity:"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "peace"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "upon Israel."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "the wicked: Heb. wickedness"
+    }
+  ]
+}

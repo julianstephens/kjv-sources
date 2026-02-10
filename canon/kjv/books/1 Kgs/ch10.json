@@ -1,0 +1,550 @@
+{
+  "work": "KJV",
+  "osis": "1 Kgs",
+  "abbr": "1KI",
+  "chapter": 10,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And when the queen of Sheba heard of the fame of Solomon concerning the name of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", she came to prove him with hard questions."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And Solomon told her all her questions: there was not"
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": "thing hid from the king, which he told her not."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And when the queen of Sheba had seen all Solomon’s wisdom, and the house that he had built,"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; there was no more spirit in her."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "And she said to the king, It was a true report that I heard in mine own land of thy acts and of thy wisdom."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Howbeit I believed not the words, until I came, and mine eyes had seen"
+        },
+        {
+          "add": "it:"
+        },
+        {
+          "t": "and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Happy"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "thy men, happy"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "these thy servants, which stand continually before thee,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "that hear thy wisdom."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Blessed be the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "thy God, which delighted in thee, to set thee on the throne of Israel: because the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "loved Israel for ever, therefore made he thee king, to do judgment and justice."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And she gave the king an hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "And the king made of the almug trees pillars for the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and for the king’s house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "¶ Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Beside"
+        },
+        {
+          "add": "that he had"
+        },
+        {
+          "t": "of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "¶ And king Solomon made two hundred targets"
+        },
+        {
+          "add": "of"
+        },
+        {
+          "t": "beaten gold: six hundred"
+        },
+        {
+          "add": "shekels"
+        },
+        {
+          "t": "of gold went to one target."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "And"
+        },
+        {
+          "add": "he made"
+        },
+        {
+          "t": "three hundred shields"
+        },
+        {
+          "add": "of"
+        },
+        {
+          "t": "beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "¶ Moreover the king made a great throne of ivory, and overlaid it with the best gold."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "The throne had six steps, and the top of the throne"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "round behind: and"
+        },
+        {
+          "add": "there were"
+        },
+        {
+          "t": "stays on either side on the place of the seat, and two lions stood beside the stays."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "¶ And all king Solomon’s drinking vessels"
+        },
+        {
+          "add": "were of"
+        },
+        {
+          "t": "gold, and all the vessels of the house of the forest of Lebanon"
+        },
+        {
+          "add": "were of"
+        },
+        {
+          "t": "pure gold; none"
+        },
+        {
+          "add": "were of"
+        },
+        {
+          "t": "silver: it was nothing accounted of in the days of Solomon."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "So king Solomon exceeded all the kings of the earth for riches and for wisdom."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "¶ And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And they brought every man his present, vessels of silver, and vessels of gold, and garments, and armour, and spices, horses, and mules, a rate year by year."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "¶ And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "And the king made silver"
+        },
+        {
+          "add": "to be"
+        },
+        {
+          "t": "in Jerusalem as stones, and cedars made he"
+        },
+        {
+          "add": "to be"
+        },
+        {
+          "t": "as the sycomore trees that"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "in the vale, for abundance."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "¶ And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "And a chariot came up and went out of Egypt for six hundred"
+        },
+        {
+          "add": "shekels"
+        },
+        {
+          "t": "of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring"
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": "out by their means."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "questions: Heb. words"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "attendance: Heb. standing"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "cupbearers: or, butlers"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "report: Heb. word"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 6
+      },
+      "text": "acts: or, sayings"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 7
+      },
+      "text": "thy…: Heb. thou hast added wisdom and goodness to"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 11
+      },
+      "text": "almug…: also called, algum trees"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 12
+      },
+      "text": "pillars: or, rails: Heb. a prop"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 13
+      },
+      "text": "of his…: Heb. according to the hand of king Solomon"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 15
+      },
+      "text": "governors: or, captains"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 19
+      },
+      "text": "behind: Heb. on the hinder part thereof"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 19
+      },
+      "text": "stays: Heb. hands"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 20
+      },
+      "text": "the like: Heb. so"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 21
+      },
+      "text": "none…: or, there was no silver in them"
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 22
+      },
+      "text": "ivory: or, elephants’ teeth"
+    },
+    {
+      "id": "FN16",
+      "mark": "§",
+      "at": {
+        "v": 24
+      },
+      "text": "sought to: Heb. sought the face of"
+    },
+    {
+      "id": "FN17",
+      "mark": "**",
+      "at": {
+        "v": 27
+      },
+      "text": "made: Heb. gave"
+    },
+    {
+      "id": "FN18",
+      "mark": "††",
+      "at": {
+        "v": 28
+      },
+      "text": "And Solomon…: Heb. And the going forth of the horses which was Solomon’s"
+    },
+    {
+      "id": "FN19",
+      "mark": "‡‡",
+      "at": {
+        "v": 29
+      },
+      "text": "by their…: Heb. by their hand"
+    }
+  ]
+}

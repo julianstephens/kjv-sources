@@ -1,0 +1,172 @@
+{
+  "work": "KJV",
+  "osis": "Jer",
+  "abbr": "JER",
+  "chapter": 47,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "The word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Thus saith the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "At the noise of the stamping of the hoofs of his strong"
+        },
+        {
+          "add": "horses"
+        },
+        {
+          "t": ", at the rushing of his chariots,"
+        },
+        {
+          "add": "and at"
+        },
+        {
+          "t": "the rumbling of his wheels, the fathers shall not look back to"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "children for feebleness of hands;"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Because of the day that cometh to spoil all the Philistines,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "to cut off from Tyrus and Zidon every helper that remaineth: for the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "will spoil the Philistines, the remnant of the country of Caphtor."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Baldness is come upon Gaza; Ashkelon is cut off"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "the remnant of their valley: how long wilt thou cut thyself?"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "O thou sword of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", how long"
+        },
+        {
+          "add": "will it be"
+        },
+        {
+          "t": "ere thou be quiet? put up thyself into thy scabbard, rest, and be still."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "How can it be quiet, seeing the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Gaza: Heb. Azzah"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "all that…: Heb. the fulness thereof"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "the country: Heb. the isle"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "put…: Heb. gather thyself"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 7
+      },
+      "text": "How…: Heb. How canst thou"
+    }
+  ]
+}

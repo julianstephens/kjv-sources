@@ -1,0 +1,202 @@
+{
+  "work": "KJV",
+  "osis": "Jonah",
+  "abbr": "JON",
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Then Jonah prayed unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "his God out of the fish’s belly,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And said, I cried by reason of mine affliction unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and he heard me; out of the belly of hell cried I,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "thou heardest my voice."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "The waters compassed me about,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "to the soul: the depth closed me round about, the weeds were wrapped about my head."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "I went down to the bottoms of the mountains; the earth with her bars"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "about me for ever: yet hast thou brought up my life from corruption, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "my God."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "When my soul fainted within me I remembered the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": and my prayer came in unto thee, into thine holy temple."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "They that observe lying vanities forsake their own mercy."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "that I have vowed. Salvation"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "¶ And the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "spake unto the fish, and it vomited out Jonah upon the dry"
+        },
+        {
+          "add": "land"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "by…: or, out of mine affliction"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "hell: or, the grave"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 3
+      },
+      "text": "midst: Heb. heart"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "bottoms: Heb. cuttings off"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 6
+      },
+      "text": "corruption: or, the pit"
+    }
+  ]
+}

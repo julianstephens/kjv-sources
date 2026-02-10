@@ -1,0 +1,76 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 123,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Behold, as the eyes of servants"
+        },
+        {
+          "add": "look"
+        },
+        {
+          "t": "unto the hand of their masters,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "as the eyes of a maiden unto the hand of her mistress; so our eyes"
+        },
+        {
+          "add": "wait"
+        },
+        {
+          "t": "upon the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "our God, until that he have mercy upon us."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Have mercy upon us, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", have mercy upon us: for we are exceedingly filled with contempt."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Our soul is exceedingly filled with the scorning of those that are at ease,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "with the contempt of the proud."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "work": "KJV",
+  "osis": "Prov",
+  "abbr": "PRO",
+  "chapter": 10,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the heaviness of his mother."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Treasures of wickedness profit nothing: but righteousness delivereth from death."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "He becometh poor that dealeth"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "a slack hand: but the hand of the diligent maketh rich."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "He that gathereth in summer"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a wise son:"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "he that sleepeth in harvest"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a son that causeth shame."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Blessings"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "upon the head of the just: but violence covereth the mouth of the wicked."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The memory of the just"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "blessed: but the name of the wicked shall rot."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The wise in heart will receive commandments: but a prating fool shall fall."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "He that winketh with the eye causeth sorrow: but a prating fool shall fall."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "The mouth of a righteous"
+        },
+        {
+          "add": "man is"
+        },
+        {
+          "t": "a well of life: but violence covereth the mouth of the wicked."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Hatred stirreth up strifes: but love covereth all sins."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "In the lips of him that hath understanding wisdom is found: but a rod"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "for the back of him that is void of understanding."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Wise"
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": "lay up knowledge: but the mouth of the foolish"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "near destruction."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "The rich man’s wealth"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "his strong city: the destruction of the poor"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "their poverty."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "The labour of the righteous"
+        },
+        {
+          "add": "tendeth"
+        },
+        {
+          "t": "to life: the fruit of the wicked to sin."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "He"
+        },
+        {
+          "add": "is in"
+        },
+        {
+          "t": "the way of life that keepeth instruction: but he that refuseth reproof erreth."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "He that hideth hatred"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "lying lips, and he that uttereth a slander,"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a fool."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "In the multitude of words there wanteth not sin: but he that refraineth his lips"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "wise."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "The tongue of the just"
+        },
+        {
+          "add": "is as"
+        },
+        {
+          "t": "choice silver: the heart of the wicked"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "little worth."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "The lips of the righteous feed many: but fools die for want of wisdom."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "The blessing of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", it maketh rich, and he addeth no sorrow with it."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "add": "It is"
+        },
+        {
+          "t": "as sport to a fool to do mischief: but a man of understanding hath wisdom."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "As the whirlwind passeth, so"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the wicked no"
+        },
+        {
+          "add": "more:"
+        },
+        {
+          "t": "but the righteous"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "an everlasting foundation."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "As vinegar to the teeth, and as smoke to the eyes, so"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the sluggard to them that send him."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "The fear of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "prolongeth days: but the years of the wicked shall be shortened."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "The hope of the righteous"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "gladness: but the expectation of the wicked shall perish."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "The way of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "strength to the upright: but destruction"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "to the workers of iniquity."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "The righteous shall never be removed: but the wicked shall not inhabit the earth."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "The lips of the righteous know what is acceptable: but the mouth of the wicked"
+        },
+        {
+          "add": "speaketh"
+        },
+        {
+          "t": "frowardness."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "the substance…: or, the wicked for their wickedness"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 8
+      },
+      "text": "a prating…: Heb. a fool of lips"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 8
+      },
+      "text": "fall: Heb. be beaten"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 10
+      },
+      "text": "fall: Heb. be beaten"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 13
+      },
+      "text": "of understanding: Heb. of heart"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 17
+      },
+      "text": "erreth: or, causeth to err"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 21
+      },
+      "text": "of wisdom: Heb. of heart"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 27
+      },
+      "text": "prolongeth: Heb. addeth"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 32
+      },
+      "text": "frowardness: Heb. frowardnesses"
+    }
+  ]
+}

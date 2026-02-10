@@ -1,0 +1,322 @@
+{
+  "work": "KJV",
+  "osis": "Song",
+  "abbr": "SNG",
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "the rose of Sharon,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the lily of the valleys."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "As the lily among thorns, so"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my love among the daughters."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "As the apple tree among the trees of the wood, so"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my beloved among the sons. I sat down under his shadow with great delight, and his fruit"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "sweet to my taste."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "He brought me to the banqueting house, and his banner over me"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "love."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Stay me with flagons, comfort me with apples: for I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "sick of love."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "His left hand"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "under my head, and his right hand doth embrace me."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake"
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": "love, till he please."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "¶ The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "For, lo, the winter is past, the rain is over"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "gone;"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "The flowers appear on the earth; the time of the singing"
+        },
+        {
+          "add": "of birds"
+        },
+        {
+          "t": "is come, and the voice of the turtle is heard in our land;"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "The fig tree putteth forth her green figs, and the vines"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "the tender grape give a"
+        },
+        {
+          "add": "good"
+        },
+        {
+          "t": "smell. Arise, my love, my fair one, and come away."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "¶ O my dove,"
+        },
+        {
+          "add": "that art"
+        },
+        {
+          "t": "in the clefts of the rock, in the secret"
+        },
+        {
+          "add": "places"
+        },
+        {
+          "t": "of the stairs, let me see thy countenance, let me hear thy voice; for sweet"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy voice, and thy countenance"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "comely."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Take us the foxes, the little foxes, that spoil the vines: for our vines"
+        },
+        {
+          "add": "have"
+        },
+        {
+          "t": "tender grapes."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "¶ My beloved"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "mine, and I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "his: he feedeth among the lilies."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "I sat…: Heb. I delighted and sat down, etc"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "taste: Heb. palate"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "banqueting…: Heb. house of wine"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 5
+      },
+      "text": "comfort…: Heb. straw me with apples"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 7
+      },
+      "text": "I charge…: Heb. I adjure you"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 9
+      },
+      "text": "shewing…: Heb. flourishing"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 17
+      },
+      "text": "of Bether: or, of division"
+    }
+  ]
+}

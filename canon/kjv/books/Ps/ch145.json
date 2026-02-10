@@ -1,0 +1,342 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 145,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "I will extol thee, my God, O king; and I will bless thy name for ever and ever."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Every day will I bless thee; and I will praise thy name for ever and ever."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Great"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and greatly to be praised; and his greatness"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "unsearchable."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "One generation shall praise thy works to another, and shall declare thy mighty acts."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "I will speak of the glorious honour of thy majesty, and of thy wondrous works."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "And"
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": "shall speak of the might of thy terrible acts: and I will declare thy greatness."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "gracious, and full of compassion; slow to anger, and of great mercy."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "good to all: and his tender mercies"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "over all his works."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "All thy works shall praise thee, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; and thy saints shall bless thee."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "They shall speak of the glory of thy kingdom, and talk of thy power;"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Thy kingdom"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "an everlasting kingdom, and thy dominion"
+        },
+        {
+          "add": "endureth"
+        },
+        {
+          "t": "throughout all generations."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "upholdeth all that fall, and raiseth up all"
+        },
+        {
+          "add": "those that be"
+        },
+        {
+          "t": "bowed down."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "The eyes of all wait upon thee; and thou givest them their meat in due season."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Thou openest thine hand, and satisfiest the desire of every living thing."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "righteous in all his ways, and holy in all his works."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "nigh unto all them that call upon him, to all that call upon him in truth."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "preserveth all them that love him: but all the wicked will he destroy."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "My mouth shall speak the praise of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": and let all flesh bless his holy name for ever and ever."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "and his…: Heb. and of his greatness there is no search"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "works: Heb. things, or, words"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "declare: Heb. declare it"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 8
+      },
+      "text": "of great…: Heb. great in mercy"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 13
+      },
+      "text": "an…: Heb. a kingdom of all ages"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 15
+      },
+      "text": "wait…: or, look unto"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 17
+      },
+      "text": "holy: or, merciful, or, bountiful"
+    }
+  ]
+}

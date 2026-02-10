@@ -1,0 +1,699 @@
+{
+  "work": "KJV",
+  "osis": "Ezek",
+  "abbr": "EZK",
+  "chapter": 27,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "The word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "came again unto me, saying,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Now, thou son of man, take up a lamentation for Tyrus;"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And say unto Tyrus, O thou that art situate at the entry of the sea,"
+        },
+        {
+          "add": "which art"
+        },
+        {
+          "t": "a merchant of the people for many isles, Thus saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "; O Tyrus, thou hast said, I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "of perfect beauty."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Thy borders"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "in the midst of the seas, thy builders have perfected thy beauty."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "They have made all thy"
+        },
+        {
+          "add": "ship"
+        },
+        {
+          "t": "boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "add": "Of"
+        },
+        {
+          "t": "the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches"
+        },
+        {
+          "add": "of"
+        },
+        {
+          "t": "ivory,"
+        },
+        {
+          "add": "brought"
+        },
+        {
+          "t": "out of the isles of Chittim."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The inhabitants of Zidon and Arvad were thy mariners: thy wise"
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": ", O Tyrus,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "were in thee, were thy pilots."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "The ancients of Gebal and the wise"
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": "thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "The men of Arvad with thine army"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Tarshish"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "thy merchant by reason of the multitude of all"
+        },
+        {
+          "add": "kind of"
+        },
+        {
+          "t": "riches; with silver, iron, tin, and lead, they traded in thy fairs."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Javan, Tubal, and Meshech, they"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "thy merchants: they traded the persons of men and vessels of brass in thy market."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "The men of Dedan"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "thy merchants; many isles"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "the merchandise of thine hand: they brought thee"
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": "a present horns of ivory and ebony."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Syria"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Judah, and the land of Israel, they"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "Damascus"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "Dedan"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "thy merchant in precious clothes for chariots."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these"
+        },
+        {
+          "add": "were they"
+        },
+        {
+          "t": "thy merchants."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "The merchants of Sheba and Raamah, they"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "Chilmad,"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "thy merchants."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "These"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "thy merchants in all sorts"
+        },
+        {
+          "add": "of things"
+        },
+        {
+          "t": ", in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "¶ Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "in thee, and in all thy company which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in the midst of thee, shall fall into the midst of the seas in the day of thy ruin."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "The suburbs shall shake at the sound of the cry of thy pilots."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "And all that handle the oar, the mariners,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "all the pilots of the sea, shall come down from their ships, they shall stand upon the land;"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "bitter wailing."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "And in their wailing they shall take up a lamentation for thee, and lament over thee,"
+        },
+        {
+          "add": "saying"
+        },
+        {
+          "t": ", What"
+        },
+        {
+          "add": "city is"
+        },
+        {
+          "t": "like Tyrus, like the destroyed in the midst of the sea?"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "In the time"
+        },
+        {
+          "add": "when"
+        },
+        {
+          "t": "thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall."
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "countenance."
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "The merchants among the people shall hiss at thee; thou shalt be a terror, and never"
+        },
+        {
+          "add": "shalt be"
+        },
+        {
+          "t": "any more."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "of perfect…: Heb. perfect of beauty"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "midst: Heb. heart"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "made: Heb. built"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "the company…: or, they have made thy hatches of ivory well trodden"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 6
+      },
+      "text": "company: Heb. daughter"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 7
+      },
+      "text": "blue…: or, purple and scarlet"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 9
+      },
+      "text": "calkers: or, stoppers of chinks: Heb. strengtheners, etc"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 13
+      },
+      "text": "market: or, merchandise"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 16
+      },
+      "text": "the wares…: Heb. thy works"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 16
+      },
+      "text": "agate: or, chrysoprase"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 17
+      },
+      "text": "balm: or, rosin"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 19
+      },
+      "text": "going…: or, Meuzal"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 20
+      },
+      "text": "precious…: Heb. clothes of freedom"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 21
+      },
+      "text": "they occupied…: Heb. they were the merchants of thy hand"
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 24
+      },
+      "text": "all…: or, excellent things"
+    },
+    {
+      "id": "FN16",
+      "mark": "§",
+      "at": {
+        "v": 24
+      },
+      "text": "clothes: Heb. foldings"
+    },
+    {
+      "id": "FN17",
+      "mark": "**",
+      "at": {
+        "v": 26
+      },
+      "text": "midst: Heb. heart"
+    },
+    {
+      "id": "FN18",
+      "mark": "††",
+      "at": {
+        "v": 27
+      },
+      "text": "and in…: or, even with all"
+    },
+    {
+      "id": "FN19",
+      "mark": "‡‡",
+      "at": {
+        "v": 27
+      },
+      "text": "midst of the seas: Heb. heart, etc"
+    },
+    {
+      "id": "FN20",
+      "mark": "§§",
+      "at": {
+        "v": 28
+      },
+      "text": "suburbs: or, waves"
+    },
+    {
+      "id": "FN21",
+      "mark": "***",
+      "at": {
+        "v": 36
+      },
+      "text": "a terror: Heb. terrors"
+    },
+    {
+      "id": "FN22",
+      "mark": "†††",
+      "at": {
+        "v": 36
+      },
+      "text": "never…: Heb. shalt not be for ever"
+    }
+  ]
+}

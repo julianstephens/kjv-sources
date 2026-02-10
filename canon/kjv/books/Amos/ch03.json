@@ -1,0 +1,286 @@
+{
+  "work": "KJV",
+  "osis": "Amos",
+  "abbr": "AMO",
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Hear this word that the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "You only have I known of all the families of the earth: therefore I will punish you for all your iniquities."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Can two walk together, except they be agreed?"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Can a bird fall in a snare upon the earth, where no gin"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "for him? shall"
+        },
+        {
+          "add": "one"
+        },
+        {
+          "t": "take up a snare from the earth, and have taken nothing at all?"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath not done"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "?"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Surely the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "will do nothing, but he revealeth his secret unto his servants the prophets."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The lion hath roared, who will not fear? the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "hath spoken, who can but prophesy?"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "¶ Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "For they know not to do right, saith the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", who store up violence and robbery in their palaces."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Therefore thus saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "; An adversary"
+        },
+        {
+          "add": "there shall be"
+        },
+        {
+          "t": "even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Thus saith the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "a couch."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Hear ye, and testify in the house of Jacob, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ", the God of hosts,"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "That in the day that I shall visit the transgressions of Israel upon him I will also visit the altars of Beth-el: and the horns of the altar shall be cut off, and fall to the ground."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "punish: Heb. visit upon"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "cry: Heb. give forth his voice"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "be afraid: or, run together?"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "the LORD…: or, shall not the LORD do somewhat?"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "oppressed: or, oppressions"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 10
+      },
+      "text": "robbery: or, spoil"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 12
+      },
+      "text": "taketh: Heb. delivereth"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 12
+      },
+      "text": "in Damascus…: or, on the bed’s feet"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 14
+      },
+      "text": "visit: or, punish Israel for"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "work": "KJV",
+  "osis": "Job",
+  "abbr": "JOB",
+  "chapter": 23,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Then Job answered and said,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Even to day"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my complaint bitter: my stroke is heavier than my groaning."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Oh that I knew where I might find him!"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "I might come"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "to his seat!"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "I would order"
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": "cause before him, and fill my mouth with arguments."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "I would know the words"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "he would answer me, and understand what he would say unto me."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Will he plead against me with"
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": "great power? No; but he would put"
+        },
+        {
+          "add": "strength"
+        },
+        {
+          "t": "in me."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "There the righteous might dispute with him; so should I be delivered for ever from my judge."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Behold, I go forward, but he"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "not"
+        },
+        {
+          "add": "there;"
+        },
+        {
+          "t": "and backward, but I cannot perceive him:"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "On the left hand, where he doth work, but I cannot behold"
+        },
+        {
+          "add": "him:"
+        },
+        {
+          "t": "he hideth himself on the right hand, that I cannot see"
+        },
+        {
+          "add": "him:"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "But he knoweth the way that I take:"
+        },
+        {
+          "add": "when"
+        },
+        {
+          "t": "he hath tried me, I shall come forth as gold."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "My foot hath held his steps, his way have I kept, and not declined."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary"
+        },
+        {
+          "add": "food"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "But he"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in one"
+        },
+        {
+          "add": "mind"
+        },
+        {
+          "t": ", and who can turn him? and"
+        },
+        {
+          "add": "what"
+        },
+        {
+          "t": "his soul desireth, even"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "he doeth."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "For he performeth"
+        },
+        {
+          "add": "the thing that is"
+        },
+        {
+          "t": "appointed for me: and many such"
+        },
+        {
+          "add": "things are"
+        },
+        {
+          "t": "with him."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Therefore am I troubled at his presence: when I consider, I am afraid of him."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "For God maketh my heart soft, and the Almighty troubleth me:"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Because I was not cut off before the darkness,"
+        },
+        {
+          "add": "neither"
+        },
+        {
+          "t": "hath he covered the darkness from my face."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "stroke: Heb. hand"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 10
+      },
+      "text": "that…: Heb. that is with me"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 12
+      },
+      "text": "esteemed: Heb. hid, or, laid up"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 12
+      },
+      "text": "my…: or, my appointed portion"
+    }
+  ]
+}

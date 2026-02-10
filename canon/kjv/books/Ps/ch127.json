@@ -1,0 +1,151 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 127,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Except the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "build the house, they labour in vain that build it: except the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "keep the city, the watchman waketh"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "in vain."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "add": "It is"
+        },
+        {
+          "t": "vain for you to rise up early, to sit up late, to eat the bread of sorrows:"
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": "so he giveth his beloved sleep."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Lo, children"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "an heritage of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ":"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the fruit of the womb"
+        },
+        {
+          "add": "is his"
+        },
+        {
+          "t": "reward."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "As arrows"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "in the hand of a mighty man; so"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "children of the youth."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Happy"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "for…: or, of Solomon"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "that…: Heb. that are builders of it in it"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "his…: Heb. filled his quiver with them"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 5
+      },
+      "text": "speak…: or, subdue, or, destroy"
+    }
+  ]
+}

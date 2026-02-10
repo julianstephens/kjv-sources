@@ -1,0 +1,352 @@
+{
+  "work": "KJV",
+  "osis": "Gen",
+  "abbr": "GEN",
+  "chapter": 5,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "This"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "¶ And Adam lived an hundred and thirty years, and begat"
+        },
+        {
+          "add": "a son"
+        },
+        {
+          "t": "in his own likeness, after his image; and called his name Seth:"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "And all the days that Adam lived were nine hundred and thirty years: and he died."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "And Seth lived an hundred and five years, and begat Enos:"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "And all the days of Seth were nine hundred and twelve years: and he died."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "¶ And Enos lived ninety years, and begat Cainan:"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And all the days of Enos were nine hundred and five years: and he died."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "¶ And Cainan lived seventy years, and begat Mahalaleel:"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "And all the days of Cainan were nine hundred and ten years: and he died."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "¶ And Mahalaleel lived sixty and five years, and begat Jared:"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "¶ And Jared lived an hundred sixty and two years, and he begat Enoch:"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "And all the days of Jared were nine hundred sixty and two years: and he died."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "¶ And Enoch lived sixty and five years, and begat Methuselah:"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "And all the days of Enoch were three hundred sixty and five years:"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "And Enoch walked with God: and he"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "not; for God took him."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "And all the days of Methuselah were nine hundred sixty and nine years: and he died."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "¶ And Lamech lived an hundred eighty and two years, and begat a son:"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "And he called his name Noah, saying, This"
+        },
+        {
+          "add": "same"
+        },
+        {
+          "t": "shall comfort us concerning our work and toil of our hands, because of the ground which the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath cursed."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "And all the days of Lamech were seven hundred seventy and seven years: and he died."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 6
+      },
+      "text": "Enos: Heb. Enosh"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 9
+      },
+      "text": "Cainan: Heb. Kenan"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 12
+      },
+      "text": "Mahalaleel: Gr. Maleleel"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 15
+      },
+      "text": "Jared: Heb. Jered"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 21
+      },
+      "text": "Methuselah: Gr. Mathusala"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 26
+      },
+      "text": "Lamech: Heb. Lemech"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 29
+      },
+      "text": "Noah: Gr. Noe: that is Rest, or, Comfort"
+    }
+  ]
+}

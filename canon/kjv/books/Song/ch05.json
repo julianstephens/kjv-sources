@@ -1,0 +1,402 @@
+{
+  "work": "KJV",
+  "osis": "Song",
+  "abbr": "SNG",
+  "chapter": 5,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "I am come into my garden, my sister,"
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": "spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "¶ I sleep, but my heart waketh:"
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": "the voice of my beloved that knocketh,"
+        },
+        {
+          "add": "saying"
+        },
+        {
+          "t": ", Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "my locks with the drops of the night."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "My beloved put in his hand by the hole"
+        },
+        {
+          "add": "of the door"
+        },
+        {
+          "t": ", and my bowels were moved for him."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "I rose up to open to my beloved; and my hands dropped"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "myrrh, and my fingers"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "sweet smelling myrrh, upon the handles of the lock."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "I opened to my beloved; but my beloved had withdrawn himself,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "sick of love."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "¶ What"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy beloved more than"
+        },
+        {
+          "add": "another"
+        },
+        {
+          "t": "beloved, O thou fairest among women? what"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy beloved more than"
+        },
+        {
+          "add": "another"
+        },
+        {
+          "t": "beloved, that thou dost so charge us?"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "My beloved"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "white and ruddy, the chiefest among ten thousand."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "His head"
+        },
+        {
+          "add": "is as"
+        },
+        {
+          "t": "the most fine gold, his locks"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "bushy,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "black as a raven."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "His eyes"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "as"
+        },
+        {
+          "add": "the eyes"
+        },
+        {
+          "t": "of doves by the rivers of waters, washed with milk,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "fitly set."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "His cheeks"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "as a bed of spices,"
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": "sweet flowers: his lips"
+        },
+        {
+          "add": "like"
+        },
+        {
+          "t": "lilies, dropping sweet smelling myrrh."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "His hands"
+        },
+        {
+          "add": "are as"
+        },
+        {
+          "t": "gold rings set with the beryl: his belly"
+        },
+        {
+          "add": "is as"
+        },
+        {
+          "t": "bright ivory overlaid"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "sapphires."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "His legs"
+        },
+        {
+          "add": "are as"
+        },
+        {
+          "t": "pillars of marble, set upon sockets of fine gold: his countenance"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "as Lebanon, excellent as the cedars."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "His mouth"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "most sweet: yea, he"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "altogether lovely. This"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my beloved, and this"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my friend, O daughters of Jerusalem."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "yea…: or, and be drunken with loves"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "for him: or, (as some read) in me"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "sweet…: Heb. passing, or, running about"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 8
+      },
+      "text": "that ye: Heb. what, etc"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 10
+      },
+      "text": "the chiefest: Heb. a standard-bearer"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 11
+      },
+      "text": "bushy: or, curled"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 12
+      },
+      "text": "fitly…: Heb. sitting in fulness, that is, fitly placed, and set as a precious stone in the foil of a ring"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 13
+      },
+      "text": "sweet flowers: or, towers of perfumes"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 16
+      },
+      "text": "mouth: Heb. palate"
+    }
+  ]
+}

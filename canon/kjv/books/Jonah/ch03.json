@@ -1,0 +1,156 @@
+{
+  "work": "KJV",
+  "osis": "Jonah",
+  "abbr": "JON",
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And the word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "came unto Jonah the second time, saying,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "So Jonah arose, and went unto Nineveh, according to the word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". Now Nineveh was an exceeding great city of three days’ journey."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "¶ So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered"
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": "with sackcloth, and sat in ashes."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "And he caused"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in their hands."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Who can tell"
+        },
+        {
+          "add": "if"
+        },
+        {
+          "t": "God will turn and repent, and turn away from his fierce anger, that we perish not?"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "¶ And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "not."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "exceeding: Heb. of God"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 7
+      },
+      "text": "published: Heb. said"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "nobles: Heb. great men"
+    }
+  ]
+}

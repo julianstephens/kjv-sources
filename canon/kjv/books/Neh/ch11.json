@@ -1,0 +1,589 @@
+{
+  "work": "KJV",
+  "osis": "Neh",
+  "abbr": "NEH",
+  "chapter": 11,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts"
+        },
+        {
+          "add": "to dwell"
+        },
+        {
+          "t": "in"
+        },
+        {
+          "add": "other"
+        },
+        {
+          "t": "cities."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "¶ Now these"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities,"
+        },
+        {
+          "add": "to wit"
+        },
+        {
+          "t": ", Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon’s servants."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And at Jerusalem dwelt"
+        },
+        {
+          "add": "certain"
+        },
+        {
+          "t": "of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "And Maaseiah the son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "All the sons of Perez that dwelt at Jerusalem"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "four hundred threescore and eight valiant men."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "And these"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "And after him Gabbai, Sallai, nine hundred twenty and eight."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "And Joel the son of Zichri"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "their overseer: and Judah the son of Senuah"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "second over the city."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Of the priests: Jedaiah the son of Joiarib, Jachin."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub,"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "the ruler of the house of God."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "And their brethren that did the work of the house"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "Zabdiel, the son of"
+        },
+        {
+          "add": "one of"
+        },
+        {
+          "t": "the great men."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "And Shabbethai and Jozabad, of the chief of the Levites,"
+        },
+        {
+          "add": "had"
+        },
+        {
+          "t": "the oversight of the outward business of the house of God."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph,"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "All the Levites in the holy city"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "two hundred fourscore and four."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates,"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "an hundred seventy and two."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "¶ And the residue of Israel, of the priests,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the Levites,"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "in all the cities of Judah, every one in his inheritance."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "But the Nethinims dwelt in Ophel: and Ziha and Gispa"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "over the Nethinims."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "The overseer also of the Levites at Jerusalem"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "over the business of the house of God."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "For"
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": "the king’s commandment concerning them, that a certain portion should be for the singers, due for every day."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah,"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "at the king’s hand in all matters concerning the people."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And for the villages, with their fields,"
+        },
+        {
+          "add": "some"
+        },
+        {
+          "t": "of the children of Judah dwelt at Kirjath-arba, and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "the villages thereof, and at Dibon, and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "the villages thereof, and at Jekabzeel, and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "the villages thereof,"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "And at Jeshua, and at Moladah, and at Beth-phelet,"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "And at Hazar-shual, and at Beer-sheba, and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "the villages thereof,"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "And at Ziklag, and at Mekonah, and in the villages thereof,"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "And at En-rimmon, and at Zareah, and at Jarmuth,"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "Zanoah, Adullam, and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "their villages, at Lachish, and the fields thereof, at Azekah, and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "the villages thereof. And they dwelt from Beer-sheba unto the valley of Hinnom."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "The children also of Benjamin from Geba"
+        },
+        {
+          "add": "dwelt"
+        },
+        {
+          "t": "at Michmash, and Aija, and Beth-el, and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "their villages,"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "add": "And"
+        },
+        {
+          "t": "at Anathoth, Nob, Ananiah,"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "Hazor, Ramah, Gittaim,"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "Hadid, Zeboim, Neballat,"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "Lod, and Ono, the valley of craftsmen."
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "And of the Levites"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "divisions"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "Judah,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "in Benjamin."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "Perez: also called, Pharez"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 14
+      },
+      "text": "the son…: or, the son of Haggedolim"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 16
+      },
+      "text": "had…: Heb. were over"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 19
+      },
+      "text": "the gates: Heb. at the gates"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 21
+      },
+      "text": "Ophel: or, the tower"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 23
+      },
+      "text": "a certain…: or, a sure ordinance"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 24
+      },
+      "text": "Zerah: also called, Zarah"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 31
+      },
+      "text": "from: or, of"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 31
+      },
+      "text": "at: or, to"
+    }
+  ]
+}

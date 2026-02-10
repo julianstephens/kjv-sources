@@ -1,0 +1,258 @@
+{
+  "work": "KJV",
+  "osis": "Isa",
+  "abbr": "ISA",
+  "chapter": 25,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", thou"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "my God; I will exalt thee, I will praise thy name; for thou hast done wonderful"
+        },
+        {
+          "add": "things; thy"
+        },
+        {
+          "t": "counsels of old"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "faithfulness"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "truth."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "For thou hast made of a city an heap;"
+        },
+        {
+          "add": "of"
+        },
+        {
+          "t": "a defenced city a ruin: a palace of strangers to be no city; it shall never be built."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Therefore shall the strong people glorify thee, the city of the terrible nations shall fear thee."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "For thou hast been a strength to the poor, a strength to the needy in his distress, a refuge from the storm, a shadow from the heat, when the blast of the terrible ones"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "as a storm"
+        },
+        {
+          "add": "against"
+        },
+        {
+          "t": "the wall."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Thou shalt bring down the noise of strangers, as the heat in a dry place;"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "the heat with the shadow of a cloud: the branch of the terrible ones shall be brought low."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "¶ And in this mountain shall the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "He will swallow up death in victory; and the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath spoken"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "¶ And it shall be said in that day, Lo, this"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "our God; we have waited for him, and he will save us: this"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; we have waited for him, we will be glad and rejoice in his salvation."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "For in this mountain shall the hand of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And he shall spread forth his hands in the midst of them, as he that swimmeth spreadeth forth"
+        },
+        {
+          "add": "his hands"
+        },
+        {
+          "t": "to swim: and he shall bring down their pride together with the spoils of their hands."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "And the fortress of the high fort of thy walls shall he bring down, lay low,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "bring to the ground,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "to the dust."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 7
+      },
+      "text": "destroy: Heb. swallow up"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 7
+      },
+      "text": "cast: Heb. covered"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 10
+      },
+      "text": "trodden down under: or, threshed, etc"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 10
+      },
+      "text": "trodden down for…: or, threshed in Madmenah"
+    }
+  ]
+}

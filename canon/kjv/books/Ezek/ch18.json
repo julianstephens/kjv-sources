@@ -1,0 +1,511 @@
+{
+  "work": "KJV",
+  "osis": "Ezek",
+  "abbr": "EZK",
+  "chapter": 18,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "The word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "came unto me again, saying,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children’s teeth are set on edge?"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "add": "As"
+        },
+        {
+          "t": "I live, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ", ye shall not have"
+        },
+        {
+          "add": "occasion"
+        },
+        {
+          "t": "any more to use this proverb in Israel."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "¶ But if a man be just, and do that which is lawful and right,"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "add": "And"
+        },
+        {
+          "t": "hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, neither hath come near to a menstruous woman,"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "And hath not oppressed any,"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "hath restored to the debtor his pledge, hath spoiled none by violence, hath given his bread to the hungry, and hath covered the naked with a garment;"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "He"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "hath not given forth upon usury, neither hath taken any increase,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "hath withdrawn his hand from iniquity, hath executed true judgment between man and man,"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Hath walked in my statutes, and hath kept my judgments, to deal truly; he"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "just, he shall surely live, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "¶ If he beget a son"
+        },
+        {
+          "add": "that is"
+        },
+        {
+          "t": "a robber, a shedder of blood, and"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "doeth the like to"
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": "one of these"
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": ","
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And that doeth not any of those"
+        },
+        {
+          "add": "duties"
+        },
+        {
+          "t": ", but even hath eaten upon the mountains, and defiled his neighbour’s wife,"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination,"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Hath given forth upon usury, and hath taken increase: shall he then live? he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "¶ Now, lo,"
+        },
+        {
+          "add": "if"
+        },
+        {
+          "t": "he beget a son, that seeth all his father’s sins which he hath done, and considereth, and doeth not such like,"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "add": "That"
+        },
+        {
+          "t": "hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, hath not defiled his neighbour’s wife,"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence,"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "hath given his bread to the hungry, and hath covered the naked with a garment,"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "add": "That"
+        },
+        {
+          "t": "hath taken off his hand from the poor,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "add": "As for"
+        },
+        {
+          "t": "his father, because he cruelly oppressed, spoiled his brother by violence, and did"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "not good among his people, lo, even he shall die in his iniquity."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "¶ Yet say ye, Why? doth not the son bear the iniquity of the father? When the son hath done that which is lawful and right,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "hath kept all my statutes, and hath done them, he shall surely live."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "But if the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "All his transgressions that he hath committed, they shall not be mentioned unto him: in his righteousness that he hath done he shall live."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Have I any pleasure at all that the wicked should die? saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ":"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "not that he should return from his ways, and live?"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "¶ But when the righteous turneth away from his righteousness, and committeth iniquity,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "doeth according to all the abominations that the wicked"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "doeth, shall he live? All his righteousness that he hath done shall not be mentioned: in his trespass that he hath trespassed, and in his sin that he hath sinned, in them shall he die."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "¶ Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "When a righteous"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "turneth away from his righteousness, and committeth iniquity, and dieth in them; for his iniquity that he hath done shall he die."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "Again, when the wicked"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "turneth away from his wickedness that he hath committed, and doeth that which is lawful and right, he shall save his soul alive."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "Yet saith the house of Israel, The way of the Lord is not equal. O house of Israel, are not my ways equal? are not your ways unequal?"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ". Repent, and turn"
+        },
+        {
+          "add": "yourselves"
+        },
+        {
+          "t": "from all your transgressions; so iniquity shall not be your ruin."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "¶ Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "For I have no pleasure in the death of him that dieth, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ": wherefore turn"
+        },
+        {
+          "add": "yourselves"
+        },
+        {
+          "t": ", and live ye."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "that…: Heb. judgment and justice"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 10
+      },
+      "text": "robber: or, breaker up of an house"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 10
+      },
+      "text": "that doeth…: or, that doeth to his brother besides any of these"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 13
+      },
+      "text": "blood: Heb. bloods"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 16
+      },
+      "text": "hath not…: Heb. hath not pledged the pledge, or, taken to pledge"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 30
+      },
+      "text": "yourselves: or, others"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 32
+      },
+      "text": "yourselves: or, others"
+    }
+  ]
+}

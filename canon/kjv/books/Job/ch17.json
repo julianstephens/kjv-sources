@@ -1,0 +1,307 @@
+{
+  "work": "KJV",
+  "osis": "Job",
+  "abbr": "JOB",
+  "chapter": 17,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "My breath is corrupt, my days are extinct, the graves"
+        },
+        {
+          "add": "are ready"
+        },
+        {
+          "t": "for me."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "add": "Are there"
+        },
+        {
+          "t": "not mockers with me? and doth not mine eye continue in their provocation?"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Lay down now, put me in a surety with thee; who"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "he"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "will strike hands with me?"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "For thou hast hid their heart from understanding: therefore shalt thou not exalt"
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "He that speaketh flattery to"
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": "friends, even the eyes of his children shall fail."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "He hath made me also a byword of the people; and aforetime I was as a tabret."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Mine eye also is dim by reason of sorrow, and all my members"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "as a shadow."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Upright"
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": "shall be astonied at this, and the innocent shall stir up himself against the hypocrite."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "But as for you all, do ye return, and come now: for I cannot find"
+        },
+        {
+          "add": "one"
+        },
+        {
+          "t": "wise"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "among you."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "My days are past, my purposes are broken off,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "the thoughts of my heart."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "They change the night into day: the light"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "short because of darkness."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "If I wait, the grave"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "mine house: I have made my bed in the darkness."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "I have said to corruption, Thou"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "my father: to the worm,"
+        },
+        {
+          "add": "Thou art"
+        },
+        {
+          "t": "my mother, and my sister."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "And where"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "now my hope? as for my hope, who shall see it?"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "They shall go down to the bars of the pit, when"
+        },
+        {
+          "add": "our"
+        },
+        {
+          "t": "rest together"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in the dust."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "breath…: or, spirit is spent"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "continue: Heb. lodge"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "aforetime: or, before them"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "my members: or, my thoughts"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "be…: Heb. add strength"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 11
+      },
+      "text": "the thoughts: Heb. the possessions"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 12
+      },
+      "text": "short: Heb. near"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 14
+      },
+      "text": "said: Heb. cried, or, called"
+    }
+  ]
+}

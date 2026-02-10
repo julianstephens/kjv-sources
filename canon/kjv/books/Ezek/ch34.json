@@ -1,0 +1,566 @@
+{
+  "work": "KJV",
+  "osis": "Ezek",
+  "abbr": "EZK",
+  "chapter": 34,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And the word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "came unto me, saying,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "unto the shepherds; Woe"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed:"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "ye feed not the flock."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up"
+        },
+        {
+          "add": "that which was"
+        },
+        {
+          "t": "broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "And they were scattered, because"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "no shepherd: and they became meat to all the beasts of the field, when they were scattered."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek"
+        },
+        {
+          "add": "after them"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "¶ Therefore, ye shepherds, hear the word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ";"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "add": "As"
+        },
+        {
+          "t": "I live, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ", surely because my flock became a prey, and my flock became meat to every beast of the field, because"
+        },
+        {
+          "add": "there was"
+        },
+        {
+          "t": "no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Therefore, O ye shepherds, hear the word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ";"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Thus saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "; Behold, I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "against the shepherds; and I will require my flock at their hand, and cause them to cease from feeding the flock; neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "¶ For thus saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "; Behold, I,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "I, will both search my sheep, and seek them out."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "As a shepherd seeketh out his flock in the day that he is among his sheep"
+        },
+        {
+          "add": "that are"
+        },
+        {
+          "t": "scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "a fat pasture shall they feed upon the mountains of Israel."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "I will feed my flock, and I will cause them to lie down, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "I will seek that which was lost, and bring again that which was driven away, and will bind up"
+        },
+        {
+          "add": "that which was"
+        },
+        {
+          "t": "broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "And"
+        },
+        {
+          "add": "as for"
+        },
+        {
+          "t": "you, O my flock, thus saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "; Behold, I judge between cattle and cattle, between the rams and the he goats."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "add": "Seemeth it"
+        },
+        {
+          "t": "a small thing unto you to have eaten up the good pasture, but ye must tread down with your feet the residue of your pastures? and to have drunk of the deep waters, but ye must foul the residue with your feet?"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "And"
+        },
+        {
+          "add": "as for"
+        },
+        {
+          "t": "my flock, they eat that which ye have trodden with your feet; and they drink that which ye have fouled with your feet."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "¶ Therefore thus saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "unto them; Behold, I,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "I, will judge between the fat cattle and between the lean cattle."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "Because ye have thrust with side and with shoulder, and pushed all the diseased with your horns, till ye have scattered them abroad;"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "Therefore will I save my flock, and they shall no more be a prey; and I will judge between cattle and cattle."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "And I will set up one shepherd over them, and he shall feed them,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "my servant David; he shall feed them, and he shall be their shepherd."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "And I the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "will be their God, and my servant David a prince among them; I the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "have spoken"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And I will make with them a covenant of peace, and will cause the evil beasts to cease out of the land: and they shall dwell safely in the wilderness, and sleep in the woods."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "And I will make them and the places round about my hill a blessing; and I will cause the shower to come down in his season; there shall be showers of blessing."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "And the tree of the field shall yield her fruit, and the earth shall yield her increase, and they shall be safe in their land, and shall know that I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", when I have broken the bands of their yoke, and delivered them out of the hand of those that served themselves of them."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "And they shall no more be a prey to the heathen, neither shall the beast of the land devour them; but they shall dwell safely, and none shall make"
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": "afraid."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "And I will raise up for them a plant of renown, and they shall be no more consumed with hunger in the land, neither bear the shame of the heathen any more."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "Thus shall they know that I the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "their God"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "with them, and"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "they,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "the house of Israel,"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "my people, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "And ye my flock, the flock of my pasture,"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "men,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "your God, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "because…: or, without a shepherd"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 8
+      },
+      "text": "because…: or, without a shepherd"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 12
+      },
+      "text": "As…: Heb. According to the seeking"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 17
+      },
+      "text": "cattle: Heb. small cattle of lambs and kids"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 17
+      },
+      "text": "he goats: Heb. great he goats"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 29
+      },
+      "text": "of renown: or, for renown"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 29
+      },
+      "text": "consumed: Heb. taken away"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "work": "KJV",
+  "osis": "Prov",
+  "abbr": "PRO",
+  "chapter": 12,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Whoso loveth instruction loveth knowledge: but he that hateth reproof"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "brutish."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "A good"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "obtaineth favour of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": but a man of wicked devices will he condemn."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "A man shall not be established by wickedness: but the root of the righteous shall not be moved."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "A virtuous woman"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a crown to her husband: but she that maketh ashamed"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "as rottenness in his bones."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "The thoughts of the righteous"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "right:"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "the counsels of the wicked"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "deceit."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "The words of the wicked"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "to lie in wait for blood: but the mouth of the upright shall deliver them."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The wicked are overthrown, and"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "not: but the house of the righteous shall stand."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "add": "He that is"
+        },
+        {
+          "t": "despised, and hath a servant,"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "better than he that honoureth himself, and lacketh bread."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "A righteous"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "regardeth the life of his beast: but the tender mercies of the wicked"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "cruel."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "He that tilleth his land shall be satisfied with bread: but he that followeth vain"
+        },
+        {
+          "add": "persons is"
+        },
+        {
+          "t": "void of understanding."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "The wicked desireth the net of evil"
+        },
+        {
+          "add": "men:"
+        },
+        {
+          "t": "but the root of the righteous yieldeth"
+        },
+        {
+          "add": "fruit"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "The wicked is snared by the transgression of"
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": "lips: but the just shall come out of trouble."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "A man shall be satisfied with good by the fruit of"
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": "mouth: and the recompence of a man’s hands shall be rendered unto him."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "The way of a fool"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "right in his own eyes: but he that hearkeneth unto counsel"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "wise."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "A fool’s wrath is presently known: but a prudent"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "covereth shame."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "add": "He that"
+        },
+        {
+          "t": "speaketh truth sheweth forth righteousness: but a false witness deceit."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "There is that speaketh like the piercings of a sword: but the tongue of the wise"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "health."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "The lip of truth shall be established for ever: but a lying tongue"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "but for a moment."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "Deceit"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in the heart of them that imagine evil: but to the counsellors of peace"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "joy."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "There shall no evil happen to the just: but the wicked shall be filled with mischief."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "Lying lips"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "abomination to the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": but they that deal truly"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "his delight."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "The hand of the diligent shall bear rule: but the slothful shall be under tribute."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "The righteous"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "more excellent than his neighbour: but the way of the wicked seduceth them."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "The slothful"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "roasteth not that which he took in hunting: but the substance of a diligent man"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "precious."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "In the way of righteousness"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "life; and"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "the pathway"
+        },
+        {
+          "add": "thereof there is"
+        },
+        {
+          "t": "no death."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 8
+      },
+      "text": "of a…: Heb. perverse of heart"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 10
+      },
+      "text": "tender…: or, bowels"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 12
+      },
+      "text": "the net: or, the fortress"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 13
+      },
+      "text": "The wicked…: Heb. The snare of the wicked is in the transgression of lips"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 16
+      },
+      "text": "presently: Heb. in that day"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 24
+      },
+      "text": "slothful: or, deceitful"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 26
+      },
+      "text": "excellent: or, abundant"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "work": "KJV",
+  "osis": "Hos",
+  "abbr": "HOS",
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Then said the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "unto me, Go yet, love a woman beloved of"
+        },
+        {
+          "add": "her"
+        },
+        {
+          "t": "friend, yet an adulteress, according to the love of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "toward the children of Israel, who look to other gods, and love flagons of wine."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "So I bought her to me for fifteen"
+        },
+        {
+          "add": "pieces"
+        },
+        {
+          "t": "of silver, and"
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": "an homer of barley, and an half homer of barley:"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for"
+        },
+        {
+          "add": "another"
+        },
+        {
+          "t": "man: so"
+        },
+        {
+          "add": "will"
+        },
+        {
+          "t": "I also"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "for thee."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and"
+        },
+        {
+          "add": "without"
+        },
+        {
+          "t": "teraphim:"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Afterward shall the children of Israel return, and seek the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "their God, and David their king; and shall fear the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "and his goodness in the latter days."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "of wine: Heb. of grapes"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "half…: Heb. lethech"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "image: Heb. a standing, or, statue, or, pillar"
+    }
+  ]
+}

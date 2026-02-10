@@ -1,0 +1,632 @@
+{
+  "work": "KJV",
+  "osis": "Job",
+  "abbr": "JOB",
+  "chapter": 31,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "I made a covenant with mine eyes; why then should I think upon a maid?"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "For what portion of God"
+        },
+        {
+          "add": "is there"
+        },
+        {
+          "t": "from above? and"
+        },
+        {
+          "add": "what"
+        },
+        {
+          "t": "inheritance of the Almighty from on high?"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "add": "Is"
+        },
+        {
+          "t": "not destruction to the wicked? and a strange"
+        },
+        {
+          "add": "punishment"
+        },
+        {
+          "t": "to the workers of iniquity?"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Doth not he see my ways, and count all my steps?"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "If I have walked with vanity, or if my foot hath hasted to deceit;"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Let me be weighed in an even balance, that God may know mine integrity."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "add": "Then"
+        },
+        {
+          "t": "let me sow, and let another eat; yea, let my offspring be rooted out."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "If mine heart have been deceived by a woman, or"
+        },
+        {
+          "add": "if"
+        },
+        {
+          "t": "I have laid wait at my neighbour’s door;"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "add": "Then"
+        },
+        {
+          "t": "let my wife grind unto another, and let others bow down upon her."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "For this"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "an heinous crime; yea, it"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "an iniquity"
+        },
+        {
+          "add": "to be punished by"
+        },
+        {
+          "t": "the judges."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "For it"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a fire"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "consumeth to destruction, and would root out all mine increase."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "If I did despise the cause of my manservant or of my maidservant, when they contended with me;"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "What then shall I do when God riseth up? and when he visiteth, what shall I answer him?"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Did not he that made me in the womb make him? and did not one fashion us in the womb?"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "If I have withheld the poor from"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "desire, or have caused the eyes of the widow to fail;"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "(For from my youth he was brought up with me, as"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "a father, and I have guided her from my mother’s womb;)"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "If I have seen any perish for want of clothing, or any poor without covering;"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "If his loins have not blessed me, and"
+        },
+        {
+          "add": "if"
+        },
+        {
+          "t": "he were"
+        },
+        {
+          "add": "not"
+        },
+        {
+          "t": "warmed with the fleece of my sheep;"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "If I have lifted up my hand against the fatherless, when I saw my help in the gate:"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "add": "Then"
+        },
+        {
+          "t": "let mine arm fall from my shoulder blade, and mine arm be broken from the bone."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "For destruction"
+        },
+        {
+          "add": "from"
+        },
+        {
+          "t": "God"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "a terror to me, and by reason of his highness I could not endure."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "If I have made gold my hope, or have said to the fine gold,"
+        },
+        {
+          "add": "Thou art"
+        },
+        {
+          "t": "my confidence;"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "If I rejoiced because my wealth"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "great, and because mine hand had gotten much;"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "If I beheld the sun when it shined, or the moon walking"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "brightness;"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "And my heart hath been secretly enticed, or my mouth hath kissed my hand:"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "This also"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "an iniquity"
+        },
+        {
+          "add": "to be punished by"
+        },
+        {
+          "t": "the judge: for I should have denied the God"
+        },
+        {
+          "add": "that is"
+        },
+        {
+          "t": "above."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "Neither have I suffered my mouth to sin by wishing a curse to his soul."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "The stranger did not lodge in the street:"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "I opened my doors to the traveller."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "went not out of the door?"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "Oh that one would hear me! behold, my desire"
+        },
+        {
+          "add": "is, that"
+        },
+        {
+          "t": "the Almighty would answer me, and"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "mine adversary had written a book."
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "Surely I would take it upon my shoulder,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "bind it"
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": "a crown to me."
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "tokens": [
+        {
+          "t": "I would declare unto him the number of my steps; as a prince would I go near unto him."
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "tokens": [
+        {
+          "t": "If my land cry against me, or that the furrows likewise thereof complain;"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "tokens": [
+        {
+          "t": "If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "tokens": [
+        {
+          "t": "Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 6
+      },
+      "text": "Let…: Heb. Let him weigh me in balances of justice"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 15
+      },
+      "text": "did not one…: or, did he not fashion us in one womb?"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 18
+      },
+      "text": "her: that is, the widow"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 22
+      },
+      "text": "bone: or, chanelbone"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 25
+      },
+      "text": "gotten…: Heb. found much"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 26
+      },
+      "text": "sun: Heb. light"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 26
+      },
+      "text": "in…: Heb. bright"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 27
+      },
+      "text": "my mouth…: Heb. my hand hath kissed my mouth"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 30
+      },
+      "text": "mouth: Heb. palate"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 32
+      },
+      "text": "traveller: or, way"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 33
+      },
+      "text": "as Adam: or, after the manner of men"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 35
+      },
+      "text": "my…: or, my sign is that the Almighty will"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 38
+      },
+      "text": "complain: Heb. weep"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 39
+      },
+      "text": "fruits: Heb. strength"
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 39
+      },
+      "text": "the owners…: Heb. the soul of the owners thereof to expire, or, breathe out"
+    },
+    {
+      "id": "FN16",
+      "mark": "§",
+      "at": {
+        "v": 40
+      },
+      "text": "cockle: or, noisome weeds"
+    }
+  ]
+}

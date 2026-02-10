@@ -1,0 +1,582 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 105,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "O give thanks unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; call upon his name: make known his deeds among the people."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Glory ye in his holy name: let the heart of them rejoice that seek the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Seek the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and his strength: seek his face evermore."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "O ye seed of Abraham his servant, ye children of Jacob his chosen."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "He"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "our God: his judgments"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "in all the earth."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "He hath remembered his covenant for ever, the word"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "he commanded to a thousand generations."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Which"
+        },
+        {
+          "add": "covenant"
+        },
+        {
+          "t": "he made with Abraham, and his oath unto Isaac;"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And confirmed the same unto Jacob for a law,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "to Israel"
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": "an everlasting covenant:"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "When they were"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "a few men in number; yea, very few, and strangers in it."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "When they went from one nation to another, from"
+        },
+        {
+          "add": "one"
+        },
+        {
+          "t": "kingdom to another people;"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "add": "Saying"
+        },
+        {
+          "t": ", Touch not mine anointed, and do my prophets no harm."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Moreover he called for a famine upon the land: he brake the whole staff of bread."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "He sent a man before them,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "Joseph,"
+        },
+        {
+          "add": "who"
+        },
+        {
+          "t": "was sold for a servant:"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "Whose feet they hurt with fetters: he was laid in iron:"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Until the time that his word came: the word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "tried him."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "The king sent and loosed him;"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "the ruler of the people, and let him go free."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "He made him lord of his house, and ruler of all his substance:"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "To bind his princes at his pleasure; and teach his senators wisdom."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Israel also came into Egypt; and Jacob sojourned in the land of Ham."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "And he increased his people greatly; and made them stronger than their enemies."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "He turned their heart to hate his people, to deal subtilly with his servants."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "He sent Moses his servant;"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "Aaron whom he had chosen."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "They shewed his signs among them, and wonders in the land of Ham."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "He sent darkness, and made it dark; and they rebelled not against his word."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "He turned their waters into blood, and slew their fish."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "Their land brought forth frogs in abundance, in the chambers of their kings."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "He spake, and there came divers sorts of flies,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "lice in all their coasts."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "He gave them hail for rain,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "flaming fire in their land."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "He smote their vines also and their fig trees; and brake the trees of their coasts."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "He spake, and the locusts came, and caterpillers, and that without number,"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "And did eat up all the herbs in their land, and devoured the fruit of their ground."
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "He smote also all the firstborn in their land, the chief of all their strength."
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "tokens": [
+        {
+          "t": "He brought them forth also with silver and gold: and"
+        },
+        {
+          "add": "there was"
+        },
+        {
+          "t": "not one feeble"
+        },
+        {
+          "add": "person"
+        },
+        {
+          "t": "among their tribes."
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "tokens": [
+        {
+          "t": "Egypt was glad when they departed: for the fear of them fell upon them."
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "tokens": [
+        {
+          "t": "He spread a cloud for a covering; and fire to give light in the night."
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "tokens": [
+        {
+          "add": "The people"
+        },
+        {
+          "t": "asked, and he brought quails, and satisfied them with the bread of heaven."
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "tokens": [
+        {
+          "t": "He opened the rock, and the waters gushed out; they ran in the dry places"
+        },
+        {
+          "add": "like"
+        },
+        {
+          "t": "a river."
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "tokens": [
+        {
+          "t": "For he remembered his holy promise,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "Abraham his servant."
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "tokens": [
+        {
+          "t": "And he brought forth his people with joy,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "his chosen with gladness:"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "tokens": [
+        {
+          "t": "And gave them the lands of the heathen: and they inherited the labour of the people;"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "tokens": [
+        {
+          "t": "That they might observe his statutes, and keep his laws. Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 11
+      },
+      "text": "lot: Heb. cord"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 18
+      },
+      "text": "he…: Heb. his soul came into iron"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 21
+      },
+      "text": "substance: Heb. possession"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 27
+      },
+      "text": "his…: Heb. words of his signs"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 32
+      },
+      "text": "them…: Heb. their rain hail"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 43
+      },
+      "text": "gladness: Heb. singing"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 45
+      },
+      "text": "Praise…: Heb. Hallelujah"
+    }
+  ]
+}

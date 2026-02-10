@@ -1,0 +1,128 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 101,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "I will sing of mercy and judgment: unto thee, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", will I sing."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside;"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "shall not cleave to me."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "A froward heart shall depart from me: I will not know a wicked"
+        },
+        {
+          "add": "person"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Mine eyes"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "wicked…: Heb. thing of Belial"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "in a…: or, perfect in the way"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "shall not tarry: Heb. shall not be established"
+    }
+  ]
+}

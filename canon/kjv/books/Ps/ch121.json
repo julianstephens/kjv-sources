@@ -1,0 +1,124 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 121,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "I will lift up mine eyes unto the hills, from whence cometh my help."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "My help"
+        },
+        {
+          "add": "cometh"
+        },
+        {
+          "t": "from the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", which made heaven and earth."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Behold, he that keepeth Israel shall neither slumber nor sleep."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy keeper: the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy shade upon thy right hand."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "The sun shall not smite thee by day, nor the moon by night."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "shall preserve thee from all evil: he shall preserve thy soul."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "shall preserve thy going out and thy coming in from this time forth, and even for evermore."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "I will…: or, Shall I lift up mine eyes to the hills? whence should my help come?"
+    }
+  ]
+}

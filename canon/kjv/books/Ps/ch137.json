@@ -1,0 +1,206 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 137,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "We hanged our harps upon the willows in the midst thereof."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "For there they that carried us away captive required of us a song; and they that wasted us"
+        },
+        {
+          "add": "required of us"
+        },
+        {
+          "t": "mirth,"
+        },
+        {
+          "add": "saying"
+        },
+        {
+          "t": ", Sing us"
+        },
+        {
+          "add": "one"
+        },
+        {
+          "t": "of the songs of Zion."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "How shall we sing the"
+        },
+        {
+          "nd": "LORD’s"
+        },
+        {
+          "t": "song in a strange land?"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "If I forget thee, O Jerusalem, let my right hand forget"
+        },
+        {
+          "add": "her cunning"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Remember, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", the children of Edom in the day of Jerusalem; who said, Rase"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", rase"
+        },
+        {
+          "add": "it, even"
+        },
+        {
+          "t": "to the foundation thereof."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "O daughter of Babylon, who art to be destroyed; happy"
+        },
+        {
+          "add": "shall he be"
+        },
+        {
+          "t": ", that rewardeth thee as thou hast served us."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Happy"
+        },
+        {
+          "add": "shall he be"
+        },
+        {
+          "t": ", that taketh and dasheth thy little ones against the stones."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "a song: Heb. the words of a song"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "wasted…: Heb. laid us on heaps"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "strange…: Heb. land of a stranger?"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "my chief…: Heb. the head of my joy"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 7
+      },
+      "text": "Rase it: Heb. Make bare"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 8
+      },
+      "text": "destroyed: Heb. wasted"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 8
+      },
+      "text": "rewardeth…: Heb. recompenseth unto thee thy deed which thou didst to us"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 9
+      },
+      "text": "the stones: Heb. the rock"
+    }
+  ]
+}

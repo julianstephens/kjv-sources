@@ -1,0 +1,576 @@
+{
+  "work": "KJV",
+  "osis": "1 Chr",
+  "abbr": "1CH",
+  "chapter": 23,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "So when David was old and full of days, he made Solomon his son king over Israel."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "¶ And he gathered together all the princes of Israel, with the priests and the Levites."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Of which, twenty and four thousand"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "to set forward the work of the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; and six thousand"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "officers and judges:"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Moreover four thousand"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "porters; and four thousand praised the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "with the instruments which I made,"
+        },
+        {
+          "add": "said David"
+        },
+        {
+          "t": ", to praise"
+        },
+        {
+          "add": "therewith"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "And David divided them into courses among the sons of Levi,"
+        },
+        {
+          "add": "namely"
+        },
+        {
+          "t": ", Gershon, Kohath, and Merari."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "¶ Of the Gershonites"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": ", Laadan, and Shimei."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The sons of Laadan; the chief"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "Jehiel, and Zetham, and Joel, three."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "The sons of Shimei; Shelomith, and Haziel, and Haran, three. These"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "the chief of the fathers of Laadan."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And the sons of Shimei"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": ", Jahath, Zina, and Jeush, and Beriah. These four"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "the sons of Shimei."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "father’s house."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "¶ The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", to minister unto him, and to bless in his name for ever."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Now"
+        },
+        {
+          "add": "concerning"
+        },
+        {
+          "t": "Moses the man of God, his sons were named of the tribe of Levi."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "The sons of Moses"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": ", Gershom, and Eliezer."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Of the sons of Gershom, Shebuel"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "the chief."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "And the sons of Eliezer"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": ", Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "Of the sons of Izhar; Shelomith the chief."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "Of the sons of Uzziel; Michah the first, and Jesiah the second."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "¶ The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "The sons of Mushi; Mahli, and Eder, and Jeremoth, three."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "¶ These"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "the sons of Levi after the house of their fathers;"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", from the age of twenty years and upward."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "For David said, The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "And also unto the Levites; they shall no"
+        },
+        {
+          "add": "more"
+        },
+        {
+          "t": "carry the tabernacle, nor any vessels of it for the service thereof."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "For by the last words of David the Levites"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "numbered from twenty years old and above:"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "Because their office"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "to wait on the sons of Aaron for the service of the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for"
+        },
+        {
+          "add": "that which is baked in"
+        },
+        {
+          "t": "the pan, and for that which is fried, and for all manner of measure and size;"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "And to stand every morning to thank and praise the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and likewise at even;"
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "And to offer all burnt sacrifices unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ":"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy"
+        },
+        {
+          "add": "place"
+        },
+        {
+          "t": ", and the charge of the sons of Aaron their brethren, in the service of the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "set…: or, oversee"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "courses: Heb. divisions"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "Laadan: or, Libni"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 10
+      },
+      "text": "Zina: or, Zizah"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 11
+      },
+      "text": "had…: Heb. did not multiply sons"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 16
+      },
+      "text": "Shebuel: also called, Shubael"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 17
+      },
+      "text": "the chief: or, the first"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 17
+      },
+      "text": "very many: Heb. highly multiplied"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 18
+      },
+      "text": "Shelomith: also called, Shelomoth"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 22
+      },
+      "text": "brethren: or, kinsmen"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 25
+      },
+      "text": "that…: or, and he dwelleth in Jerusalem, etc"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 27
+      },
+      "text": "numbered: Heb. number"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 28
+      },
+      "text": "their…: Heb. their station was at the hand of the sons of Aaron"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 29
+      },
+      "text": "pan: or, flat plate"
+    }
+  ]
+}

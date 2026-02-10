@@ -1,0 +1,126 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 126,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "When the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "turned again the captivity of Zion, we were like them that dream."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath done great things for them."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath done great things for us;"
+        },
+        {
+          "add": "whereof"
+        },
+        {
+          "t": "we are glad."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Turn again our captivity, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", as the streams in the south."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "They that sow in tears shall reap in joy."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves"
+        },
+        {
+          "add": "with him"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "turned…: Heb. returned the returning"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "hath…: Heb. hath magnified to do with them"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "joy: or, singing"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "precious…: or, seed basket"
+    }
+  ]
+}

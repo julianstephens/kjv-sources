@@ -1,0 +1,618 @@
+{
+  "work": "KJV",
+  "osis": "Job",
+  "abbr": "JOB",
+  "chapter": 38,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Then the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "answered Job out of the whirlwind, and said,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Who"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "this that darkeneth counsel by words without knowledge?"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Gird up now thy loins like a man; for I will demand of thee, and answer thou me."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "When the morning stars sang together, and all the sons of God shouted for joy?"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Or"
+        },
+        {
+          "add": "who"
+        },
+        {
+          "t": "shut up the sea with doors, when it brake forth,"
+        },
+        {
+          "add": "as if"
+        },
+        {
+          "t": "it had issued out of the womb?"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And brake up for it my decreed"
+        },
+        {
+          "add": "place"
+        },
+        {
+          "t": ", and set bars and doors,"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Hast thou commanded the morning since thy days;"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "caused the dayspring to know his place;"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "That it might take hold of the ends of the earth, that the wicked might be shaken out of it?"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "It is turned as clay"
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": "the seal; and they stand as a garment."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "And from the wicked their light is withholden, and the high arm shall be broken."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "Hast thou perceived the breadth of the earth? declare if thou knowest it all."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Where"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the way"
+        },
+        {
+          "add": "where"
+        },
+        {
+          "t": "light dwelleth? and"
+        },
+        {
+          "add": "as for"
+        },
+        {
+          "t": "darkness, where"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the place thereof,"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths"
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": "the house thereof?"
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "Knowest thou"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", because thou wast then born? or"
+        },
+        {
+          "add": "because"
+        },
+        {
+          "t": "the number of thy days"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "great?"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Which I have reserved against the time of trouble, against the day of battle and war?"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "By what way is the light parted,"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "scattereth the east wind upon the earth?"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;"
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "To cause it to rain on the earth,"
+        },
+        {
+          "add": "where"
+        },
+        {
+          "t": "no man"
+        },
+        {
+          "add": "is; on"
+        },
+        {
+          "t": "the wilderness, wherein"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "no man;"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "To satisfy the desolate and waste"
+        },
+        {
+          "add": "ground;"
+        },
+        {
+          "t": "and to cause the bud of the tender herb to spring forth?"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "Hath the rain a father? or who hath begotten the drops of dew?"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?"
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "The waters are hid as"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "a stone, and the face of the deep is frozen."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?"
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?"
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?"
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "Canst thou send lightnings, that they may go, and say unto thee, Here we"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "?"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?"
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "tokens": [
+        {
+          "t": "Who can number the clouds in wisdom? or who can stay the bottles of heaven,"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "tokens": [
+        {
+          "t": "When the dust groweth into hardness, and the clods cleave fast together?"
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "tokens": [
+        {
+          "t": "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,"
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "tokens": [
+        {
+          "t": "When they couch in"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "dens,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "abide in the covert to lie in wait?"
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "tokens": [
+        {
+          "t": "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "answer…: Heb. make me know"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "hast…: Heb. knowest understanding"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "foundations: Heb. sockets"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "fastened: Heb. made to sink?"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 10
+      },
+      "text": "brake…: or, established my decree upon it"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 11
+      },
+      "text": "thy…: Heb. the pride of thy waves"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 13
+      },
+      "text": "ends: Heb. wings"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 20
+      },
+      "text": "to the bound: or, at, etc"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 30
+      },
+      "text": "is…: Heb. is taken"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 31
+      },
+      "text": "Pleiades: or, the seven stars: Heb. Cimah"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 31
+      },
+      "text": "Orion: Heb. Cesil?"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 32
+      },
+      "text": "Mazzaroth: or, the twelve signs"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 32
+      },
+      "text": "guide: Heb. guide them"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 35
+      },
+      "text": "Here…: Heb. Behold us?"
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 37
+      },
+      "text": "stay: Heb. cause to lie down"
+    },
+    {
+      "id": "FN16",
+      "mark": "§",
+      "at": {
+        "v": 38
+      },
+      "text": "groweth…: or, is turned into mire: Heb. is poured"
+    },
+    {
+      "id": "FN17",
+      "mark": "**",
+      "at": {
+        "v": 39
+      },
+      "text": "the appetite: Heb. the life"
+    }
+  ]
+}

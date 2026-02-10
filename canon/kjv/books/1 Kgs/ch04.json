@@ -1,0 +1,580 @@
+{
+  "work": "KJV",
+  "osis": "1 Kgs",
+  "abbr": "1KI",
+  "chapter": 4,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "So king Solomon was king over all Israel."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And these"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "the princes which he had; Azariah the son of Zadok the priest,"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And Benaiah the son of Jehoiada"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "over the host: and Zadok and Abiathar"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "the priests:"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "And Azariah the son of Nathan"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "over the officers: and Zabud the son of Nathan"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "principal officer,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the king’s friend:"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "And Ahishar"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "over the household: and Adoniram the son of Abda"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "over the tribute."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "¶ And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "And these"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "their names: The son of Hur, in mount Ephraim:"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "The son of Dekar, in Makaz, and in Shaalbim, and Beth-shemesh, and Elon-beth-hanan:"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "The son of Hesed, in Aruboth; to him"
+        },
+        {
+          "add": "pertained"
+        },
+        {
+          "t": "Sochoh, and all the land of Hepher:"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Baana the son of Ahilud;"
+        },
+        {
+          "add": "to him pertained"
+        },
+        {
+          "t": "Taanach and Megiddo, and all Beth-shean, which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "by Zartanah beneath Jezreel, from Beth-shean to Abel-meholah,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "unto"
+        },
+        {
+          "add": "the place that is"
+        },
+        {
+          "t": "beyond Jokneam:"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "The son of Geber, in Ramoth-gilead; to him"
+        },
+        {
+          "add": "pertained"
+        },
+        {
+          "t": "the towns of Jair the son of Manasseh, which"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "in Gilead; to him"
+        },
+        {
+          "add": "also pertained"
+        },
+        {
+          "t": "the region of Argob, which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in Bashan, threescore great cities with walls and brasen bars:"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Ahinadab the son of Iddo"
+        },
+        {
+          "add": "had"
+        },
+        {
+          "t": "Mahanaim:"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Ahimaaz"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "in Naphtali; he also took Basmath the daughter of Solomon to wife:"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Baanah the son of Hushai"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "in Asher and in Aloth:"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Jehoshaphat the son of Paruah, in Issachar:"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "Shimei the son of Elah, in Benjamin:"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Geber the son of Uri"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "in the country of Gilead,"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "the country of Sihon king of the Amorites, and of Og king of Bashan; and"
+        },
+        {
+          "add": "he was"
+        },
+        {
+          "t": "the only officer which"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "in the land."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "¶ Judah and Israel"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "many, as the sand which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "by the sea in multitude, eating and drinking, and making merry."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "¶ And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "For he had dominion over all"
+        },
+        {
+          "add": "the region"
+        },
+        {
+          "t": "on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer-sheba, all the days of Solomon."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "¶ And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "And those officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "Barley also and straw for the horses and dromedaries brought they unto the place where"
+        },
+        {
+          "add": "the officers"
+        },
+        {
+          "t": "were, every man according to his charge."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "¶ And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "on the sea shore."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "And he spake three thousand proverbs: and his songs were a thousand and five."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "And he spake of trees, from the cedar tree that"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "priest: or, chief officer"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "scribes: or, secretaries"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 3
+      },
+      "text": "recorder: or, remembrancer"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "tribute: or, levy"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 8
+      },
+      "text": "The son…: or, Ben-hur"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 9
+      },
+      "text": "The son…: or, Ben-dekar"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 10
+      },
+      "text": "The son…: or, Ben-hesed"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 11
+      },
+      "text": "The son…: or, Ben-abinadab"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 13
+      },
+      "text": "The son…: or, Ben-geber"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 14
+      },
+      "text": "Mahanaim: or, to Mahanaim"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 22
+      },
+      "text": "provision: Heb. bread"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 22
+      },
+      "text": "measures: Heb. cors"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 25
+      },
+      "text": "safely: Heb. confidently"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 28
+      },
+      "text": "dromedaries: or, mules, or, swift beasts"
+    }
+  ]
+}

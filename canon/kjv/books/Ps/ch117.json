@@ -1,0 +1,45 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 117,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "O praise the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", all ye nations: praise him, all ye people."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "For his merciful kindness is great toward us: and the truth of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "endureth"
+        },
+        {
+          "t": "for ever. Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ]
+}

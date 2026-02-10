@@ -1,0 +1,205 @@
+{
+  "work": "KJV",
+  "osis": "Hos",
+  "abbr": "HOS",
+  "chapter": 14,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "O Israel, return unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "thy God; for thou hast fallen by thine iniquity."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Take with you words, and turn to the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": say unto him, Take away all iniquity, and receive"
+        },
+        {
+          "add": "us"
+        },
+        {
+          "t": "graciously: so will we render the calves of our lips."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands,"
+        },
+        {
+          "add": "Ye are"
+        },
+        {
+          "t": "our gods: for in thee the fatherless findeth mercy."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "¶ I will heal their backsliding, I will love them freely: for mine anger is turned away from him."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "They that dwell under his shadow shall return; they shall revive"
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": "the corn, and grow as the vine: the scent thereof"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "as the wine of Lebanon."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Ephraim"
+        },
+        {
+          "add": "shall say"
+        },
+        {
+          "t": ", What have I to do any more with idols? I have heard"
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": ", and observed him: I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "like a green fir tree. From me is thy fruit found."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Who"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "wise, and he shall understand these"
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": "? prudent, and he shall know them? for the ways of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "right, and the just shall walk in them: but the transgressors shall fall therein."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "receive…: or, give good"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "grow: or, blossom"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "cast…: Heb. strike"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "spread: Heb. go"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 7
+      },
+      "text": "grow: or, blossom"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 7
+      },
+      "text": "scent: or, memorial"
+    }
+  ]
+}

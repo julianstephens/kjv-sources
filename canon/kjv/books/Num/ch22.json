@@ -1,0 +1,650 @@
+{
+  "work": "KJV",
+  "osis": "Num",
+  "abbr": "NUM",
+  "chapter": 22,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan"
+        },
+        {
+          "add": "by"
+        },
+        {
+          "t": "Jericho."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "¶ And Balak the son of Zippor saw all that Israel had done to the Amorites."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And Moab was sore afraid of the people, because they"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "many: and Moab was distressed because of the children of Israel."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And Moab said unto the elders of Midian, Now shall this company lick up all"
+        },
+        {
+          "add": "that are"
+        },
+        {
+          "t": "round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "king of the Moabites at that time."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "He sent messengers therefore unto Balaam the son of Beor to Pethor, which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Come now therefore, I pray thee, curse me this people; for they"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "too mighty for me: peradventure I shall prevail,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "we may smite them, and"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "I may drive them out of the land: for I wot that he whom thou blessest"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "blessed, and he whom thou cursest is cursed."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "And he said unto them, Lodge here this night, and I will bring you word again, as the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "shall speak unto me: and the princes of Moab abode with Balaam."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "And God came unto Balaam, and said, What men"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "these with thee?"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me,"
+        },
+        {
+          "add": "saying"
+        },
+        {
+          "t": ","
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Behold,"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "blessed."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "refuseth to give me leave to go with you."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "¶ And Balak sent yet again princes, more, and more honourable than they."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "my God, to do less or more."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Now therefore, I pray you, tarry ye also here this night, that I may know what the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "will say unto me more."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "And God came unto Balaam at night, and said unto him, If the men come to call thee, rise up,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "go with them; but yet the word which I shall say unto thee, that shalt thou do."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "¶ And God’s anger was kindled because he went: and the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "with him."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "And the ass saw the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "But the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "stood in a path of the vineyards, a wall"
+        },
+        {
+          "add": "being"
+        },
+        {
+          "t": "on this side, and a wall on that side."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And when the ass saw the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", she thrust herself unto the wall, and crushed Balaam’s foot against the wall: and he smote her again."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "And the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "went further, and stood in a narrow place, where"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "no way to turn either to the right hand or to the left."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "And when the ass saw the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", she fell down under Balaam: and Balaam’s anger was kindled, and he smote the ass with a staff."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "And the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?"
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "And the ass said unto Balaam,"
+        },
+        {
+          "add": "Am"
+        },
+        {
+          "t": "not I thine ass, upon which thou hast ridden ever since"
+        },
+        {
+          "add": "I was"
+        },
+        {
+          "t": "thine unto this day? was I ever wont to do so unto thee? And he said, Nay."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "Then the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "opened the eyes of Balaam, and he saw the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "And the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because"
+        },
+        {
+          "add": "thy"
+        },
+        {
+          "t": "way is perverse before me:"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "And Balaam said unto the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again."
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "And the angel of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak."
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "¶ And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in the border of Arnon, which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in the utmost coast."
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "tokens": [
+        {
+          "t": "And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour?"
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "tokens": [
+        {
+          "t": "And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak."
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "tokens": [
+        {
+          "t": "And Balaam went with Balak, and they came unto Kirjath-huzoth."
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "tokens": [
+        {
+          "t": "And Balak offered oxen and sheep, and sent to Balaam, and to the princes that"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "with him."
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "tokens": [
+        {
+          "t": "And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost"
+        },
+        {
+          "add": "part"
+        },
+        {
+          "t": "of the people."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "face: Heb. eye"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 11
+      },
+      "text": "I shall…: Heb. I shall prevail in fighting against him"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 16
+      },
+      "text": "Let…: Heb. Be not thou hindered from, etc"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 30
+      },
+      "text": "upon…: Heb. who hast ridden upon me"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 30
+      },
+      "text": "ever since…: or, ever since thou wast, etc"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 31
+      },
+      "text": "fell…: or, bowed himself"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 32
+      },
+      "text": "to…: Heb. to be an adversary unto thee"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 34
+      },
+      "text": "displease…: Heb. be evil in thine eyes"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 39
+      },
+      "text": "Kirjath-huzoth: or, a city of streets"
+    }
+  ]
+}

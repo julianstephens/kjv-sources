@@ -1,0 +1,948 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "books": [
+    {
+      "osis": "Gen",
+      "abbr": "GEN",
+      "name": "Genesis",
+      "aliases": [
+        "Genesis",
+        "The First Book of Moses, called Genesis"
+      ],
+      "testament": "OT",
+      "order": 1,
+      "chapters": 50
+    },
+    {
+      "osis": "Exod",
+      "abbr": "EXO",
+      "name": "Exodus",
+      "aliases": [
+        "Exodus",
+        "The Second Book of Moses, called Exodus"
+      ],
+      "testament": "OT",
+      "order": 2,
+      "chapters": 40
+    },
+    {
+      "osis": "Lev",
+      "abbr": "LEV",
+      "name": "Leviticus",
+      "aliases": [
+        "Leviticus",
+        "The Third Book of Moses, called Leviticus"
+      ],
+      "testament": "OT",
+      "order": 3,
+      "chapters": 27
+    },
+    {
+      "osis": "Num",
+      "abbr": "NUM",
+      "name": "Numbers",
+      "aliases": [
+        "Numbers",
+        "The Fourth Book of Moses, called Numbers"
+      ],
+      "testament": "OT",
+      "order": 4,
+      "chapters": 36
+    },
+    {
+      "osis": "Deut",
+      "abbr": "DEU",
+      "name": "Deuteronomy",
+      "aliases": [
+        "Deuteronomy",
+        "The Fifth Book of Moses, called Deuteronomy"
+      ],
+      "testament": "OT",
+      "order": 5,
+      "chapters": 34
+    },
+    {
+      "osis": "Josh",
+      "abbr": "JOS",
+      "name": "Joshua",
+      "aliases": [
+        "Joshua",
+        "The Book of Joshua"
+      ],
+      "testament": "OT",
+      "order": 6,
+      "chapters": 24
+    },
+    {
+      "osis": "Judg",
+      "abbr": "JDG",
+      "name": "Judges",
+      "aliases": [
+        "Judges",
+        "The Book of Judges"
+      ],
+      "testament": "OT",
+      "order": 7,
+      "chapters": 21
+    },
+    {
+      "osis": "Ruth",
+      "abbr": "RUT",
+      "name": "Ruth",
+      "aliases": [
+        "Ruth",
+        "The Book of Ruth"
+      ],
+      "testament": "OT",
+      "order": 8,
+      "chapters": 4
+    },
+    {
+      "osis": "1 Sam",
+      "abbr": "1SA",
+      "name": "1 Samuel",
+      "aliases": [
+        "1 Samuel",
+        "The First Book of Samuel Otherwise Called The First Book of the Kings"
+      ],
+      "testament": "OT",
+      "order": 9,
+      "chapters": 31
+    },
+    {
+      "osis": "2 Sam",
+      "abbr": "2SA",
+      "name": "2 Samuel",
+      "aliases": [
+        "2 Samuel",
+        "The Second Book of Samuel Otherwise Called The Second Book of the Kings"
+      ],
+      "testament": "OT",
+      "order": 10,
+      "chapters": 24
+    },
+    {
+      "osis": "1 Kgs",
+      "abbr": "1KI",
+      "name": "1 Kings",
+      "aliases": [
+        "1 Kings",
+        "The First Book of the Kings, Commonly Called the Third Book of the Kings"
+      ],
+      "testament": "OT",
+      "order": 11,
+      "chapters": 22
+    },
+    {
+      "osis": "2 Kgs",
+      "abbr": "2KI",
+      "name": "2 Kings",
+      "aliases": [
+        "2 Kings",
+        "The Second Book of the Kings, Commonly Called the Fourth Book of the Kings"
+      ],
+      "testament": "OT",
+      "order": 12,
+      "chapters": 25
+    },
+    {
+      "osis": "1 Chr",
+      "abbr": "1CH",
+      "name": "1 Chronicles",
+      "aliases": [
+        "1 Chronicles",
+        "The First Book of the Chronicles"
+      ],
+      "testament": "OT",
+      "order": 13,
+      "chapters": 29
+    },
+    {
+      "osis": "2 Chr",
+      "abbr": "2CH",
+      "name": "2 Chronicles",
+      "aliases": [
+        "2 Chronicles",
+        "The Second Book of the Chronicles"
+      ],
+      "testament": "OT",
+      "order": 14,
+      "chapters": 36
+    },
+    {
+      "osis": "Ezra",
+      "abbr": "EZR",
+      "name": "Ezra",
+      "aliases": [
+        "Ezra"
+      ],
+      "testament": "OT",
+      "order": 15,
+      "chapters": 10
+    },
+    {
+      "osis": "Neh",
+      "abbr": "NEH",
+      "name": "Nehemiah",
+      "aliases": [
+        "Nehemiah",
+        "The Book of Nehemiah"
+      ],
+      "testament": "OT",
+      "order": 16,
+      "chapters": 13
+    },
+    {
+      "osis": "Esth",
+      "abbr": "EST",
+      "name": "Esther",
+      "aliases": [
+        "Esther",
+        "The Book of Esther"
+      ],
+      "testament": "OT",
+      "order": 17,
+      "chapters": 10
+    },
+    {
+      "osis": "Job",
+      "abbr": "JOB",
+      "name": "Job",
+      "aliases": [
+        "Job",
+        "The Book of Job"
+      ],
+      "testament": "OT",
+      "order": 18,
+      "chapters": 42
+    },
+    {
+      "osis": "Ps",
+      "abbr": "PSA",
+      "name": "Psalms",
+      "aliases": [
+        "Psalms",
+        "The Book of Psalms"
+      ],
+      "testament": "OT",
+      "order": 19,
+      "chapters": 150
+    },
+    {
+      "osis": "Prov",
+      "abbr": "PRO",
+      "name": "Proverbs",
+      "aliases": [
+        "Proverbs",
+        "The Proverbs"
+      ],
+      "testament": "OT",
+      "order": 20,
+      "chapters": 31
+    },
+    {
+      "osis": "Eccl",
+      "abbr": "ECC",
+      "name": "Ecclesiastes",
+      "aliases": [
+        "Ecclesiastes",
+        "Ecclesiastes or, the Preacher"
+      ],
+      "testament": "OT",
+      "order": 21,
+      "chapters": 12
+    },
+    {
+      "osis": "Song",
+      "abbr": "SNG",
+      "name": "Song of Solomon",
+      "aliases": [
+        "Song of Solomon",
+        "The Song of Solomon"
+      ],
+      "testament": "OT",
+      "order": 22,
+      "chapters": 8
+    },
+    {
+      "osis": "Isa",
+      "abbr": "ISA",
+      "name": "Isaiah",
+      "aliases": [
+        "Isaiah",
+        "The Book of the Prophet Isaiah"
+      ],
+      "testament": "OT",
+      "order": 23,
+      "chapters": 66
+    },
+    {
+      "osis": "Jer",
+      "abbr": "JER",
+      "name": "Jeremiah",
+      "aliases": [
+        "Jeremiah",
+        "The Book of the Prophet Jeremiah"
+      ],
+      "testament": "OT",
+      "order": 24,
+      "chapters": 52
+    },
+    {
+      "osis": "Lam",
+      "abbr": "LAM",
+      "name": "Lamentations",
+      "aliases": [
+        "Lamentations",
+        "The Lamentations of Jeremiah"
+      ],
+      "testament": "OT",
+      "order": 25,
+      "chapters": 5
+    },
+    {
+      "osis": "Ezek",
+      "abbr": "EZK",
+      "name": "Ezekiel",
+      "aliases": [
+        "Ezekiel",
+        "The Book of the Prophet Ezekiel"
+      ],
+      "testament": "OT",
+      "order": 26,
+      "chapters": 48
+    },
+    {
+      "osis": "Dan",
+      "abbr": "DAN",
+      "name": "Daniel",
+      "aliases": [
+        "Daniel",
+        "The Book of Daniel"
+      ],
+      "testament": "OT",
+      "order": 27,
+      "chapters": 12
+    },
+    {
+      "osis": "Hos",
+      "abbr": "HOS",
+      "name": "Hosea",
+      "aliases": [
+        "Hosea"
+      ],
+      "testament": "OT",
+      "order": 28,
+      "chapters": 14
+    },
+    {
+      "osis": "Joel",
+      "abbr": "JOL",
+      "name": "Joel",
+      "aliases": [
+        "Joel"
+      ],
+      "testament": "OT",
+      "order": 29,
+      "chapters": 3
+    },
+    {
+      "osis": "Amos",
+      "abbr": "AMO",
+      "name": "Amos",
+      "aliases": [
+        "Amos"
+      ],
+      "testament": "OT",
+      "order": 30,
+      "chapters": 9
+    },
+    {
+      "osis": "Obad",
+      "abbr": "OBA",
+      "name": "Obadiah",
+      "aliases": [
+        "Obadiah"
+      ],
+      "testament": "OT",
+      "order": 31,
+      "chapters": 1
+    },
+    {
+      "osis": "Jonah",
+      "abbr": "JON",
+      "name": "Jonah",
+      "aliases": [
+        "Jonah"
+      ],
+      "testament": "OT",
+      "order": 32,
+      "chapters": 4
+    },
+    {
+      "osis": "Mic",
+      "abbr": "MIC",
+      "name": "Micah",
+      "aliases": [
+        "Micah"
+      ],
+      "testament": "OT",
+      "order": 33,
+      "chapters": 7
+    },
+    {
+      "osis": "Nah",
+      "abbr": "NAM",
+      "name": "Nahum",
+      "aliases": [
+        "Nahum"
+      ],
+      "testament": "OT",
+      "order": 34,
+      "chapters": 3
+    },
+    {
+      "osis": "Hab",
+      "abbr": "HAB",
+      "name": "Habakkuk",
+      "aliases": [
+        "Habakkuk"
+      ],
+      "testament": "OT",
+      "order": 35,
+      "chapters": 3
+    },
+    {
+      "osis": "Zeph",
+      "abbr": "ZEP",
+      "name": "Zephaniah",
+      "aliases": [
+        "Zephaniah"
+      ],
+      "testament": "OT",
+      "order": 36,
+      "chapters": 3
+    },
+    {
+      "osis": "Hag",
+      "abbr": "HAG",
+      "name": "Haggai",
+      "aliases": [
+        "Haggai"
+      ],
+      "testament": "OT",
+      "order": 37,
+      "chapters": 2
+    },
+    {
+      "osis": "Zech",
+      "abbr": "ZEC",
+      "name": "Zechariah",
+      "aliases": [
+        "Zechariah"
+      ],
+      "testament": "OT",
+      "order": 38,
+      "chapters": 14
+    },
+    {
+      "osis": "Mal",
+      "abbr": "MAL",
+      "name": "Malachi",
+      "aliases": [
+        "Malachi"
+      ],
+      "testament": "OT",
+      "order": 39,
+      "chapters": 4
+    },
+    {
+      "osis": "Tob",
+      "abbr": "TOB",
+      "name": "Tobit",
+      "aliases": [
+        "Tobit"
+      ],
+      "testament": "AP",
+      "order": 40,
+      "chapters": 14
+    },
+    {
+      "osis": "Jdt",
+      "abbr": "JDT",
+      "name": "Judith",
+      "aliases": [
+        "Judith"
+      ],
+      "testament": "AP",
+      "order": 41,
+      "chapters": 16
+    },
+    {
+      "osis": "Add Esth",
+      "abbr": "ESG",
+      "name": "Esther (Greek)",
+      "aliases": [
+        "Esther (Greek)",
+        "The Rest of the Chapters of The Book of Esther Which are Found Neither in the Hebrew, nor in the Chaldee"
+      ],
+      "testament": "AP",
+      "order": 42,
+      "chapters": 10
+    },
+    {
+      "osis": "Wis",
+      "abbr": "WIS",
+      "name": "Wisdom of Solomon",
+      "aliases": [
+        "Wisdom of Solomon",
+        "The Wisdom of Solomon"
+      ],
+      "testament": "AP",
+      "order": 43,
+      "chapters": 19
+    },
+    {
+      "osis": "Sir",
+      "abbr": "SIR",
+      "name": "Sirach",
+      "aliases": [
+        "Sirach",
+        "The Wisdom of Jesus the Son of Sirach, or Ecclesiasticus"
+      ],
+      "testament": "AP",
+      "order": 44,
+      "chapters": 51
+    },
+    {
+      "osis": "Bar",
+      "abbr": "BAR",
+      "name": "Baruch",
+      "aliases": [
+        "Baruch"
+      ],
+      "testament": "AP",
+      "order": 45,
+      "chapters": 5
+    },
+    {
+      "osis": "Sg Three",
+      "abbr": "S3Y",
+      "name": "3 Holy Children's Song",
+      "aliases": [
+        "3 Holy Children's Song",
+        "The Song of The Three Holy Children"
+      ],
+      "testament": "AP",
+      "order": 46,
+      "chapters": 1
+    },
+    {
+      "osis": "Sus",
+      "abbr": "SUS",
+      "name": "Susanna",
+      "aliases": [
+        "Susanna",
+        "The History of Susanna"
+      ],
+      "testament": "AP",
+      "order": 47,
+      "chapters": 1
+    },
+    {
+      "osis": "Bel",
+      "abbr": "BEL",
+      "name": "Bel and the Dragon",
+      "aliases": [
+        "Bel and the Dragon",
+        "The History of the Destruction of Bel and the Dragon"
+      ],
+      "testament": "AP",
+      "order": 48,
+      "chapters": 1
+    },
+    {
+      "osis": "1 Macc",
+      "abbr": "1MA",
+      "name": "1 Maccabees",
+      "aliases": [
+        "1 Maccabees",
+        "The First Book of the Maccabees"
+      ],
+      "testament": "AP",
+      "order": 49,
+      "chapters": 16
+    },
+    {
+      "osis": "2 Macc",
+      "abbr": "2MA",
+      "name": "2 Maccabees",
+      "aliases": [
+        "2 Maccabees",
+        "The Second Book of the Maccabees"
+      ],
+      "testament": "AP",
+      "order": 50,
+      "chapters": 15
+    },
+    {
+      "osis": "1 Esd",
+      "abbr": "1ES",
+      "name": "1 Esdras",
+      "aliases": [
+        "1 Esdras"
+      ],
+      "testament": "AP",
+      "order": 51,
+      "chapters": 9
+    },
+    {
+      "osis": "Pr Man",
+      "abbr": "MAN",
+      "name": "Prayer of Manasses",
+      "aliases": [
+        "Prayer of Manasses",
+        "The Prayer of Manasseh King of Judah When He was Held Captive in Babylon"
+      ],
+      "testament": "AP",
+      "order": 52,
+      "chapters": 1
+    },
+    {
+      "osis": "2 Esd",
+      "abbr": "2ES",
+      "name": "2 Esdras",
+      "aliases": [
+        "2 Esdras"
+      ],
+      "testament": "AP",
+      "order": 53,
+      "chapters": 16
+    },
+    {
+      "osis": "Matt",
+      "abbr": "MAT",
+      "name": "Matthew",
+      "aliases": [
+        "Matthew",
+        "THE GOSPEL ACCORDING TO ST. MATTHEW"
+      ],
+      "testament": "NT",
+      "order": 54,
+      "chapters": 28
+    },
+    {
+      "osis": "Mark",
+      "abbr": "MRK",
+      "name": "Mark",
+      "aliases": [
+        "Mark",
+        "THE GOSPEL ACCORDING TO ST. MARK"
+      ],
+      "testament": "NT",
+      "order": 55,
+      "chapters": 16
+    },
+    {
+      "osis": "Luke",
+      "abbr": "LUK",
+      "name": "Luke",
+      "aliases": [
+        "Luke",
+        "THE GOSPEL ACCORDING TO ST. LUKE"
+      ],
+      "testament": "NT",
+      "order": 56,
+      "chapters": 24
+    },
+    {
+      "osis": "John",
+      "abbr": "JHN",
+      "name": "John",
+      "aliases": [
+        "John",
+        "THE GOSPEL ACCORDING TO ST. JOHN"
+      ],
+      "testament": "NT",
+      "order": 57,
+      "chapters": 21
+    },
+    {
+      "osis": "Acts",
+      "abbr": "ACT",
+      "name": "Acts",
+      "aliases": [
+        "Acts",
+        "THE ACTS OF THE APOSTLES"
+      ],
+      "testament": "NT",
+      "order": 58,
+      "chapters": 28
+    },
+    {
+      "osis": "Rom",
+      "abbr": "ROM",
+      "name": "Romans",
+      "aliases": [
+        "Romans",
+        "THE EPISTLE OF PAUL THE APOSTLE TO THE ROMANS"
+      ],
+      "testament": "NT",
+      "order": 59,
+      "chapters": 16
+    },
+    {
+      "osis": "1 Cor",
+      "abbr": "1CO",
+      "name": "1 Corinthians",
+      "aliases": [
+        "1 Corinthians",
+        "THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS"
+      ],
+      "testament": "NT",
+      "order": 60,
+      "chapters": 16
+    },
+    {
+      "osis": "2 Cor",
+      "abbr": "2CO",
+      "name": "2 Corinthians",
+      "aliases": [
+        "2 Corinthians",
+        "THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS"
+      ],
+      "testament": "NT",
+      "order": 61,
+      "chapters": 13
+    },
+    {
+      "osis": "Gal",
+      "abbr": "GAL",
+      "name": "Galatians",
+      "aliases": [
+        "Galatians",
+        "THE EPISTLE OF PAUL THE APOSTLE TO THE GALATIANS"
+      ],
+      "testament": "NT",
+      "order": 62,
+      "chapters": 6
+    },
+    {
+      "osis": "Eph",
+      "abbr": "EPH",
+      "name": "Ephesians",
+      "aliases": [
+        "Ephesians",
+        "THE EPISTLE OF PAUL THE APOSTLE TO THE EPHESIANS"
+      ],
+      "testament": "NT",
+      "order": 63,
+      "chapters": 6
+    },
+    {
+      "osis": "Phil",
+      "abbr": "PHP",
+      "name": "Philippians",
+      "aliases": [
+        "Philippians",
+        "THE EPISTLE OF PAUL THE APOSTLE TO THE PHILIPPIANS"
+      ],
+      "testament": "NT",
+      "order": 64,
+      "chapters": 4
+    },
+    {
+      "osis": "Col",
+      "abbr": "COL",
+      "name": "Colossians",
+      "aliases": [
+        "Colossians",
+        "THE EPISTLE OF PAUL THE APOSTLE TO THE COLOSSIANS"
+      ],
+      "testament": "NT",
+      "order": 65,
+      "chapters": 4
+    },
+    {
+      "osis": "1 Thess",
+      "abbr": "1TH",
+      "name": "1 Thessalonians",
+      "aliases": [
+        "1 Thessalonians",
+        "THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS"
+      ],
+      "testament": "NT",
+      "order": 66,
+      "chapters": 5
+    },
+    {
+      "osis": "2 Thess",
+      "abbr": "2TH",
+      "name": "2 Thessalonians",
+      "aliases": [
+        "2 Thessalonians",
+        "THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS"
+      ],
+      "testament": "NT",
+      "order": 67,
+      "chapters": 3
+    },
+    {
+      "osis": "1 Tim",
+      "abbr": "1TI",
+      "name": "1 Timothy",
+      "aliases": [
+        "1 Timothy",
+        "THE FIRST EPISTLE OF PAUL THE APOSTLE TO TIMOTHY"
+      ],
+      "testament": "NT",
+      "order": 68,
+      "chapters": 6
+    },
+    {
+      "osis": "2 Tim",
+      "abbr": "2TI",
+      "name": "2 Timothy",
+      "aliases": [
+        "2 Timothy",
+        "THE SECOND EPISTLE OF PAUL THE APOSTLE TO TIMOTHY"
+      ],
+      "testament": "NT",
+      "order": 69,
+      "chapters": 4
+    },
+    {
+      "osis": "Titus",
+      "abbr": "TIT",
+      "name": "Titus",
+      "aliases": [
+        "Titus",
+        "THE EPISTLE OF PAUL THE APOSTLE TO TITUS"
+      ],
+      "testament": "NT",
+      "order": 70,
+      "chapters": 3
+    },
+    {
+      "osis": "Phlm",
+      "abbr": "PHM",
+      "name": "Philemon",
+      "aliases": [
+        "Philemon",
+        "THE EPISTLE OF PAUL THE APOSTLE TO PHILEMON"
+      ],
+      "testament": "NT",
+      "order": 71,
+      "chapters": 1
+    },
+    {
+      "osis": "Heb",
+      "abbr": "HEB",
+      "name": "Hebrews",
+      "aliases": [
+        "Hebrews",
+        "THE EPISTLE OF PAUL THE APOSTLE TO THE HEBREWS"
+      ],
+      "testament": "NT",
+      "order": 72,
+      "chapters": 13
+    },
+    {
+      "osis": "Jas",
+      "abbr": "JAS",
+      "name": "James",
+      "aliases": [
+        "James",
+        "THE GENERAL EPISTLE OF JAMES"
+      ],
+      "testament": "NT",
+      "order": 73,
+      "chapters": 5
+    },
+    {
+      "osis": "1 Pet",
+      "abbr": "1PE",
+      "name": "1 Peter",
+      "aliases": [
+        "1 Peter",
+        "THE FIRST EPISTLE GENERAL OF PETER"
+      ],
+      "testament": "NT",
+      "order": 74,
+      "chapters": 5
+    },
+    {
+      "osis": "2 Pet",
+      "abbr": "2PE",
+      "name": "2 Peter",
+      "aliases": [
+        "2 Peter",
+        "THE SECOND EPISTLE GENERAL OF PETER"
+      ],
+      "testament": "NT",
+      "order": 75,
+      "chapters": 3
+    },
+    {
+      "osis": "1 John",
+      "abbr": "1JN",
+      "name": "1 John",
+      "aliases": [
+        "1 John",
+        "THE FIRST EPISTLE GENERAL OF JOHN"
+      ],
+      "testament": "NT",
+      "order": 76,
+      "chapters": 5
+    },
+    {
+      "osis": "2 John",
+      "abbr": "2JN",
+      "name": "2 John",
+      "aliases": [
+        "2 John",
+        "THE SECOND EPISTLE OF JOHN"
+      ],
+      "testament": "NT",
+      "order": 77,
+      "chapters": 1
+    },
+    {
+      "osis": "3 John",
+      "abbr": "3JN",
+      "name": "3 John",
+      "aliases": [
+        "3 John",
+        "THE THIRD EPISTLE OF JOHN"
+      ],
+      "testament": "NT",
+      "order": 78,
+      "chapters": 1
+    },
+    {
+      "osis": "Jude",
+      "abbr": "JUD",
+      "name": "Jude",
+      "aliases": [
+        "Jude",
+        "THE GENERAL EPISTLE OF JUDE"
+      ],
+      "testament": "NT",
+      "order": 79,
+      "chapters": 1
+    },
+    {
+      "osis": "Rev",
+      "abbr": "REV",
+      "name": "Revelation",
+      "aliases": [
+        "Revelation",
+        "THE REVELATION OF ST. JOHN THE DIVINE"
+      ],
+      "testament": "NT",
+      "order": 80,
+      "chapters": 22
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "work": "KJV",
+  "osis": "Ezra",
+  "abbr": "EZR",
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Now these"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "The children of Parosh, two thousand an hundred seventy and two."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "The children of Shephatiah, three hundred seventy and two."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "The children of Arah, seven hundred seventy and five."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "The children of Pahath-moab, of the children of Jeshua"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "Joab, two thousand eight hundred and twelve."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The children of Elam, a thousand two hundred fifty and four."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The children of Zattu, nine hundred forty and five."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "The children of Zaccai, seven hundred and threescore."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "The children of Bani, six hundred forty and two."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "The children of Bebai, six hundred twenty and three."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "The children of Azgad, a thousand two hundred twenty and two."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "The children of Adonikam, six hundred sixty and six."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "The children of Bigvai, two thousand fifty and six."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "The children of Adin, four hundred fifty and four."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "The children of Ater of Hezekiah, ninety and eight."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "The children of Bezai, three hundred twenty and three."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "The children of Jorah, an hundred and twelve."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "The children of Hashum, two hundred twenty and three."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "The children of Gibbar, ninety and five."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "The children of Beth-lehem, an hundred twenty and three."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "The men of Netophah, fifty and six."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "The men of Anathoth, an hundred twenty and eight."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "The children of Azmaveth, forty and two."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "The children of Kirjath-arim, Chephirah, and Beeroth, seven hundred and forty and three."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "The children of Ramah and Gaba, six hundred twenty and one."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "The men of Michmas, an hundred twenty and two."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "The men of Beth-el and Ai, two hundred twenty and three."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "The children of Nebo, fifty and two."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "The children of Magbish, an hundred fifty and six."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "The children of the other Elam, a thousand two hundred fifty and four."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "The children of Harim, three hundred and twenty."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "The children of Lod, Hadid, and Ono, seven hundred twenty and five."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "The children of Jericho, three hundred forty and five."
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "The children of Senaah, three thousand and six hundred and thirty."
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "¶ The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three."
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "tokens": [
+        {
+          "t": "The children of Immer, a thousand fifty and two."
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "tokens": [
+        {
+          "t": "The children of Pashur, a thousand two hundred forty and seven."
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "tokens": [
+        {
+          "t": "The children of Harim, a thousand and seventeen."
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "tokens": [
+        {
+          "t": "¶ The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four."
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "tokens": [
+        {
+          "t": "¶ The singers: the children of Asaph, an hundred twenty and eight."
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "tokens": [
+        {
+          "t": "¶ The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai,"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "all an hundred thirty and nine."
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "tokens": [
+        {
+          "t": "¶ The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,"
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "tokens": [
+        {
+          "t": "The children of Keros, the children of Siaha, the children of Padon,"
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "tokens": [
+        {
+          "t": "The children of Lebanah, the children of Hagabah, the children of Akkub,"
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "tokens": [
+        {
+          "t": "The children of Hagab, the children of Shalmai, the children of Hanan,"
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "tokens": [
+        {
+          "t": "The children of Giddel, the children of Gahar, the children of Reaiah,"
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "tokens": [
+        {
+          "t": "The children of Rezin, the children of Nekoda, the children of Gazzam,"
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "tokens": [
+        {
+          "t": "The children of Uzza, the children of Paseah, the children of Besai,"
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "tokens": [
+        {
+          "t": "The children of Asnah, the children of Mehunim, the children of Nephusim,"
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "tokens": [
+        {
+          "t": "The children of Bakbuk, the children of Hakupha, the children of Harhur,"
+        }
+      ]
+    },
+    {
+      "v": 52,
+      "tokens": [
+        {
+          "t": "The children of Bazluth, the children of Mehida, the children of Harsha,"
+        }
+      ]
+    },
+    {
+      "v": 53,
+      "tokens": [
+        {
+          "t": "The children of Barkos, the children of Sisera, the children of Thamah,"
+        }
+      ]
+    },
+    {
+      "v": 54,
+      "tokens": [
+        {
+          "t": "The children of Neziah, the children of Hatipha."
+        }
+      ]
+    },
+    {
+      "v": 55,
+      "tokens": [
+        {
+          "t": "¶ The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Peruda,"
+        }
+      ]
+    },
+    {
+      "v": 56,
+      "tokens": [
+        {
+          "t": "The children of Jaalah, the children of Darkon, the children of Giddel,"
+        }
+      ]
+    },
+    {
+      "v": 57,
+      "tokens": [
+        {
+          "t": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami."
+        }
+      ]
+    },
+    {
+      "v": 58,
+      "tokens": [
+        {
+          "t": "All the Nethinims, and the children of Solomon’s servants,"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "three hundred ninety and two."
+        }
+      ]
+    },
+    {
+      "v": 59,
+      "tokens": [
+        {
+          "t": "And these"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "they which went up from Tel-melah, Tel-harsa, Cherub, Addan,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "Immer: but they could not shew their father’s house, and their seed, whether they"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "of Israel:"
+        }
+      ]
+    },
+    {
+      "v": 60,
+      "tokens": [
+        {
+          "t": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two."
+        }
+      ]
+    },
+    {
+      "v": 61,
+      "tokens": [
+        {
+          "t": "¶ And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:"
+        }
+      ]
+    },
+    {
+      "v": 62,
+      "tokens": [
+        {
+          "t": "These sought their register"
+        },
+        {
+          "add": "among"
+        },
+        {
+          "t": "those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood."
+        }
+      ]
+    },
+    {
+      "v": 63,
+      "tokens": [
+        {
+          "t": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim."
+        }
+      ]
+    },
+    {
+      "v": 64,
+      "tokens": [
+        {
+          "t": "¶ The whole congregation together"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "forty and two thousand three hundred"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "threescore,"
+        }
+      ]
+    },
+    {
+      "v": 65,
+      "tokens": [
+        {
+          "t": "Beside their servants and their maids, of whom"
+        },
+        {
+          "add": "there were"
+        },
+        {
+          "t": "seven thousand three hundred thirty and seven: and"
+        },
+        {
+          "add": " there were"
+        },
+        {
+          "t": "among them two hundred singing men and singing women."
+        }
+      ]
+    },
+    {
+      "v": 66,
+      "tokens": [
+        {
+          "t": "Their horses"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "seven hundred thirty and six; their mules, two hundred forty and five;"
+        }
+      ]
+    },
+    {
+      "v": 67,
+      "tokens": [
+        {
+          "t": "Their camels, four hundred thirty and five;"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "asses, six thousand seven hundred and twenty."
+        }
+      ]
+    },
+    {
+      "v": 68,
+      "tokens": [
+        {
+          "t": "¶ And"
+        },
+        {
+          "add": "some"
+        },
+        {
+          "t": "of the chief of the fathers, when they came to the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "at Jerusalem, offered freely for the house of God to set it up in his place:"
+        }
+      ]
+    },
+    {
+      "v": 69,
+      "tokens": [
+        {
+          "t": "They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests’ garments."
+        }
+      ]
+    },
+    {
+      "v": 70,
+      "tokens": [
+        {
+          "t": "So the priests, and the Levites, and"
+        },
+        {
+          "add": "some"
+        },
+        {
+          "t": "of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "Seraiah: also called, Azariah"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "Reelaiah: or, Raamiah"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 2
+      },
+      "text": "Mispar: or, Mispereth"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 2
+      },
+      "text": "Rehum: or, Nehum"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 10
+      },
+      "text": "Bani: also called, Binnui"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 18
+      },
+      "text": "Jorah: also called, Hariph"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 20
+      },
+      "text": "Gibbar: also called, Gibeon"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 24
+      },
+      "text": "Azmaveth: also called, Beth-azmaveth"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 33
+      },
+      "text": "Hadid: or, Harid, as it is in some copies"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 40
+      },
+      "text": "Hodaviah: also called, Judah or Hodevah"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 44
+      },
+      "text": "Siaha: also called, Sia"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 46
+      },
+      "text": "Shalmai: also called, Shamlai"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 50
+      },
+      "text": "Nephusim: also called, Nephishesim"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 52
+      },
+      "text": "Bazluth: also called, Bazlith"
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 55
+      },
+      "text": "Peruda: also called, Perida"
+    },
+    {
+      "id": "FN16",
+      "mark": "§",
+      "at": {
+        "v": 57
+      },
+      "text": "Ami: also called, Amon"
+    },
+    {
+      "id": "FN17",
+      "mark": "**",
+      "at": {
+        "v": 59
+      },
+      "text": "Addan: also called, Addon"
+    },
+    {
+      "id": "FN18",
+      "mark": "††",
+      "at": {
+        "v": 59
+      },
+      "text": "seed: or, pedigree"
+    },
+    {
+      "id": "FN19",
+      "mark": "‡‡",
+      "at": {
+        "v": 62
+      },
+      "text": "were they…: Heb. they were polluted from the priesthood"
+    },
+    {
+      "id": "FN20",
+      "mark": "§§",
+      "at": {
+        "v": 63
+      },
+      "text": "Tirshatha: or, governor"
+    }
+  ]
+}

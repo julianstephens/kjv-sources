@@ -1,0 +1,292 @@
+{
+  "work": "KJV",
+  "osis": "Prov",
+  "abbr": "PRO",
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "My son, if thou wilt receive my words, and hide my commandments with thee;"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "So that thou incline thine ear unto wisdom,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "apply thine heart to understanding;"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Yea, if thou criest after knowledge,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "liftest up thy voice for understanding;"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "If thou seekest her as silver, and searchest for her as"
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": "hid treasures;"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Then shalt thou understand the fear of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and find the knowledge of God."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "For the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "giveth wisdom: out of his mouth"
+        },
+        {
+          "add": "cometh"
+        },
+        {
+          "t": "knowledge and understanding."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "He layeth up sound wisdom for the righteous:"
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": "a buckler to them that walk uprightly."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "He keepeth the paths of judgment, and preserveth the way of his saints."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Then shalt thou understand righteousness, and judgment, and equity;"
+        },
+        {
+          "add": "yea"
+        },
+        {
+          "t": ", every good path."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "¶ When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Discretion shall preserve thee, understanding shall keep thee:"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "To deliver thee from the way of the evil"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": ", from the man that speaketh froward things;"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Who leave the paths of uprightness, to walk in the ways of darkness;"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Who rejoice to do evil,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "delight in the frowardness of the wicked;"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Whose ways"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "crooked, and"
+        },
+        {
+          "add": "they"
+        },
+        {
+          "t": "froward in their paths:"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "To deliver thee from the strange woman,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "from the stranger"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "flattereth with her words;"
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Which forsaketh the guide of her youth, and forgetteth the covenant of her God."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "For her house inclineth unto death, and her paths unto the dead."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "None that go unto her return again, neither take they hold of the paths of life."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "That thou mayest walk in the way of good"
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": ", and keep the paths of the righteous."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "For the upright shall dwell in the land, and the perfect shall remain in it."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "liftest…: Heb. givest thy voice"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 22
+      },
+      "text": "rooted: or, plucked up"
+    }
+  ]
+}

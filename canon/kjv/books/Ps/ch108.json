@@ -1,0 +1,209 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 108,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "O God, my heart is fixed; I will sing and give praise, even with my glory."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Awake, psaltery and harp: I"
+        },
+        {
+          "add": "myself"
+        },
+        {
+          "t": "will awake early."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "I will praise thee, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", among the people: and I will sing praises unto thee among the nations."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "For thy mercy"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "great above the heavens: and thy truth"
+        },
+        {
+          "add": "reacheth"
+        },
+        {
+          "t": "unto the clouds."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "That thy beloved may be delivered: save"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "thy right hand, and answer me."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Gilead"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "mine; Manasseh"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "mine; Ephraim also"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the strength of mine head; Judah"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my lawgiver;"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Moab"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my washpot; over Edom will I cast out my shoe; over Philistia will I triumph."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Who will bring me into the strong city? who will lead me into Edom?"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "add": "Wilt"
+        },
+        {
+          "t": "not"
+        },
+        {
+          "add": "thou"
+        },
+        {
+          "t": ", O God,"
+        },
+        {
+          "add": "who"
+        },
+        {
+          "t": "hast cast us off? and wilt not thou, O God, go forth with our hosts?"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Give us help from trouble: for vain"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the help of man."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Through God we shall do valiantly: for he"
+        },
+        {
+          "add": "it is that"
+        },
+        {
+          "t": "shall tread down our enemies."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "clouds: or, skies"
+    }
+  ]
+}

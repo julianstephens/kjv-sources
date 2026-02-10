@@ -1,0 +1,134 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 120,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "In my distress I cried unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and he heard me."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Deliver my soul, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", from lying lips,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "from a deceitful tongue."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Sharp arrows of the mighty, with coals of juniper."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Woe is me, that I sojourn in Mesech,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "I dwell in the tents of Kedar!"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "My soul hath long dwelt with him that hateth peace."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "I"
+        },
+        {
+          "add": "am for"
+        },
+        {
+          "t": "peace: but when I speak, they"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "for war."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "What shall be given…: or, What shall the deceitful tongue give unto thee? or, what shall is profit thee?"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "done: Heb. added"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "Sharp…: or, It is as the sharp arrows of the mighty man, with coals of juniper"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "for peace: or, a man of peace"
+    }
+  ]
+}

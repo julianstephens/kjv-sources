@@ -1,0 +1,200 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 148,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "from the heavens: praise him in the heights."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Praise ye him, all his angels: praise ye him, all his hosts."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Praise ye him, sun and moon: praise him, all ye stars of light."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Praise him, ye heavens of heavens, and ye waters that"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "above the heavens."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Let them praise the name of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": for he commanded, and they were created."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Praise the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "from the earth, ye dragons, and all deeps:"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word:"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Mountains, and all hills; fruitful trees, and all cedars:"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Beasts, and all cattle; creeping things, and flying fowl:"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Kings of the earth, and all people; princes, and all judges of the earth:"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Both young men, and maidens; old men, and children:"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Let them praise the name of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": for his name alone is excellent; his glory"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "above the earth and heaven."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "He also exalteth the horn of his people, the praise of all his saints;"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "of the children of Israel, a people near unto him. Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Praise ye the LORD. Praise: Heb. Hallelujah, etc"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 10
+      },
+      "text": "flying…: Heb. birds of wing"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 13
+      },
+      "text": "excellent: Heb. exalted"
+    }
+  ]
+}

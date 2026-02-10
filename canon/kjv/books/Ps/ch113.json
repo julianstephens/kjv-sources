@@ -1,0 +1,211 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 113,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". Praise, O ye servants of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", praise the name of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Blessed be the name of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "from this time forth and for evermore."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "From the rising of the sun unto the going down of the same the"
+        },
+        {
+          "nd": "LORD’s"
+        },
+        {
+          "t": "name"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "to be praised."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "high above all nations,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "his glory above the heavens."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Who"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "like unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "our God, who dwelleth on high,"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Who humbleth"
+        },
+        {
+          "add": "himself"
+        },
+        {
+          "t": "to behold"
+        },
+        {
+          "add": "the things that are"
+        },
+        {
+          "t": "in heaven, and in the earth!"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "He raiseth up the poor out of the dust,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "lifteth the needy out of the dunghill;"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "That he may set"
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": "with princes,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "with the princes of his people."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "He maketh the barren woman to keep house,"
+        },
+        {
+          "add": "and to be"
+        },
+        {
+          "t": "a joyful mother of children. Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Praise ye…: Heb. Hallelujah"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "dwelleth…: Heb. exalteth himself to dwell"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 9
+      },
+      "text": "to keep…: Heb. to dwell in an house"
+    }
+  ]
+}

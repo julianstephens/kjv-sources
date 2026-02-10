@@ -1,0 +1,84 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 134,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Behold, bless ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", all"
+        },
+        {
+          "add": "ye"
+        },
+        {
+          "t": "servants of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", which by night stand in the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Lift up your hands"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "the sanctuary, and bless the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "that made heaven and earth bless thee out of Zion."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "the sanctuary: or, holiness"
+    }
+  ]
+}

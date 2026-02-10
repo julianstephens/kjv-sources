@@ -1,0 +1,75 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 133,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Behold, how good and how pleasant"
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": "for brethren to dwell together in unity!"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "add": "It is"
+        },
+        {
+          "t": "like the precious ointment upon the head, that ran down upon the beard,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "Aaron’s beard: that went down to the skirts of his garments;"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "As the dew of Hermon,"
+        },
+        {
+          "add": "and as the dew"
+        },
+        {
+          "t": "that descended upon the mountains of Zion: for there the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "commanded the blessing,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "life for evermore."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "together…: Heb. even together"
+    }
+  ]
+}

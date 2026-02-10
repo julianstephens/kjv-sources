@@ -1,0 +1,419 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 139,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", thou hast searched me, and known"
+        },
+        {
+          "add": "me"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Thou compassest my path and my lying down, and art acquainted"
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": "all my ways."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "For"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "not a word in my tongue,"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": ", lo, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", thou knowest it altogether."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Thou hast beset me behind and before, and laid thine hand upon me."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "add": "Such"
+        },
+        {
+          "t": "knowledge"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "too wonderful for me; it is high, I cannot"
+        },
+        {
+          "add": "attain"
+        },
+        {
+          "t": "unto it."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "If I ascend up into heaven, thou"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "there: if I make my bed in hell, behold, thou"
+        },
+        {
+          "add": "art there"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "add": "If"
+        },
+        {
+          "t": "I take the wings of the morning,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "dwell in the uttermost parts of the sea;"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Even there shall thy hand lead me, and thy right hand shall hold me."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "If I say, Surely the darkness shall cover me; even the night shall be light about me."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "both alike"
+        },
+        {
+          "add": "to thee"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "For thou hast possessed my reins: thou hast covered me in my mother’s womb."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "I will praise thee; for I am fearfully"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "wonderfully made: marvellous"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "thy works; and"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "my soul knoweth right well."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "My substance was not hid from thee, when I was made in secret,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "curiously wrought in the lowest parts of the earth."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Thine eyes did see my substance, yet being unperfect; and in thy book all"
+        },
+        {
+          "add": "my members"
+        },
+        {
+          "t": "were written,"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "in continuance were fashioned, when"
+        },
+        {
+          "add": "as yet there was"
+        },
+        {
+          "t": "none of them."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "How precious also are thy thoughts unto me, O God! how great is the sum of them!"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "add": "If"
+        },
+        {
+          "t": "I should count them, they are more in number than the sand: when I awake, I am still with thee."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "For they speak against thee wickedly,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "thine enemies take"
+        },
+        {
+          "add": "thy name"
+        },
+        {
+          "t": "in vain."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "Do not I hate them, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", that hate thee? and am not I grieved with those that rise up against thee?"
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "I hate them with perfect hatred: I count them mine enemies."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Search me, O God, and know my heart: try me, and know my thoughts:"
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "And see if"
+        },
+        {
+          "add": "there be any"
+        },
+        {
+          "t": "wicked way in me, and lead me in the way everlasting."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "compassest: or, winnowest"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 12
+      },
+      "text": "hideth…: Heb. darkeneth not"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 12
+      },
+      "text": "the darkness and…: Heb. as is the darkness, so is the light"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 14
+      },
+      "text": "right…: Heb. greatly"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 15
+      },
+      "text": "substance: or, strength, or, body"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 16
+      },
+      "text": "all…: Heb. all of them"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 16
+      },
+      "text": "which…: or, what days they should be fashioned"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 24
+      },
+      "text": "wicked…: Heb. way of pain, or, grief"
+    }
+  ]
+}

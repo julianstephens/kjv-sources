@@ -1,0 +1,240 @@
+{
+  "work": "KJV",
+  "osis": "Jonah",
+  "abbr": "JON",
+  "chapter": 4,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "But it displeased Jonah exceedingly, and he was very angry."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And he prayed unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and said, I pray thee, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ","
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Therefore now, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", take, I beseech thee, my life from me; for"
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": "better for me to die than to live."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "¶ Then said the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", Doest thou well to be angry?"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "And the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "God prepared a gourd, and made"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said,"
+        },
+        {
+          "add": "It is"
+        },
+        {
+          "t": "better for me to die than to live."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "unto death."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Then said the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and"
+        },
+        {
+          "add": "also"
+        },
+        {
+          "t": "much cattle?"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "Doest…: or, Art thou greatly angry?"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "gourd: or, palmcrist: Heb. Kikajon"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "was…: Heb. rejoiced with great joy"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 8
+      },
+      "text": "vehement: or, silent"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "Doest…: or, Art thou greatly angry?"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 9
+      },
+      "text": "I do well…: or, I am greatly angry"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 10
+      },
+      "text": "had pity: or, spared"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 10
+      },
+      "text": "came…: Heb. was the son of the night"
+    }
+  ]
+}

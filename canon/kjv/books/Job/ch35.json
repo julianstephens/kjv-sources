@@ -1,0 +1,266 @@
+{
+  "work": "KJV",
+  "osis": "Job",
+  "abbr": "JOB",
+  "chapter": 35,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Elihu spake moreover, and said,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Thinkest thou this to be right,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "thou saidst, My righteousness"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "more than God’s?"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "For thou saidst, What advantage will it be unto thee?"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": ", What profit shall I have,"
+        },
+        {
+          "add": "if I be cleansed"
+        },
+        {
+          "t": "from my sin?"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "I will answer thee, and thy companions with thee."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Look unto the heavens, and see; and behold the clouds"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "are higher than thou."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "If thou sinnest, what doest thou against him? or"
+        },
+        {
+          "add": "if"
+        },
+        {
+          "t": "thy transgressions be multiplied, what doest thou unto him?"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "If thou be righteous, what givest thou him? or what receiveth he of thine hand?"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Thy wickedness"
+        },
+        {
+          "add": "may hurt"
+        },
+        {
+          "t": "a man as thou"
+        },
+        {
+          "add": "art;"
+        },
+        {
+          "t": "and thy righteousness"
+        },
+        {
+          "add": "may profit"
+        },
+        {
+          "t": "the son of man."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "By reason of the multitude of oppressions they make"
+        },
+        {
+          "add": "the oppressed"
+        },
+        {
+          "t": "to cry: they cry out by reason of the arm of the mighty."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "But none saith, Where"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "God my maker, who giveth songs in the night;"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "There they cry, but none giveth answer, because of the pride of evil men."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Surely God will not hear vanity, neither will the Almighty regard it."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Although thou sayest thou shalt not see him,"
+        },
+        {
+          "add": "yet"
+        },
+        {
+          "t": "judgment"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "before him; therefore trust thou in him."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "But now, because"
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": "not"
+        },
+        {
+          "add": "so"
+        },
+        {
+          "t": ", he hath visited in his anger; yet he knoweth"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "not in great extremity:"
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Therefore doth Job open his mouth in vain; he multiplieth words without knowledge."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "if…: or, by it more than by my sin"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "answer…: Heb. return to thee words"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 15
+      },
+      "text": "he hath: that is, God hath"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 15
+      },
+      "text": "he knoweth: that is, Job knoweth"
+    }
+  ]
+}

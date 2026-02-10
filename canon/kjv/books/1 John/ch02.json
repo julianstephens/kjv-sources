@@ -1,0 +1,300 @@
+{
+  "work": "KJV",
+  "osis": "1 John",
+  "abbr": "1JN",
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And he is the propitiation for our sins: and not for ours only, but also for"
+        },
+        {
+          "add": "the sins of"
+        },
+        {
+          "t": "the whole world."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And hereby we do know that we know him, if we keep his commandments."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "He that saith he abideth in him ought himself also so to walk, even as he walked."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "He that saith he is in the light, and hateth his brother, is in darkness even until now."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "I write unto you, little children, because your sins are forgiven you for his name’s sake."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "I write unto you, fathers, because ye have known him"
+        },
+        {
+          "add": "that is"
+        },
+        {
+          "t": "from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "I have written unto you, fathers, because ye have known him"
+        },
+        {
+          "add": "that is"
+        },
+        {
+          "t": "from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Love not the world, neither the things"
+        },
+        {
+          "add": "that are"
+        },
+        {
+          "t": "in the world. If any man love the world, the love of the Father is not in him."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "For all that"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "They went out from us, but they were not of us; for if they had been of us, they would"
+        },
+        {
+          "add": "no doubt"
+        },
+        {
+          "t": "have continued with us: but"
+        },
+        {
+          "add": "they went out"
+        },
+        {
+          "t": ", that they might be made manifest that they were not all of us."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "But ye have an unction from the Holy One, and ye know all things."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Whosoever denieth the Son, the same hath not the Father:"
+        },
+        {
+          "add": "[but] he that acknowledgeth the Son hath the Father also"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And this is the promise that he hath promised us,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "eternal life."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "These"
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": "have I written unto you concerning them that seduce you."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him."
+        }
+      ]
+    }
+  ]
+}

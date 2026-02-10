@@ -1,0 +1,417 @@
+{
+  "work": "KJV",
+  "osis": "Prov",
+  "abbr": "PRO",
+  "chapter": 31,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "The words of king Lemuel, the prophecy that his mother taught him."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "What, my son? and what, the son of my womb? and what, the son of my vows?"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Give not thy strength unto women, nor thy ways to that which destroyeth kings."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "add": "It is"
+        },
+        {
+          "t": "not for kings, O Lemuel,"
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": "not for kings to drink wine; nor for princes strong drink:"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Let him drink, and forget his poverty, and remember his misery no more."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Open thy mouth, judge righteously, and plead the cause of the poor and needy."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "¶ Who can find a virtuous woman? for her price"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "far above rubies."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "She will do him good and not evil all the days of her life."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "She seeketh wool, and flax, and worketh willingly with her hands."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "She is like the merchants’ ships; she bringeth her food from afar."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "She girdeth her loins with strength, and strengtheneth her arms."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "She perceiveth that her merchandise"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "good: her candle goeth not out by night."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "She layeth her hands to the spindle, and her hands hold the distaff."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "She is not afraid of the snow for her household: for all her household"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "clothed with scarlet."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "She maketh herself coverings of tapestry; her clothing"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "silk and purple."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Her husband is known in the gates, when he sitteth among the elders of the land."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "She maketh fine linen, and selleth"
+        },
+        {
+          "add": "it;"
+        },
+        {
+          "t": "and delivereth girdles unto the merchant."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "Strength and honour"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "her clothing; and she shall rejoice in time to come."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "She openeth her mouth with wisdom; and in her tongue"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the law of kindness."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "She looketh well to the ways of her household, and eateth not the bread of idleness."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "Her children arise up, and call her blessed; her husband"
+        },
+        {
+          "add": "also"
+        },
+        {
+          "t": ", and he praiseth her."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "Many daughters have done virtuously, but thou excellest them all."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "Favour"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "deceitful, and beauty"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "vain:"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "a woman"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "feareth the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", she shall be praised."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "Give her of the fruit of her hands; and let her own works praise her in the gates."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "pervert: Heb. alter"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "of any…: Heb. of all the sons of affliction"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "of…: Heb. bitter of soul"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 8
+      },
+      "text": "such…: Heb. the sons of destruction"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 16
+      },
+      "text": "buyeth: Heb. taketh"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 18
+      },
+      "text": "She…: Heb. She tasteth"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 20
+      },
+      "text": "She…: Heb. She spreadeth"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 21
+      },
+      "text": "scarlet: or, double garments"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 29
+      },
+      "text": "have…: or, have gotten riches"
+    }
+  ]
+}

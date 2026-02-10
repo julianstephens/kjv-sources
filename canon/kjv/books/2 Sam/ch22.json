@@ -1,0 +1,874 @@
+{
+  "work": "KJV",
+  "osis": "2 Sam",
+  "abbr": "2SA",
+  "chapter": 22,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And David spake unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "the words of this song in the day"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "had delivered him out of the hand of all his enemies, and out of the hand of Saul:"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And he said, The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my rock, and my fortress, and my deliverer;"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "The God of my rock; in him will I trust:"
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": "my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "I will call on the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ","
+        },
+        {
+          "add": "who is"
+        },
+        {
+          "t": "worthy to be praised: so shall I be saved from mine enemies."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "When the waves of death compassed me, the floods of ungodly men made me afraid;"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "The sorrows of hell compassed me about; the snares of death prevented me;"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "In my distress I called upon the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and cried to my God: and he did hear my voice out of his temple, and my cry"
+        },
+        {
+          "add": "did enter"
+        },
+        {
+          "t": "into his ears."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "He bowed the heavens also, and came down; and darkness"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "under his feet."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "And he made darkness pavilions round about him, dark waters,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "thick clouds of the skies."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Through the brightness before him were coals of fire kindled."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "thundered from heaven, and the most High uttered his voice."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "And he sent out arrows, and scattered them; lightning, and discomfited them."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", at the blast of the breath of his nostrils."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "He sent from above, he took me; he drew me out of many waters;"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "He delivered me from my strong enemy,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "from them that hated me: for they were too strong for me."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "They prevented me in the day of my calamity: but the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "was my stay."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "He brought me forth also into a large place: he delivered me, because he delighted in me."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "rewarded me according to my righteousness: according to the cleanness of my hands hath he recompensed me."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "For I have kept the ways of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and have not wickedly departed from my God."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "For all his judgments"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "before me: and"
+        },
+        {
+          "add": "as for"
+        },
+        {
+          "t": "his statutes, I did not depart from them."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "I was also upright before him, and have kept myself from mine iniquity."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "Therefore the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath recompensed me according to my righteousness; according to my cleanness in his eye sight."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "With the merciful thou wilt shew thyself merciful,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "with the upright man thou wilt shew thyself upright."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself unsavoury."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "And the afflicted people thou wilt save: but thine eyes"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "upon the haughty,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "thou mayest bring"
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": "down."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "For thou"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "my lamp, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": and the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "will lighten my darkness."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "For by thee I have run through a troop: by my God have I leaped over a wall."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "add": "As for"
+        },
+        {
+          "t": "God, his way"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "perfect; the word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "tried: he"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a buckler to all them that trust in him."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "For who"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "God, save the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? and who"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a rock, save our God?"
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "God"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "my strength"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "power: and he maketh my way perfect."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "He maketh my feet like hinds’"
+        },
+        {
+          "add": "feet:"
+        },
+        {
+          "t": "and setteth me upon my high places."
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "He teacheth my hands to war; so that a bow of steel is broken by mine arms."
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "Thou hast also given me the shield of thy salvation: and thy gentleness hath made me great."
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "tokens": [
+        {
+          "t": "Thou hast enlarged my steps under me; so that my feet did not slip."
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "tokens": [
+        {
+          "t": "I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them."
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "tokens": [
+        {
+          "t": "And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet."
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "tokens": [
+        {
+          "t": "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me."
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "tokens": [
+        {
+          "t": "Thou hast also given me the necks of mine enemies, that I might destroy them that hate me."
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "tokens": [
+        {
+          "t": "They looked, but"
+        },
+        {
+          "add": "there was"
+        },
+        {
+          "t": "none to save;"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", but he answered them not."
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "tokens": [
+        {
+          "t": "Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "did spread them abroad."
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "tokens": [
+        {
+          "t": "Thou also hast delivered me from the strivings of my people, thou hast kept me"
+        },
+        {
+          "add": "to be"
+        },
+        {
+          "t": "head of the heathen: a people"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "I knew not shall serve me."
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "tokens": [
+        {
+          "t": "Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me."
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "tokens": [
+        {
+          "t": "Strangers shall fade away, and they shall be afraid out of their close places."
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "liveth; and blessed"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "my rock; and exalted be the God of the rock of my salvation."
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "tokens": [
+        {
+          "t": "It"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "God that avengeth me, and that bringeth down the people under me,"
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "tokens": [
+        {
+          "t": "And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man."
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "tokens": [
+        {
+          "t": "Therefore I will give thanks unto thee, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", among the heathen, and I will sing praises unto thy name."
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "tokens": [
+        {
+          "add": "He is"
+        },
+        {
+          "t": "the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "waves: or, pangs"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "ungodly…: Heb. Belial"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "sorrows: or, cords"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 9
+      },
+      "text": "out of his nostrils: Heb. by, etc"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 12
+      },
+      "text": "dark…: Heb. binding of waters"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 17
+      },
+      "text": "many: or, great"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 24
+      },
+      "text": "before: Heb. to"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 25
+      },
+      "text": "in…: Heb. before his eyes"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 27
+      },
+      "text": "shew thyself unsavoury: or, wrestle"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 29
+      },
+      "text": "lamp: or, candle"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 30
+      },
+      "text": "run: or, broken"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 31
+      },
+      "text": "tried: or, refined"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 33
+      },
+      "text": "maketh: Heb. riddeth, or, looseth"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 34
+      },
+      "text": "maketh: Heb. equalleth"
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 35
+      },
+      "text": "to war: Heb. for the war"
+    },
+    {
+      "id": "FN16",
+      "mark": "§",
+      "at": {
+        "v": 36
+      },
+      "text": "made…: Heb. multiplied me"
+    },
+    {
+      "id": "FN17",
+      "mark": "**",
+      "at": {
+        "v": 37
+      },
+      "text": "feet: Heb. ankles"
+    },
+    {
+      "id": "FN18",
+      "mark": "††",
+      "at": {
+        "v": 40
+      },
+      "text": "subdued: Heb. caused to bow"
+    },
+    {
+      "id": "FN19",
+      "mark": "‡‡",
+      "at": {
+        "v": 45
+      },
+      "text": "Strangers: Heb. Sons of the stranger"
+    },
+    {
+      "id": "FN20",
+      "mark": "§§",
+      "at": {
+        "v": 45
+      },
+      "text": "submit…: or, yield feigned obedience: Heb. lie"
+    },
+    {
+      "id": "FN21",
+      "mark": "***",
+      "at": {
+        "v": 48
+      },
+      "text": "avengeth: Heb. giveth avengement for"
+    }
+  ]
+}

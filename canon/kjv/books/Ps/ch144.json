@@ -1,0 +1,356 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 144,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Blessed"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "my strength, which teacheth my hands to war,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "my fingers to fight:"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and"
+        },
+        {
+          "add": "he"
+        },
+        {
+          "t": "in whom I trust; who subdueth my people under me."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", what"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "man, that thou takest knowledge of him!"
+        },
+        {
+          "add": "or"
+        },
+        {
+          "t": "the son of man, that thou makest account of him!"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Man is like to vanity: his days"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "as a shadow that passeth away."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Bow thy heavens, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and come down: touch the mountains, and they shall smoke."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Whose mouth speaketh vanity, and their right hand"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a right hand of falsehood."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "I will sing a new song unto thee, O God: upon a psaltery"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "an instrument of ten strings will I sing praises unto thee."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "add": "It is he"
+        },
+        {
+          "t": "that giveth salvation unto kings: who delivereth David his servant from the hurtful sword."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a right hand of falsehood:"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "That our sons"
+        },
+        {
+          "add": "may be"
+        },
+        {
+          "t": "as plants grown up in their youth;"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "our daughters"
+        },
+        {
+          "add": "may be"
+        },
+        {
+          "t": "as corner stones, polished"
+        },
+        {
+          "add": "after"
+        },
+        {
+          "t": "the similitude of a palace:"
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "add": "That"
+        },
+        {
+          "t": "our garners"
+        },
+        {
+          "add": "may be"
+        },
+        {
+          "t": "full, affording all manner of store:"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "our sheep may bring forth thousands and ten thousands in our streets:"
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "add": "That"
+        },
+        {
+          "t": "our oxen"
+        },
+        {
+          "add": "may be"
+        },
+        {
+          "t": "strong to labour;"
+        },
+        {
+          "add": "that there be"
+        },
+        {
+          "t": "no breaking in, nor going out; that"
+        },
+        {
+          "add": "there be"
+        },
+        {
+          "t": "no complaining in our streets."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Happy"
+        },
+        {
+          "add": "is that"
+        },
+        {
+          "t": "people, that is in such a case:"
+        },
+        {
+          "add": "yea"
+        },
+        {
+          "t": ", happy"
+        },
+        {
+          "add": "is that"
+        },
+        {
+          "t": "people, whose God"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "strength: Heb. rock"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "to war…: Heb. to the war, etc"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 2
+      },
+      "text": "My goodness: or, My mercy"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "hand from: Heb. hands from"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 10
+      },
+      "text": "salvation: or, victory"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 12
+      },
+      "text": "polished: Heb. cut"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 13
+      },
+      "text": "all…: Heb. from kind to kind"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 14
+      },
+      "text": "strong…: Heb. able to bear burdens, or, loaden with flesh"
+    }
+  ]
+}

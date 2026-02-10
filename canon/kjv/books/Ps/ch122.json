@@ -1,0 +1,126 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 122,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "I was glad when they said unto me, Let us go into the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Our feet shall stand within thy gates, O Jerusalem."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Jerusalem is builded as a city that is compact together:"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Whither the tribes go up, the tribes of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", unto the testimony of Israel, to give thanks unto the name of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "For there are set thrones of judgment, the thrones of the house of David."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Pray for the peace of Jerusalem: they shall prosper that love thee."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Peace be within thy walls,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "prosperity within thy palaces."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "For my brethren and companions’ sakes, I will now say, Peace"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "within thee."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Because of the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "our God I will seek thy good."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "are…: Heb. do sit"
+    }
+  ]
+}

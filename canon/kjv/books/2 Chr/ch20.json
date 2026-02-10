@@ -1,0 +1,730 @@
+{
+  "work": "KJV",
+  "osis": "2 Chr",
+  "abbr": "2CH",
+  "chapter": 20,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "It came to pass after this also,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "the children of Moab, and the children of Ammon, and with them"
+        },
+        {
+          "add": "other"
+        },
+        {
+          "t": "beside the Ammonites, came against Jehoshaphat to battle."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "in Hazazon-tamar, which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "En-gedi."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And Jehoshaphat feared, and set himself to seek the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and proclaimed a fast throughout all Judah."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And Judah gathered themselves together, to ask"
+        },
+        {
+          "add": "help"
+        },
+        {
+          "t": "of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": even out of all the cities of Judah they came to seek the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "¶ And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", before the new court,"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "And said, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "God of our fathers,"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "not thou God in heaven? and rulest"
+        },
+        {
+          "add": "not"
+        },
+        {
+          "t": "thou over all the kingdoms of the heathen? and in thine hand"
+        },
+        {
+          "add": "is there not"
+        },
+        {
+          "t": "power and might, so that none is able to withstand thee?"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "add": "Art"
+        },
+        {
+          "t": "not thou our God,"
+        },
+        {
+          "add": "who"
+        },
+        {
+          "t": "didst drive out the inhabitants of this land before thy people Israel, and gavest it to the seed of Abraham thy friend for ever?"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "And they dwelt therein, and have built thee a sanctuary therein for thy name, saying,"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "If,"
+        },
+        {
+          "add": "when"
+        },
+        {
+          "t": "evil cometh upon us,"
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": "the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in this house,) and cry unto thee in our affliction, then thou wilt hear and help."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Behold,"
+        },
+        {
+          "add": "I say, how"
+        },
+        {
+          "t": "they reward us, to come to cast us out of thy possession, which thou hast given us to inherit."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "upon thee."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "And all Judah stood before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", with their little ones, their wives, and their children."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "¶ Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "in the midst of the congregation;"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "not yours, but God’s."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Ye shall not"
+        },
+        {
+          "add": "need"
+        },
+        {
+          "t": "to fight in this"
+        },
+        {
+          "add": "battle:"
+        },
+        {
+          "t": "set yourselves, stand ye"
+        },
+        {
+          "add": "still"
+        },
+        {
+          "t": ", and see the salvation of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "will be"
+        },
+        {
+          "t": "with you."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "And Jehoshaphat bowed his head with"
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": "face to the ground: and all Judah and the inhabitants of Jerusalem fell before the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", worshipping the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "God of Israel with a loud voice on high."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "¶ And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "your God, so shall ye be established; believe his prophets, so shall ye prosper."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "And when he had consulted with the people, he appointed singers unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for his mercy"
+        },
+        {
+          "add": "endureth"
+        },
+        {
+          "t": "for ever."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "¶ And when they began to sing and to praise, the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy"
+        },
+        {
+          "add": "them:"
+        },
+        {
+          "t": "and when they had made an end of the inhabitants of Seir, every one helped to destroy another."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "And when Judah came toward the watch tower in the wilderness, they looked unto the multitude, and, behold, they"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "dead bodies fallen to the earth, and none escaped."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And when Jehoshaphat and his people came to take away the spoil of them, they found among them in abundance both riches with the dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away: and they were three days in gathering of the spoil, it was so much."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "¶ And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": therefore the name of the same place was called, The valley of Berachah, unto this day."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "had made them to rejoice over their enemies."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "And they came to Jerusalem with psalteries and harps and trumpets unto the house of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "And the fear of God was on all the kingdoms of"
+        },
+        {
+          "add": "those"
+        },
+        {
+          "t": "countries, when they had heard that the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "fought against the enemies of Israel."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "So the realm of Jehoshaphat was quiet: for his God gave him rest round about."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "¶ And Jehoshaphat reigned over Judah:"
+        },
+        {
+          "add": "he was"
+        },
+        {
+          "t": "thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother’s name"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "Azubah the daughter of Shilhi."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "And he walked in the way of Asa his father, and departed not from it, doing"
+        },
+        {
+          "add": "that which was"
+        },
+        {
+          "t": "right in the sight of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "Now the rest of the acts of Jehoshaphat, first and last, behold, they"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "written in the book of Jehu the son of Hanani, who"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "mentioned in the book of the kings of Israel."
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "¶ And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly:"
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "tokens": [
+        {
+          "t": "And he joined himself with him to make ships to go to Tarshish: and they made the ships in Ezion-geber."
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "tokens": [
+        {
+          "t": "Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath broken thy works. And the ships were broken, that they were not able to go to Tarshish."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "himself: Heb. his face"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 7
+      },
+      "text": "who: Heb. thou"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 16
+      },
+      "text": "cliff: Heb. ascent"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 16
+      },
+      "text": "brook: or, valley"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 21
+      },
+      "text": "that…: Heb. praisers"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 22
+      },
+      "text": "And when…: Heb. And in the time that they, etc"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 22
+      },
+      "text": "to sing…: Heb. in singing and praise"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 22
+      },
+      "text": "they were…: or, they smote one another"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 23
+      },
+      "text": "to destroy: Heb. for the destruction"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 24
+      },
+      "text": "none…: Heb. there was not an escaping"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 26
+      },
+      "text": "Berachah: that is, blessing"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 27
+      },
+      "text": "forefront: Heb. head"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 34
+      },
+      "text": "book of Jehu: Heb. words, etc"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 34
+      },
+      "text": "is mentioned: Heb. was made to ascend"
+    }
+  ]
+}

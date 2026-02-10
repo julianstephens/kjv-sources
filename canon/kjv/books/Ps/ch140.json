@@ -1,0 +1,225 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 140,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Deliver me, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", from the evil man: preserve me from the violent man;"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Which imagine mischiefs in"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "heart; continually are they gathered together"
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": "war."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "They have sharpened their tongues like a serpent; adders’ poison"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "under their lips. Selah."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Keep me, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "I said unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", Thou"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "my God: hear the voice of my supplications, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "O"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "the Lord, the strength of my salvation, thou hast covered my head in the day of battle."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Grant not, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", the desires of the wicked: further not his wicked device;"
+        },
+        {
+          "add": "lest"
+        },
+        {
+          "t": "they exalt themselves. Selah."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "add": "As for"
+        },
+        {
+          "t": "the head of those that compass me about, let the mischief of their own lips cover them."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow"
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "I know that the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "will maintain the cause of the afflicted,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the right of the poor."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "violent…: Heb. man of violences"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 8
+      },
+      "text": "lest…: or, let them not be exalted"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 11
+      },
+      "text": "an…: or, an evil speaker (Heb. a man of tongue), a wicked man of violence, be established in the earth: let him be hunted to his overthrow"
+    }
+  ]
+}

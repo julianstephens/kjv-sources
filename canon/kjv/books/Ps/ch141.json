@@ -1,0 +1,203 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 141,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Let my prayer be set forth before thee"
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": "incense;"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the lifting up of my hands"
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": "the evening sacrifice."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Set a watch, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", before my mouth; keep the door of my lips."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Incline not my heart to"
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": "evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Let the righteous smite me;"
+        },
+        {
+          "add": "it shall be"
+        },
+        {
+          "t": "a kindness: and let him reprove me;"
+        },
+        {
+          "add": "it shall be"
+        },
+        {
+          "t": "an excellent oil,"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "shall not break my head: for yet my prayer also"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "in their calamities."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth"
+        },
+        {
+          "add": "wood"
+        },
+        {
+          "t": "upon the earth."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "But mine eyes"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "unto thee, O"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "the Lord: in thee is my trust; leave not my soul destitute."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Keep me from the snares"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "they have laid for me, and the gins of the workers of iniquity."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Let the wicked fall into their own nets, whilst that I withal escape."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "set…: Heb. directed"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "me; it shall be a…: or, me kindly, and reprove me; let not their precious oil break, etc"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 8
+      },
+      "text": "leave…: Heb. make not my soul bare"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 10
+      },
+      "text": "escape: Heb. pass over"
+    }
+  ]
+}

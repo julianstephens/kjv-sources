@@ -1,0 +1,514 @@
+{
+  "work": "KJV",
+  "osis": "Lev",
+  "abbr": "LEV",
+  "chapter": 18,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "spake unto Moses, saying,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Speak unto the children of Israel, and say unto them, I am the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "your God."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "your God."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "¶ None of you shall approach to any that is near of kin to him, to uncover"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "nakedness: I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy mother; thou shalt not uncover her nakedness."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The nakedness of thy father’s wife shalt thou not uncover: it"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy father’s nakedness."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "The nakedness of thy sister, the daughter of thy father, or daughter of thy mother,"
+        },
+        {
+          "add": "whether she be"
+        },
+        {
+          "t": "born at home, or born abroad,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "their nakedness thou shalt not uncover."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "The nakedness of thy son’s daughter, or of thy daughter’s daughter,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "their nakedness thou shalt not uncover: for theirs"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thine own nakedness."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "The nakedness of thy father’s wife’s daughter, begotten of thy father, she"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy sister, thou shalt not uncover her nakedness."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Thou shalt not uncover the nakedness of thy father’s sister: she"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy father’s near kinswoman."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Thou shalt not uncover the nakedness of thy mother’s sister: for she"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy mother’s near kinswoman."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thine aunt."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Thou shalt not uncover the nakedness of thy daughter in law: she"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy son’s wife; thou shalt not uncover her nakedness."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Thou shalt not uncover the nakedness of thy brother’s wife: it"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy brother’s nakedness."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness;"
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": "they"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "her near kinswomen: it"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "wickedness."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "Neither shalt thou take a wife to her sister, to vex"
+        },
+        {
+          "add": "her"
+        },
+        {
+          "t": ", to uncover her nakedness, beside the other in her life"
+        },
+        {
+          "add": "time"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "And thou shalt not let any of thy seed pass through"
+        },
+        {
+          "add": "the fire"
+        },
+        {
+          "t": "to Molech, neither shalt thou profane the name of thy God: I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "Thou shalt not lie with mankind, as with womankind: it"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "abomination."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "confusion."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:"
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "Ye shall therefore keep my statutes and my judgments, and shall not commit"
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": "of these abominations;"
+        },
+        {
+          "add": "neither"
+        },
+        {
+          "t": "any of your own nation, nor any stranger that sojourneth among you:"
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "(For all these abominations have the men of the land done, which"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "before you, and the land is defiled;)"
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "That the land spue not you out also, when ye defile it, as it spued out the nations that"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "before you."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "For whosoever shall commit any of these abominations, even the souls that commit"
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": "shall be cut off from among their people."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "Therefore shall ye keep mine ordinance, that"
+        },
+        {
+          "add": "ye"
+        },
+        {
+          "t": "commit not"
+        },
+        {
+          "add": "any one"
+        },
+        {
+          "t": "of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "your God."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 6
+      },
+      "text": "near…: Heb. remainder of his flesh"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 18
+      },
+      "text": "a wife…: or, one wife to another"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 21
+      },
+      "text": "Molech: Gr. Moloch"
+    }
+  ]
+}

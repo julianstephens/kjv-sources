@@ -1,0 +1,324 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 147,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": for"
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": "good to sing praises unto our God; for"
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": "pleasant;"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "praise is comely."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "doth build up Jerusalem: he gathereth together the outcasts of Israel."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "He healeth the broken in heart, and bindeth up their wounds."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "He telleth the number of the stars; he calleth them all by"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "names."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Great"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "our Lord, and of great power: his understanding"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "infinite."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "lifteth up the meek: he casteth the wicked down to the ground."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Sing unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "with thanksgiving; sing praise upon the harp unto our God:"
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "He giveth to the beast his food,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "to the young ravens which cry."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "taketh pleasure in them that fear him, in those that hope in his mercy."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Praise the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", O Jerusalem; praise thy God, O Zion."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "He maketh peace"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "thy borders,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "filleth thee with the finest of the wheat."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "He sendeth forth his commandment"
+        },
+        {
+          "add": "upon"
+        },
+        {
+          "t": "earth: his word runneth very swiftly."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "He giveth snow like wool: he scattereth the hoarfrost like ashes."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "He casteth forth his ice like morsels: who can stand before his cold?"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "He sendeth out his word, and melteth them: he causeth his wind to blow,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the waters flow."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "He hath not dealt so with any nation: and"
+        },
+        {
+          "add": "as for his"
+        },
+        {
+          "t": "judgments, they have not known them. Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "wounds: Heb. griefs"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "his…: Heb. of his understanding there is no number"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 14
+      },
+      "text": "He…: Heb. Who maketh thy border peace"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 14
+      },
+      "text": "finest…: Heb. fat of wheat"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 19
+      },
+      "text": "his word: Heb. his words"
+    }
+  ]
+}

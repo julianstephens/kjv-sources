@@ -1,0 +1,548 @@
+{
+  "work": "KJV",
+  "osis": "Gen",
+  "abbr": "GEN",
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "In the beginning God created the heaven and the earth."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And the earth was without form, and void; and darkness"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "upon the face of the deep. And the Spirit of God moved upon the face of the waters."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And God said, Let there be light: and there was light."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And God saw the light, that"
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": "good: and God divided the light from the darkness."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "¶ And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "And God made the firmament, and divided the waters which"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "under the firmament from the waters which"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "above the firmament: and it was so."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "And God called the firmament Heaven. And the evening and the morning were the second day."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "¶ And God said, Let the waters under the heaven be gathered together unto one place, and let the dry"
+        },
+        {
+          "add": "land"
+        },
+        {
+          "t": "appear: and it was so."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And God called the dry"
+        },
+        {
+          "add": "land"
+        },
+        {
+          "t": "Earth; and the gathering together of the waters called he Seas: and God saw that"
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": "good."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "And God said, Let the earth bring forth grass, the herb yielding seed,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the fruit tree yielding fruit after his kind, whose seed"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in itself, upon the earth: and it was so."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "And the earth brought forth grass,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "herb yielding seed after his kind, and the tree yielding fruit, whose seed"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "in itself, after his kind: and God saw that"
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": "good."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "And the evening and the morning were the third day."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "¶ And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:"
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night:"
+        },
+        {
+          "add": "he made"
+        },
+        {
+          "t": "the stars also."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "And God set them in the firmament of the heaven to give light upon the earth,"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that"
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": "good."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "And the evening and the morning were the fourth day."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "may fly above the earth in the open firmament of heaven."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that"
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": "good."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "And the evening and the morning were the fifth day."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "¶ And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that"
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": "good."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "¶ And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "So God created man in his"
+        },
+        {
+          "add": "own"
+        },
+        {
+          "t": "image, in the image of God created he him; male and female created he them."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "¶ And God said, Behold, I have given you every herb bearing seed, which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "upon the face of all the earth, and every tree, in the which"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the fruit of a tree yielding seed; to you it shall be for meat."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "life,"
+        },
+        {
+          "add": "I have given"
+        },
+        {
+          "t": "every green herb for meat: and it was so."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "And God saw every thing that he had made, and, behold,"
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": "very good. And the evening and the morning were the sixth day."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "the light from…: Heb. between the light and between the darkness"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "And the evening…: Heb. And the evening was, and the morning was etc."
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "firmament: Heb. expansion"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 8
+      },
+      "text": "And the evening…: Heb. And the evening was, and the morning was etc."
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 11
+      },
+      "text": "grass: Heb. tender grass"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 13
+      },
+      "text": "And the evening…: Heb. And the evening was, and the morning was etc."
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 14
+      },
+      "text": "the day…: Heb. between the day and between the night"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 16
+      },
+      "text": "to rule the day…: Heb. for the rule of the day, etc."
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 19
+      },
+      "text": "And the evening…: Heb. And the evening was, and the morning was etc."
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 20
+      },
+      "text": "moving: or, creeping"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 20
+      },
+      "text": "life: Heb. soul"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 20
+      },
+      "text": "fowl…: Heb. let fowl fly"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 20
+      },
+      "text": "open…: Heb. face of the firmament of heaven"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 23
+      },
+      "text": "And the evening…: Heb. And the evening was, and the morning was etc."
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 28
+      },
+      "text": "moveth: Heb. creepeth"
+    },
+    {
+      "id": "FN16",
+      "mark": "§",
+      "at": {
+        "v": 29
+      },
+      "text": "bearing…: Heb. seeding seed"
+    },
+    {
+      "id": "FN17",
+      "mark": "**",
+      "at": {
+        "v": 29
+      },
+      "text": "yielding…: Heb. seeding seed"
+    },
+    {
+      "id": "FN18",
+      "mark": "††",
+      "at": {
+        "v": 30
+      },
+      "text": "life: Heb. a living soul"
+    },
+    {
+      "id": "FN19",
+      "mark": "‡‡",
+      "at": {
+        "v": 31
+      },
+      "text": "And the evening…: Heb. And the evening was, and the morning was etc."
+    }
+  ]
+}

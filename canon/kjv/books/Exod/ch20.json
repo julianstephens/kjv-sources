@@ -1,0 +1,378 @@
+{
+  "work": "KJV",
+  "osis": "Exod",
+  "abbr": "EXO",
+  "chapter": 20,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And God spake all these words, saying,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Thou shalt have no other gods before me."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Thou shalt not make unto thee any graven image, or any likeness"
+        },
+        {
+          "add": "of any thing"
+        },
+        {
+          "t": "that"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in heaven above, or that"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in the earth beneath, or that"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "in the water under the earth:"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Thou shalt not bow down thyself to them, nor serve them: for I the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "thy God"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth"
+        },
+        {
+          "add": "generation"
+        },
+        {
+          "t": "of them that hate me;"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "And shewing mercy unto thousands of them that love me, and keep my commandments."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Thou shalt not take the name of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "thy God in vain; for the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "will not hold him guiltless that taketh his name in vain."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Remember the sabbath day, to keep it holy."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Six days shalt thou labour, and do all thy work:"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "But the seventh day"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the sabbath of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "thy God:"
+        },
+        {
+          "add": "in it"
+        },
+        {
+          "t": "thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "within thy gates:"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "For"
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": "six days the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "made heaven and earth, the sea, and all that in them"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": ", and rested the seventh day: wherefore the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "blessed the sabbath day, and hallowed it."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "¶ Honour thy father and thy mother: that thy days may be long upon the land which the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "thy God giveth thee."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Thou shalt not kill."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Thou shalt not commit adultery."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Thou shalt not steal."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "Thou shalt not bear false witness against thy neighbour."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "thy neighbour’s."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "¶ And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", they removed, and stood afar off."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "And the people stood afar off, and Moses drew near unto the thick darkness where God"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "¶ And the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "¶ An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "bondage: Heb. servants"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 25
+      },
+      "text": "build…: Heb. build them with hewing"
+    }
+  ]
+}

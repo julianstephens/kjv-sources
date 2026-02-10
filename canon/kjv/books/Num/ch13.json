@@ -1,0 +1,480 @@
+{
+  "work": "KJV",
+  "osis": "Num",
+  "abbr": "NUM",
+  "chapter": 13,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "spake unto Moses, saying,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And Moses by the commandment of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "sent them from the wilderness of Paran: all those men"
+        },
+        {
+          "add": " were"
+        },
+        {
+          "t": "heads of the children of Israel."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "And these"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": "their names: of the tribe of Reuben, Shammua the son of Zaccur."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Of the tribe of Simeon, Shaphat the son of Hori."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Of the tribe of Judah, Caleb the son of Jephunneh."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Of the tribe of Issachar, Igal the son of Joseph."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Of the tribe of Ephraim, Oshea the son of Nun."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Of the tribe of Benjamin, Palti the son of Raphu."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Of the tribe of Zebulun, Gaddiel the son of Sodi."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Of the tribe of Joseph,"
+        },
+        {
+          "add": "namely"
+        },
+        {
+          "t": ", of the tribe of Manasseh, Gaddi the son of Susi."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Of the tribe of Dan, Ammiel the son of Gemalli."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Of the tribe of Asher, Sethur the son of Michael."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Of the tribe of Naphtali, Nahbi the son of Vophsi."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "Of the tribe of Gad, Geuel the son of Machi."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "These"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "¶ And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this"
+        },
+        {
+          "add": "way"
+        },
+        {
+          "t": "southward, and go up into the mountain:"
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "And see the land, what it"
+        },
+        {
+          "add": "is;"
+        },
+        {
+          "t": "and the people that dwelleth therein, whether they"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "strong or weak, few or many;"
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "And what the land"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "that they dwell in, whether it"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "good or bad; and what cities"
+        },
+        {
+          "add": "they be"
+        },
+        {
+          "t": "that they dwell in, whether in tents, or in strong holds;"
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "And what the land"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": ", whether it"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "the time of the firstripe grapes."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "¶ So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak,"
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": ". (Now Hebron was built seven years before Zoan in Egypt.)"
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and"
+        },
+        {
+          "add": "they brought"
+        },
+        {
+          "t": "of the pomegranates, and of the figs."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "And they returned from searching of the land after forty days."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "¶ And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the fruit of it."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "Nevertheless the people"
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": "strong that dwell in the land, and the cities"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "walled,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "very great: and moreover we saw the children of Anak there."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "t": "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "But the men that went up with him said, We be not able to go up against the people; for they"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "stronger than we."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it,"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a land that eateth up the inhabitants thereof; and all the people that we saw in it"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "men of a great stature."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "And there we saw the giants, the sons of Anak,"
+        },
+        {
+          "add": "which come"
+        },
+        {
+          "t": "of the giants: and we were in our own sight as grasshoppers, and so we were in their sight."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 8
+      },
+      "text": "Oshea: also called, Joshua"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 16
+      },
+      "text": "Oshea: also called Joshua"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 16
+      },
+      "text": "Jehoshua: or, Joshua"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 23
+      },
+      "text": "brook: or, valley"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 24
+      },
+      "text": "brook: or, valley"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 24
+      },
+      "text": "Eshcol: that is, A cluster of grapes"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 32
+      },
+      "text": "men…: Heb. men of statures"
+    }
+  ]
+}

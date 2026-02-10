@@ -1,0 +1,317 @@
+{
+  "work": "KJV",
+  "osis": "Eccl",
+  "abbr": "ECC",
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "The words of the Preacher, the son of David, king in Jerusalem."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Vanity of vanities, saith the Preacher, vanity of vanities; all"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "vanity."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "What profit hath a man of all his labour which he taketh under the sun?"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "add": "One"
+        },
+        {
+          "t": "generation passeth away, and"
+        },
+        {
+          "add": "another"
+        },
+        {
+          "t": "generation cometh: but the earth abideth for ever."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "All the rivers run into the sea; yet the sea"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "not full; unto the place from whence the rivers come, thither they return again."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "All things"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "full of labour; man cannot utter"
+        },
+        {
+          "add": "it:"
+        },
+        {
+          "t": "the eye is not satisfied with seeing, nor the ear filled with hearing."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "The thing that hath been, it"
+        },
+        {
+          "add": "is that"
+        },
+        {
+          "t": "which shall be; and that which is done"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "that which shall be done: and"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "no new"
+        },
+        {
+          "add": "thing"
+        },
+        {
+          "t": "under the sun."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Is there"
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": "thing whereof it may be said, See, this"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "new? it hath been already of old time, which was before us."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "add": "There is"
+        },
+        {
+          "t": "no remembrance of former"
+        },
+        {
+          "add": "things;"
+        },
+        {
+          "t": "neither shall there be"
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": "remembrance of"
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": "that are to come with"
+        },
+        {
+          "add": "those"
+        },
+        {
+          "t": "that shall come after."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "¶ I the Preacher was king over Israel in Jerusalem."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "And I gave my heart to seek and search out by wisdom concerning all"
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": "that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "I have seen all the works that are done under the sun; and, behold, all"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "vanity and vexation of spirit."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "add": "That which is"
+        },
+        {
+          "t": "crooked cannot be made straight: and that which is wanting cannot be numbered."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all"
+        },
+        {
+          "add": "they"
+        },
+        {
+          "t": "that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "t": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "For in much wisdom"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "much grief: and he that increaseth knowledge increaseth sorrow."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "hasteth: Heb. panteth"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 7
+      },
+      "text": "return…: Heb. return to go"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 13
+      },
+      "text": "to be…: or, to afflict them"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 15
+      },
+      "text": "that which is wanting: Heb. defect"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 16
+      },
+      "text": "had…: Heb. had seen much"
+    }
+  ]
+}

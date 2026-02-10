@@ -1,0 +1,246 @@
+{
+  "work": "KJV",
+  "osis": "Isa",
+  "abbr": "ISA",
+  "chapter": 55,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Wherefore do ye spend money for"
+        },
+        {
+          "add": "that which is"
+        },
+        {
+          "t": "not bread? and your labour for"
+        },
+        {
+          "add": "that which"
+        },
+        {
+          "t": "satisfieth not? hearken diligently unto me, and eat ye"
+        },
+        {
+          "add": "that which is"
+        },
+        {
+          "t": "good, and let your soul delight itself in fatness."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you,"
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": "the sure mercies of David."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Behold, I have given him"
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": "a witness to the people, a leader and commander to the people."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Behold, thou shalt call a nation"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "thou knowest not, and nations"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "knew not thee shall run unto thee because of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "thy God, and for the Holy One of Israel; for he hath glorified thee."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "¶ Seek ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "while he may be found, call ye upon him while he is near:"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and he will have mercy upon him; and to our God, for he will abundantly pardon."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "¶ For my thoughts"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "not your thoughts, neither"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "your ways my ways, saith the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "For"
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": "the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:"
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper"
+        },
+        {
+          "add": "in the thing"
+        },
+        {
+          "t": "whereto I sent it."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap"
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": "hands."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "for a name, for an everlasting sign"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "shall not be cut off."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "spend: Heb. weigh"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 7
+      },
+      "text": "the unrighteous…: Heb. the man of iniquity"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "abundantly…: Heb. multiply to pardon"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 130,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Out of the depths have I cried unto thee, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "If thou,"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", shouldest mark iniquities, O Lord, who shall stand?"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "But"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "forgiveness with thee, that thou mayest be feared."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "I wait for the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", my soul doth wait, and in his word do I hope."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "My soul"
+        },
+        {
+          "add": "waiteth"
+        },
+        {
+          "t": "for the Lord more than they that watch for the morning:"
+        },
+        {
+          "add": "I say, more than"
+        },
+        {
+          "t": "they that watch for the morning."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Let Israel hope in the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": for with the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "mercy, and with him"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "plenteous redemption."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "And he shall redeem Israel from all his iniquities."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 6
+      },
+      "text": "I say…: or, which watch unto"
+    }
+  ]
+}

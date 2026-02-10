@@ -1,0 +1,240 @@
+{
+  "work": "KJV",
+  "osis": "Isa",
+  "abbr": "ISA",
+  "chapter": 64,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "As"
+        },
+        {
+          "add": "when"
+        },
+        {
+          "t": "the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries,"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "the nations may tremble at thy presence!"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "When thou didst terrible things"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "we looked not for, thou camest down, the mountains flowed down at thy presence."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "For since the beginning of the world"
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": "have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee,"
+        },
+        {
+          "add": "what"
+        },
+        {
+          "t": "he hath prepared for him that waiteth for him."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Thou meetest him that rejoiceth and worketh righteousness,"
+        },
+        {
+          "add": "those that"
+        },
+        {
+          "t": "remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "But we are all as an unclean"
+        },
+        {
+          "add": "thing"
+        },
+        {
+          "t": ", and all our righteousnesses"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "And"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "But now, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", thou"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "our father; we"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "the clay, and thou our potter; and we all"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "the work of thy hand."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "¶ Be not wroth very sore, O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", neither remember iniquity for ever: behold, see, we beseech thee, we"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "all thy people."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Wilt thou refrain thyself for these"
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": ", O"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? wilt thou hold thy peace, and afflict us very sore?"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "the melting…: Heb. the fire of meltings"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "seen…: or, seen a God beside thee, which doeth so for him, etc"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "consumed: Heb. melted"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "because: Heb. by the hand"
+    }
+  ]
+}

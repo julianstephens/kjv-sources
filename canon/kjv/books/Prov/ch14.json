@@ -1,0 +1,550 @@
+{
+  "work": "KJV",
+  "osis": "Prov",
+  "abbr": "PRO",
+  "chapter": 14,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "He that walketh in his uprightness feareth the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": but"
+        },
+        {
+          "add": "he that is"
+        },
+        {
+          "t": "perverse in his ways despiseth him."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "In the mouth of the foolish"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a rod of pride: but the lips of the wise shall preserve them."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Where no oxen"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": ", the crib"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "clean: but much increase"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "by the strength of the ox."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "A faithful witness will not lie: but a false witness will utter lies."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "A scorner seeketh wisdom, and"
+        },
+        {
+          "add": "findeth it"
+        },
+        {
+          "t": "not: but knowledge"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "easy unto him that understandeth."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "Go from the presence of a foolish man, when thou perceivest not"
+        },
+        {
+          "add": "in him"
+        },
+        {
+          "t": "the lips of knowledge."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "The wisdom of the prudent"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "to understand his way: but the folly of fools"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "deceit."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "Fools make a mock at sin: but among the righteous"
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": "favour."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "There is a way which seemeth right unto a man, but the end thereof"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "the ways of death."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "Even in laughter the heart is sorrowful; and the end of that mirth"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "heaviness."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "The backslider in heart shall be filled with his own ways: and a good man"
+        },
+        {
+          "add": "shall be satisfied"
+        },
+        {
+          "t": "from himself."
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "tokens": [
+        {
+          "t": "The simple believeth every word: but the prudent"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "looketh well to his going."
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "tokens": [
+        {
+          "t": "A wise"
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": "feareth, and departeth from evil: but the fool rageth, and is confident."
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "tokens": [
+        {
+          "add": "He that is"
+        },
+        {
+          "t": "soon angry dealeth foolishly: and a man of wicked devices is hated."
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "tokens": [
+        {
+          "t": "The simple inherit folly: but the prudent are crowned with knowledge."
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "tokens": [
+        {
+          "t": "The evil bow before the good; and the wicked at the gates of the righteous."
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "tokens": [
+        {
+          "t": "The poor is hated even of his own neighbour: but the rich"
+        },
+        {
+          "add": "hath"
+        },
+        {
+          "t": "many friends."
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "tokens": [
+        {
+          "t": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "he."
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "tokens": [
+        {
+          "t": "Do they not err that devise evil? but mercy and truth"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "to them that devise good."
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "tokens": [
+        {
+          "t": "In all labour there is profit: but the talk of the lips"
+        },
+        {
+          "add": "tendeth"
+        },
+        {
+          "t": "only to penury."
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "tokens": [
+        {
+          "t": "The crown of the wise"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "their riches:"
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": "the foolishness of fools"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "folly."
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "tokens": [
+        {
+          "t": "A true witness delivereth souls: but a deceitful"
+        },
+        {
+          "add": "witness"
+        },
+        {
+          "t": "speaketh lies."
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "tokens": [
+        {
+          "t": "In the fear of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "strong confidence: and his children shall have a place of refuge."
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "tokens": [
+        {
+          "t": "The fear of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a fountain of life, to depart from the snares of death."
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "tokens": [
+        {
+          "t": "In the multitude of people"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the king’s honour: but in the want of people"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the destruction of the prince."
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "tokens": [
+        {
+          "add": "He that is"
+        },
+        {
+          "t": "slow to wrath"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "of great understanding: but"
+        },
+        {
+          "add": "he that is"
+        },
+        {
+          "t": "hasty of spirit exalteth folly."
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "tokens": [
+        {
+          "t": "A sound heart"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the life of the flesh: but envy the rottenness of the bones."
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "tokens": [
+        {
+          "t": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor."
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "tokens": [
+        {
+          "t": "The wicked is driven away in his wickedness: but the righteous hath hope in his death."
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "tokens": [
+        {
+          "t": "Wisdom resteth in the heart of him that hath understanding: but"
+        },
+        {
+          "add": "that which is"
+        },
+        {
+          "t": "in the midst of fools is made known."
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "tokens": [
+        {
+          "t": "Righteousness exalteth a nation: but sin"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "a reproach to any people."
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "tokens": [
+        {
+          "t": "The king’s favour"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "toward a wise servant: but his wrath is"
+        },
+        {
+          "add": "against"
+        },
+        {
+          "t": "him that causeth shame."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 10
+      },
+      "text": "his own…: Heb. the bitterness of his soul"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 20
+      },
+      "text": "the rich…: Heb. many are the lovers of the rich"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 29
+      },
+      "text": "hasty…: Heb. short of spirit"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 34
+      },
+      "text": "to any…: Heb. to nations"
+    }
+  ]
+}

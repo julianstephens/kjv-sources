@@ -1,0 +1,118 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 110,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Thy people"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath sworn, and will not repent, Thou"
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": "a priest for ever after the order of Melchizedek."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "The Lord at thy right hand shall strike through kings in the day of his wrath."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "He shall judge among the heathen, he shall fill"
+        },
+        {
+          "add": "the places"
+        },
+        {
+          "t": "with the dead bodies; he shall wound the heads over many countries."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "He shall drink of the brook in the way: therefore shall he lift up the head."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "from…: or, more than the womb of the morning: thou shalt have, etc"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "many: or, great"
+    }
+  ]
+}

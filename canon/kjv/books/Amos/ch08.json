@@ -1,0 +1,254 @@
+{
+  "work": "KJV",
+  "osis": "Amos",
+  "abbr": "AMO",
+  "chapter": 8,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Thus hath the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": "shewed unto me: and behold a basket of summer fruit."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And he said, Amos, what seest thou? And I said, A basket of summer fruit. Then said the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "unto me, The end is come upon my people of Israel; I will not again pass by them any more."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "And the songs of the temple shall be howlings in that day, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ":"
+        },
+        {
+          "add": "there shall be"
+        },
+        {
+          "t": "many dead bodies in every place; they shall cast"
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": "forth with silence."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "¶ Hear this, O ye that swallow up the needy, even to make the poor of the land to fail,"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?"
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "That we may buy the poor for silver, and the needy for a pair of shoes;"
+        },
+        {
+          "add": "yea"
+        },
+        {
+          "t": ", and sell the refuse of the wheat?"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "The"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "hath sworn by the excellency of Jacob, Surely I will never forget any of their works."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "Shall not the land tremble for this, and every one mourn that dwelleth therein? and it shall rise up wholly as a flood; and it shall be cast out and drowned, as"
+        },
+        {
+          "add": "by"
+        },
+        {
+          "t": "the flood of Egypt."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "And it shall come to pass in that day, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ", that I will cause the sun to go down at noon, and I will darken the earth in the clear day:"
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only"
+        },
+        {
+          "add": "son"
+        },
+        {
+          "t": ", and the end thereof as a bitter day."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "¶ Behold, the days come, saith the Lord"
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ", that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ":"
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and shall not find"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "In that day shall the fair virgins and young men faint for thirst."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beer-sheba liveth; even they shall fall, and never rise up again."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "shall be howlings: Heb. shall howl"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "with…: Heb. be silent"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "new…: or, month"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 5
+      },
+      "text": "set…: Heb. open"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 5
+      },
+      "text": "falsifying…: Heb. perverting the balances of deceit"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 14
+      },
+      "text": "manner: Heb. way"
+    }
+  ]
+}

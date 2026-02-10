@@ -1,0 +1,282 @@
+{
+  "work": "KJV",
+  "osis": "Song",
+  "abbr": "SNG",
+  "chapter": 7,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "like jewels, the work of the hands of a cunning workman."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "Thy navel"
+        },
+        {
+          "add": "is like"
+        },
+        {
+          "t": "a round goblet,"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "wanteth not liquor: thy belly"
+        },
+        {
+          "add": "is like"
+        },
+        {
+          "t": "an heap of wheat set about with lilies."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Thy two breasts"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "like two young roes"
+        },
+        {
+          "add": "that are"
+        },
+        {
+          "t": "twins."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Thy neck"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "as a tower of ivory; thine eyes"
+        },
+        {
+          "add": "like"
+        },
+        {
+          "t": "the fishpools in Heshbon, by the gate of Bath-rabbim: thy nose"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "as the tower of Lebanon which looketh toward Damascus."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Thine head upon thee"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "like Carmel, and the hair of thine head like purple; the king"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "held in the galleries."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "How fair and how pleasant art thou, O love, for delights!"
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "This thy stature is like to a palm tree, and thy breasts to clusters"
+        },
+        {
+          "add": "of grapes"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "And the roof of thy mouth like the best wine for my beloved, that goeth"
+        },
+        {
+          "add": "down"
+        },
+        {
+          "t": "sweetly, causing the lips of those that are asleep to speak."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "¶ I"
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": "my beloved’s, and his desire"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "toward me."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "Come, my beloved, let us go forth into the field; let us lodge in the villages."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "Let us get up early to the vineyards; let us see if the vine flourish,"
+        },
+        {
+          "add": "whether"
+        },
+        {
+          "t": "the tender grape appear,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "the pomegranates bud forth: there will I give thee my loves."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "The mandrakes give a smell, and at our gates"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "all manner of pleasant"
+        },
+        {
+          "add": "fruits"
+        },
+        {
+          "t": ", new and old,"
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": "I have laid up for thee, O my beloved."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "liquor: Heb. mixture"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "Carmel: or, crimson"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "held: Heb. bound"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 9
+      },
+      "text": "sweetly: Heb. straightly"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "of those…: or, of the ancient"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 12
+      },
+      "text": "appear: Heb. open"
+    }
+  ]
+}

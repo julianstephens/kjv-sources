@@ -1,0 +1,172 @@
+{
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 112,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "Praise ye the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". Blessed"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "the man"
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "feareth the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ","
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": "delighteth greatly in his commandments."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "His seed shall be mighty upon earth: the generation of the upright shall be blessed."
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "Wealth and riches"
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": "in his house: and his righteousness endureth for ever."
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "Unto the upright there ariseth light in the darkness:"
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": "gracious, and full of compassion, and righteous."
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "A good man sheweth favour, and lendeth: he will guide his affairs with discretion."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the"
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "His heart"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "established, he shall not be afraid, until he see"
+        },
+        {
+          "add": "his desire"
+        },
+        {
+          "t": "upon his enemies."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "The wicked shall see"
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Praise…: Heb. Hallelujah"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "discretion: Heb. judgment"
+    }
+  ]
+}

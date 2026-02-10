@@ -1,0 +1,206 @@
+{
+  "work": "KJV",
+  "osis": "Job",
+  "abbr": "JOB",
+  "chapter": 26,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "But Job answered and said,"
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "How hast thou helped"
+        },
+        {
+          "add": "him that is"
+        },
+        {
+          "t": "without power?"
+        },
+        {
+          "add": "how"
+        },
+        {
+          "t": "savest thou the arm"
+        },
+        {
+          "add": "that hath"
+        },
+        {
+          "t": "no strength?"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "How hast thou counselled"
+        },
+        {
+          "add": "him that hath"
+        },
+        {
+          "t": "no wisdom? and"
+        },
+        {
+          "add": "how"
+        },
+        {
+          "t": "hast thou plentifully declared the thing as it is?"
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "tokens": [
+        {
+          "t": "To whom hast thou uttered words? and whose spirit came from thee?"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "tokens": [
+        {
+          "t": "Dead"
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": "are formed from under the waters, and the inhabitants thereof."
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "tokens": [
+        {
+          "t": "Hell"
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": "naked before him, and destruction hath no covering."
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "tokens": [
+        {
+          "t": "He stretcheth out the north over the empty place,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "hangeth the earth upon nothing."
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "tokens": [
+        {
+          "t": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them."
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "tokens": [
+        {
+          "t": "He holdeth back the face of his throne,"
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": "spreadeth his cloud upon it."
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "tokens": [
+        {
+          "t": "He hath compassed the waters with bounds, until the day and night come to an end."
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "tokens": [
+        {
+          "t": "The pillars of heaven tremble and are astonished at his reproof."
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "tokens": [
+        {
+          "t": "He divideth the sea with his power, and by his understanding he smiteth through the proud."
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "tokens": [
+        {
+          "t": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent."
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "tokens": [
+        {
+          "t": "Lo, these"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?"
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "and the…: or, with the inhabitants"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 10
+      },
+      "text": "until…: Heb. until the end of light with darkness"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 12
+      },
+      "text": "the proud: Heb. pride"
+    }
+  ]
+}

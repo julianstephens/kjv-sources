@@ -1,0 +1,60 @@
+{
+  "work": "KJV",
+  "osis": "Esth",
+  "abbr": "EST",
+  "chapter": 10,
+  "verses": [
+    {
+      "v": 1,
+      "tokens": [
+        {
+          "t": "And the king Ahasuerus laid a tribute upon the land, and"
+        },
+        {
+          "add": "upon"
+        },
+        {
+          "t": "the isles of the sea."
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "tokens": [
+        {
+          "t": "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him,"
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": "they not written in the book of the chronicles of the kings of Media and Persia?"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "tokens": [
+        {
+          "t": "For Mordecai the Jew"
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": "next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed."
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "advanced…: Heb. made him great"
+    }
+  ]
+}
