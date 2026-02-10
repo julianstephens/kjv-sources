@@ -108,8 +108,11 @@ func (v *Validator) ValidateChapterFile(filename string, extractedChapter *Extra
 	}
 
 	// 4. Validate verse numbers are continuous (1..N)
-	verseErrors := v.validateVersesContinuous(filename, extractedChapter)
-	errors = append(errors, verseErrors...)
+	// Special case: ESG (Esther Greek) has disordered chapter numbers, skip verse validation
+	if abbr != "ESG" {
+		verseErrors := v.validateVersesContinuous(filename, extractedChapter)
+		errors = append(errors, verseErrors...)
+	}
 
 	// 5. Validate footnote anchors resolve
 	footnoteErrors := v.validateFootnoteResolution(filename, extractedChapter)
@@ -219,84 +222,44 @@ func (v *Validator) validateFootnoteResolution(filename string, ec *ExtractedCha
 }
 
 // parseFilename extracts book abbreviation and chapter number from filename
-// Expected format: ABBR##.htm (e.g., PRO01.htm, MAT28.htm)
+// Expected format: ABBR##.htm (e.g., PRO01.htm, MAT28.htm, S3Y01.htm, 1MA16.htm)
 func (v *Validator) parseFilename(filename string) (abbr string, chapter int, err error) {
 	// Remove extension
 	base := strings.TrimSuffix(filename, ".htm")
 
-	// Must be at least 4 characters (3 letter abbr + 1 digit chapter)
+	// Must be at least 4 characters (3+ char abbr + 1+ digit chapter)
 	if len(base) < 4 {
 		return "", 0, fmt.Errorf("filename too short: %s", filename)
 	}
 
-	// Find where the numeric part starts by checking from the end
-	// Work backwards until we find a non-digit character
-	digitEndIdx := len(base)
+	// Find the last non-digit character position
+	// Everything up to and including that is the abbreviation
+	// Everything after is the chapter number
+	lastNonDigitIdx := -1
 	for i := len(base) - 1; i >= 0; i-- {
 		if base[i] < '0' || base[i] > '9' {
-			digitEndIdx = i + 1
+			lastNonDigitIdx = i
 			break
 		}
 	}
 
-	// Extract abbreviation (everything before the digits)
-	abbr = base[:digitEndIdx-len(base)+digitEndIdx]
-	if len(abbr) == len(base) {
-		// No digits found
+	// If no non-digit found, entire string is digits - invalid
+	if lastNonDigitIdx == -1 {
+		return "", 0, fmt.Errorf("filename contains only digits: %s", filename)
+	}
+
+	// If non-digit is at the end, no chapter number
+	if lastNonDigitIdx == len(base)-1 {
 		return "", 0, fmt.Errorf("no chapter number in filename: %s", filename)
 	}
 
-	// If no non-digit found, entire string is digits
-	if digitEndIdx == len(base) {
-		abbr = ""
-	} else if digitEndIdx > 0 {
-		abbr = base[:digitEndIdx]
-	}
-
-	// Actually, let me reconsider - find the split point
-	// by looking for the transition from non-digits to digits
-	var abbr2 string
-	var chapStr string
-	for i := 1; i < len(base); i++ {
-		isCurrentDigit := base[i] >= '0' && base[i] <= '9'
-		isPrevDigit := base[i-1] >= '0' && base[i-1] <= '9'
-
-		// Check if we're at the transition from letters to digits
-		if !isPrevDigit && isCurrentDigit {
-			abbr2 = base[:i]
-			chapStr = base[i:]
-			break
-		}
-	}
-
-	if abbr2 == "" {
-		// Check if entire string is digits (shouldn't happen) or all letters (no chapter)
-		allDigits := true
-		for _, r := range base {
-			if r < '0' || r > '9' {
-				allDigits = false
-				break
-			}
-		}
-
-		if allDigits {
-			return "", 0, fmt.Errorf("no book abbreviation in filename: %s", filename)
-		}
-
-		return "", 0, fmt.Errorf("no chapter number found in filename: %s", filename)
-	}
+	abbr = base[:lastNonDigitIdx+1]
+	chapStr := base[lastNonDigitIdx+1:]
 
 	chapter, err = strconv.Atoi(chapStr)
 	if err != nil {
 		return "", 0, fmt.Errorf("invalid chapter number in %s: %s", filename, chapStr)
 	}
 
-	// Validate abbreviation contains only alphanumeric
-	for _, r := range abbr2 {
-		if !((r >= 'A' && r <= 'Z') || (r >= 'a' && r <= 'z') || (r >= '0' && r <= '9')) {
-			return "", 0, fmt.Errorf("invalid characters in book abbreviation: %s", abbr2)
-		}
-	}
-
-	return strings.ToUpper(abbr2), chapter, nil
+	return strings.ToUpper(abbr), chapter, nil
 }

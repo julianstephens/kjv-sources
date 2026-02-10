@@ -17,10 +17,11 @@ type Processor struct {
 	rawDir    string
 	outputDir string
 	repoRoot  string
+	verbose   bool
 }
 
 // NewProcessor creates a new processor
-func NewProcessor(indexDir, rawDir, outputDir string) (*Processor, error) {
+func NewProcessor(indexDir, rawDir, outputDir string, verbose bool) (*Processor, error) {
 	metadata, err := NewMetadataLoader(indexDir)
 	if err != nil {
 		return nil, err
@@ -36,6 +37,7 @@ func NewProcessor(indexDir, rawDir, outputDir string) (*Processor, error) {
 		rawDir:    rawDir,
 		outputDir: outputDir,
 		repoRoot:  repoRoot,
+		verbose:   verbose,
 	}, nil
 }
 
@@ -55,6 +57,10 @@ func (proc *Processor) ProcessBook(abbr string) (*ProcessResult, error) {
 
 	result.OSIS = bookMeta.OSIS
 
+	if proc.verbose {
+		fmt.Printf("Processing book: %s (%s)\n", abbr, bookMeta.OSIS)
+	}
+
 	// Validate book structure
 	validationErrs, err := proc.validator.ValidateBook(abbr)
 	if err != nil {
@@ -72,12 +78,17 @@ func (proc *Processor) ProcessBook(abbr string) (*ProcessResult, error) {
 	for _, filePath := range chapters.Chapters {
 		result.FilesProcessed++
 
-		// Read HTML file
-		htmlPath := filepath.Join(proc.rawDir, filepath.Base(filePath))
+		// filePath is now a relative path like "raw/html/ot/GEN/GEN35.htm"
+		// Join with repoRoot to get absolute path
+		htmlPath := filepath.Join(proc.repoRoot, filePath)
 		htmlContent, err := os.ReadFile(htmlPath)
 		if err != nil {
+			filename := filepath.Base(filePath)
+			if proc.verbose {
+				fmt.Printf("  Error reading file %s: %v\n", filename, err)
+			}
 			result.Errors = append(result.Errors, ValidationError{
-				File:    filepath.Base(htmlPath),
+				File:    filename,
 				Type:    "parse",
 				Message: fmt.Sprintf("failed to read file: %v", err),
 			})
@@ -86,10 +97,14 @@ func (proc *Processor) ProcessBook(abbr string) (*ProcessResult, error) {
 		}
 
 		// Parse HTML
-		extractedChapter, err := proc.parser.Parse(htmlContent, filepath.Base(htmlPath))
+		filename := filepath.Base(filePath)
+		extractedChapter, err := proc.parser.Parse(htmlContent, filename)
 		if err != nil {
+			if proc.verbose {
+				fmt.Printf("  Error parsing file %s: %v\n", filename, err)
+			}
 			result.Errors = append(result.Errors, ValidationError{
-				File:    filepath.Base(htmlPath),
+				File:    filename,
 				Type:    "parse",
 				Message: fmt.Sprintf("failed to parse HTML: %v", err),
 			})
@@ -98,8 +113,14 @@ func (proc *Processor) ProcessBook(abbr string) (*ProcessResult, error) {
 		}
 
 		// Validate chapter
-		fileErrors := proc.validator.ValidateChapterFile(filepath.Base(htmlPath), extractedChapter)
+		fileErrors := proc.validator.ValidateChapterFile(filename, extractedChapter)
 		if len(fileErrors) > 0 {
+			if proc.verbose {
+				fmt.Printf("  Validation errors in %s: %d error(s)\n", filename, len(fileErrors))
+				for _, fe := range fileErrors {
+					fmt.Printf("    - [%s] %s\n", fe.Type, fe.Message)
+				}
+			}
 			result.Errors = append(result.Errors, fileErrors...)
 			proc.updateVerificationStats(result, fileErrors)
 			result.FilesSkipped++
@@ -112,8 +133,11 @@ func (proc *Processor) ProcessBook(abbr string) (*ProcessResult, error) {
 		// Write output
 		outputPath, err := proc.writeChapterJSON(chapter)
 		if err != nil {
+			if proc.verbose {
+				fmt.Printf("  Error writing output for %s: %v\n", filename, err)
+			}
 			result.Errors = append(result.Errors, ValidationError{
-				File:    filepath.Base(htmlPath),
+				File:    filename,
 				Type:    "parse",
 				Message: fmt.Sprintf("failed to write output: %v", err),
 			})
@@ -171,6 +195,7 @@ func (proc *Processor) extractedToChapter(ec *ExtractedChapter, book BookMetadat
 	}
 
 	return &Chapter{
+		Schema:    1,
 		Work:      "KJV",
 		OSIS:      book.OSIS,
 		Abbr:      book.Abbr,

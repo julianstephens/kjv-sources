@@ -63,6 +63,7 @@ type ChapterMeta struct {
 
 // Chapter represents a complete chapter with verses and footnotes
 type Chapter struct {
+	Schema    int        `json:"schema"`
 	Work      string     `json:"work"`
 	OSIS      string     `json:"osis"`
 	Abbr      string     `json:"abbr"`

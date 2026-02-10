@@ -1,4 +1,4 @@
-package extract
+package main
 
 import (
 	"encoding/json"
@@ -81,8 +81,8 @@ func getOrder(abbr string) int {
 	return 0
 }
 
-func loadOSISMapping(metadataDir string) (map[string]string, error) {
-	osisData, err := os.ReadFile(filepath.Join(metadataDir, "osis.json"))
+func loadOSISMapping(indexDir string) (map[string]string, error) {
+	osisData, err := os.ReadFile(filepath.Join(indexDir, "osis.json"))
 	if err != nil {
 		return nil, err
 	}
@@ -121,9 +121,10 @@ func MainBooks() {
 	}
 
 	MetadataDir := filepath.Join(cwd, "metadata")
+	IndexDir := filepath.Join(cwd, "canon", "kjv", "index")
 
 	// Load OSIS mapping
-	osisMap, err := loadOSISMapping(MetadataDir)
+	osisMap, err := loadOSISMapping(IndexDir)
 	if err != nil {
 		fmt.Println("Error reading OSIS mapping:", err)
 		return

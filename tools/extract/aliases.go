@@ -1,4 +1,4 @@
-package extract
+package main
 
 import (
 	"encoding/json"
@@ -59,18 +59,50 @@ func MainAliases() {
 	// Create aliases map
 	aliases := make(AliasesOutput)
 
-	// Check raw directory for HTML files
-	entries, err := os.ReadDir(RawDir)
-	if err != nil {
-		fmt.Println("Error reading raw directory:", err)
-		return
+	// Build a map of available files from organized directory structure
+	// Structure: raw/html/{ot,nt,ap}/<ABBR>/<file>.htm or raw/html/misc/<file>.htm
+	availableFiles := make(map[string]string) // filename -> path
+	testamentDirs := []string{"ot", "nt", "ap"}
+
+	for _, testament := range testamentDirs {
+		testamentPath := filepath.Join(RawDir, testament)
+		entries, err := os.ReadDir(testamentPath)
+		if err != nil {
+			// Directory might not exist yet, continue
+			continue
+		}
+
+		// Look through book abbreviation directories
+		for _, entry := range entries {
+			if !entry.IsDir() {
+				continue
+			}
+
+			abbr := entry.Name()
+			bookPath := filepath.Join(testamentPath, abbr)
+			files, err := os.ReadDir(bookPath)
+			if err != nil {
+				continue
+			}
+
+			// Store files with their relative paths from raw/html
+			for _, file := range files {
+				if !file.IsDir() && strings.HasSuffix(file.Name(), ".htm") {
+					relativePath := filepath.Join("raw/html", testament, abbr, file.Name())
+					availableFiles[file.Name()] = relativePath
+				}
+			}
+		}
 	}
 
-	// Create a set of available files
-	availableFiles := make(map[string]bool)
-	for _, entry := range entries {
-		if !entry.IsDir() && strings.HasSuffix(entry.Name(), ".htm") {
-			availableFiles[entry.Name()] = true
+	// Also check misc directory for non-canonical files
+	miscPath := filepath.Join(RawDir, "misc")
+	if miscEntries, err := os.ReadDir(miscPath); err == nil {
+		for _, entry := range miscEntries {
+			if !entry.IsDir() && strings.HasSuffix(entry.Name(), ".htm") {
+				relativePath := filepath.Join("raw/html", "misc", entry.Name())
+				availableFiles[entry.Name()] = relativePath
+			}
 		}
 	}
 
@@ -82,17 +114,17 @@ func MainAliases() {
 		for chapter := 1; chapter <= book.Chapters; chapter++ {
 			// Format: ABBR + chapter number (zero-padded to 2 digits) + .htm
 			filename := fmt.Sprintf("%s%02d.htm", book.Abbr, chapter)
-			htmlPath := fmt.Sprintf("raw/html/%s%02d.htm", book.Abbr, chapter)
 
-			// Check if file exists
-			if availableFiles[filename] {
-				chapters[strconv.Itoa(chapter)] = htmlPath
+			// Check if file exists and get its path
+			if path, exists := availableFiles[filename]; exists {
+				chapters[strconv.Itoa(chapter)] = path
 			}
 		}
 
 		// Also check for chapter 0 (intro chapters sometimes use 00)
-		if availableFiles[fmt.Sprintf("%s00.htm", book.Abbr)] {
-			chapters["0"] = fmt.Sprintf("raw/html/%s00.htm", book.Abbr)
+		introFilename := fmt.Sprintf("%s00.htm", book.Abbr)
+		if path, exists := availableFiles[introFilename]; exists {
+			chapters["0"] = path
 		}
 
 		aliases[book.OSIS] = AliasChapters{
