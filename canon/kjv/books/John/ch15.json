@@ -7,111 +7,375 @@
   "verses": [
     {
       "v": 1,
-      "tokens": null
+      "plain": "I am the true vine, and my Father is the husbandman.",
+      "tokens": [
+        {
+          "t": "I am the true vine, and my Father is the husbandman."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 2,
-      "tokens": null
+      "plain": "Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.",
+      "tokens": [
+        {
+          "t": "Every branch in me that beareth not fruit he taketh away: and every "
+        },
+        {
+          "add": "branch"
+        },
+        {
+          "t": " that beareth fruit, he purgeth it, that it may bring forth more fruit."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 3,
-      "tokens": null
+      "plain": "Now ye are clean through the word which I have spoken unto you.",
+      "tokens": [
+        {
+          "t": "Now ye are clean through the word which I have spoken unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.",
+      "tokens": [
+        {
+          "t": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
+      "tokens": [
+        {
+          "t": "I am the vine, ye "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned.",
+      "tokens": [
+        {
+          "t": "If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " into the fire, and they are burned."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.",
+      "tokens": [
+        {
+          "t": "If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.",
+      "tokens": [
+        {
+          "t": "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "As the Father hath loved me, so have I loved you: continue ye in my love.",
+      "tokens": [
+        {
+          "t": "As the Father hath loved me, so have I loved you: continue ye in my love."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.",
+      "tokens": [
+        {
+          "t": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.",
+      "tokens": [
+        {
+          "t": "These things have I spoken unto you, that my joy might remain in you, and "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " your joy might be full."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "This is my commandment, That ye love one another, as I have loved you.",
+      "tokens": [
+        {
+          "t": "This is my commandment, That ye love one another, as I have loved you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "Greater love hath no man than this, that a man lay down his life for his friends.",
+      "tokens": [
+        {
+          "t": "Greater love hath no man than this, that a man lay down his life for his friends."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "Ye are my friends, if ye do whatsoever I command you.",
+      "tokens": [
+        {
+          "t": "Ye are my friends, if ye do whatsoever I command you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.",
+      "tokens": [
+        {
+          "t": "Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.",
+      "tokens": [
+        {
+          "t": "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "These things I command you, that ye love one another.",
+      "tokens": [
+        {
+          "t": "These things I command you, that ye love one another."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "If the world hate you, ye know that it hated me before it hated you.",
+      "tokens": [
+        {
+          "t": "If the world hate you, ye know that it hated me before "
+        },
+        {
+          "add": "it hated"
+        },
+        {
+          "t": " you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.",
+      "tokens": [
+        {
+          "t": "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.",
+      "tokens": [
+        {
+          "t": "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "But all these things will they do unto you for my name’s sake, because they know not him that sent me.",
+      "tokens": [
+        {
+          "t": "But all these things will they do unto you for my name’s sake, because they know not him that sent me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "If I had not come and spoken unto them, they had not had sin: but now they have no cloke for their sin.",
+      "tokens": [
+        {
+          "t": "If I had not come and spoken unto them, they had not had sin: but now they have no cloke for their sin."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "He that hateth me hateth my Father also.",
+      "tokens": [
+        {
+          "t": "He that hateth me hateth my Father also."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.",
+      "tokens": [
+        {
+          "t": "If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause.",
+      "tokens": [
+        {
+          "t": "But "
+        },
+        {
+          "add": "this cometh to pass"
+        },
+        {
+          "t": ", that the word might be fulfilled that is written in their law, They hated me without a cause."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:",
+      "tokens": [
+        {
+          "t": "But when the Comforter is come, whom I will send unto you from the Father, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " the Spirit of truth, which proceedeth from the Father, he shall testify of me:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "And ye also shall bear witness, because ye have been with me from the beginning.",
+      "tokens": [
+        {
+          "t": "And ye also shall bear witness, because ye have been with me from the beginning."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

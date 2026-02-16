@@ -7,168 +7,187 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Praise ye the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation.",
       "tokens": [
         {
-          "t": "Praise ye the"
+          "t": "Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". I will praise the"
+          "t": ". I will praise the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "with"
+          "t": " with "
         },
         {
           "add": "my"
         },
         {
-          "t": "whole heart, in the assembly of the upright, and"
+          "t": " whole heart, in the assembly of the upright, and "
         },
         {
           "add": "in"
         },
         {
-          "t": "the congregation."
+          "t": " the congregation. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The works of the LORD are great, sought out of all them that have pleasure therein.",
       "tokens": [
         {
-          "t": "The works of the"
+          "t": "The works of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "are"
         },
         {
-          "t": "great, sought out of all them that have pleasure therein."
+          "t": " great, sought out of all them that have pleasure therein. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "His work is honourable and glorious: and his righteousness endureth for ever.",
       "tokens": [
         {
-          "t": "His work"
+          "t": "His work "
         },
         {
           "add": "is"
         },
         {
-          "t": "honourable and glorious: and his righteousness endureth for ever."
+          "t": " honourable and glorious: and his righteousness endureth for ever. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "He hath made his wonderful works to be remembered: the LORD is gracious and full of compassion.",
       "tokens": [
         {
-          "t": "He hath made his wonderful works to be remembered: the"
+          "t": "He hath made his wonderful works to be remembered: the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "gracious and full of compassion."
+          "t": " gracious and full of compassion. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "He hath given meat unto them that fear him: he will ever be mindful of his covenant.",
       "tokens": [
         {
-          "t": "He hath given meat unto them that fear him: he will ever be mindful of his covenant."
+          "t": "He hath given meat unto them that fear him: he will ever be mindful of his covenant. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "He hath shewed his people the power of his works, that he may give them the heritage of the heathen.",
       "tokens": [
         {
-          "t": "He hath shewed his people the power of his works, that he may give them the heritage of the heathen."
+          "t": "He hath shewed his people the power of his works, that he may give them the heritage of the heathen. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The works of his hands are verity and judgment; all his commandments are sure.",
       "tokens": [
         {
-          "t": "The works of his hands"
+          "t": "The works of his hands "
         },
         {
           "add": "are"
         },
         {
-          "t": "verity and judgment; all his commandments"
+          "t": " verity and judgment; all his commandments "
         },
         {
           "add": "are"
         },
         {
-          "t": "sure."
+          "t": " sure. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "They stand fast for ever and ever, and are done in truth and uprightness.",
       "tokens": [
         {
-          "t": "They stand fast for ever and ever,"
+          "t": "They stand fast for ever and ever, "
         },
         {
           "add": "and are"
         },
         {
-          "t": "done in truth and uprightness."
+          "t": " done in truth and uprightness. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.",
       "tokens": [
         {
-          "t": "He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend"
+          "t": "He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend "
         },
         {
           "add": "is"
         },
         {
-          "t": "his name."
+          "t": " his name. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.",
       "tokens": [
         {
-          "t": "The fear of the"
+          "t": "The fear of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "the beginning of wisdom: a good understanding have all they that do"
+          "t": " the beginning of wisdom: a good understanding have all they that do "
         },
         {
           "add": "his commandments:"
         },
         {
-          "t": "his praise endureth for ever."
+          "t": " his praise endureth for ever. "
         }
       ]
     }

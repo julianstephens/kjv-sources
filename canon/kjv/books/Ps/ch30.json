@@ -1,0 +1,260 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 30,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
+      "tokens": [
+        {
+          "t": "I will extol thee, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for thou hast lifted me up, and hast not made my foes to rejoice over me. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "O LORD my God, I cried unto thee, and thou hast healed me.",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " my God, I cried unto thee, and thou hast healed me. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness.",
+      "tokens": [
+        {
+          "t": "Sing unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", O ye saints of his, and give thanks at the remembrance of his holiness. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.",
+      "tokens": [
+        {
+          "t": "For his anger "
+        },
+        {
+          "add": "endureth but"
+        },
+        {
+          "t": " a moment; in his favour "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " life: weeping may endure for a night, but joy "
+        },
+        {
+          "add": "cometh"
+        },
+        {
+          "t": " in the morning. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "And in my prosperity I said, I shall never be moved.",
+      "tokens": [
+        {
+          "t": "And in my prosperity I said, I shall never be moved. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.",
+      "tokens": [
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " I was troubled. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "I cried to thee, O LORD; and unto the LORD I made supplication.",
+      "tokens": [
+        {
+          "t": "I cried to thee, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; and unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " I made supplication. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
+      "tokens": [
+        {
+          "t": "What profit "
+        },
+        {
+          "add": "is there"
+        },
+        {
+          "t": " in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth? "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Hear, O LORD, and have mercy upon me: LORD, be thou my helper.",
+      "tokens": [
+        {
+          "t": "Hear, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and have mercy upon me: "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", be thou my helper. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;",
+      "tokens": [
+        {
+          "t": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness; "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.",
+      "tokens": [
+        {
+          "t": "To the end that "
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": " glory may sing praise to thee, and not be silent. O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " my God, I will give thanks unto thee for ever. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "at…: or, to the memorial"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "his anger…: Heb. there is but a moment in his anger"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "for a night: Heb. in the evening"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 5
+      },
+      "text": "joy: Heb. singing"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 7
+      },
+      "text": "made…: Heb. settled strength for my mountain"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 12
+      },
+      "text": "my glory: that is, my tongue, or, my soul"
+    }
+  ]
+}

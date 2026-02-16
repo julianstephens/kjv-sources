@@ -7,449 +7,484 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.",
       "tokens": [
         {
-          "t": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son"
+          "t": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son "
         },
         {
           "add": "is"
         },
         {
-          "t": "the heaviness of his mother."
+          "t": " the heaviness of his mother. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Treasures of wickedness profit nothing: but righteousness delivereth from death.",
       "tokens": [
         {
-          "t": "Treasures of wickedness profit nothing: but righteousness delivereth from death."
+          "t": "Treasures of wickedness profit nothing: but righteousness delivereth from death. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The LORD will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked."
+          "t": " will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich.",
       "tokens": [
         {
-          "t": "He becometh poor that dealeth"
+          "t": "He becometh poor that dealeth "
         },
         {
           "add": "with"
         },
         {
-          "t": "a slack hand: but the hand of the diligent maketh rich."
+          "t": " a slack hand: but the hand of the diligent maketh rich. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "He that gathereth in summer is a wise son: but he that sleepeth in harvest is a son that causeth shame.",
       "tokens": [
         {
-          "t": "He that gathereth in summer"
+          "t": "He that gathereth in summer "
         },
         {
           "add": "is"
         },
         {
-          "t": "a wise son:"
+          "t": " a wise son: "
         },
         {
           "add": "but"
         },
         {
-          "t": "he that sleepeth in harvest"
+          "t": " he that sleepeth in harvest "
         },
         {
           "add": "is"
         },
         {
-          "t": "a son that causeth shame."
+          "t": " a son that causeth shame. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Blessings are upon the head of the just: but violence covereth the mouth of the wicked.",
       "tokens": [
         {
-          "t": "Blessings"
+          "t": "Blessings "
         },
         {
           "add": "are"
         },
         {
-          "t": "upon the head of the just: but violence covereth the mouth of the wicked."
+          "t": " upon the head of the just: but violence covereth the mouth of the wicked. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The memory of the just is blessed: but the name of the wicked shall rot.",
       "tokens": [
         {
-          "t": "The memory of the just"
+          "t": "The memory of the just "
         },
         {
           "add": "is"
         },
         {
-          "t": "blessed: but the name of the wicked shall rot."
+          "t": " blessed: but the name of the wicked shall rot. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The wise in heart will receive commandments: but a prating fool shall fall.",
       "tokens": [
         {
-          "t": "The wise in heart will receive commandments: but a prating fool shall fall."
+          "t": "The wise in heart will receive commandments: but a prating fool shall fall. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
       "tokens": [
         {
-          "t": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known."
+          "t": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "He that winketh with the eye causeth sorrow: but a prating fool shall fall.",
       "tokens": [
         {
-          "t": "He that winketh with the eye causeth sorrow: but a prating fool shall fall."
+          "t": "He that winketh with the eye causeth sorrow: but a prating fool shall fall. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The mouth of a righteous man is a well of life: but violence covereth the mouth of the wicked.",
       "tokens": [
         {
-          "t": "The mouth of a righteous"
+          "t": "The mouth of a righteous "
         },
         {
           "add": "man is"
         },
         {
-          "t": "a well of life: but violence covereth the mouth of the wicked."
+          "t": " a well of life: but violence covereth the mouth of the wicked. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Hatred stirreth up strifes: but love covereth all sins.",
       "tokens": [
         {
-          "t": "Hatred stirreth up strifes: but love covereth all sins."
+          "t": "Hatred stirreth up strifes: but love covereth all sins. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.",
       "tokens": [
         {
-          "t": "In the lips of him that hath understanding wisdom is found: but a rod"
+          "t": "In the lips of him that hath understanding wisdom is found: but a rod "
         },
         {
           "add": "is"
         },
         {
-          "t": "for the back of him that is void of understanding."
+          "t": " for the back of him that is void of understanding. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Wise men lay up knowledge: but the mouth of the foolish is near destruction.",
       "tokens": [
         {
-          "t": "Wise"
+          "t": "Wise "
         },
         {
           "add": "men"
         },
         {
-          "t": "lay up knowledge: but the mouth of the foolish"
+          "t": " lay up knowledge: but the mouth of the foolish "
         },
         {
           "add": "is"
         },
         {
-          "t": "near destruction."
+          "t": " near destruction. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The rich man’s wealth is his strong city: the destruction of the poor is their poverty.",
       "tokens": [
         {
-          "t": "The rich man’s wealth"
+          "t": "The rich man’s wealth "
         },
         {
           "add": "is"
         },
         {
-          "t": "his strong city: the destruction of the poor"
+          "t": " his strong city: the destruction of the poor "
         },
         {
           "add": "is"
         },
         {
-          "t": "their poverty."
+          "t": " their poverty. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The labour of the righteous tendeth to life: the fruit of the wicked to sin.",
       "tokens": [
         {
-          "t": "The labour of the righteous"
+          "t": "The labour of the righteous "
         },
         {
           "add": "tendeth"
         },
         {
-          "t": "to life: the fruit of the wicked to sin."
+          "t": " to life: the fruit of the wicked to sin. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.",
       "tokens": [
         {
-          "t": "He"
+          "t": "He "
         },
         {
           "add": "is in"
         },
         {
-          "t": "the way of life that keepeth instruction: but he that refuseth reproof erreth."
+          "t": " the way of life that keepeth instruction: but he that refuseth reproof erreth. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.",
       "tokens": [
         {
-          "t": "He that hideth hatred"
+          "t": "He that hideth hatred "
         },
         {
           "add": "with"
         },
         {
-          "t": "lying lips, and he that uttereth a slander,"
+          "t": " lying lips, and he that uttereth a slander, "
         },
         {
           "add": "is"
         },
         {
-          "t": "a fool."
+          "t": " a fool. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.",
       "tokens": [
         {
-          "t": "In the multitude of words there wanteth not sin: but he that refraineth his lips"
+          "t": "In the multitude of words there wanteth not sin: but he that refraineth his lips "
         },
         {
           "add": "is"
         },
         {
-          "t": "wise."
+          "t": " wise. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The tongue of the just is as choice silver: the heart of the wicked is little worth.",
       "tokens": [
         {
-          "t": "The tongue of the just"
+          "t": "The tongue of the just "
         },
         {
           "add": "is as"
         },
         {
-          "t": "choice silver: the heart of the wicked"
+          "t": " choice silver: the heart of the wicked "
         },
         {
           "add": "is"
         },
         {
-          "t": "little worth."
+          "t": " little worth. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "The lips of the righteous feed many: but fools die for want of wisdom.",
       "tokens": [
         {
-          "t": "The lips of the righteous feed many: but fools die for want of wisdom."
+          "t": "The lips of the righteous feed many: but fools die for want of wisdom. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.",
       "tokens": [
         {
-          "t": "The blessing of the"
+          "t": "The blessing of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", it maketh rich, and he addeth no sorrow with it."
+          "t": ", it maketh rich, and he addeth no sorrow with it. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "It is as sport to a fool to do mischief: but a man of understanding hath wisdom.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "as sport to a fool to do mischief: but a man of understanding hath wisdom."
+          "t": " as sport to a fool to do mischief: but a man of understanding hath wisdom. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.",
       "tokens": [
         {
-          "t": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted."
+          "t": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "As the whirlwind passeth, so is the wicked no more: but the righteous is an everlasting foundation.",
       "tokens": [
         {
-          "t": "As the whirlwind passeth, so"
+          "t": "As the whirlwind passeth, so "
         },
         {
           "add": "is"
         },
         {
-          "t": "the wicked no"
+          "t": " the wicked no "
         },
         {
           "add": "more:"
         },
         {
-          "t": "but the righteous"
+          "t": " but the righteous "
         },
         {
           "add": "is"
         },
         {
-          "t": "an everlasting foundation."
+          "t": " an everlasting foundation. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him.",
       "tokens": [
         {
-          "t": "As vinegar to the teeth, and as smoke to the eyes, so"
+          "t": "As vinegar to the teeth, and as smoke to the eyes, so "
         },
         {
           "add": "is"
         },
         {
-          "t": "the sluggard to them that send him."
+          "t": " the sluggard to them that send him. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "The fear of the LORD prolongeth days: but the years of the wicked shall be shortened.",
       "tokens": [
         {
-          "t": "The fear of the"
+          "t": "The fear of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "prolongeth days: but the years of the wicked shall be shortened."
+          "t": " prolongeth days: but the years of the wicked shall be shortened. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "The hope of the righteous shall be gladness: but the expectation of the wicked shall perish.",
       "tokens": [
         {
-          "t": "The hope of the righteous"
+          "t": "The hope of the righteous "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "gladness: but the expectation of the wicked shall perish."
+          "t": " gladness: but the expectation of the wicked shall perish. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "The way of the LORD is strength to the upright: but destruction shall be to the workers of iniquity.",
       "tokens": [
         {
-          "t": "The way of the"
+          "t": "The way of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "strength to the upright: but destruction"
+          "t": " strength to the upright: but destruction "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "to the workers of iniquity."
+          "t": " to the workers of iniquity. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "The righteous shall never be removed: but the wicked shall not inhabit the earth.",
       "tokens": [
         {
-          "t": "The righteous shall never be removed: but the wicked shall not inhabit the earth."
+          "t": "The righteous shall never be removed: but the wicked shall not inhabit the earth. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.",
       "tokens": [
         {
-          "t": "The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out."
+          "t": "The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.",
       "tokens": [
         {
-          "t": "The lips of the righteous know what is acceptable: but the mouth of the wicked"
+          "t": "The lips of the righteous know what is acceptable: but the mouth of the wicked "
         },
         {
           "add": "speaketh"
         },
         {
-          "t": "frowardness."
+          "t": " frowardness. "
         }
       ]
     }

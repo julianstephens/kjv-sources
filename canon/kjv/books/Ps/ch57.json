@@ -1,0 +1,232 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 57,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.",
+      "tokens": [
+        {
+          "t": "Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until "
+        },
+        {
+          "add": "these"
+        },
+        {
+          "t": " calamities be overpast. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "I will cry unto God most high; unto God that performeth all things for me.",
+      "tokens": [
+        {
+          "t": "I will cry unto God most high; unto God that performeth "
+        },
+        {
+          "add": "all things"
+        },
+        {
+          "t": " for me. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "He shall send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.",
+      "tokens": [
+        {
+          "t": "He shall send from heaven, and save me "
+        },
+        {
+          "add": "from"
+        },
+        {
+          "t": " the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.",
+      "tokens": [
+        {
+          "t": "My soul "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " among lions: "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " I lie "
+        },
+        {
+          "add": "even among"
+        },
+        {
+          "t": " them that are set on fire, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " the sons of men, whose teeth "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " spears and arrows, and their tongue a sharp sword. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Be thou exalted, O God, above the heavens; let thy glory be above all the earth.",
+      "tokens": [
+        {
+          "t": "Be thou exalted, O God, above the heavens; "
+        },
+        {
+          "add": "let"
+        },
+        {
+          "t": " thy glory "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " above all the earth. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen themselves. Selah.",
+      "tokens": [
+        {
+          "t": "They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen "
+        },
+        {
+          "add": "themselves"
+        },
+        {
+          "t": ". Selah. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "My heart is fixed, O God, my heart is fixed: I will sing and give praise.",
+      "tokens": [
+        {
+          "t": "My heart is fixed, O God, my heart is fixed: I will sing and give praise. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Awake up, my glory; awake, psaltery and harp: I myself will awake early.",
+      "tokens": [
+        {
+          "t": "Awake up, my glory; awake, psaltery and harp: I "
+        },
+        {
+          "add": "myself"
+        },
+        {
+          "t": " will awake early. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "I will praise thee, O Lord, among the people: I will sing unto thee among the nations.",
+      "tokens": [
+        {
+          "t": "I will praise thee, O Lord, among the people: I will sing unto thee among the nations. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "For thy mercy is great unto the heavens, and thy truth unto the clouds.",
+      "tokens": [
+        {
+          "t": "For thy mercy "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " great unto the heavens, and thy truth unto the clouds. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Be thou exalted, O God, above the heavens: let thy glory be above all the earth.",
+      "tokens": [
+        {
+          "t": "Be thou exalted, O God, above the heavens: "
+        },
+        {
+          "add": "let"
+        },
+        {
+          "t": " thy glory "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " above all the earth. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Al-taschith: or, Destroy not"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "Michtam: or, A golden Psalm"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 3
+      },
+      "text": "from the…: or, he reproacheth him that"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "fixed: or, prepared"
+    }
+  ]
+}

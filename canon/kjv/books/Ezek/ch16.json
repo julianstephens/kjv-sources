@@ -7,850 +7,913 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Again the word of the LORD came unto me, saying,",
       "tokens": [
         {
-          "t": "Again the word of the"
+          "t": "Again the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto me, saying,"
+          "t": " came unto me, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Son of man, cause Jerusalem to know her abominations,",
       "tokens": [
         {
-          "t": "Son of man, cause Jerusalem to know her abominations,"
+          "t": "Son of man, cause Jerusalem to know her abominations, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And say, Thus saith the Lord GOD unto Jerusalem; Thy birth and thy nativity is of the land of Canaan; thy father was an Amorite, and thy mother an Hittite.",
       "tokens": [
         {
-          "t": "And say, Thus saith the Lord"
+          "t": "And say, Thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "unto Jerusalem; Thy birth and thy nativity"
+          "t": " unto Jerusalem; Thy birth and thy nativity "
         },
         {
           "add": "is"
         },
         {
-          "t": "of the land of Canaan; thy father"
+          "t": " of the land of Canaan; thy father "
         },
         {
           "add": "was"
         },
         {
-          "t": "an Amorite, and thy mother an Hittite."
+          "t": " an Amorite, and thy mother an Hittite. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And as for thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple thee; thou wast not salted at all, nor swaddled at all.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "as for"
         },
         {
-          "t": "thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple"
+          "t": " thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple "
         },
         {
           "add": "thee;"
         },
         {
-          "t": "thou wast not salted at all, nor swaddled at all."
+          "t": " thou wast not salted at all, nor swaddled at all. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "None eye pitied thee, to do any of these unto thee, to have compassion upon thee; but thou wast cast out in the open field, to the lothing of thy person, in the day that thou wast born.",
       "tokens": [
         {
-          "t": "None eye pitied thee, to do any of these unto thee, to have compassion upon thee; but thou wast cast out in the open field, to the lothing of thy person, in the day that thou wast born."
+          "t": "None eye pitied thee, to do any of these unto thee, to have compassion upon thee; but thou wast cast out in the open field, to the lothing of thy person, in the day that thou wast born. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And when I passed by thee, and saw thee polluted in thine own blood, I said unto thee when thou wast in thy blood, Live; yea, I said unto thee when thou wast in thy blood, Live.",
       "tokens": [
         {
-          "t": "¶ And when I passed by thee, and saw thee polluted in thine own blood, I said unto thee"
+          "t": "¶ And when I passed by thee, and saw thee polluted in thine own blood, I said unto thee "
         },
         {
           "add": "when thou wast"
         },
         {
-          "t": "in thy blood, Live; yea, I said unto thee"
+          "t": " in thy blood, Live; yea, I said unto thee "
         },
         {
           "add": "when thou wast"
         },
         {
-          "t": "in thy blood, Live."
+          "t": " in thy blood, Live. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "I have caused thee to multiply as the bud of the field, and thou hast increased and waxen great, and thou art come to excellent ornaments: thy breasts are fashioned, and thine hair is grown, whereas thou wast naked and bare.",
       "tokens": [
         {
-          "t": "I have caused thee to multiply as the bud of the field, and thou hast increased and waxen great, and thou art come to excellent ornaments:"
+          "t": "I have caused thee to multiply as the bud of the field, and thou hast increased and waxen great, and thou art come to excellent ornaments: "
         },
         {
           "add": "thy"
         },
         {
-          "t": "breasts are fashioned, and thine hair is grown, whereas thou"
+          "t": " breasts are fashioned, and thine hair is grown, whereas thou "
         },
         {
           "add": "wast"
         },
         {
-          "t": "naked and bare."
+          "t": " naked and bare. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord GOD, and thou becamest mine.",
       "tokens": [
         {
-          "t": "Now when I passed by thee, and looked upon thee, behold, thy time"
+          "t": "Now when I passed by thee, and looked upon thee, behold, thy time "
         },
         {
           "add": "was"
         },
         {
-          "t": "the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord"
+          "t": " the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ", and thou becamest mine."
+          "t": ", and thou becamest mine. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Then washed I thee with water; yea, I throughly washed away thy blood from thee, and I anointed thee with oil.",
       "tokens": [
         {
-          "t": "Then washed I thee with water; yea, I throughly washed away thy blood from thee, and I anointed thee with oil."
+          "t": "Then washed I thee with water; yea, I throughly washed away thy blood from thee, and I anointed thee with oil. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "I clothed thee also with broidered work, and shod thee with badgers’ skin, and I girded thee about with fine linen, and I covered thee with silk.",
       "tokens": [
         {
-          "t": "I clothed thee also with broidered work, and shod thee with badgers’ skin, and I girded thee about with fine linen, and I covered thee with silk."
+          "t": "I clothed thee also with broidered work, and shod thee with badgers’ skin, and I girded thee about with fine linen, and I covered thee with silk. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "I decked thee also with ornaments, and I put bracelets upon thy hands, and a chain on thy neck.",
       "tokens": [
         {
-          "t": "I decked thee also with ornaments, and I put bracelets upon thy hands, and a chain on thy neck."
+          "t": "I decked thee also with ornaments, and I put bracelets upon thy hands, and a chain on thy neck. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And I put a jewel on thy forehead, and earrings in thine ears, and a beautiful crown upon thine head.",
       "tokens": [
         {
-          "t": "And I put a jewel on thy forehead, and earrings in thine ears, and a beautiful crown upon thine head."
+          "t": "And I put a jewel on thy forehead, and earrings in thine ears, and a beautiful crown upon thine head. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thus wast thou decked with gold and silver; and thy raiment was of fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom.",
       "tokens": [
         {
-          "t": "Thus wast thou decked with gold and silver; and thy raiment"
+          "t": "Thus wast thou decked with gold and silver; and thy raiment "
         },
         {
           "add": "was of"
         },
         {
-          "t": "fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom."
+          "t": " fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And thy renown went forth among the heathen for thy beauty: for it was perfect through my comeliness, which I had put upon thee, saith the Lord GOD.",
       "tokens": [
         {
-          "t": "And thy renown went forth among the heathen for thy beauty: for it"
+          "t": "And thy renown went forth among the heathen for thy beauty: for it "
         },
         {
           "add": "was"
         },
         {
-          "t": "perfect through my comeliness, which I had put upon thee, saith the Lord"
+          "t": " perfect through my comeliness, which I had put upon thee, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was.",
       "tokens": [
         {
-          "t": "¶ But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was."
+          "t": "¶ But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And of thy garments thou didst take, and deckedst thy high places with divers colours, and playedst the harlot thereupon: the like things shall not come, neither shall it be so.",
       "tokens": [
         {
-          "t": "And of thy garments thou didst take, and deckedst thy high places with divers colours, and playedst the harlot thereupon:"
+          "t": "And of thy garments thou didst take, and deckedst thy high places with divers colours, and playedst the harlot thereupon: "
         },
         {
           "add": "the like things"
         },
         {
-          "t": "shall not come, neither shall it be"
+          "t": " shall not come, neither shall it be "
         },
         {
           "add": "so"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them,",
       "tokens": [
         {
-          "t": "Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them,"
+          "t": "Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And tookest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them.",
       "tokens": [
         {
-          "t": "And tookest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them."
+          "t": "And tookest thy broidered garments, and coveredst them: and thou hast set mine oil and mine incense before them. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "My meat also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou hast even set it before them for a sweet savour: and thus it was, saith the Lord GOD.",
       "tokens": [
         {
-          "t": "My meat also which I gave thee, fine flour, and oil, and honey,"
+          "t": "My meat also which I gave thee, fine flour, and oil, and honey, "
         },
         {
           "add": "wherewith"
         },
         {
-          "t": "I fed thee, thou hast even set it before them for a sweet savour: and"
+          "t": " I fed thee, thou hast even set it before them for a sweet savour: and "
         },
         {
           "add": "thus"
         },
         {
-          "t": "it was, saith the Lord"
+          "t": " it was, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured. Is this of thy whoredoms a small matter,",
       "tokens": [
         {
-          "t": "Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured."
+          "t": "Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured. "
         },
         {
           "add": "Is this"
         },
         {
-          "t": "of thy whoredoms a small matter,"
+          "t": " of thy whoredoms a small matter, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "That thou hast slain my children, and delivered them to cause them to pass through the fire for them?",
       "tokens": [
         {
-          "t": "That thou hast slain my children, and delivered them to cause them to pass through"
+          "t": "That thou hast slain my children, and delivered them to cause them to pass through "
         },
         {
           "add": "the fire"
         },
         {
-          "t": "for them?"
+          "t": " for them? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, and wast polluted in thy blood.",
       "tokens": [
         {
-          "t": "And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare,"
+          "t": "And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, "
         },
         {
           "add": "and"
         },
         {
-          "t": "wast polluted in thy blood."
+          "t": " wast polluted in thy blood. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And it came to pass after all thy wickedness, (woe, woe unto thee! saith the Lord GOD;)",
       "tokens": [
         {
-          "t": "And it came to pass after all thy wickedness, (woe, woe unto thee! saith the Lord"
+          "t": "And it came to pass after all thy wickedness, (woe, woe unto thee! saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ";)"
+          "t": ";) "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "That thou hast also built unto thee an eminent place, and hast made thee an high place in every street.",
       "tokens": [
         {
           "add": "That"
         },
         {
-          "t": "thou hast also built unto thee an eminent place, and hast made thee an high place in every street."
+          "t": " thou hast also built unto thee an eminent place, and hast made thee an high place in every street. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Thou hast built thy high place at every head of the way, and hast made thy beauty to be abhorred, and hast opened thy feet to every one that passed by, and multiplied thy whoredoms.",
       "tokens": [
         {
-          "t": "Thou hast built thy high place at every head of the way, and hast made thy beauty to be abhorred, and hast opened thy feet to every one that passed by, and multiplied thy whoredoms."
+          "t": "Thou hast built thy high place at every head of the way, and hast made thy beauty to be abhorred, and hast opened thy feet to every one that passed by, and multiplied thy whoredoms. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Thou hast also committed fornication with the Egyptians thy neighbours, great of flesh; and hast increased thy whoredoms, to provoke me to anger.",
       "tokens": [
         {
-          "t": "Thou hast also committed fornication with the Egyptians thy neighbours, great of flesh; and hast increased thy whoredoms, to provoke me to anger."
+          "t": "Thou hast also committed fornication with the Egyptians thy neighbours, great of flesh; and hast increased thy whoredoms, to provoke me to anger. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Behold, therefore I have stretched out my hand over thee, and have diminished thine ordinary food, and delivered thee unto the will of them that hate thee, the daughters of the Philistines, which are ashamed of thy lewd way.",
       "tokens": [
         {
-          "t": "Behold, therefore I have stretched out my hand over thee, and have diminished thine ordinary"
+          "t": "Behold, therefore I have stretched out my hand over thee, and have diminished thine ordinary "
         },
         {
           "add": "food"
         },
         {
-          "t": ", and delivered thee unto the will of them that hate thee, the daughters of the Philistines, which are ashamed of thy lewd way."
+          "t": ", and delivered thee unto the will of them that hate thee, the daughters of the Philistines, which are ashamed of thy lewd way. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Thou hast played the whore also with the Assyrians, because thou wast unsatiable; yea, thou hast played the harlot with them, and yet couldest not be satisfied.",
       "tokens": [
         {
-          "t": "Thou hast played the whore also with the Assyrians, because thou wast unsatiable; yea, thou hast played the harlot with them, and yet couldest not be satisfied."
+          "t": "Thou hast played the whore also with the Assyrians, because thou wast unsatiable; yea, thou hast played the harlot with them, and yet couldest not be satisfied. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea; and yet thou wast not satisfied herewith.",
       "tokens": [
         {
-          "t": "Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea; and yet thou wast not satisfied herewith."
+          "t": "Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea; and yet thou wast not satisfied herewith. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "How weak is thine heart, saith the Lord GOD, seeing thou doest all these things, the work of an imperious whorish woman;",
       "tokens": [
         {
-          "t": "How weak is thine heart, saith the Lord"
+          "t": "How weak is thine heart, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ", seeing thou doest all these"
+          "t": ", seeing thou doest all these "
         },
         {
           "add": "things"
         },
         {
-          "t": ", the work of an imperious whorish woman;"
+          "t": ", the work of an imperious whorish woman; "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "In that thou buildest thine eminent place in the head of every way, and makest thine high place in every street; and hast not been as an harlot, in that thou scornest hire;",
       "tokens": [
         {
-          "t": "In that thou buildest thine eminent place in the head of every way, and makest thine high place in every street; and hast not been as an harlot, in that thou scornest hire;"
+          "t": "In that thou buildest thine eminent place in the head of every way, and makest thine high place in every street; and hast not been as an harlot, in that thou scornest hire; "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "But as a wife that committeth adultery, which taketh strangers instead of her husband!",
       "tokens": [
         {
           "add": "But as"
         },
         {
-          "t": "a wife that committeth adultery,"
+          "t": " a wife that committeth adultery, "
         },
         {
           "add": "which"
         },
         {
-          "t": "taketh strangers instead of her husband!"
+          "t": " taketh strangers instead of her husband! "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "They give gifts to all whores: but thou givest thy gifts to all thy lovers, and hirest them, that they may come unto thee on every side for thy whoredom.",
       "tokens": [
         {
-          "t": "They give gifts to all whores: but thou givest thy gifts to all thy lovers, and hirest them, that they may come unto thee on every side for thy whoredom."
+          "t": "They give gifts to all whores: but thou givest thy gifts to all thy lovers, and hirest them, that they may come unto thee on every side for thy whoredom. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And the contrary is in thee from other women in thy whoredoms, whereas none followeth thee to commit whoredoms: and in that thou givest a reward, and no reward is given unto thee, therefore thou art contrary.",
       "tokens": [
         {
-          "t": "And the contrary is in thee from"
+          "t": "And the contrary is in thee from "
         },
         {
           "add": "other"
         },
         {
-          "t": "women in thy whoredoms, whereas none followeth thee to commit whoredoms: and in that thou givest a reward, and no reward is given unto thee, therefore thou art contrary."
+          "t": " women in thy whoredoms, whereas none followeth thee to commit whoredoms: and in that thou givest a reward, and no reward is given unto thee, therefore thou art contrary. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "¶ Wherefore, O harlot, hear the word of the LORD:",
       "tokens": [
         {
-          "t": "¶ Wherefore, O harlot, hear the word of the"
+          "t": "¶ Wherefore, O harlot, hear the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Thus saith the Lord GOD; Because thy filthiness was poured out, and thy nakedness discovered through thy whoredoms with thy lovers, and with all the idols of thy abominations, and by the blood of thy children, which thou didst give unto them;",
       "tokens": [
         {
-          "t": "Thus saith the Lord"
+          "t": "Thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; Because thy filthiness was poured out, and thy nakedness discovered through thy whoredoms with thy lovers, and with all the idols of thy abominations, and by the blood of thy children, which thou didst give unto them;"
+          "t": "; Because thy filthiness was poured out, and thy nakedness discovered through thy whoredoms with thy lovers, and with all the idols of thy abominations, and by the blood of thy children, which thou didst give unto them; "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all them that thou hast loved, with all them that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness.",
       "tokens": [
         {
-          "t": "Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all"
+          "t": "Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all "
         },
         {
           "add": "them"
         },
         {
-          "t": "that thou hast loved, with all"
+          "t": " that thou hast loved, with all "
         },
         {
           "add": "them"
         },
         {
-          "t": "that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness."
+          "t": " that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And I will judge thee, as women that break wedlock and shed blood are judged; and I will give thee blood in fury and jealousy.",
       "tokens": [
         {
-          "t": "And I will judge thee, as women that break wedlock and shed blood are judged; and I will give thee blood in fury and jealousy."
+          "t": "And I will judge thee, as women that break wedlock and shed blood are judged; and I will give thee blood in fury and jealousy. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And I will also give thee into their hand, and they shall throw down thine eminent place, and shall break down thy high places: they shall strip thee also of thy clothes, and shall take thy fair jewels, and leave thee naked and bare.",
       "tokens": [
         {
-          "t": "And I will also give thee into their hand, and they shall throw down thine eminent place, and shall break down thy high places: they shall strip thee also of thy clothes, and shall take thy fair jewels, and leave thee naked and bare."
+          "t": "And I will also give thee into their hand, and they shall throw down thine eminent place, and shall break down thy high places: they shall strip thee also of thy clothes, and shall take thy fair jewels, and leave thee naked and bare. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "They shall also bring up a company against thee, and they shall stone thee with stones, and thrust thee through with their swords.",
       "tokens": [
         {
-          "t": "They shall also bring up a company against thee, and they shall stone thee with stones, and thrust thee through with their swords."
+          "t": "They shall also bring up a company against thee, and they shall stone thee with stones, and thrust thee through with their swords. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And they shall burn thine houses with fire, and execute judgments upon thee in the sight of many women: and I will cause thee to cease from playing the harlot, and thou also shalt give no hire any more.",
       "tokens": [
         {
-          "t": "And they shall burn thine houses with fire, and execute judgments upon thee in the sight of many women: and I will cause thee to cease from playing the harlot, and thou also shalt give no hire any more."
+          "t": "And they shall burn thine houses with fire, and execute judgments upon thee in the sight of many women: and I will cause thee to cease from playing the harlot, and thou also shalt give no hire any more. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "So will I make my fury toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry.",
       "tokens": [
         {
-          "t": "So will I make my fury toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry."
+          "t": "So will I make my fury toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "Because thou hast not remembered the days of thy youth, but hast fretted me in all these things; behold, therefore I also will recompense thy way upon thine head, saith the Lord GOD: and thou shalt not commit this lewdness above all thine abominations.",
       "tokens": [
         {
-          "t": "Because thou hast not remembered the days of thy youth, but hast fretted me in all these"
+          "t": "Because thou hast not remembered the days of thy youth, but hast fretted me in all these "
         },
         {
           "add": "things;"
         },
         {
-          "t": "behold, therefore I also will recompense thy way upon"
+          "t": " behold, therefore I also will recompense thy way upon "
         },
         {
           "add": "thine"
         },
         {
-          "t": "head, saith the Lord"
+          "t": " head, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ": and thou shalt not commit this lewdness above all thine abominations."
+          "t": ": and thou shalt not commit this lewdness above all thine abominations. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "¶ Behold, every one that useth proverbs shall use this proverb against thee, saying, As is the mother, so is her daughter.",
       "tokens": [
         {
-          "t": "¶ Behold, every one that useth proverbs shall use"
+          "t": "¶ Behold, every one that useth proverbs shall use "
         },
         {
           "add": "this"
         },
         {
-          "t": "proverb against thee, saying, As"
+          "t": " proverb against thee, saying, As "
         },
         {
           "add": "is"
         },
         {
-          "t": "the mother,"
+          "t": " the mother, "
         },
         {
           "add": "so is"
         },
         {
-          "t": "her daughter."
+          "t": " her daughter. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "Thou art thy mother’s daughter, that lotheth her husband and her children; and thou art the sister of thy sisters, which lothed their husbands and their children: your mother was an Hittite, and your father an Amorite.",
       "tokens": [
         {
-          "t": "Thou"
+          "t": "Thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "thy mother’s daughter, that lotheth her husband and her children; and thou"
+          "t": " thy mother’s daughter, that lotheth her husband and her children; and thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "the sister of thy sisters, which lothed their husbands and their children: your mother"
+          "t": " the sister of thy sisters, which lothed their husbands and their children: your mother "
         },
         {
           "add": "was"
         },
         {
-          "t": "an Hittite, and your father an Amorite."
+          "t": " an Hittite, and your father an Amorite. "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "And thine elder sister is Samaria, she and her daughters that dwell at thy left hand: and thy younger sister, that dwelleth at thy right hand, is Sodom and her daughters.",
       "tokens": [
         {
-          "t": "And thine elder sister"
+          "t": "And thine elder sister "
         },
         {
           "add": "is"
         },
         {
-          "t": "Samaria, she and her daughters that dwell at thy left hand: and thy younger sister, that dwelleth at thy right hand,"
+          "t": " Samaria, she and her daughters that dwell at thy left hand: and thy younger sister, that dwelleth at thy right hand, "
         },
         {
           "add": "is"
         },
         {
-          "t": "Sodom and her daughters."
+          "t": " Sodom and her daughters. "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "Yet hast thou not walked after their ways, nor done after their abominations: but, as if that were a very little thing, thou wast corrupted more than they in all thy ways.",
       "tokens": [
         {
-          "t": "Yet hast thou not walked after their ways, nor done after their abominations: but, as"
+          "t": "Yet hast thou not walked after their ways, nor done after their abominations: but, as "
         },
         {
           "add": "if that were"
         },
         {
-          "t": "a very little"
+          "t": " a very little "
         },
         {
           "add": "thing"
         },
         {
-          "t": ", thou wast corrupted more than they in all thy ways."
+          "t": ", thou wast corrupted more than they in all thy ways. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "As I live, saith the Lord GOD, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "I live, saith the Lord"
+          "t": " I live, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ", Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters."
+          "t": ", Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters. "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "Behold, this was the iniquity of thy sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.",
       "tokens": [
         {
-          "t": "Behold, this was the iniquity of thy sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy."
+          "t": "Behold, this was the iniquity of thy sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy. "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "And they were haughty, and committed abomination before me: therefore I took them away as I saw good.",
       "tokens": [
         {
-          "t": "And they were haughty, and committed abomination before me: therefore I took them away as I saw"
+          "t": "And they were haughty, and committed abomination before me: therefore I took them away as I saw "
         },
         {
           "add": "good"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "Neither hath Samaria committed half of thy sins; but thou hast multiplied thine abominations more than they, and hast justified thy sisters in all thine abominations which thou hast done.",
       "tokens": [
         {
-          "t": "Neither hath Samaria committed half of thy sins; but thou hast multiplied thine abominations more than they, and hast justified thy sisters in all thine abominations which thou hast done."
+          "t": "Neither hath Samaria committed half of thy sins; but thou hast multiplied thine abominations more than they, and hast justified thy sisters in all thine abominations which thou hast done. "
         }
       ]
     },
     {
       "v": 52,
+      "plain": "Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters.",
       "tokens": [
         {
-          "t": "Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters."
+          "t": "Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters. "
         }
       ]
     },
     {
       "v": 53,
+      "plain": "When I shall bring again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, then will I bring again the captivity of thy captives in the midst of them:",
       "tokens": [
         {
-          "t": "When I shall bring again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, then"
+          "t": "When I shall bring again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, then "
         },
         {
           "add": "will I bring again"
         },
         {
-          "t": "the captivity of thy captives in the midst of them:"
+          "t": " the captivity of thy captives in the midst of them: "
         }
       ]
     },
     {
       "v": 54,
+      "plain": "That thou mayest bear thine own shame, and mayest be confounded in all that thou hast done, in that thou art a comfort unto them.",
       "tokens": [
         {
-          "t": "That thou mayest bear thine own shame, and mayest be confounded in all that thou hast done, in that thou art a comfort unto them."
+          "t": "That thou mayest bear thine own shame, and mayest be confounded in all that thou hast done, in that thou art a comfort unto them. "
         }
       ]
     },
     {
       "v": 55,
+      "plain": "When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate.",
       "tokens": [
         {
-          "t": "When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate."
+          "t": "When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate. "
         }
       ]
     },
     {
       "v": 56,
+      "plain": "For thy sister Sodom was not mentioned by thy mouth in the day of thy pride,",
       "tokens": [
         {
-          "t": "For thy sister Sodom was not mentioned by thy mouth in the day of thy pride,"
+          "t": "For thy sister Sodom was not mentioned by thy mouth in the day of thy pride, "
         }
       ]
     },
     {
       "v": 57,
+      "plain": "Before thy wickedness was discovered, as at the time of thy reproach of the daughters of Syria, and all that are round about her, the daughters of the Philistines, which despise thee round about.",
       "tokens": [
         {
-          "t": "Before thy wickedness was discovered, as at the time of"
+          "t": "Before thy wickedness was discovered, as at the time of "
         },
         {
           "add": "thy"
         },
         {
-          "t": "reproach of the daughters of Syria, and all"
+          "t": " reproach of the daughters of Syria, and all "
         },
         {
           "add": "that are"
         },
         {
-          "t": "round about her, the daughters of the Philistines, which despise thee round about."
+          "t": " round about her, the daughters of the Philistines, which despise thee round about. "
         }
       ]
     },
     {
       "v": 58,
+      "plain": "Thou hast borne thy lewdness and thine abominations, saith the LORD.",
       "tokens": [
         {
-          "t": "Thou hast borne thy lewdness and thine abominations, saith the"
+          "t": "Thou hast borne thy lewdness and thine abominations, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 59,
+      "plain": "For thus saith the Lord GOD; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant.",
       "tokens": [
         {
-          "t": "For thus saith the Lord"
+          "t": "For thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant."
+          "t": "; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant. "
         }
       ]
     },
     {
       "v": 60,
+      "plain": "¶ Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant.",
       "tokens": [
         {
-          "t": "¶ Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant."
+          "t": "¶ Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant. "
         }
       ]
     },
     {
       "v": 61,
+      "plain": "Then thou shalt remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder and thy younger: and I will give them unto thee for daughters, but not by thy covenant.",
       "tokens": [
         {
-          "t": "Then thou shalt remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder and thy younger: and I will give them unto thee for daughters, but not by thy covenant."
+          "t": "Then thou shalt remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder and thy younger: and I will give them unto thee for daughters, but not by thy covenant. "
         }
       ]
     },
     {
       "v": 62,
+      "plain": "And I will establish my covenant with thee; and thou shalt know that I am the LORD:",
       "tokens": [
         {
-          "t": "And I will establish my covenant with thee; and thou shalt know that I"
+          "t": "And I will establish my covenant with thee; and thou shalt know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         }
       ]
     },
     {
       "v": 63,
+      "plain": "That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord GOD.",
       "tokens": [
         {
-          "t": "That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord"
+          "t": "That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

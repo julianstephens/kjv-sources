@@ -7,343 +7,370 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.",
       "tokens": [
         {
-          "t": "Through desire a man, having separated himself, seeketh"
+          "t": "Through desire a man, having separated himself, seeketh "
         },
         {
           "add": "and"
         },
         {
-          "t": "intermeddleth with all wisdom."
+          "t": " intermeddleth with all wisdom. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "A fool hath no delight in understanding, but that his heart may discover itself.",
       "tokens": [
         {
-          "t": "A fool hath no delight in understanding, but that his heart may discover itself."
+          "t": "A fool hath no delight in understanding, but that his heart may discover itself. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "When the wicked cometh, then cometh also contempt, and with ignominy reproach.",
       "tokens": [
         {
-          "t": "When the wicked cometh,"
+          "t": "When the wicked cometh, "
         },
         {
           "add": "then"
         },
         {
-          "t": "cometh also contempt, and with ignominy reproach."
+          "t": " cometh also contempt, and with ignominy reproach. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The words of a man’s mouth are as deep waters, and the wellspring of wisdom as a flowing brook.",
       "tokens": [
         {
-          "t": "The words of a man’s mouth"
+          "t": "The words of a man’s mouth "
         },
         {
           "add": "are as"
         },
         {
-          "t": "deep waters,"
+          "t": " deep waters, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the wellspring of wisdom"
+          "t": " the wellspring of wisdom "
         },
         {
           "add": "as"
         },
         {
-          "t": "a flowing brook."
+          "t": " a flowing brook. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "It is not good to accept the person of the wicked, to overthrow the righteous in judgment.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "not good to accept the person of the wicked, to overthrow the righteous in judgment."
+          "t": " not good to accept the person of the wicked, to overthrow the righteous in judgment. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "A fool’s lips enter into contention, and his mouth calleth for strokes.",
       "tokens": [
         {
-          "t": "A fool’s lips enter into contention, and his mouth calleth for strokes."
+          "t": "A fool’s lips enter into contention, and his mouth calleth for strokes. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "A fool’s mouth is his destruction, and his lips are the snare of his soul.",
       "tokens": [
         {
-          "t": "A fool’s mouth"
+          "t": "A fool’s mouth "
         },
         {
           "add": "is"
         },
         {
-          "t": "his destruction, and his lips"
+          "t": " his destruction, and his lips "
         },
         {
           "add": "are"
         },
         {
-          "t": "the snare of his soul."
+          "t": " the snare of his soul. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.",
       "tokens": [
         {
-          "t": "The words of a talebearer"
+          "t": "The words of a talebearer "
         },
         {
           "add": "are"
         },
         {
-          "t": "as wounds, and they go down into the innermost parts of the belly."
+          "t": " as wounds, and they go down into the innermost parts of the belly. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He also that is slothful in his work is brother to him that is a great waster.",
       "tokens": [
         {
-          "t": "He also that is slothful in his work is brother to him that is a great waster."
+          "t": "He also that is slothful in his work is brother to him that is a great waster. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The name of the LORD is a strong tower: the righteous runneth into it, and is safe.",
       "tokens": [
         {
-          "t": "The name of the"
+          "t": "The name of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "a strong tower: the righteous runneth into it, and is safe."
+          "t": " a strong tower: the righteous runneth into it, and is safe. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The rich man’s wealth is his strong city, and as an high wall in his own conceit.",
       "tokens": [
         {
-          "t": "The rich man’s wealth"
+          "t": "The rich man’s wealth "
         },
         {
           "add": "is"
         },
         {
-          "t": "his strong city, and as an high wall in his own conceit."
+          "t": " his strong city, and as an high wall in his own conceit. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Before destruction the heart of man is haughty, and before honour is humility.",
       "tokens": [
         {
-          "t": "Before destruction the heart of man is haughty, and before honour"
+          "t": "Before destruction the heart of man is haughty, and before honour "
         },
         {
           "add": "is"
         },
         {
-          "t": "humility."
+          "t": " humility. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "He that answereth a matter before he heareth it, it is folly and shame unto him.",
       "tokens": [
         {
-          "t": "He that answereth a matter before he heareth"
+          "t": "He that answereth a matter before he heareth "
         },
         {
           "add": "it"
         },
         {
-          "t": ", it"
+          "t": ", it "
         },
         {
           "add": "is"
         },
         {
-          "t": "folly and shame unto him."
+          "t": " folly and shame unto him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?",
       "tokens": [
         {
-          "t": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?"
+          "t": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
       "tokens": [
         {
-          "t": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge."
+          "t": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "A man’s gift maketh room for him, and bringeth him before great men.",
       "tokens": [
         {
-          "t": "A man’s gift maketh room for him, and bringeth him before great men."
+          "t": "A man’s gift maketh room for him, and bringeth him before great men. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.",
       "tokens": [
         {
           "add": "He that is"
         },
         {
-          "t": "first in his own cause"
+          "t": " first in his own cause "
         },
         {
           "add": "seemeth"
         },
         {
-          "t": "just; but his neighbour cometh and searcheth him."
+          "t": " just; but his neighbour cometh and searcheth him. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "The lot causeth contentions to cease, and parteth between the mighty.",
       "tokens": [
         {
-          "t": "The lot causeth contentions to cease, and parteth between the mighty."
+          "t": "The lot causeth contentions to cease, and parteth between the mighty. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "A brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle.",
       "tokens": [
         {
-          "t": "A brother offended"
+          "t": "A brother offended "
         },
         {
           "add": "is harder to be won"
         },
         {
-          "t": "than a strong city: and"
+          "t": " than a strong city: and "
         },
         {
           "add": "their"
         },
         {
-          "t": "contentions"
+          "t": " contentions "
         },
         {
           "add": "are"
         },
         {
-          "t": "like the bars of a castle."
+          "t": " like the bars of a castle. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "A man’s belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.",
       "tokens": [
         {
-          "t": "A man’s belly shall be satisfied with the fruit of his mouth;"
+          "t": "A man’s belly shall be satisfied with the fruit of his mouth; "
         },
         {
           "add": "and"
         },
         {
-          "t": "with the increase of his lips shall he be filled."
+          "t": " with the increase of his lips shall he be filled. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.",
       "tokens": [
         {
-          "t": "Death and life"
+          "t": "Death and life "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the power of the tongue: and they that love it shall eat the fruit thereof."
+          "t": " in the power of the tongue: and they that love it shall eat the fruit thereof. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD.",
       "tokens": [
         {
           "add": "Whoso"
         },
         {
-          "t": "findeth a wife findeth a good"
+          "t": " findeth a wife findeth a good "
         },
         {
           "add": "thing"
         },
         {
-          "t": ", and obtaineth favour of the"
+          "t": ", and obtaineth favour of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The poor useth intreaties; but the rich answereth roughly.",
       "tokens": [
         {
-          "t": "The poor useth intreaties; but the rich answereth roughly."
+          "t": "The poor useth intreaties; but the rich answereth roughly. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.",
       "tokens": [
         {
-          "t": "A man"
+          "t": "A man "
         },
         {
           "add": "that hath"
         },
         {
-          "t": "friends must shew himself friendly: and there is a friend"
+          "t": " friends must shew himself friendly: and there is a friend "
         },
         {
           "add": "that"
         },
         {
-          "t": "sticketh closer than a brother."
+          "t": " sticketh closer than a brother. "
         }
       ]
     }

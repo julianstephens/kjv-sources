@@ -7,360 +7,385 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah.",
       "tokens": [
         {
-          "t": "Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah."
+          "t": "Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "He reigned three years in Jerusalem. His mother’s name also was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.",
       "tokens": [
         {
-          "t": "He reigned three years in Jerusalem. His mother’s name also"
+          "t": "He reigned three years in Jerusalem. His mother’s name also "
         },
         {
           "add": "was"
         },
         {
-          "t": "Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam."
+          "t": " Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Abijah set the battle in array with an army of valiant men of war, even four hundred thousand chosen men: Jeroboam also set the battle in array against him with eight hundred thousand chosen men, being mighty men of valour.",
       "tokens": [
         {
-          "t": "And Abijah set the battle in array with an army of valiant men of war,"
+          "t": "And Abijah set the battle in array with an army of valiant men of war, "
         },
         {
           "add": "even"
         },
         {
-          "t": "four hundred thousand chosen men: Jeroboam also set the battle in array against him with eight hundred thousand chosen men,"
+          "t": " four hundred thousand chosen men: Jeroboam also set the battle in array against him with eight hundred thousand chosen men, "
         },
         {
           "add": "being"
         },
         {
-          "t": "mighty men of valour."
+          "t": " mighty men of valour. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And Abijah stood up upon mount Zemaraim, which is in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;",
       "tokens": [
         {
-          "t": "¶ And Abijah stood up upon mount Zemaraim, which"
+          "t": "¶ And Abijah stood up upon mount Zemaraim, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;"
+          "t": " in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Ought ye not to know that the LORD God of Israel gave the kingdom over Israel to David for ever, even to him and to his sons by a covenant of salt?",
       "tokens": [
         {
-          "t": "Ought ye not to know that the"
+          "t": "Ought ye not to know that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel gave the kingdom over Israel to David for ever,"
+          "t": " God of Israel gave the kingdom over Israel to David for ever, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to him and to his sons by a covenant of salt?"
+          "t": " to him and to his sons by a covenant of salt? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord.",
       "tokens": [
         {
-          "t": "Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord."
+          "t": "Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them.",
       "tokens": [
         {
-          "t": "And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them."
+          "t": "And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye be a great multitude, and there are with you golden calves, which Jeroboam made you for gods.",
       "tokens": [
         {
-          "t": "And now ye think to withstand the kingdom of the"
+          "t": "And now ye think to withstand the kingdom of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in the hand of the sons of David; and ye"
+          "t": " in the hand of the sons of David; and ye "
         },
         {
           "add": "be"
         },
         {
-          "t": "a great multitude, and"
+          "t": " a great multitude, and "
         },
         {
           "add": "there are"
         },
         {
-          "t": "with you golden calves, which Jeroboam made you for gods."
+          "t": " with you golden calves, which Jeroboam made you for gods. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of other lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, the same may be a priest of them that are no gods.",
       "tokens": [
         {
-          "t": "Have ye not cast out the priests of the"
+          "t": "Have ye not cast out the priests of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of"
+          "t": ", the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of "
         },
         {
           "add": "other"
         },
         {
-          "t": "lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams,"
+          "t": " lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, "
         },
         {
           "add": "the same"
         },
         {
-          "t": "may be a priest of"
+          "t": " may be a priest of "
         },
         {
           "add": "them that are"
         },
         {
-          "t": "no gods."
+          "t": " no gods. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "But as for us, the LORD is our God, and we have not forsaken him; and the priests, which minister unto the LORD, are the sons of Aaron, and the Levites wait upon their business:",
       "tokens": [
         {
-          "t": "But as for us, the"
+          "t": "But as for us, the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "our God, and we have not forsaken him; and the priests, which minister unto the"
+          "t": " our God, and we have not forsaken him; and the priests, which minister unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "are"
         },
         {
-          "t": "the sons of Aaron, and the Levites"
+          "t": " the sons of Aaron, and the Levites "
         },
         {
           "add": "wait"
         },
         {
-          "t": "upon"
+          "t": " upon "
         },
         {
           "add": "their"
         },
         {
-          "t": "business:"
+          "t": " business: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And they burn unto the LORD every morning and every evening burnt sacrifices and sweet incense: the shewbread also set they in order upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the LORD our God; but ye have forsaken him.",
       "tokens": [
         {
-          "t": "And they burn unto the"
+          "t": "And they burn unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "every morning and every evening burnt sacrifices and sweet incense: the shewbread also"
+          "t": " every morning and every evening burnt sacrifices and sweet incense: the shewbread also "
         },
         {
           "add": "set they in order"
         },
         {
-          "t": "upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the"
+          "t": " upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God; but ye have forsaken him."
+          "t": " our God; but ye have forsaken him. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And, behold, God himself is with us for our captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the LORD God of your fathers; for ye shall not prosper.",
       "tokens": [
         {
-          "t": "And, behold, God himself"
+          "t": "And, behold, God himself "
         },
         {
           "add": "is"
         },
         {
-          "t": "with us for"
+          "t": " with us for "
         },
         {
           "add": "our"
         },
         {
-          "t": "captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the"
+          "t": " captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of your fathers; for ye shall not prosper."
+          "t": " God of your fathers; for ye shall not prosper. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment was behind them.",
       "tokens": [
         {
-          "t": "¶ But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment"
+          "t": "¶ But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment "
         },
         {
           "add": "was"
         },
         {
-          "t": "behind them."
+          "t": " behind them. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And when Judah looked back, behold, the battle was before and behind: and they cried unto the LORD, and the priests sounded with the trumpets.",
       "tokens": [
         {
-          "t": "And when Judah looked back, behold, the battle"
+          "t": "And when Judah looked back, behold, the battle "
         },
         {
           "add": "was"
         },
         {
-          "t": "before and behind: and they cried unto the"
+          "t": " before and behind: and they cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the priests sounded with the trumpets."
+          "t": ", and the priests sounded with the trumpets. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah.",
       "tokens": [
         {
-          "t": "Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah."
+          "t": "Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the children of Israel fled before Judah: and God delivered them into their hand.",
       "tokens": [
         {
-          "t": "And the children of Israel fled before Judah: and God delivered them into their hand."
+          "t": "And the children of Israel fled before Judah: and God delivered them into their hand. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men.",
       "tokens": [
         {
-          "t": "And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men."
+          "t": "And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers.",
       "tokens": [
         {
-          "t": "Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the"
+          "t": "Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of their fathers."
+          "t": " God of their fathers. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Abijah pursued after Jeroboam, and took cities from him, Beth-el with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof.",
       "tokens": [
         {
-          "t": "And Abijah pursued after Jeroboam, and took cities from him, Beth-el with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof."
+          "t": "And Abijah pursued after Jeroboam, and took cities from him, Beth-el with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Neither did Jeroboam recover strength again in the days of Abijah: and the LORD struck him, and he died.",
       "tokens": [
         {
-          "t": "Neither did Jeroboam recover strength again in the days of Abijah: and the"
+          "t": "Neither did Jeroboam recover strength again in the days of Abijah: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "struck him, and he died."
+          "t": " struck him, and he died. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters.",
       "tokens": [
         {
-          "t": "¶ But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters."
+          "t": "¶ But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And the rest of the acts of Abijah, and his ways, and his sayings, are written in the story of the prophet Iddo.",
       "tokens": [
         {
-          "t": "And the rest of the acts of Abijah, and his ways, and his sayings,"
+          "t": "And the rest of the acts of Abijah, and his ways, and his sayings, "
         },
         {
           "add": "are"
         },
         {
-          "t": "written in the story of the prophet Iddo."
+          "t": " written in the story of the prophet Iddo. "
         }
       ]
     }

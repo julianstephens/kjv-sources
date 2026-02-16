@@ -7,421 +7,442 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the ark of the LORD was in the country of the Philistines seven months.",
       "tokens": [
         {
-          "t": "And the ark of the"
+          "t": "And the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was in the country of the Philistines seven months."
+          "t": " was in the country of the Philistines seven months. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the Philistines called for the priests and the diviners, saying, What shall we do to the ark of the LORD? tell us wherewith we shall send it to his place.",
       "tokens": [
         {
-          "t": "And the Philistines called for the priests and the diviners, saying, What shall we do to the ark of the"
+          "t": "And the Philistines called for the priests and the diviners, saying, What shall we do to the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "? tell us wherewith we shall send it to his place."
+          "t": "? tell us wherewith we shall send it to his place. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And they said, If ye send away the ark of the God of Israel, send it not empty; but in any wise return him a trespass offering: then ye shall be healed, and it shall be known to you why his hand is not removed from you.",
       "tokens": [
         {
-          "t": "And they said, If ye send away the ark of the God of Israel, send it not empty; but in any wise return him a trespass offering: then ye shall be healed, and it shall be known to you why his hand is not removed from you."
+          "t": "And they said, If ye send away the ark of the God of Israel, send it not empty; but in any wise return him a trespass offering: then ye shall be healed, and it shall be known to you why his hand is not removed from you. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then said they, What shall be the trespass offering which we shall return to him? They answered, Five golden emerods, and five golden mice, according to the number of the lords of the Philistines: for one plague was on you all, and on your lords.",
       "tokens": [
         {
-          "t": "Then said they, What"
+          "t": "Then said they, What "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the trespass offering which we shall return to him? They answered, Five golden emerods, and five golden mice,"
+          "t": " the trespass offering which we shall return to him? They answered, Five golden emerods, and five golden mice, "
         },
         {
           "add": "according to"
         },
         {
-          "t": "the number of the lords of the Philistines: for one plague"
+          "t": " the number of the lords of the Philistines: for one plague "
         },
         {
           "add": "was"
         },
         {
-          "t": "on you all, and on your lords."
+          "t": " on you all, and on your lords. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Wherefore ye shall make images of your emerods, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land.",
       "tokens": [
         {
-          "t": "Wherefore ye shall make images of your emerods, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land."
+          "t": "Wherefore ye shall make images of your emerods, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people go, and they departed?",
       "tokens": [
         {
-          "t": "Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people go, and they departed?"
+          "t": "Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people go, and they departed? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Now therefore make a new cart, and take two milch kine, on which there hath come no yoke, and tie the kine to the cart, and bring their calves home from them:",
       "tokens": [
         {
-          "t": "Now therefore make a new cart, and take two milch kine, on which there hath come no yoke, and tie the kine to the cart, and bring their calves home from them:"
+          "t": "Now therefore make a new cart, and take two milch kine, on which there hath come no yoke, and tie the kine to the cart, and bring their calves home from them: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And take the ark of the LORD, and lay it upon the cart; and put the jewels of gold, which ye return him for a trespass offering, in a coffer by the side thereof; and send it away, that it may go.",
       "tokens": [
         {
-          "t": "And take the ark of the"
+          "t": "And take the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and lay it upon the cart; and put the jewels of gold, which ye return him"
+          "t": ", and lay it upon the cart; and put the jewels of gold, which ye return him "
         },
         {
           "add": "for"
         },
         {
-          "t": "a trespass offering, in a coffer by the side thereof; and send it away, that it may go."
+          "t": " a trespass offering, in a coffer by the side thereof; and send it away, that it may go. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And see, if it goeth up by the way of his own coast to Beth-shemesh, then he hath done us this great evil: but if not, then we shall know that it is not his hand that smote us; it was a chance that happened to us.",
       "tokens": [
         {
-          "t": "And see, if it goeth up by the way of his own coast to Beth-shemesh,"
+          "t": "And see, if it goeth up by the way of his own coast to Beth-shemesh, "
         },
         {
           "add": "then"
         },
         {
-          "t": "he hath done us this great evil: but if not, then we shall know that"
+          "t": " he hath done us this great evil: but if not, then we shall know that "
         },
         {
           "add": "it is"
         },
         {
-          "t": "not his hand"
+          "t": " not his hand "
         },
         {
           "add": "that"
         },
         {
-          "t": "smote us; it"
+          "t": " smote us; it "
         },
         {
           "add": "was"
         },
         {
-          "t": "a chance"
+          "t": " a chance "
         },
         {
           "add": "that"
         },
         {
-          "t": "happened to us."
+          "t": " happened to us. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And the men did so; and took two milch kine, and tied them to the cart, and shut up their calves at home:",
       "tokens": [
         {
-          "t": "¶ And the men did so; and took two milch kine, and tied them to the cart, and shut up their calves at home:"
+          "t": "¶ And the men did so; and took two milch kine, and tied them to the cart, and shut up their calves at home: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And they laid the ark of the LORD upon the cart, and the coffer with the mice of gold and the images of their emerods.",
       "tokens": [
         {
-          "t": "And they laid the ark of the"
+          "t": "And they laid the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "upon the cart, and the coffer with the mice of gold and the images of their emerods."
+          "t": " upon the cart, and the coffer with the mice of gold and the images of their emerods. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the kine took the straight way to the way of Beth-shemesh, and went along the highway, lowing as they went, and turned not aside to the right hand or to the left; and the lords of the Philistines went after them unto the border of Beth-shemesh.",
       "tokens": [
         {
-          "t": "And the kine took the straight way to the way of Beth-shemesh,"
+          "t": "And the kine took the straight way to the way of Beth-shemesh, "
         },
         {
           "add": "and"
         },
         {
-          "t": "went along the highway, lowing as they went, and turned not aside"
+          "t": " went along the highway, lowing as they went, and turned not aside "
         },
         {
           "add": "to"
         },
         {
-          "t": "the right hand or"
+          "t": " the right hand or "
         },
         {
           "add": "to"
         },
         {
-          "t": "the left; and the lords of the Philistines went after them unto the border of Beth-shemesh."
+          "t": " the left; and the lords of the Philistines went after them unto the border of Beth-shemesh. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And they of Beth-shemesh were reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see it.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "they of"
         },
         {
-          "t": "Beth-shemesh"
+          "t": " Beth-shemesh "
         },
         {
           "add": "were"
         },
         {
-          "t": "reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see"
+          "t": " reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the cart came into the field of Joshua, a Beth-shemite, and stood there, where there was a great stone: and they clave the wood of the cart, and offered the kine a burnt offering unto the LORD.",
       "tokens": [
         {
-          "t": "And the cart came into the field of Joshua, a Beth-shemite, and stood there, where"
+          "t": "And the cart came into the field of Joshua, a Beth-shemite, and stood there, where "
         },
         {
           "add": "there was"
         },
         {
-          "t": "a great stone: and they clave the wood of the cart, and offered the kine a burnt offering unto the"
+          "t": " a great stone: and they clave the wood of the cart, and offered the kine a burnt offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the Levites took down the ark of the LORD, and the coffer that was with it, wherein the jewels of gold were, and put them on the great stone: and the men of Beth-shemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD.",
       "tokens": [
         {
-          "t": "And the Levites took down the ark of the"
+          "t": "And the Levites took down the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the coffer that"
+          "t": ", and the coffer that "
         },
         {
           "add": "was"
         },
         {
-          "t": "with it, wherein the jewels of gold"
+          "t": " with it, wherein the jewels of gold "
         },
         {
           "add": "were"
         },
         {
-          "t": ", and put"
+          "t": ", and put "
         },
         {
           "add": "them"
         },
         {
-          "t": "on the great stone: and the men of Beth-shemesh offered burnt offerings and sacrificed sacrifices the same day unto the"
+          "t": " on the great stone: and the men of Beth-shemesh offered burnt offerings and sacrificed sacrifices the same day unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And when the five lords of the Philistines had seen it, they returned to Ekron the same day.",
       "tokens": [
         {
-          "t": "And when the five lords of the Philistines had seen"
+          "t": "And when the five lords of the Philistines had seen "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they returned to Ekron the same day."
+          "t": ", they returned to Ekron the same day. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And these are the golden emerods which the Philistines returned for a trespass offering unto the LORD; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the golden emerods which the Philistines returned"
+          "t": " the golden emerods which the Philistines returned "
         },
         {
           "add": "for"
         },
         {
-          "t": "a trespass offering unto the"
+          "t": " a trespass offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;"
+          "t": "; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one; "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both of fenced cities, and of country villages, even unto the great stone of Abel, whereon they set down the ark of the LORD: which stone remaineth unto this day in the field of Joshua, the Beth-shemite.",
       "tokens": [
         {
-          "t": "And the golden mice,"
+          "t": "And the golden mice, "
         },
         {
           "add": "according to"
         },
         {
-          "t": "the number of all the cities of the Philistines"
+          "t": " the number of all the cities of the Philistines "
         },
         {
           "add": "belonging"
         },
         {
-          "t": "to the five lords,"
+          "t": " to the five lords, "
         },
         {
           "add": "both"
         },
         {
-          "t": "of fenced cities, and of country villages, even unto the great"
+          "t": " of fenced cities, and of country villages, even unto the great "
         },
         {
           "add": "stone of"
         },
         {
-          "t": "Abel, whereon they set down the ark of the"
+          "t": " Abel, whereon they set down the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         },
         {
           "add": "which stone remaineth"
         },
         {
-          "t": "unto this day in the field of Joshua, the Beth-shemite."
+          "t": " unto this day in the field of Joshua, the Beth-shemite. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And he smote the men of Beth-shemesh, because they had looked into the ark of the LORD, even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the LORD had smitten many of the people with a great slaughter.",
       "tokens": [
         {
-          "t": "¶ And he smote the men of Beth-shemesh, because they had looked into the ark of the"
+          "t": "¶ And he smote the men of Beth-shemesh, because they had looked into the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the"
+          "t": ", even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had smitten"
+          "t": " had smitten "
         },
         {
           "add": "many"
         },
         {
-          "t": "of the people with a great slaughter."
+          "t": " of the people with a great slaughter. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the men of Beth-shemesh said, Who is able to stand before this holy LORD God? and to whom shall he go up from us?",
       "tokens": [
         {
-          "t": "And the men of Beth-shemesh said, Who is able to stand before this holy"
+          "t": "And the men of Beth-shemesh said, Who is able to stand before this holy "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God? and to whom shall he go up from us?"
+          "t": " God? and to whom shall he go up from us? "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ And they sent messengers to the inhabitants of Kirjath-jearim, saying, The Philistines have brought again the ark of the LORD; come ye down, and fetch it up to you.",
       "tokens": [
         {
-          "t": "¶ And they sent messengers to the inhabitants of Kirjath-jearim, saying, The Philistines have brought again the ark of the"
+          "t": "¶ And they sent messengers to the inhabitants of Kirjath-jearim, saying, The Philistines have brought again the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; come ye down,"
+          "t": "; come ye down, "
         },
         {
           "add": "and"
         },
         {
-          "t": "fetch it up to you."
+          "t": " fetch it up to you. "
         }
       ]
     }

@@ -7,221 +7,241 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;",
       "tokens": [
         {
-          "t": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ,"
+          "t": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, "
         },
         {
           "add": "which is"
         },
         {
-          "t": "our hope;"
+          "t": " our hope; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord.",
       "tokens": [
         {
-          "t": "Unto Timothy,"
+          "t": "Unto Timothy, "
         },
         {
           "add": "my"
         },
         {
-          "t": "own son in the faith: Grace, mercy,"
+          "t": " own son in the faith: Grace, mercy, "
         },
         {
           "add": "and"
         },
         {
-          "t": "peace, from God our Father and Jesus Christ our Lord."
+          "t": " peace, from God our Father and Jesus Christ our Lord. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,",
       "tokens": [
         {
-          "t": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,"
+          "t": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine, "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do.",
       "tokens": [
         {
-          "t": "Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith:"
+          "t": "Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: "
         },
         {
           "add": "so do"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:",
       "tokens": [
         {
-          "t": "Now the end of the commandment is charity out of a pure heart, and"
+          "t": "Now the end of the commandment is charity out of a pure heart, and "
         },
         {
           "add": "of"
         },
         {
-          "t": "a good conscience, and"
+          "t": " a good conscience, and "
         },
         {
           "add": "of"
         },
         {
-          "t": "faith unfeigned:"
+          "t": " faith unfeigned: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "From which some having swerved have turned aside unto vain jangling;",
       "tokens": [
         {
-          "t": "From which some having swerved have turned aside unto vain jangling;"
+          "t": "From which some having swerved have turned aside unto vain jangling; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.",
       "tokens": [
         {
-          "t": "Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm."
+          "t": "Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But we know that the law is good, if a man use it lawfully;",
       "tokens": [
         {
-          "t": "But we know that the law"
+          "t": "But we know that the law "
         },
         {
           "add": "is"
         },
         {
-          "t": "good, if a man use it lawfully;"
+          "t": " good, if a man use it lawfully; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
       "tokens": [
         {
-          "t": "Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,"
+          "t": "Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;",
       "tokens": [
         {
-          "t": "For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;"
+          "t": "For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "According to the glorious gospel of the blessed God, which was committed to my trust.",
       "tokens": [
         {
-          "t": "According to the glorious gospel of the blessed God, which was committed to my trust."
+          "t": "According to the glorious gospel of the blessed God, which was committed to my trust. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;",
       "tokens": [
         {
-          "t": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;"
+          "t": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief.",
       "tokens": [
         {
-          "t": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did"
+          "t": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did "
         },
         {
           "add": "it"
         },
         {
-          "t": "ignorantly in unbelief."
+          "t": " ignorantly in unbelief. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.",
       "tokens": [
         {
-          "t": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus."
+          "t": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief."
+          "t": " a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.",
       "tokens": [
         {
-          "t": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting."
+          "t": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.",
       "tokens": [
         {
-          "t": "Now unto the King eternal, immortal, invisible, the only wise God,"
+          "t": "Now unto the King eternal, immortal, invisible, the only wise God, "
         },
         {
           "add": "be"
         },
         {
-          "t": "honour and glory for ever and ever. Amen."
+          "t": " honour and glory for ever and ever. Amen. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;",
       "tokens": [
         {
-          "t": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;"
+          "t": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:",
       "tokens": [
         {
-          "t": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:"
+          "t": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.",
       "tokens": [
         {
-          "t": "Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme."
+          "t": "Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme. "
         }
       ]
     }

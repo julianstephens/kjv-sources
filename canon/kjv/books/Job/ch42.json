@@ -7,269 +7,286 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Job answered the LORD, and said,",
       "tokens": [
         {
-          "t": "Then Job answered the"
+          "t": "Then Job answered the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said,"
+          "t": ", and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "I know that thou canst do every thing, and that no thought can be withholden from thee.",
       "tokens": [
         {
-          "t": "I know that thou canst do every"
+          "t": "I know that thou canst do every "
         },
         {
           "add": "thing"
         },
         {
-          "t": ", and"
+          "t": ", and "
         },
         {
           "add": "that"
         },
         {
-          "t": "no thought can be withholden from thee."
+          "t": " no thought can be withholden from thee. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.",
       "tokens": [
         {
-          "t": "Who"
+          "t": "Who "
         },
         {
           "add": "is"
         },
         {
-          "t": "he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
+          "t": " he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.",
       "tokens": [
         {
-          "t": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me."
+          "t": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee.",
       "tokens": [
         {
-          "t": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee."
+          "t": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Wherefore I abhor myself, and repent in dust and ashes.",
       "tokens": [
         {
-          "t": "Wherefore I abhor"
+          "t": "Wherefore I abhor "
         },
         {
           "add": "myself"
         },
         {
-          "t": ", and repent in dust and ashes."
+          "t": ", and repent in dust and ashes. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath.",
       "tokens": [
         {
-          "t": "¶ And it was"
+          "t": "¶ And it was "
         },
         {
           "add": "so"
         },
         {
-          "t": ", that after the"
+          "t": ", that after the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had spoken these words unto Job, the"
+          "t": " had spoken these words unto Job, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me"
+          "t": " said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me "
         },
         {
           "add": "the thing that is"
         },
         {
-          "t": "right, as my servant Job"
+          "t": " right, as my servant Job "
         },
         {
           "add": "hath"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job.",
       "tokens": [
         {
-          "t": "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you"
+          "t": "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you "
         },
         {
           "add": "after your"
         },
         {
-          "t": "folly, in that ye have not spoken of me"
+          "t": " folly, in that ye have not spoken of me "
         },
         {
           "add": "the thing which is"
         },
         {
-          "t": "right, like my servant Job."
+          "t": " right, like my servant Job. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job.",
       "tokens": [
         {
-          "t": "So Eliphaz the Temanite and Bildad the Shuhite"
+          "t": "So Eliphaz the Temanite and Bildad the Shuhite "
         },
         {
           "add": "and"
         },
         {
-          "t": "Zophar the Naamathite went, and did according as the"
+          "t": " Zophar the Naamathite went, and did according as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded them: the"
+          "t": " commanded them: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "also accepted Job."
+          "t": " also accepted Job. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "turned the captivity of Job, when he prayed for his friends: also the"
+          "t": " turned the captivity of Job, when he prayed for his friends: also the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "gave Job twice as much as he had before."
+          "t": " gave Job twice as much as he had before. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold.",
       "tokens": [
         {
-          "t": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the"
+          "t": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had brought upon him: every man also gave him a piece of money, and every one an earring of gold."
+          "t": " had brought upon him: every man also gave him a piece of money, and every one an earring of gold. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.",
       "tokens": [
         {
-          "t": "So the"
+          "t": "So the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses."
+          "t": " blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "He had also seven sons and three daughters.",
       "tokens": [
         {
-          "t": "He had also seven sons and three daughters."
+          "t": "He had also seven sons and three daughters. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch.",
       "tokens": [
         {
-          "t": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch."
+          "t": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren.",
       "tokens": [
         {
-          "t": "And in all the land were no women found"
+          "t": "And in all the land were no women found "
         },
         {
           "add": "so"
         },
         {
-          "t": "fair as the daughters of Job: and their father gave them inheritance among their brethren."
+          "t": " fair as the daughters of Job: and their father gave them inheritance among their brethren. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, even four generations.",
       "tokens": [
         {
-          "t": "After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons,"
+          "t": "After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, "
         },
         {
           "add": "even"
         },
         {
-          "t": "four generations."
+          "t": " four generations. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "So Job died, being old and full of days.",
       "tokens": [
         {
-          "t": "So Job died,"
+          "t": "So Job died, "
         },
         {
           "add": "being"
         },
         {
-          "t": "old and full of days."
+          "t": " old and full of days. "
         }
       ]
     }

@@ -7,402 +7,436 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?",
       "tokens": [
         {
-          "t": "Canst thou draw out leviathan with an hook? or his tongue with a cord"
+          "t": "Canst thou draw out leviathan with an hook? or his tongue with a cord "
         },
         {
           "add": "which"
         },
         {
-          "t": "thou lettest down?"
+          "t": " thou lettest down? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Canst thou put an hook into his nose? or bore his jaw through with a thorn?",
       "tokens": [
         {
-          "t": "Canst thou put an hook into his nose? or bore his jaw through with a thorn?"
+          "t": "Canst thou put an hook into his nose? or bore his jaw through with a thorn? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Will he make many supplications unto thee? will he speak soft words unto thee?",
       "tokens": [
         {
-          "t": "Will he make many supplications unto thee? will he speak soft"
+          "t": "Will he make many supplications unto thee? will he speak soft "
         },
         {
           "add": "words"
         },
         {
-          "t": "unto thee?"
+          "t": " unto thee? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Will he make a covenant with thee? wilt thou take him for a servant for ever?",
       "tokens": [
         {
-          "t": "Will he make a covenant with thee? wilt thou take him for a servant for ever?"
+          "t": "Will he make a covenant with thee? wilt thou take him for a servant for ever? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Wilt thou play with him as with a bird? or wilt thou bind him for thy maidens?",
       "tokens": [
         {
-          "t": "Wilt thou play with him as"
+          "t": "Wilt thou play with him as "
         },
         {
           "add": "with"
         },
         {
-          "t": "a bird? or wilt thou bind him for thy maidens?"
+          "t": " a bird? or wilt thou bind him for thy maidens? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Shall the companions make a banquet of him? shall they part him among the merchants?",
       "tokens": [
         {
-          "t": "Shall the companions make a banquet of him? shall they part him among the merchants?"
+          "t": "Shall the companions make a banquet of him? shall they part him among the merchants? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Canst thou fill his skin with barbed irons? or his head with fish spears?",
       "tokens": [
         {
-          "t": "Canst thou fill his skin with barbed irons? or his head with fish spears?"
+          "t": "Canst thou fill his skin with barbed irons? or his head with fish spears? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Lay thine hand upon him, remember the battle, do no more.",
       "tokens": [
         {
-          "t": "Lay thine hand upon him, remember the battle, do no more."
+          "t": "Lay thine hand upon him, remember the battle, do no more. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Behold, the hope of him is in vain: shall not one be cast down even at the sight of him?",
       "tokens": [
         {
-          "t": "Behold, the hope of him is in vain: shall not"
+          "t": "Behold, the hope of him is in vain: shall not "
         },
         {
           "add": "one"
         },
         {
-          "t": "be cast down even at the sight of him?"
+          "t": " be cast down even at the sight of him? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "None is so fierce that dare stir him up: who then is able to stand before me?",
       "tokens": [
         {
-          "t": "None"
+          "t": "None "
         },
         {
           "add": "is so"
         },
         {
-          "t": "fierce that dare stir him up: who then is able to stand before me?"
+          "t": " fierce that dare stir him up: who then is able to stand before me? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Who hath prevented me, that I should repay him? whatsoever is under the whole heaven is mine.",
       "tokens": [
         {
-          "t": "Who hath prevented me, that I should repay"
+          "t": "Who hath prevented me, that I should repay "
         },
         {
           "add": "him? whatsoever is"
         },
         {
-          "t": "under the whole heaven is mine."
+          "t": " under the whole heaven is mine. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "I will not conceal his parts, nor his power, nor his comely proportion.",
       "tokens": [
         {
-          "t": "I will not conceal his parts, nor his power, nor his comely proportion."
+          "t": "I will not conceal his parts, nor his power, nor his comely proportion. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Who can discover the face of his garment? or who can come to him with his double bridle?",
       "tokens": [
         {
-          "t": "Who can discover the face of his garment?"
+          "t": "Who can discover the face of his garment? "
         },
         {
           "add": "or"
         },
         {
-          "t": "who can come"
+          "t": " who can come "
         },
         {
           "add": "to him"
         },
         {
-          "t": "with his double bridle?"
+          "t": " with his double bridle? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Who can open the doors of his face? his teeth are terrible round about.",
       "tokens": [
         {
-          "t": "Who can open the doors of his face? his teeth"
+          "t": "Who can open the doors of his face? his teeth "
         },
         {
           "add": "are"
         },
         {
-          "t": "terrible round about."
+          "t": " terrible round about. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "His scales are his pride, shut up together as with a close seal.",
       "tokens": [
         {
           "add": "His"
         },
         {
-          "t": "scales"
+          "t": " scales "
         },
         {
           "add": "are his"
         },
         {
-          "t": "pride, shut up together"
+          "t": " pride, shut up together "
         },
         {
           "add": "as with"
         },
         {
-          "t": "a close seal."
+          "t": " a close seal. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "One is so near to another, that no air can come between them.",
       "tokens": [
         {
-          "t": "One is so near to another, that no air can come between them."
+          "t": "One is so near to another, that no air can come between them. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "They are joined one to another, they stick together, that they cannot be sundered.",
       "tokens": [
         {
-          "t": "They are joined one to another, they stick together, that they cannot be sundered."
+          "t": "They are joined one to another, they stick together, that they cannot be sundered. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "By his neesings a light doth shine, and his eyes are like the eyelids of the morning.",
       "tokens": [
         {
-          "t": "By his neesings a light doth shine, and his eyes"
+          "t": "By his neesings a light doth shine, and his eyes "
         },
         {
           "add": "are"
         },
         {
-          "t": "like the eyelids of the morning."
+          "t": " like the eyelids of the morning. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Out of his mouth go burning lamps, and sparks of fire leap out.",
       "tokens": [
         {
-          "t": "Out of his mouth go burning lamps,"
+          "t": "Out of his mouth go burning lamps, "
         },
         {
           "add": "and"
         },
         {
-          "t": "sparks of fire leap out."
+          "t": " sparks of fire leap out. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Out of his nostrils goeth smoke, as out of a seething pot or caldron.",
       "tokens": [
         {
-          "t": "Out of his nostrils goeth smoke, as"
+          "t": "Out of his nostrils goeth smoke, as "
         },
         {
           "add": "out"
         },
         {
-          "t": "of a seething pot or caldron."
+          "t": " of a seething pot or caldron. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "His breath kindleth coals, and a flame goeth out of his mouth.",
       "tokens": [
         {
-          "t": "His breath kindleth coals, and a flame goeth out of his mouth."
+          "t": "His breath kindleth coals, and a flame goeth out of his mouth. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "In his neck remaineth strength, and sorrow is turned into joy before him.",
       "tokens": [
         {
-          "t": "In his neck remaineth strength, and sorrow is turned into joy before him."
+          "t": "In his neck remaineth strength, and sorrow is turned into joy before him. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.",
       "tokens": [
         {
-          "t": "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved."
+          "t": "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "His heart is as firm as a stone; yea, as hard as a piece of the nether millstone.",
       "tokens": [
         {
-          "t": "His heart is as firm as a stone; yea, as hard as a piece of the nether"
+          "t": "His heart is as firm as a stone; yea, as hard as a piece of the nether "
         },
         {
           "add": "millstone"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
       "tokens": [
         {
-          "t": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves."
+          "t": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.",
       "tokens": [
         {
-          "t": "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon."
+          "t": "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "He esteemeth iron as straw, and brass as rotten wood.",
       "tokens": [
         {
-          "t": "He esteemeth iron as straw,"
+          "t": "He esteemeth iron as straw, "
         },
         {
           "add": "and"
         },
         {
-          "t": "brass as rotten wood."
+          "t": " brass as rotten wood. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "The arrow cannot make him flee: slingstones are turned with him into stubble.",
       "tokens": [
         {
-          "t": "The arrow cannot make him flee: slingstones are turned with him into stubble."
+          "t": "The arrow cannot make him flee: slingstones are turned with him into stubble. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Darts are counted as stubble: he laugheth at the shaking of a spear.",
       "tokens": [
         {
-          "t": "Darts are counted as stubble: he laugheth at the shaking of a spear."
+          "t": "Darts are counted as stubble: he laugheth at the shaking of a spear. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Sharp stones are under him: he spreadeth sharp pointed things upon the mire.",
       "tokens": [
         {
-          "t": "Sharp stones"
+          "t": "Sharp stones "
         },
         {
           "add": "are"
         },
         {
-          "t": "under him: he spreadeth sharp pointed things upon the mire."
+          "t": " under him: he spreadeth sharp pointed things upon the mire. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.",
       "tokens": [
         {
-          "t": "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment."
+          "t": "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "He maketh a path to shine after him; one would think the deep to be hoary.",
       "tokens": [
         {
-          "t": "He maketh a path to shine after him;"
+          "t": "He maketh a path to shine after him; "
         },
         {
           "add": "one"
         },
         {
-          "t": "would think the deep"
+          "t": " would think the deep "
         },
         {
           "add": "to be"
         },
         {
-          "t": "hoary."
+          "t": " hoary. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Upon earth there is not his like, who is made without fear.",
       "tokens": [
         {
-          "t": "Upon earth there is not his like, who is made without fear."
+          "t": "Upon earth there is not his like, who is made without fear. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "He beholdeth all high things: he is a king over all the children of pride.",
       "tokens": [
         {
-          "t": "He beholdeth all high"
+          "t": "He beholdeth all high "
         },
         {
           "add": "things:"
         },
         {
-          "t": "he"
+          "t": " he "
         },
         {
           "add": "is"
         },
         {
-          "t": "a king over all the children of pride."
+          "t": " a king over all the children of pride. "
         }
       ]
     }

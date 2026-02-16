@@ -7,295 +7,316 @@
   "verses": [
     {
       "v": 1,
+      "plain": "When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;",
       "tokens": [
         {
-          "t": "When the"
+          "t": "When the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath cut off the nations, whose land the"
+          "t": " thy God hath cut off the nations, whose land the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;"
+          "t": " thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it.",
       "tokens": [
         {
-          "t": "Thou shalt separate three cities for thee in the midst of thy land, which the"
+          "t": "Thou shalt separate three cities for thee in the midst of thy land, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee to possess it."
+          "t": " thy God giveth thee to possess it. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the LORD thy God giveth thee to inherit, into three parts, that every slayer may flee thither.",
       "tokens": [
         {
-          "t": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the"
+          "t": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee to inherit, into three parts, that every slayer may flee thither."
+          "t": " thy God giveth thee to inherit, into three parts, that every slayer may flee thither. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;",
       "tokens": [
         {
-          "t": "¶ And this"
+          "t": "¶ And this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;"
+          "t": " the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:",
       "tokens": [
         {
-          "t": "As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:"
+          "t": "As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past.",
       "tokens": [
         {
-          "t": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he"
+          "t": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he "
         },
         {
           "add": "was"
         },
         {
-          "t": "not worthy of death, inasmuch as he hated him not in time past."
+          "t": " not worthy of death, inasmuch as he hated him not in time past. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Wherefore I command thee, saying, Thou shalt separate three cities for thee.",
       "tokens": [
         {
-          "t": "Wherefore I command thee, saying, Thou shalt separate three cities for thee."
+          "t": "Wherefore I command thee, saying, Thou shalt separate three cities for thee. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And if the LORD thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;",
       "tokens": [
         {
-          "t": "And if the"
+          "t": "And if the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;"
+          "t": " thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:",
       "tokens": [
         {
-          "t": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the"
+          "t": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:"
+          "t": " thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "That innocent blood be not shed in thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee.",
       "tokens": [
         {
-          "t": "That innocent blood be not shed in thy land, which the"
+          "t": "That innocent blood be not shed in thy land, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee"
+          "t": " thy God giveth thee "
         },
         {
           "add": "for"
         },
         {
-          "t": "an inheritance, and"
+          "t": " an inheritance, and "
         },
         {
           "add": "so"
         },
         {
-          "t": "blood be upon thee."
+          "t": " blood be upon thee. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:",
       "tokens": [
         {
-          "t": "¶ But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:"
+          "t": "¶ But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.",
       "tokens": [
         {
-          "t": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die."
+          "t": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee.",
       "tokens": [
         {
-          "t": "Thine eye shall not pity him, but thou shalt put away"
+          "t": "Thine eye shall not pity him, but thou shalt put away "
         },
         {
           "add": "the guilt of"
         },
         {
-          "t": "innocent blood from Israel, that it may go well with thee."
+          "t": " innocent blood from Israel, that it may go well with thee. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the"
+          "t": "¶ Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee to possess it."
+          "t": " thy God giveth thee to possess it. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.",
       "tokens": [
         {
-          "t": "¶ One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."
+          "t": "¶ One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ If a false witness rise up against any man to testify against him that which is wrong;",
       "tokens": [
         {
-          "t": "¶ If a false witness rise up against any man to testify against him"
+          "t": "¶ If a false witness rise up against any man to testify against him "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "wrong;"
+          "t": " wrong; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges, which shall be in those days;",
       "tokens": [
         {
-          "t": "Then both the men, between whom the controversy"
+          "t": "Then both the men, between whom the controversy "
         },
         {
           "add": "is"
         },
         {
-          "t": ", shall stand before the"
+          "t": ", shall stand before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", before the priests and the judges, which shall be in those days;"
+          "t": ", before the priests and the judges, which shall be in those days; "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;",
       "tokens": [
         {
-          "t": "And the judges shall make diligent inquisition: and, behold,"
+          "t": "And the judges shall make diligent inquisition: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the witness"
+          "t": " the witness "
         },
         {
           "add": "be"
         },
         {
-          "t": "a false witness,"
+          "t": " a false witness, "
         },
         {
           "add": "and"
         },
         {
-          "t": "hath testified falsely against his brother;"
+          "t": " hath testified falsely against his brother; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.",
       "tokens": [
         {
-          "t": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you."
+          "t": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.",
       "tokens": [
         {
-          "t": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you."
+          "t": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
       "tokens": [
         {
-          "t": "And thine eye shall not pity;"
+          "t": "And thine eye shall not pity; "
         },
         {
           "add": "but"
         },
         {
-          "t": "life"
+          "t": " life "
         },
         {
           "add": "shall go"
         },
         {
-          "t": "for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
+          "t": " for life, eye for eye, tooth for tooth, hand for hand, foot for foot. "
         }
       ]
     }

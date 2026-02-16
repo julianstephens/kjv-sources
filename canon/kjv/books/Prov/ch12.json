@@ -7,435 +7,463 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.",
       "tokens": [
         {
-          "t": "Whoso loveth instruction loveth knowledge: but he that hateth reproof"
+          "t": "Whoso loveth instruction loveth knowledge: but he that hateth reproof "
         },
         {
           "add": "is"
         },
         {
-          "t": "brutish."
+          "t": " brutish. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "A good man obtaineth favour of the LORD: but a man of wicked devices will he condemn.",
       "tokens": [
         {
-          "t": "A good"
+          "t": "A good "
         },
         {
           "add": "man"
         },
         {
-          "t": "obtaineth favour of the"
+          "t": " obtaineth favour of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": but a man of wicked devices will he condemn."
+          "t": ": but a man of wicked devices will he condemn. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "A man shall not be established by wickedness: but the root of the righteous shall not be moved.",
       "tokens": [
         {
-          "t": "A man shall not be established by wickedness: but the root of the righteous shall not be moved."
+          "t": "A man shall not be established by wickedness: but the root of the righteous shall not be moved. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones.",
       "tokens": [
         {
-          "t": "A virtuous woman"
+          "t": "A virtuous woman "
         },
         {
           "add": "is"
         },
         {
-          "t": "a crown to her husband: but she that maketh ashamed"
+          "t": " a crown to her husband: but she that maketh ashamed "
         },
         {
           "add": "is"
         },
         {
-          "t": "as rottenness in his bones."
+          "t": " as rottenness in his bones. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The thoughts of the righteous are right: but the counsels of the wicked are deceit.",
       "tokens": [
         {
-          "t": "The thoughts of the righteous"
+          "t": "The thoughts of the righteous "
         },
         {
           "add": "are"
         },
         {
-          "t": "right:"
+          "t": " right: "
         },
         {
           "add": "but"
         },
         {
-          "t": "the counsels of the wicked"
+          "t": " the counsels of the wicked "
         },
         {
           "add": "are"
         },
         {
-          "t": "deceit."
+          "t": " deceit. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "The words of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them.",
       "tokens": [
         {
-          "t": "The words of the wicked"
+          "t": "The words of the wicked "
         },
         {
           "add": "are"
         },
         {
-          "t": "to lie in wait for blood: but the mouth of the upright shall deliver them."
+          "t": " to lie in wait for blood: but the mouth of the upright shall deliver them. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The wicked are overthrown, and are not: but the house of the righteous shall stand.",
       "tokens": [
         {
-          "t": "The wicked are overthrown, and"
+          "t": "The wicked are overthrown, and "
         },
         {
           "add": "are"
         },
         {
-          "t": "not: but the house of the righteous shall stand."
+          "t": " not: but the house of the righteous shall stand. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.",
       "tokens": [
         {
-          "t": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised."
+          "t": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He that is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread.",
       "tokens": [
         {
           "add": "He that is"
         },
         {
-          "t": "despised, and hath a servant,"
+          "t": " despised, and hath a servant, "
         },
         {
           "add": "is"
         },
         {
-          "t": "better than he that honoureth himself, and lacketh bread."
+          "t": " better than he that honoureth himself, and lacketh bread. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.",
       "tokens": [
         {
-          "t": "A righteous"
+          "t": "A righteous "
         },
         {
           "add": "man"
         },
         {
-          "t": "regardeth the life of his beast: but the tender mercies of the wicked"
+          "t": " regardeth the life of his beast: but the tender mercies of the wicked "
         },
         {
           "add": "are"
         },
         {
-          "t": "cruel."
+          "t": " cruel. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.",
       "tokens": [
         {
-          "t": "He that tilleth his land shall be satisfied with bread: but he that followeth vain"
+          "t": "He that tilleth his land shall be satisfied with bread: but he that followeth vain "
         },
         {
           "add": "persons is"
         },
         {
-          "t": "void of understanding."
+          "t": " void of understanding. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.",
       "tokens": [
         {
-          "t": "The wicked desireth the net of evil"
+          "t": "The wicked desireth the net of evil "
         },
         {
           "add": "men:"
         },
         {
-          "t": "but the root of the righteous yieldeth"
+          "t": " but the root of the righteous yieldeth "
         },
         {
           "add": "fruit"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The wicked is snared by the transgression of his lips: but the just shall come out of trouble.",
       "tokens": [
         {
-          "t": "The wicked is snared by the transgression of"
+          "t": "The wicked is snared by the transgression of "
         },
         {
           "add": "his"
         },
         {
-          "t": "lips: but the just shall come out of trouble."
+          "t": " lips: but the just shall come out of trouble. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man’s hands shall be rendered unto him.",
       "tokens": [
         {
-          "t": "A man shall be satisfied with good by the fruit of"
+          "t": "A man shall be satisfied with good by the fruit of "
         },
         {
           "add": "his"
         },
         {
-          "t": "mouth: and the recompence of a man’s hands shall be rendered unto him."
+          "t": " mouth: and the recompence of a man’s hands shall be rendered unto him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.",
       "tokens": [
         {
-          "t": "The way of a fool"
+          "t": "The way of a fool "
         },
         {
           "add": "is"
         },
         {
-          "t": "right in his own eyes: but he that hearkeneth unto counsel"
+          "t": " right in his own eyes: but he that hearkeneth unto counsel "
         },
         {
           "add": "is"
         },
         {
-          "t": "wise."
+          "t": " wise. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "A fool’s wrath is presently known: but a prudent man covereth shame.",
       "tokens": [
         {
-          "t": "A fool’s wrath is presently known: but a prudent"
+          "t": "A fool’s wrath is presently known: but a prudent "
         },
         {
           "add": "man"
         },
         {
-          "t": "covereth shame."
+          "t": " covereth shame. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He that speaketh truth sheweth forth righteousness: but a false witness deceit.",
       "tokens": [
         {
           "add": "He that"
         },
         {
-          "t": "speaketh truth sheweth forth righteousness: but a false witness deceit."
+          "t": " speaketh truth sheweth forth righteousness: but a false witness deceit. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "There is that speaketh like the piercings of a sword: but the tongue of the wise is health.",
       "tokens": [
         {
-          "t": "There is that speaketh like the piercings of a sword: but the tongue of the wise"
+          "t": "There is that speaketh like the piercings of a sword: but the tongue of the wise "
         },
         {
           "add": "is"
         },
         {
-          "t": "health."
+          "t": " health. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The lip of truth shall be established for ever: but a lying tongue is but for a moment.",
       "tokens": [
         {
-          "t": "The lip of truth shall be established for ever: but a lying tongue"
+          "t": "The lip of truth shall be established for ever: but a lying tongue "
         },
         {
           "add": "is"
         },
         {
-          "t": "but for a moment."
+          "t": " but for a moment. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.",
       "tokens": [
         {
-          "t": "Deceit"
+          "t": "Deceit "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the heart of them that imagine evil: but to the counsellors of peace"
+          "t": " in the heart of them that imagine evil: but to the counsellors of peace "
         },
         {
           "add": "is"
         },
         {
-          "t": "joy."
+          "t": " joy. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "There shall no evil happen to the just: but the wicked shall be filled with mischief.",
       "tokens": [
         {
-          "t": "There shall no evil happen to the just: but the wicked shall be filled with mischief."
+          "t": "There shall no evil happen to the just: but the wicked shall be filled with mischief. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Lying lips are abomination to the LORD: but they that deal truly are his delight.",
       "tokens": [
         {
-          "t": "Lying lips"
+          "t": "Lying lips "
         },
         {
           "add": "are"
         },
         {
-          "t": "abomination to the"
+          "t": " abomination to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": but they that deal truly"
+          "t": ": but they that deal truly "
         },
         {
           "add": "are"
         },
         {
-          "t": "his delight."
+          "t": " his delight. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.",
       "tokens": [
         {
-          "t": "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness."
+          "t": "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
       "tokens": [
         {
-          "t": "The hand of the diligent shall bear rule: but the slothful shall be under tribute."
+          "t": "The hand of the diligent shall bear rule: but the slothful shall be under tribute. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.",
       "tokens": [
         {
-          "t": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad."
+          "t": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.",
       "tokens": [
         {
-          "t": "The righteous"
+          "t": "The righteous "
         },
         {
           "add": "is"
         },
         {
-          "t": "more excellent than his neighbour: but the way of the wicked seduceth them."
+          "t": " more excellent than his neighbour: but the way of the wicked seduceth them. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.",
       "tokens": [
         {
-          "t": "The slothful"
+          "t": "The slothful "
         },
         {
           "add": "man"
         },
         {
-          "t": "roasteth not that which he took in hunting: but the substance of a diligent man"
+          "t": " roasteth not that which he took in hunting: but the substance of a diligent man "
         },
         {
           "add": "is"
         },
         {
-          "t": "precious."
+          "t": " precious. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "In the way of righteousness is life; and in the pathway thereof there is no death.",
       "tokens": [
         {
-          "t": "In the way of righteousness"
+          "t": "In the way of righteousness "
         },
         {
           "add": "is"
         },
         {
-          "t": "life; and"
+          "t": " life; and "
         },
         {
           "add": "in"
         },
         {
-          "t": "the pathway"
+          "t": " the pathway "
         },
         {
           "add": "thereof there is"
         },
         {
-          "t": "no death."
+          "t": " no death. "
         }
       ]
     }

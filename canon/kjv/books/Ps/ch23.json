@@ -1,0 +1,121 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 23,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "The LORD is my shepherd; I shall not want.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my shepherd; I shall not want. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+      "tokens": [
+        {
+          "t": "He maketh me to lie down in green pastures: he leadeth me beside the still waters. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+      "tokens": [
+        {
+          "t": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+      "tokens": [
+        {
+          "t": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " with me; thy rod and thy staff they comfort me. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+      "tokens": [
+        {
+          "t": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+      "tokens": [
+        {
+          "t": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " for ever. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "green…: Heb. pastures of tender grass"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "still…: Heb. waters of quietness"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "anointest: Heb. makest fat"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "for ever: Heb. to length of days"
+    }
+  ]
+}

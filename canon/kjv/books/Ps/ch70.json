@@ -1,0 +1,91 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 70,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Make haste, O God, to deliver me; make haste to help me, O LORD.",
+      "tokens": [
+        {
+          "add": "Make haste"
+        },
+        {
+          "t": ", O God, to deliver me; make haste to help me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.",
+      "tokens": [
+        {
+          "t": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Let them be turned back for a reward of their shame that say, Aha, aha.",
+      "tokens": [
+        {
+          "t": "Let them be turned back for a reward of their shame that say, Aha, aha. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.",
+      "tokens": [
+        {
+          "t": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O LORD, make no tarrying.",
+      "tokens": [
+        {
+          "t": "But I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " poor and needy: make haste unto me, O God: thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my help and my deliverer; O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", make no tarrying. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "to help…: Heb. to my help"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "LORD, how are they increased that trouble me! many are they that rise up against me.",
+      "tokens": [
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", how are they increased that trouble me! many "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " they that rise up against me. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Many there be which say of my soul, There is no help for him in God. Selah.",
+      "tokens": [
+        {
+          "t": "Many "
+        },
+        {
+          "add": "there be"
+        },
+        {
+          "t": " which say of my soul, "
+        },
+        {
+          "add": "There is"
+        },
+        {
+          "t": " no help for him in God. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head.",
+      "tokens": [
+        {
+          "t": "But thou, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " a shield for me; my glory, and the lifter up of mine head. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.",
+      "tokens": [
+        {
+          "t": "I cried unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " with my voice, and he heard me out of his holy hill. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "I laid me down and slept; I awaked; for the LORD sustained me.",
+      "tokens": [
+        {
+          "t": "I laid me down and slept; I awaked; for the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " sustained me. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "I will not be afraid of ten thousands of people, that have set themselves against me round about.",
+      "tokens": [
+        {
+          "t": "I will not be afraid of ten thousands of people, that have set "
+        },
+        {
+          "add": "themselves"
+        },
+        {
+          "t": " against me round about. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.",
+      "tokens": [
+        {
+          "t": "Arise, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; save me, O my God: for thou hast smitten all mine enemies "
+        },
+        {
+          "add": "upon"
+        },
+        {
+          "t": " the cheek bone; thou hast broken the teeth of the ungodly. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Salvation belongeth unto the LORD: thy blessing is upon thy people. Selah.",
+      "tokens": [
+        {
+          "t": "Salvation "
+        },
+        {
+          "add": "belongeth"
+        },
+        {
+          "t": " unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": thy blessing "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " upon thy people. Selah. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "for: or, about"
+    }
+  ]
+}

@@ -7,109 +7,118 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I was glad when they said unto me, Let us go into the house of the LORD.",
       "tokens": [
         {
-          "t": "I was glad when they said unto me, Let us go into the house of the"
+          "t": "I was glad when they said unto me, Let us go into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Our feet shall stand within thy gates, O Jerusalem.",
       "tokens": [
         {
-          "t": "Our feet shall stand within thy gates, O Jerusalem."
+          "t": "Our feet shall stand within thy gates, O Jerusalem. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Jerusalem is builded as a city that is compact together:",
       "tokens": [
         {
-          "t": "Jerusalem is builded as a city that is compact together:"
+          "t": "Jerusalem is builded as a city that is compact together: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.",
       "tokens": [
         {
-          "t": "Whither the tribes go up, the tribes of the"
+          "t": "Whither the tribes go up, the tribes of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", unto the testimony of Israel, to give thanks unto the name of the"
+          "t": ", unto the testimony of Israel, to give thanks unto the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For there are set thrones of judgment, the thrones of the house of David.",
       "tokens": [
         {
-          "t": "For there are set thrones of judgment, the thrones of the house of David."
+          "t": "For there are set thrones of judgment, the thrones of the house of David. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
       "tokens": [
         {
-          "t": "Pray for the peace of Jerusalem: they shall prosper that love thee."
+          "t": "Pray for the peace of Jerusalem: they shall prosper that love thee. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Peace be within thy walls, and prosperity within thy palaces.",
       "tokens": [
         {
-          "t": "Peace be within thy walls,"
+          "t": "Peace be within thy walls, "
         },
         {
           "add": "and"
         },
         {
-          "t": "prosperity within thy palaces."
+          "t": " prosperity within thy palaces. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "For my brethren and companions’ sakes, I will now say, Peace be within thee.",
       "tokens": [
         {
-          "t": "For my brethren and companions’ sakes, I will now say, Peace"
+          "t": "For my brethren and companions’ sakes, I will now say, Peace "
         },
         {
           "add": "be"
         },
         {
-          "t": "within thee."
+          "t": " within thee. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Because of the house of the LORD our God I will seek thy good.",
       "tokens": [
         {
-          "t": "Because of the house of the"
+          "t": "Because of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God I will seek thy good."
+          "t": " our God I will seek thy good. "
         }
       ]
     }

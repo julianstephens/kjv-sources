@@ -7,391 +7,427 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now these are the judgments which thou shalt set before them.",
       "tokens": [
         {
-          "t": "Now these"
+          "t": "Now these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the judgments which thou shalt set before them."
+          "t": " the judgments which thou shalt set before them. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.",
       "tokens": [
         {
-          "t": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing."
+          "t": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.",
       "tokens": [
         {
-          "t": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him."
+          "t": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself.",
       "tokens": [
         {
-          "t": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself."
+          "t": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:",
       "tokens": [
         {
-          "t": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:"
+          "t": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.",
       "tokens": [
         {
-          "t": "Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever."
+          "t": "Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.",
       "tokens": [
         {
-          "t": "¶ And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do."
+          "t": "¶ And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.",
       "tokens": [
         {
-          "t": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her."
+          "t": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.",
       "tokens": [
         {
-          "t": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters."
+          "t": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish.",
       "tokens": [
         {
-          "t": "If he take him another"
+          "t": "If he take him another "
         },
         {
           "add": "wife;"
         },
         {
-          "t": "her food, her raiment, and her duty of marriage, shall he not diminish."
+          "t": " her food, her raiment, and her duty of marriage, shall he not diminish. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And if he do not these three unto her, then shall she go out free without money.",
       "tokens": [
         {
-          "t": "And if he do not these three unto her, then shall she go out free without money."
+          "t": "And if he do not these three unto her, then shall she go out free without money. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ He that smiteth a man, so that he die, shall be surely put to death.",
       "tokens": [
         {
-          "t": "¶ He that smiteth a man, so that he die, shall be surely put to death."
+          "t": "¶ He that smiteth a man, so that he die, shall be surely put to death. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee.",
       "tokens": [
         {
-          "t": "And if a man lie not in wait, but God deliver"
+          "t": "And if a man lie not in wait, but God deliver "
         },
         {
           "add": "him"
         },
         {
-          "t": "into his hand; then I will appoint thee a place whither he shall flee."
+          "t": " into his hand; then I will appoint thee a place whither he shall flee. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.",
       "tokens": [
         {
-          "t": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die."
+          "t": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And he that smiteth his father, or his mother, shall be surely put to death.",
       "tokens": [
         {
-          "t": "¶ And he that smiteth his father, or his mother, shall be surely put to death."
+          "t": "¶ And he that smiteth his father, or his mother, shall be surely put to death. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.",
       "tokens": [
         {
-          "t": "¶ And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death."
+          "t": "¶ And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And he that curseth his father, or his mother, shall surely be put to death.",
       "tokens": [
         {
-          "t": "¶ And he that curseth his father, or his mother, shall surely be put to death."
+          "t": "¶ And he that curseth his father, or his mother, shall surely be put to death. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:",
       "tokens": [
         {
-          "t": "¶ And if men strive together, and one smite another with a stone, or with"
+          "t": "¶ And if men strive together, and one smite another with a stone, or with "
         },
         {
           "add": "his"
         },
         {
-          "t": "fist, and he die not, but keepeth"
+          "t": " fist, and he die not, but keepeth "
         },
         {
           "add": "his"
         },
         {
-          "t": "bed:"
+          "t": " bed: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed.",
       "tokens": [
         {
-          "t": "If he rise again, and walk abroad upon his staff, then shall he that smote"
+          "t": "If he rise again, and walk abroad upon his staff, then shall he that smote "
         },
         {
           "add": "him"
         },
         {
-          "t": "be quit: only he shall pay"
+          "t": " be quit: only he shall pay "
         },
         {
           "add": "for"
         },
         {
-          "t": "the loss of his time, and shall cause"
+          "t": " the loss of his time, and shall cause "
         },
         {
           "add": "him"
         },
         {
-          "t": "to be thoroughly healed."
+          "t": " to be thoroughly healed. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.",
       "tokens": [
         {
-          "t": "¶ And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished."
+          "t": "¶ And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.",
       "tokens": [
         {
-          "t": "Notwithstanding, if he continue a day or two, he shall not be punished: for he"
+          "t": "Notwithstanding, if he continue a day or two, he shall not be punished: for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "his money."
+          "t": " his money. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges determine.",
       "tokens": [
         {
-          "t": "¶ If men strive, and hurt a woman with child, so that her fruit depart"
+          "t": "¶ If men strive, and hurt a woman with child, so that her fruit depart "
         },
         {
           "add": "from her"
         },
         {
-          "t": ", and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges"
+          "t": ", and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges "
         },
         {
           "add": "determine"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And if any mischief follow, then thou shalt give life for life,",
       "tokens": [
         {
-          "t": "And if"
+          "t": "And if "
         },
         {
           "add": "any"
         },
         {
-          "t": "mischief follow, then thou shalt give life for life,"
+          "t": " mischief follow, then thou shalt give life for life, "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Eye for eye, tooth for tooth, hand for hand, foot for foot,",
       "tokens": [
         {
-          "t": "Eye for eye, tooth for tooth, hand for hand, foot for foot,"
+          "t": "Eye for eye, tooth for tooth, hand for hand, foot for foot, "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Burning for burning, wound for wound, stripe for stripe.",
       "tokens": [
         {
-          "t": "Burning for burning, wound for wound, stripe for stripe."
+          "t": "Burning for burning, wound for wound, stripe for stripe. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake.",
       "tokens": [
         {
-          "t": "¶ And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake."
+          "t": "¶ And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake.",
       "tokens": [
         {
-          "t": "And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake."
+          "t": "And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit.",
       "tokens": [
         {
-          "t": "¶ If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox"
+          "t": "¶ If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "quit."
+          "t": " quit. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.",
       "tokens": [
         {
-          "t": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death."
+          "t": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him.",
       "tokens": [
         {
-          "t": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him."
+          "t": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him.",
       "tokens": [
         {
-          "t": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him."
+          "t": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.",
       "tokens": [
         {
-          "t": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned."
+          "t": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "¶ And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;",
       "tokens": [
         {
-          "t": "¶ And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;"
+          "t": "¶ And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein; "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his.",
       "tokens": [
         {
-          "t": "The owner of the pit shall make"
+          "t": "The owner of the pit shall make "
         },
         {
           "add": "it"
         },
         {
-          "t": "good,"
+          "t": " good, "
         },
         {
           "add": "and"
         },
         {
-          "t": "give money unto the owner of them; and the dead"
+          "t": " give money unto the owner of them; and the dead "
         },
         {
           "add": "beast"
         },
         {
-          "t": "shall be his."
+          "t": " shall be his. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "¶ And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide.",
       "tokens": [
         {
-          "t": "¶ And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead"
+          "t": "¶ And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead "
         },
         {
           "add": "ox"
         },
         {
-          "t": "also they shall divide."
+          "t": " also they shall divide. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.",
       "tokens": [
         {
-          "t": "Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own."
+          "t": "Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own. "
         }
       ]
     }

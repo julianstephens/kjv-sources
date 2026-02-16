@@ -7,345 +7,376 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,",
       "tokens": [
         {
-          "t": "Paul, called"
+          "t": "Paul, called "
         },
         {
           "add": "to be"
         },
         {
-          "t": "an apostle of Jesus Christ through the will of God, and Sosthenes"
+          "t": " an apostle of Jesus Christ through the will of God, and Sosthenes "
         },
         {
           "add": "our"
         },
         {
-          "t": "brother,"
+          "t": " brother, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:",
       "tokens": [
         {
-          "t": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called"
+          "t": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called "
         },
         {
           "add": "to be"
         },
         {
-          "t": "saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:"
+          "t": " saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.",
       "tokens": [
         {
-          "t": "Grace"
+          "t": "Grace "
         },
         {
           "add": "be"
         },
         {
-          "t": "unto you, and peace, from God our Father, and"
+          "t": " unto you, and peace, from God our Father, and "
         },
         {
           "add": "from"
         },
         {
-          "t": "the Lord Jesus Christ."
+          "t": " the Lord Jesus Christ. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;",
       "tokens": [
         {
-          "t": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;"
+          "t": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "That in every thing ye are enriched by him, in all utterance, and in all knowledge;",
       "tokens": [
         {
-          "t": "That in every thing ye are enriched by him, in all utterance, and"
+          "t": "That in every thing ye are enriched by him, in all utterance, and "
         },
         {
           "add": "in"
         },
         {
-          "t": "all knowledge;"
+          "t": " all knowledge; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Even as the testimony of Christ was confirmed in you:",
       "tokens": [
         {
-          "t": "Even as the testimony of Christ was confirmed in you:"
+          "t": "Even as the testimony of Christ was confirmed in you: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:",
       "tokens": [
         {
-          "t": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:"
+          "t": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.",
       "tokens": [
         {
-          "t": "Who shall also confirm you unto the end,"
+          "t": "Who shall also confirm you unto the end, "
         },
         {
           "add": "that ye may be"
         },
         {
-          "t": "blameless in the day of our Lord Jesus Christ."
+          "t": " blameless in the day of our Lord Jesus Christ. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.",
       "tokens": [
         {
-          "t": "God"
+          "t": "God "
         },
         {
           "add": "is"
         },
         {
-          "t": "faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord."
+          "t": " faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.",
       "tokens": [
         {
-          "t": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and"
+          "t": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "there be no divisions among you; but"
+          "t": " there be no divisions among you; but "
         },
         {
           "add": "that"
         },
         {
-          "t": "ye be perfectly joined together in the same mind and in the same judgment."
+          "t": " ye be perfectly joined together in the same mind and in the same judgment. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.",
       "tokens": [
         {
-          "t": "For it hath been declared unto me of you, my brethren, by them"
+          "t": "For it hath been declared unto me of you, my brethren, by them "
         },
         {
           "add": "which are of the house"
         },
         {
-          "t": "of Chloe, that there are contentions among you."
+          "t": " of Chloe, that there are contentions among you. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.",
       "tokens": [
         {
-          "t": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ."
+          "t": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?",
       "tokens": [
         {
-          "t": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?"
+          "t": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I thank God that I baptized none of you, but Crispus and Gaius;",
       "tokens": [
         {
-          "t": "I thank God that I baptized none of you, but Crispus and Gaius;"
+          "t": "I thank God that I baptized none of you, but Crispus and Gaius; "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Lest any should say that I had baptized in mine own name.",
       "tokens": [
         {
-          "t": "Lest any should say that I had baptized in mine own name."
+          "t": "Lest any should say that I had baptized in mine own name. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other.",
       "tokens": [
         {
-          "t": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other."
+          "t": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.",
       "tokens": [
         {
-          "t": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect."
+          "t": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
       "tokens": [
         {
-          "t": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."
+          "t": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.",
       "tokens": [
         {
-          "t": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent."
+          "t": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?",
       "tokens": [
         {
-          "t": "Where"
+          "t": "Where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the wise? where"
+          "t": " the wise? where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the scribe? where"
+          "t": " the scribe? where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the disputer of this world? hath not God made foolish the wisdom of this world?"
+          "t": " the disputer of this world? hath not God made foolish the wisdom of this world? "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.",
       "tokens": [
         {
-          "t": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe."
+          "t": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "For the Jews require a sign, and the Greeks seek after wisdom:",
       "tokens": [
         {
-          "t": "For the Jews require a sign, and the Greeks seek after wisdom:"
+          "t": "For the Jews require a sign, and the Greeks seek after wisdom: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;",
       "tokens": [
         {
-          "t": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;"
+          "t": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness; "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.",
       "tokens": [
         {
-          "t": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."
+          "t": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.",
       "tokens": [
         {
-          "t": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men."
+          "t": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:",
       "tokens": [
         {
-          "t": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble,"
+          "t": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, "
         },
         {
           "add": "are called"
         },
         {
-          "t": ":"
+          "t": ": "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;",
       "tokens": [
         {
-          "t": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;"
+          "t": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty; "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:",
       "tokens": [
         {
-          "t": "And base things of the world, and things which are despised, hath God chosen,"
+          "t": "And base things of the world, and things which are despised, hath God chosen, "
         },
         {
           "add": "yea"
         },
         {
-          "t": ", and things which are not, to bring to nought things that are:"
+          "t": ", and things which are not, to bring to nought things that are: "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "That no flesh should glory in his presence.",
       "tokens": [
         {
-          "t": "That no flesh should glory in his presence."
+          "t": "That no flesh should glory in his presence. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:",
       "tokens": [
         {
-          "t": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:"
+          "t": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption: "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "That, according as it is written, He that glorieth, let him glory in the Lord.",
       "tokens": [
         {
-          "t": "That, according as it is written, He that glorieth, let him glory in the Lord."
+          "t": "That, according as it is written, He that glorieth, let him glory in the Lord. "
         }
       ]
     }

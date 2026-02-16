@@ -7,215 +7,582 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.",
       "tokens": [
         {
-          "t": "And when he had called unto"
+          "t": "And when he had called unto "
         },
         {
           "add": "him"
         },
         {
-          "t": "his twelve disciples, he gave them power"
+          "t": " his twelve disciples, he gave them power "
         },
         {
           "add": "against"
         },
         {
-          "t": "unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease."
+          "t": " unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;",
       "tokens": [
         {
-          "t": "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James"
+          "t": "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James "
         },
         {
           "add": "the son"
         },
         {
-          "t": "of Zebedee, and John his brother;"
+          "t": " of Zebedee, and John his brother; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;",
       "tokens": [
         {
-          "t": "Philip, and Bartholomew; Thomas, and Matthew the publican; James"
+          "t": "Philip, and Bartholomew; Thomas, and Matthew the publican; James "
         },
         {
           "add": "the son"
         },
         {
-          "t": "of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;"
+          "t": " of Alphaeus, and Lebbaeus, whose surname was Thaddaeus; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Simon the Canaanite, and Judas Iscariot, who also betrayed him.",
       "tokens": [
         {
-          "t": "Simon the Canaanite, and Judas Iscariot, who also betrayed him."
+          "t": "Simon the Canaanite, and Judas Iscariot, who also betrayed him. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:",
       "tokens": [
         {
-          "t": "These twelve Jesus sent forth, and commanded them, saying,"
+          "t": "These twelve Jesus sent forth, and commanded them, saying, "
+        },
+        {
+          "t": "Go not into the way of the Gentiles, and into "
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": " city of the Samaritans enter ye not:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "But go rather to the lost sheep of the house of Israel.",
+      "tokens": [
+        {
+          "t": "But go rather to the lost sheep of the house of Israel."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "And as ye go, preach, saying, The kingdom of heaven is at hand.",
+      "tokens": [
+        {
+          "t": "And as ye go, preach, saying, The kingdom of heaven is at hand."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.",
+      "tokens": [
+        {
+          "t": "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "Provide neither gold, nor silver, nor brass in your purses,",
+      "tokens": [
+        {
+          "t": "Provide neither gold, nor silver, nor brass in your purses,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat.",
+      "tokens": [
+        {
+          "t": "Nor scrip for "
+        },
+        {
+          "add": "your"
+        },
+        {
+          "t": " journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence.",
+      "tokens": [
+        {
+          "t": "And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "And when ye come into an house, salute it.",
+      "tokens": [
+        {
+          "t": "And when ye come into an house, salute it."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.",
+      "tokens": [
+        {
+          "t": "And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.",
+      "tokens": [
+        {
+          "t": "And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.",
+      "tokens": [
+        {
+          "t": "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "¶ Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.",
+      "tokens": [
+        {
+          "t": "¶ Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;",
+      "tokens": [
+        {
+          "t": "But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.",
+      "tokens": [
+        {
+          "t": "And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak.",
+      "tokens": [
+        {
+          "t": "But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "For it is not ye that speak, but the Spirit of your Father which speaketh in you.",
+      "tokens": [
+        {
+          "t": "For it is not ye that speak, but the Spirit of your Father which speaketh in you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.",
+      "tokens": [
+        {
+          "t": "And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against "
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": " parents, and cause them to be put to death."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.",
+      "tokens": [
+        {
+          "t": "And ye shall be hated of all "
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": " for my name’s sake: but he that endureth to the end shall be saved."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.",
+      "tokens": [
+        {
+          "t": "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "The disciple is not above his master, nor the servant above his lord.",
+      "tokens": [
+        {
+          "t": "The disciple is not above "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " master, nor the servant above his lord."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?",
+      "tokens": [
+        {
+          "t": "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more "
+        },
+        {
+          "add": "shall they call"
+        },
+        {
+          "t": " them of his household?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.",
+      "tokens": [
+        {
+          "t": "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops.",
+      "tokens": [
+        {
+          "t": "What I tell you in darkness, "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " speak ye in light: and what ye hear in the ear, "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " preach ye upon the housetops."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.",
+      "tokens": [
+        {
+          "t": "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.",
+      "tokens": [
+        {
+          "t": "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "But the very hairs of your head are all numbered.",
+      "tokens": [
+        {
+          "t": "But the very hairs of your head are all numbered."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
-      "tokens": null
+      "plain": "Fear ye not therefore, ye are of more value than many sparrows.",
+      "tokens": [
+        {
+          "t": "Fear ye not therefore, ye are of more value than many sparrows."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.",
+      "tokens": [
+        {
+          "t": "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
+      "plain": "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.",
+      "tokens": [
+        {
+          "t": "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 34,
-      "tokens": null
+      "plain": "Think not that I am come to send peace on earth: I came not to send peace, but a sword.",
+      "tokens": [
+        {
+          "t": "Think not that I am come to send peace on earth: I came not to send peace, but a sword."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 35,
-      "tokens": null
+      "plain": "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.",
+      "tokens": [
+        {
+          "t": "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 36,
-      "tokens": null
+      "plain": "And a man’s foes shall be they of his own household.",
+      "tokens": [
+        {
+          "t": "And a man’s foes "
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": " they of his own household."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 37,
-      "tokens": null
+      "plain": "He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.",
+      "tokens": [
+        {
+          "t": "He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 38,
-      "tokens": null
+      "plain": "And he that taketh not his cross, and followeth after me, is not worthy of me.",
+      "tokens": [
+        {
+          "t": "And he that taketh not his cross, and followeth after me, is not worthy of me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 39,
-      "tokens": null
+      "plain": "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.",
+      "tokens": [
+        {
+          "t": "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 40,
-      "tokens": null
+      "plain": "¶ He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.",
+      "tokens": [
+        {
+          "t": "¶ He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 41,
-      "tokens": null
+      "plain": "He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward.",
+      "tokens": [
+        {
+          "t": "He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 42,
-      "tokens": null
+      "plain": "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.",
+      "tokens": [
+        {
+          "t": "And whosoever shall give to drink unto one of these little ones a cup of cold "
+        },
+        {
+          "add": "water"
+        },
+        {
+          "t": " only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

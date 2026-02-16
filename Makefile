@@ -1,4 +1,31 @@
-.PHONY: aliases all books manifest
+.PHONY: aliases all books manifest fmt lint test check build-*
+
+default: check
+
+fmt: 
+	golangci-lint fmt ./...
+
+lint:
+	golangci-lint run ./... --fix
+
+test:
+	go test -v ./...
+
+check: fmt lint test
+
+build-ingest: 
+	@go build -o bin/kjv-ingest ./tools/ingest
+	@chmod +x bin/kjv-ingest
+
+build-extract:
+	@go build -o bin/kjv-extract ./tools/extract
+	@chmod +x bin/kjv-extract
+
+build-verify:
+	@go build -o bin/kjv-verify ./tools/verify
+	@chmod +x bin/kjv-verify
+
+build: build-ingest build-extract build-verify
 
 books:
 	go run tools/extract/main.go -cmd=books

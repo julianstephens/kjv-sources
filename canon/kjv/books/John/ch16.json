@@ -7,165 +7,423 @@
   "verses": [
     {
       "v": 1,
-      "tokens": null
+      "plain": "These things have I spoken unto you, that ye should not be offended.",
+      "tokens": [
+        {
+          "t": "These things have I spoken unto you, that ye should not be offended."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 2,
-      "tokens": null
+      "plain": "They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.",
+      "tokens": [
+        {
+          "t": "They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 3,
-      "tokens": null
+      "plain": "And these things will they do unto you, because they have not known the Father, nor me.",
+      "tokens": [
+        {
+          "t": "And these things will they do unto you, because they have not known the Father, nor me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.",
+      "tokens": [
+        {
+          "t": "But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?",
+      "tokens": [
+        {
+          "t": "But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "But because I have said these things unto you, sorrow hath filled your heart.",
+      "tokens": [
+        {
+          "t": "But because I have said these things unto you, sorrow hath filled your heart."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.",
+      "tokens": [
+        {
+          "t": "Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:",
+      "tokens": [
+        {
+          "t": "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "Of sin, because they believe not on me;",
+      "tokens": [
+        {
+          "t": "Of sin, because they believe not on me;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "Of righteousness, because I go to my Father, and ye see me no more;",
+      "tokens": [
+        {
+          "t": "Of righteousness, because I go to my Father, and ye see me no more;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "Of judgment, because the prince of this world is judged.",
+      "tokens": [
+        {
+          "t": "Of judgment, because the prince of this world is judged."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "I have yet many things to say unto you, but ye cannot bear them now.",
+      "tokens": [
+        {
+          "t": "I have yet many things to say unto you, but ye cannot bear them now."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.",
+      "tokens": [
+        {
+          "t": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " shall he speak: and he will shew you things to come."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "He shall glorify me: for he shall receive of mine, and shall shew it unto you.",
+      "tokens": [
+        {
+          "t": "He shall glorify me: for he shall receive of mine, and shall shew "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you.",
+      "tokens": [
+        {
+          "t": "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.",
+      "tokens": [
+        {
+          "t": "A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
+      "plain": "Then said some of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?",
       "tokens": [
         {
-          "t": "Then said"
+          "t": "Then said "
         },
         {
           "add": "some"
         },
         {
-          "t": "of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?"
+          "t": " of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "They said therefore, What is this that he saith, A little while? we cannot tell what he saith.",
       "tokens": [
         {
-          "t": "They said therefore, What is this that he saith, A little while? we cannot tell what he saith."
+          "t": "They said therefore, What is this that he saith, A little while? we cannot tell what he saith. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Now Jesus knew that they were desirous to ask him, and said unto them, Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?",
       "tokens": [
         {
-          "t": "Now Jesus knew that they were desirous to ask him, and said unto them,"
+          "t": "Now Jesus knew that they were desirous to ask him, and said unto them, "
+        },
+        {
+          "t": "Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.",
+      "tokens": [
+        {
+          "t": "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world.",
+      "tokens": [
+        {
+          "t": "A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.",
+      "tokens": [
+        {
+          "t": "And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.",
+      "tokens": [
+        {
+          "t": "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.",
+      "tokens": [
+        {
+          "t": "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father.",
+      "tokens": [
+        {
+          "t": "These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:",
+      "tokens": [
+        {
+          "t": "At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.",
+      "tokens": [
+        {
+          "t": "For the Father himself loveth you, because ye have loved me, and have believed that I came out from God."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.",
+      "tokens": [
+        {
+          "t": "I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
+      "plain": "His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb.",
       "tokens": [
         {
-          "t": "His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb."
+          "t": "His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God.",
       "tokens": [
         {
-          "t": "Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God."
+          "t": "Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Jesus answered them, Do ye now believe?",
       "tokens": [
         {
-          "t": "Jesus answered them,"
+          "t": "Jesus answered them, "
+        },
+        {
+          "t": "Do ye now believe?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me.",
+      "tokens": [
+        {
+          "t": "Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
+      "plain": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+      "tokens": [
+        {
+          "t": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

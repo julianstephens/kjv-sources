@@ -7,293 +7,316 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Moreover Job continued his parable, and said,",
       "tokens": [
         {
-          "t": "Moreover Job continued his parable, and said,"
+          "t": "Moreover Job continued his parable, and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "God liveth,"
+          "t": " God liveth, "
         },
         {
           "add": "who"
         },
         {
-          "t": "hath taken away my judgment; and the Almighty,"
+          "t": " hath taken away my judgment; and the Almighty, "
         },
         {
           "add": "who"
         },
         {
-          "t": "hath vexed my soul;"
+          "t": " hath vexed my soul; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "All the while my breath is in me, and the spirit of God is in my nostrils;",
       "tokens": [
         {
-          "t": "All the while my breath"
+          "t": "All the while my breath "
         },
         {
           "add": "is"
         },
         {
-          "t": "in me, and the spirit of God"
+          "t": " in me, and the spirit of God "
         },
         {
           "add": "is"
         },
         {
-          "t": "in my nostrils;"
+          "t": " in my nostrils; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "My lips shall not speak wickedness, nor my tongue utter deceit.",
       "tokens": [
         {
-          "t": "My lips shall not speak wickedness, nor my tongue utter deceit."
+          "t": "My lips shall not speak wickedness, nor my tongue utter deceit. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "God forbid that I should justify you: till I die I will not remove mine integrity from me.",
       "tokens": [
         {
-          "t": "God forbid that I should justify you: till I die I will not remove mine integrity from me."
+          "t": "God forbid that I should justify you: till I die I will not remove mine integrity from me. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.",
       "tokens": [
         {
-          "t": "My righteousness I hold fast, and will not let it go: my heart shall not reproach"
+          "t": "My righteousness I hold fast, and will not let it go: my heart shall not reproach "
         },
         {
           "add": "me"
         },
         {
-          "t": "so long as I live."
+          "t": " so long as I live. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.",
       "tokens": [
         {
-          "t": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous."
+          "t": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "For what is the hope of the hypocrite, though he hath gained, when God taketh away his soul?",
       "tokens": [
         {
-          "t": "For what"
+          "t": "For what "
         },
         {
           "add": "is"
         },
         {
-          "t": "the hope of the hypocrite, though he hath gained, when God taketh away his soul?"
+          "t": " the hope of the hypocrite, though he hath gained, when God taketh away his soul? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Will God hear his cry when trouble cometh upon him?",
       "tokens": [
         {
-          "t": "Will God hear his cry when trouble cometh upon him?"
+          "t": "Will God hear his cry when trouble cometh upon him? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Will he delight himself in the Almighty? will he always call upon God?",
       "tokens": [
         {
-          "t": "Will he delight himself in the Almighty? will he always call upon God?"
+          "t": "Will he delight himself in the Almighty? will he always call upon God? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "I will teach you by the hand of God: that which is with the Almighty will I not conceal.",
       "tokens": [
         {
-          "t": "I will teach you by the hand of God:"
+          "t": "I will teach you by the hand of God: "
         },
         {
           "add": "that"
         },
         {
-          "t": "which"
+          "t": " which "
         },
         {
           "add": "is"
         },
         {
-          "t": "with the Almighty will I not conceal."
+          "t": " with the Almighty will I not conceal. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Behold, all ye yourselves have seen it; why then are ye thus altogether vain?",
       "tokens": [
         {
-          "t": "Behold, all ye yourselves have seen"
+          "t": "Behold, all ye yourselves have seen "
         },
         {
           "add": "it;"
         },
         {
-          "t": "why then are ye thus altogether vain?"
+          "t": " why then are ye thus altogether vain? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "This is the portion of a wicked man with God, and the heritage of oppressors, which they shall receive of the Almighty.",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the portion of a wicked man with God, and the heritage of oppressors,"
+          "t": " the portion of a wicked man with God, and the heritage of oppressors, "
         },
         {
           "add": "which"
         },
         {
-          "t": "they shall receive of the Almighty."
+          "t": " they shall receive of the Almighty. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread.",
       "tokens": [
         {
-          "t": "If his children be multiplied,"
+          "t": "If his children be multiplied, "
         },
         {
           "add": "it is"
         },
         {
-          "t": "for the sword: and his offspring shall not be satisfied with bread."
+          "t": " for the sword: and his offspring shall not be satisfied with bread. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Those that remain of him shall be buried in death: and his widows shall not weep.",
       "tokens": [
         {
-          "t": "Those that remain of him shall be buried in death: and his widows shall not weep."
+          "t": "Those that remain of him shall be buried in death: and his widows shall not weep. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Though he heap up silver as the dust, and prepare raiment as the clay;",
       "tokens": [
         {
-          "t": "Though he heap up silver as the dust, and prepare raiment as the clay;"
+          "t": "Though he heap up silver as the dust, and prepare raiment as the clay; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He may prepare it, but the just shall put it on, and the innocent shall divide the silver.",
       "tokens": [
         {
-          "t": "He may prepare"
+          "t": "He may prepare "
         },
         {
           "add": "it"
         },
         {
-          "t": ", but the just shall put"
+          "t": ", but the just shall put "
         },
         {
           "add": "it"
         },
         {
-          "t": "on, and the innocent shall divide the silver."
+          "t": " on, and the innocent shall divide the silver. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "He buildeth his house as a moth, and as a booth that the keeper maketh.",
       "tokens": [
         {
-          "t": "He buildeth his house as a moth, and as a booth"
+          "t": "He buildeth his house as a moth, and as a booth "
         },
         {
           "add": "that"
         },
         {
-          "t": "the keeper maketh."
+          "t": " the keeper maketh. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he is not.",
       "tokens": [
         {
-          "t": "The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he"
+          "t": "The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he "
         },
         {
           "add": "is"
         },
         {
-          "t": "not."
+          "t": " not. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Terrors take hold on him as waters, a tempest stealeth him away in the night.",
       "tokens": [
         {
-          "t": "Terrors take hold on him as waters, a tempest stealeth him away in the night."
+          "t": "Terrors take hold on him as waters, a tempest stealeth him away in the night. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place.",
       "tokens": [
         {
-          "t": "The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place."
+          "t": "The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "For God shall cast upon him, and not spare: he would fain flee out of his hand.",
       "tokens": [
         {
-          "t": "For"
+          "t": "For "
         },
         {
           "add": "God"
         },
         {
-          "t": "shall cast upon him, and not spare: he would fain flee out of his hand."
+          "t": " shall cast upon him, and not spare: he would fain flee out of his hand. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Men shall clap their hands at him, and shall hiss him out of his place.",
       "tokens": [
         {
           "add": "Men"
         },
         {
-          "t": "shall clap their hands at him, and shall hiss him out of his place."
+          "t": " shall clap their hands at him, and shall hiss him out of his place. "
         }
       ]
     }

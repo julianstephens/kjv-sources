@@ -1,0 +1,204 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 99,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " reigneth; let the people tremble: he sitteth "
+        },
+        {
+          "add": "between"
+        },
+        {
+          "t": " the cherubims; let the earth be moved. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "The LORD is great in Zion; and he is high above all the people.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " great in Zion; and he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " high above all the people. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Let them praise thy great and terrible name; for it is holy.",
+      "tokens": [
+        {
+          "t": "Let them praise thy great and terrible name; "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " it "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " holy. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.",
+      "tokens": [
+        {
+          "t": "The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Exalt ye the LORD our God, and worship at his footstool; for he is holy.",
+      "tokens": [
+        {
+          "t": "Exalt ye the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " our God, and worship at his footstool; "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " holy. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.",
+      "tokens": [
+        {
+          "t": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and he answered them. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.",
+      "tokens": [
+        {
+          "t": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " he gave them. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.",
+      "tokens": [
+        {
+          "t": "Thou answeredst them, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy.",
+      "tokens": [
+        {
+          "t": "Exalt the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " our God, and worship at his holy hill; for the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " our God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " holy. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "be moved: Heb. stagger"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "he is…: or, it is holy"
+    }
+  ]
+}

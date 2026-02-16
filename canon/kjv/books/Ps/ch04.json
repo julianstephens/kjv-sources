@@ -1,0 +1,168 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 4,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.",
+      "tokens": [
+        {
+          "t": "Hear me when I call, O God of my righteousness: thou hast enlarged me "
+        },
+        {
+          "add": "when I was"
+        },
+        {
+          "t": " in distress; have mercy upon me, and hear my prayer. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.",
+      "tokens": [
+        {
+          "t": "O ye sons of men, how long "
+        },
+        {
+          "add": "will ye turn"
+        },
+        {
+          "t": " my glory into shame? "
+        },
+        {
+          "add": "how long"
+        },
+        {
+          "t": " will ye love vanity, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " seek after leasing? Selah. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.",
+      "tokens": [
+        {
+          "t": "But know that the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " hath set apart him that is godly for himself: the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will hear when I call unto him. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.",
+      "tokens": [
+        {
+          "t": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Offer the sacrifices of righteousness, and put your trust in the LORD.",
+      "tokens": [
+        {
+          "t": "Offer the sacrifices of righteousness, and put your trust in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "There be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us.",
+      "tokens": [
+        {
+          "add": "There be"
+        },
+        {
+          "t": " many that say, Who will shew us "
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": " good? "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", lift thou up the light of thy countenance upon us. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.",
+      "tokens": [
+        {
+          "t": "Thou hast put gladness in my heart, more than in the time "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " their corn and their wine increased. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.",
+      "tokens": [
+        {
+          "t": "I will both lay me down in peace, and sleep: for thou, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", only makest me dwell in safety. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "chief…: or, overseer"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "have…: or, be gracious unto me"
+    }
+  ]
+}

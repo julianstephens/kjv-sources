@@ -1,0 +1,458 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 34,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "I will bless the LORD at all times: his praise shall continually be in my mouth.",
+      "tokens": [
+        {
+          "t": "I will bless the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " at all times: his praise "
+        },
+        {
+          "add": "shall"
+        },
+        {
+          "t": " continually "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " in my mouth. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "My soul shall make her boast in the LORD: the humble shall hear thereof, and be glad.",
+      "tokens": [
+        {
+          "t": "My soul shall make her boast in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": the humble shall hear "
+        },
+        {
+          "add": "thereof"
+        },
+        {
+          "t": ", and be glad. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "O magnify the LORD with me, and let us exalt his name together.",
+      "tokens": [
+        {
+          "t": "O magnify the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " with me, and let us exalt his name together. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "I sought the LORD, and he heard me, and delivered me from all my fears.",
+      "tokens": [
+        {
+          "t": "I sought the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and he heard me, and delivered me from all my fears. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "They looked unto him, and were lightened: and their faces were not ashamed.",
+      "tokens": [
+        {
+          "t": "They looked unto him, and were lightened: and their faces were not ashamed. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "This poor man cried, and the LORD heard him, and saved him out of all his troubles.",
+      "tokens": [
+        {
+          "t": "This poor man cried, and the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " heard "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": ", and saved him out of all his troubles. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "The angel of the LORD encampeth round about them that fear him, and delivereth them.",
+      "tokens": [
+        {
+          "t": "The angel of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " encampeth round about them that fear him, and delivereth them. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "O taste and see that the LORD is good: blessed is the man that trusteth in him.",
+      "tokens": [
+        {
+          "t": "O taste and see that the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " good: blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the man "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " trusteth in him. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "O fear the LORD, ye his saints: for there is no want to them that fear him.",
+      "tokens": [
+        {
+          "t": "O fear the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", ye his saints: for "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " no want to them that fear him. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing.",
+      "tokens": [
+        {
+          "t": "The young lions do lack, and suffer hunger: but they that seek the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " shall not want any good "
+        },
+        {
+          "add": "thing"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Come, ye children, hearken unto me: I will teach you the fear of the LORD.",
+      "tokens": [
+        {
+          "t": "Come, ye children, hearken unto me: I will teach you the fear of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "What man is he that desireth life, and loveth many days, that he may see good?",
+      "tokens": [
+        {
+          "t": "What man "
+        },
+        {
+          "add": "is he that"
+        },
+        {
+          "t": " desireth life, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " loveth "
+        },
+        {
+          "add": "many"
+        },
+        {
+          "t": " days, that he may see good? "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Keep thy tongue from evil, and thy lips from speaking guile.",
+      "tokens": [
+        {
+          "t": "Keep thy tongue from evil, and thy lips from speaking guile. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Depart from evil, and do good; seek peace, and pursue it.",
+      "tokens": [
+        {
+          "t": "Depart from evil, and do good; seek peace, and pursue it. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "The eyes of the LORD are upon the righteous, and his ears are open unto their cry.",
+      "tokens": [
+        {
+          "t": "The eyes of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " upon the righteous, and his ears "
+        },
+        {
+          "add": "are open"
+        },
+        {
+          "t": " unto their cry. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth.",
+      "tokens": [
+        {
+          "t": "The face of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " against them that do evil, to cut off the remembrance of them from the earth. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.",
+      "tokens": [
+        {
+          "add": "The righteous"
+        },
+        {
+          "t": " cry, and the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " heareth, and delivereth them out of all their troubles. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Many are the afflictions of the righteous: but the LORD delivereth him out of them all.",
+      "tokens": [
+        {
+          "t": "Many "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the afflictions of the righteous: but the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " delivereth him out of them all. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "He keepeth all his bones: not one of them is broken.",
+      "tokens": [
+        {
+          "t": "He keepeth all his bones: not one of them is broken. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "Evil shall slay the wicked: and they that hate the righteous shall be desolate.",
+      "tokens": [
+        {
+          "t": "Evil shall slay the wicked: and they that hate the righteous shall be desolate. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " redeemeth the soul of his servants: and none of them that trust in him shall be desolate. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Abimelech: or, Achish"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "were lightened: or, they flowed unto him"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 18
+      },
+      "text": "unto…: Heb. to the broken of heart"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 18
+      },
+      "text": "of a contrite…: Heb. contrite of spirit"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 21
+      },
+      "text": "desolate: or, guilty"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 22
+      },
+      "text": "desolate: or, guilty"
+    }
+  ]
+}

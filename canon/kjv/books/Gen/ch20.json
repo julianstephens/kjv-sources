@@ -7,277 +7,295 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.",
       "tokens": [
         {
-          "t": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar."
+          "t": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah.",
       "tokens": [
         {
-          "t": "And Abraham said of Sarah his wife, She"
+          "t": "And Abraham said of Sarah his wife, She "
         },
         {
           "add": "is"
         },
         {
-          "t": "my sister: and Abimelech king of Gerar sent, and took Sarah."
+          "t": " my sister: and Abimelech king of Gerar sent, and took Sarah. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man’s wife.",
       "tokens": [
         {
-          "t": "But God came to Abimelech in a dream by night, and said to him, Behold, thou"
+          "t": "But God came to Abimelech in a dream by night, and said to him, Behold, thou "
         },
         {
           "add": "art but"
         },
         {
-          "t": "a dead man, for the woman which thou hast taken; for she"
+          "t": " a dead man, for the woman which thou hast taken; for she "
         },
         {
           "add": "is"
         },
         {
-          "t": "a man’s wife."
+          "t": " a man’s wife. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?",
       "tokens": [
         {
-          "t": "But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?"
+          "t": "But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this.",
       "tokens": [
         {
-          "t": "Said he not unto me, She"
+          "t": "Said he not unto me, She "
         },
         {
           "add": "is"
         },
         {
-          "t": "my sister? and she, even she herself said, He"
+          "t": " my sister? and she, even she herself said, He "
         },
         {
           "add": "is"
         },
         {
-          "t": "my brother: in the integrity of my heart and innocency of my hands have I done this."
+          "t": " my brother: in the integrity of my heart and innocency of my hands have I done this. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.",
       "tokens": [
         {
-          "t": "And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her."
+          "t": "And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Now therefore restore the man his wife; for he is a prophet, and he shall pray for thee, and thou shalt live: and if thou restore her not, know thou that thou shalt surely die, thou, and all that are thine.",
       "tokens": [
         {
-          "t": "Now therefore restore the man"
+          "t": "Now therefore restore the man "
         },
         {
           "add": "his"
         },
         {
-          "t": "wife; for he"
+          "t": " wife; for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "a prophet, and he shall pray for thee, and thou shalt live: and if thou restore"
+          "t": " a prophet, and he shall pray for thee, and thou shalt live: and if thou restore "
         },
         {
           "add": "her"
         },
         {
-          "t": "not, know thou that thou shalt surely die, thou, and all that"
+          "t": " not, know thou that thou shalt surely die, thou, and all that "
         },
         {
           "add": "are"
         },
         {
-          "t": "thine."
+          "t": " thine. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.",
       "tokens": [
         {
-          "t": "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid."
+          "t": "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done.",
       "tokens": [
         {
-          "t": "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done."
+          "t": "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?",
       "tokens": [
         {
-          "t": "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?"
+          "t": "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife’s sake.",
       "tokens": [
         {
-          "t": "And Abraham said, Because I thought, Surely the fear of God"
+          "t": "And Abraham said, Because I thought, Surely the fear of God "
         },
         {
           "add": "is"
         },
         {
-          "t": "not in this place; and they will slay me for my wife’s sake."
+          "t": " not in this place; and they will slay me for my wife’s sake. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife.",
       "tokens": [
         {
-          "t": "And yet indeed"
+          "t": "And yet indeed "
         },
         {
           "add": "she is"
         },
         {
-          "t": "my sister; she"
+          "t": " my sister; she "
         },
         {
           "add": "is"
         },
         {
-          "t": "the daughter of my father, but not the daughter of my mother; and she became my wife."
+          "t": " the daughter of my father, but not the daughter of my mother; and she became my wife. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And it came to pass, when God caused me to wander from my father’s house, that I said unto her, This is thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He is my brother.",
       "tokens": [
         {
-          "t": "And it came to pass, when God caused me to wander from my father’s house, that I said unto her, This"
+          "t": "And it came to pass, when God caused me to wander from my father’s house, that I said unto her, This "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He"
+          "t": " thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He "
         },
         {
           "add": "is"
         },
         {
-          "t": "my brother."
+          "t": " my brother. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife.",
       "tokens": [
         {
-          "t": "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave"
+          "t": "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave "
         },
         {
           "add": "them"
         },
         {
-          "t": "unto Abraham, and restored him Sarah his wife."
+          "t": " unto Abraham, and restored him Sarah his wife. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And Abimelech said, Behold, my land is before thee: dwell where it pleaseth thee.",
       "tokens": [
         {
-          "t": "And Abimelech said, Behold, my land"
+          "t": "And Abimelech said, Behold, my land "
         },
         {
           "add": "is"
         },
         {
-          "t": "before thee: dwell where it pleaseth thee."
+          "t": " before thee: dwell where it pleaseth thee. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And unto Sarah he said, Behold, I have given thy brother a thousand pieces of silver: behold, he is to thee a covering of the eyes, unto all that are with thee, and with all other: thus she was reproved.",
       "tokens": [
         {
-          "t": "And unto Sarah he said, Behold, I have given thy brother a thousand"
+          "t": "And unto Sarah he said, Behold, I have given thy brother a thousand "
         },
         {
           "add": "pieces"
         },
         {
-          "t": "of silver: behold, he"
+          "t": " of silver: behold, he "
         },
         {
           "add": "is"
         },
         {
-          "t": "to thee a covering of the eyes, unto all that"
+          "t": " to thee a covering of the eyes, unto all that "
         },
         {
           "add": "are"
         },
         {
-          "t": "with thee, and with all"
+          "t": " with thee, and with all "
         },
         {
           "add": "other:"
         },
         {
-          "t": "thus she was reproved."
+          "t": " thus she was reproved. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children.",
       "tokens": [
         {
-          "t": "¶ So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare"
+          "t": "¶ So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare "
         },
         {
           "add": "children"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham’s wife.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham’s wife."
+          "t": " had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham’s wife. "
         }
       ]
     }

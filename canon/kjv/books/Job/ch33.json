@@ -7,352 +7,388 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.",
       "tokens": [
         {
-          "t": "Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words."
+          "t": "Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Behold, now I have opened my mouth, my tongue hath spoken in my mouth.",
       "tokens": [
         {
-          "t": "Behold, now I have opened my mouth, my tongue hath spoken in my mouth."
+          "t": "Behold, now I have opened my mouth, my tongue hath spoken in my mouth. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "My words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly.",
       "tokens": [
         {
-          "t": "My words"
+          "t": "My words "
         },
         {
           "add": "shall be of"
         },
         {
-          "t": "the uprightness of my heart: and my lips shall utter knowledge clearly."
+          "t": " the uprightness of my heart: and my lips shall utter knowledge clearly. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The Spirit of God hath made me, and the breath of the Almighty hath given me life.",
       "tokens": [
         {
-          "t": "The Spirit of God hath made me, and the breath of the Almighty hath given me life."
+          "t": "The Spirit of God hath made me, and the breath of the Almighty hath given me life. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "If thou canst answer me, set thy words in order before me, stand up.",
       "tokens": [
         {
-          "t": "If thou canst answer me, set"
+          "t": "If thou canst answer me, set "
         },
         {
           "add": "thy words"
         },
         {
-          "t": "in order before me, stand up."
+          "t": " in order before me, stand up. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Behold, I am according to thy wish in God’s stead: I also am formed out of the clay.",
       "tokens": [
         {
-          "t": "Behold, I"
+          "t": "Behold, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "according to thy wish in God’s stead: I also am formed out of the clay."
+          "t": " according to thy wish in God’s stead: I also am formed out of the clay. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.",
       "tokens": [
         {
-          "t": "Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee."
+          "t": "Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Surely thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,",
       "tokens": [
         {
-          "t": "Surely thou hast spoken in mine hearing, and I have heard the voice of"
+          "t": "Surely thou hast spoken in mine hearing, and I have heard the voice of "
         },
         {
           "add": "thy"
         },
         {
-          "t": "words,"
+          "t": " words, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "I am clean without transgression, I am innocent; neither is there iniquity in me.",
       "tokens": [
         {
-          "t": "I am clean without transgression, I"
+          "t": "I am clean without transgression, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "innocent; neither"
+          "t": " innocent; neither "
         },
         {
           "add": "is there"
         },
         {
-          "t": "iniquity in me."
+          "t": " iniquity in me. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Behold, he findeth occasions against me, he counteth me for his enemy,",
       "tokens": [
         {
-          "t": "Behold, he findeth occasions against me, he counteth me for his enemy,"
+          "t": "Behold, he findeth occasions against me, he counteth me for his enemy, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "He putteth my feet in the stocks, he marketh all my paths.",
       "tokens": [
         {
-          "t": "He putteth my feet in the stocks, he marketh all my paths."
+          "t": "He putteth my feet in the stocks, he marketh all my paths. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Behold, in this thou art not just: I will answer thee, that God is greater than man.",
       "tokens": [
         {
-          "t": "Behold,"
+          "t": "Behold, "
         },
         {
           "add": "in"
         },
         {
-          "t": "this thou art not just: I will answer thee, that God is greater than man."
+          "t": " this thou art not just: I will answer thee, that God is greater than man. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Why dost thou strive against him? for he giveth not account of any of his matters.",
       "tokens": [
         {
-          "t": "Why dost thou strive against him? for he giveth not account of any of his matters."
+          "t": "Why dost thou strive against him? for he giveth not account of any of his matters. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For God speaketh once, yea twice, yet man perceiveth it not.",
       "tokens": [
         {
-          "t": "For God speaketh once, yea twice,"
+          "t": "For God speaketh once, yea twice, "
         },
         {
           "add": "yet man"
         },
         {
-          "t": "perceiveth it not."
+          "t": " perceiveth it not. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;",
       "tokens": [
         {
-          "t": "In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;"
+          "t": "In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Then he openeth the ears of men, and sealeth their instruction,",
       "tokens": [
         {
-          "t": "Then he openeth the ears of men, and sealeth their instruction,"
+          "t": "Then he openeth the ears of men, and sealeth their instruction, "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "That he may withdraw man from his purpose, and hide pride from man.",
       "tokens": [
         {
-          "t": "That he may withdraw man"
+          "t": "That he may withdraw man "
         },
         {
           "add": "from his"
         },
         {
-          "t": "purpose, and hide pride from man."
+          "t": " purpose, and hide pride from man. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "He keepeth back his soul from the pit, and his life from perishing by the sword.",
       "tokens": [
         {
-          "t": "He keepeth back his soul from the pit, and his life from perishing by the sword."
+          "t": "He keepeth back his soul from the pit, and his life from perishing by the sword. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He is chastened also with pain upon his bed, and the multitude of his bones with strong pain:",
       "tokens": [
         {
-          "t": "He is chastened also with pain upon his bed, and the multitude of his bones with strong"
+          "t": "He is chastened also with pain upon his bed, and the multitude of his bones with strong "
         },
         {
           "add": "pain:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "So that his life abhorreth bread, and his soul dainty meat.",
       "tokens": [
         {
-          "t": "So that his life abhorreth bread, and his soul dainty meat."
+          "t": "So that his life abhorreth bread, and his soul dainty meat. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "His flesh is consumed away, that it cannot be seen; and his bones that were not seen stick out.",
       "tokens": [
         {
-          "t": "His flesh is consumed away, that it cannot be seen; and his bones"
+          "t": "His flesh is consumed away, that it cannot be seen; and his bones "
         },
         {
           "add": "that"
         },
         {
-          "t": "were not seen stick out."
+          "t": " were not seen stick out. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Yea, his soul draweth near unto the grave, and his life to the destroyers.",
       "tokens": [
         {
-          "t": "Yea, his soul draweth near unto the grave, and his life to the destroyers."
+          "t": "Yea, his soul draweth near unto the grave, and his life to the destroyers. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:",
       "tokens": [
         {
-          "t": "If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:"
+          "t": "If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom.",
       "tokens": [
         {
-          "t": "Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom."
+          "t": "Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "His flesh shall be fresher than a child’s: he shall return to the days of his youth:",
       "tokens": [
         {
-          "t": "His flesh shall be fresher than a child’s: he shall return to the days of his youth:"
+          "t": "His flesh shall be fresher than a child’s: he shall return to the days of his youth: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.",
       "tokens": [
         {
-          "t": "He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness."
+          "t": "He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not;",
       "tokens": [
         {
-          "t": "He looketh upon men, and"
+          "t": "He looketh upon men, and "
         },
         {
           "add": "if any"
         },
         {
-          "t": "say, I have sinned, and perverted"
+          "t": " say, I have sinned, and perverted "
         },
         {
           "add": "that which was"
         },
         {
-          "t": "right, and it profited me not;"
+          "t": " right, and it profited me not; "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "He will deliver his soul from going into the pit, and his life shall see the light.",
       "tokens": [
         {
-          "t": "He will deliver his soul from going into the pit, and his life shall see the light."
+          "t": "He will deliver his soul from going into the pit, and his life shall see the light. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Lo, all these things worketh God oftentimes with man,",
       "tokens": [
         {
-          "t": "Lo, all these"
+          "t": "Lo, all these "
         },
         {
           "add": "things"
         },
         {
-          "t": "worketh God oftentimes with man,"
+          "t": " worketh God oftentimes with man, "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "To bring back his soul from the pit, to be enlightened with the light of the living.",
       "tokens": [
         {
-          "t": "To bring back his soul from the pit, to be enlightened with the light of the living."
+          "t": "To bring back his soul from the pit, to be enlightened with the light of the living. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Mark well, O Job, hearken unto me: hold thy peace, and I will speak.",
       "tokens": [
         {
-          "t": "Mark well, O Job, hearken unto me: hold thy peace, and I will speak."
+          "t": "Mark well, O Job, hearken unto me: hold thy peace, and I will speak. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "If thou hast any thing to say, answer me: speak, for I desire to justify thee.",
       "tokens": [
         {
-          "t": "If thou hast any thing to say, answer me: speak, for I desire to justify thee."
+          "t": "If thou hast any thing to say, answer me: speak, for I desire to justify thee. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "If not, hearken unto me: hold thy peace, and I shall teach thee wisdom.",
       "tokens": [
         {
-          "t": "If not, hearken unto me: hold thy peace, and I shall teach thee wisdom."
+          "t": "If not, hearken unto me: hold thy peace, and I shall teach thee wisdom. "
         }
       ]
     }

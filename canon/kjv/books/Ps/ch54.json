@@ -1,0 +1,128 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 54,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Save me, O God, by thy name, and judge me by thy strength.",
+      "tokens": [
+        {
+          "t": "Save me, O God, by thy name, and judge me by thy strength. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Hear my prayer, O God; give ear to the words of my mouth.",
+      "tokens": [
+        {
+          "t": "Hear my prayer, O God; give ear to the words of my mouth. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+      "tokens": [
+        {
+          "t": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Behold, God is mine helper: the Lord is with them that uphold my soul.",
+      "tokens": [
+        {
+          "t": "Behold, God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " mine helper: the Lord "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " with them that uphold my soul. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "He shall reward evil unto mine enemies: cut them off in thy truth.",
+      "tokens": [
+        {
+          "t": "He shall reward evil unto mine enemies: cut them off in thy truth. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "I will freely sacrifice unto thee: I will praise thy name, O LORD; for it is good.",
+      "tokens": [
+        {
+          "t": "I will freely sacrifice unto thee: I will praise thy name, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for "
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": " good. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies.",
+      "tokens": [
+        {
+          "t": "For he hath delivered me out of all trouble: and mine eye hath seen "
+        },
+        {
+          "add": "his desire"
+        },
+        {
+          "t": " upon mine enemies. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "chief…: or, overseer"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "Maschil: or, of instruction"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "mine…: Heb. those that observe me"
+    }
+  ]
+}

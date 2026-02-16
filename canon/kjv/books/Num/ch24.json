@@ -7,333 +7,358 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.",
       "tokens": [
         {
-          "t": "And when Balaam saw that it pleased the"
+          "t": "And when Balaam saw that it pleased the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness."
+          "t": " to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him.",
       "tokens": [
         {
-          "t": "And Balaam lifted up his eyes, and he saw Israel abiding"
+          "t": "And Balaam lifted up his eyes, and he saw Israel abiding "
         },
         {
           "add": "in his tents"
         },
         {
-          "t": "according to their tribes; and the spirit of God came upon him."
+          "t": " according to their tribes; and the spirit of God came upon him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:",
       "tokens": [
         {
-          "t": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:"
+          "t": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "He hath said, which heard the words of God, which saw the vision of the Almighty, falling into a trance, but having his eyes open:",
       "tokens": [
         {
-          "t": "He hath said, which heard the words of God, which saw the vision of the Almighty, falling"
+          "t": "He hath said, which heard the words of God, which saw the vision of the Almighty, falling "
         },
         {
           "add": "into a trance"
         },
         {
-          "t": ", but having his eyes open:"
+          "t": ", but having his eyes open: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!",
       "tokens": [
         {
-          "t": "How goodly are thy tents, O Jacob,"
+          "t": "How goodly are thy tents, O Jacob, "
         },
         {
           "add": "and"
         },
         {
-          "t": "thy tabernacles, O Israel!"
+          "t": " thy tabernacles, O Israel! "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the LORD hath planted, and as cedar trees beside the waters.",
       "tokens": [
         {
-          "t": "As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the"
+          "t": "As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath planted,"
+          "t": " hath planted, "
         },
         {
           "add": "and"
         },
         {
-          "t": "as cedar trees beside the waters."
+          "t": " as cedar trees beside the waters. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.",
       "tokens": [
         {
-          "t": "He shall pour the water out of his buckets, and his seed"
+          "t": "He shall pour the water out of his buckets, and his seed "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted."
+          "t": " in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows.",
       "tokens": [
         {
-          "t": "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce"
+          "t": "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce "
         },
         {
           "add": "them"
         },
         {
-          "t": "through with his arrows."
+          "t": " through with his arrows. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee.",
       "tokens": [
         {
-          "t": "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed"
+          "t": "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed "
         },
         {
           "add": "is"
         },
         {
-          "t": "he that blesseth thee, and cursed"
+          "t": " he that blesseth thee, and cursed "
         },
         {
           "add": "is"
         },
         {
-          "t": "he that curseth thee."
+          "t": " he that curseth thee. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times.",
       "tokens": [
         {
-          "t": "¶ And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed"
+          "t": "¶ And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed "
         },
         {
           "add": "them"
         },
         {
-          "t": "these three times."
+          "t": " these three times. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour.",
       "tokens": [
         {
-          "t": "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the"
+          "t": "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath kept thee back from honour."
+          "t": " hath kept thee back from honour. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,",
       "tokens": [
         {
-          "t": "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,"
+          "t": "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?",
       "tokens": [
         {
-          "t": "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the"
+          "t": "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to do"
+          "t": ", to do "
         },
         {
           "add": "either"
         },
         {
-          "t": "good or bad of mine own mind;"
+          "t": " good or bad of mine own mind; "
         },
         {
           "add": "but"
         },
         {
-          "t": "what the"
+          "t": " what the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "saith, that will I speak?"
+          "t": " saith, that will I speak? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days.",
       "tokens": [
         {
-          "t": "And now, behold, I go unto my people: come"
+          "t": "And now, behold, I go unto my people: come "
         },
         {
           "add": "therefore, and"
         },
         {
-          "t": "I will advertise thee what this people shall do to thy people in the latter days."
+          "t": " I will advertise thee what this people shall do to thy people in the latter days. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:",
       "tokens": [
         {
-          "t": "¶ And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:"
+          "t": "¶ And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:",
       "tokens": [
         {
-          "t": "He hath said, which heard the words of God, and knew the knowledge of the most High,"
+          "t": "He hath said, which heard the words of God, and knew the knowledge of the most High, "
         },
         {
           "add": "which"
         },
         {
-          "t": "saw the vision of the Almighty, falling"
+          "t": " saw the vision of the Almighty, falling "
         },
         {
           "add": "into a trance"
         },
         {
-          "t": ", but having his eyes open:"
+          "t": ", but having his eyes open: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.",
       "tokens": [
         {
-          "t": "I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth."
+          "t": "I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.",
       "tokens": [
         {
-          "t": "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly."
+          "t": "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city.",
       "tokens": [
         {
-          "t": "Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city."
+          "t": "Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever.",
       "tokens": [
         {
-          "t": "¶ And when he looked on Amalek, he took up his parable, and said, Amalek"
+          "t": "¶ And when he looked on Amalek, he took up his parable, and said, Amalek "
         },
         {
           "add": "was"
         },
         {
-          "t": "the first of the nations; but his latter end"
+          "t": " the first of the nations; but his latter end "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "that he perish for ever."
+          "t": " that he perish for ever. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock.",
       "tokens": [
         {
-          "t": "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock."
+          "t": "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.",
       "tokens": [
         {
-          "t": "Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive."
+          "t": "Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And he took up his parable, and said, Alas, who shall live when God doeth this!",
       "tokens": [
         {
-          "t": "And he took up his parable, and said, Alas, who shall live when God doeth this!"
+          "t": "And he took up his parable, and said, Alas, who shall live when God doeth this! "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.",
       "tokens": [
         {
-          "t": "And ships"
+          "t": "And ships "
         },
         {
           "add": "shall come"
         },
         {
-          "t": "from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever."
+          "t": " from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Balaam rose up, and went and returned to his place: and Balak also went his way.",
       "tokens": [
         {
-          "t": "And Balaam rose up, and went and returned to his place: and Balak also went his way."
+          "t": "And Balaam rose up, and went and returned to his place: and Balak also went his way. "
         }
       ]
     }

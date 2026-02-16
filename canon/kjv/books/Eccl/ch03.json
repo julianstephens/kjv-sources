@@ -7,273 +7,295 @@
   "verses": [
     {
       "v": 1,
+      "plain": "To every thing there is a season, and a time to every purpose under the heaven:",
       "tokens": [
         {
-          "t": "To every"
+          "t": "To every "
         },
         {
           "add": "thing there is"
         },
         {
-          "t": "a season, and a time to every purpose under the heaven:"
+          "t": " a season, and a time to every purpose under the heaven: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;",
       "tokens": [
         {
-          "t": "A time to be born, and a time to die; a time to plant, and a time to pluck up"
+          "t": "A time to be born, and a time to die; a time to plant, and a time to pluck up "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "planted;"
+          "t": " planted; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
       "tokens": [
         {
-          "t": "A time to kill, and a time to heal; a time to break down, and a time to build up;"
+          "t": "A time to kill, and a time to heal; a time to break down, and a time to build up; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;",
       "tokens": [
         {
-          "t": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;"
+          "t": "A time to weep, and a time to laugh; a time to mourn, and a time to dance; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
       "tokens": [
         {
-          "t": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;"
+          "t": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "A time to get, and a time to lose; a time to keep, and a time to cast away;",
       "tokens": [
         {
-          "t": "A time to get, and a time to lose; a time to keep, and a time to cast away;"
+          "t": "A time to get, and a time to lose; a time to keep, and a time to cast away; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;",
       "tokens": [
         {
-          "t": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;"
+          "t": "A time to rend, and a time to sew; a time to keep silence, and a time to speak; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "A time to love, and a time to hate; a time of war, and a time of peace.",
       "tokens": [
         {
-          "t": "A time to love, and a time to hate; a time of war, and a time of peace."
+          "t": "A time to love, and a time to hate; a time of war, and a time of peace. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "What profit hath he that worketh in that wherein he laboureth?",
       "tokens": [
         {
-          "t": "What profit hath he that worketh in that wherein he laboureth?"
+          "t": "What profit hath he that worketh in that wherein he laboureth? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "I have seen the travail, which God hath given to the sons of men to be exercised in it.",
       "tokens": [
         {
-          "t": "I have seen the travail, which God hath given to the sons of men to be exercised in it."
+          "t": "I have seen the travail, which God hath given to the sons of men to be exercised in it. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
       "tokens": [
         {
-          "t": "He hath made every"
+          "t": "He hath made every "
         },
         {
           "add": "thing"
         },
         {
-          "t": "beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end."
+          "t": " beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "I know that there is no good in them, but for a man to rejoice, and to do good in his life.",
       "tokens": [
         {
-          "t": "I know that"
+          "t": "I know that "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no good in them, but for"
+          "t": " no good in them, but for "
         },
         {
           "add": "a man"
         },
         {
-          "t": "to rejoice, and to do good in his life."
+          "t": " to rejoice, and to do good in his life. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.",
       "tokens": [
         {
-          "t": "And also that every man should eat and drink, and enjoy the good of all his labour, it"
+          "t": "And also that every man should eat and drink, and enjoy the good of all his labour, it "
         },
         {
           "add": "is"
         },
         {
-          "t": "the gift of God."
+          "t": " the gift of God. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him.",
       "tokens": [
         {
-          "t": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth"
+          "t": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth "
         },
         {
           "add": "it"
         },
         {
-          "t": ", that"
+          "t": ", that "
         },
         {
           "add": "men"
         },
         {
-          "t": "should fear before him."
+          "t": " should fear before him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past.",
       "tokens": [
         {
-          "t": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past."
+          "t": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.",
       "tokens": [
         {
-          "t": "¶ And moreover I saw under the sun the place of judgment,"
+          "t": "¶ And moreover I saw under the sun the place of judgment, "
         },
         {
           "add": "that"
         },
         {
-          "t": "wickedness"
+          "t": " wickedness "
         },
         {
           "add": "was"
         },
         {
-          "t": "there; and the place of righteousness,"
+          "t": " there; and the place of righteousness, "
         },
         {
           "add": "that"
         },
         {
-          "t": "iniquity"
+          "t": " iniquity "
         },
         {
           "add": "was"
         },
         {
-          "t": "there."
+          "t": " there. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.",
       "tokens": [
         {
-          "t": "I said in mine heart, God shall judge the righteous and the wicked: for"
+          "t": "I said in mine heart, God shall judge the righteous and the wicked: for "
         },
         {
           "add": "there is"
         },
         {
-          "t": "a time there for every purpose and for every work."
+          "t": " a time there for every purpose and for every work. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.",
       "tokens": [
         {
-          "t": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts."
+          "t": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.",
       "tokens": [
         {
-          "t": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all"
+          "t": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all "
         },
         {
           "add": "is"
         },
         {
-          "t": "vanity."
+          "t": " vanity. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "All go unto one place; all are of the dust, and all turn to dust again.",
       "tokens": [
         {
-          "t": "All go unto one place; all are of the dust, and all turn to dust again."
+          "t": "All go unto one place; all are of the dust, and all turn to dust again. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?",
       "tokens": [
         {
-          "t": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?"
+          "t": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?",
       "tokens": [
         {
-          "t": "Wherefore I perceive that"
+          "t": "Wherefore I perceive that "
         },
         {
           "add": "there is"
         },
         {
-          "t": "nothing better, than that a man should rejoice in his own works; for that"
+          "t": " nothing better, than that a man should rejoice in his own works; for that "
         },
         {
           "add": "is"
         },
         {
-          "t": "his portion: for who shall bring him to see what shall be after him?"
+          "t": " his portion: for who shall bring him to see what shall be after him? "
         }
       ]
     }

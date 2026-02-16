@@ -1,0 +1,868 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 18,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "I will love thee, O LORD, my strength.",
+      "tokens": [
+        {
+          "t": "I will love thee, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", my strength. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " my high tower. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "I will call upon the LORD, who is worthy to be praised: so shall I be saved from mine enemies.",
+      "tokens": [
+        {
+          "t": "I will call upon the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", "
+        },
+        {
+          "add": "who is worthy"
+        },
+        {
+          "t": " to be praised: so shall I be saved from mine enemies. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "The sorrows of death compassed me, and the floods of ungodly men made me afraid.",
+      "tokens": [
+        {
+          "t": "The sorrows of death compassed me, and the floods of ungodly men made me afraid. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "The sorrows of hell compassed me about: the snares of death prevented me.",
+      "tokens": [
+        {
+          "t": "The sorrows of hell compassed me about: the snares of death prevented me. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.",
+      "tokens": [
+        {
+          "t": "In my distress I called upon the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and cried unto my God: he heard my voice out of his temple, and my cry came before him, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " into his ears. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth.",
+      "tokens": [
+        {
+          "t": "Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.",
+      "tokens": [
+        {
+          "t": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "He bowed the heavens also, and came down: and darkness was under his feet.",
+      "tokens": [
+        {
+          "t": "He bowed the heavens also, and came down: and darkness "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " under his feet. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind.",
+      "tokens": [
+        {
+          "t": "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "He made darkness his secret place; his pavilion round about him were dark waters and thick clouds of the skies.",
+      "tokens": [
+        {
+          "t": "He made darkness his secret place; his pavilion round about him "
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": " dark waters "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " thick clouds of the skies. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "At the brightness that was before him his thick clouds passed, hail stones and coals of fire.",
+      "tokens": [
+        {
+          "t": "At the brightness "
+        },
+        {
+          "add": "that was"
+        },
+        {
+          "t": " before him his thick clouds passed, hail "
+        },
+        {
+          "add": "stones"
+        },
+        {
+          "t": " and coals of fire. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "The LORD also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " also thundered in the heavens, and the Highest gave his voice; hail "
+        },
+        {
+          "add": "stones"
+        },
+        {
+          "t": " and coals of fire. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them.",
+      "tokens": [
+        {
+          "t": "Yea, he sent out his arrows, and scattered them; and he shot out lightnings, and discomfited them. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O LORD, at the blast of the breath of thy nostrils.",
+      "tokens": [
+        {
+          "t": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", at the blast of the breath of thy nostrils. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "He sent from above, he took me, he drew me out of many waters.",
+      "tokens": [
+        {
+          "t": "He sent from above, he took me, he drew me out of many waters. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.",
+      "tokens": [
+        {
+          "t": "He delivered me from my strong enemy, and from them which hated me: for they were too strong for me. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "They prevented me in the day of my calamity: but the LORD was my stay.",
+      "tokens": [
+        {
+          "t": "They prevented me in the day of my calamity: but the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " was my stay. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "He brought me forth also into a large place; he delivered me, because he delighted in me.",
+      "tokens": [
+        {
+          "t": "He brought me forth also into a large place; he delivered me, because he delighted in me. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "For I have kept the ways of the LORD, and have not wickedly departed from my God.",
+      "tokens": [
+        {
+          "t": "For I have kept the ways of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and have not wickedly departed from my God. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "For all his judgments were before me, and I did not put away his statutes from me.",
+      "tokens": [
+        {
+          "t": "For all his judgments "
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": " before me, and I did not put away his statutes from me. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "I was also upright before him, and I kept myself from mine iniquity.",
+      "tokens": [
+        {
+          "t": "I was also upright before him, and I kept myself from mine iniquity. "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.",
+      "tokens": [
+        {
+          "t": "Therefore hath the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight. "
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "plain": "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;",
+      "tokens": [
+        {
+          "t": "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright; "
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "plain": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.",
+      "tokens": [
+        {
+          "t": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward. "
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "plain": "For thou wilt save the afflicted people; but wilt bring down high looks.",
+      "tokens": [
+        {
+          "t": "For thou wilt save the afflicted people; but wilt bring down high looks. "
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "plain": "For thou wilt light my candle: the LORD my God will enlighten my darkness.",
+      "tokens": [
+        {
+          "t": "For thou wilt light my candle: the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " my God will enlighten my darkness. "
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "plain": "For by thee I have run through a troop; and by my God have I leaped over a wall.",
+      "tokens": [
+        {
+          "t": "For by thee I have run through a troop; and by my God have I leaped over a wall. "
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "plain": "As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him.",
+      "tokens": [
+        {
+          "add": "As for"
+        },
+        {
+          "t": " God, his way "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " perfect: the word of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " is tried: he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " a buckler to all those that trust in him. "
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "plain": "For who is God save the LORD? or who is a rock save our God?",
+      "tokens": [
+        {
+          "t": "For who "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " God save the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? or who "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " a rock save our God? "
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "plain": "It is God that girdeth me with strength, and maketh my way perfect.",
+      "tokens": [
+        {
+          "add": "It is"
+        },
+        {
+          "t": " God that girdeth me with strength, and maketh my way perfect. "
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "plain": "He maketh my feet like hinds’ feet, and setteth me upon my high places.",
+      "tokens": [
+        {
+          "t": "He maketh my feet like hinds’ "
+        },
+        {
+          "add": "feet"
+        },
+        {
+          "t": ", and setteth me upon my high places. "
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "plain": "He teacheth my hands to war, so that a bow of steel is broken by mine arms.",
+      "tokens": [
+        {
+          "t": "He teacheth my hands to war, so that a bow of steel is broken by mine arms. "
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "plain": "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great.",
+      "tokens": [
+        {
+          "t": "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great. "
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "plain": "Thou hast enlarged my steps under me, that my feet did not slip.",
+      "tokens": [
+        {
+          "t": "Thou hast enlarged my steps under me, that my feet did not slip. "
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "plain": "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed.",
+      "tokens": [
+        {
+          "t": "I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed. "
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "plain": "I have wounded them that they were not able to rise: they are fallen under my feet.",
+      "tokens": [
+        {
+          "t": "I have wounded them that they were not able to rise: they are fallen under my feet. "
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "plain": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.",
+      "tokens": [
+        {
+          "t": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me. "
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "plain": "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me.",
+      "tokens": [
+        {
+          "t": "Thou hast also given me the necks of mine enemies; that I might destroy them that hate me. "
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "plain": "They cried, but there was none to save them: even unto the LORD, but he answered them not.",
+      "tokens": [
+        {
+          "t": "They cried, but "
+        },
+        {
+          "add": "there was"
+        },
+        {
+          "t": " none to save "
+        },
+        {
+          "add": "them: even"
+        },
+        {
+          "t": " unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", but he answered them not. "
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "plain": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.",
+      "tokens": [
+        {
+          "t": "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets. "
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "plain": "Thou hast delivered me from the strivings of the people; and thou hast made me the head of the heathen: a people whom I have not known shall serve me.",
+      "tokens": [
+        {
+          "t": "Thou hast delivered me from the strivings of the people; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " thou hast made me the head of the heathen: a people "
+        },
+        {
+          "add": "whom"
+        },
+        {
+          "t": " I have not known shall serve me. "
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "plain": "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.",
+      "tokens": [
+        {
+          "t": "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me. "
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "plain": "The strangers shall fade away, and be afraid out of their close places.",
+      "tokens": [
+        {
+          "t": "The strangers shall fade away, and be afraid out of their close places. "
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "plain": "The LORD liveth; and blessed be my rock; and let the God of my salvation be exalted.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " liveth; and blessed "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " my rock; and let the God of my salvation be exalted. "
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "plain": "It is God that avengeth me, and subdueth the people under me.",
+      "tokens": [
+        {
+          "add": "It is"
+        },
+        {
+          "t": " God that avengeth me, and subdueth the people under me. "
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "plain": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.",
+      "tokens": [
+        {
+          "t": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man. "
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "plain": "Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name.",
+      "tokens": [
+        {
+          "t": "Therefore will I give thanks unto thee, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", among the heathen, and sing praises unto thy name. "
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "plain": "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.",
+      "tokens": [
+        {
+          "t": "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "my strength: Heb. my rock"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "ungodly men: Heb. Belial"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "sorrows: or, cords"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 8
+      },
+      "text": "out of his nostrils: Heb. by his, etc"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 16
+      },
+      "text": "many: or, great"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 23
+      },
+      "text": "before: Heb. with"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 24
+      },
+      "text": "in…: Heb. before his eyes"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 26
+      },
+      "text": "shew thyself froward: or, wrestle"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 28
+      },
+      "text": "candle: or, lamp"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 29
+      },
+      "text": "run…: or, broken"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 30
+      },
+      "text": "tried: or, refined"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 35
+      },
+      "text": "thy gentleness…: or, with thy meekness thou hast multiplied me"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 36
+      },
+      "text": "my feet: Heb. mine ankles"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 39
+      },
+      "text": "subdued: Heb. caused to bow"
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 44
+      },
+      "text": "As soon…: Heb. At the hearing of the ear"
+    },
+    {
+      "id": "FN16",
+      "mark": "§",
+      "at": {
+        "v": 44
+      },
+      "text": "submit…: or, yield feigned obedience"
+    },
+    {
+      "id": "FN17",
+      "mark": "**",
+      "at": {
+        "v": 44
+      },
+      "text": "strangers: Heb. sons of the stranger"
+    },
+    {
+      "id": "FN18",
+      "mark": "††",
+      "at": {
+        "v": 45
+      },
+      "text": "strangers: Heb. sons of the stranger"
+    },
+    {
+      "id": "FN19",
+      "mark": "‡‡",
+      "at": {
+        "v": 47
+      },
+      "text": "avengeth: Heb. giveth avengements for"
+    },
+    {
+      "id": "FN20",
+      "mark": "§§",
+      "at": {
+        "v": 47
+      },
+      "text": "subdueth: or, destroyeth"
+    },
+    {
+      "id": "FN21",
+      "mark": "***",
+      "at": {
+        "v": 48
+      },
+      "text": "violent…: Heb. man of violence"
+    },
+    {
+      "id": "FN22",
+      "mark": "†††",
+      "at": {
+        "v": 49
+      },
+      "text": "give…: or, confess"
+    }
+  ]
+}

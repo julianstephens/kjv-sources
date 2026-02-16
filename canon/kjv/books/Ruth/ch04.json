@@ -7,363 +7,385 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.",
       "tokens": [
         {
-          "t": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down."
+          "t": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down.",
       "tokens": [
         {
-          "t": "And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down."
+          "t": "And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which was our brother Elimelech’s:",
       "tokens": [
         {
-          "t": "And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which"
+          "t": "And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which "
         },
         {
           "add": "was"
         },
         {
-          "t": "our brother Elimelech’s:"
+          "t": " our brother Elimelech’s: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And I thought to advertise thee, saying, Buy it before the inhabitants, and before the elders of my people. If thou wilt redeem it, redeem it: but if thou wilt not redeem it, then tell me, that I may know: for there is none to redeem it beside thee; and I am after thee. And he said, I will redeem it.",
       "tokens": [
         {
-          "t": "And I thought to advertise thee, saying, Buy"
+          "t": "And I thought to advertise thee, saying, Buy "
         },
         {
           "add": "it"
         },
         {
-          "t": "before the inhabitants, and before the elders of my people. If thou wilt redeem"
+          "t": " before the inhabitants, and before the elders of my people. If thou wilt redeem "
         },
         {
           "add": "it"
         },
         {
-          "t": ", redeem"
+          "t": ", redeem "
         },
         {
           "add": "it:"
         },
         {
-          "t": "but if thou wilt not redeem"
+          "t": " but if thou wilt not redeem "
         },
         {
           "add": "it, then"
         },
         {
-          "t": "tell me, that I may know: for"
+          "t": " tell me, that I may know: for "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none to redeem"
+          "t": " none to redeem "
         },
         {
           "add": "it"
         },
         {
-          "t": "beside thee; and I"
+          "t": " beside thee; and I "
         },
         {
           "add": "am"
         },
         {
-          "t": "after thee. And he said, I will redeem"
+          "t": " after thee. And he said, I will redeem "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy it also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.",
       "tokens": [
         {
-          "t": "Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy"
+          "t": "Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy "
         },
         {
           "add": "it"
         },
         {
-          "t": "also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance."
+          "t": " also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And the kinsman said, I cannot redeem it for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem it.",
       "tokens": [
         {
-          "t": "¶ And the kinsman said, I cannot redeem"
+          "t": "¶ And the kinsman said, I cannot redeem "
         },
         {
           "add": "it"
         },
         {
-          "t": "for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem"
+          "t": " for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Now this was the manner in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave it to his neighbour: and this was a testimony in Israel.",
       "tokens": [
         {
-          "t": "Now this"
+          "t": "Now this "
         },
         {
           "add": "was the manner"
         },
         {
-          "t": "in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave"
+          "t": " in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave "
         },
         {
           "add": "it"
         },
         {
-          "t": "to his neighbour: and this"
+          "t": " to his neighbour: and this "
         },
         {
           "add": "was"
         },
         {
-          "t": "a testimony in Israel."
+          "t": " a testimony in Israel. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Therefore the kinsman said unto Boaz, Buy it for thee. So he drew off his shoe.",
       "tokens": [
         {
-          "t": "Therefore the kinsman said unto Boaz, Buy"
+          "t": "Therefore the kinsman said unto Boaz, Buy "
         },
         {
           "add": "it"
         },
         {
-          "t": "for thee. So he drew off his shoe."
+          "t": " for thee. So he drew off his shoe. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And Boaz said unto the elders, and unto all the people, Ye are witnesses this day, that I have bought all that was Elimelech’s, and all that was Chilion’s and Mahlon’s, of the hand of Naomi.",
       "tokens": [
         {
-          "t": "¶ And Boaz said unto the elders, and"
+          "t": "¶ And Boaz said unto the elders, and "
         },
         {
           "add": "unto"
         },
         {
-          "t": "all the people, Ye"
+          "t": " all the people, Ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "witnesses this day, that I have bought all that"
+          "t": " witnesses this day, that I have bought all that "
         },
         {
           "add": "was"
         },
         {
-          "t": "Elimelech’s, and all that"
+          "t": " Elimelech’s, and all that "
         },
         {
           "add": "was"
         },
         {
-          "t": "Chilion’s and Mahlon’s, of the hand of Naomi."
+          "t": " Chilion’s and Mahlon’s, of the hand of Naomi. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye are witnesses this day.",
       "tokens": [
         {
-          "t": "Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye"
+          "t": "Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "witnesses this day."
+          "t": " witnesses this day. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And all the people that were in the gate, and the elders, said, We are witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Beth-lehem:",
       "tokens": [
         {
-          "t": "And all the people that"
+          "t": "And all the people that "
         },
         {
           "add": "were"
         },
         {
-          "t": "in the gate, and the elders, said,"
+          "t": " in the gate, and the elders, said, "
         },
         {
           "add": "We are"
         },
         {
-          "t": "witnesses. The"
+          "t": " witnesses. The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Beth-lehem:"
+          "t": " make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Beth-lehem: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman.",
       "tokens": [
         {
-          "t": "And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the"
+          "t": "And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall give thee of this young woman."
+          "t": " shall give thee of this young woman. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.",
       "tokens": [
         {
-          "t": "¶ So Boaz took Ruth, and she was his wife: and when he went in unto her, the"
+          "t": "¶ So Boaz took Ruth, and she was his wife: and when he went in unto her, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "gave her conception, and she bare a son."
+          "t": " gave her conception, and she bare a son. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the women said unto Naomi, Blessed be the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel.",
       "tokens": [
         {
-          "t": "And the women said unto Naomi, Blessed"
+          "t": "And the women said unto Naomi, Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which hath not left thee this day without a kinsman, that his name may be famous in Israel."
+          "t": ", which hath not left thee this day without a kinsman, that his name may be famous in Israel. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.",
       "tokens": [
         {
-          "t": "And he shall be unto thee a restorer of"
+          "t": "And he shall be unto thee a restorer of "
         },
         {
           "add": "thy"
         },
         {
-          "t": "life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him."
+          "t": " life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Naomi took the child, and laid it in her bosom, and became nurse unto it.",
       "tokens": [
         {
-          "t": "And Naomi took the child, and laid it in her bosom, and became nurse unto it."
+          "t": "And Naomi took the child, and laid it in her bosom, and became nurse unto it. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he is the father of Jesse, the father of David.",
       "tokens": [
         {
-          "t": "And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he"
+          "t": "And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he "
         },
         {
           "add": "is"
         },
         {
-          "t": "the father of Jesse, the father of David."
+          "t": " the father of Jesse, the father of David. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ Now these are the generations of Pharez: Pharez begat Hezron,",
       "tokens": [
         {
-          "t": "¶ Now these"
+          "t": "¶ Now these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the generations of Pharez: Pharez begat Hezron,"
+          "t": " the generations of Pharez: Pharez begat Hezron, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Hezron begat Ram, and Ram begat Amminadab,",
       "tokens": [
         {
-          "t": "And Hezron begat Ram, and Ram begat Amminadab,"
+          "t": "And Hezron begat Ram, and Ram begat Amminadab, "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Amminadab begat Nahshon, and Nahshon begat Salmon,",
       "tokens": [
         {
-          "t": "And Amminadab begat Nahshon, and Nahshon begat Salmon,"
+          "t": "And Amminadab begat Nahshon, and Nahshon begat Salmon, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And Salmon begat Boaz, and Boaz begat Obed,",
       "tokens": [
         {
-          "t": "And Salmon begat Boaz, and Boaz begat Obed,"
+          "t": "And Salmon begat Boaz, and Boaz begat Obed, "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Obed begat Jesse, and Jesse begat David.",
       "tokens": [
         {
-          "t": "And Obed begat Jesse, and Jesse begat David."
+          "t": "And Obed begat Jesse, and Jesse begat David. "
         }
       ]
     }

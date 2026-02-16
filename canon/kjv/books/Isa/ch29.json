@@ -7,298 +7,322 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.",
       "tokens": [
         {
-          "t": "Woe to Ariel, to Ariel, the city"
+          "t": "Woe to Ariel, to Ariel, the city "
         },
         {
           "add": "where"
         },
         {
-          "t": "David dwelt! add ye year to year; let them kill sacrifices."
+          "t": " David dwelt! add ye year to year; let them kill sacrifices. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel.",
       "tokens": [
         {
-          "t": "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel."
+          "t": "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.",
       "tokens": [
         {
-          "t": "And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee."
+          "t": "And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
       "tokens": [
         {
-          "t": "And thou shalt be brought down,"
+          "t": "And thou shalt be brought down, "
         },
         {
           "add": "and"
         },
         {
-          "t": "shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust."
+          "t": " shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly.",
       "tokens": [
         {
-          "t": "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones"
+          "t": "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "as chaff that passeth away: yea, it shall be at an instant suddenly."
+          "t": " as chaff that passeth away: yea, it shall be at an instant suddenly. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.",
       "tokens": [
         {
-          "t": "Thou shalt be visited of the"
+          "t": "Thou shalt be visited of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire."
+          "t": " of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.",
       "tokens": [
         {
-          "t": "¶ And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision."
+          "t": "¶ And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.",
       "tokens": [
         {
-          "t": "It shall even be as when an hungry"
+          "t": "It shall even be as when an hungry "
         },
         {
           "add": "man"
         },
         {
-          "t": "dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold,"
+          "t": " dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, "
         },
         {
           "add": "he is"
         },
         {
-          "t": "faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion."
+          "t": " faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.",
       "tokens": [
         {
-          "t": "¶ Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink."
+          "t": "¶ Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered."
+          "t": " hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:",
       "tokens": [
         {
-          "t": "And the vision of all is become unto you as the words of a book that is sealed, which"
+          "t": "And the vision of all is become unto you as the words of a book that is sealed, which "
         },
         {
           "add": "men"
         },
         {
-          "t": "deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it"
+          "t": " deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "sealed:"
+          "t": " sealed: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.",
       "tokens": [
         {
-          "t": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned."
+          "t": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:",
       "tokens": [
         {
-          "t": "¶ Wherefore the Lord said, Forasmuch as this people draw near"
+          "t": "¶ Wherefore the Lord said, Forasmuch as this people draw near "
         },
         {
           "add": "me"
         },
         {
-          "t": "with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"
+          "t": " with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.",
       "tokens": [
         {
-          "t": "Therefore, behold, I will proceed to do a marvellous work among this people,"
+          "t": "Therefore, behold, I will proceed to do a marvellous work among this people, "
         },
         {
           "add": "even"
         },
         {
-          "t": "a marvellous work and a wonder: for the wisdom of their wise"
+          "t": " a marvellous work and a wonder: for the wisdom of their wise "
         },
         {
           "add": "men"
         },
         {
-          "t": "shall perish, and the understanding of their prudent"
+          "t": " shall perish, and the understanding of their prudent "
         },
         {
           "add": "men"
         },
         {
-          "t": "shall be hid."
+          "t": " shall be hid. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?",
       "tokens": [
         {
-          "t": "Woe unto them that seek deep to hide their counsel from the"
+          "t": "Woe unto them that seek deep to hide their counsel from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and their works are in the dark, and they say, Who seeth us? and who knoweth us?"
+          "t": ", and their works are in the dark, and they say, Who seeth us? and who knoweth us? "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?",
       "tokens": [
         {
-          "t": "Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?"
+          "t": "Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?",
       "tokens": [
         {
           "add": "Is"
         },
         {
-          "t": "it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?"
+          "t": " it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.",
       "tokens": [
         {
-          "t": "¶ And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness."
+          "t": "¶ And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel.",
       "tokens": [
         {
-          "t": "The meek also shall increase"
+          "t": "The meek also shall increase "
         },
         {
           "add": "their"
         },
         {
-          "t": "joy in the"
+          "t": " joy in the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the poor among men shall rejoice in the Holy One of Israel."
+          "t": ", and the poor among men shall rejoice in the Holy One of Israel. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:",
       "tokens": [
         {
-          "t": "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:"
+          "t": "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.",
       "tokens": [
         {
-          "t": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought."
+          "t": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.",
       "tokens": [
         {
-          "t": "Therefore thus saith the"
+          "t": "Therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale."
+          "t": ", who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.",
       "tokens": [
         {
-          "t": "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel."
+          "t": "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.",
       "tokens": [
         {
-          "t": "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine."
+          "t": "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine. "
         }
       ]
     }

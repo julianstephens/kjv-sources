@@ -82,7 +82,7 @@ func getOrder(abbr string) int {
 }
 
 func loadOSISMapping(indexDir string) (map[string]string, error) {
-	osisData, err := os.ReadFile(filepath.Join(indexDir, "osis.json"))
+	osisData, err := os.ReadFile(filepath.Join(indexDir, "osis.json")) // nolint: gosec
 	if err != nil {
 		return nil, err
 	}
@@ -113,9 +113,10 @@ var osisNameOverrides = map[string]string{
 	"Prayer of Manasses":     "Pr Man",
 }
 
-func MainBooks() {
+func MainBooks(stop chan bool) {
 	cwd, err := os.Getwd()
 	if err != nil {
+		close(stop)
 		fmt.Println("Error getting current working directory:", err)
 		return
 	}
@@ -126,13 +127,15 @@ func MainBooks() {
 	// Load OSIS mapping
 	osisMap, err := loadOSISMapping(IndexDir)
 	if err != nil {
+		close(stop)
 		fmt.Println("Error reading OSIS mapping:", err)
 		return
 	}
 
 	// Read XML file
-	xmlData, err := os.ReadFile(filepath.Join(MetadataDir, "eng-kjv-VernacularParms.xml"))
+	xmlData, err := os.ReadFile(filepath.Join(MetadataDir, "eng-kjv-VernacularParms.xml")) // nolint: gosec
 	if err != nil {
+		close(stop)
 		fmt.Println("Error reading XML file:", err)
 		return
 	}
@@ -141,6 +144,7 @@ func MainBooks() {
 	var parms VernacularParms
 	err = xml.Unmarshal(xmlData, &parms)
 	if err != nil {
+		close(stop)
 		fmt.Println("Error parsing XML:", err)
 		return
 	}
@@ -208,6 +212,7 @@ func MainBooks() {
 	// Marshal to JSON
 	jsonData, err := json.MarshalIndent(output, "", "  ")
 	if err != nil {
+		close(stop)
 		fmt.Println("Error marshaling JSON:", err)
 		return
 	}
@@ -215,9 +220,11 @@ func MainBooks() {
 	// Write to file
 	err = os.WriteFile(filepath.Join(cwd, "canon", "kjv", "index", "books.json"), jsonData, 0600)
 	if err != nil {
+		close(stop)
 		fmt.Println("Error writing JSON file:", err)
 		return
 	}
 
+	close(stop)
 	fmt.Println("Successfully created books.json")
 }

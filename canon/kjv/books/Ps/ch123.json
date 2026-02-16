@@ -7,69 +7,73 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
       "tokens": [
         {
-          "t": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens."
+          "t": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us.",
       "tokens": [
         {
-          "t": "Behold, as the eyes of servants"
+          "t": "Behold, as the eyes of servants "
         },
         {
           "add": "look"
         },
         {
-          "t": "unto the hand of their masters,"
+          "t": " unto the hand of their masters, "
         },
         {
           "add": "and"
         },
         {
-          "t": "as the eyes of a maiden unto the hand of her mistress; so our eyes"
+          "t": " as the eyes of a maiden unto the hand of her mistress; so our eyes "
         },
         {
           "add": "wait"
         },
         {
-          "t": "upon the"
+          "t": " upon the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God, until that he have mercy upon us."
+          "t": " our God, until that he have mercy upon us. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.",
       "tokens": [
         {
-          "t": "Have mercy upon us, O"
+          "t": "Have mercy upon us, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", have mercy upon us: for we are exceedingly filled with contempt."
+          "t": ", have mercy upon us: for we are exceedingly filled with contempt. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.",
       "tokens": [
         {
-          "t": "Our soul is exceedingly filled with the scorning of those that are at ease,"
+          "t": "Our soul is exceedingly filled with the scorning of those that are at ease, "
         },
         {
           "add": "and"
         },
         {
-          "t": "with the contempt of the proud."
+          "t": " with the contempt of the proud. "
         }
       ]
     }

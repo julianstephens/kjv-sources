@@ -1,0 +1,375 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 25,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Unto thee, O LORD, do I lift up my soul.",
+      "tokens": [
+        {
+          "t": "Unto thee, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", do I lift up my soul. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.",
+      "tokens": [
+        {
+          "t": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause.",
+      "tokens": [
+        {
+          "t": "Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Shew me thy ways, O LORD; teach me thy paths.",
+      "tokens": [
+        {
+          "t": "Shew me thy ways, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; teach me thy paths. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.",
+      "tokens": [
+        {
+          "t": "Lead me in thy truth, and teach me: for thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " the God of my salvation; on thee do I wait all the day. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old.",
+      "tokens": [
+        {
+          "t": "Remember, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", thy tender mercies and thy lovingkindnesses; for they "
+        },
+        {
+          "add": "have been"
+        },
+        {
+          "t": " ever of old. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness’ sake, O LORD.",
+      "tokens": [
+        {
+          "t": "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness’ sake, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Good and upright is the LORD: therefore will he teach sinners in the way.",
+      "tokens": [
+        {
+          "t": "Good and upright "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": therefore will he teach sinners in the way. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "The meek will he guide in judgment: and the meek will he teach his way.",
+      "tokens": [
+        {
+          "t": "The meek will he guide in judgment: and the meek will he teach his way. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies.",
+      "tokens": [
+        {
+          "t": "All the paths of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " mercy and truth unto such as keep his covenant and his testimonies. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "For thy name’s sake, O LORD, pardon mine iniquity; for it is great.",
+      "tokens": [
+        {
+          "t": "For thy name’s sake, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", pardon mine iniquity; for it "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " great. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "What man is he that feareth the LORD? him shall he teach in the way that he shall choose.",
+      "tokens": [
+        {
+          "t": "What man "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " he that feareth the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? him shall he teach in the way "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " he shall choose. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "His soul shall dwell at ease; and his seed shall inherit the earth.",
+      "tokens": [
+        {
+          "t": "His soul shall dwell at ease; and his seed shall inherit the earth. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "The secret of the LORD is with them that fear him; and he will shew them his covenant.",
+      "tokens": [
+        {
+          "t": "The secret of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " with them that fear him; and he will shew them his covenant. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Mine eyes are ever toward the LORD; for he shall pluck my feet out of the net.",
+      "tokens": [
+        {
+          "t": "Mine eyes "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " ever toward the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for he shall pluck my feet out of the net. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "Turn thee unto me, and have mercy upon me; for I am desolate and afflicted.",
+      "tokens": [
+        {
+          "t": "Turn thee unto me, and have mercy upon me; for I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " desolate and afflicted. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "The troubles of my heart are enlarged: O bring thou me out of my distresses.",
+      "tokens": [
+        {
+          "t": "The troubles of my heart are enlarged: "
+        },
+        {
+          "add": "O"
+        },
+        {
+          "t": " bring thou me out of my distresses. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "Look upon mine affliction and my pain; and forgive all my sins.",
+      "tokens": [
+        {
+          "t": "Look upon mine affliction and my pain; and forgive all my sins. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Consider mine enemies; for they are many; and they hate me with cruel hatred.",
+      "tokens": [
+        {
+          "t": "Consider mine enemies; for they are many; and they hate me with cruel hatred. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee.",
+      "tokens": [
+        {
+          "t": "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "Let integrity and uprightness preserve me; for I wait on thee.",
+      "tokens": [
+        {
+          "t": "Let integrity and uprightness preserve me; for I wait on thee. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "Redeem Israel, O God, out of all his troubles.",
+      "tokens": [
+        {
+          "t": "Redeem Israel, O God, out of all his troubles. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 6
+      },
+      "text": "tender…: Heb. bowels"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 13
+      },
+      "text": "dwell…: Heb. lodge in goodness"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 14
+      },
+      "text": "and…: or, and his covenant to make them know it"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 15
+      },
+      "text": "pluck: Heb. bring forth"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 19
+      },
+      "text": "cruel…: Heb. hatred of violence"
+    }
+  ]
+}

@@ -7,267 +7,286 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.",
       "tokens": [
         {
-          "t": "And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel."
+          "t": "And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken.",
       "tokens": [
         {
-          "t": "And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken."
+          "t": "And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;"
+          "t": " was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But sought to the Lord God of his father, and walked in his commandments, and not after the doings of Israel.",
       "tokens": [
         {
-          "t": "But sought to the"
+          "t": "But sought to the "
         },
         {
           "add": " Lord"
         },
         {
-          "t": "God of his father, and walked in his commandments, and not after the doings of Israel."
+          "t": " God of his father, and walked in his commandments, and not after the doings of Israel. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance.",
       "tokens": [
         {
-          "t": "Therefore the"
+          "t": "Therefore the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance."
+          "t": " stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And his heart was lifted up in the ways of the LORD: moreover he took away the high places and groves out of Judah.",
       "tokens": [
         {
-          "t": "And his heart was lifted up in the ways of the"
+          "t": "And his heart was lifted up in the ways of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": moreover he took away the high places and groves out of Judah."
+          "t": ": moreover he took away the high places and groves out of Judah. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ Also in the third year of his reign he sent to his princes, even to Ben-hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.",
       "tokens": [
         {
-          "t": "¶ Also in the third year of his reign he sent to his princes,"
+          "t": "¶ Also in the third year of his reign he sent to his princes, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to Ben-hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah."
+          "t": " to Ben-hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob-adonijah, Levites; and with them Elishama and Jehoram, priests.",
       "tokens": [
         {
-          "t": "And with them"
+          "t": "And with them "
         },
         {
           "add": "he sent"
         },
         {
-          "t": "Levites,"
+          "t": " Levites, "
         },
         {
           "add": "even"
         },
         {
-          "t": "Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob-adonijah, Levites; and with them Elishama and Jehoram, priests."
+          "t": " Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob-adonijah, Levites; and with them Elishama and Jehoram, priests. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people.",
       "tokens": [
         {
-          "t": "And they taught in Judah, and"
+          "t": "And they taught in Judah, and "
         },
         {
           "add": "had"
         },
         {
-          "t": "the book of the law of the"
+          "t": " the book of the law of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "with them, and went about throughout all the cities of Judah, and taught the people."
+          "t": " with them, and went about throughout all the cities of Judah, and taught the people. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And the fear of the LORD fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat.",
       "tokens": [
         {
-          "t": "¶ And the fear of the"
+          "t": "¶ And the fear of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "fell upon all the kingdoms of the lands that"
+          "t": " fell upon all the kingdoms of the lands that "
         },
         {
           "add": "were"
         },
         {
-          "t": "round about Judah, so that they made no war against Jehoshaphat."
+          "t": " round about Judah, so that they made no war against Jehoshaphat. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Also some of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats.",
       "tokens": [
         {
-          "t": "Also"
+          "t": "Also "
         },
         {
           "add": "some"
         },
         {
-          "t": "of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats."
+          "t": " of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store.",
       "tokens": [
         {
-          "t": "¶ And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store."
+          "t": "¶ And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he had much business in the cities of Judah: and the men of war, mighty men of valour, were in Jerusalem.",
       "tokens": [
         {
-          "t": "And he had much business in the cities of Judah: and the men of war, mighty men of valour,"
+          "t": "And he had much business in the cities of Judah: and the men of war, mighty men of valour, "
         },
         {
           "add": "were"
         },
         {
-          "t": "in Jerusalem."
+          "t": " in Jerusalem. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And these are the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand.",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand."
+          "t": " the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And next to him was Jehohanan the captain, and with him two hundred and fourscore thousand.",
       "tokens": [
         {
-          "t": "And next to him"
+          "t": "And next to him "
         },
         {
           "add": "was"
         },
         {
-          "t": "Jehohanan the captain, and with him two hundred and fourscore thousand."
+          "t": " Jehohanan the captain, and with him two hundred and fourscore thousand. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And next him was Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valour.",
       "tokens": [
         {
-          "t": "And next him"
+          "t": "And next him "
         },
         {
           "add": "was"
         },
         {
-          "t": "Amasiah the son of Zichri, who willingly offered himself unto the"
+          "t": " Amasiah the son of Zichri, who willingly offered himself unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and with him two hundred thousand mighty men of valour."
+          "t": "; and with him two hundred thousand mighty men of valour. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand.",
       "tokens": [
         {
-          "t": "And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand."
+          "t": "And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And next him was Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war.",
       "tokens": [
         {
-          "t": "And next him"
+          "t": "And next him "
         },
         {
           "add": "was"
         },
         {
-          "t": "Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war."
+          "t": " Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "These waited on the king, beside those whom the king put in the fenced cities throughout all Judah.",
       "tokens": [
         {
-          "t": "These waited on the king, beside"
+          "t": "These waited on the king, beside "
         },
         {
           "add": "those"
         },
         {
-          "t": "whom the king put in the fenced cities throughout all Judah."
+          "t": " whom the king put in the fenced cities throughout all Judah. "
         }
       ]
     }

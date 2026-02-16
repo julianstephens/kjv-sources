@@ -7,346 +7,370 @@
   "verses": [
     {
       "v": 1,
+      "plain": "O LORD, thou hast searched me, and known me.",
       "tokens": [
         {
-          "t": "O"
+          "t": "O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", thou hast searched me, and known"
+          "t": ", thou hast searched me, and known "
         },
         {
           "add": "me"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
       "tokens": [
         {
-          "t": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off."
+          "t": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Thou compassest my path and my lying down, and art acquainted with all my ways.",
       "tokens": [
         {
-          "t": "Thou compassest my path and my lying down, and art acquainted"
+          "t": "Thou compassest my path and my lying down, and art acquainted "
         },
         {
           "add": "with"
         },
         {
-          "t": "all my ways."
+          "t": " all my ways. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.",
       "tokens": [
         {
-          "t": "For"
+          "t": "For "
         },
         {
           "add": "there is"
         },
         {
-          "t": "not a word in my tongue,"
+          "t": " not a word in my tongue, "
         },
         {
           "add": "but"
         },
         {
-          "t": ", lo, O"
+          "t": ", lo, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", thou knowest it altogether."
+          "t": ", thou knowest it altogether. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Thou hast beset me behind and before, and laid thine hand upon me.",
       "tokens": [
         {
-          "t": "Thou hast beset me behind and before, and laid thine hand upon me."
+          "t": "Thou hast beset me behind and before, and laid thine hand upon me. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Such knowledge is too wonderful for me; it is high, I cannot attain unto it.",
       "tokens": [
         {
           "add": "Such"
         },
         {
-          "t": "knowledge"
+          "t": " knowledge "
         },
         {
           "add": "is"
         },
         {
-          "t": "too wonderful for me; it is high, I cannot"
+          "t": " too wonderful for me; it is high, I cannot "
         },
         {
           "add": "attain"
         },
         {
-          "t": "unto it."
+          "t": " unto it. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
       "tokens": [
         {
-          "t": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?"
+          "t": "Whither shall I go from thy spirit? or whither shall I flee from thy presence? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.",
       "tokens": [
         {
-          "t": "If I ascend up into heaven, thou"
+          "t": "If I ascend up into heaven, thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "there: if I make my bed in hell, behold, thou"
+          "t": " there: if I make my bed in hell, behold, thou "
         },
         {
           "add": "art there"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "If I take the wings of the morning, and dwell in the uttermost parts of the sea;",
       "tokens": [
         {
           "add": "If"
         },
         {
-          "t": "I take the wings of the morning,"
+          "t": " I take the wings of the morning, "
         },
         {
           "add": "and"
         },
         {
-          "t": "dwell in the uttermost parts of the sea;"
+          "t": " dwell in the uttermost parts of the sea; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Even there shall thy hand lead me, and thy right hand shall hold me.",
       "tokens": [
         {
-          "t": "Even there shall thy hand lead me, and thy right hand shall hold me."
+          "t": "Even there shall thy hand lead me, and thy right hand shall hold me. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
       "tokens": [
         {
-          "t": "If I say, Surely the darkness shall cover me; even the night shall be light about me."
+          "t": "If I say, Surely the darkness shall cover me; even the night shall be light about me. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.",
       "tokens": [
         {
-          "t": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light"
+          "t": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light "
         },
         {
           "add": "are"
         },
         {
-          "t": "both alike"
+          "t": " both alike "
         },
         {
           "add": "to thee"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "For thou hast possessed my reins: thou hast covered me in my mother’s womb.",
       "tokens": [
         {
-          "t": "For thou hast possessed my reins: thou hast covered me in my mother’s womb."
+          "t": "For thou hast possessed my reins: thou hast covered me in my mother’s womb. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
       "tokens": [
         {
-          "t": "I will praise thee; for I am fearfully"
+          "t": "I will praise thee; for I am fearfully "
         },
         {
           "add": "and"
         },
         {
-          "t": "wonderfully made: marvellous"
+          "t": " wonderfully made: marvellous "
         },
         {
           "add": "are"
         },
         {
-          "t": "thy works; and"
+          "t": " thy works; and "
         },
         {
           "add": "that"
         },
         {
-          "t": "my soul knoweth right well."
+          "t": " my soul knoweth right well. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.",
       "tokens": [
         {
-          "t": "My substance was not hid from thee, when I was made in secret,"
+          "t": "My substance was not hid from thee, when I was made in secret, "
         },
         {
           "add": "and"
         },
         {
-          "t": "curiously wrought in the lowest parts of the earth."
+          "t": " curiously wrought in the lowest parts of the earth. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.",
       "tokens": [
         {
-          "t": "Thine eyes did see my substance, yet being unperfect; and in thy book all"
+          "t": "Thine eyes did see my substance, yet being unperfect; and in thy book all "
         },
         {
           "add": "my members"
         },
         {
-          "t": "were written,"
+          "t": " were written, "
         },
         {
           "add": "which"
         },
         {
-          "t": "in continuance were fashioned, when"
+          "t": " in continuance were fashioned, when "
         },
         {
           "add": "as yet there was"
         },
         {
-          "t": "none of them."
+          "t": " none of them. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "How precious also are thy thoughts unto me, O God! how great is the sum of them!",
       "tokens": [
         {
-          "t": "How precious also are thy thoughts unto me, O God! how great is the sum of them!"
+          "t": "How precious also are thy thoughts unto me, O God! how great is the sum of them! "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "If I should count them, they are more in number than the sand: when I awake, I am still with thee.",
       "tokens": [
         {
           "add": "If"
         },
         {
-          "t": "I should count them, they are more in number than the sand: when I awake, I am still with thee."
+          "t": " I should count them, they are more in number than the sand: when I awake, I am still with thee. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
       "tokens": [
         {
-          "t": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men."
+          "t": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "For they speak against thee wickedly, and thine enemies take thy name in vain.",
       "tokens": [
         {
-          "t": "For they speak against thee wickedly,"
+          "t": "For they speak against thee wickedly, "
         },
         {
           "add": "and"
         },
         {
-          "t": "thine enemies take"
+          "t": " thine enemies take "
         },
         {
           "add": "thy name"
         },
         {
-          "t": "in vain."
+          "t": " in vain. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?",
       "tokens": [
         {
-          "t": "Do not I hate them, O"
+          "t": "Do not I hate them, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that hate thee? and am not I grieved with those that rise up against thee?"
+          "t": ", that hate thee? and am not I grieved with those that rise up against thee? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "I hate them with perfect hatred: I count them mine enemies.",
       "tokens": [
         {
-          "t": "I hate them with perfect hatred: I count them mine enemies."
+          "t": "I hate them with perfect hatred: I count them mine enemies. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Search me, O God, and know my heart: try me, and know my thoughts:",
       "tokens": [
         {
-          "t": "Search me, O God, and know my heart: try me, and know my thoughts:"
+          "t": "Search me, O God, and know my heart: try me, and know my thoughts: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And see if there be any wicked way in me, and lead me in the way everlasting.",
       "tokens": [
         {
-          "t": "And see if"
+          "t": "And see if "
         },
         {
           "add": "there be any"
         },
         {
-          "t": "wicked way in me, and lead me in the way everlasting."
+          "t": " wicked way in me, and lead me in the way everlasting. "
         }
       ]
     }

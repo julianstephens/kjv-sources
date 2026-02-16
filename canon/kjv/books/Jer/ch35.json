@@ -7,243 +7,262 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying,",
       "tokens": [
         {
-          "t": "The word which came unto Jeremiah from the"
+          "t": "The word which came unto Jeremiah from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in the days of Jehoiakim the son of Josiah king of Judah, saying,"
+          "t": " in the days of Jehoiakim the son of Josiah king of Judah, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Go unto the house of the Rechabites, and speak unto them, and bring them into the house of the LORD, into one of the chambers, and give them wine to drink.",
       "tokens": [
         {
-          "t": "Go unto the house of the Rechabites, and speak unto them, and bring them into the house of the"
+          "t": "Go unto the house of the Rechabites, and speak unto them, and bring them into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", into one of the chambers, and give them wine to drink."
+          "t": ", into one of the chambers, and give them wine to drink. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Then I took Jaazaniah the son of Jeremiah, the son of Habaziniah, and his brethren, and all his sons, and the whole house of the Rechabites;",
       "tokens": [
         {
-          "t": "Then I took Jaazaniah the son of Jeremiah, the son of Habaziniah, and his brethren, and all his sons, and the whole house of the Rechabites;"
+          "t": "Then I took Jaazaniah the son of Jeremiah, the son of Habaziniah, and his brethren, and all his sons, and the whole house of the Rechabites; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And I brought them into the house of the LORD, into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which was by the chamber of the princes, which was above the chamber of Maaseiah the son of Shallum, the keeper of the door:",
       "tokens": [
         {
-          "t": "And I brought them into the house of the"
+          "t": "And I brought them into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which"
+          "t": ", into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which "
         },
         {
           "add": "was"
         },
         {
-          "t": "by the chamber of the princes, which"
+          "t": " by the chamber of the princes, which "
         },
         {
           "add": "was"
         },
         {
-          "t": "above the chamber of Maaseiah the son of Shallum, the keeper of the door:"
+          "t": " above the chamber of Maaseiah the son of Shallum, the keeper of the door: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine.",
       "tokens": [
         {
-          "t": "And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine."
+          "t": "And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever:",
       "tokens": [
         {
-          "t": "But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine,"
+          "t": "But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, "
         },
         {
           "add": "neither ye"
         },
         {
-          "t": ", nor your sons for ever:"
+          "t": ", nor your sons for ever: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Neither shall ye build house, nor sow seed, nor plant vineyard, nor have any: but all your days ye shall dwell in tents; that ye may live many days in the land where ye be strangers.",
       "tokens": [
         {
-          "t": "Neither shall ye build house, nor sow seed, nor plant vineyard, nor have"
+          "t": "Neither shall ye build house, nor sow seed, nor plant vineyard, nor have "
         },
         {
           "add": "any:"
         },
         {
-          "t": "but all your days ye shall dwell in tents; that ye may live many days in the land where ye"
+          "t": " but all your days ye shall dwell in tents; that ye may live many days in the land where ye "
         },
         {
           "add": "be"
         },
         {
-          "t": "strangers."
+          "t": " strangers. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters;",
       "tokens": [
         {
-          "t": "Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters;"
+          "t": "Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Nor to build houses for us to dwell in: neither have we vineyard, nor field, nor seed:",
       "tokens": [
         {
-          "t": "Nor to build houses for us to dwell in: neither have we vineyard, nor field, nor seed:"
+          "t": "Nor to build houses for us to dwell in: neither have we vineyard, nor field, nor seed: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "But we have dwelt in tents, and have obeyed, and done according to all that Jonadab our father commanded us.",
       "tokens": [
         {
-          "t": "But we have dwelt in tents, and have obeyed, and done according to all that Jonadab our father commanded us."
+          "t": "But we have dwelt in tents, and have obeyed, and done according to all that Jonadab our father commanded us. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "But it came to pass, when Nebuchadrezzar king of Babylon came up into the land, that we said, Come, and let us go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians: so we dwell at Jerusalem.",
       "tokens": [
         {
-          "t": "But it came to pass, when Nebuchadrezzar king of Babylon came up into the land, that we said, Come, and let us go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians: so we dwell at Jerusalem."
+          "t": "But it came to pass, when Nebuchadrezzar king of Babylon came up into the land, that we said, Come, and let us go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians: so we dwell at Jerusalem. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Then came the word of the LORD unto Jeremiah, saying,",
       "tokens": [
         {
-          "t": "¶ Then came the word of the"
+          "t": "¶ Then came the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto Jeremiah, saying,"
+          "t": " unto Jeremiah, saying, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thus saith the LORD of hosts, the God of Israel; Go and tell the men of Judah and the inhabitants of Jerusalem, Will ye not receive instruction to hearken to my words? saith the LORD.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel; Go and tell the men of Judah and the inhabitants of Jerusalem, Will ye not receive instruction to hearken to my words? saith the"
+          "t": " of hosts, the God of Israel; Go and tell the men of Judah and the inhabitants of Jerusalem, Will ye not receive instruction to hearken to my words? saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The words of Jonadab the son of Rechab, that he commanded his sons not to drink wine, are performed; for unto this day they drink none, but obey their father’s commandment: notwithstanding I have spoken unto you, rising early and speaking; but ye hearkened not unto me.",
       "tokens": [
         {
-          "t": "The words of Jonadab the son of Rechab, that he commanded his sons not to drink wine, are performed; for unto this day they drink none, but obey their father’s commandment: notwithstanding I have spoken unto you, rising early and speaking; but ye hearkened not unto me."
+          "t": "The words of Jonadab the son of Rechab, that he commanded his sons not to drink wine, are performed; for unto this day they drink none, but obey their father’s commandment: notwithstanding I have spoken unto you, rising early and speaking; but ye hearkened not unto me. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "I have sent also unto you all my servants the prophets, rising up early and sending them, saying, Return ye now every man from his evil way, and amend your doings, and go not after other gods to serve them, and ye shall dwell in the land which I have given to you and to your fathers: but ye have not inclined your ear, nor hearkened unto me.",
       "tokens": [
         {
-          "t": "I have sent also unto you all my servants the prophets, rising up early and sending"
+          "t": "I have sent also unto you all my servants the prophets, rising up early and sending "
         },
         {
           "add": "them"
         },
         {
-          "t": ", saying, Return ye now every man from his evil way, and amend your doings, and go not after other gods to serve them, and ye shall dwell in the land which I have given to you and to your fathers: but ye have not inclined your ear, nor hearkened unto me."
+          "t": ", saying, Return ye now every man from his evil way, and amend your doings, and go not after other gods to serve them, and ye shall dwell in the land which I have given to you and to your fathers: but ye have not inclined your ear, nor hearkened unto me. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Because the sons of Jonadab the son of Rechab have performed the commandment of their father, which he commanded them; but this people hath not hearkened unto me:",
       "tokens": [
         {
-          "t": "Because the sons of Jonadab the son of Rechab have performed the commandment of their father, which he commanded them; but this people hath not hearkened unto me:"
+          "t": "Because the sons of Jonadab the son of Rechab have performed the commandment of their father, which he commanded them; but this people hath not hearkened unto me: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Therefore thus saith the LORD God of hosts, the God of Israel; Behold, I will bring upon Judah and upon all the inhabitants of Jerusalem all the evil that I have pronounced against them: because I have spoken unto them, but they have not heard; and I have called unto them, but they have not answered.",
       "tokens": [
         {
-          "t": "Therefore thus saith the"
+          "t": "Therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of hosts, the God of Israel; Behold, I will bring upon Judah and upon all the inhabitants of Jerusalem all the evil that I have pronounced against them: because I have spoken unto them, but they have not heard; and I have called unto them, but they have not answered."
+          "t": " God of hosts, the God of Israel; Behold, I will bring upon Judah and upon all the inhabitants of Jerusalem all the evil that I have pronounced against them: because I have spoken unto them, but they have not heard; and I have called unto them, but they have not answered. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And Jeremiah said unto the house of the Rechabites, Thus saith the LORD of hosts, the God of Israel; Because ye have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according unto all that he hath commanded you:",
       "tokens": [
         {
-          "t": "¶ And Jeremiah said unto the house of the Rechabites, Thus saith the"
+          "t": "¶ And Jeremiah said unto the house of the Rechabites, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel; Because ye have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according unto all that he hath commanded you:"
+          "t": " of hosts, the God of Israel; Because ye have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according unto all that he hath commanded you: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Therefore thus saith the LORD of hosts, the God of Israel; Jonadab the son of Rechab shall not want a man to stand before me for ever.",
       "tokens": [
         {
-          "t": "Therefore thus saith the"
+          "t": "Therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel; Jonadab the son of Rechab shall not want a man to stand before me for ever."
+          "t": " of hosts, the God of Israel; Jonadab the son of Rechab shall not want a man to stand before me for ever. "
         }
       ]
     }

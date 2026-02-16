@@ -7,581 +7,637 @@
   "verses": [
     {
       "v": 1,
+      "plain": "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron."
+          "t": " the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out.",
       "tokens": [
         {
-          "t": "And Moses wrote their goings out according to their journeys by the commandment of the"
+          "t": "And Moses wrote their goings out according to their journeys by the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and these"
+          "t": ": and these "
         },
         {
           "add": "are"
         },
         {
-          "t": "their journeys according to their goings out."
+          "t": " their journeys according to their goings out. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.",
       "tokens": [
         {
-          "t": "And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians."
+          "t": "And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For the Egyptians buried all their firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments.",
       "tokens": [
         {
-          "t": "For the Egyptians buried all"
+          "t": "For the Egyptians buried all "
         },
         {
           "add": "their"
         },
         {
-          "t": "firstborn, which the"
+          "t": " firstborn, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had smitten among them: upon their gods also the"
+          "t": " had smitten among them: upon their gods also the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "executed judgments."
+          "t": " executed judgments. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the children of Israel removed from Rameses, and pitched in Succoth.",
       "tokens": [
         {
-          "t": "And the children of Israel removed from Rameses, and pitched in Succoth."
+          "t": "And the children of Israel removed from Rameses, and pitched in Succoth. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness.",
       "tokens": [
         {
-          "t": "And they departed from Succoth, and pitched in Etham, which"
+          "t": "And they departed from Succoth, and pitched in Etham, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the edge of the wilderness."
+          "t": " in the edge of the wilderness. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And they removed from Etham, and turned again unto Pi-hahiroth, which is before Baal-zephon: and they pitched before Migdol.",
       "tokens": [
         {
-          "t": "And they removed from Etham, and turned again unto Pi-hahiroth, which"
+          "t": "And they removed from Etham, and turned again unto Pi-hahiroth, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "before Baal-zephon: and they pitched before Migdol."
+          "t": " before Baal-zephon: and they pitched before Migdol. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And they departed from before Pi-hahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah.",
       "tokens": [
         {
-          "t": "And they departed from before Pi-hahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah."
+          "t": "And they departed from before Pi-hahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.",
       "tokens": [
         {
-          "t": "And they removed from Marah, and came unto Elim: and in Elim"
+          "t": "And they removed from Marah, and came unto Elim: and in Elim "
         },
         {
           "add": "were"
         },
         {
-          "t": "twelve fountains of water, and threescore and ten palm trees; and they pitched there."
+          "t": " twelve fountains of water, and threescore and ten palm trees; and they pitched there. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And they removed from Elim, and encamped by the Red sea.",
       "tokens": [
         {
-          "t": "And they removed from Elim, and encamped by the Red sea."
+          "t": "And they removed from Elim, and encamped by the Red sea. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And they removed from the Red sea, and encamped in the wilderness of Sin.",
       "tokens": [
         {
-          "t": "And they removed from the Red sea, and encamped in the wilderness of Sin."
+          "t": "And they removed from the Red sea, and encamped in the wilderness of Sin. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And they took their journey out of the wilderness of Sin, and encamped in Dophkah.",
       "tokens": [
         {
-          "t": "And they took their journey out of the wilderness of Sin, and encamped in Dophkah."
+          "t": "And they took their journey out of the wilderness of Sin, and encamped in Dophkah. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And they departed from Dophkah, and encamped in Alush.",
       "tokens": [
         {
-          "t": "And they departed from Dophkah, and encamped in Alush."
+          "t": "And they departed from Dophkah, and encamped in Alush. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.",
       "tokens": [
         {
-          "t": "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink."
+          "t": "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And they departed from Rephidim, and pitched in the wilderness of Sinai.",
       "tokens": [
         {
-          "t": "And they departed from Rephidim, and pitched in the wilderness of Sinai."
+          "t": "And they departed from Rephidim, and pitched in the wilderness of Sinai. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And they removed from the desert of Sinai, and pitched at Kibroth-hattaavah.",
       "tokens": [
         {
-          "t": "And they removed from the desert of Sinai, and pitched at Kibroth-hattaavah."
+          "t": "And they removed from the desert of Sinai, and pitched at Kibroth-hattaavah. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And they departed from Kibroth-hattaavah, and encamped at Hazeroth.",
       "tokens": [
         {
-          "t": "And they departed from Kibroth-hattaavah, and encamped at Hazeroth."
+          "t": "And they departed from Kibroth-hattaavah, and encamped at Hazeroth. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And they departed from Hazeroth, and pitched in Rithmah.",
       "tokens": [
         {
-          "t": "And they departed from Hazeroth, and pitched in Rithmah."
+          "t": "And they departed from Hazeroth, and pitched in Rithmah. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And they departed from Rithmah, and pitched at Rimmon-parez.",
       "tokens": [
         {
-          "t": "And they departed from Rithmah, and pitched at Rimmon-parez."
+          "t": "And they departed from Rithmah, and pitched at Rimmon-parez. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And they departed from Rimmon-parez, and pitched in Libnah.",
       "tokens": [
         {
-          "t": "And they departed from Rimmon-parez, and pitched in Libnah."
+          "t": "And they departed from Rimmon-parez, and pitched in Libnah. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And they removed from Libnah, and pitched at Rissah.",
       "tokens": [
         {
-          "t": "And they removed from Libnah, and pitched at Rissah."
+          "t": "And they removed from Libnah, and pitched at Rissah. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And they journeyed from Rissah, and pitched in Kehelathah.",
       "tokens": [
         {
-          "t": "And they journeyed from Rissah, and pitched in Kehelathah."
+          "t": "And they journeyed from Rissah, and pitched in Kehelathah. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And they went from Kehelathah, and pitched in mount Shapher.",
       "tokens": [
         {
-          "t": "And they went from Kehelathah, and pitched in mount Shapher."
+          "t": "And they went from Kehelathah, and pitched in mount Shapher. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And they removed from mount Shapher, and encamped in Haradah.",
       "tokens": [
         {
-          "t": "And they removed from mount Shapher, and encamped in Haradah."
+          "t": "And they removed from mount Shapher, and encamped in Haradah. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And they removed from Haradah, and pitched in Makheloth.",
       "tokens": [
         {
-          "t": "And they removed from Haradah, and pitched in Makheloth."
+          "t": "And they removed from Haradah, and pitched in Makheloth. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And they removed from Makheloth, and encamped at Tahath.",
       "tokens": [
         {
-          "t": "And they removed from Makheloth, and encamped at Tahath."
+          "t": "And they removed from Makheloth, and encamped at Tahath. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And they departed from Tahath, and pitched at Tarah.",
       "tokens": [
         {
-          "t": "And they departed from Tahath, and pitched at Tarah."
+          "t": "And they departed from Tahath, and pitched at Tarah. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And they removed from Tarah, and pitched in Mithcah.",
       "tokens": [
         {
-          "t": "And they removed from Tarah, and pitched in Mithcah."
+          "t": "And they removed from Tarah, and pitched in Mithcah. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And they went from Mithcah, and pitched in Hashmonah.",
       "tokens": [
         {
-          "t": "And they went from Mithcah, and pitched in Hashmonah."
+          "t": "And they went from Mithcah, and pitched in Hashmonah. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And they departed from Hashmonah, and encamped at Moseroth.",
       "tokens": [
         {
-          "t": "And they departed from Hashmonah, and encamped at Moseroth."
+          "t": "And they departed from Hashmonah, and encamped at Moseroth. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And they departed from Moseroth, and pitched in Bene-jaakan.",
       "tokens": [
         {
-          "t": "And they departed from Moseroth, and pitched in Bene-jaakan."
+          "t": "And they departed from Moseroth, and pitched in Bene-jaakan. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And they removed from Bene-jaakan, and encamped at Hor-hagidgad.",
       "tokens": [
         {
-          "t": "And they removed from Bene-jaakan, and encamped at Hor-hagidgad."
+          "t": "And they removed from Bene-jaakan, and encamped at Hor-hagidgad. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And they went from Hor-hagidgad, and pitched in Jotbathah.",
       "tokens": [
         {
-          "t": "And they went from Hor-hagidgad, and pitched in Jotbathah."
+          "t": "And they went from Hor-hagidgad, and pitched in Jotbathah. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And they removed from Jotbathah, and encamped at Ebronah.",
       "tokens": [
         {
-          "t": "And they removed from Jotbathah, and encamped at Ebronah."
+          "t": "And they removed from Jotbathah, and encamped at Ebronah. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And they departed from Ebronah, and encamped at Ezion-gaber.",
       "tokens": [
         {
-          "t": "And they departed from Ebronah, and encamped at Ezion-gaber."
+          "t": "And they departed from Ebronah, and encamped at Ezion-gaber. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And they removed from Ezion-gaber, and pitched in the wilderness of Zin, which is Kadesh.",
       "tokens": [
         {
-          "t": "And they removed from Ezion-gaber, and pitched in the wilderness of Zin, which"
+          "t": "And they removed from Ezion-gaber, and pitched in the wilderness of Zin, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "Kadesh."
+          "t": " Kadesh. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.",
       "tokens": [
         {
-          "t": "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom."
+          "t": "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.",
       "tokens": [
         {
-          "t": "And Aaron the priest went up into mount Hor at the commandment of the"
+          "t": "And Aaron the priest went up into mount Hor at the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first"
+          "t": ", and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the fifth month."
+          "t": " of the fifth month. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And Aaron was an hundred and twenty and three years old when he died in mount Hor.",
       "tokens": [
         {
-          "t": "And Aaron"
+          "t": "And Aaron "
         },
         {
           "add": "was"
         },
         {
-          "t": "an hundred and twenty and three years old when he died in mount Hor."
+          "t": " an hundred and twenty and three years old when he died in mount Hor. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.",
       "tokens": [
         {
-          "t": "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel."
+          "t": "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And they departed from mount Hor, and pitched in Zalmonah.",
       "tokens": [
         {
-          "t": "And they departed from mount Hor, and pitched in Zalmonah."
+          "t": "And they departed from mount Hor, and pitched in Zalmonah. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And they departed from Zalmonah, and pitched in Punon.",
       "tokens": [
         {
-          "t": "And they departed from Zalmonah, and pitched in Punon."
+          "t": "And they departed from Zalmonah, and pitched in Punon. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "And they departed from Punon, and pitched in Oboth.",
       "tokens": [
         {
-          "t": "And they departed from Punon, and pitched in Oboth."
+          "t": "And they departed from Punon, and pitched in Oboth. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And they departed from Oboth, and pitched in Ije-abarim, in the border of Moab.",
       "tokens": [
         {
-          "t": "And they departed from Oboth, and pitched in Ije-abarim, in the border of Moab."
+          "t": "And they departed from Oboth, and pitched in Ije-abarim, in the border of Moab. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "And they departed from Iim, and pitched in Dibon-gad.",
       "tokens": [
         {
-          "t": "And they departed from Iim, and pitched in Dibon-gad."
+          "t": "And they departed from Iim, and pitched in Dibon-gad. "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "And they removed from Dibon-gad, and encamped in Almon-diblathaim.",
       "tokens": [
         {
-          "t": "And they removed from Dibon-gad, and encamped in Almon-diblathaim."
+          "t": "And they removed from Dibon-gad, and encamped in Almon-diblathaim. "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "And they removed from Almon-diblathaim, and pitched in the mountains of Abarim, before Nebo.",
       "tokens": [
         {
-          "t": "And they removed from Almon-diblathaim, and pitched in the mountains of Abarim, before Nebo."
+          "t": "And they removed from Almon-diblathaim, and pitched in the mountains of Abarim, before Nebo. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho.",
       "tokens": [
         {
-          "t": "And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan"
+          "t": "And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan "
         },
         {
           "add": "near"
         },
         {
-          "t": "Jericho."
+          "t": " Jericho. "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "And they pitched by Jordan, from Beth-jesimoth even unto Abel-shittim in the plains of Moab.",
       "tokens": [
         {
-          "t": "And they pitched by Jordan, from Beth-jesimoth"
+          "t": "And they pitched by Jordan, from Beth-jesimoth "
         },
         {
           "add": "even"
         },
         {
-          "t": "unto Abel-shittim in the plains of Moab."
+          "t": " unto Abel-shittim in the plains of Moab. "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "¶ And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses in the plains of Moab by Jordan"
+          "t": " spake unto Moses in the plains of Moab by Jordan "
         },
         {
           "add": "near"
         },
         {
-          "t": "Jericho, saying,"
+          "t": " Jericho, saying, "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;"
+          "t": "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan; "
         }
       ]
     },
     {
       "v": 52,
+      "plain": "Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:",
       "tokens": [
         {
-          "t": "Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:"
+          "t": "Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places: "
         }
       ]
     },
     {
       "v": 53,
+      "plain": "And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it.",
       "tokens": [
         {
-          "t": "And ye shall dispossess"
+          "t": "And ye shall dispossess "
         },
         {
           "add": "the inhabitants"
         },
         {
-          "t": "of the land, and dwell therein: for I have given you the land to possess it."
+          "t": " of the land, and dwell therein: for I have given you the land to possess it. "
         }
       ]
     },
     {
       "v": 54,
+      "plain": "And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.",
       "tokens": [
         {
-          "t": "And ye shall divide the land by lot for an inheritance among your families:"
+          "t": "And ye shall divide the land by lot for an inheritance among your families: "
         },
         {
           "add": "and"
         },
         {
-          "t": "to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s"
+          "t": " to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s "
         },
         {
           "add": "inheritance"
         },
         {
-          "t": "shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit."
+          "t": " shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit. "
         }
       ]
     },
     {
       "v": 55,
+      "plain": "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.",
       "tokens": [
         {
-          "t": "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them"
+          "t": "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell."
+          "t": " pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell. "
         }
       ]
     },
     {
       "v": 56,
+      "plain": "Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them.",
       "tokens": [
         {
-          "t": "Moreover it shall come to pass,"
+          "t": "Moreover it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "I shall do unto you, as I thought to do unto them."
+          "t": " I shall do unto you, as I thought to do unto them. "
         }
       ]
     }

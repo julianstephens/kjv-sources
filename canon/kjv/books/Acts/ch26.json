@@ -7,299 +7,394 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:",
       "tokens": [
         {
-          "t": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:"
+          "t": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:",
       "tokens": [
         {
-          "t": "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:"
+          "t": "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.",
       "tokens": [
         {
-          "t": "Especially"
+          "t": "Especially "
         },
         {
           "add": "because I know"
         },
         {
-          "t": "thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently."
+          "t": " thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;",
       "tokens": [
         {
-          "t": "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;"
+          "t": "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.",
       "tokens": [
         {
-          "t": "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee."
+          "t": "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And now I stand and am judged for the hope of the promise made of God unto our fathers:",
       "tokens": [
         {
-          "t": "And now I stand and am judged for the hope of the promise made of God unto our fathers:"
+          "t": "And now I stand and am judged for the hope of the promise made of God unto our fathers: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews.",
       "tokens": [
         {
-          "t": "Unto which"
+          "t": "Unto which "
         },
         {
           "add": "promise"
         },
         {
-          "t": "our twelve tribes, instantly serving"
+          "t": " our twelve tribes, instantly serving "
         },
         {
           "add": "God"
         },
         {
-          "t": "day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews."
+          "t": " day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Why should it be thought a thing incredible with you, that God should raise the dead?",
       "tokens": [
         {
-          "t": "Why should it be thought a thing incredible with you, that God should raise the dead?"
+          "t": "Why should it be thought a thing incredible with you, that God should raise the dead? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.",
       "tokens": [
         {
-          "t": "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth."
+          "t": "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them.",
       "tokens": [
         {
-          "t": "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against"
+          "t": "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities.",
       "tokens": [
         {
-          "t": "And I punished them oft in every synagogue, and compelled"
+          "t": "And I punished them oft in every synagogue, and compelled "
         },
         {
           "add": "them"
         },
         {
-          "t": "to blaspheme; and being exceedingly mad against them, I persecuted"
+          "t": " to blaspheme; and being exceedingly mad against them, I persecuted "
         },
         {
           "add": "them"
         },
         {
-          "t": "even unto strange cities."
+          "t": " even unto strange cities. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Whereupon as I went to Damascus with authority and commission from the chief priests,",
       "tokens": [
         {
-          "t": "Whereupon as I went to Damascus with authority and commission from the chief priests,"
+          "t": "Whereupon as I went to Damascus with authority and commission from the chief priests, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.",
       "tokens": [
         {
-          "t": "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me."
+          "t": "At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks.",
       "tokens": [
         {
-          "t": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue,"
+          "t": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, "
+        },
+        {
+          "t": "Saul, Saul, why persecutest thou me? "
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": " hard for thee to kick against the pricks."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest.",
       "tokens": [
         {
-          "t": "And I said, Who art thou, Lord? And he said,"
+          "t": "And I said, Who art thou, Lord? And he said, "
+        },
+        {
+          "t": "I am Jesus whom thou persecutest."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;",
+      "tokens": [
+        {
+          "t": "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "Delivering thee from the people, and from the Gentiles, unto whom now I send thee,",
+      "tokens": [
+        {
+          "t": "Delivering thee from the people, and "
+        },
+        {
+          "add": "from"
+        },
+        {
+          "t": " the Gentiles, unto whom now I send thee,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.",
+      "tokens": [
+        {
+          "t": "To open their eyes, "
+        },
+        {
+          "add": " and"
+        },
+        {
+          "t": " to turn "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " from darkness to light, and "
+        },
+        {
+          "add": "from"
+        },
+        {
+          "t": " the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
+      "plain": "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:",
       "tokens": [
         {
-          "t": "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision:"
+          "t": "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judæa, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance.",
       "tokens": [
         {
-          "t": "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judæa, and"
+          "t": "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judæa, and "
         },
         {
           "add": "then"
         },
         {
-          "t": "to the Gentiles, that they should repent and turn to God, and do works meet for repentance."
+          "t": " to the Gentiles, that they should repent and turn to God, and do works meet for repentance. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For these causes the Jews caught me in the temple, and went about to kill me.",
       "tokens": [
         {
-          "t": "For these causes the Jews caught me in the temple, and went about to kill"
+          "t": "For these causes the Jews caught me in the temple, and went about to kill "
         },
         {
           "add": "me"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:",
       "tokens": [
         {
-          "t": "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:"
+          "t": "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.",
       "tokens": [
         {
-          "t": "That Christ should suffer,"
+          "t": "That Christ should suffer, "
         },
         {
           "add": "and"
         },
         {
-          "t": "that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles."
+          "t": " that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.",
       "tokens": [
         {
-          "t": "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad."
+          "t": "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.",
       "tokens": [
         {
-          "t": "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness."
+          "t": "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.",
       "tokens": [
         {
-          "t": "For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner."
+          "t": "For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "King Agrippa, believest thou the prophets? I know that thou believest.",
       "tokens": [
         {
-          "t": "King Agrippa, believest thou the prophets? I know that thou believest."
+          "t": "King Agrippa, believest thou the prophets? I know that thou believest. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.",
       "tokens": [
         {
-          "t": "Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian."
+          "t": "Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds.",
       "tokens": [
         {
-          "t": "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds."
+          "t": "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:",
       "tokens": [
         {
-          "t": "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:"
+          "t": "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them: "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.",
       "tokens": [
         {
-          "t": "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds."
+          "t": "And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Cæsar.",
       "tokens": [
         {
-          "t": "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Cæsar."
+          "t": "Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Cæsar. "
         }
       ]
     }

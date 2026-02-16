@@ -1,0 +1,300 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 7,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " my God, in thee do I put my trust: save me from all them that persecute me, and deliver me: "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.",
+      "tokens": [
+        {
+          "t": "Lest he tear my soul like a lion, rending "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " in pieces, while "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " none to deliver. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "O LORD my God, if I have done this; if there be iniquity in my hands;",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " my God, if I have done this; if there be iniquity in my hands; "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)",
+      "tokens": [
+        {
+          "t": "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:) "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Let the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.",
+      "tokens": [
+        {
+          "t": "Let the enemy persecute my soul, and take "
+        },
+        {
+          "add": "it;"
+        },
+        {
+          "t": " yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.",
+      "tokens": [
+        {
+          "t": "Arise, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", in thine anger, lift up thyself because of the rage of mine enemies: and awake for me "
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": " the judgment "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " thou hast commanded. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "So shall the congregation of the people compass thee about: for their sakes therefore return thou on high.",
+      "tokens": [
+        {
+          "t": "So shall the congregation of the people compass thee about: for their sakes therefore return thou on high. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " shall judge the people: judge me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", according to my righteousness, and according to mine integrity "
+        },
+        {
+          "add": "that is"
+        },
+        {
+          "t": " in me. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.",
+      "tokens": [
+        {
+          "t": "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "My defence is of God, which saveth the upright in heart.",
+      "tokens": [
+        {
+          "t": "My defence "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " of God, which saveth the upright in heart. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "God judgeth the righteous, and God is angry with the wicked every day.",
+      "tokens": [
+        {
+          "t": "God judgeth the righteous, and God is angry "
+        },
+        {
+          "add": "with the wicked"
+        },
+        {
+          "t": " every day. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "If he turn not, he will whet his sword; he hath bent his bow, and made it ready.",
+      "tokens": [
+        {
+          "t": "If he turn not, he will whet his sword; he hath bent his bow, and made it ready. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.",
+      "tokens": [
+        {
+          "t": "He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.",
+      "tokens": [
+        {
+          "t": "Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "He made a pit, and digged it, and is fallen into the ditch which he made.",
+      "tokens": [
+        {
+          "t": "He made a pit, and digged it, and is fallen into the ditch "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " he made. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.",
+      "tokens": [
+        {
+          "t": "His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.",
+      "tokens": [
+        {
+          "t": "I will praise the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " according to his righteousness: and will sing praise to the name of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " most high. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "words: or, business"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "none…: Heb. not a deliverer"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 10
+      },
+      "text": "My…: Heb. My buckler is upon God"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 11
+      },
+      "text": "judgeth…: or, is a righteous judge"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 15
+      },
+      "text": "He made a pit: Heb. He hath digged a pit"
+    }
+  ]
+}

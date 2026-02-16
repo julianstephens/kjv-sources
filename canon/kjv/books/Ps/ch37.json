@@ -1,0 +1,682 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 37,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.",
+      "tokens": [
+        {
+          "t": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "For they shall soon be cut down like the grass, and wither as the green herb.",
+      "tokens": [
+        {
+          "t": "For they shall soon be cut down like the grass, and wither as the green herb. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Trust in the LORD, and do good; so shalt thou dwell in the land, and verily thou shalt be fed.",
+      "tokens": [
+        {
+          "t": "Trust in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and do good; "
+        },
+        {
+          "add": "so"
+        },
+        {
+          "t": " shalt thou dwell in the land, and verily thou shalt be fed. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Delight thyself also in the LORD; and he shall give thee the desires of thine heart.",
+      "tokens": [
+        {
+          "t": "Delight thyself also in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; and he shall give thee the desires of thine heart. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass.",
+      "tokens": [
+        {
+          "t": "Commit thy way unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; trust also in him; and he shall bring "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " to pass. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday.",
+      "tokens": [
+        {
+          "t": "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
+      "tokens": [
+        {
+          "t": "Rest in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.",
+      "tokens": [
+        {
+          "t": "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "For evildoers shall be cut off: but those that wait upon the LORD, they shall inherit the earth.",
+      "tokens": [
+        {
+          "t": "For evildoers shall be cut off: but those that wait upon the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", they shall inherit the earth. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be.",
+      "tokens": [
+        {
+          "t": "For yet a little while, and the wicked "
+        },
+        {
+          "add": "shall"
+        },
+        {
+          "t": " not "
+        },
+        {
+          "add": "be:"
+        },
+        {
+          "t": " yea, thou shalt diligently consider his place, and it "
+        },
+        {
+          "add": "shall"
+        },
+        {
+          "t": " not "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.",
+      "tokens": [
+        {
+          "t": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "The wicked plotteth against the just, and gnasheth upon him with his teeth.",
+      "tokens": [
+        {
+          "t": "The wicked plotteth against the just, and gnasheth upon him with his teeth. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "The Lord shall laugh at him: for he seeth that his day is coming.",
+      "tokens": [
+        {
+          "t": "The Lord shall laugh at him: for he seeth that his day is coming. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation.",
+      "tokens": [
+        {
+          "t": "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " to slay such as be of upright conversation. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Their sword shall enter into their own heart, and their bows shall be broken.",
+      "tokens": [
+        {
+          "t": "Their sword shall enter into their own heart, and their bows shall be broken. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "A little that a righteous man hath is better than the riches of many wicked.",
+      "tokens": [
+        {
+          "t": "A little that a righteous man hath "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " better than the riches of many wicked. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "For the arms of the wicked shall be broken: but the LORD upholdeth the righteous.",
+      "tokens": [
+        {
+          "t": "For the arms of the wicked shall be broken: but the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " upholdeth the righteous. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "The LORD knoweth the days of the upright: and their inheritance shall be for ever.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " knoweth the days of the upright: and their inheritance shall be for ever. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied.",
+      "tokens": [
+        {
+          "t": "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away.",
+      "tokens": [
+        {
+          "t": "But the wicked shall perish, and the enemies of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": " as the fat of lambs: they shall consume; into smoke shall they consume away. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.",
+      "tokens": [
+        {
+          "t": "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off.",
+      "tokens": [
+        {
+          "t": "For "
+        },
+        {
+          "add": "such as be"
+        },
+        {
+          "t": " blessed of him shall inherit the earth; and "
+        },
+        {
+          "add": "they that be"
+        },
+        {
+          "t": " cursed of him shall be cut off. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "The steps of a good man are ordered by the LORD: and he delighteth in his way.",
+      "tokens": [
+        {
+          "t": "The steps of a "
+        },
+        {
+          "add": "good"
+        },
+        {
+          "t": " man are ordered by the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": and he delighteth in his way. "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand.",
+      "tokens": [
+        {
+          "t": "Though he fall, he shall not be utterly cast down: for the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " upholdeth "
+        },
+        {
+          "add": "him with"
+        },
+        {
+          "t": " his hand. "
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "plain": "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.",
+      "tokens": [
+        {
+          "t": "I have been young, and "
+        },
+        {
+          "add": "now"
+        },
+        {
+          "t": " am old; yet have I not seen the righteous forsaken, nor his seed begging bread. "
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "plain": "He is ever merciful, and lendeth; and his seed is blessed.",
+      "tokens": [
+        {
+          "add": "He is"
+        },
+        {
+          "t": " ever merciful, and lendeth; and his seed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " blessed. "
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "plain": "Depart from evil, and do good; and dwell for evermore.",
+      "tokens": [
+        {
+          "t": "Depart from evil, and do good; and dwell for evermore. "
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "plain": "For the LORD loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
+      "tokens": [
+        {
+          "t": "For the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off. "
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "plain": "The righteous shall inherit the land, and dwell therein for ever.",
+      "tokens": [
+        {
+          "t": "The righteous shall inherit the land, and dwell therein for ever. "
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "plain": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.",
+      "tokens": [
+        {
+          "t": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment. "
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "plain": "The law of his God is in his heart; none of his steps shall slide.",
+      "tokens": [
+        {
+          "t": "The law of his God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in his heart; none of his steps shall slide. "
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "plain": "The wicked watcheth the righteous, and seeketh to slay him.",
+      "tokens": [
+        {
+          "t": "The wicked watcheth the righteous, and seeketh to slay him. "
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "plain": "The LORD will not leave him in his hand, nor condemn him when he is judged.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will not leave him in his hand, nor condemn him when he is judged. "
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "plain": "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it.",
+      "tokens": [
+        {
+          "t": "Wait on the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "plain": "I have seen the wicked in great power, and spreading himself like a green bay tree.",
+      "tokens": [
+        {
+          "t": "I have seen the wicked in great power, and spreading himself like a green bay tree. "
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "plain": "Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found.",
+      "tokens": [
+        {
+          "t": "Yet he passed away, and, lo, he "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " not: yea, I sought him, but he could not be found. "
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "plain": "Mark the perfect man, and behold the upright: for the end of that man is peace.",
+      "tokens": [
+        {
+          "t": "Mark the perfect "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": ", and behold the upright: for the end of "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " man "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " peace. "
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "plain": "But the transgressors shall be destroyed together: the end of the wicked shall be cut off.",
+      "tokens": [
+        {
+          "t": "But the transgressors shall be destroyed together: the end of the wicked shall be cut off. "
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "plain": "But the salvation of the righteous is of the LORD: he is their strength in the time of trouble.",
+      "tokens": [
+        {
+          "t": "But the salvation of the righteous "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": "
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": " their strength in the time of trouble. "
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "plain": "And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.",
+      "tokens": [
+        {
+          "t": "And the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "verily: Heb. in truth, or, stableness"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "Commit…: Heb. Roll thy way upon"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "Rest in: Heb. Be silent to"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 12
+      },
+      "text": "plotteth: or, practiseth"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 14
+      },
+      "text": "such…: Heb. the upright of way"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 20
+      },
+      "text": "the fat: Heb. the preciousness"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 23
+      },
+      "text": "ordered: or, established"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 26
+      },
+      "text": "ever: Heb. all the day"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 31
+      },
+      "text": "steps: or, goings"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 35
+      },
+      "text": "a green…: or, a green tree that groweth in his own soil"
+    }
+  ]
+}

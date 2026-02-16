@@ -7,103 +7,109 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Blessed is every one that feareth the LORD; that walketh in his ways.",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "is"
         },
         {
-          "t": "every one that feareth the"
+          "t": " every one that feareth the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; that walketh in his ways."
+          "t": "; that walketh in his ways. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee.",
       "tokens": [
         {
-          "t": "For thou shalt eat the labour of thine hands: happy"
+          "t": "For thou shalt eat the labour of thine hands: happy "
         },
         {
           "add": "shalt"
         },
         {
-          "t": "thou"
+          "t": " thou "
         },
         {
           "add": "be"
         },
         {
-          "t": ", and"
+          "t": ", and "
         },
         {
           "add": "it shall be"
         },
         {
-          "t": "well with thee."
+          "t": " well with thee. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
       "tokens": [
         {
-          "t": "Thy wife"
+          "t": "Thy wife "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
+          "t": " as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Behold, that thus shall the man be blessed that feareth the LORD.",
       "tokens": [
         {
-          "t": "Behold, that thus shall the man be blessed that feareth the"
+          "t": "Behold, that thus shall the man be blessed that feareth the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
+          "t": " shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Yea, thou shalt see thy children’s children, and peace upon Israel.",
       "tokens": [
         {
-          "t": "Yea, thou shalt see thy children’s children,"
+          "t": "Yea, thou shalt see thy children’s children, "
         },
         {
           "add": "and"
         },
         {
-          "t": "peace upon Israel."
+          "t": " peace upon Israel. "
         }
       ]
     }

@@ -7,430 +7,457 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper.",
       "tokens": [
         {
-          "t": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the"
+          "t": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had given deliverance unto Syria: he was also a mighty man in valour,"
+          "t": " had given deliverance unto Syria: he was also a mighty man in valour, "
         },
         {
           "add": "but he was"
         },
         {
-          "t": "a leper."
+          "t": " a leper. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman’s wife.",
       "tokens": [
         {
-          "t": "And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman’s wife."
+          "t": "And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman’s wife. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And she said unto her mistress, Would God my lord were with the prophet that is in Samaria! for he would recover him of his leprosy.",
       "tokens": [
         {
-          "t": "And she said unto her mistress, Would God my lord"
+          "t": "And she said unto her mistress, Would God my lord "
         },
         {
           "add": "were"
         },
         {
-          "t": "with the prophet that"
+          "t": " with the prophet that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Samaria! for he would recover him of his leprosy."
+          "t": " in Samaria! for he would recover him of his leprosy. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And one went in, and told his lord, saying, Thus and thus said the maid that is of the land of Israel.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "one"
         },
         {
-          "t": "went in, and told his lord, saying, Thus and thus said the maid that"
+          "t": " went in, and told his lord, saying, Thus and thus said the maid that "
         },
         {
           "add": "is"
         },
         {
-          "t": "of the land of Israel."
+          "t": " of the land of Israel. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand pieces of gold, and ten changes of raiment.",
       "tokens": [
         {
-          "t": "And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand"
+          "t": "And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand "
         },
         {
           "add": "pieces"
         },
         {
-          "t": "of gold, and ten changes of raiment."
+          "t": " of gold, and ten changes of raiment. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have therewith sent Naaman my servant to thee, that thou mayest recover him of his leprosy.",
       "tokens": [
         {
-          "t": "And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have"
+          "t": "And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have "
         },
         {
           "add": "therewith"
         },
         {
-          "t": "sent Naaman my servant to thee, that thou mayest recover him of his leprosy."
+          "t": " sent Naaman my servant to thee, that thou mayest recover him of his leprosy. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, Am I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me.",
       "tokens": [
         {
-          "t": "And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said,"
+          "t": "And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, "
         },
         {
           "add": "Am"
         },
         {
-          "t": "I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me."
+          "t": " I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And it was so, when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Wherefore hast thou rent thy clothes? let him come now to me, and he shall know that there is a prophet in Israel.",
       "tokens": [
         {
-          "t": "¶ And it was"
+          "t": "¶ And it was "
         },
         {
           "add": "so"
         },
         {
-          "t": ", when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Wherefore hast thou rent thy clothes? let him come now to me, and he shall know that there is a prophet in Israel."
+          "t": ", when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Wherefore hast thou rent thy clothes? let him come now to me, and he shall know that there is a prophet in Israel. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "So Naaman came with his horses and with his chariot, and stood at the door of the house of Elisha.",
       "tokens": [
         {
-          "t": "So Naaman came with his horses and with his chariot, and stood at the door of the house of Elisha."
+          "t": "So Naaman came with his horses and with his chariot, and stood at the door of the house of Elisha. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean.",
       "tokens": [
         {
-          "t": "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean."
+          "t": "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper.",
       "tokens": [
         {
-          "t": "But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the"
+          "t": "But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God, and strike his hand over the place, and recover the leper."
+          "t": " his God, and strike his hand over the place, and recover the leper. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Are not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage.",
       "tokens": [
         {
           "add": "Are"
         },
         {
-          "t": "not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage."
+          "t": " not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And his servants came near, and spake unto him, and said, My father, if the prophet had bid thee do some great thing, wouldest thou not have done it? how much rather then, when he saith to thee, Wash, and be clean?",
       "tokens": [
         {
-          "t": "And his servants came near, and spake unto him, and said, My father,"
+          "t": "And his servants came near, and spake unto him, and said, My father, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the prophet had bid thee"
+          "t": " the prophet had bid thee "
         },
         {
           "add": "do some"
         },
         {
-          "t": "great thing, wouldest thou not have done"
+          "t": " great thing, wouldest thou not have done "
         },
         {
           "add": "it"
         },
         {
-          "t": "? how much rather then, when he saith to thee, Wash, and be clean?"
+          "t": "? how much rather then, when he saith to thee, Wash, and be clean? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean.",
       "tokens": [
         {
-          "t": "Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean."
+          "t": "Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant.",
       "tokens": [
         {
-          "t": "¶ And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that"
+          "t": "¶ And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant."
+          "t": " no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But he said, As the LORD liveth, before whom I stand, I will receive none. And he urged him to take it; but he refused.",
       "tokens": [
         {
-          "t": "But he said,"
+          "t": "But he said, "
         },
         {
           "add": "As"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, before whom I stand, I will receive none. And he urged him to take"
+          "t": " liveth, before whom I stand, I will receive none. And he urged him to take "
         },
         {
           "add": "it;"
         },
         {
-          "t": "but he refused."
+          "t": " but he refused. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules’ burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the LORD.",
       "tokens": [
         {
-          "t": "And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules’ burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the"
+          "t": "And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules’ burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "In this thing the LORD pardon thy servant, that when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the LORD pardon thy servant in this thing.",
       "tokens": [
         {
-          "t": "In this thing the"
+          "t": "In this thing the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "pardon thy servant,"
+          "t": " pardon thy servant, "
         },
         {
           "add": "that"
         },
         {
-          "t": "when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the"
+          "t": " when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "pardon thy servant in this thing."
+          "t": " pardon thy servant in this thing. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And he said unto him, Go in peace. So he departed from him a little way.",
       "tokens": [
         {
-          "t": "And he said unto him, Go in peace. So he departed from him a little way."
+          "t": "And he said unto him, Go in peace. So he departed from him a little way. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him.",
       "tokens": [
         {
-          "t": "¶ But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but,"
+          "t": "¶ But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, "
         },
         {
           "add": "as"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, I will run after him, and take somewhat of him."
+          "t": " liveth, I will run after him, and take somewhat of him. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "So Gehazi followed after Naaman. And when Naaman saw him running after him, he lighted down from the chariot to meet him, and said, Is all well?",
       "tokens": [
         {
-          "t": "So Gehazi followed after Naaman. And when Naaman saw"
+          "t": "So Gehazi followed after Naaman. And when Naaman saw "
         },
         {
           "add": "him"
         },
         {
-          "t": "running after him, he lighted down from the chariot to meet him, and said,"
+          "t": " running after him, he lighted down from the chariot to meet him, and said, "
         },
         {
           "add": "Is"
         },
         {
-          "t": "all well?"
+          "t": " all well? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And he said, All is well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments.",
       "tokens": [
         {
-          "t": "And he said, All"
+          "t": "And he said, All "
         },
         {
           "add": "is"
         },
         {
-          "t": "well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments."
+          "t": " well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid them upon two of his servants; and they bare them before him.",
       "tokens": [
         {
-          "t": "And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid"
+          "t": "And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid "
         },
         {
           "add": "them"
         },
         {
-          "t": "upon two of his servants; and they bare"
+          "t": " upon two of his servants; and they bare "
         },
         {
           "add": "them"
         },
         {
-          "t": "before him."
+          "t": " before him. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And when he came to the tower, he took them from their hand, and bestowed them in the house: and he let the men go, and they departed.",
       "tokens": [
         {
-          "t": "And when he came to the tower, he took"
+          "t": "And when he came to the tower, he took "
         },
         {
           "add": "them"
         },
         {
-          "t": "from their hand, and bestowed"
+          "t": " from their hand, and bestowed "
         },
         {
           "add": "them"
         },
         {
-          "t": "in the house: and he let the men go, and they departed."
+          "t": " in the house: and he let the men go, and they departed. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But he went in, and stood before his master. And Elisha said unto him, Whence comest thou, Gehazi? And he said, Thy servant went no whither.",
       "tokens": [
         {
-          "t": "But he went in, and stood before his master. And Elisha said unto him, Whence"
+          "t": "But he went in, and stood before his master. And Elisha said unto him, Whence "
         },
         {
           "add": "comest thou"
         },
         {
-          "t": ", Gehazi? And he said, Thy servant went no whither."
+          "t": ", Gehazi? And he said, Thy servant went no whither. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And he said unto him, Went not mine heart with thee, when the man turned again from his chariot to meet thee? Is it a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?",
       "tokens": [
         {
-          "t": "And he said unto him, Went not mine heart"
+          "t": "And he said unto him, Went not mine heart "
         },
         {
           "add": "with thee"
         },
         {
-          "t": ", when the man turned again from his chariot to meet thee?"
+          "t": ", when the man turned again from his chariot to meet thee? "
         },
         {
           "add": "Is it"
         },
         {
-          "t": "a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?"
+          "t": " a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants? "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper as white as snow.",
       "tokens": [
         {
-          "t": "The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper"
+          "t": "The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper "
         },
         {
           "add": "as white"
         },
         {
-          "t": "as snow."
+          "t": " as snow. "
         }
       ]
     }

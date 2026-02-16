@@ -7,268 +7,289 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?",
       "tokens": [
         {
           "add": "Is there"
         },
         {
-          "t": "not an appointed time to man upon earth?"
+          "t": " not an appointed time to man upon earth? "
         },
         {
           "add": "are not"
         },
         {
-          "t": "his days also like the days of an hireling?"
+          "t": " his days also like the days of an hireling? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:",
       "tokens": [
         {
-          "t": "As a servant earnestly desireth the shadow, and as an hireling looketh for"
+          "t": "As a servant earnestly desireth the shadow, and as an hireling looketh for "
         },
         {
           "add": "the reward of"
         },
         {
-          "t": "his work:"
+          "t": " his work: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "So am I made to possess months of vanity, and wearisome nights are appointed to me.",
       "tokens": [
         {
-          "t": "So am I made to possess months of vanity, and wearisome nights are appointed to me."
+          "t": "So am I made to possess months of vanity, and wearisome nights are appointed to me. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.",
       "tokens": [
         {
-          "t": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day."
+          "t": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.",
       "tokens": [
         {
-          "t": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome."
+          "t": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "My days are swifter than a weaver’s shuttle, and are spent without hope.",
       "tokens": [
         {
-          "t": "My days are swifter than a weaver’s shuttle, and are spent without hope."
+          "t": "My days are swifter than a weaver’s shuttle, and are spent without hope. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "O remember that my life is wind: mine eye shall no more see good.",
       "tokens": [
         {
-          "t": "O remember that my life"
+          "t": "O remember that my life "
         },
         {
           "add": "is"
         },
         {
-          "t": "wind: mine eye shall no more see good."
+          "t": " wind: mine eye shall no more see good. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.",
       "tokens": [
         {
-          "t": "The eye of him that hath seen me shall see me no"
+          "t": "The eye of him that hath seen me shall see me no "
         },
         {
           "add": "more:"
         },
         {
-          "t": "thine eyes"
+          "t": " thine eyes "
         },
         {
           "add": "are"
         },
         {
-          "t": "upon me, and I"
+          "t": " upon me, and I "
         },
         {
           "add": "am"
         },
         {
-          "t": "not."
+          "t": " not. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no"
+          "t": " the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no "
         },
         {
           "add": "more"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "He shall return no more to his house, neither shall his place know him any more.",
       "tokens": [
         {
-          "t": "He shall return no more to his house, neither shall his place know him any more."
+          "t": "He shall return no more to his house, neither shall his place know him any more. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
       "tokens": [
         {
-          "t": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."
+          "t": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Am I a sea, or a whale, that thou settest a watch over me?",
       "tokens": [
         {
           "add": "Am"
         },
         {
-          "t": "I a sea, or a whale, that thou settest a watch over me?"
+          "t": " I a sea, or a whale, that thou settest a watch over me? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "When I say, My bed shall comfort me, my couch shall ease my complaint;",
       "tokens": [
         {
-          "t": "When I say, My bed shall comfort me, my couch shall ease my complaint;"
+          "t": "When I say, My bed shall comfort me, my couch shall ease my complaint; "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then thou scarest me with dreams, and terrifiest me through visions:",
       "tokens": [
         {
-          "t": "Then thou scarest me with dreams, and terrifiest me through visions:"
+          "t": "Then thou scarest me with dreams, and terrifiest me through visions: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "So that my soul chooseth strangling, and death rather than my life.",
       "tokens": [
         {
-          "t": "So that my soul chooseth strangling,"
+          "t": "So that my soul chooseth strangling, "
         },
         {
           "add": "and"
         },
         {
-          "t": "death rather than my life."
+          "t": " death rather than my life. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "I loathe it; I would not live alway: let me alone; for my days are vanity.",
       "tokens": [
         {
-          "t": "I loathe"
+          "t": "I loathe "
         },
         {
           "add": "it;"
         },
         {
-          "t": "I would not live alway: let me alone; for my days"
+          "t": " I would not live alway: let me alone; for my days "
         },
         {
           "add": "are"
         },
         {
-          "t": "vanity."
+          "t": " vanity. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?",
       "tokens": [
         {
-          "t": "What"
+          "t": "What "
         },
         {
           "add": "is"
         },
         {
-          "t": "man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?"
+          "t": " man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And that thou shouldest visit him every morning, and try him every moment?",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "that"
         },
         {
-          "t": "thou shouldest visit him every morning,"
+          "t": " thou shouldest visit him every morning, "
         },
         {
           "add": "and"
         },
         {
-          "t": "try him every moment?"
+          "t": " try him every moment? "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?",
       "tokens": [
         {
-          "t": "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?"
+          "t": "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?",
       "tokens": [
         {
-          "t": "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?"
+          "t": "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself? "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be.",
       "tokens": [
         {
-          "t": "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I"
+          "t": "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I "
         },
         {
           "add": "shall"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "be"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

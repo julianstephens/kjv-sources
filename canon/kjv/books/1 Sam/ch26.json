@@ -7,459 +7,484 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon?",
       "tokens": [
         {
-          "t": "And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah,"
+          "t": "And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, "
         },
         {
           "add": "which is"
         },
         {
-          "t": "before Jeshimon?"
+          "t": " before Jeshimon? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph.",
       "tokens": [
         {
-          "t": "Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph."
+          "t": "Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Saul pitched in the hill of Hachilah, which is before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness.",
       "tokens": [
         {
-          "t": "And Saul pitched in the hill of Hachilah, which"
+          "t": "And Saul pitched in the hill of Hachilah, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness."
+          "t": " before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "David therefore sent out spies, and understood that Saul was come in very deed.",
       "tokens": [
         {
-          "t": "David therefore sent out spies, and understood that Saul was come in very deed."
+          "t": "David therefore sent out spies, and understood that Saul was come in very deed. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him.",
       "tokens": [
         {
-          "t": "¶ And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him."
+          "t": "¶ And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee.",
       "tokens": [
         {
-          "t": "Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee."
+          "t": "Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him.",
       "tokens": [
         {
-          "t": "So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him."
+          "t": "So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not smite him the second time.",
       "tokens": [
         {
-          "t": "Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not"
+          "t": "Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not "
         },
         {
           "add": "smite"
         },
         {
-          "t": "him the second time."
+          "t": " him the second time. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And David said to Abishai, Destroy him not: for who can stretch forth his hand against the LORD’s anointed, and be guiltless?",
       "tokens": [
         {
-          "t": "And David said to Abishai, Destroy him not: for who can stretch forth his hand against the"
+          "t": "And David said to Abishai, Destroy him not: for who can stretch forth his hand against the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "anointed, and be guiltless?"
+          "t": " anointed, and be guiltless? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "David said furthermore, As the LORD liveth, the LORD shall smite him; or his day shall come to die; or he shall descend into battle, and perish.",
       "tokens": [
         {
-          "t": "David said furthermore,"
+          "t": "David said furthermore, "
         },
         {
           "add": "As"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, the"
+          "t": " liveth, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall smite him; or his day shall come to die; or he shall descend into battle, and perish."
+          "t": " shall smite him; or his day shall come to die; or he shall descend into battle, and perish. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The LORD forbid that I should stretch forth mine hand against the LORD’s anointed: but, I pray thee, take thou now the spear that is at his bolster, and the cruse of water, and let us go.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "forbid that I should stretch forth mine hand against the"
+          "t": " forbid that I should stretch forth mine hand against the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "anointed: but, I pray thee, take thou now the spear that"
+          "t": " anointed: but, I pray thee, take thou now the spear that "
         },
         {
           "add": "is"
         },
         {
-          "t": "at his bolster, and the cruse of water, and let us go."
+          "t": " at his bolster, and the cruse of water, and let us go. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw it, nor knew it, neither awaked: for they were all asleep; because a deep sleep from the LORD was fallen upon them.",
       "tokens": [
         {
-          "t": "So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw"
+          "t": "So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", nor knew"
+          "t": ", nor knew "
         },
         {
           "add": "it"
         },
         {
-          "t": ", neither awaked: for they"
+          "t": ", neither awaked: for they "
         },
         {
           "add": "were"
         },
         {
-          "t": "all asleep; because a deep sleep from the"
+          "t": " all asleep; because a deep sleep from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was fallen upon them."
+          "t": " was fallen upon them. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ Then David went over to the other side, and stood on the top of an hill afar off; a great space being between them:",
       "tokens": [
         {
-          "t": "¶ Then David went over to the other side, and stood on the top of an hill afar off; a great space"
+          "t": "¶ Then David went over to the other side, and stood on the top of an hill afar off; a great space "
         },
         {
           "add": "being"
         },
         {
-          "t": "between them:"
+          "t": " between them: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who art thou that criest to the king?",
       "tokens": [
         {
-          "t": "And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who"
+          "t": "And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who "
         },
         {
           "add": "art"
         },
         {
-          "t": "thou"
+          "t": " thou "
         },
         {
           "add": "that"
         },
         {
-          "t": "criest to the king?"
+          "t": " criest to the king? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And David said to Abner, Art not thou a valiant man? and who is like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord.",
       "tokens": [
         {
-          "t": "And David said to Abner,"
+          "t": "And David said to Abner, "
         },
         {
           "add": "Art"
         },
         {
-          "t": "not thou a"
+          "t": " not thou a "
         },
         {
           "add": "valiant"
         },
         {
-          "t": "man? and who"
+          "t": " man? and who "
         },
         {
           "add": "is"
         },
         {
-          "t": "like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord."
+          "t": " like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "This thing is not good that thou hast done. As the LORD liveth, ye are worthy to die, because ye have not kept your master, the LORD’s anointed. And now see where the king’s spear is, and the cruse of water that was at his bolster.",
       "tokens": [
         {
-          "t": "This thing"
+          "t": "This thing "
         },
         {
           "add": "is"
         },
         {
-          "t": "not good that thou hast done."
+          "t": " not good that thou hast done. "
         },
         {
           "add": "As"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, ye"
+          "t": " liveth, ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "worthy to die, because ye have not kept your master, the"
+          "t": " worthy to die, because ye have not kept your master, the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "anointed. And now see where the king’s spear"
+          "t": " anointed. And now see where the king’s spear "
         },
         {
           "add": "is"
         },
         {
-          "t": ", and the cruse of water that"
+          "t": ", and the cruse of water that "
         },
         {
           "add": "was"
         },
         {
-          "t": "at his bolster."
+          "t": " at his bolster. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Saul knew David’s voice, and said, Is this thy voice, my son David? And David said, It is my voice, my lord, O king.",
       "tokens": [
         {
-          "t": "And Saul knew David’s voice, and said,"
+          "t": "And Saul knew David’s voice, and said, "
         },
         {
           "add": "Is"
         },
         {
-          "t": "this thy voice, my son David? And David said,"
+          "t": " this thy voice, my son David? And David said, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "my voice, my lord, O king."
+          "t": " my voice, my lord, O king. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he said, Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil is in mine hand?",
       "tokens": [
         {
-          "t": "And he said, Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil"
+          "t": "And he said, Wherefore doth my lord thus pursue after his servant? for what have I done? or what evil "
         },
         {
           "add": "is"
         },
         {
-          "t": "in mine hand?"
+          "t": " in mine hand? "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Now therefore, I pray thee, let my lord the king hear the words of his servant. If the LORD have stirred thee up against me, let him accept an offering: but if they be the children of men, cursed be they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods.",
       "tokens": [
         {
-          "t": "Now therefore, I pray thee, let my lord the king hear the words of his servant. If the"
+          "t": "Now therefore, I pray thee, let my lord the king hear the words of his servant. If the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "have stirred thee up against me, let him accept an offering: but if"
+          "t": " have stirred thee up against me, let him accept an offering: but if "
         },
         {
           "add": "they be"
         },
         {
-          "t": "the children of men, cursed"
+          "t": " the children of men, cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "they before the"
+          "t": " they before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; for they have driven me out this day from abiding in the inheritance of the"
+          "t": "; for they have driven me out this day from abiding in the inheritance of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", saying, Go, serve other gods."
+          "t": ", saying, Go, serve other gods. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Now therefore, let not my blood fall to the earth before the face of the LORD: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains.",
       "tokens": [
         {
-          "t": "Now therefore, let not my blood fall to the earth before the face of the"
+          "t": "Now therefore, let not my blood fall to the earth before the face of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains."
+          "t": ": for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly.",
       "tokens": [
         {
-          "t": "¶ Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly."
+          "t": "¶ Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it.",
       "tokens": [
         {
-          "t": "And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it."
+          "t": "And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The LORD render to every man his righteousness and his faithfulness: for the LORD delivered thee into my hand to day, but I would not stretch forth mine hand against the LORD’s anointed.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "render to every man his righteousness and his faithfulness: for the"
+          "t": " render to every man his righteousness and his faithfulness: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "delivered thee into"
+          "t": " delivered thee into "
         },
         {
           "add": "my"
         },
         {
-          "t": "hand to day, but I would not stretch forth mine hand against the"
+          "t": " hand to day, but I would not stretch forth mine hand against the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "anointed."
+          "t": " anointed. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the LORD, and let him deliver me out of all tribulation.",
       "tokens": [
         {
-          "t": "And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the"
+          "t": "And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and let him deliver me out of all tribulation."
+          "t": ", and let him deliver me out of all tribulation. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Then Saul said to David, Blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place.",
       "tokens": [
         {
-          "t": "Then Saul said to David, Blessed"
+          "t": "Then Saul said to David, Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "thou, my son David: thou shalt both do great"
+          "t": " thou, my son David: thou shalt both do great "
         },
         {
           "add": "things"
         },
         {
-          "t": ", and also shalt still prevail. So David went on his way, and Saul returned to his place."
+          "t": ", and also shalt still prevail. So David went on his way, and Saul returned to his place. "
         }
       ]
     }

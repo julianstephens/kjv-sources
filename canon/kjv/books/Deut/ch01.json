@@ -7,26 +7,28 @@
   "verses": [
     {
       "v": 1,
+      "plain": "These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "be"
         },
         {
-          "t": "the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red"
+          "t": " the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red "
         },
         {
           "add": "sea"
         },
         {
-          "t": ", between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab."
+          "t": ", between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "(There are eleven days’ journey from Horeb by the way of mount Seir unto Kadesh-barnea.)",
       "tokens": [
         {
           "t": "("
@@ -35,656 +37,700 @@
           "add": "There are"
         },
         {
-          "t": "eleven days’"
+          "t": " eleven days’ "
         },
         {
           "add": "journey"
         },
         {
-          "t": "from Horeb by the way of mount Seir unto Kadesh-barnea.)"
+          "t": " from Horeb by the way of mount Seir unto Kadesh-barnea.) "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them;",
       "tokens": [
         {
-          "t": "And it came to pass in the fortieth year, in the eleventh month, on the first"
+          "t": "And it came to pass in the fortieth year, in the eleventh month, on the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month,"
+          "t": " of the month, "
         },
         {
           "add": "that"
         },
         {
-          "t": "Moses spake unto the children of Israel, according unto all that the"
+          "t": " Moses spake unto the children of Israel, according unto all that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had given him in commandment unto them;"
+          "t": " had given him in commandment unto them; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:",
       "tokens": [
         {
-          "t": "After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:"
+          "t": "After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "On this side Jordan, in the land of Moab, began Moses to declare this law, saying,",
       "tokens": [
         {
-          "t": "On this side Jordan, in the land of Moab, began Moses to declare this law, saying,"
+          "t": "On this side Jordan, in the land of Moab, began Moses to declare this law, saying, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:"
+          "t": " our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Turn you, and take your journey, and go to the mount of the Amorites, and unto all the places nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.",
       "tokens": [
         {
-          "t": "Turn you, and take your journey, and go to the mount of the Amorites, and unto all"
+          "t": "Turn you, and take your journey, and go to the mount of the Amorites, and unto all "
         },
         {
           "add": "the places"
         },
         {
-          "t": "nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates."
+          "t": " nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.",
       "tokens": [
         {
-          "t": "Behold, I have set the land before you: go in and possess the land which the"
+          "t": "Behold, I have set the land before you: go in and possess the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them."
+          "t": " sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And I spake unto you at that time, saying, I am not able to bear you myself alone:",
       "tokens": [
         {
-          "t": "¶ And I spake unto you at that time, saying, I am not able to bear you myself alone:"
+          "t": "¶ And I spake unto you at that time, saying, I am not able to bear you myself alone: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The LORD your God hath multiplied you, and, behold, ye are this day as the stars of heaven for multitude.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God hath multiplied you, and, behold, ye"
+          "t": " your God hath multiplied you, and, behold, ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "this day as the stars of heaven for multitude."
+          "t": " this day as the stars of heaven for multitude. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "(The LORD God of your fathers make you a thousand times so many more as ye are, and bless you, as he hath promised you!)",
       "tokens": [
         {
-          "t": "(The"
+          "t": "(The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of your fathers make you a thousand times so many more as ye"
+          "t": " God of your fathers make you a thousand times so many more as ye "
         },
         {
           "add": "are"
         },
         {
-          "t": ", and bless you, as he hath promised you!)"
+          "t": ", and bless you, as he hath promised you!) "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "How can I myself alone bear your cumbrance, and your burden, and your strife?",
       "tokens": [
         {
-          "t": "How can I myself alone bear your cumbrance, and your burden, and your strife?"
+          "t": "How can I myself alone bear your cumbrance, and your burden, and your strife? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.",
       "tokens": [
         {
-          "t": "Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you."
+          "t": "Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And ye answered me, and said, The thing which thou hast spoken is good for us to do.",
       "tokens": [
         {
-          "t": "And ye answered me, and said, The thing which thou hast spoken"
+          "t": "And ye answered me, and said, The thing which thou hast spoken "
         },
         {
           "add": "is"
         },
         {
-          "t": "good"
+          "t": " good "
         },
         {
           "add": "for us"
         },
         {
-          "t": "to do."
+          "t": " to do. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.",
       "tokens": [
         {
-          "t": "So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes."
+          "t": "So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And I charged your judges at that time, saying, Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him.",
       "tokens": [
         {
-          "t": "And I charged your judges at that time, saying, Hear"
+          "t": "And I charged your judges at that time, saying, Hear "
         },
         {
           "add": "the causes"
         },
         {
-          "t": "between your brethren, and judge righteously between"
+          "t": " between your brethren, and judge righteously between "
         },
         {
           "add": "every"
         },
         {
-          "t": "man and his brother, and the stranger"
+          "t": " man and his brother, and the stranger "
         },
         {
           "add": "that is"
         },
         {
-          "t": "with him."
+          "t": " with him. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Ye shall not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God’s: and the cause that is too hard for you, bring it unto me, and I will hear it.",
       "tokens": [
         {
-          "t": "Ye shall not respect persons in judgment;"
+          "t": "Ye shall not respect persons in judgment; "
         },
         {
           "add": "but"
         },
         {
-          "t": "ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment"
+          "t": " ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment "
         },
         {
           "add": "is"
         },
         {
-          "t": "God’s: and the cause that is too hard for you, bring"
+          "t": " God’s: and the cause that is too hard for you, bring "
         },
         {
           "add": "it"
         },
         {
-          "t": "unto me, and I will hear it."
+          "t": " unto me, and I will hear it. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And I commanded you at that time all the things which ye should do.",
       "tokens": [
         {
-          "t": "And I commanded you at that time all the things which ye should do."
+          "t": "And I commanded you at that time all the things which ye should do. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadesh-barnea.",
       "tokens": [
         {
-          "t": "¶ And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the"
+          "t": "¶ And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God commanded us; and we came to Kadesh-barnea."
+          "t": " our God commanded us; and we came to Kadesh-barnea. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And I said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us.",
       "tokens": [
         {
-          "t": "And I said unto you, Ye are come unto the mountain of the Amorites, which the"
+          "t": "And I said unto you, Ye are come unto the mountain of the Amorites, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God doth give unto us."
+          "t": " our God doth give unto us. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Behold, the LORD thy God hath set the land before thee: go up and possess it, as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged.",
       "tokens": [
         {
-          "t": "Behold, the"
+          "t": "Behold, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath set the land before thee: go up"
+          "t": " thy God hath set the land before thee: go up "
         },
         {
           "add": "and"
         },
         {
-          "t": "possess"
+          "t": " possess "
         },
         {
           "add": "it"
         },
         {
-          "t": ", as the"
+          "t": ", as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of thy fathers hath said unto thee; fear not, neither be discouraged."
+          "t": " God of thy fathers hath said unto thee; fear not, neither be discouraged. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.",
       "tokens": [
         {
-          "t": "¶ And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come."
+          "t": "¶ And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And the saying pleased me well: and I took twelve men of you, one of a tribe:",
       "tokens": [
         {
-          "t": "And the saying pleased me well: and I took twelve men of you, one of a tribe:"
+          "t": "And the saying pleased me well: and I took twelve men of you, one of a tribe: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.",
       "tokens": [
         {
-          "t": "And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out."
+          "t": "And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the LORD our God doth give us.",
       "tokens": [
         {
-          "t": "And they took of the fruit of the land in their hands, and brought"
+          "t": "And they took of the fruit of the land in their hands, and brought "
         },
         {
           "add": "it"
         },
         {
-          "t": "down unto us, and brought us word again, and said,"
+          "t": " down unto us, and brought us word again, and said, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "a good land which the"
+          "t": " a good land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God doth give us."
+          "t": " our God doth give us. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:",
       "tokens": [
         {
-          "t": "Notwithstanding ye would not go up, but rebelled against the commandment of the"
+          "t": "Notwithstanding ye would not go up, but rebelled against the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God:"
+          "t": " your God: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.",
       "tokens": [
         {
-          "t": "And ye murmured in your tents, and said, Because the"
+          "t": "And ye murmured in your tents, and said, Because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us."
+          "t": " hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Whither shall we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there.",
       "tokens": [
         {
-          "t": "Whither shall we go up? our brethren have discouraged our heart, saying, The people"
+          "t": "Whither shall we go up? our brethren have discouraged our heart, saying, The people "
         },
         {
           "add": "is"
         },
         {
-          "t": "greater and taller than we; the cities"
+          "t": " greater and taller than we; the cities "
         },
         {
           "add": "are"
         },
         {
-          "t": "great and walled up to heaven; and moreover we have seen the sons of the Anakims there."
+          "t": " great and walled up to heaven; and moreover we have seen the sons of the Anakims there. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Then I said unto you, Dread not, neither be afraid of them.",
       "tokens": [
         {
-          "t": "Then I said unto you, Dread not, neither be afraid of them."
+          "t": "Then I said unto you, Dread not, neither be afraid of them. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;"
+          "t": " your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes; "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And in the wilderness, where thou hast seen how that the LORD thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place.",
       "tokens": [
         {
-          "t": "And in the wilderness, where thou hast seen how that the"
+          "t": "And in the wilderness, where thou hast seen how that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place."
+          "t": " thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Yet in this thing ye did not believe the LORD your God,",
       "tokens": [
         {
-          "t": "Yet in this thing ye did not believe the"
+          "t": "Yet in this thing ye did not believe the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God,"
+          "t": " your God, "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Who went in the way before you, to search you out a place to pitch your tents in, in fire by night, to shew you by what way ye should go, and in a cloud by day.",
       "tokens": [
         {
-          "t": "Who went in the way before you, to search you out a place to pitch your tents"
+          "t": "Who went in the way before you, to search you out a place to pitch your tents "
         },
         {
           "add": "in"
         },
         {
-          "t": ", in fire by night, to shew you by what way ye should go, and in a cloud by day."
+          "t": ", in fire by night, to shew you by what way ye should go, and in a cloud by day. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And the LORD heard the voice of your words, and was wroth, and sware, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "heard the voice of your words, and was wroth, and sware, saying,"
+          "t": " heard the voice of your words, and was wroth, and sware, saying, "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,",
       "tokens": [
         {
-          "t": "Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,"
+          "t": "Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers, "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD.",
       "tokens": [
         {
-          "t": "Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the"
+          "t": "Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Also the LORD was angry with me for your sakes, saying, Thou also shalt not go in thither.",
       "tokens": [
         {
-          "t": "Also the"
+          "t": "Also the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was angry with me for your sakes, saying, Thou also shalt not go in thither."
+          "t": " was angry with me for your sakes, saying, Thou also shalt not go in thither. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "But Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.",
       "tokens": [
         {
           "add": "But"
         },
         {
-          "t": "Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it."
+          "t": " Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.",
       "tokens": [
         {
-          "t": "Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it."
+          "t": "Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "But as for you, turn you, and take your journey into the wilderness by the way of the Red sea.",
       "tokens": [
         {
-          "t": "But"
+          "t": "But "
         },
         {
           "add": "as for"
         },
         {
-          "t": "you, turn you, and take your journey into the wilderness by the way of the Red sea."
+          "t": " you, turn you, and take your journey into the wilderness by the way of the Red sea. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.",
       "tokens": [
         {
-          "t": "Then ye answered and said unto me, We have sinned against the"
+          "t": "Then ye answered and said unto me, We have sinned against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", we will go up and fight, according to all that the"
+          "t": ", we will go up and fight, according to all that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill."
+          "t": " our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And the LORD said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto me, Say unto them, Go not up, neither fight; for I"
+          "t": " said unto me, Say unto them, Go not up, neither fight; for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "not among you; lest ye be smitten before your enemies."
+          "t": " not among you; lest ye be smitten before your enemies. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "So I spake unto you; and ye would not hear, but rebelled against the commandment of the LORD, and went presumptuously up into the hill.",
       "tokens": [
         {
-          "t": "So I spake unto you; and ye would not hear, but rebelled against the commandment of the"
+          "t": "So I spake unto you; and ye would not hear, but rebelled against the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and went presumptuously up into the hill."
+          "t": ", and went presumptuously up into the hill. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, even unto Hormah.",
       "tokens": [
         {
-          "t": "And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir,"
+          "t": "And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, "
         },
         {
           "add": "even"
         },
         {
-          "t": "unto Hormah."
+          "t": " unto Hormah. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you.",
       "tokens": [
         {
-          "t": "And ye returned and wept before the"
+          "t": "And ye returned and wept before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; but the"
+          "t": "; but the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "would not hearken to your voice, nor give ear unto you."
+          "t": " would not hearken to your voice, nor give ear unto you. "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "So ye abode in Kadesh many days, according unto the days that ye abode there.",
       "tokens": [
         {
-          "t": "So ye abode in Kadesh many days, according unto the days that ye abode"
+          "t": "So ye abode in Kadesh many days, according unto the days that ye abode "
         },
         {
           "add": "there"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

@@ -7,351 +7,628 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Jesus entered and passed through Jericho.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "Jesus"
         },
         {
-          "t": "entered and passed through Jericho."
+          "t": " entered and passed through Jericho. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And, behold, there was a man named Zacchæus, which was the chief among the publicans, and he was rich.",
       "tokens": [
         {
-          "t": "And, behold,"
+          "t": "And, behold, "
         },
         {
           "add": "there was"
         },
         {
-          "t": "a man named Zacchæus, which was the chief among the publicans, and he was rich."
+          "t": " a man named Zacchæus, which was the chief among the publicans, and he was rich. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature.",
       "tokens": [
         {
-          "t": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature."
+          "t": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way.",
       "tokens": [
         {
-          "t": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that"
+          "t": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that "
         },
         {
           "add": "way"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchæus, make haste, and come down; for to day I must abide at thy house.",
       "tokens": [
         {
-          "t": "And when Jesus came to the place, he looked up, and saw him, and said unto him,"
+          "t": "And when Jesus came to the place, he looked up, and saw him, and said unto him, "
+        },
+        {
+          "t": "Zacchæus, make haste, and come down; for to day I must abide at thy house."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he made haste, and came down, and received him joyfully.",
       "tokens": [
         {
-          "t": "And he made haste, and came down, and received him joyfully."
+          "t": "And he made haste, and came down, and received him joyfully. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner.",
       "tokens": [
         {
-          "t": "And when they saw"
+          "t": "And when they saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they all murmured, saying, That he was gone to be guest with a man that is a sinner."
+          "t": ", they all murmured, saying, That he was gone to be guest with a man that is a sinner. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Zacchæus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.",
       "tokens": [
         {
-          "t": "And Zacchæus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore"
+          "t": "And Zacchæus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore "
         },
         {
           "add": "him"
         },
         {
-          "t": "fourfold."
+          "t": " fourfold. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.",
       "tokens": [
         {
-          "t": "And Jesus said unto him,"
+          "t": "And Jesus said unto him, "
+        },
+        {
+          "t": "This day is salvation come to this house, forsomuch as he also is a son of Abraham."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "For the Son of man is come to seek and to save that which was lost.",
+      "tokens": [
+        {
+          "t": "For the Son of man is come to seek and to save that which was lost."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
+      "plain": "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.",
       "tokens": [
         {
-          "t": "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear."
+          "t": "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.",
       "tokens": [
         {
-          "t": "He said therefore,"
+          "t": "He said therefore, "
+        },
+        {
+          "t": "A certain nobleman went into a far country to receive for himself a kingdom, and to return."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.",
+      "tokens": [
+        {
+          "t": "And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us.",
+      "tokens": [
+        {
+          "t": "But his citizens hated him, and sent a message after him, saying, We will not have this "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": " to reign over us."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.",
+      "tokens": [
+        {
+          "t": "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "Then came the first, saying, Lord, thy pound hath gained ten pounds.",
+      "tokens": [
+        {
+          "t": "Then came the first, saying, Lord, thy pound hath gained ten pounds."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.",
+      "tokens": [
+        {
+          "t": "And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "And the second came, saying, Lord, thy pound hath gained five pounds.",
+      "tokens": [
+        {
+          "t": "And the second came, saying, Lord, thy pound hath gained five pounds."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "And he said likewise to him, Be thou also over five cities.",
+      "tokens": [
+        {
+          "t": "And he said likewise to him, Be thou also over five cities."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:",
+      "tokens": [
+        {
+          "t": "And another came, saying, Lord, behold, "
+        },
+        {
+          "add": "here is"
+        },
+        {
+          "t": " thy pound, which I have kept laid up in a napkin:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.",
+      "tokens": [
+        {
+          "t": "For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:",
+      "tokens": [
+        {
+          "t": "And he saith unto him, Out of thine own mouth will I judge thee, "
+        },
+        {
+          "add": "thou"
+        },
+        {
+          "t": " wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?",
+      "tokens": [
+        {
+          "t": "Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.",
+      "tokens": [
+        {
+          "t": "And he said unto them that stood by, Take from him the pound, and give "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " to him that hath ten pounds."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "(And they said unto him, Lord, he hath ten pounds.)",
+      "tokens": [
+        {
+          "t": "(And they said unto him, Lord, he hath ten pounds.)"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.",
+      "tokens": [
+        {
+          "t": "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.",
+      "tokens": [
+        {
+          "t": "But those mine enemies, which would not that I should reign over them, bring hither, and slay "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " before me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
+      "plain": "¶ And when he had thus spoken, he went before, ascending up to Jerusalem.",
       "tokens": [
         {
-          "t": "¶ And when he had thus spoken, he went before, ascending up to Jerusalem."
+          "t": "¶ And when he had thus spoken, he went before, ascending up to Jerusalem. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called the mount of Olives, he sent two of his disciples,",
       "tokens": [
         {
-          "t": "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called"
+          "t": "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called "
         },
         {
           "add": "the mount"
         },
         {
-          "t": "of Olives, he sent two of his disciples,"
+          "t": " of Olives, he sent two of his disciples, "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Saying, Go ye into the village over against you; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring him hither.",
       "tokens": [
         {
-          "t": "Saying,"
+          "t": "Saying, "
+        },
+        {
+          "t": "Go ye into the village over against "
+        },
+        {
+          "add": "you"
+        },
+        {
+          "t": "; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring "
+        },
+        {
+          "add": "him hither"
+        },
+        {
+          "t": "."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 31,
-      "tokens": null
+      "plain": "And if any man ask you, Why do ye loose him? thus shall ye say unto him, Because the Lord hath need of him.",
+      "tokens": [
+        {
+          "t": "And if any man ask you, Why do ye loose "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": "? thus shall ye say unto him, Because the Lord hath need of him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 32,
+      "plain": "And they that were sent went their way, and found even as he had said unto them.",
       "tokens": [
         {
-          "t": "And they that were sent went their way, and found even as he had said unto them."
+          "t": "And they that were sent went their way, and found even as he had said unto them. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?",
       "tokens": [
         {
-          "t": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?"
+          "t": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt? "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And they said, The Lord hath need of him.",
       "tokens": [
         {
-          "t": "And they said, The Lord hath need of him."
+          "t": "And they said, The Lord hath need of him. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon.",
       "tokens": [
         {
-          "t": "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon."
+          "t": "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And as he went, they spread their clothes in the way.",
       "tokens": [
         {
-          "t": "And as he went, they spread their clothes in the way."
+          "t": "And as he went, they spread their clothes in the way. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;",
       "tokens": [
         {
-          "t": "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;"
+          "t": "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen; "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "Saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.",
       "tokens": [
         {
-          "t": "Saying, Blessed"
+          "t": "Saying, Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "the King that cometh in the name of the Lord: peace in heaven, and glory in the highest."
+          "t": " the King that cometh in the name of the Lord: peace in heaven, and glory in the highest. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.",
       "tokens": [
         {
-          "t": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples."
+          "t": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.",
       "tokens": [
         {
-          "t": "And he answered and said unto them,"
+          "t": "And he answered and said unto them, "
+        },
+        {
+          "t": "I tell you that, if these should hold their peace, the stones would immediately cry out."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "¶ And when he was come near, he beheld the city, and wept over it,",
       "tokens": [
         {
-          "t": "¶ And when he was come near, he beheld the city, and wept over it,"
+          "t": "¶ And when he was come near, he beheld the city, and wept over it, "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes.",
       "tokens": [
         {
-          "t": "Saying,"
+          "t": "Saying, "
+        },
+        {
+          "t": "If thou hadst known, even thou, at least in this thy day, the things "
+        },
+        {
+          "add": "which belong"
+        },
+        {
+          "t": " unto thy peace! but now they are hid from thine eyes."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 43,
-      "tokens": null
+      "plain": "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,",
+      "tokens": [
+        {
+          "t": "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 44,
-      "tokens": null
+      "plain": "And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.",
+      "tokens": [
+        {
+          "t": "And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 45,
+      "plain": "And he went into the temple, and began to cast out them that sold therein, and them that bought;",
       "tokens": [
         {
-          "t": "And he went into the temple, and began to cast out them that sold therein, and them that bought;"
+          "t": "And he went into the temple, and began to cast out them that sold therein, and them that bought; "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.",
       "tokens": [
         {
-          "t": "Saying unto them,"
+          "t": "Saying unto them, "
+        },
+        {
+          "t": "It is written, My house is the house of prayer: but ye have made it a den of thieves."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,",
       "tokens": [
         {
-          "t": "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,"
+          "t": "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him, "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "And could not find what they might do: for all the people were very attentive to hear him.",
       "tokens": [
         {
-          "t": "And could not find what they might do: for all the people were very attentive to hear him."
+          "t": "And could not find what they might do: for all the people were very attentive to hear him. "
         }
       ]
     }

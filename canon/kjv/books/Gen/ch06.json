@@ -7,351 +7,373 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,",
       "tokens": [
         {
-          "t": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,"
+          "t": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.",
       "tokens": [
         {
-          "t": "That the sons of God saw the daughters of men that they"
+          "t": "That the sons of God saw the daughters of men that they "
         },
         {
           "add": "were"
         },
         {
-          "t": "fair; and they took them wives of all which they chose."
+          "t": " fair; and they took them wives of all which they chose. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said, My spirit shall not always strive with man, for that he also"
+          "t": " said, My spirit shall not always strive with man, for that he also "
         },
         {
           "add": "is"
         },
         {
-          "t": "flesh: yet his days shall be an hundred and twenty years."
+          "t": " flesh: yet his days shall be an hundred and twenty years. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.",
       "tokens": [
         {
-          "t": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare"
+          "t": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare "
         },
         {
           "add": "children"
         },
         {
-          "t": "to them, the same"
+          "t": " to them, the same "
         },
         {
           "add": "became"
         },
         {
-          "t": "mighty men which"
+          "t": " mighty men which "
         },
         {
           "add": "were"
         },
         {
-          "t": "of old, men of renown."
+          "t": " of old, men of renown. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And GOD saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.",
       "tokens": [
         {
-          "t": "¶ And"
+          "t": "¶ And "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "saw that the wickedness of man"
+          "t": " saw that the wickedness of man "
         },
         {
           "add": "was"
         },
         {
-          "t": "great in the earth, and"
+          "t": " great in the earth, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "every imagination of the thoughts of his heart"
+          "t": " every imagination of the thoughts of his heart "
         },
         {
           "add": "was"
         },
         {
-          "t": "only evil continually."
+          "t": " only evil continually. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And it repented the LORD that he had made man on the earth, and it grieved him at his heart.",
       "tokens": [
         {
-          "t": "And it repented the"
+          "t": "And it repented the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that he had made man on the earth, and it grieved him at his heart."
+          "t": " that he had made man on the earth, and it grieved him at his heart. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them."
+          "t": " said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But Noah found grace in the eyes of the LORD.",
       "tokens": [
         {
-          "t": "But Noah found grace in the eyes of the"
+          "t": "But Noah found grace in the eyes of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.",
       "tokens": [
         {
-          "t": "¶ These"
+          "t": "¶ These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the generations of Noah: Noah was a just man"
+          "t": " the generations of Noah: Noah was a just man "
         },
         {
           "add": "and"
         },
         {
-          "t": "perfect in his generations,"
+          "t": " perfect in his generations, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Noah walked with God."
+          "t": " Noah walked with God. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Noah begat three sons, Shem, Ham, and Japheth.",
       "tokens": [
         {
-          "t": "And Noah begat three sons, Shem, Ham, and Japheth."
+          "t": "And Noah begat three sons, Shem, Ham, and Japheth. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The earth also was corrupt before God, and the earth was filled with violence.",
       "tokens": [
         {
-          "t": "The earth also was corrupt before God, and the earth was filled with violence."
+          "t": "The earth also was corrupt before God, and the earth was filled with violence. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.",
       "tokens": [
         {
-          "t": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth."
+          "t": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
       "tokens": [
         {
-          "t": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth."
+          "t": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
       "tokens": [
         {
-          "t": "¶ Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch."
+          "t": "¶ Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
       "tokens": [
         {
-          "t": "And this"
+          "t": "And this "
         },
         {
           "add": "is the fashion"
         },
         {
-          "t": "which thou shalt make it"
+          "t": " which thou shalt make it "
         },
         {
           "add": "of:"
         },
         {
-          "t": "The length of the ark"
+          "t": " The length of the ark "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits."
+          "t": " three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it.",
       "tokens": [
         {
-          "t": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof;"
+          "t": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; "
         },
         {
           "add": "with"
         },
         {
-          "t": "lower, second, and third"
+          "t": " lower, second, and third "
         },
         {
           "add": "stories"
         },
         {
-          "t": "shalt thou make it."
+          "t": " shalt thou make it. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die.",
       "tokens": [
         {
-          "t": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein"
+          "t": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein "
         },
         {
           "add": "is"
         },
         {
-          "t": "the breath of life, from under heaven;"
+          "t": " the breath of life, from under heaven; "
         },
         {
           "add": "and"
         },
         {
-          "t": "every thing that"
+          "t": " every thing that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the earth shall die."
+          "t": " in the earth shall die. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee.",
       "tokens": [
         {
-          "t": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee."
+          "t": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female.",
       "tokens": [
         {
-          "t": "And of every living thing of all flesh, two of every"
+          "t": "And of every living thing of all flesh, two of every "
         },
         {
           "add": "sort"
         },
         {
-          "t": "shalt thou bring into the ark, to keep"
+          "t": " shalt thou bring into the ark, to keep "
         },
         {
           "add": "them"
         },
         {
-          "t": "alive with thee; they shall be male and female."
+          "t": " alive with thee; they shall be male and female. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive.",
       "tokens": [
         {
-          "t": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every"
+          "t": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every "
         },
         {
           "add": "sort"
         },
         {
-          "t": "shall come unto thee, to keep"
+          "t": " shall come unto thee, to keep "
         },
         {
           "add": "them"
         },
         {
-          "t": "alive."
+          "t": " alive. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them.",
       "tokens": [
         {
-          "t": "And take thou unto thee of all food that is eaten, and thou shalt gather"
+          "t": "And take thou unto thee of all food that is eaten, and thou shalt gather "
         },
         {
           "add": "it"
         },
         {
-          "t": "to thee; and it shall be for food for thee, and for them."
+          "t": " to thee; and it shall be for food for thee, and for them. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Thus did Noah; according to all that God commanded him, so did he.",
       "tokens": [
         {
-          "t": "Thus did Noah; according to all that God commanded him, so did he."
+          "t": "Thus did Noah; according to all that God commanded him, so did he. "
         }
       ]
     }

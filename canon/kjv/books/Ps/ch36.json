@@ -1,0 +1,245 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 36,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "The transgression of the wicked saith within my heart, that there is no fear of God before his eyes.",
+      "tokens": [
+        {
+          "t": "The transgression of the wicked saith within my heart, "
+        },
+        {
+          "add": "that there is"
+        },
+        {
+          "t": " no fear of God before his eyes. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful.",
+      "tokens": [
+        {
+          "t": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "The words of his mouth are iniquity and deceit: he hath left off to be wise, and to do good.",
+      "tokens": [
+        {
+          "t": "The words of his mouth "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " iniquity and deceit: he hath left off to be wise, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " to do good. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "He deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil.",
+      "tokens": [
+        {
+          "t": "He deviseth mischief upon his bed; he setteth himself in a way "
+        },
+        {
+          "add": "that is"
+        },
+        {
+          "t": " not good; he abhorreth not evil. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds.",
+      "tokens": [
+        {
+          "t": "Thy mercy, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in the heavens; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " thy faithfulness "
+        },
+        {
+          "add": "reacheth"
+        },
+        {
+          "t": " unto the clouds. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Thy righteousness is like the great mountains; thy judgments are a great deep: O LORD, thou preservest man and beast.",
+      "tokens": [
+        {
+          "t": "Thy righteousness "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " like the great mountains; thy judgments "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " a great deep: O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", thou preservest man and beast. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
+      "tokens": [
+        {
+          "t": "How excellent "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.",
+      "tokens": [
+        {
+          "t": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "For with thee is the fountain of life: in thy light shall we see light.",
+      "tokens": [
+        {
+          "t": "For with thee "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the fountain of life: in thy light shall we see light. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.",
+      "tokens": [
+        {
+          "t": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Let not the foot of pride come against me, and let not the hand of the wicked remove me.",
+      "tokens": [
+        {
+          "t": "Let not the foot of pride come against me, and let not the hand of the wicked remove me. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.",
+      "tokens": [
+        {
+          "t": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "until…: Heb. to find his iniquity to hate"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "mischief: or, vanity"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "the…: Heb. the mountains of God"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "excellent: Heb. precious"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 8
+      },
+      "text": "abundantly…: Heb. watered"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 10
+      },
+      "text": "continue: Heb. draw out at length"
+    }
+  ]
+}

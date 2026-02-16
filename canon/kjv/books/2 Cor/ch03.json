@@ -7,226 +7,244 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?",
       "tokens": [
         {
-          "t": "Do we begin again to commend ourselves? or need we, as some"
+          "t": "Do we begin again to commend ourselves? or need we, as some "
         },
         {
           "add": "others"
         },
         {
-          "t": ", epistles of commendation to you, or"
+          "t": ", epistles of commendation to you, or "
         },
         {
           "add": "letters"
         },
         {
-          "t": "of commendation from you?"
+          "t": " of commendation from you? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Ye are our epistle written in our hearts, known and read of all men:",
       "tokens": [
         {
-          "t": "Ye are our epistle written in our hearts, known and read of all men:"
+          "t": "Ye are our epistle written in our hearts, known and read of all men: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.",
       "tokens": [
         {
           "add": "Forasmuch as ye are"
         },
         {
-          "t": "manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart."
+          "t": " manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And such trust have we through Christ to God-ward:",
       "tokens": [
         {
-          "t": "And such trust have we through Christ to God-ward:"
+          "t": "And such trust have we through Christ to God-ward: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;",
       "tokens": [
         {
-          "t": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency"
+          "t": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency "
         },
         {
           "add": "is"
         },
         {
-          "t": "of God;"
+          "t": " of God; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.",
       "tokens": [
         {
-          "t": "Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life."
+          "t": "Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:",
       "tokens": [
         {
-          "t": "But if the ministration of death, written"
+          "t": "But if the ministration of death, written "
         },
         {
           "add": "and"
         },
         {
-          "t": "engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which"
+          "t": " engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which "
         },
         {
           "add": "glory"
         },
         {
-          "t": "was to be done away:"
+          "t": " was to be done away: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "How shall not the ministration of the spirit be rather glorious?",
       "tokens": [
         {
-          "t": "How shall not the ministration of the spirit be rather glorious?"
+          "t": "How shall not the ministration of the spirit be rather glorious? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For if the ministration of condemnation be glory, much more doth the ministration of righteousness exceed in glory.",
       "tokens": [
         {
-          "t": "For if the ministration of condemnation"
+          "t": "For if the ministration of condemnation "
         },
         {
           "add": "be"
         },
         {
-          "t": "glory, much more doth the ministration of righteousness exceed in glory."
+          "t": " glory, much more doth the ministration of righteousness exceed in glory. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.",
       "tokens": [
         {
-          "t": "For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth."
+          "t": "For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For if that which is done away was glorious, much more that which remaineth is glorious.",
       "tokens": [
         {
-          "t": "For if that which is done away"
+          "t": "For if that which is done away "
         },
         {
           "add": "was"
         },
         {
-          "t": "glorious, much more that which remaineth"
+          "t": " glorious, much more that which remaineth "
         },
         {
           "add": "is"
         },
         {
-          "t": "glorious."
+          "t": " glorious. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Seeing then that we have such hope, we use great plainness of speech:",
       "tokens": [
         {
-          "t": "Seeing then that we have such hope, we use great plainness of speech:"
+          "t": "Seeing then that we have such hope, we use great plainness of speech: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:",
       "tokens": [
         {
-          "t": "And not as Moses,"
+          "t": "And not as Moses, "
         },
         {
           "add": "which"
         },
         {
-          "t": "put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:"
+          "t": " put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.",
       "tokens": [
         {
-          "t": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which"
+          "t": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which "
         },
         {
           "add": "vail"
         },
         {
-          "t": "is done away in Christ."
+          "t": " is done away in Christ. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But even unto this day, when Moses is read, the vail is upon their heart.",
       "tokens": [
         {
-          "t": "But even unto this day, when Moses is read, the vail is upon their heart."
+          "t": "But even unto this day, when Moses is read, the vail is upon their heart. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Nevertheless when it shall turn to the Lord, the vail shall be taken away.",
       "tokens": [
         {
-          "t": "Nevertheless when it shall turn to the Lord, the vail shall be taken away."
+          "t": "Nevertheless when it shall turn to the Lord, the vail shall be taken away. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.",
       "tokens": [
         {
-          "t": "Now the Lord is that Spirit: and where the Spirit of the Lord"
+          "t": "Now the Lord is that Spirit: and where the Spirit of the Lord "
         },
         {
           "add": "is"
         },
         {
-          "t": ", there"
+          "t": ", there "
         },
         {
           "add": "is"
         },
         {
-          "t": "liberty."
+          "t": " liberty. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.",
       "tokens": [
         {
-          "t": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory,"
+          "t": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, "
         },
         {
           "add": "even"
         },
         {
-          "t": "as by the Spirit of the Lord."
+          "t": " as by the Spirit of the Lord. "
         }
       ]
     }

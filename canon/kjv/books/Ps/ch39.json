@@ -1,0 +1,277 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 39,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.",
+      "tokens": [
+        {
+          "t": "I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "I was dumb with silence, I held my peace, even from good; and my sorrow was stirred.",
+      "tokens": [
+        {
+          "t": "I was dumb with silence, I held my peace, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " from good; and my sorrow was stirred. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "My heart was hot within me, while I was musing the fire burned: then spake I with my tongue,",
+      "tokens": [
+        {
+          "t": "My heart was hot within me, while I was musing the fire burned: "
+        },
+        {
+          "add": " then"
+        },
+        {
+          "t": " spake I with my tongue, "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "LORD, make me to know mine end, and the measure of my days, what it is; that I may know how frail I am.",
+      "tokens": [
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", make me to know mine end, and the measure of my days, what it "
+        },
+        {
+          "add": "is; that"
+        },
+        {
+          "t": " I may know how frail I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Behold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah.",
+      "tokens": [
+        {
+          "t": "Behold, thou hast made my days "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " an handbreadth; and mine age "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " as nothing before thee: verily every man at his best state "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " altogether vanity. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.",
+      "tokens": [
+        {
+          "t": "Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up "
+        },
+        {
+          "add": "riches"
+        },
+        {
+          "t": ", and knoweth not who shall gather them. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "And now, Lord, what wait I for? my hope is in thee.",
+      "tokens": [
+        {
+          "t": "And now, Lord, what wait I for? my hope "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in thee. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Deliver me from all my transgressions: make me not the reproach of the foolish.",
+      "tokens": [
+        {
+          "t": "Deliver me from all my transgressions: make me not the reproach of the foolish. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "I was dumb, I opened not my mouth; because thou didst it.",
+      "tokens": [
+        {
+          "t": "I was dumb, I opened not my mouth; because thou didst "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Remove thy stroke away from me: I am consumed by the blow of thine hand.",
+      "tokens": [
+        {
+          "t": "Remove thy stroke away from me: I am consumed by the blow of thine hand. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.",
+      "tokens": [
+        {
+          "t": "When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " vanity. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Hear my prayer, O LORD, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.",
+      "tokens": [
+        {
+          "t": "Hear my prayer, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and give ear unto my cry; hold not thy peace at my tears: for I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " a stranger with thee, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " a sojourner, as all my fathers "
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "O spare me, that I may recover strength, before I go hence, and be no more.",
+      "tokens": [
+        {
+          "t": "O spare me, that I may recover strength, before I go hence, and be no more. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "my mouth…: Heb. a bridle, or, muzzle for my mouth"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "stirred: Heb. troubled"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "how…: or, what time I have here"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 5
+      },
+      "text": "at…: Heb. settled"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 6
+      },
+      "text": "a vain…: Heb. an image"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 10
+      },
+      "text": "blow: Heb. conflict"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 11
+      },
+      "text": "his…: Heb. that which is to be desired in him to melt away"
+    }
+  ]
+}

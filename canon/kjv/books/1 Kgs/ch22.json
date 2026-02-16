@@ -7,734 +7,787 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And they continued three years without war between Syria and Israel.",
       "tokens": [
         {
-          "t": "And they continued three years without war between Syria and Israel."
+          "t": "And they continued three years without war between Syria and Israel. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.",
       "tokens": [
         {
-          "t": "And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel."
+          "t": "And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the king of Israel said unto his servants, Know ye that Ramoth in Gilead is ours, and we be still, and take it not out of the hand of the king of Syria?",
       "tokens": [
         {
-          "t": "And the king of Israel said unto his servants, Know ye that Ramoth in Gilead"
+          "t": "And the king of Israel said unto his servants, Know ye that Ramoth in Gilead "
         },
         {
           "add": "is"
         },
         {
-          "t": "ours, and we"
+          "t": " ours, and we "
         },
         {
           "add": "be"
         },
         {
-          "t": "still,"
+          "t": " still, "
         },
         {
           "add": "and"
         },
         {
-          "t": "take it not out of the hand of the king of Syria?"
+          "t": " take it not out of the hand of the king of Syria? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth-gilead? And Jehoshaphat said to the king of Israel, I am as thou art, my people as thy people, my horses as thy horses.",
       "tokens": [
         {
-          "t": "And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth-gilead? And Jehoshaphat said to the king of Israel, I"
+          "t": "And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth-gilead? And Jehoshaphat said to the king of Israel, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "as thou"
+          "t": " as thou "
         },
         {
           "add": "art"
         },
         {
-          "t": ", my people as thy people, my horses as thy horses."
+          "t": ", my people as thy people, my horses as thy horses. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the LORD to day.",
       "tokens": [
         {
-          "t": "And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the"
+          "t": "And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to day."
+          "t": " to day. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramoth-gilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver it into the hand of the king.",
       "tokens": [
         {
-          "t": "Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramoth-gilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver"
+          "t": "Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramoth-gilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver "
         },
         {
           "add": "it"
         },
         {
-          "t": "into the hand of the king."
+          "t": " into the hand of the king. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Jehoshaphat said, Is there not here a prophet of the LORD besides, that we might enquire of him?",
       "tokens": [
         {
-          "t": "And Jehoshaphat said,"
+          "t": "And Jehoshaphat said, "
         },
         {
           "add": "Is there"
         },
         {
-          "t": "not here a prophet of the"
+          "t": " not here a prophet of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "besides, that we might enquire of him?"
+          "t": " besides, that we might enquire of him? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the king of Israel said unto Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by whom we may enquire of the LORD: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.",
       "tokens": [
         {
-          "t": "And the king of Israel said unto Jehoshaphat,"
+          "t": "And the king of Israel said unto Jehoshaphat, "
         },
         {
           "add": "There is"
         },
         {
-          "t": "yet one man, Micaiah the son of Imlah, by whom we may enquire of the"
+          "t": " yet one man, Micaiah the son of Imlah, by whom we may enquire of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so."
+          "t": ": but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Then the king of Israel called an officer, and said, Hasten hither Micaiah the son of Imlah.",
       "tokens": [
         {
-          "t": "Then the king of Israel called an officer, and said, Hasten"
+          "t": "Then the king of Israel called an officer, and said, Hasten "
         },
         {
           "add": "hither"
         },
         {
-          "t": "Micaiah the son of Imlah."
+          "t": " Micaiah the son of Imlah. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them.",
       "tokens": [
         {
-          "t": "And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them."
+          "t": "And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the LORD, With these shalt thou push the Syrians, until thou have consumed them.",
       "tokens": [
         {
-          "t": "And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the"
+          "t": "And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", With these shalt thou push the Syrians, until thou have consumed them."
+          "t": ", With these shalt thou push the Syrians, until thou have consumed them. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper: for the LORD shall deliver it into the king’s hand.",
       "tokens": [
         {
-          "t": "And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper: for the"
+          "t": "And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall deliver"
+          "t": " shall deliver "
         },
         {
           "add": "it"
         },
         {
-          "t": "into the king’s hand."
+          "t": " into the king’s hand. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets declare good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak that which is good.",
       "tokens": [
         {
-          "t": "And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets"
+          "t": "And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets "
         },
         {
           "add": "declare"
         },
         {
-          "t": "good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak"
+          "t": " good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "good."
+          "t": " good. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Micaiah said, As the LORD liveth, what the LORD saith unto me, that will I speak.",
       "tokens": [
         {
-          "t": "And Micaiah said,"
+          "t": "And Micaiah said, "
         },
         {
           "add": "As"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, what the"
+          "t": " liveth, what the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "saith unto me, that will I speak."
+          "t": " saith unto me, that will I speak. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ So he came to the king. And the king said unto him, Micaiah, shall we go against Ramoth-gilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the LORD shall deliver it into the hand of the king.",
       "tokens": [
         {
-          "t": "¶ So he came to the king. And the king said unto him, Micaiah, shall we go against Ramoth-gilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the"
+          "t": "¶ So he came to the king. And the king said unto him, Micaiah, shall we go against Ramoth-gilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall deliver"
+          "t": " shall deliver "
         },
         {
           "add": "it"
         },
         {
-          "t": "into the hand of the king."
+          "t": " into the hand of the king. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the king said unto him, How many times shall I adjure thee that thou tell me nothing but that which is true in the name of the LORD?",
       "tokens": [
         {
-          "t": "And the king said unto him, How many times shall I adjure thee that thou tell me nothing but"
+          "t": "And the king said unto him, How many times shall I adjure thee that thou tell me nothing but "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "true in the name of the"
+          "t": " true in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the LORD said, These have no master: let them return every man to his house in peace.",
       "tokens": [
         {
-          "t": "And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the"
+          "t": "And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said, These have no master: let them return every man to his house in peace."
+          "t": " said, These have no master: let them return every man to his house in peace. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the king of Israel said unto Jehoshaphat, Did I not tell thee that he would prophesy no good concerning me, but evil?",
       "tokens": [
         {
-          "t": "And the king of Israel said unto Jehoshaphat, Did I not tell thee that he would prophesy no good concerning me, but evil?"
+          "t": "And the king of Israel said unto Jehoshaphat, Did I not tell thee that he would prophesy no good concerning me, but evil? "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
       "tokens": [
         {
-          "t": "And he said, Hear thou therefore the word of the"
+          "t": "And he said, Hear thou therefore the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": I saw the"
+          "t": ": I saw the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sitting on his throne, and all the host of heaven standing by him on his right hand and on his left."
+          "t": " sitting on his throne, and all the host of heaven standing by him on his right hand and on his left. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramoth-gilead? And one said on this manner, and another said on that manner.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said, Who shall persuade Ahab, that he may go up and fall at Ramoth-gilead? And one said on this manner, and another said on that manner."
+          "t": " said, Who shall persuade Ahab, that he may go up and fall at Ramoth-gilead? And one said on this manner, and another said on that manner. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And there came forth a spirit, and stood before the LORD, and said, I will persuade him.",
       "tokens": [
         {
-          "t": "And there came forth a spirit, and stood before the"
+          "t": "And there came forth a spirit, and stood before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said, I will persuade him."
+          "t": ", and said, I will persuade him. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade"
+          "t": " said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade "
         },
         {
           "add": "him"
         },
         {
-          "t": ", and prevail also: go forth, and do so."
+          "t": ", and prevail also: go forth, and do so. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.",
       "tokens": [
         {
-          "t": "Now therefore, behold, the"
+          "t": "Now therefore, behold, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath put a lying spirit in the mouth of all these thy prophets, and the"
+          "t": " hath put a lying spirit in the mouth of all these thy prophets, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath spoken evil concerning thee."
+          "t": " hath spoken evil concerning thee. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?",
       "tokens": [
         {
-          "t": "But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the"
+          "t": "But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "from me to speak unto thee?"
+          "t": " from me to speak unto thee? "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself.",
       "tokens": [
         {
-          "t": "And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself."
+          "t": "And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son;",
       "tokens": [
         {
-          "t": "And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son;"
+          "t": "And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son; "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And say, Thus saith the king, Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace.",
       "tokens": [
         {
-          "t": "And say, Thus saith the king, Put this"
+          "t": "And say, Thus saith the king, Put this "
         },
         {
           "add": "fellow"
         },
         {
-          "t": "in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace."
+          "t": " in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Micaiah said, If thou return at all in peace, the LORD hath not spoken by me. And he said, Hearken, O people, every one of you.",
       "tokens": [
         {
-          "t": "And Micaiah said, If thou return at all in peace, the"
+          "t": "And Micaiah said, If thou return at all in peace, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath not spoken by me. And he said, Hearken, O people, every one of you."
+          "t": " hath not spoken by me. And he said, Hearken, O people, every one of you. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead.",
       "tokens": [
         {
-          "t": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead."
+          "t": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.",
       "tokens": [
         {
-          "t": "And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle."
+          "t": "And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel.",
       "tokens": [
         {
-          "t": "But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel."
+          "t": "But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it is the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out.",
       "tokens": [
         {
-          "t": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it"
+          "t": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it "
         },
         {
           "add": "is"
         },
         {
-          "t": "the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out."
+          "t": " the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And it came to pass, when the captains of the chariots perceived that it was not the king of Israel, that they turned back from pursuing him.",
       "tokens": [
         {
-          "t": "And it came to pass, when the captains of the chariots perceived that it"
+          "t": "And it came to pass, when the captains of the chariots perceived that it "
         },
         {
           "add": "was"
         },
         {
-          "t": "not the king of Israel, that they turned back from pursuing him."
+          "t": " not the king of Israel, that they turned back from pursuing him. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded.",
       "tokens": [
         {
-          "t": "And a"
+          "t": "And a "
         },
         {
           "add": "certain"
         },
         {
-          "t": "man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded."
+          "t": " man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot.",
       "tokens": [
         {
-          "t": "And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot."
+          "t": "And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country.",
       "tokens": [
         {
-          "t": "And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country."
+          "t": "And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "¶ So the king died, and was brought to Samaria; and they buried the king in Samaria.",
       "tokens": [
         {
-          "t": "¶ So the king died, and was brought to Samaria; and they buried the king in Samaria."
+          "t": "¶ So the king died, and was brought to Samaria; and they buried the king in Samaria. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And one washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the LORD which he spake.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "one"
         },
         {
-          "t": "washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the"
+          "t": " washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "which he spake."
+          "t": " which he spake. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel?",
       "tokens": [
         {
-          "t": "Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built,"
+          "t": "Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, "
         },
         {
           "add": "are"
         },
         {
-          "t": "they not written in the book of the chronicles of the kings of Israel?"
+          "t": " they not written in the book of the chronicles of the kings of Israel? "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "So Ahab slept with his fathers; and Ahaziah his son reigned in his stead.",
       "tokens": [
         {
-          "t": "So Ahab slept with his fathers; and Ahaziah his son reigned in his stead."
+          "t": "So Ahab slept with his fathers; and Ahaziah his son reigned in his stead. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "¶ And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.",
       "tokens": [
         {
-          "t": "¶ And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel."
+          "t": "¶ And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "Jehoshaphat was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name was Azubah the daughter of Shilhi.",
       "tokens": [
         {
-          "t": "Jehoshaphat"
+          "t": "Jehoshaphat "
         },
         {
           "add": "was"
         },
         {
-          "t": "thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name"
+          "t": " thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Azubah the daughter of Shilhi."
+          "t": " Azubah the daughter of Shilhi. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "And he walked in all the ways of Asa his father; he turned not aside from it, doing that which was right in the eyes of the LORD: nevertheless the high places were not taken away; for the people offered and burnt incense yet in the high places.",
       "tokens": [
         {
-          "t": "And he walked in all the ways of Asa his father; he turned not aside from it, doing"
+          "t": "And he walked in all the ways of Asa his father; he turned not aside from it, doing "
         },
         {
           "add": "that which was"
         },
         {
-          "t": "right in the eyes of the"
+          "t": " right in the eyes of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": nevertheless the high places were not taken away;"
+          "t": ": nevertheless the high places were not taken away; "
         },
         {
           "add": "for"
         },
         {
-          "t": "the people offered and burnt incense yet in the high places."
+          "t": " the people offered and burnt incense yet in the high places. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And Jehoshaphat made peace with the king of Israel.",
       "tokens": [
         {
-          "t": "And Jehoshaphat made peace with the king of Israel."
+          "t": "And Jehoshaphat made peace with the king of Israel. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred, are they not written in the book of the chronicles of the kings of Judah?",
       "tokens": [
         {
-          "t": "Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred,"
+          "t": "Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred, "
         },
         {
           "add": "are"
         },
         {
-          "t": "they not written in the book of the chronicles of the kings of Judah?"
+          "t": " they not written in the book of the chronicles of the kings of Judah? "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land.",
       "tokens": [
         {
-          "t": "And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land."
+          "t": "And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land. "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "There was then no king in Edom: a deputy was king.",
       "tokens": [
         {
           "add": "There was"
         },
         {
-          "t": "then no king in Edom: a deputy"
+          "t": " then no king in Edom: a deputy "
         },
         {
           "add": "was"
         },
         {
-          "t": "king."
+          "t": " king. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion-geber.",
       "tokens": [
         {
-          "t": "Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion-geber."
+          "t": "Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion-geber. "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.",
       "tokens": [
         {
-          "t": "Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not."
+          "t": "Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not. "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "¶ And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead.",
       "tokens": [
         {
-          "t": "¶ And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead."
+          "t": "¶ And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead. "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "¶ Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.",
       "tokens": [
         {
-          "t": "¶ Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel."
+          "t": "¶ Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel. "
         }
       ]
     },
     {
       "v": 52,
+      "plain": "And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:",
       "tokens": [
         {
-          "t": "And he did evil in the sight of the"
+          "t": "And he did evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:"
+          "t": ", and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin: "
         }
       ]
     },
     {
       "v": 53,
+      "plain": "For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.",
       "tokens": [
         {
-          "t": "For he served Baal, and worshipped him, and provoked to anger the"
+          "t": "For he served Baal, and worshipped him, and provoked to anger the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, according to all that his father had done."
+          "t": " God of Israel, according to all that his father had done. "
         }
       ]
     }

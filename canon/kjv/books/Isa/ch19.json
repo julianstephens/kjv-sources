@@ -7,405 +7,430 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.",
       "tokens": [
         {
-          "t": "The burden of Egypt. Behold, the"
+          "t": "The burden of Egypt. Behold, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it."
+          "t": " rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom.",
       "tokens": [
         {
-          "t": "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city,"
+          "t": "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, "
         },
         {
           "add": "and"
         },
         {
-          "t": "kingdom against kingdom."
+          "t": " kingdom against kingdom. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.",
       "tokens": [
         {
-          "t": "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards."
+          "t": "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the LORD of hosts.",
       "tokens": [
         {
-          "t": "And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the"
+          "t": "And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts."
+          "t": " of hosts. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the waters shall fail from the sea, and the river shall be wasted and dried up.",
       "tokens": [
         {
-          "t": "And the waters shall fail from the sea, and the river shall be wasted and dried up."
+          "t": "And the waters shall fail from the sea, and the river shall be wasted and dried up. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And they shall turn the rivers far away; and the brooks of defence shall be emptied and dried up: the reeds and flags shall wither.",
       "tokens": [
         {
-          "t": "And they shall turn the rivers far away;"
+          "t": "And they shall turn the rivers far away; "
         },
         {
           "add": "and"
         },
         {
-          "t": "the brooks of defence shall be emptied and dried up: the reeds and flags shall wither."
+          "t": " the brooks of defence shall be emptied and dried up: the reeds and flags shall wither. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no more.",
       "tokens": [
         {
-          "t": "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no"
+          "t": "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no "
         },
         {
           "add": "more"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish.",
       "tokens": [
         {
-          "t": "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish."
+          "t": "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Moreover they that work in fine flax, and they that weave networks, shall be confounded.",
       "tokens": [
         {
-          "t": "Moreover they that work in fine flax, and they that weave networks, shall be confounded."
+          "t": "Moreover they that work in fine flax, and they that weave networks, shall be confounded. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And they shall be broken in the purposes thereof, all that make sluices and ponds for fish.",
       "tokens": [
         {
-          "t": "And they shall be broken in the purposes thereof, all that make sluices"
+          "t": "And they shall be broken in the purposes thereof, all that make sluices "
         },
         {
           "add": "and"
         },
         {
-          "t": "ponds for fish."
+          "t": " ponds for fish. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Surely the princes of Zoan are fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I am the son of the wise, the son of ancient kings?",
       "tokens": [
         {
-          "t": "¶ Surely the princes of Zoan"
+          "t": "¶ Surely the princes of Zoan "
         },
         {
           "add": "are"
         },
         {
-          "t": "fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I"
+          "t": " fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the son of the wise, the son of ancient kings?"
+          "t": " the son of the wise, the son of ancient kings? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Where are they? where are thy wise men? and let them tell thee now, and let them know what the LORD of hosts hath purposed upon Egypt.",
       "tokens": [
         {
-          "t": "Where"
+          "t": "Where "
         },
         {
           "add": "are"
         },
         {
-          "t": "they? where"
+          "t": " they? where "
         },
         {
           "add": "are"
         },
         {
-          "t": "thy wise"
+          "t": " thy wise "
         },
         {
           "add": "men"
         },
         {
-          "t": "? and let them tell thee now, and let them know what the"
+          "t": "? and let them tell thee now, and let them know what the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts hath purposed upon Egypt."
+          "t": " of hosts hath purposed upon Egypt. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt, even they that are the stay of the tribes thereof.",
       "tokens": [
         {
-          "t": "The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt,"
+          "t": "The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt, "
         },
         {
           "add": "even they that are"
         },
         {
-          "t": "the stay of the tribes thereof."
+          "t": " the stay of the tribes thereof. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The LORD hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken"
+          "t": " hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken "
         },
         {
           "add": "man"
         },
         {
-          "t": "staggereth in his vomit."
+          "t": " staggereth in his vomit. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Neither shall there be any work for Egypt, which the head or tail, branch or rush, may do.",
       "tokens": [
         {
-          "t": "Neither shall there be"
+          "t": "Neither shall there be "
         },
         {
           "add": "any"
         },
         {
-          "t": "work for Egypt, which the head or tail, branch or rush, may do."
+          "t": " work for Egypt, which the head or tail, branch or rush, may do. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the LORD of hosts, which he shaketh over it.",
       "tokens": [
         {
-          "t": "In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the"
+          "t": "In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, which he shaketh over it."
+          "t": " of hosts, which he shaketh over it. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the LORD of hosts, which he hath determined against it.",
       "tokens": [
         {
-          "t": "And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the"
+          "t": "And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, which he hath determined against it."
+          "t": " of hosts, which he hath determined against it. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the LORD of hosts; one shall be called, The city of destruction.",
       "tokens": [
         {
-          "t": "¶ In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the"
+          "t": "¶ In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts; one shall be called, The city of destruction."
+          "t": " of hosts; one shall be called, The city of destruction. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "In that day shall there be an altar to the LORD in the midst of the land of Egypt, and a pillar at the border thereof to the LORD.",
       "tokens": [
         {
-          "t": "In that day shall there be an altar to the"
+          "t": "In that day shall there be an altar to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in the midst of the land of Egypt, and a pillar at the border thereof to the"
+          "t": " in the midst of the land of Egypt, and a pillar at the border thereof to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And it shall be for a sign and for a witness unto the LORD of hosts in the land of Egypt: for they shall cry unto the LORD because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.",
       "tokens": [
         {
-          "t": "And it shall be for a sign and for a witness unto the"
+          "t": "And it shall be for a sign and for a witness unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts in the land of Egypt: for they shall cry unto the"
+          "t": " of hosts in the land of Egypt: for they shall cry unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them."
+          "t": " because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And the LORD shall be known to Egypt, and the Egyptians shall know the LORD in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the LORD, and perform it.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall be known to Egypt, and the Egyptians shall know the"
+          "t": " shall be known to Egypt, and the Egyptians shall know the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the"
+          "t": " in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and perform"
+          "t": ", and perform "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And the LORD shall smite Egypt: he shall smite and heal it: and they shall return even to the LORD, and he shall be intreated of them, and shall heal them.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall smite Egypt: he shall smite and heal"
+          "t": " shall smite Egypt: he shall smite and heal "
         },
         {
           "add": "it:"
         },
         {
-          "t": "and they shall return"
+          "t": " and they shall return "
         },
         {
           "add": "even"
         },
         {
-          "t": "to the"
+          "t": " to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and he shall be intreated of them, and shall heal them."
+          "t": ", and he shall be intreated of them, and shall heal them. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians.",
       "tokens": [
         {
-          "t": "¶ In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians."
+          "t": "¶ In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "In that day shall Israel be the third with Egypt and with Assyria, even a blessing in the midst of the land:",
       "tokens": [
         {
-          "t": "In that day shall Israel be the third with Egypt and with Assyria,"
+          "t": "In that day shall Israel be the third with Egypt and with Assyria, "
         },
         {
           "add": "even"
         },
         {
-          "t": "a blessing in the midst of the land:"
+          "t": " a blessing in the midst of the land: "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Whom the LORD of hosts shall bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.",
       "tokens": [
         {
-          "t": "Whom the"
+          "t": "Whom the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts shall bless, saying, Blessed"
+          "t": " of hosts shall bless, saying, Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "Egypt my people, and Assyria the work of my hands, and Israel mine inheritance."
+          "t": " Egypt my people, and Assyria the work of my hands, and Israel mine inheritance. "
         }
       ]
     }

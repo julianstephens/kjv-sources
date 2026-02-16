@@ -7,462 +7,493 @@
   "verses": [
     {
       "v": 1,
+      "plain": "A false balance is abomination to the LORD: but a just weight is his delight.",
       "tokens": [
         {
-          "t": "A false balance"
+          "t": "A false balance "
         },
         {
           "add": "is"
         },
         {
-          "t": "abomination to the"
+          "t": " abomination to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": but a just weight"
+          "t": ": but a just weight "
         },
         {
           "add": "is"
         },
         {
-          "t": "his delight."
+          "t": " his delight. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "When pride cometh, then cometh shame: but with the lowly is wisdom.",
       "tokens": [
         {
           "add": "When"
         },
         {
-          "t": "pride cometh, then cometh shame: but with the lowly"
+          "t": " pride cometh, then cometh shame: but with the lowly "
         },
         {
           "add": "is"
         },
         {
-          "t": "wisdom."
+          "t": " wisdom. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.",
       "tokens": [
         {
-          "t": "The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them."
+          "t": "The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Riches profit not in the day of wrath: but righteousness delivereth from death.",
       "tokens": [
         {
-          "t": "Riches profit not in the day of wrath: but righteousness delivereth from death."
+          "t": "Riches profit not in the day of wrath: but righteousness delivereth from death. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness.",
       "tokens": [
         {
-          "t": "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness."
+          "t": "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness.",
       "tokens": [
         {
-          "t": "The righteousness of the upright shall deliver them: but transgressors shall be taken in"
+          "t": "The righteousness of the upright shall deliver them: but transgressors shall be taken in "
         },
         {
           "add": "their own"
         },
         {
-          "t": "naughtiness."
+          "t": " naughtiness. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "When a wicked man dieth, his expectation shall perish: and the hope of unjust men perisheth.",
       "tokens": [
         {
-          "t": "When a wicked man dieth,"
+          "t": "When a wicked man dieth, "
         },
         {
           "add": "his"
         },
         {
-          "t": "expectation shall perish: and the hope of unjust"
+          "t": " expectation shall perish: and the hope of unjust "
         },
         {
           "add": "men"
         },
         {
-          "t": "perisheth."
+          "t": " perisheth. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The righteous is delivered out of trouble, and the wicked cometh in his stead.",
       "tokens": [
         {
-          "t": "The righteous is delivered out of trouble, and the wicked cometh in his stead."
+          "t": "The righteous is delivered out of trouble, and the wicked cometh in his stead. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.",
       "tokens": [
         {
-          "t": "An hypocrite with"
+          "t": "An hypocrite with "
         },
         {
           "add": "his"
         },
         {
-          "t": "mouth destroyeth his neighbour: but through knowledge shall the just be delivered."
+          "t": " mouth destroyeth his neighbour: but through knowledge shall the just be delivered. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.",
       "tokens": [
         {
-          "t": "When it goeth well with the righteous, the city rejoiceth: and when the wicked perish,"
+          "t": "When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, "
         },
         {
           "add": "there is"
         },
         {
-          "t": "shouting."
+          "t": " shouting. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.",
       "tokens": [
         {
-          "t": "By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked."
+          "t": "By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.",
       "tokens": [
         {
-          "t": "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace."
+          "t": "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.",
       "tokens": [
         {
-          "t": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter."
+          "t": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Where no counsel is, the people fall: but in the multitude of counsellors there is safety.",
       "tokens": [
         {
-          "t": "Where no counsel"
+          "t": "Where no counsel "
         },
         {
           "add": "is"
         },
         {
-          "t": ", the people fall: but in the multitude of counsellors"
+          "t": ", the people fall: but in the multitude of counsellors "
         },
         {
           "add": "there is"
         },
         {
-          "t": "safety."
+          "t": " safety. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.",
       "tokens": [
         {
-          "t": "He that is surety for a stranger shall smart"
+          "t": "He that is surety for a stranger shall smart "
         },
         {
           "add": "for it:"
         },
         {
-          "t": "and he that hateth suretiship is sure."
+          "t": " and he that hateth suretiship is sure. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "A gracious woman retaineth honour: and strong men retain riches.",
       "tokens": [
         {
-          "t": "A gracious woman retaineth honour: and strong"
+          "t": "A gracious woman retaineth honour: and strong "
         },
         {
           "add": "men"
         },
         {
-          "t": "retain riches."
+          "t": " retain riches. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh.",
       "tokens": [
         {
-          "t": "The merciful man doeth good to his own soul: but"
+          "t": "The merciful man doeth good to his own soul: but "
         },
         {
           "add": "he that is"
         },
         {
-          "t": "cruel troubleth his own flesh."
+          "t": " cruel troubleth his own flesh. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "The wicked worketh a deceitful work: but to him that soweth righteousness shall be a sure reward.",
       "tokens": [
         {
-          "t": "The wicked worketh a deceitful work: but to him that soweth righteousness"
+          "t": "The wicked worketh a deceitful work: but to him that soweth righteousness "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a sure reward."
+          "t": " a sure reward. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death.",
       "tokens": [
         {
-          "t": "As righteousness"
+          "t": "As righteousness "
         },
         {
           "add": "tendeth"
         },
         {
-          "t": "to life: so he that pursueth evil"
+          "t": " to life: so he that pursueth evil "
         },
         {
           "add": "pursueth it"
         },
         {
-          "t": "to his own death."
+          "t": " to his own death. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "They that are of a froward heart are abomination to the LORD: but such as are upright in their way are his delight.",
       "tokens": [
         {
-          "t": "They that are of a froward heart"
+          "t": "They that are of a froward heart "
         },
         {
           "add": "are"
         },
         {
-          "t": "abomination to the"
+          "t": " abomination to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": but"
+          "t": ": but "
         },
         {
           "add": "such as are"
         },
         {
-          "t": "upright in"
+          "t": " upright in "
         },
         {
           "add": "their"
         },
         {
-          "t": "way"
+          "t": " way "
         },
         {
           "add": "are"
         },
         {
-          "t": "his delight."
+          "t": " his delight. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.",
       "tokens": [
         {
           "add": "Though"
         },
         {
-          "t": "hand"
+          "t": " hand "
         },
         {
           "add": "join"
         },
         {
-          "t": "in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered."
+          "t": " in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "As a jewel of gold in a swine’s snout, so is a fair woman which is without discretion.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "a jewel of gold in a swine’s snout,"
+          "t": " a jewel of gold in a swine’s snout, "
         },
         {
           "add": "so is"
         },
         {
-          "t": "a fair woman which is without discretion."
+          "t": " a fair woman which is without discretion. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The desire of the righteous is only good: but the expectation of the wicked is wrath.",
       "tokens": [
         {
-          "t": "The desire of the righteous"
+          "t": "The desire of the righteous "
         },
         {
           "add": "is"
         },
         {
-          "t": "only good:"
+          "t": " only good: "
         },
         {
           "add": "but"
         },
         {
-          "t": "the expectation of the wicked"
+          "t": " the expectation of the wicked "
         },
         {
           "add": "is"
         },
         {
-          "t": "wrath."
+          "t": " wrath. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty.",
       "tokens": [
         {
-          "t": "There is that scattereth, and yet increaseth; and"
+          "t": "There is that scattereth, and yet increaseth; and "
         },
         {
           "add": "there is"
         },
         {
-          "t": "that withholdeth more than is meet, but"
+          "t": " that withholdeth more than is meet, but "
         },
         {
           "add": "it tendeth"
         },
         {
-          "t": "to poverty."
+          "t": " to poverty. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
       "tokens": [
         {
-          "t": "The liberal soul shall be made fat: and he that watereth shall be watered also himself."
+          "t": "The liberal soul shall be made fat: and he that watereth shall be watered also himself. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.",
       "tokens": [
         {
-          "t": "He that withholdeth corn, the people shall curse him: but blessing"
+          "t": "He that withholdeth corn, the people shall curse him: but blessing "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "upon the head of him that selleth"
+          "t": " upon the head of him that selleth "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him.",
       "tokens": [
         {
-          "t": "He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him."
+          "t": "He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "He that trusteth in his riches shall fall: but the righteous shall flourish as a branch.",
       "tokens": [
         {
-          "t": "He that trusteth in his riches shall fall: but the righteous shall flourish as a branch."
+          "t": "He that trusteth in his riches shall fall: but the righteous shall flourish as a branch. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "He that troubleth his own house shall inherit the wind: and the fool shall be servant to the wise of heart.",
       "tokens": [
         {
-          "t": "He that troubleth his own house shall inherit the wind: and the fool"
+          "t": "He that troubleth his own house shall inherit the wind: and the fool "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "servant to the wise of heart."
+          "t": " servant to the wise of heart. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "The fruit of the righteous is a tree of life; and he that winneth souls is wise.",
       "tokens": [
         {
-          "t": "The fruit of the righteous"
+          "t": "The fruit of the righteous "
         },
         {
           "add": "is"
         },
         {
-          "t": "a tree of life; and he that winneth souls"
+          "t": " a tree of life; and he that winneth souls "
         },
         {
           "add": "is"
         },
         {
-          "t": "wise."
+          "t": " wise. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner.",
       "tokens": [
         {
-          "t": "Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner."
+          "t": "Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner. "
         }
       ]
     }

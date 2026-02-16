@@ -7,541 +7,775 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.",
       "tokens": [
         {
-          "t": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases."
+          "t": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And he sent them to preach the kingdom of God, and to heal the sick.",
       "tokens": [
         {
-          "t": "And he sent them to preach the kingdom of God, and to heal the sick."
+          "t": "And he sent them to preach the kingdom of God, and to heal the sick. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece.",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "Take nothing for "
+        },
+        {
+          "add": "your"
+        },
+        {
+          "t": " journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "And whatsoever house ye enter into, there abide, and thence depart.",
+      "tokens": [
+        {
+          "t": "And whatsoever house ye enter into, there abide, and thence depart."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.",
+      "tokens": [
+        {
+          "t": "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
+      "plain": "And they departed, and went through the towns, preaching the gospel, and healing every where.",
       "tokens": [
         {
-          "t": "And they departed, and went through the towns, preaching the gospel, and healing every where."
+          "t": "And they departed, and went through the towns, preaching the gospel, and healing every where. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;",
       "tokens": [
         {
-          "t": "¶ Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;"
+          "t": "¶ Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.",
       "tokens": [
         {
-          "t": "And of some, that Elias had appeared; and of others, that one of the old prophets was risen again."
+          "t": "And of some, that Elias had appeared; and of others, that one of the old prophets was risen again. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him.",
       "tokens": [
         {
-          "t": "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him."
+          "t": "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida.",
       "tokens": [
         {
-          "t": "¶ And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida."
+          "t": "¶ And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the people, when they knew it, followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing.",
       "tokens": [
         {
-          "t": "And the people, when they knew"
+          "t": "And the people, when they knew "
         },
         {
           "add": "it"
         },
         {
-          "t": ", followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing."
+          "t": ", followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place.",
       "tokens": [
         {
-          "t": "And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place."
+          "t": "And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people.",
       "tokens": [
         {
-          "t": "And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people."
+          "t": "But he said unto them, "
         },
         {
-          "t": "But he said unto them, And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people."
+          "t": "Give ye them to eat."
+        },
+        {
+          "t": " And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.",
       "tokens": [
         {
-          "t": "For they were about five thousand men. And he said to his disciples,"
+          "t": "For they were about five thousand men. And he said to his disciples, "
+        },
+        {
+          "t": "Make them sit down by fifties in a company."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And they did so, and made them all sit down.",
       "tokens": [
         {
-          "t": "And they did so, and made them all sit down."
+          "t": "And they did so, and made them all sit down. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude.",
       "tokens": [
         {
-          "t": "Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude."
+          "t": "Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets.",
       "tokens": [
         {
-          "t": "And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets."
+          "t": "And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?",
       "tokens": [
         {
-          "t": "¶ And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying,"
+          "t": "¶ And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, "
+        },
+        {
+          "t": "Whom say the people that I am?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "They answering said, John the Baptist; but some say, Elias; and others say, that one of the old prophets is risen again.",
       "tokens": [
         {
-          "t": "They answering said, John the Baptist; but some"
+          "t": "They answering said, John the Baptist; but some "
         },
         {
           "add": "say"
         },
         {
-          "t": ", Elias; and others"
+          "t": ", Elias; and others "
         },
         {
           "add": "say"
         },
         {
-          "t": ", that one of the old prophets is risen again."
+          "t": ", that one of the old prophets is risen again. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "He said unto them, But whom say ye that I am? Peter answering said, The Christ of God.",
       "tokens": [
         {
-          "t": "Peter answering said, The Christ of God."
+          "t": "He said unto them, "
         },
         {
-          "t": "He said unto them, Peter answering said, The Christ of God."
+          "t": "But whom say ye that I am?"
+        },
+        {
+          "t": " Peter answering said, The Christ of God. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he straitly charged them, and commanded them to tell no man that thing;",
       "tokens": [
         {
-          "t": "And he straitly charged them, and commanded"
+          "t": "And he straitly charged them, and commanded "
         },
         {
           "add": "them"
         },
         {
-          "t": "to tell no man that thing;"
+          "t": " to tell no man that thing; "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.",
       "tokens": [
         {
-          "t": "Saying,"
+          "t": "Saying, "
+        },
+        {
+          "t": "The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.",
       "tokens": [
         {
-          "t": "¶ And he said to"
+          "t": "¶ And he said to "
         },
         {
           "add": "them"
         },
         {
-          "t": "all,"
-        }
-      ]
-    },
-    {
-      "v": 24,
-      "tokens": null
-    },
-    {
-      "v": 25,
-      "tokens": null
-    },
-    {
-      "v": 26,
-      "tokens": null
-    },
-    {
-      "v": 27,
-      "tokens": null
-    },
-    {
-      "v": 28,
-      "tokens": [
-        {
-          "t": "¶ And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray."
-        }
-      ]
-    },
-    {
-      "v": 29,
-      "tokens": [
-        {
-          "t": "And as he prayed, the fashion of his countenance was altered, and his raiment"
+          "t": " all, "
         },
         {
-          "add": "was"
-        },
-        {
-          "t": "white"
-        },
-        {
-          "add": "and"
-        },
-        {
-          "t": "glistering."
-        }
-      ]
-    },
-    {
-      "v": 30,
-      "tokens": [
-        {
-          "t": "And, behold, there talked with him two men, which were Moses and Elias:"
-        }
-      ]
-    },
-    {
-      "v": 31,
-      "tokens": [
-        {
-          "t": "Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem."
-        }
-      ]
-    },
-    {
-      "v": 32,
-      "tokens": [
-        {
-          "t": "But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him."
-        }
-      ]
-    },
-    {
-      "v": 33,
-      "tokens": [
-        {
-          "t": "And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said."
-        }
-      ]
-    },
-    {
-      "v": 34,
-      "tokens": [
-        {
-          "t": "While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud."
-        }
-      ]
-    },
-    {
-      "v": 35,
-      "tokens": [
-        {
-          "t": "And there came a voice out of the cloud, saying, This is my beloved Son: hear him."
-        }
-      ]
-    },
-    {
-      "v": 36,
-      "tokens": [
-        {
-          "t": "And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen."
-        }
-      ]
-    },
-    {
-      "v": 37,
-      "tokens": [
-        {
-          "t": "¶ And it came to pass, that on the next day, when they were come down from the hill, much people met him."
-        }
-      ]
-    },
-    {
-      "v": 38,
-      "tokens": [
-        {
-          "t": "And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child."
-        }
-      ]
-    },
-    {
-      "v": 39,
-      "tokens": [
-        {
-          "t": "And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him."
-        }
-      ]
-    },
-    {
-      "v": 40,
-      "tokens": [
-        {
-          "t": "And I besought thy disciples to cast him out; and they could not."
-        }
-      ]
-    },
-    {
-      "v": 41,
-      "tokens": [
-        {
-          "t": "And Jesus answering said,"
-        }
-      ]
-    },
-    {
-      "v": 42,
-      "tokens": [
-        {
-          "t": "And as he was yet a coming, the devil threw him down, and tare"
-        },
-        {
-          "add": "him"
-        },
-        {
-          "t": ". And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father."
-        }
-      ]
-    },
-    {
-      "v": 43,
-      "tokens": [
-        {
-          "t": "¶ And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,"
-        }
-      ]
-    },
-    {
-      "v": 44,
-      "tokens": null
-    },
-    {
-      "v": 45,
-      "tokens": [
-        {
-          "t": "But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying."
-        }
-      ]
-    },
-    {
-      "v": 46,
-      "tokens": [
-        {
-          "t": "¶ Then there arose a reasoning among them, which of them should be greatest."
-        }
-      ]
-    },
-    {
-      "v": 47,
-      "tokens": [
-        {
-          "t": "And Jesus, perceiving the thought of their heart, took a child, and set him by him,"
-        }
-      ]
-    },
-    {
-      "v": 48,
-      "tokens": [
-        {
-          "t": "And said unto them,"
-        }
-      ]
-    },
-    {
-      "v": 49,
-      "tokens": [
-        {
-          "t": "¶ And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us."
-        }
-      ]
-    },
-    {
-      "v": 50,
-      "tokens": [
-        {
-          "t": "And Jesus said unto him,"
-        }
-      ]
-    },
-    {
-      "v": 51,
-      "tokens": [
-        {
-          "t": "¶ And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,"
-        }
-      ]
-    },
-    {
-      "v": 52,
-      "tokens": [
-        {
-          "t": "And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him."
-        }
-      ]
-    },
-    {
-      "v": 53,
-      "tokens": [
-        {
-          "t": "And they did not receive him, because his face was as though he would go to Jerusalem."
-        }
-      ]
-    },
-    {
-      "v": 54,
-      "tokens": [
-        {
-          "t": "And when his disciples James and John saw"
-        },
-        {
-          "add": "this"
-        },
-        {
-          "t": ", they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?"
-        }
-      ]
-    },
-    {
-      "v": 55,
-      "tokens": [
-        {
-          "t": "But he turned, and rebuked them, and said,"
-        }
-      ]
-    },
-    {
-      "v": 56,
-      "tokens": [
-        {
-          "t": "And they went to another village."
-        },
-        {
-          "t": "And they went to another village."
-        }
-      ]
-    },
-    {
-      "v": 57,
-      "tokens": [
-        {
-          "t": "¶ And it came to pass, that, as they went in the way, a certain"
+          "t": "If any "
         },
         {
           "add": "man"
         },
         {
-          "t": "said unto him, Lord, I will follow thee whithersoever thou goest."
+          "t": " will come after me, let him deny himself, and take up his cross daily, and follow me."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.",
+      "tokens": [
+        {
+          "t": "For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "plain": "For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?",
+      "tokens": [
+        {
+          "t": "For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?"
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "plain": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father’s, and of the holy angels.",
+      "tokens": [
+        {
+          "t": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and "
+        },
+        {
+          "add": "in his"
+        },
+        {
+          "t": " Father’s, and of the holy angels."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "plain": "But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God.",
+      "tokens": [
+        {
+          "t": "But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "plain": "¶ And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.",
+      "tokens": [
+        {
+          "t": "¶ And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray. "
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "plain": "And as he prayed, the fashion of his countenance was altered, and his raiment was white and glistering.",
+      "tokens": [
+        {
+          "t": "And as he prayed, the fashion of his countenance was altered, and his raiment "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " white "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " glistering. "
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "plain": "And, behold, there talked with him two men, which were Moses and Elias:",
+      "tokens": [
+        {
+          "t": "And, behold, there talked with him two men, which were Moses and Elias: "
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "plain": "Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem.",
+      "tokens": [
+        {
+          "t": "Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem. "
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "plain": "But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him.",
+      "tokens": [
+        {
+          "t": "But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him. "
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "plain": "And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said.",
+      "tokens": [
+        {
+          "t": "And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said. "
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "plain": "While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud.",
+      "tokens": [
+        {
+          "t": "While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud. "
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "plain": "And there came a voice out of the cloud, saying, This is my beloved Son: hear him.",
+      "tokens": [
+        {
+          "t": "And there came a voice out of the cloud, saying, This is my beloved Son: hear him. "
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "plain": "And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen.",
+      "tokens": [
+        {
+          "t": "And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen. "
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "plain": "¶ And it came to pass, that on the next day, when they were come down from the hill, much people met him.",
+      "tokens": [
+        {
+          "t": "¶ And it came to pass, that on the next day, when they were come down from the hill, much people met him. "
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "plain": "And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child.",
+      "tokens": [
+        {
+          "t": "And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child. "
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "plain": "And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him.",
+      "tokens": [
+        {
+          "t": "And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him. "
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "plain": "And I besought thy disciples to cast him out; and they could not.",
+      "tokens": [
+        {
+          "t": "And I besought thy disciples to cast him out; and they could not. "
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "plain": "And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither.",
+      "tokens": [
+        {
+          "t": "And Jesus answering said, "
+        },
+        {
+          "t": "O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "plain": "And as he was yet a coming, the devil threw him down, and tare him. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father.",
+      "tokens": [
+        {
+          "t": "And as he was yet a coming, the devil threw him down, and tare "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": ". And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father. "
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "plain": "¶ And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,",
+      "tokens": [
+        {
+          "t": "¶ And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples, "
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "plain": "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men.",
+      "tokens": [
+        {
+          "t": "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "plain": "But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying.",
+      "tokens": [
+        {
+          "t": "But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying. "
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "plain": "¶ Then there arose a reasoning among them, which of them should be greatest.",
+      "tokens": [
+        {
+          "t": "¶ Then there arose a reasoning among them, which of them should be greatest. "
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "plain": "And Jesus, perceiving the thought of their heart, took a child, and set him by him,",
+      "tokens": [
+        {
+          "t": "And Jesus, perceiving the thought of their heart, took a child, and set him by him, "
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "plain": "And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.",
+      "tokens": [
+        {
+          "t": "And said unto them, "
+        },
+        {
+          "t": "Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "plain": "¶ And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.",
+      "tokens": [
+        {
+          "t": "¶ And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us. "
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "plain": "And Jesus said unto him, Forbid him not: for he that is not against us is for us.",
+      "tokens": [
+        {
+          "t": "And Jesus said unto him, "
+        },
+        {
+          "t": "Forbid "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " not: for he that is not against us is for us."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "plain": "¶ And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,",
+      "tokens": [
+        {
+          "t": "¶ And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem, "
+        }
+      ]
+    },
+    {
+      "v": 52,
+      "plain": "And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him.",
+      "tokens": [
+        {
+          "t": "And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him. "
+        }
+      ]
+    },
+    {
+      "v": 53,
+      "plain": "And they did not receive him, because his face was as though he would go to Jerusalem.",
+      "tokens": [
+        {
+          "t": "And they did not receive him, because his face was as though he would go to Jerusalem. "
+        }
+      ]
+    },
+    {
+      "v": 54,
+      "plain": "And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?",
+      "tokens": [
+        {
+          "t": "And when his disciples James and John saw "
+        },
+        {
+          "add": "this"
+        },
+        {
+          "t": ", they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did? "
+        }
+      ]
+    },
+    {
+      "v": 55,
+      "plain": "But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of.",
+      "tokens": [
+        {
+          "t": "But he turned, and rebuked them, and said, "
+        },
+        {
+          "t": "Ye know not what manner of spirit ye are of."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 56,
+      "plain": "For the Son of man is not come to destroy men’s lives, but to save them. And they went to another village.",
+      "tokens": [
+        {
+          "t": "For the Son of man is not come to destroy men’s lives, but to save "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": "."
+        },
+        {
+          "t": " And they went to another village. "
+        }
+      ]
+    },
+    {
+      "v": 57,
+      "plain": "¶ And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest.",
+      "tokens": [
+        {
+          "t": "¶ And it came to pass, that, as they went in the way, a certain "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": " said unto him, Lord, I will follow thee whithersoever thou goest. "
         }
       ]
     },
     {
       "v": 58,
+      "plain": "And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head.",
       "tokens": [
         {
-          "t": "And Jesus said unto him,"
+          "t": "And Jesus said unto him, "
+        },
+        {
+          "t": "Foxes have holes, and birds of the air "
+        },
+        {
+          "add": "have"
+        },
+        {
+          "t": " nests; but the Son of man hath not where to lay "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " head."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 59,
+      "plain": "And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.",
       "tokens": [
         {
-          "t": "But he said, Lord, suffer me first to go and bury my father."
+          "t": "And he said unto another, "
         },
         {
-          "t": "And he said unto another, But he said, Lord, suffer me first to go and bury my father."
+          "t": "Follow me."
+        },
+        {
+          "t": " But he said, Lord, suffer me first to go and bury my father. "
         }
       ]
     },
     {
       "v": 60,
+      "plain": "Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God.",
       "tokens": [
         {
-          "t": "Jesus said unto him,"
+          "t": "Jesus said unto him, "
+        },
+        {
+          "t": "Let the dead bury their dead: but go thou and preach the kingdom of God."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 61,
+      "plain": "And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house.",
       "tokens": [
         {
-          "t": "And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house."
+          "t": "And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house. "
         }
       ]
     },
     {
       "v": 62,
+      "plain": "And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.",
       "tokens": [
         {
-          "t": "And Jesus said unto him,"
+          "t": "And Jesus said unto him, "
+        },
+        {
+          "t": "No man, having put his hand to the plough, and looking back, is fit for the kingdom of God."
+        },
+        {
+          "t": " "
         }
       ]
     }

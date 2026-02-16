@@ -1,0 +1,413 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 74,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?",
+      "tokens": [
+        {
+          "t": "O God, why hast thou cast "
+        },
+        {
+          "add": "us"
+        },
+        {
+          "t": " off for ever? "
+        },
+        {
+          "add": "why"
+        },
+        {
+          "t": " doth thine anger smoke against the sheep of thy pasture? "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Remember thy congregation, which thou hast purchased of old; the rod of thine inheritance, which thou hast redeemed; this mount Zion, wherein thou hast dwelt.",
+      "tokens": [
+        {
+          "t": "Remember thy congregation, "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " thou hast purchased of old; the rod of thine inheritance, "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " thou hast redeemed; this mount Zion, wherein thou hast dwelt. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Lift up thy feet unto the perpetual desolations; even all that the enemy hath done wickedly in the sanctuary.",
+      "tokens": [
+        {
+          "t": "Lift up thy feet unto the perpetual desolations; "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " all "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " the enemy hath done wickedly in the sanctuary. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Thine enemies roar in the midst of thy congregations; they set up their ensigns for signs.",
+      "tokens": [
+        {
+          "t": "Thine enemies roar in the midst of thy congregations; they set up their ensigns "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " signs. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "A man was famous according as he had lifted up axes upon the thick trees.",
+      "tokens": [
+        {
+          "add": "A man"
+        },
+        {
+          "t": " was famous according as he had lifted up axes upon the thick trees. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "But now they break down the carved work thereof at once with axes and hammers.",
+      "tokens": [
+        {
+          "t": "But now they break down the carved work thereof at once with axes and hammers. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "They have cast fire into thy sanctuary, they have defiled by casting down the dwelling place of thy name to the ground.",
+      "tokens": [
+        {
+          "t": "They have cast fire into thy sanctuary, they have defiled "
+        },
+        {
+          "add": "by casting down"
+        },
+        {
+          "t": " the dwelling place of thy name to the ground. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land.",
+      "tokens": [
+        {
+          "t": "They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "We see not our signs: there is no more any prophet: neither is there among us any that knoweth how long.",
+      "tokens": [
+        {
+          "t": "We see not our signs: "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " no more any prophet: neither "
+        },
+        {
+          "add": "is there"
+        },
+        {
+          "t": " among us any that knoweth how long. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever?",
+      "tokens": [
+        {
+          "t": "O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever? "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Why withdrawest thou thy hand, even thy right hand? pluck it out of thy bosom.",
+      "tokens": [
+        {
+          "t": "Why withdrawest thou thy hand, even thy right hand? pluck "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " out of thy bosom. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "For God is my King of old, working salvation in the midst of the earth.",
+      "tokens": [
+        {
+          "t": "For God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my King of old, working salvation in the midst of the earth. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.",
+      "tokens": [
+        {
+          "t": "Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.",
+      "tokens": [
+        {
+          "t": "Thou brakest the heads of leviathan in pieces, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " gavest him "
+        },
+        {
+          "add": "to be"
+        },
+        {
+          "t": " meat to the people inhabiting the wilderness. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.",
+      "tokens": [
+        {
+          "t": "Thou didst cleave the fountain and the flood: thou driedst up mighty rivers. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "The day is thine, the night also is thine: thou hast prepared the light and the sun.",
+      "tokens": [
+        {
+          "t": "The day "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thine, the night also "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thine: thou hast prepared the light and the sun. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "Thou hast set all the borders of the earth: thou hast made summer and winter.",
+      "tokens": [
+        {
+          "t": "Thou hast set all the borders of the earth: thou hast made summer and winter. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "Remember this, that the enemy hath reproached, O LORD, and that the foolish people have blasphemed thy name.",
+      "tokens": [
+        {
+          "t": "Remember this, "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " the enemy hath reproached, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " the foolish people have blasphemed thy name. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "O deliver not the soul of thy turtledove unto the multitude of the wicked: forget not the congregation of thy poor for ever.",
+      "tokens": [
+        {
+          "t": "O deliver not the soul of thy turtledove unto the multitude "
+        },
+        {
+          "add": "of the wicked:"
+        },
+        {
+          "t": " forget not the congregation of thy poor for ever. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty.",
+      "tokens": [
+        {
+          "t": "Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "O let not the oppressed return ashamed: let the poor and needy praise thy name.",
+      "tokens": [
+        {
+          "t": "O let not the oppressed return ashamed: let the poor and needy praise thy name. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.",
+      "tokens": [
+        {
+          "t": "Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "Forget not the voice of thine enemies: the tumult of those that rise up against thee increaseth continually.",
+      "tokens": [
+        {
+          "t": "Forget not the voice of thine enemies: the tumult of those that rise up against thee increaseth continually. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Maschil…: or, A Psalm for Asaph to give instruction"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "rod: or, tribe"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "They have cast…: Heb. They have sent thy sanctuary unto the fire"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 8
+      },
+      "text": "destroy: Heb. break"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 13
+      },
+      "text": "divide: Heb. break"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 13
+      },
+      "text": "dragons: or, whales"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 15
+      },
+      "text": "mighty…: Heb. rivers of strength"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 17
+      },
+      "text": "made: Heb. made them"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 23
+      },
+      "text": "increaseth: Heb. ascendeth"
+    }
+  ]
+}

@@ -7,456 +7,484 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Hear ye the word which the LORD speaketh unto you, O house of Israel:",
       "tokens": [
         {
-          "t": "Hear ye the word which the"
+          "t": "Hear ye the word which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "speaketh unto you, O house of Israel:"
+          "t": " speaketh unto you, O house of Israel: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thus saith the LORD, Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them."
+          "t": ", Learn not the way of the heathen, and be not dismayed at the signs of heaven; for the heathen are dismayed at them. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For the customs of the people are vain: for one cutteth a tree out of the forest, the work of the hands of the workman, with the axe.",
       "tokens": [
         {
-          "t": "For the customs of the people"
+          "t": "For the customs of the people "
         },
         {
           "add": "are"
         },
         {
-          "t": "vain: for"
+          "t": " vain: for "
         },
         {
           "add": "one"
         },
         {
-          "t": "cutteth a tree out of the forest, the work of the hands of the workman, with the axe."
+          "t": " cutteth a tree out of the forest, the work of the hands of the workman, with the axe. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.",
       "tokens": [
         {
-          "t": "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not."
+          "t": "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "They are upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also is it in them to do good.",
       "tokens": [
         {
-          "t": "They"
+          "t": "They "
         },
         {
           "add": "are"
         },
         {
-          "t": "upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also"
+          "t": " upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also "
         },
         {
           "add": "is it"
         },
         {
-          "t": "in them to do good."
+          "t": " in them to do good. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Forasmuch as there is none like unto thee, O LORD; thou art great, and thy name is great in might.",
       "tokens": [
         {
-          "t": "Forasmuch as"
+          "t": "Forasmuch as "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none like unto thee, O"
+          "t": " none like unto thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; thou"
+          "t": "; thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "great, and thy name"
+          "t": " great, and thy name "
         },
         {
           "add": "is"
         },
         {
-          "t": "great in might."
+          "t": " great in might. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise men of the nations, and in all their kingdoms, there is none like unto thee.",
       "tokens": [
         {
-          "t": "Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise"
+          "t": "Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise "
         },
         {
           "add": "men"
         },
         {
-          "t": "of the nations, and in all their kingdoms,"
+          "t": " of the nations, and in all their kingdoms, "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none like unto thee."
+          "t": " none like unto thee. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But they are altogether brutish and foolish: the stock is a doctrine of vanities.",
       "tokens": [
         {
-          "t": "But they are altogether brutish and foolish: the stock"
+          "t": "But they are altogether brutish and foolish: the stock "
         },
         {
           "add": "is"
         },
         {
-          "t": "a doctrine of vanities."
+          "t": " a doctrine of vanities. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple is their clothing: they are all the work of cunning men.",
       "tokens": [
         {
-          "t": "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple"
+          "t": "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple "
         },
         {
           "add": "is"
         },
         {
-          "t": "their clothing: they"
+          "t": " their clothing: they "
         },
         {
           "add": "are"
         },
         {
-          "t": "all the work of cunning"
+          "t": " all the work of cunning "
         },
         {
           "add": "men"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "But the LORD is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation.",
       "tokens": [
         {
-          "t": "But the"
+          "t": "But the "
         },
         {
           "nd": "LORD"
         },
         {
-          "add": "is"
-        },
-        {
-          "t": "the true God, he"
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation."
+          "t": " the true God, he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Thus shall ye say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens.",
       "tokens": [
         {
-          "t": "Thus shall ye say unto them, The gods that have not made the heavens and the earth,"
+          "t": "Thus shall ye say unto them, The gods that have not made the heavens and the earth, "
         },
         {
           "add": "even"
         },
         {
-          "t": "they shall perish from the earth, and from under these heavens."
+          "t": " they shall perish from the earth, and from under these heavens. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion.",
       "tokens": [
         {
-          "t": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion."
+          "t": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.",
       "tokens": [
         {
-          "t": "When he uttereth his voice,"
+          "t": "When he uttereth his voice, "
         },
         {
           "add": "there is"
         },
         {
-          "t": "a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures."
+          "t": " a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Every man is brutish in his knowledge: every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them.",
       "tokens": [
         {
-          "t": "Every man is brutish in"
+          "t": "Every man is brutish in "
         },
         {
           "add": "his"
         },
         {
-          "t": "knowledge: every founder is confounded by the graven image: for his molten image"
+          "t": " knowledge: every founder is confounded by the graven image: for his molten image "
         },
         {
           "add": "is"
         },
         {
-          "t": "falsehood, and"
+          "t": " falsehood, and "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no breath in them."
+          "t": " no breath in them. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "They are vanity, and the work of errors: in the time of their visitation they shall perish.",
       "tokens": [
         {
-          "t": "They"
+          "t": "They "
         },
         {
           "add": "are"
         },
         {
-          "t": "vanity,"
+          "t": " vanity, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the work of errors: in the time of their visitation they shall perish."
+          "t": " the work of errors: in the time of their visitation they shall perish. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The portion of Jacob is not like them: for he is the former of all things; and Israel is the rod of his inheritance: The LORD of hosts is his name.",
       "tokens": [
         {
-          "t": "The portion of Jacob"
+          "t": "The portion of Jacob "
         },
         {
           "add": "is"
         },
         {
-          "t": "not like them: for he"
+          "t": " not like them: for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "the former of all"
+          "t": " the former of all "
         },
         {
           "add": "things;"
         },
         {
-          "t": "and Israel"
+          "t": " and Israel "
         },
         {
           "add": "is"
         },
         {
-          "t": "the rod of his inheritance: The"
+          "t": " the rod of his inheritance: The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts"
+          "t": " of hosts "
         },
         {
           "add": "is"
         },
         {
-          "t": "his name."
+          "t": " his name. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ Gather up thy wares out of the land, O inhabitant of the fortress.",
       "tokens": [
         {
-          "t": "¶ Gather up thy wares out of the land, O inhabitant of the fortress."
+          "t": "¶ Gather up thy wares out of the land, O inhabitant of the fortress. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For thus saith the LORD, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find it so.",
       "tokens": [
         {
-          "t": "For thus saith the"
+          "t": "For thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find"
+          "t": ", Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find "
         },
         {
           "add": "it so"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ Woe is me for my hurt! my wound is grievous: but I said, Truly this is a grief, and I must bear it.",
       "tokens": [
         {
-          "t": "¶ Woe is me for my hurt! my wound is grievous: but I said, Truly this"
+          "t": "¶ Woe is me for my hurt! my wound is grievous: but I said, Truly this "
         },
         {
           "add": "is"
         },
         {
-          "t": "a grief, and I must bear it."
+          "t": " a grief, and I must bear it. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they are not: there is none to stretch forth my tent any more, and to set up my curtains.",
       "tokens": [
         {
-          "t": "My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they"
+          "t": "My tabernacle is spoiled, and all my cords are broken: my children are gone forth of me, and they "
         },
         {
           "add": "are"
         },
         {
-          "t": "not:"
+          "t": " not: "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none to stretch forth my tent any more, and to set up my curtains."
+          "t": " none to stretch forth my tent any more, and to set up my curtains. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For the pastors are become brutish, and have not sought the LORD: therefore they shall not prosper, and all their flocks shall be scattered.",
       "tokens": [
         {
-          "t": "For the pastors are become brutish, and have not sought the"
+          "t": "For the pastors are become brutish, and have not sought the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": therefore they shall not prosper, and all their flocks shall be scattered."
+          "t": ": therefore they shall not prosper, and all their flocks shall be scattered. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons.",
       "tokens": [
         {
-          "t": "Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate,"
+          "t": "Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, "
         },
         {
           "add": "and"
         },
         {
-          "t": "a den of dragons."
+          "t": " a den of dragons. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ O LORD, I know that the way of man is not in himself: it is not in man that walketh to direct his steps.",
       "tokens": [
         {
-          "t": "¶ O"
+          "t": "¶ O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I know that the way of man"
+          "t": ", I know that the way of man "
         },
         {
           "add": "is"
         },
         {
-          "t": "not in himself:"
+          "t": " not in himself: "
         },
         {
           "add": "it is"
         },
         {
-          "t": "not in man that walketh to direct his steps."
+          "t": " not in man that walketh to direct his steps. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "O LORD, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.",
       "tokens": [
         {
-          "t": "O"
+          "t": "O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", correct me, but with judgment; not in thine anger, lest thou bring me to nothing."
+          "t": ", correct me, but with judgment; not in thine anger, lest thou bring me to nothing. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate.",
       "tokens": [
         {
-          "t": "Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate."
+          "t": "Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate. "
         }
       ]
     }

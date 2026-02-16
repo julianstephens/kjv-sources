@@ -7,468 +7,502 @@
   "verses": [
     {
       "v": 1,
+      "plain": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.",
       "tokens": [
         {
-          "t": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep."
+          "t": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "¶ If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him.",
       "tokens": [
         {
-          "t": "¶ If a thief be found breaking up, and be smitten that he die,"
+          "t": "¶ If a thief be found breaking up, and be smitten that he die, "
         },
         {
           "add": "there shall"
         },
         {
-          "t": "no blood"
+          "t": " no blood "
         },
         {
           "add": "be shed"
         },
         {
-          "t": "for him."
+          "t": " for him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft.",
       "tokens": [
         {
-          "t": "If the sun be risen upon him,"
+          "t": "If the sun be risen upon him, "
         },
         {
           "add": "there shall be"
         },
         {
-          "t": "blood"
+          "t": " blood "
         },
         {
           "add": "shed"
         },
         {
-          "t": "for him;"
+          "t": " for him; "
         },
         {
           "add": "for"
         },
         {
-          "t": "he should make full restitution; if he have nothing, then he shall be sold for his theft."
+          "t": " he should make full restitution; if he have nothing, then he shall be sold for his theft. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double.",
       "tokens": [
         {
-          "t": "If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double."
+          "t": "If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution.",
       "tokens": [
         {
-          "t": "¶ If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution."
+          "t": "¶ If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed therewith; he that kindled the fire shall surely make restitution.",
       "tokens": [
         {
-          "t": "¶ If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed"
+          "t": "¶ If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed "
         },
         {
           "add": "therewith;"
         },
         {
-          "t": "he that kindled the fire shall surely make restitution."
+          "t": " he that kindled the fire shall surely make restitution. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ If a man shall deliver unto his neighbour money or stuff to keep, and it be stolen out of the man’s house; if the thief be found, let him pay double.",
       "tokens": [
         {
-          "t": "¶ If a man shall deliver unto his neighbour money or stuff to keep, and it be stolen out of the man’s house; if the thief be found, let him pay double."
+          "t": "¶ If a man shall deliver unto his neighbour money or stuff to keep, and it be stolen out of the man’s house; if the thief be found, let him pay double. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "If the thief be not found, then the master of the house shall be brought unto the judges, to see whether he have put his hand unto his neighbour’s goods.",
       "tokens": [
         {
-          "t": "If the thief be not found, then the master of the house shall be brought unto the judges,"
+          "t": "If the thief be not found, then the master of the house shall be brought unto the judges, "
         },
         {
           "add": "to see"
         },
         {
-          "t": "whether he have put his hand unto his neighbour’s goods."
+          "t": " whether he have put his hand unto his neighbour’s goods. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour.",
       "tokens": [
         {
-          "t": "For all manner of trespass,"
+          "t": "For all manner of trespass, "
         },
         {
           "add": "whether it be"
         },
         {
-          "t": "for ox, for ass, for sheep, for raiment,"
+          "t": " for ox, for ass, for sheep, for raiment, "
         },
         {
           "add": "or"
         },
         {
-          "t": "for any manner of lost thing, which"
+          "t": " for any manner of lost thing, which "
         },
         {
           "add": "another"
         },
         {
-          "t": "challengeth to be his, the cause of both parties shall come before the judges;"
+          "t": " challengeth to be his, the cause of both parties shall come before the judges; "
         },
         {
           "add": "and"
         },
         {
-          "t": "whom the judges shall condemn, he shall pay double unto his neighbour."
+          "t": " whom the judges shall condemn, he shall pay double unto his neighbour. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it:",
       "tokens": [
         {
-          "t": "If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing"
+          "t": "If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing "
         },
         {
           "add": "it:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Then shall an oath of the LORD be between them both, that he hath not put his hand unto his neighbour’s goods; and the owner of it shall accept thereof, and he shall not make it good.",
       "tokens": [
         {
           "add": "Then"
         },
         {
-          "t": "shall an oath of the"
+          "t": " shall an oath of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "be between them both, that he hath not put his hand unto his neighbour’s goods; and the owner of it shall accept"
+          "t": " be between them both, that he hath not put his hand unto his neighbour’s goods; and the owner of it shall accept "
         },
         {
           "add": "thereof"
         },
         {
-          "t": ", and he shall not make"
+          "t": ", and he shall not make "
         },
         {
           "add": "it"
         },
         {
-          "t": "good."
+          "t": " good. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And if it be stolen from him, he shall make restitution unto the owner thereof.",
       "tokens": [
         {
-          "t": "And if it be stolen from him, he shall make restitution unto the owner thereof."
+          "t": "And if it be stolen from him, he shall make restitution unto the owner thereof. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "If it be torn in pieces, then let him bring it for witness, and he shall not make good that which was torn.",
       "tokens": [
         {
-          "t": "If it be torn in pieces,"
+          "t": "If it be torn in pieces, "
         },
         {
           "add": "then"
         },
         {
-          "t": "let him bring it"
+          "t": " let him bring it "
         },
         {
           "add": "for"
         },
         {
-          "t": "witness,"
+          "t": " witness, "
         },
         {
           "add": "and"
         },
         {
-          "t": "he shall not make good that which was torn."
+          "t": " he shall not make good that which was torn. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And if a man borrow ought of his neighbour, and it be hurt, or die, the owner thereof being not with it, he shall surely make it good.",
       "tokens": [
         {
-          "t": "¶ And if a man borrow"
+          "t": "¶ And if a man borrow "
         },
         {
           "add": "ought"
         },
         {
-          "t": "of his neighbour, and it be hurt, or die, the owner thereof"
+          "t": " of his neighbour, and it be hurt, or die, the owner thereof "
         },
         {
           "add": "being"
         },
         {
-          "t": "not with it, he shall surely make"
+          "t": " not with it, he shall surely make "
         },
         {
           "add": "it"
         },
         {
-          "t": "good."
+          "t": " good. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But if the owner thereof be with it, he shall not make it good: if it be an hired thing, it came for his hire.",
       "tokens": [
         {
           "add": "But"
         },
         {
-          "t": "if the owner thereof"
+          "t": " if the owner thereof "
         },
         {
           "add": "be"
         },
         {
-          "t": "with it, he shall not make"
+          "t": " with it, he shall not make "
         },
         {
           "add": "it"
         },
         {
-          "t": "good: if it"
+          "t": " good: if it "
         },
         {
           "add": "be"
         },
         {
-          "t": "an hired"
+          "t": " an hired "
         },
         {
           "add": "thing"
         },
         {
-          "t": ", it came for his hire."
+          "t": ", it came for his hire. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.",
       "tokens": [
         {
-          "t": "¶ And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife."
+          "t": "¶ And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.",
       "tokens": [
         {
-          "t": "If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins."
+          "t": "If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ Thou shalt not suffer a witch to live.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not suffer a witch to live."
+          "t": "¶ Thou shalt not suffer a witch to live. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ Whosoever lieth with a beast shall surely be put to death.",
       "tokens": [
         {
-          "t": "¶ Whosoever lieth with a beast shall surely be put to death."
+          "t": "¶ Whosoever lieth with a beast shall surely be put to death. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed.",
       "tokens": [
         {
-          "t": "¶ He that sacrificeth unto"
+          "t": "¶ He that sacrificeth unto "
         },
         {
           "add": "any"
         },
         {
-          "t": "god, save unto the"
+          "t": " god, save unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "only, he shall be utterly destroyed."
+          "t": " only, he shall be utterly destroyed. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt.",
       "tokens": [
         {
-          "t": "¶ Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt."
+          "t": "¶ Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ Ye shall not afflict any widow, or fatherless child.",
       "tokens": [
         {
-          "t": "¶ Ye shall not afflict any widow, or fatherless child."
+          "t": "¶ Ye shall not afflict any widow, or fatherless child. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;",
       "tokens": [
         {
-          "t": "If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;"
+          "t": "If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry; "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.",
       "tokens": [
         {
-          "t": "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless."
+          "t": "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury.",
       "tokens": [
         {
-          "t": "¶ If thou lend money to"
+          "t": "¶ If thou lend money to "
         },
         {
           "add": "any of"
         },
         {
-          "t": "my people"
+          "t": " my people "
         },
         {
           "add": "that is"
         },
         {
-          "t": "poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury."
+          "t": " poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "If thou at all take thy neighbour’s raiment to pledge, thou shalt deliver it unto him by that the sun goeth down:",
       "tokens": [
         {
-          "t": "If thou at all take thy neighbour’s raiment to pledge, thou shalt deliver it unto him by that the sun goeth down:"
+          "t": "If thou at all take thy neighbour’s raiment to pledge, thou shalt deliver it unto him by that the sun goeth down: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "For that is his covering only, it is his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I am gracious.",
       "tokens": [
         {
-          "t": "For that"
+          "t": "For that "
         },
         {
           "add": "is"
         },
         {
-          "t": "his covering only, it"
+          "t": " his covering only, it "
         },
         {
           "add": "is"
         },
         {
-          "t": "his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I"
+          "t": " his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "gracious."
+          "t": " gracious. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ Thou shalt not revile the gods, nor curse the ruler of thy people.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not revile the gods, nor curse the ruler of thy people."
+          "t": "¶ Thou shalt not revile the gods, nor curse the ruler of thy people. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not delay"
+          "t": "¶ Thou shalt not delay "
         },
         {
           "add": "to offer"
         },
         {
-          "t": "the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me."
+          "t": " the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.",
       "tokens": [
         {
-          "t": "Likewise shalt thou do with thine oxen,"
+          "t": "Likewise shalt thou do with thine oxen, "
         },
         {
           "add": "and"
         },
         {
-          "t": "with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me."
+          "t": " with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "¶ And ye shall be holy men unto me: neither shall ye eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs.",
       "tokens": [
         {
-          "t": "¶ And ye shall be holy men unto me: neither shall ye eat"
+          "t": "¶ And ye shall be holy men unto me: neither shall ye eat "
         },
         {
           "add": "any"
         },
         {
-          "t": "flesh"
+          "t": " flesh "
         },
         {
           "add": "that is"
         },
         {
-          "t": "torn of beasts in the field; ye shall cast it to the dogs."
+          "t": " torn of beasts in the field; ye shall cast it to the dogs. "
         }
       ]
     }

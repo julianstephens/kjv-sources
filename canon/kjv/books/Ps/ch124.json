@@ -7,119 +7,127 @@
   "verses": [
     {
       "v": 1,
+      "plain": "If it had not been the LORD who was on our side, now may Israel say;",
       "tokens": [
         {
-          "t": "If"
+          "t": "If "
         },
         {
           "add": "it had not been"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "who was on our side, now may Israel say;"
+          "t": " who was on our side, now may Israel say; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "If it had not been the LORD who was on our side, when men rose up against us:",
       "tokens": [
         {
-          "t": "If"
+          "t": "If "
         },
         {
           "add": "it had not been"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "who was on our side, when men rose up against us:"
+          "t": " who was on our side, when men rose up against us: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Then they had swallowed us up quick, when their wrath was kindled against us:",
       "tokens": [
         {
-          "t": "Then they had swallowed us up quick, when their wrath was kindled against us:"
+          "t": "Then they had swallowed us up quick, when their wrath was kindled against us: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then the waters had overwhelmed us, the stream had gone over our soul:",
       "tokens": [
         {
-          "t": "Then the waters had overwhelmed us, the stream had gone over our soul:"
+          "t": "Then the waters had overwhelmed us, the stream had gone over our soul: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then the proud waters had gone over our soul.",
       "tokens": [
         {
-          "t": "Then the proud waters had gone over our soul."
+          "t": "Then the proud waters had gone over our soul. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Blessed be the LORD, who hath not given us as a prey to their teeth.",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", who hath not given us"
+          "t": ", who hath not given us "
         },
         {
           "add": "as"
         },
         {
-          "t": "a prey to their teeth."
+          "t": " a prey to their teeth. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
       "tokens": [
         {
-          "t": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped."
+          "t": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Our help is in the name of the LORD, who made heaven and earth.",
       "tokens": [
         {
-          "t": "Our help"
+          "t": "Our help "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the name of the"
+          "t": " in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", who made heaven and earth."
+          "t": ", who made heaven and earth. "
         }
       ]
     }

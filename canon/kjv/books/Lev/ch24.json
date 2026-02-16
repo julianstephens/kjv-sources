@@ -7,341 +7,364 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.",
       "tokens": [
         {
-          "t": "Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually."
+          "t": "Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the LORD continually: it shall be a statute for ever in your generations.",
       "tokens": [
         {
-          "t": "Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the"
+          "t": "Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "continually:"
+          "t": " continually: "
         },
         {
           "add": "it shall be"
         },
         {
-          "t": "a statute for ever in your generations."
+          "t": " a statute for ever in your generations. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "He shall order the lamps upon the pure candlestick before the LORD continually.",
       "tokens": [
         {
-          "t": "He shall order the lamps upon the pure candlestick before the"
+          "t": "He shall order the lamps upon the pure candlestick before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "continually."
+          "t": " continually. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake.",
       "tokens": [
         {
-          "t": "¶ And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake."
+          "t": "¶ And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And thou shalt set them in two rows, six on a row, upon the pure table before the LORD.",
       "tokens": [
         {
-          "t": "And thou shalt set them in two rows, six on a row, upon the pure table before the"
+          "t": "And thou shalt set them in two rows, six on a row, upon the pure table before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And thou shalt put pure frankincense upon each row, that it may be on the bread for a memorial, even an offering made by fire unto the LORD.",
       "tokens": [
         {
-          "t": "And thou shalt put pure frankincense upon"
+          "t": "And thou shalt put pure frankincense upon "
         },
         {
           "add": "each"
         },
         {
-          "t": "row, that it may be on the bread for a memorial,"
+          "t": " row, that it may be on the bread for a memorial, "
         },
         {
           "add": "even"
         },
         {
-          "t": "an offering made by fire unto the"
+          "t": " an offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Every sabbath he shall set it in order before the LORD continually, being taken from the children of Israel by an everlasting covenant.",
       "tokens": [
         {
-          "t": "Every sabbath he shall set it in order before the"
+          "t": "Every sabbath he shall set it in order before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "continually,"
+          "t": " continually, "
         },
         {
           "add": "being taken"
         },
         {
-          "t": "from the children of Israel by an everlasting covenant."
+          "t": " from the children of Israel by an everlasting covenant. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And it shall be Aaron’s and his sons’; and they shall eat it in the holy place: for it is most holy unto him of the offerings of the LORD made by fire by a perpetual statute.",
       "tokens": [
         {
-          "t": "And it shall be Aaron’s and his sons’; and they shall eat it in the holy place: for it"
+          "t": "And it shall be Aaron’s and his sons’; and they shall eat it in the holy place: for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "most holy unto him of the offerings of the"
+          "t": " most holy unto him of the offerings of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "made by fire by a perpetual statute."
+          "t": " made by fire by a perpetual statute. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And the son of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel: and this son of the Israelitish woman and a man of Israel strove together in the camp;",
       "tokens": [
         {
-          "t": "¶ And the son of an Israelitish woman, whose father"
+          "t": "¶ And the son of an Israelitish woman, whose father "
         },
         {
           "add": "was"
         },
         {
-          "t": "an Egyptian, went out among the children of Israel: and this son of the Israelitish"
+          "t": " an Egyptian, went out among the children of Israel: and this son of the Israelitish "
         },
         {
           "add": "woman"
         },
         {
-          "t": "and a man of Israel strove together in the camp;"
+          "t": " and a man of Israel strove together in the camp; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the Israelitish woman’s son blasphemed the name of the LORD, and cursed. And they brought him unto Moses: (and his mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan:)",
       "tokens": [
         {
-          "t": "And the Israelitish woman’s son blasphemed the name"
+          "t": "And the Israelitish woman’s son blasphemed the name "
         },
         {
           "add": "of the LORD"
         },
         {
-          "t": ", and cursed. And they brought him unto Moses: (and his mother’s name"
+          "t": ", and cursed. And they brought him unto Moses: (and his mother’s name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Shelomith, the daughter of Dibri, of the tribe of Dan:)"
+          "t": " Shelomith, the daughter of Dibri, of the tribe of Dan:) "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And they put him in ward, that the mind of the LORD might be shewed them.",
       "tokens": [
         {
-          "t": "And they put him in ward, that the mind of the"
+          "t": "And they put him in ward, that the mind of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "might be shewed them."
+          "t": " might be shewed them. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him.",
       "tokens": [
         {
-          "t": "Bring forth him that hath cursed without the camp; and let all that heard"
+          "t": "Bring forth him that hath cursed without the camp; and let all that heard "
         },
         {
           "add": "him"
         },
         {
-          "t": "lay their hands upon his head, and let all the congregation stone him."
+          "t": " lay their hands upon his head, and let all the congregation stone him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin.",
       "tokens": [
         {
-          "t": "And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin."
+          "t": "And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And he that blasphemeth the name of the LORD, he shall surely be put to death, and all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name of the LORD, shall be put to death.",
       "tokens": [
         {
-          "t": "And he that blasphemeth the name of the"
+          "t": "And he that blasphemeth the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", he shall surely be put to death,"
+          "t": ", he shall surely be put to death, "
         },
         {
           "add": "and"
         },
         {
-          "t": "all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name"
+          "t": " all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name "
         },
         {
           "add": "of the LORD"
         },
         {
-          "t": ", shall be put to death."
+          "t": ", shall be put to death. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And he that killeth any man shall surely be put to death.",
       "tokens": [
         {
-          "t": "¶ And he that killeth any man shall surely be put to death."
+          "t": "¶ And he that killeth any man shall surely be put to death. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he that killeth a beast shall make it good; beast for beast.",
       "tokens": [
         {
-          "t": "And he that killeth a beast shall make it good; beast for beast."
+          "t": "And he that killeth a beast shall make it good; beast for beast. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him;",
       "tokens": [
         {
-          "t": "And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him;"
+          "t": "And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him; "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him again.",
       "tokens": [
         {
-          "t": "Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him"
+          "t": "Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him "
         },
         {
           "add": "again"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death.",
       "tokens": [
         {
-          "t": "And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death."
+          "t": "And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I am the LORD your God.",
       "tokens": [
         {
-          "t": "Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I"
+          "t": "Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the LORD commanded Moses.",
       "tokens": [
         {
-          "t": "¶ And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the"
+          "t": "¶ And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded Moses."
+          "t": " commanded Moses. "
         }
       ]
     }

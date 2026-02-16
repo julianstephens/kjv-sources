@@ -7,271 +7,298 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?",
       "tokens": [
         {
-          "t": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?"
+          "t": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "For wrath killeth the foolish man, and envy slayeth the silly one.",
       "tokens": [
         {
-          "t": "For wrath killeth the foolish man, and envy slayeth the silly one."
+          "t": "For wrath killeth the foolish man, and envy slayeth the silly one. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I have seen the foolish taking root: but suddenly I cursed his habitation.",
       "tokens": [
         {
-          "t": "I have seen the foolish taking root: but suddenly I cursed his habitation."
+          "t": "I have seen the foolish taking root: but suddenly I cursed his habitation. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "His children are far from safety, and they are crushed in the gate, neither is there any to deliver them.",
       "tokens": [
         {
-          "t": "His children are far from safety, and they are crushed in the gate, neither"
+          "t": "His children are far from safety, and they are crushed in the gate, neither "
         },
         {
           "add": "is there"
         },
         {
-          "t": "any to deliver"
+          "t": " any to deliver "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.",
       "tokens": [
         {
-          "t": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance."
+          "t": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;",
       "tokens": [
         {
-          "t": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;"
+          "t": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Yet man is born unto trouble, as the sparks fly upward.",
       "tokens": [
         {
-          "t": "Yet man is born unto trouble, as the sparks fly upward."
+          "t": "Yet man is born unto trouble, as the sparks fly upward. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "I would seek unto God, and unto God would I commit my cause:",
       "tokens": [
         {
-          "t": "I would seek unto God, and unto God would I commit my cause:"
+          "t": "I would seek unto God, and unto God would I commit my cause: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Which doeth great things and unsearchable; marvellous things without number:",
       "tokens": [
         {
-          "t": "Which doeth great things and unsearchable; marvellous things without number:"
+          "t": "Which doeth great things and unsearchable; marvellous things without number: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Who giveth rain upon the earth, and sendeth waters upon the fields:",
       "tokens": [
         {
-          "t": "Who giveth rain upon the earth, and sendeth waters upon the fields:"
+          "t": "Who giveth rain upon the earth, and sendeth waters upon the fields: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "To set up on high those that be low; that those which mourn may be exalted to safety.",
       "tokens": [
         {
-          "t": "To set up on high those that be low; that those which mourn may be exalted to safety."
+          "t": "To set up on high those that be low; that those which mourn may be exalted to safety. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.",
       "tokens": [
         {
-          "t": "He disappointeth the devices of the crafty, so that their hands cannot perform"
+          "t": "He disappointeth the devices of the crafty, so that their hands cannot perform "
         },
         {
           "add": "their"
         },
         {
-          "t": "enterprise."
+          "t": " enterprise. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.",
       "tokens": [
         {
-          "t": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong."
+          "t": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "They meet with darkness in the daytime, and grope in the noonday as in the night.",
       "tokens": [
         {
-          "t": "They meet with darkness in the daytime, and grope in the noonday as in the night."
+          "t": "They meet with darkness in the daytime, and grope in the noonday as in the night. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.",
       "tokens": [
         {
-          "t": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty."
+          "t": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "So the poor hath hope, and iniquity stoppeth her mouth.",
       "tokens": [
         {
-          "t": "So the poor hath hope, and iniquity stoppeth her mouth."
+          "t": "So the poor hath hope, and iniquity stoppeth her mouth. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:",
       "tokens": [
         {
-          "t": "Behold, happy"
+          "t": "Behold, happy "
         },
         {
           "add": "is"
         },
         {
-          "t": "the man whom God correcteth: therefore despise not thou the chastening of the Almighty:"
+          "t": " the man whom God correcteth: therefore despise not thou the chastening of the Almighty: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole.",
       "tokens": [
         {
-          "t": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole."
+          "t": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.",
       "tokens": [
         {
-          "t": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee."
+          "t": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "In famine he shall redeem thee from death: and in war from the power of the sword.",
       "tokens": [
         {
-          "t": "In famine he shall redeem thee from death: and in war from the power of the sword."
+          "t": "In famine he shall redeem thee from death: and in war from the power of the sword. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.",
       "tokens": [
         {
-          "t": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh."
+          "t": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.",
       "tokens": [
         {
-          "t": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth."
+          "t": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.",
       "tokens": [
         {
-          "t": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee."
+          "t": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.",
       "tokens": [
         {
-          "t": "And thou shalt know that thy tabernacle"
+          "t": "And thou shalt know that thy tabernacle "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "in peace; and thou shalt visit thy habitation, and shalt not sin."
+          "t": " in peace; and thou shalt visit thy habitation, and shalt not sin. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.",
       "tokens": [
         {
-          "t": "Thou shalt know also that thy seed"
+          "t": "Thou shalt know also that thy seed "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "great, and thine offspring as the grass of the earth."
+          "t": " great, and thine offspring as the grass of the earth. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.",
       "tokens": [
         {
-          "t": "Thou shalt come to"
+          "t": "Thou shalt come to "
         },
         {
           "add": "thy"
         },
         {
-          "t": "grave in a full age, like as a shock of corn cometh in in his season."
+          "t": " grave in a full age, like as a shock of corn cometh in in his season. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Lo this, we have searched it, so it is; hear it, and know thou it for thy good.",
       "tokens": [
         {
-          "t": "Lo this, we have searched it, so it"
+          "t": "Lo this, we have searched it, so it "
         },
         {
           "add": "is;"
         },
         {
-          "t": "hear it, and know thou"
+          "t": " hear it, and know thou "
         },
         {
           "add": "it"
         },
         {
-          "t": "for thy good."
+          "t": " for thy good. "
         }
       ]
     }

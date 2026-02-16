@@ -7,251 +7,268 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them.",
       "tokens": [
         {
-          "t": "Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that"
+          "t": "Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that "
         },
         {
           "add": "were"
         },
         {
-          "t": "in Judah and Jerusalem in the name of the God of Israel,"
+          "t": " in Judah and Jerusalem in the name of the God of Israel, "
         },
         {
           "add": "even"
         },
         {
-          "t": "unto them."
+          "t": " unto them. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them.",
       "tokens": [
         {
-          "t": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which"
+          "t": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which "
         },
         {
           "add": "is"
         },
         {
-          "t": "at Jerusalem: and with them"
+          "t": " at Jerusalem: and with them "
         },
         {
           "add": "were"
         },
         {
-          "t": "the prophets of God helping them."
+          "t": " the prophets of God helping them. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ At the same time came to them Tatnai, governor on this side the river, and Shethar-boznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall?",
       "tokens": [
         {
-          "t": "¶ At the same time came to them Tatnai, governor on this side the river, and Shethar-boznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall?"
+          "t": "¶ At the same time came to them Tatnai, governor on this side the river, and Shethar-boznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then said we unto them after this manner, What are the names of the men that make this building?",
       "tokens": [
         {
-          "t": "Then said we unto them after this manner, What are the names of the men that make this building?"
+          "t": "Then said we unto them after this manner, What are the names of the men that make this building? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter.",
       "tokens": [
         {
-          "t": "But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this"
+          "t": "But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this "
         },
         {
           "add": "matter"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ The copy of the letter that Tatnai, governor on this side the river, and Shethar-boznai, and his companions the Apharsachites, which were on this side the river, sent unto Darius the king:",
       "tokens": [
         {
-          "t": "¶ The copy of the letter that Tatnai, governor on this side the river, and Shethar-boznai, and his companions the Apharsachites, which"
+          "t": "¶ The copy of the letter that Tatnai, governor on this side the river, and Shethar-boznai, and his companions the Apharsachites, which "
         },
         {
           "add": "were"
         },
         {
-          "t": "on this side the river, sent unto Darius the king:"
+          "t": " on this side the river, sent unto Darius the king: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "They sent a letter unto him, wherein was written thus; Unto Darius the king, all peace.",
       "tokens": [
         {
-          "t": "They sent a letter unto him, wherein was written thus; Unto Darius the king, all peace."
+          "t": "They sent a letter unto him, wherein was written thus; Unto Darius the king, all peace. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Be it known unto the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goeth fast on, and prospereth in their hands.",
       "tokens": [
         {
-          "t": "Be it known unto the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goeth fast on, and prospereth in their hands."
+          "t": "Be it known unto the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goeth fast on, and prospereth in their hands. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Then asked we those elders, and said unto them thus, Who commanded you to build this house, and to make up these walls?",
       "tokens": [
         {
-          "t": "Then asked we those elders,"
+          "t": "Then asked we those elders, "
         },
         {
           "add": "and"
         },
         {
-          "t": "said unto them thus, Who commanded you to build this house, and to make up these walls?"
+          "t": " said unto them thus, Who commanded you to build this house, and to make up these walls? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "We asked their names also, to certify thee, that we might write the names of the men that were the chief of them.",
       "tokens": [
         {
-          "t": "We asked their names also, to certify thee, that we might write the names of the men that"
+          "t": "We asked their names also, to certify thee, that we might write the names of the men that "
         },
         {
           "add": "were"
         },
         {
-          "t": "the chief of them."
+          "t": " the chief of them. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up.",
       "tokens": [
         {
-          "t": "And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up."
+          "t": "And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon.",
       "tokens": [
         {
-          "t": "But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon."
+          "t": "But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God.",
       "tokens": [
         {
-          "t": "But in the first year of Cyrus the king of Babylon"
+          "t": "But in the first year of Cyrus the king of Babylon "
         },
         {
           "add": "the same"
         },
         {
-          "t": "king Cyrus made a decree to build this house of God."
+          "t": " king Cyrus made a decree to build this house of God. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that was in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto one, whose name was Sheshbazzar, whom he had made governor;",
       "tokens": [
         {
-          "t": "And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that"
+          "t": "And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that "
         },
         {
           "add": "was"
         },
         {
-          "t": "in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto"
+          "t": " in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto "
         },
         {
           "add": "one"
         },
         {
-          "t": ", whose name"
+          "t": ", whose name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Sheshbazzar, whom he had made governor;"
+          "t": " Sheshbazzar, whom he had made governor; "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And said unto him, Take these vessels, go, carry them into the temple that is in Jerusalem, and let the house of God be builded in his place.",
       "tokens": [
         {
-          "t": "And said unto him, Take these vessels, go, carry them into the temple that"
+          "t": "And said unto him, Take these vessels, go, carry them into the temple that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Jerusalem, and let the house of God be builded in his place."
+          "t": " in Jerusalem, and let the house of God be builded in his place. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Then came the same Sheshbazzar, and laid the foundation of the house of God which is in Jerusalem: and since that time even until now hath it been in building, and yet it is not finished.",
       "tokens": [
         {
-          "t": "Then came the same Sheshbazzar,"
+          "t": "Then came the same Sheshbazzar, "
         },
         {
           "add": "and"
         },
         {
-          "t": "laid the foundation of the house of God which"
+          "t": " laid the foundation of the house of God which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Jerusalem: and since that time even until now hath it been in building, and"
+          "t": " in Jerusalem: and since that time even until now hath it been in building, and "
         },
         {
           "add": "yet"
         },
         {
-          "t": "it is not finished."
+          "t": " it is not finished. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Now therefore, if it seem good to the king, let there be search made in the king’s treasure house, which is there at Babylon, whether it be so, that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter.",
       "tokens": [
         {
-          "t": "Now therefore, if"
+          "t": "Now therefore, if "
         },
         {
           "add": "it seem"
         },
         {
-          "t": "good to the king, let there be search made in the king’s treasure house, which"
+          "t": " good to the king, let there be search made in the king’s treasure house, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "there at Babylon, whether it be"
+          "t": " there at Babylon, whether it be "
         },
         {
           "add": "so"
         },
         {
-          "t": ", that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter."
+          "t": ", that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter. "
         }
       ]
     }

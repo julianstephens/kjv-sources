@@ -7,147 +7,157 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Cast thy bread upon the waters: for thou shalt find it after many days.",
       "tokens": [
         {
-          "t": "Cast thy bread upon the waters: for thou shalt find it after many days."
+          "t": "Cast thy bread upon the waters: for thou shalt find it after many days. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.",
       "tokens": [
         {
-          "t": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth."
+          "t": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
       "tokens": [
         {
-          "t": "If the clouds be full of rain, they empty"
+          "t": "If the clouds be full of rain, they empty "
         },
         {
           "add": "themselves"
         },
         {
-          "t": "upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be."
+          "t": " upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
       "tokens": [
         {
-          "t": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap."
+          "t": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.",
       "tokens": [
         {
-          "t": "As thou knowest not what"
+          "t": "As thou knowest not what "
         },
         {
           "add": "is"
         },
         {
-          "t": "the way of the spirit,"
+          "t": " the way of the spirit, "
         },
         {
           "add": "nor"
         },
         {
-          "t": "how the bones"
+          "t": " how the bones "
         },
         {
           "add": "do grow"
         },
         {
-          "t": "in the womb of her that is with child: even so thou knowest not the works of God who maketh all."
+          "t": " in the womb of her that is with child: even so thou knowest not the works of God who maketh all. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.",
       "tokens": [
         {
-          "t": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both"
+          "t": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "alike good."
+          "t": " alike good. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:",
       "tokens": [
         {
-          "t": "¶ Truly the light"
+          "t": "¶ Truly the light "
         },
         {
           "add": "is"
         },
         {
-          "t": "sweet, and a pleasant"
+          "t": " sweet, and a pleasant "
         },
         {
           "add": "thing it is"
         },
         {
-          "t": "for the eyes to behold the sun:"
+          "t": " for the eyes to behold the sun: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity.",
       "tokens": [
         {
-          "t": "But if a man live many years,"
+          "t": "But if a man live many years, "
         },
         {
           "add": "and"
         },
         {
-          "t": "rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh"
+          "t": " rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh "
         },
         {
           "add": "is"
         },
         {
-          "t": "vanity."
+          "t": " vanity. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.",
       "tokens": [
         {
-          "t": "¶ Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these"
+          "t": "¶ Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these "
         },
         {
           "add": "things"
         },
         {
-          "t": "God will bring thee into judgment."
+          "t": " God will bring thee into judgment. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.",
       "tokens": [
         {
-          "t": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth"
+          "t": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth "
         },
         {
           "add": "are"
         },
         {
-          "t": "vanity."
+          "t": " vanity. "
         }
       ]
     }

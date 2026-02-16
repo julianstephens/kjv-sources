@@ -7,461 +7,487 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the word of the LORD came unto me, saying,",
       "tokens": [
         {
-          "t": "And the word of the"
+          "t": "And the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto me, saying,"
+          "t": " came unto me, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Son of man, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own hearts, Hear ye the word of the LORD;",
       "tokens": [
         {
-          "t": "Son of man, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own hearts, Hear ye the word of the"
+          "t": "Son of man, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own hearts, Hear ye the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ";"
+          "t": "; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Thus saith the Lord GOD; Woe unto the foolish prophets, that follow their own spirit, and have seen nothing!",
       "tokens": [
         {
-          "t": "Thus saith the Lord"
+          "t": "Thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; Woe unto the foolish prophets, that follow their own spirit, and have seen nothing!"
+          "t": "; Woe unto the foolish prophets, that follow their own spirit, and have seen nothing! "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "O Israel, thy prophets are like the foxes in the deserts.",
       "tokens": [
         {
-          "t": "O Israel, thy prophets are like the foxes in the deserts."
+          "t": "O Israel, thy prophets are like the foxes in the deserts. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Ye have not gone up into the gaps, neither made up the hedge for the house of Israel to stand in the battle in the day of the LORD.",
       "tokens": [
         {
-          "t": "Ye have not gone up into the gaps, neither made up the hedge for the house of Israel to stand in the battle in the day of the"
+          "t": "Ye have not gone up into the gaps, neither made up the hedge for the house of Israel to stand in the battle in the day of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "They have seen vanity and lying divination, saying, The LORD saith: and the LORD hath not sent them: and they have made others to hope that they would confirm the word.",
       "tokens": [
         {
-          "t": "They have seen vanity and lying divination, saying, The"
+          "t": "They have seen vanity and lying divination, saying, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "saith: and the"
+          "t": " saith: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath not sent them: and they have made"
+          "t": " hath not sent them: and they have made "
         },
         {
           "add": "others"
         },
         {
-          "t": "to hope that they would confirm the word."
+          "t": " to hope that they would confirm the word. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Have ye not seen a vain vision, and have ye not spoken a lying divination, whereas ye say, The LORD saith it; albeit I have not spoken?",
       "tokens": [
         {
-          "t": "Have ye not seen a vain vision, and have ye not spoken a lying divination, whereas ye say, The"
+          "t": "Have ye not seen a vain vision, and have ye not spoken a lying divination, whereas ye say, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "saith"
+          "t": " saith "
         },
         {
           "add": "it;"
         },
         {
-          "t": "albeit I have not spoken?"
+          "t": " albeit I have not spoken? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Therefore thus saith the Lord GOD; Because ye have spoken vanity, and seen lies, therefore, behold, I am against you, saith the Lord GOD.",
       "tokens": [
         {
-          "t": "Therefore thus saith the Lord"
+          "t": "Therefore thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; Because ye have spoken vanity, and seen lies, therefore, behold, I"
+          "t": "; Because ye have spoken vanity, and seen lies, therefore, behold, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "against you, saith the Lord"
+          "t": " against you, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And mine hand shall be upon the prophets that see vanity, and that divine lies: they shall not be in the assembly of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I am the Lord GOD.",
       "tokens": [
         {
-          "t": "And mine hand shall be upon the prophets that see vanity, and that divine lies: they shall not be in the assembly of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I"
+          "t": "And mine hand shall be upon the prophets that see vanity, and that divine lies: they shall not be in the assembly of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the Lord"
+          "t": " the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ Because, even because they have seduced my people, saying, Peace; and there was no peace; and one built up a wall, and, lo, others daubed it with untempered morter:",
       "tokens": [
         {
-          "t": "¶ Because, even because they have seduced my people, saying, Peace; and"
+          "t": "¶ Because, even because they have seduced my people, saying, Peace; and "
         },
         {
           "add": "there was"
         },
         {
-          "t": "no peace; and one built up a wall, and, lo, others daubed it with untempered"
+          "t": " no peace; and one built up a wall, and, lo, others daubed it with untempered "
         },
         {
           "add": "morter:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Say unto them which daub it with untempered morter, that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend it.",
       "tokens": [
         {
-          "t": "Say unto them which daub"
+          "t": "Say unto them which daub "
         },
         {
           "add": "it"
         },
         {
-          "t": "with untempered"
+          "t": " with untempered "
         },
         {
           "add": "morter"
         },
         {
-          "t": ", that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend"
+          "t": ", that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Lo, when the wall is fallen, shall it not be said unto you, Where is the daubing wherewith ye have daubed it?",
       "tokens": [
         {
-          "t": "Lo, when the wall is fallen, shall it not be said unto you, Where"
+          "t": "Lo, when the wall is fallen, shall it not be said unto you, Where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the daubing wherewith ye have daubed"
+          "t": " the daubing wherewith ye have daubed "
         },
         {
           "add": "it"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Therefore thus saith the Lord GOD; I will even rend it with a stormy wind in my fury; and there shall be an overflowing shower in mine anger, and great hailstones in my fury to consume it.",
       "tokens": [
         {
-          "t": "Therefore thus saith the Lord"
+          "t": "Therefore thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; I will even rend"
+          "t": "; I will even rend "
         },
         {
           "add": "it"
         },
         {
-          "t": "with a stormy wind in my fury; and there shall be an overflowing shower in mine anger, and great hailstones in"
+          "t": " with a stormy wind in my fury; and there shall be an overflowing shower in mine anger, and great hailstones in "
         },
         {
           "add": "my"
         },
         {
-          "t": "fury to consume"
+          "t": " fury to consume "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "So will I break down the wall that ye have daubed with untempered morter, and bring it down to the ground, so that the foundation thereof shall be discovered, and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I am the LORD.",
       "tokens": [
         {
-          "t": "So will I break down the wall that ye have daubed with untempered"
+          "t": "So will I break down the wall that ye have daubed with untempered "
         },
         {
           "add": "morter"
         },
         {
-          "t": ", and bring it down to the ground, so that the foundation thereof shall be discovered, and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I"
+          "t": ", and bring it down to the ground, so that the foundation thereof shall be discovered, and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered morter, and will say unto you, The wall is no more, neither they that daubed it;",
       "tokens": [
         {
-          "t": "Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered"
+          "t": "Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered "
         },
         {
           "add": "morter"
         },
         {
-          "t": ", and will say unto you, The wall"
+          "t": ", and will say unto you, The wall "
         },
         {
           "add": "is"
         },
         {
-          "t": "no"
+          "t": " no "
         },
         {
           "add": "more"
         },
         {
-          "t": ", neither they that daubed it;"
+          "t": ", neither they that daubed it; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "To wit, the prophets of Israel which prophesy concerning Jerusalem, and which see visions of peace for her, and there is no peace, saith the Lord GOD.",
       "tokens": [
         {
           "add": "To wit"
         },
         {
-          "t": ", the prophets of Israel which prophesy concerning Jerusalem, and which see visions of peace for her, and"
+          "t": ", the prophets of Israel which prophesy concerning Jerusalem, and which see visions of peace for her, and "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no peace, saith the Lord"
+          "t": " no peace, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,",
       "tokens": [
         {
-          "t": "¶ Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,"
+          "t": "¶ Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And say, Thus saith the Lord GOD; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?",
       "tokens": [
         {
-          "t": "And say, Thus saith the Lord"
+          "t": "And say, Thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; Woe to the"
+          "t": "; Woe to the "
         },
         {
           "add": "women"
         },
         {
-          "t": "that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive"
+          "t": " that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive "
         },
         {
           "add": "that come"
         },
         {
-          "t": "unto you?"
+          "t": " unto you? "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear your lies?",
       "tokens": [
         {
-          "t": "And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear"
+          "t": "And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear "
         },
         {
           "add": "your"
         },
         {
-          "t": "lies?"
+          "t": " lies? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Wherefore thus saith the Lord GOD; Behold, I am against your pillows, wherewith ye there hunt the souls to make them fly, and I will tear them from your arms, and will let the souls go, even the souls that ye hunt to make them fly.",
       "tokens": [
         {
-          "t": "Wherefore thus saith the Lord"
+          "t": "Wherefore thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; Behold, I"
+          "t": "; Behold, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "against your pillows, wherewith ye there hunt the souls to make"
+          "t": " against your pillows, wherewith ye there hunt the souls to make "
         },
         {
           "add": "them"
         },
         {
-          "t": "fly, and I will tear them from your arms, and will let the souls go,"
+          "t": " fly, and I will tear them from your arms, and will let the souls go, "
         },
         {
           "add": "even"
         },
         {
-          "t": "the souls that ye hunt to make"
+          "t": " the souls that ye hunt to make "
         },
         {
           "add": "them"
         },
         {
-          "t": "fly."
+          "t": " fly. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am the LORD.",
       "tokens": [
         {
-          "t": "Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I"
+          "t": "Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by promising him life:",
       "tokens": [
         {
-          "t": "Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by promising him life:"
+          "t": "Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by promising him life: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I am the LORD.",
       "tokens": [
         {
-          "t": "Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I"
+          "t": "Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

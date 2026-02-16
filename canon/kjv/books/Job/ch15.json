@@ -7,398 +7,436 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then answered Eliphaz the Temanite, and said,",
       "tokens": [
         {
-          "t": "Then answered Eliphaz the Temanite, and said,"
+          "t": "Then answered Eliphaz the Temanite, and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Should a wise man utter vain knowledge, and fill his belly with the east wind?",
       "tokens": [
         {
-          "t": "Should a wise man utter vain knowledge, and fill his belly with the east wind?"
+          "t": "Should a wise man utter vain knowledge, and fill his belly with the east wind? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Should he reason with unprofitable talk? or with speeches wherewith he can do no good?",
       "tokens": [
         {
-          "t": "Should he reason with unprofitable talk? or with speeches wherewith he can do no good?"
+          "t": "Should he reason with unprofitable talk? or with speeches wherewith he can do no good? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Yea, thou castest off fear, and restrainest prayer before God.",
       "tokens": [
         {
-          "t": "Yea, thou castest off fear, and restrainest prayer before God."
+          "t": "Yea, thou castest off fear, and restrainest prayer before God. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.",
       "tokens": [
         {
-          "t": "For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty."
+          "t": "For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.",
       "tokens": [
         {
-          "t": "Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee."
+          "t": "Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Art thou the first man that was born? or wast thou made before the hills?",
       "tokens": [
         {
           "add": "Art"
         },
         {
-          "t": "thou the first man"
+          "t": " thou the first man "
         },
         {
           "add": "that"
         },
         {
-          "t": "was born? or wast thou made before the hills?"
+          "t": " was born? or wast thou made before the hills? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?",
       "tokens": [
         {
-          "t": "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?"
+          "t": "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "What knowest thou, that we know not? what understandest thou, which is not in us?",
       "tokens": [
         {
-          "t": "What knowest thou, that we know not?"
+          "t": "What knowest thou, that we know not? "
         },
         {
           "add": "what"
         },
         {
-          "t": "understandest thou, which"
+          "t": " understandest thou, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "not in us?"
+          "t": " not in us? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "With us are both the grayheaded and very aged men, much elder than thy father.",
       "tokens": [
         {
-          "t": "With us"
+          "t": "With us "
         },
         {
           "add": "are"
         },
         {
-          "t": "both the grayheaded and very aged men, much elder than thy father."
+          "t": " both the grayheaded and very aged men, much elder than thy father. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Are the consolations of God small with thee? is there any secret thing with thee?",
       "tokens": [
         {
           "add": "Are"
         },
         {
-          "t": "the consolations of God small with thee? is there any secret thing with thee?"
+          "t": " the consolations of God small with thee? is there any secret thing with thee? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Why doth thine heart carry thee away? and what do thy eyes wink at,",
       "tokens": [
         {
-          "t": "Why doth thine heart carry thee away? and what do thy eyes wink at,"
+          "t": "Why doth thine heart carry thee away? and what do thy eyes wink at, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "That thou turnest thy spirit against God, and lettest such words go out of thy mouth?",
       "tokens": [
         {
-          "t": "That thou turnest thy spirit against God, and lettest"
+          "t": "That thou turnest thy spirit against God, and lettest "
         },
         {
           "add": "such"
         },
         {
-          "t": "words go out of thy mouth?"
+          "t": " words go out of thy mouth? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "What is man, that he should be clean? and he which is born of a woman, that he should be righteous?",
       "tokens": [
         {
-          "t": "What"
+          "t": "What "
         },
         {
           "add": "is"
         },
         {
-          "t": "man, that he should be clean? and"
+          "t": " man, that he should be clean? and "
         },
         {
           "add": "he which is"
         },
         {
-          "t": "born of a woman, that he should be righteous?"
+          "t": " born of a woman, that he should be righteous? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight.",
       "tokens": [
         {
-          "t": "Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight."
+          "t": "Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "How much more abominable and filthy is man, which drinketh iniquity like water?",
       "tokens": [
         {
-          "t": "How much more abominable and filthy"
+          "t": "How much more abominable and filthy "
         },
         {
           "add": "is"
         },
         {
-          "t": "man, which drinketh iniquity like water?"
+          "t": " man, which drinketh iniquity like water? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "I will shew thee, hear me; and that which I have seen I will declare;",
       "tokens": [
         {
-          "t": "I will shew thee, hear me; and that"
+          "t": "I will shew thee, hear me; and that "
         },
         {
           "add": "which"
         },
         {
-          "t": "I have seen I will declare;"
+          "t": " I have seen I will declare; "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Which wise men have told from their fathers, and have not hid it:",
       "tokens": [
         {
-          "t": "Which wise men have told from their fathers, and have not hid"
+          "t": "Which wise men have told from their fathers, and have not hid "
         },
         {
           "add": "it:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Unto whom alone the earth was given, and no stranger passed among them.",
       "tokens": [
         {
-          "t": "Unto whom alone the earth was given, and no stranger passed among them."
+          "t": "Unto whom alone the earth was given, and no stranger passed among them. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor.",
       "tokens": [
         {
-          "t": "The wicked man travaileth with pain all"
+          "t": "The wicked man travaileth with pain all "
         },
         {
           "add": "his"
         },
         {
-          "t": "days, and the number of years is hidden to the oppressor."
+          "t": " days, and the number of years is hidden to the oppressor. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "A dreadful sound is in his ears: in prosperity the destroyer shall come upon him.",
       "tokens": [
         {
-          "t": "A dreadful sound"
+          "t": "A dreadful sound "
         },
         {
           "add": "is"
         },
         {
-          "t": "in his ears: in prosperity the destroyer shall come upon him."
+          "t": " in his ears: in prosperity the destroyer shall come upon him. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "He believeth not that he shall return out of darkness, and he is waited for of the sword.",
       "tokens": [
         {
-          "t": "He believeth not that he shall return out of darkness, and he is waited for of the sword."
+          "t": "He believeth not that he shall return out of darkness, and he is waited for of the sword. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "He wandereth abroad for bread, saying, Where is it? he knoweth that the day of darkness is ready at his hand.",
       "tokens": [
         {
-          "t": "He wandereth abroad for bread,"
+          "t": "He wandereth abroad for bread, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Where"
+          "t": ", Where "
         },
         {
           "add": "is it"
         },
         {
-          "t": "? he knoweth that the day of darkness is ready at his hand."
+          "t": "? he knoweth that the day of darkness is ready at his hand. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.",
       "tokens": [
         {
-          "t": "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle."
+          "t": "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "For he stretcheth out his hand against God, and strengtheneth himself against the Almighty.",
       "tokens": [
         {
-          "t": "For he stretcheth out his hand against God, and strengtheneth himself against the Almighty."
+          "t": "For he stretcheth out his hand against God, and strengtheneth himself against the Almighty. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "He runneth upon him, even on his neck, upon the thick bosses of his bucklers:",
       "tokens": [
         {
-          "t": "He runneth upon him,"
+          "t": "He runneth upon him, "
         },
         {
           "add": "even"
         },
         {
-          "t": "on"
+          "t": " on "
         },
         {
           "add": "his"
         },
         {
-          "t": "neck, upon the thick bosses of his bucklers:"
+          "t": " neck, upon the thick bosses of his bucklers: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Because he covereth his face with his fatness, and maketh collops of fat on his flanks.",
       "tokens": [
         {
-          "t": "Because he covereth his face with his fatness, and maketh collops of fat on"
+          "t": "Because he covereth his face with his fatness, and maketh collops of fat on "
         },
         {
           "add": "his"
         },
         {
-          "t": "flanks."
+          "t": " flanks. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And he dwelleth in desolate cities, and in houses which no man inhabiteth, which are ready to become heaps.",
       "tokens": [
         {
-          "t": "And he dwelleth in desolate cities,"
+          "t": "And he dwelleth in desolate cities, "
         },
         {
           "add": "and"
         },
         {
-          "t": "in houses which no man inhabiteth, which are ready to become heaps."
+          "t": " in houses which no man inhabiteth, which are ready to become heaps. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth.",
       "tokens": [
         {
-          "t": "He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth."
+          "t": "He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away.",
       "tokens": [
         {
-          "t": "He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away."
+          "t": "He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Let not him that is deceived trust in vanity: for vanity shall be his recompence.",
       "tokens": [
         {
-          "t": "Let not him that is deceived trust in vanity: for vanity shall be his recompence."
+          "t": "Let not him that is deceived trust in vanity: for vanity shall be his recompence. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "It shall be accomplished before his time, and his branch shall not be green.",
       "tokens": [
         {
-          "t": "It shall be accomplished before his time, and his branch shall not be green."
+          "t": "It shall be accomplished before his time, and his branch shall not be green. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive.",
       "tokens": [
         {
-          "t": "He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive."
+          "t": "He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery.",
       "tokens": [
         {
-          "t": "For the congregation of hypocrites"
+          "t": "For the congregation of hypocrites "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "desolate, and fire shall consume the tabernacles of bribery."
+          "t": " desolate, and fire shall consume the tabernacles of bribery. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "They conceive mischief, and bring forth vanity, and their belly prepareth deceit.",
       "tokens": [
         {
-          "t": "They conceive mischief, and bring forth vanity, and their belly prepareth deceit."
+          "t": "They conceive mischief, and bring forth vanity, and their belly prepareth deceit. "
         }
       ]
     }

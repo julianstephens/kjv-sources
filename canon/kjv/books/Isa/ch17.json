@@ -7,215 +7,229 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The burden of Damascus. Behold, Damascus is taken away from being a city, and it shall be a ruinous heap.",
       "tokens": [
         {
-          "t": "The burden of Damascus. Behold, Damascus is taken away from"
+          "t": "The burden of Damascus. Behold, Damascus is taken away from "
         },
         {
           "add": "being"
         },
         {
-          "t": "a city, and it shall be a ruinous heap."
+          "t": " a city, and it shall be a ruinous heap. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The cities of Aroer are forsaken: they shall be for flocks, which shall lie down, and none shall make them afraid.",
       "tokens": [
         {
-          "t": "The cities of Aroer"
+          "t": "The cities of Aroer "
         },
         {
           "add": "are"
         },
         {
-          "t": "forsaken: they shall be for flocks, which shall lie down, and none shall make"
+          "t": " forsaken: they shall be for flocks, which shall lie down, and none shall make "
         },
         {
           "add": "them"
         },
         {
-          "t": "afraid."
+          "t": " afraid. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The fortress also shall cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria: they shall be as the glory of the children of Israel, saith the LORD of hosts.",
       "tokens": [
         {
-          "t": "The fortress also shall cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria: they shall be as the glory of the children of Israel, saith the"
+          "t": "The fortress also shall cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria: they shall be as the glory of the children of Israel, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts."
+          "t": " of hosts. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And in that day it shall come to pass, that the glory of Jacob shall be made thin, and the fatness of his flesh shall wax lean.",
       "tokens": [
         {
-          "t": "And in that day it shall come to pass,"
+          "t": "And in that day it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the glory of Jacob shall be made thin, and the fatness of his flesh shall wax lean."
+          "t": " the glory of Jacob shall be made thin, and the fatness of his flesh shall wax lean. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim.",
       "tokens": [
         {
-          "t": "And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim."
+          "t": "And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ Yet gleaning grapes shall be left in it, as the shaking of an olive tree, two or three berries in the top of the uppermost bough, four or five in the outmost fruitful branches thereof, saith the LORD God of Israel.",
       "tokens": [
         {
-          "t": "¶ Yet gleaning grapes shall be left in it, as the shaking of an olive tree, two"
+          "t": "¶ Yet gleaning grapes shall be left in it, as the shaking of an olive tree, two "
         },
         {
           "add": "or"
         },
         {
-          "t": "three berries in the top of the uppermost bough, four"
+          "t": " three berries in the top of the uppermost bough, four "
         },
         {
           "add": "or"
         },
         {
-          "t": "five in the outmost fruitful branches thereof, saith the"
+          "t": " five in the outmost fruitful branches thereof, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel."
+          "t": " God of Israel. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "At that day shall a man look to his Maker, and his eyes shall have respect to the Holy One of Israel.",
       "tokens": [
         {
-          "t": "At that day shall a man look to his Maker, and his eyes shall have respect to the Holy One of Israel."
+          "t": "At that day shall a man look to his Maker, and his eyes shall have respect to the Holy One of Israel. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And he shall not look to the altars, the work of his hands, neither shall respect that which his fingers have made, either the groves, or the images.",
       "tokens": [
         {
-          "t": "And he shall not look to the altars, the work of his hands, neither shall respect"
+          "t": "And he shall not look to the altars, the work of his hands, neither shall respect "
         },
         {
           "add": "that"
         },
         {
-          "t": "which his fingers have made, either the groves, or the images."
+          "t": " which his fingers have made, either the groves, or the images. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation.",
       "tokens": [
         {
-          "t": "¶ In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation."
+          "t": "¶ In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips:",
       "tokens": [
         {
-          "t": "Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips:"
+          "t": "Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "In the day shalt thou make thy plant to grow, and in the morning shalt thou make thy seed to flourish: but the harvest shall be a heap in the day of grief and of desperate sorrow.",
       "tokens": [
         {
-          "t": "In the day shalt thou make thy plant to grow, and in the morning shalt thou make thy seed to flourish:"
+          "t": "In the day shalt thou make thy plant to grow, and in the morning shalt thou make thy seed to flourish: "
         },
         {
           "add": "but"
         },
         {
-          "t": "the harvest"
+          "t": " the harvest "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a heap in the day of grief and of desperate sorrow."
+          "t": " a heap in the day of grief and of desperate sorrow. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Woe to the multitude of many people, which make a noise like the noise of the seas; and to the rushing of nations, that make a rushing like the rushing of mighty waters!",
       "tokens": [
         {
-          "t": "¶ Woe to the multitude of many people,"
+          "t": "¶ Woe to the multitude of many people, "
         },
         {
           "add": "which"
         },
         {
-          "t": "make a noise like the noise of the seas; and to the rushing of nations,"
+          "t": " make a noise like the noise of the seas; and to the rushing of nations, "
         },
         {
           "add": "that"
         },
         {
-          "t": "make a rushing like the rushing of mighty waters!"
+          "t": " make a rushing like the rushing of mighty waters! "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The nations shall rush like the rushing of many waters: but God shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind.",
       "tokens": [
         {
-          "t": "The nations shall rush like the rushing of many waters: but"
+          "t": "The nations shall rush like the rushing of many waters: but "
         },
         {
           "add": "God"
         },
         {
-          "t": "shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind."
+          "t": " shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And behold at eveningtide trouble; and before the morning he is not. This is the portion of them that spoil us, and the lot of them that rob us.",
       "tokens": [
         {
-          "t": "And behold at eveningtide trouble;"
+          "t": "And behold at eveningtide trouble; "
         },
         {
           "add": "and"
         },
         {
-          "t": "before the morning he"
+          "t": " before the morning he "
         },
         {
           "add": "is"
         },
         {
-          "t": "not. This"
+          "t": " not. This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the portion of them that spoil us, and the lot of them that rob us."
+          "t": " the portion of them that spoil us, and the lot of them that rob us. "
         }
       ]
     }

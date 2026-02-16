@@ -7,287 +7,319 @@
   "verses": [
     {
       "v": 1,
+      "plain": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+          "t": " the book of the generations of Adam. In the day that God created man, in the likeness of God made he him; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.",
       "tokens": [
         {
-          "t": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created."
+          "t": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:",
       "tokens": [
         {
-          "t": "¶ And Adam lived an hundred and thirty years, and begat"
+          "t": "¶ And Adam lived an hundred and thirty years, and begat "
         },
         {
           "add": "a son"
         },
         {
-          "t": "in his own likeness, after his image; and called his name Seth:"
+          "t": " in his own likeness, after his image; and called his name Seth: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:",
       "tokens": [
         {
-          "t": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
+          "t": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And all the days that Adam lived were nine hundred and thirty years: and he died.",
       "tokens": [
         {
-          "t": "And all the days that Adam lived were nine hundred and thirty years: and he died."
+          "t": "And all the days that Adam lived were nine hundred and thirty years: and he died. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Seth lived an hundred and five years, and begat Enos:",
       "tokens": [
         {
-          "t": "And Seth lived an hundred and five years, and begat Enos:"
+          "t": "And Seth lived an hundred and five years, and begat Enos: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:",
       "tokens": [
         {
-          "t": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:"
+          "t": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And all the days of Seth were nine hundred and twelve years: and he died.",
       "tokens": [
         {
-          "t": "And all the days of Seth were nine hundred and twelve years: and he died."
+          "t": "And all the days of Seth were nine hundred and twelve years: and he died. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And Enos lived ninety years, and begat Cainan:",
       "tokens": [
         {
-          "t": "¶ And Enos lived ninety years, and begat Cainan:"
+          "t": "¶ And Enos lived ninety years, and begat Cainan: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:",
       "tokens": [
         {
-          "t": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+          "t": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And all the days of Enos were nine hundred and five years: and he died.",
       "tokens": [
         {
-          "t": "And all the days of Enos were nine hundred and five years: and he died."
+          "t": "And all the days of Enos were nine hundred and five years: and he died. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And Cainan lived seventy years, and begat Mahalaleel:",
       "tokens": [
         {
-          "t": "¶ And Cainan lived seventy years, and begat Mahalaleel:"
+          "t": "¶ And Cainan lived seventy years, and begat Mahalaleel: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:",
       "tokens": [
         {
-          "t": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
+          "t": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And all the days of Cainan were nine hundred and ten years: and he died.",
       "tokens": [
         {
-          "t": "And all the days of Cainan were nine hundred and ten years: and he died."
+          "t": "And all the days of Cainan were nine hundred and ten years: and he died. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And Mahalaleel lived sixty and five years, and begat Jared:",
       "tokens": [
         {
-          "t": "¶ And Mahalaleel lived sixty and five years, and begat Jared:"
+          "t": "¶ And Mahalaleel lived sixty and five years, and begat Jared: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:",
       "tokens": [
         {
-          "t": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:"
+          "t": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died.",
       "tokens": [
         {
-          "t": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+          "t": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And Jared lived an hundred sixty and two years, and he begat Enoch:",
       "tokens": [
         {
-          "t": "¶ And Jared lived an hundred sixty and two years, and he begat Enoch:"
+          "t": "¶ And Jared lived an hundred sixty and two years, and he begat Enoch: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:",
       "tokens": [
         {
-          "t": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
+          "t": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And all the days of Jared were nine hundred sixty and two years: and he died.",
       "tokens": [
         {
-          "t": "And all the days of Jared were nine hundred sixty and two years: and he died."
+          "t": "And all the days of Jared were nine hundred sixty and two years: and he died. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ And Enoch lived sixty and five years, and begat Methuselah:",
       "tokens": [
         {
-          "t": "¶ And Enoch lived sixty and five years, and begat Methuselah:"
+          "t": "¶ And Enoch lived sixty and five years, and begat Methuselah: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:",
       "tokens": [
         {
-          "t": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+          "t": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And all the days of Enoch were three hundred sixty and five years:",
       "tokens": [
         {
-          "t": "And all the days of Enoch were three hundred sixty and five years:"
+          "t": "And all the days of Enoch were three hundred sixty and five years: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Enoch walked with God: and he was not; for God took him.",
       "tokens": [
         {
-          "t": "And Enoch walked with God: and he"
+          "t": "And Enoch walked with God: and he "
         },
         {
           "add": "was"
         },
         {
-          "t": "not; for God took him."
+          "t": " not; for God took him. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:",
       "tokens": [
         {
-          "t": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:"
+          "t": "And Methuselah lived an hundred eighty and seven years, and begat Lamech: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:",
       "tokens": [
         {
-          "t": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:"
+          "t": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And all the days of Methuselah were nine hundred sixty and nine years: and he died.",
       "tokens": [
         {
-          "t": "And all the days of Methuselah were nine hundred sixty and nine years: and he died."
+          "t": "And all the days of Methuselah were nine hundred sixty and nine years: and he died. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ And Lamech lived an hundred eighty and two years, and begat a son:",
       "tokens": [
         {
-          "t": "¶ And Lamech lived an hundred eighty and two years, and begat a son:"
+          "t": "¶ And Lamech lived an hundred eighty and two years, and begat a son: "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.",
       "tokens": [
         {
-          "t": "And he called his name Noah, saying, This"
+          "t": "And he called his name Noah, saying, This "
         },
         {
           "add": "same"
         },
         {
-          "t": "shall comfort us concerning our work and toil of our hands, because of the ground which the"
+          "t": " shall comfort us concerning our work and toil of our hands, because of the ground which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath cursed."
+          "t": " hath cursed. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:",
       "tokens": [
         {
-          "t": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:"
+          "t": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters: "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And all the days of Lamech were seven hundred seventy and seven years: and he died.",
       "tokens": [
         {
-          "t": "And all the days of Lamech were seven hundred seventy and seven years: and he died."
+          "t": "And all the days of Lamech were seven hundred seventy and seven years: and he died. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.",
       "tokens": [
         {
-          "t": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+          "t": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth. "
         }
       ]
     }

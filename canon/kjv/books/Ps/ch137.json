@@ -7,133 +7,142 @@
   "verses": [
     {
       "v": 1,
+      "plain": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.",
       "tokens": [
         {
-          "t": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion."
+          "t": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "We hanged our harps upon the willows in the midst thereof.",
       "tokens": [
         {
-          "t": "We hanged our harps upon the willows in the midst thereof."
+          "t": "We hanged our harps upon the willows in the midst thereof. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.",
       "tokens": [
         {
-          "t": "For there they that carried us away captive required of us a song; and they that wasted us"
+          "t": "For there they that carried us away captive required of us a song; and they that wasted us "
         },
         {
           "add": "required of us"
         },
         {
-          "t": "mirth,"
+          "t": " mirth, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Sing us"
+          "t": ", Sing us "
         },
         {
           "add": "one"
         },
         {
-          "t": "of the songs of Zion."
+          "t": " of the songs of Zion. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "How shall we sing the LORD’s song in a strange land?",
       "tokens": [
         {
-          "t": "How shall we sing the"
+          "t": "How shall we sing the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "song in a strange land?"
+          "t": " song in a strange land? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "If I forget thee, O Jerusalem, let my right hand forget her cunning.",
       "tokens": [
         {
-          "t": "If I forget thee, O Jerusalem, let my right hand forget"
+          "t": "If I forget thee, O Jerusalem, let my right hand forget "
         },
         {
           "add": "her cunning"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.",
       "tokens": [
         {
-          "t": "If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy."
+          "t": "If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.",
       "tokens": [
         {
-          "t": "Remember, O"
+          "t": "Remember, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the children of Edom in the day of Jerusalem; who said, Rase"
+          "t": ", the children of Edom in the day of Jerusalem; who said, Rase "
         },
         {
           "add": "it"
         },
         {
-          "t": ", rase"
+          "t": ", rase "
         },
         {
           "add": "it, even"
         },
         {
-          "t": "to the foundation thereof."
+          "t": " to the foundation thereof. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.",
       "tokens": [
         {
-          "t": "O daughter of Babylon, who art to be destroyed; happy"
+          "t": "O daughter of Babylon, who art to be destroyed; happy "
         },
         {
           "add": "shall he be"
         },
         {
-          "t": ", that rewardeth thee as thou hast served us."
+          "t": ", that rewardeth thee as thou hast served us. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Happy shall he be, that taketh and dasheth thy little ones against the stones.",
       "tokens": [
         {
-          "t": "Happy"
+          "t": "Happy "
         },
         {
           "add": "shall he be"
         },
         {
-          "t": ", that taketh and dasheth thy little ones against the stones."
+          "t": ", that taketh and dasheth thy little ones against the stones. "
         }
       ]
     }

@@ -7,301 +7,325 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Moreover the LORD answered Job, and said,",
       "tokens": [
         {
-          "t": "Moreover the"
+          "t": "Moreover the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "answered Job, and said,"
+          "t": " answered Job, and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it.",
       "tokens": [
         {
-          "t": "Shall he that contendeth with the Almighty instruct"
+          "t": "Shall he that contendeth with the Almighty instruct "
         },
         {
           "add": "him"
         },
         {
-          "t": "? he that reproveth God, let him answer it."
+          "t": "? he that reproveth God, let him answer it. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ Then Job answered the LORD, and said,",
       "tokens": [
         {
-          "t": "¶ Then Job answered the"
+          "t": "¶ Then Job answered the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said,"
+          "t": ", and said, "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.",
       "tokens": [
         {
-          "t": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth."
+          "t": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.",
       "tokens": [
         {
-          "t": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further."
+          "t": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ Then answered the LORD unto Job out of the whirlwind, and said,",
       "tokens": [
         {
-          "t": "¶ Then answered the"
+          "t": "¶ Then answered the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto Job out of the whirlwind, and said,"
+          "t": " unto Job out of the whirlwind, and said, "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.",
       "tokens": [
         {
-          "t": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me."
+          "t": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?",
       "tokens": [
         {
-          "t": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?"
+          "t": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Hast thou an arm like God? or canst thou thunder with a voice like him?",
       "tokens": [
         {
-          "t": "Hast thou an arm like God? or canst thou thunder with a voice like him?"
+          "t": "Hast thou an arm like God? or canst thou thunder with a voice like him? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Deck thyself now with majesty and excellency; and array thyself with glory and beauty.",
       "tokens": [
         {
-          "t": "Deck thyself now"
+          "t": "Deck thyself now "
         },
         {
           "add": "with"
         },
         {
-          "t": "majesty and excellency; and array thyself with glory and beauty."
+          "t": " majesty and excellency; and array thyself with glory and beauty. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him.",
       "tokens": [
         {
-          "t": "Cast abroad the rage of thy wrath: and behold every one"
+          "t": "Cast abroad the rage of thy wrath: and behold every one "
         },
         {
           "add": "that is"
         },
         {
-          "t": "proud, and abase him."
+          "t": " proud, and abase him. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Look on every one that is proud, and bring him low; and tread down the wicked in their place.",
       "tokens": [
         {
-          "t": "Look on every one"
+          "t": "Look on every one "
         },
         {
           "add": "that is"
         },
         {
-          "t": "proud,"
+          "t": " proud, "
         },
         {
           "add": "and"
         },
         {
-          "t": "bring him low; and tread down the wicked in their place."
+          "t": " bring him low; and tread down the wicked in their place. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Hide them in the dust together; and bind their faces in secret.",
       "tokens": [
         {
-          "t": "Hide them in the dust together;"
+          "t": "Hide them in the dust together; "
         },
         {
           "add": "and"
         },
         {
-          "t": "bind their faces in secret."
+          "t": " bind their faces in secret. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then will I also confess unto thee that thine own right hand can save thee.",
       "tokens": [
         {
-          "t": "Then will I also confess unto thee that thine own right hand can save thee."
+          "t": "Then will I also confess unto thee that thine own right hand can save thee. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ Behold now behemoth, which I made with thee; he eateth grass as an ox.",
       "tokens": [
         {
-          "t": "¶ Behold now behemoth, which I made with thee; he eateth grass as an ox."
+          "t": "¶ Behold now behemoth, which I made with thee; he eateth grass as an ox. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Lo now, his strength is in his loins, and his force is in the navel of his belly.",
       "tokens": [
         {
-          "t": "Lo now, his strength"
+          "t": "Lo now, his strength "
         },
         {
           "add": "is"
         },
         {
-          "t": "in his loins, and his force"
+          "t": " in his loins, and his force "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the navel of his belly."
+          "t": " in the navel of his belly. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He moveth his tail like a cedar: the sinews of his stones are wrapped together.",
       "tokens": [
         {
-          "t": "He moveth his tail like a cedar: the sinews of his stones are wrapped together."
+          "t": "He moveth his tail like a cedar: the sinews of his stones are wrapped together. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "His bones are as strong pieces of brass; his bones are like bars of iron.",
       "tokens": [
         {
-          "t": "His bones"
+          "t": "His bones "
         },
         {
           "add": "are as"
         },
         {
-          "t": "strong pieces of brass; his bones"
+          "t": " strong pieces of brass; his bones "
         },
         {
           "add": "are"
         },
         {
-          "t": "like bars of iron."
+          "t": " like bars of iron. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He is the chief of the ways of God: he that made him can make his sword to approach unto him.",
       "tokens": [
         {
-          "t": "He"
+          "t": "He "
         },
         {
           "add": "is"
         },
         {
-          "t": "the chief of the ways of God: he that made him can make his sword to approach"
+          "t": " the chief of the ways of God: he that made him can make his sword to approach "
         },
         {
           "add": "unto him"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Surely the mountains bring him forth food, where all the beasts of the field play.",
       "tokens": [
         {
-          "t": "Surely the mountains bring him forth food, where all the beasts of the field play."
+          "t": "Surely the mountains bring him forth food, where all the beasts of the field play. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "He lieth under the shady trees, in the covert of the reed, and fens.",
       "tokens": [
         {
-          "t": "He lieth under the shady trees, in the covert of the reed, and fens."
+          "t": "He lieth under the shady trees, in the covert of the reed, and fens. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The shady trees cover him with their shadow; the willows of the brook compass him about.",
       "tokens": [
         {
-          "t": "The shady trees cover him"
+          "t": "The shady trees cover him "
         },
         {
           "add": "with"
         },
         {
-          "t": "their shadow; the willows of the brook compass him about."
+          "t": " their shadow; the willows of the brook compass him about. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.",
       "tokens": [
         {
-          "t": "Behold, he drinketh up a river,"
+          "t": "Behold, he drinketh up a river, "
         },
         {
           "add": "and"
         },
         {
-          "t": "hasteth not: he trusteth that he can draw up Jordan into his mouth."
+          "t": " hasteth not: he trusteth that he can draw up Jordan into his mouth. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "He taketh it with his eyes: his nose pierceth through snares.",
       "tokens": [
         {
-          "t": "He taketh it with his eyes:"
+          "t": "He taketh it with his eyes: "
         },
         {
           "add": "his"
         },
         {
-          "t": "nose pierceth through snares."
+          "t": " nose pierceth through snares. "
         }
       ]
     }

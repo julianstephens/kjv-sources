@@ -7,254 +7,277 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word of the LORD that came to Joel the son of Pethuel.",
       "tokens": [
         {
-          "t": "The word of the"
+          "t": "The word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that came to Joel the son of Pethuel."
+          "t": " that came to Joel the son of Pethuel. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?",
       "tokens": [
         {
-          "t": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?"
+          "t": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Tell ye your children of it, and let your children tell their children, and their children another generation.",
       "tokens": [
         {
-          "t": "Tell ye your children of it, and"
+          "t": "Tell ye your children of it, and "
         },
         {
           "add": "let"
         },
         {
-          "t": "your children"
+          "t": " your children "
         },
         {
           "add": "tell"
         },
         {
-          "t": "their children, and their children another generation."
+          "t": " their children, and their children another generation. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.",
       "tokens": [
         {
-          "t": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten."
+          "t": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.",
       "tokens": [
         {
-          "t": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth."
+          "t": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion.",
       "tokens": [
         {
-          "t": "For a nation is come up upon my land, strong, and without number, whose teeth"
+          "t": "For a nation is come up upon my land, strong, and without number, whose teeth "
         },
         {
           "add": "are"
         },
         {
-          "t": "the teeth of a lion, and he hath the cheek teeth of a great lion."
+          "t": " the teeth of a lion, and he hath the cheek teeth of a great lion. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white.",
       "tokens": [
         {
-          "t": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast"
+          "t": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast "
         },
         {
           "add": "it"
         },
         {
-          "t": "away; the branches thereof are made white."
+          "t": " away; the branches thereof are made white. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ Lament like a virgin girded with sackcloth for the husband of her youth.",
       "tokens": [
         {
-          "t": "¶ Lament like a virgin girded with sackcloth for the husband of her youth."
+          "t": "¶ Lament like a virgin girded with sackcloth for the husband of her youth. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD’s ministers, mourn.",
       "tokens": [
         {
-          "t": "The meat offering and the drink offering is cut off from the house of the"
+          "t": "The meat offering and the drink offering is cut off from the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; the priests, the"
+          "t": "; the priests, the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "ministers, mourn."
+          "t": " ministers, mourn. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.",
       "tokens": [
         {
-          "t": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth."
+          "t": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.",
       "tokens": [
         {
-          "t": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished."
+          "t": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men.",
       "tokens": [
         {
-          "t": "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree,"
+          "t": "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, "
         },
         {
           "add": "even"
         },
         {
-          "t": "all the trees of the field, are withered: because joy is withered away from the sons of men."
+          "t": " all the trees of the field, are withered: because joy is withered away from the sons of men. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.",
       "tokens": [
         {
-          "t": "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God."
+          "t": "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the LORD your God, and cry unto the LORD,",
       "tokens": [
         {
-          "t": "¶ Sanctify ye a fast, call a solemn assembly, gather the elders"
+          "t": "¶ Sanctify ye a fast, call a solemn assembly, gather the elders "
         },
         {
           "add": "and"
         },
         {
-          "t": "all the inhabitants of the land"
+          "t": " all the inhabitants of the land "
         },
         {
           "add": "into"
         },
         {
-          "t": "the house of the"
+          "t": " the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God, and cry unto the"
+          "t": " your God, and cry unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come.",
       "tokens": [
         {
-          "t": "Alas for the day! for the day of the"
+          "t": "Alas for the day! for the day of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "at hand, and as a destruction from the Almighty shall it come."
+          "t": " at hand, and as a destruction from the Almighty shall it come. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Is not the meat cut off before our eyes, yea, joy and gladness from the house of our God?",
       "tokens": [
         {
-          "t": "Is not the meat cut off before our eyes,"
+          "t": "Is not the meat cut off before our eyes, "
         },
         {
           "add": "yea"
         },
         {
-          "t": ", joy and gladness from the house of our God?"
+          "t": ", joy and gladness from the house of our God? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.",
       "tokens": [
         {
-          "t": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered."
+          "t": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.",
       "tokens": [
         {
-          "t": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate."
+          "t": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
       "tokens": [
         {
-          "t": "O"
+          "t": "O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field."
+          "t": ", to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.",
       "tokens": [
         {
-          "t": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness."
+          "t": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness. "
         }
       ]
     }

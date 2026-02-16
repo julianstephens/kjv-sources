@@ -7,360 +7,385 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Moreover Job continued his parable, and said,",
       "tokens": [
         {
-          "t": "Moreover Job continued his parable, and said,"
+          "t": "Moreover Job continued his parable, and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Oh that I were as in months past, as in the days when God preserved me;",
       "tokens": [
         {
-          "t": "Oh that I were as"
+          "t": "Oh that I were as "
         },
         {
           "add": "in"
         },
         {
-          "t": "months past, as"
+          "t": " months past, as "
         },
         {
           "add": "in"
         },
         {
-          "t": "the days"
+          "t": " the days "
         },
         {
           "add": "when"
         },
         {
-          "t": "God preserved me;"
+          "t": " God preserved me; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "When his candle shined upon my head, and when by his light I walked through darkness;",
       "tokens": [
         {
-          "t": "When his candle shined upon my head,"
+          "t": "When his candle shined upon my head, "
         },
         {
           "add": "and when"
         },
         {
-          "t": "by his light I walked"
+          "t": " by his light I walked "
         },
         {
           "add": "through"
         },
         {
-          "t": "darkness;"
+          "t": " darkness; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "As I was in the days of my youth, when the secret of God was upon my tabernacle;",
       "tokens": [
         {
-          "t": "As I was in the days of my youth, when the secret of God"
+          "t": "As I was in the days of my youth, when the secret of God "
         },
         {
           "add": "was"
         },
         {
-          "t": "upon my tabernacle;"
+          "t": " upon my tabernacle; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "When the Almighty was yet with me, when my children were about me;",
       "tokens": [
         {
-          "t": "When the Almighty"
+          "t": "When the Almighty "
         },
         {
           "add": "was"
         },
         {
-          "t": "yet with me,"
+          "t": " yet with me, "
         },
         {
           "add": "when"
         },
         {
-          "t": "my children"
+          "t": " my children "
         },
         {
           "add": "were"
         },
         {
-          "t": "about me;"
+          "t": " about me; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "When I washed my steps with butter, and the rock poured me out rivers of oil;",
       "tokens": [
         {
-          "t": "When I washed my steps with butter, and the rock poured me out rivers of oil;"
+          "t": "When I washed my steps with butter, and the rock poured me out rivers of oil; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "When I went out to the gate through the city, when I prepared my seat in the street!",
       "tokens": [
         {
-          "t": "When I went out to the gate through the city,"
+          "t": "When I went out to the gate through the city, "
         },
         {
           "add": "when"
         },
         {
-          "t": "I prepared my seat in the street!"
+          "t": " I prepared my seat in the street! "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The young men saw me, and hid themselves: and the aged arose, and stood up.",
       "tokens": [
         {
-          "t": "The young men saw me, and hid themselves: and the aged arose,"
+          "t": "The young men saw me, and hid themselves: and the aged arose, "
         },
         {
           "add": "and"
         },
         {
-          "t": "stood up."
+          "t": " stood up. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The princes refrained talking, and laid their hand on their mouth.",
       "tokens": [
         {
-          "t": "The princes refrained talking, and laid"
+          "t": "The princes refrained talking, and laid "
         },
         {
           "add": "their"
         },
         {
-          "t": "hand on their mouth."
+          "t": " hand on their mouth. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The nobles held their peace, and their tongue cleaved to the roof of their mouth.",
       "tokens": [
         {
-          "t": "The nobles held their peace, and their tongue cleaved to the roof of their mouth."
+          "t": "The nobles held their peace, and their tongue cleaved to the roof of their mouth. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:",
       "tokens": [
         {
-          "t": "When the ear heard"
+          "t": "When the ear heard "
         },
         {
           "add": "me"
         },
         {
-          "t": ", then it blessed me; and when the eye saw"
+          "t": ", then it blessed me; and when the eye saw "
         },
         {
           "add": "me"
         },
         {
-          "t": ", it gave witness to me:"
+          "t": ", it gave witness to me: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Because I delivered the poor that cried, and the fatherless, and him that had none to help him.",
       "tokens": [
         {
-          "t": "Because I delivered the poor that cried, and the fatherless, and"
+          "t": "Because I delivered the poor that cried, and the fatherless, and "
         },
         {
           "add": "him that had"
         },
         {
-          "t": "none to help him."
+          "t": " none to help him. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The blessing of him that was ready to perish came upon me: and I caused the widow’s heart to sing for joy.",
       "tokens": [
         {
-          "t": "The blessing of him that was ready to perish came upon me: and I caused the widow’s heart to sing for joy."
+          "t": "The blessing of him that was ready to perish came upon me: and I caused the widow’s heart to sing for joy. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I put on righteousness, and it clothed me: my judgment was as a robe and a diadem.",
       "tokens": [
         {
-          "t": "I put on righteousness, and it clothed me: my judgment"
+          "t": "I put on righteousness, and it clothed me: my judgment "
         },
         {
           "add": "was"
         },
         {
-          "t": "as a robe and a diadem."
+          "t": " as a robe and a diadem. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "I was eyes to the blind, and feet was I to the lame.",
       "tokens": [
         {
-          "t": "I was eyes to the blind, and feet"
+          "t": "I was eyes to the blind, and feet "
         },
         {
           "add": "was"
         },
         {
-          "t": "I to the lame."
+          "t": " I to the lame. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "I was a father to the poor: and the cause which I knew not I searched out.",
       "tokens": [
         {
-          "t": "I"
+          "t": "I "
         },
         {
           "add": "was"
         },
         {
-          "t": "a father to the poor: and the cause"
+          "t": " a father to the poor: and the cause "
         },
         {
           "add": "which"
         },
         {
-          "t": "I knew not I searched out."
+          "t": " I knew not I searched out. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth.",
       "tokens": [
         {
-          "t": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth."
+          "t": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Then I said, I shall die in my nest, and I shall multiply my days as the sand.",
       "tokens": [
         {
-          "t": "Then I said, I shall die in my nest, and I shall multiply"
+          "t": "Then I said, I shall die in my nest, and I shall multiply "
         },
         {
           "add": "my"
         },
         {
-          "t": "days as the sand."
+          "t": " days as the sand. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "My root was spread out by the waters, and the dew lay all night upon my branch.",
       "tokens": [
         {
-          "t": "My root"
+          "t": "My root "
         },
         {
           "add": "was"
         },
         {
-          "t": "spread out by the waters, and the dew lay all night upon my branch."
+          "t": " spread out by the waters, and the dew lay all night upon my branch. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "My glory was fresh in me, and my bow was renewed in my hand.",
       "tokens": [
         {
-          "t": "My glory"
+          "t": "My glory "
         },
         {
           "add": "was"
         },
         {
-          "t": "fresh in me, and my bow was renewed in my hand."
+          "t": " fresh in me, and my bow was renewed in my hand. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Unto me men gave ear, and waited, and kept silence at my counsel.",
       "tokens": [
         {
-          "t": "Unto me"
+          "t": "Unto me "
         },
         {
           "add": "men"
         },
         {
-          "t": "gave ear, and waited, and kept silence at my counsel."
+          "t": " gave ear, and waited, and kept silence at my counsel. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "After my words they spake not again; and my speech dropped upon them.",
       "tokens": [
         {
-          "t": "After my words they spake not again; and my speech dropped upon them."
+          "t": "After my words they spake not again; and my speech dropped upon them. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And they waited for me as for the rain; and they opened their mouth wide as for the latter rain.",
       "tokens": [
         {
-          "t": "And they waited for me as for the rain; and they opened their mouth wide"
+          "t": "And they waited for me as for the rain; and they opened their mouth wide "
         },
         {
           "add": "as"
         },
         {
-          "t": "for the latter rain."
+          "t": " for the latter rain. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "If I laughed on them, they believed it not; and the light of my countenance they cast not down.",
       "tokens": [
         {
           "add": "If"
         },
         {
-          "t": "I laughed on them, they believed"
+          "t": " I laughed on them, they believed "
         },
         {
           "add": "it"
         },
         {
-          "t": "not; and the light of my countenance they cast not down."
+          "t": " not; and the light of my countenance they cast not down. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners.",
       "tokens": [
         {
-          "t": "I chose out their way, and sat chief, and dwelt as a king in the army, as one"
+          "t": "I chose out their way, and sat chief, and dwelt as a king in the army, as one "
         },
         {
           "add": "that"
         },
         {
-          "t": "comforteth the mourners."
+          "t": " comforteth the mourners. "
         }
       ]
     }

@@ -7,245 +7,600 @@
   "verses": [
     {
       "v": 1,
+      "plain": "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.",
       "tokens": [
         {
-          "t": "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come."
+          "t": "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.",
       "tokens": [
         {
-          "t": "Therefore said he unto them,"
+          "t": "Therefore said he unto them, "
+        },
+        {
+          "t": "The harvest truly "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " great, but the labourers "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 3,
-      "tokens": null
+      "plain": "Go your ways: behold, I send you forth as lambs among wolves.",
+      "tokens": [
+        {
+          "t": "Go your ways: behold, I send you forth as lambs among wolves."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "Carry neither purse, nor scrip, nor shoes: and salute no man by the way.",
+      "tokens": [
+        {
+          "t": "Carry neither purse, nor scrip, nor shoes: and salute no man by the way."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "And into whatsoever house ye enter, first say, Peace be to this house.",
+      "tokens": [
+        {
+          "t": "And into whatsoever house ye enter, first say, Peace "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " to this house."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again.",
+      "tokens": [
+        {
+          "t": "And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.",
+      "tokens": [
+        {
+          "t": "And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "And into whatsoever city ye enter, and they receive you, eat such things as are set before you:",
+      "tokens": [
+        {
+          "t": "And into whatsoever city ye enter, and they receive you, eat such things as are set before you:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.",
+      "tokens": [
+        {
+          "t": "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "But into whatsoever city ye enter, and they receive you not, go your ways out into the streets of the same, and say,",
+      "tokens": [
+        {
+          "t": "But into whatsoever city ye enter, and they receive you not, go your ways out into the streets of the same, and say,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you.",
+      "tokens": [
+        {
+          "t": "Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.",
+      "tokens": [
+        {
+          "t": "But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.",
+      "tokens": [
+        {
+          "t": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.",
+      "tokens": [
+        {
+          "t": "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.",
+      "tokens": [
+        {
+          "t": "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.",
+      "tokens": [
+        {
+          "t": "He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
+      "plain": "¶ And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.",
       "tokens": [
         {
-          "t": "¶ And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name."
+          "t": "¶ And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he said unto them, I beheld Satan as lightning fall from heaven.",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "I beheld Satan as lightning fall from heaven."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.",
+      "tokens": [
+        {
+          "t": "Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven.",
+      "tokens": [
+        {
+          "t": "Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
+      "plain": "¶ In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.",
       "tokens": [
         {
-          "t": "¶ In that hour Jesus rejoiced in spirit, and said,"
+          "t": "¶ In that hour Jesus rejoiced in spirit, and said, "
+        },
+        {
+          "t": "I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and he to whom the Son will reveal him.",
+      "tokens": [
+        {
+          "t": "All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and "
+        },
+        {
+          "add": "he"
+        },
+        {
+          "t": " to whom the Son will reveal "
+        },
+        {
+          "add": "him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
+      "plain": "¶ And he turned him unto his disciples, and said privately, Blessed are the eyes which see the things that ye see:",
       "tokens": [
         {
-          "t": "¶ And he turned him unto"
+          "t": "¶ And he turned him unto "
         },
         {
           "add": "his"
         },
         {
-          "t": "disciples, and said privately,"
+          "t": " disciples, and said privately, "
+        },
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the eyes which see the things that ye see:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.",
+      "tokens": [
+        {
+          "t": "For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": "; and to hear those things which ye hear, and have not heard "
+        },
+        {
+          "add": "them."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
+      "plain": "¶ And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?",
       "tokens": [
         {
-          "t": "¶ And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?"
+          "t": "¶ And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life? "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "He said unto him, What is written in the law? how readest thou?",
       "tokens": [
         {
-          "t": "He said unto him,"
+          "t": "He said unto him, "
+        },
+        {
+          "t": "What is written in the law? how readest thou?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.",
       "tokens": [
         {
-          "t": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself."
+          "t": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And he said unto him, Thou hast answered right: this do, and thou shalt live.",
       "tokens": [
         {
-          "t": "And he said unto him,"
+          "t": "And he said unto him, "
+        },
+        {
+          "t": "Thou hast answered right: this do, and thou shalt live."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "But he, willing to justify himself, said unto Jesus, And who is my neighbour?",
       "tokens": [
         {
-          "t": "But he, willing to justify himself, said unto Jesus, And who is my neighbour?"
+          "t": "But he, willing to justify himself, said unto Jesus, And who is my neighbour? "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.",
       "tokens": [
         {
-          "t": "And Jesus answering said,"
+          "t": "And Jesus answering said, "
+        },
+        {
+          "t": "A certain "
+        },
+        {
+          "add": " man"
+        },
+        {
+          "t": " went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": ", and departed, leaving "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " half dead."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 31,
-      "tokens": null
+      "plain": "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.",
+      "tokens": [
+        {
+          "t": "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side.",
+      "tokens": [
+        {
+          "t": "And likewise a Levite, when he was at the place, came and looked "
+        },
+        {
+          "add": "on him"
+        },
+        {
+          "t": ", and passed by on the other side."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
+      "plain": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him,",
+      "tokens": [
+        {
+          "t": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion "
+        },
+        {
+          "add": "on him"
+        },
+        {
+          "t": ","
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 34,
-      "tokens": null
+      "plain": "And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.",
+      "tokens": [
+        {
+          "t": "And went to "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": ", and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 35,
-      "tokens": null
+      "plain": "And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.",
+      "tokens": [
+        {
+          "t": "And on the morrow when he departed, he took out two pence, and gave "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 36,
-      "tokens": null
+      "plain": "Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?",
+      "tokens": [
+        {
+          "t": "Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 37,
+      "plain": "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
       "tokens": [
         {
-          "t": "And he said, He that shewed mercy on him. Then said Jesus unto him,"
+          "t": "And he said, He that shewed mercy on him. Then said Jesus unto him, "
+        },
+        {
+          "t": "Go, and do thou likewise."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "¶ Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.",
       "tokens": [
         {
-          "t": "¶ Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house."
+          "t": "¶ Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word.",
       "tokens": [
         {
-          "t": "And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word."
+          "t": "And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.",
       "tokens": [
         {
-          "t": "But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me."
+          "t": "But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:",
       "tokens": [
         {
-          "t": "And Jesus answered and said unto her,"
+          "t": "And Jesus answered and said unto her, "
+        },
+        {
+          "t": "Martha, Martha, thou art careful and troubled about many things:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 42,
-      "tokens": null
+      "plain": "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.",
+      "tokens": [
+        {
+          "t": "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

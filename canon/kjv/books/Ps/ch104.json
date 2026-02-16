@@ -7,470 +7,505 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty.",
       "tokens": [
         {
-          "t": "Bless the"
+          "t": "Bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", O my soul. O"
+          "t": ", O my soul. O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "my God, thou art very great; thou art clothed with honour and majesty."
+          "t": " my God, thou art very great; thou art clothed with honour and majesty. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:",
       "tokens": [
         {
-          "t": "Who coverest"
+          "t": "Who coverest "
         },
         {
           "add": "thyself"
         },
         {
-          "t": "with light as"
+          "t": " with light as "
         },
         {
           "add": "with"
         },
         {
-          "t": "a garment: who stretchest out the heavens like a curtain:"
+          "t": " a garment: who stretchest out the heavens like a curtain: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:",
       "tokens": [
         {
-          "t": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:"
+          "t": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Who maketh his angels spirits; his ministers a flaming fire:",
       "tokens": [
         {
-          "t": "Who maketh his angels spirits; his ministers a flaming fire:"
+          "t": "Who maketh his angels spirits; his ministers a flaming fire: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Who laid the foundations of the earth, that it should not be removed for ever.",
       "tokens": [
         {
           "add": "Who"
         },
         {
-          "t": "laid the foundations of the earth,"
+          "t": " laid the foundations of the earth, "
         },
         {
           "add": "that"
         },
         {
-          "t": "it should not be removed for ever."
+          "t": " it should not be removed for ever. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Thou coveredst it with the deep as with a garment: the waters stood above the mountains.",
       "tokens": [
         {
-          "t": "Thou coveredst it with the deep as"
+          "t": "Thou coveredst it with the deep as "
         },
         {
           "add": "with"
         },
         {
-          "t": "a garment: the waters stood above the mountains."
+          "t": " a garment: the waters stood above the mountains. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "At thy rebuke they fled; at the voice of thy thunder they hasted away.",
       "tokens": [
         {
-          "t": "At thy rebuke they fled; at the voice of thy thunder they hasted away."
+          "t": "At thy rebuke they fled; at the voice of thy thunder they hasted away. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them.",
       "tokens": [
         {
-          "t": "They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them."
+          "t": "They go up by the mountains; they go down by the valleys unto the place which thou hast founded for them. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Thou hast set a bound that they may not pass over; that they turn not again to cover the earth.",
       "tokens": [
         {
-          "t": "Thou hast set a bound that they may not pass over; that they turn not again to cover the earth."
+          "t": "Thou hast set a bound that they may not pass over; that they turn not again to cover the earth. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "He sendeth the springs into the valleys, which run among the hills.",
       "tokens": [
         {
-          "t": "He sendeth the springs into the valleys,"
+          "t": "He sendeth the springs into the valleys, "
         },
         {
           "add": "which"
         },
         {
-          "t": "run among the hills."
+          "t": " run among the hills. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "They give drink to every beast of the field: the wild asses quench their thirst.",
       "tokens": [
         {
-          "t": "They give drink to every beast of the field: the wild asses quench their thirst."
+          "t": "They give drink to every beast of the field: the wild asses quench their thirst. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "By them shall the fowls of the heaven have their habitation, which sing among the branches.",
       "tokens": [
         {
-          "t": "By them shall the fowls of the heaven have their habitation,"
+          "t": "By them shall the fowls of the heaven have their habitation, "
         },
         {
           "add": "which"
         },
         {
-          "t": "sing among the branches."
+          "t": " sing among the branches. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.",
       "tokens": [
         {
-          "t": "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works."
+          "t": "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;",
       "tokens": [
         {
-          "t": "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;"
+          "t": "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth; "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man’s heart.",
       "tokens": [
         {
-          "t": "And wine"
+          "t": "And wine "
         },
         {
           "add": "that"
         },
         {
-          "t": "maketh glad the heart of man,"
+          "t": " maketh glad the heart of man, "
         },
         {
           "add": "and"
         },
         {
-          "t": "oil to make"
+          "t": " oil to make "
         },
         {
           "add": "his"
         },
         {
-          "t": "face to shine, and bread"
+          "t": " face to shine, and bread "
         },
         {
           "add": "which"
         },
         {
-          "t": "strengtheneth man’s heart."
+          "t": " strengtheneth man’s heart. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The trees of the LORD are full of sap; the cedars of Lebanon, which he hath planted;",
       "tokens": [
         {
-          "t": "The trees of the"
+          "t": "The trees of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "are full"
+          "t": " are full "
         },
         {
           "add": "of sap;"
         },
         {
-          "t": "the cedars of Lebanon, which he hath planted;"
+          "t": " the cedars of Lebanon, which he hath planted; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Where the birds make their nests: as for the stork, the fir trees are her house.",
       "tokens": [
         {
-          "t": "Where the birds make their nests:"
+          "t": "Where the birds make their nests: "
         },
         {
           "add": "as for"
         },
         {
-          "t": "the stork, the fir trees"
+          "t": " the stork, the fir trees "
         },
         {
           "add": "are"
         },
         {
-          "t": "her house."
+          "t": " her house. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "The high hills are a refuge for the wild goats; and the rocks for the conies.",
       "tokens": [
         {
-          "t": "The high hills"
+          "t": "The high hills "
         },
         {
           "add": "are"
         },
         {
-          "t": "a refuge for the wild goats;"
+          "t": " a refuge for the wild goats; "
         },
         {
           "add": "and"
         },
         {
-          "t": "the rocks for the conies."
+          "t": " the rocks for the conies. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He appointed the moon for seasons: the sun knoweth his going down.",
       "tokens": [
         {
-          "t": "He appointed the moon for seasons: the sun knoweth his going down."
+          "t": "He appointed the moon for seasons: the sun knoweth his going down. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.",
       "tokens": [
         {
-          "t": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep"
+          "t": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep "
         },
         {
           "add": "forth"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "The young lions roar after their prey, and seek their meat from God.",
       "tokens": [
         {
-          "t": "The young lions roar after their prey, and seek their meat from God."
+          "t": "The young lions roar after their prey, and seek their meat from God. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The sun ariseth, they gather themselves together, and lay them down in their dens.",
       "tokens": [
         {
-          "t": "The sun ariseth, they gather themselves together, and lay them down in their dens."
+          "t": "The sun ariseth, they gather themselves together, and lay them down in their dens. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Man goeth forth unto his work and to his labour until the evening.",
       "tokens": [
         {
-          "t": "Man goeth forth unto his work and to his labour until the evening."
+          "t": "Man goeth forth unto his work and to his labour until the evening. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.",
       "tokens": [
         {
-          "t": "O"
+          "t": "O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches."
+          "t": ", how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts.",
       "tokens": [
         {
           "add": "So is"
         },
         {
-          "t": "this great and wide sea, wherein"
+          "t": " this great and wide sea, wherein "
         },
         {
           "add": "are"
         },
         {
-          "t": "things creeping innumerable, both small and great beasts."
+          "t": " things creeping innumerable, both small and great beasts. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "There go the ships: there is that leviathan, whom thou hast made to play therein.",
       "tokens": [
         {
-          "t": "There go the ships:"
+          "t": "There go the ships: "
         },
         {
           "add": "there is"
         },
         {
-          "t": "that leviathan,"
+          "t": " that leviathan, "
         },
         {
           "add": "whom"
         },
         {
-          "t": "thou hast made to play therein."
+          "t": " thou hast made to play therein. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "These wait all upon thee; that thou mayest give them their meat in due season.",
       "tokens": [
         {
-          "t": "These wait all upon thee; that thou mayest give"
+          "t": "These wait all upon thee; that thou mayest give "
         },
         {
           "add": "them"
         },
         {
-          "t": "their meat in due season."
+          "t": " their meat in due season. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "That thou givest them they gather: thou openest thine hand, they are filled with good.",
       "tokens": [
         {
           "add": "That"
         },
         {
-          "t": "thou givest them they gather: thou openest thine hand, they are filled with good."
+          "t": " thou givest them they gather: thou openest thine hand, they are filled with good. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.",
       "tokens": [
         {
-          "t": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust."
+          "t": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.",
       "tokens": [
         {
-          "t": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth."
+          "t": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "The glory of the LORD shall endure for ever: the LORD shall rejoice in his works.",
       "tokens": [
         {
-          "t": "The glory of the"
+          "t": "The glory of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall endure for ever: the"
+          "t": " shall endure for ever: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall rejoice in his works."
+          "t": " shall rejoice in his works. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.",
       "tokens": [
         {
-          "t": "He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke."
+          "t": "He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being.",
       "tokens": [
         {
-          "t": "I will sing unto the"
+          "t": "I will sing unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "as long as I live: I will sing praise to my God while I have my being."
+          "t": " as long as I live: I will sing praise to my God while I have my being. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "My meditation of him shall be sweet: I will be glad in the LORD.",
       "tokens": [
         {
-          "t": "My meditation of him shall be sweet: I will be glad in the"
+          "t": "My meditation of him shall be sweet: I will be glad in the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD.",
       "tokens": [
         {
-          "t": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the"
+          "t": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", O my soul. Praise ye the"
+          "t": ", O my soul. Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

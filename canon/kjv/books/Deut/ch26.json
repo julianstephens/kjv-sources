@@ -7,378 +7,400 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it shall be, when thou art come in unto the land which the LORD thy God giveth thee for an inheritance, and possessest it, and dwellest therein;",
       "tokens": [
         {
-          "t": "And it shall be, when thou"
+          "t": "And it shall be, when thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "come in unto the land which the"
+          "t": " come in unto the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee"
+          "t": " thy God giveth thee "
         },
         {
           "add": "for"
         },
         {
-          "t": "an inheritance, and possessest it, and dwellest therein;"
+          "t": " an inheritance, and possessest it, and dwellest therein; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the LORD thy God giveth thee, and shalt put it in a basket, and shalt go unto the place which the LORD thy God shall choose to place his name there.",
       "tokens": [
         {
-          "t": "That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the"
+          "t": "That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee, and shalt put"
+          "t": " thy God giveth thee, and shalt put "
         },
         {
           "add": "it"
         },
         {
-          "t": "in a basket, and shalt go unto the place which the"
+          "t": " in a basket, and shalt go unto the place which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall choose to place his name there."
+          "t": " thy God shall choose to place his name there. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And thou shalt go unto the priest that shall be in those days, and say unto him, I profess this day unto the LORD thy God, that I am come unto the country which the LORD sware unto our fathers for to give us.",
       "tokens": [
         {
-          "t": "And thou shalt go unto the priest that shall be in those days, and say unto him, I profess this day unto the"
+          "t": "And thou shalt go unto the priest that shall be in those days, and say unto him, I profess this day unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, that I am come unto the country which the"
+          "t": " thy God, that I am come unto the country which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sware unto our fathers for to give us."
+          "t": " sware unto our fathers for to give us. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the priest shall take the basket out of thine hand, and set it down before the altar of the LORD thy God.",
       "tokens": [
         {
-          "t": "And the priest shall take the basket out of thine hand, and set it down before the altar of the"
+          "t": "And the priest shall take the basket out of thine hand, and set it down before the altar of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God."
+          "t": " thy God. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And thou shalt speak and say before the LORD thy God, A Syrian ready to perish was my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:",
       "tokens": [
         {
-          "t": "And thou shalt speak and say before the"
+          "t": "And thou shalt speak and say before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, A Syrian ready to perish"
+          "t": " thy God, A Syrian ready to perish "
         },
         {
           "add": "was"
         },
         {
-          "t": "my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:"
+          "t": " my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the Egyptians evil entreated us, and afflicted us, and laid upon us hard bondage:",
       "tokens": [
         {
-          "t": "And the Egyptians evil entreated us, and afflicted us, and laid upon us hard bondage:"
+          "t": "And the Egyptians evil entreated us, and afflicted us, and laid upon us hard bondage: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And when we cried unto the LORD God of our fathers, the LORD heard our voice, and looked on our affliction, and our labour, and our oppression:",
       "tokens": [
         {
-          "t": "And when we cried unto the"
+          "t": "And when we cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of our fathers, the"
+          "t": " God of our fathers, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "heard our voice, and looked on our affliction, and our labour, and our oppression:"
+          "t": " heard our voice, and looked on our affliction, and our labour, and our oppression: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the LORD brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders:",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders:"
+          "t": " brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And he hath brought us into this place, and hath given us this land, even a land that floweth with milk and honey.",
       "tokens": [
         {
-          "t": "And he hath brought us into this place, and hath given us this land,"
+          "t": "And he hath brought us into this place, and hath given us this land, "
         },
         {
           "add": "even"
         },
         {
-          "t": "a land that floweth with milk and honey."
+          "t": " a land that floweth with milk and honey. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And now, behold, I have brought the firstfruits of the land, which thou, O LORD, hast given me. And thou shalt set it before the LORD thy God, and worship before the LORD thy God:",
       "tokens": [
         {
-          "t": "And now, behold, I have brought the firstfruits of the land, which thou, O"
+          "t": "And now, behold, I have brought the firstfruits of the land, which thou, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", hast given me. And thou shalt set it before the"
+          "t": ", hast given me. And thou shalt set it before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, and worship before the"
+          "t": " thy God, and worship before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God:"
+          "t": " thy God: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And thou shalt rejoice in every good thing which the LORD thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that is among you.",
       "tokens": [
         {
-          "t": "And thou shalt rejoice in every good"
+          "t": "And thou shalt rejoice in every good "
         },
         {
           "add": "thing"
         },
         {
-          "t": "which the"
+          "t": " which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that"
+          "t": " thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that "
         },
         {
           "add": "is"
         },
         {
-          "t": "among you."
+          "t": " among you. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ When thou hast made an end of tithing all the tithes of thine increase the third year, which is the year of tithing, and hast given it unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;",
       "tokens": [
         {
-          "t": "¶ When thou hast made an end of tithing all the tithes of thine increase the third year,"
+          "t": "¶ When thou hast made an end of tithing all the tithes of thine increase the third year, "
         },
         {
           "add": "which is"
         },
         {
-          "t": "the year of tithing, and hast given"
+          "t": " the year of tithing, and hast given "
         },
         {
           "add": "it"
         },
         {
-          "t": "unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;"
+          "t": " unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Then thou shalt say before the LORD thy God, I have brought away the hallowed things out of mine house, and also have given them unto the Levite, and unto the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten them:",
       "tokens": [
         {
-          "t": "Then thou shalt say before the"
+          "t": "Then thou shalt say before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, I have brought away the hallowed things out of"
+          "t": " thy God, I have brought away the hallowed things out of "
         },
         {
           "add": "mine"
         },
         {
-          "t": "house, and also have given them unto the Levite, and unto the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten"
+          "t": " house, and also have given them unto the Levite, and unto the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten "
         },
         {
           "add": "them:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I have not eaten thereof in my mourning, neither have I taken away ought thereof for any unclean use, nor given ought thereof for the dead: but I have hearkened to the voice of the LORD my God, and have done according to all that thou hast commanded me.",
       "tokens": [
         {
-          "t": "I have not eaten thereof in my mourning, neither have I taken away"
+          "t": "I have not eaten thereof in my mourning, neither have I taken away "
         },
         {
           "add": "ought"
         },
         {
-          "t": "thereof for"
+          "t": " thereof for "
         },
         {
           "add": "any"
         },
         {
-          "t": "unclean"
+          "t": " unclean "
         },
         {
           "add": "use"
         },
         {
-          "t": ", nor given"
+          "t": ", nor given "
         },
         {
           "add": "ought"
         },
         {
-          "t": "thereof for the dead:"
+          "t": " thereof for the dead: "
         },
         {
           "add": "but"
         },
         {
-          "t": "I have hearkened to the voice of the"
+          "t": " I have hearkened to the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "my God,"
+          "t": " my God, "
         },
         {
           "add": "and"
         },
         {
-          "t": "have done according to all that thou hast commanded me."
+          "t": " have done according to all that thou hast commanded me. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey.",
       "tokens": [
         {
-          "t": "Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey."
+          "t": "Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ This day the LORD thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul.",
       "tokens": [
         {
-          "t": "¶ This day the"
+          "t": "¶ This day the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul."
+          "t": " thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Thou hast avouched the LORD this day to be thy God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to hearken unto his voice:",
       "tokens": [
         {
-          "t": "Thou hast avouched the"
+          "t": "Thou hast avouched the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "this day to be thy God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to hearken unto his voice:"
+          "t": " this day to be thy God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to hearken unto his voice: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that thou shouldest keep all his commandments;",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath avouched thee this day to be his peculiar people, as he hath promised thee, and that"
+          "t": " hath avouched thee this day to be his peculiar people, as he hath promised thee, and that "
         },
         {
           "add": "thou"
         },
         {
-          "t": "shouldest keep all his commandments;"
+          "t": " shouldest keep all his commandments; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And to make thee high above all nations which he hath made, in praise, and in name, and in honour; and that thou mayest be an holy people unto the LORD thy God, as he hath spoken.",
       "tokens": [
         {
-          "t": "And to make thee high above all nations which he hath made, in praise, and in name, and in honour; and that thou mayest be an holy people unto the"
+          "t": "And to make thee high above all nations which he hath made, in praise, and in name, and in honour; and that thou mayest be an holy people unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, as he hath spoken."
+          "t": " thy God, as he hath spoken. "
         }
       ]
     }

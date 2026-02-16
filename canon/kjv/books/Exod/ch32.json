@@ -7,590 +7,628 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
       "tokens": [
         {
-          "t": "And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for"
+          "t": "And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for "
         },
         {
           "add": "as for"
         },
         {
-          "t": "this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him."
+          "t": " this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Aaron said unto them, Break off the golden earrings, which are in the ears of your wives, of your sons, and of your daughters, and bring them unto me.",
       "tokens": [
         {
-          "t": "And Aaron said unto them, Break off the golden earrings, which"
+          "t": "And Aaron said unto them, Break off the golden earrings, which "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the ears of your wives, of your sons, and of your daughters, and bring"
+          "t": " in the ears of your wives, of your sons, and of your daughters, and bring "
         },
         {
           "add": "them"
         },
         {
-          "t": "unto me."
+          "t": " unto me. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And all the people brake off the golden earrings which were in their ears, and brought them unto Aaron.",
       "tokens": [
         {
-          "t": "And all the people brake off the golden earrings which"
+          "t": "And all the people brake off the golden earrings which "
         },
         {
           "add": "were"
         },
         {
-          "t": "in their ears, and brought"
+          "t": " in their ears, and brought "
         },
         {
           "add": "them"
         },
         {
-          "t": "unto Aaron."
+          "t": " unto Aaron. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And he received them at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These be thy gods, O Israel, which brought thee up out of the land of Egypt.",
       "tokens": [
         {
-          "t": "And he received"
+          "t": "And he received "
         },
         {
           "add": "them"
         },
         {
-          "t": "at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These"
+          "t": " at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These "
         },
         {
           "add": "be"
         },
         {
-          "t": "thy gods, O Israel, which brought thee up out of the land of Egypt."
+          "t": " thy gods, O Israel, which brought thee up out of the land of Egypt. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And when Aaron saw it, he built an altar before it; and Aaron made proclamation, and said, To morrow is a feast to the LORD.",
       "tokens": [
         {
-          "t": "And when Aaron saw"
+          "t": "And when Aaron saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", he built an altar before it; and Aaron made proclamation, and said, To morrow"
+          "t": ", he built an altar before it; and Aaron made proclamation, and said, To morrow "
         },
         {
           "add": "is"
         },
         {
-          "t": "a feast to the"
+          "t": " a feast to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And they rose up early on the morrow, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play.",
       "tokens": [
         {
-          "t": "And they rose up early on the morrow, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play."
+          "t": "And they rose up early on the morrow, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ And the LORD said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted themselves:",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted"
+          "t": " said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted "
         },
         {
           "add": "themselves:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These be thy gods, O Israel, which have brought thee up out of the land of Egypt.",
       "tokens": [
         {
-          "t": "They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These"
+          "t": "They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These "
         },
         {
           "add": "be"
         },
         {
-          "t": "thy gods, O Israel, which have brought thee up out of the land of Egypt."
+          "t": " thy gods, O Israel, which have brought thee up out of the land of Egypt. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the LORD said unto Moses, I have seen this people, and, behold, it is a stiffnecked people:",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, I have seen this people, and, behold, it"
+          "t": " said unto Moses, I have seen this people, and, behold, it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a stiffnecked people:"
+          "t": " a stiffnecked people: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of thee a great nation.",
       "tokens": [
         {
-          "t": "Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of thee a great nation."
+          "t": "Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of thee a great nation. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Moses besought the LORD his God, and said, LORD, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?",
       "tokens": [
         {
-          "t": "And Moses besought the"
+          "t": "And Moses besought the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God, and said,"
+          "t": " his God, and said, "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?"
+          "t": ", why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people.",
       "tokens": [
         {
-          "t": "Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people."
+          "t": "Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever.",
       "tokens": [
         {
-          "t": "Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit"
+          "t": "Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit "
         },
         {
           "add": "it"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the LORD repented of the evil which he thought to do unto his people.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "repented of the evil which he thought to do unto his people."
+          "t": " repented of the evil which he thought to do unto his people. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And Moses turned, and went down from the mount, and the two tables of the testimony were in his hand: the tables were written on both their sides; on the one side and on the other were they written.",
       "tokens": [
         {
-          "t": "¶ And Moses turned, and went down from the mount, and the two tables of the testimony"
+          "t": "¶ And Moses turned, and went down from the mount, and the two tables of the testimony "
         },
         {
           "add": "were"
         },
         {
-          "t": "in his hand: the tables"
+          "t": " in his hand: the tables "
         },
         {
           "add": "were"
         },
         {
-          "t": "written on both their sides; on the one side and on the other"
+          "t": " written on both their sides; on the one side and on the other "
         },
         {
           "add": "were"
         },
         {
-          "t": "they written."
+          "t": " they written. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the tables were the work of God, and the writing was the writing of God, graven upon the tables.",
       "tokens": [
         {
-          "t": "And the tables"
+          "t": "And the tables "
         },
         {
           "add": "were"
         },
         {
-          "t": "the work of God, and the writing"
+          "t": " the work of God, and the writing "
         },
         {
           "add": "was"
         },
         {
-          "t": "the writing of God, graven upon the tables."
+          "t": " the writing of God, graven upon the tables. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And when Joshua heard the noise of the people as they shouted, he said unto Moses, There is a noise of war in the camp.",
       "tokens": [
         {
-          "t": "And when Joshua heard the noise of the people as they shouted, he said unto Moses,"
+          "t": "And when Joshua heard the noise of the people as they shouted, he said unto Moses, "
         },
         {
           "add": "There is"
         },
         {
-          "t": "a noise of war in the camp."
+          "t": " a noise of war in the camp. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he said, It is not the voice of them that shout for mastery, neither is it the voice of them that cry for being overcome: but the noise of them that sing do I hear.",
       "tokens": [
         {
-          "t": "And he said,"
+          "t": "And he said, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "not the voice of"
+          "t": " not the voice of "
         },
         {
           "add": "them that"
         },
         {
-          "t": "shout for mastery, neither"
+          "t": " shout for mastery, neither "
         },
         {
           "add": "is it"
         },
         {
-          "t": "the voice of"
+          "t": " the voice of "
         },
         {
           "add": "them that"
         },
         {
-          "t": "cry for being overcome:"
+          "t": " cry for being overcome: "
         },
         {
           "add": "but"
         },
         {
-          "t": "the noise of"
+          "t": " the noise of "
         },
         {
           "add": "them that"
         },
         {
-          "t": "sing do I hear."
+          "t": " sing do I hear. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And it came to pass, as soon as he came nigh unto the camp, that he saw the calf, and the dancing: and Moses’ anger waxed hot, and he cast the tables out of his hands, and brake them beneath the mount.",
       "tokens": [
         {
-          "t": "¶ And it came to pass, as soon as he came nigh unto the camp, that he saw the calf, and the dancing: and Moses’ anger waxed hot, and he cast the tables out of his hands, and brake them beneath the mount."
+          "t": "¶ And it came to pass, as soon as he came nigh unto the camp, that he saw the calf, and the dancing: and Moses’ anger waxed hot, and he cast the tables out of his hands, and brake them beneath the mount. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And he took the calf which they had made, and burnt it in the fire, and ground it to powder, and strawed it upon the water, and made the children of Israel drink of it.",
       "tokens": [
         {
-          "t": "And he took the calf which they had made, and burnt"
+          "t": "And he took the calf which they had made, and burnt "
         },
         {
           "add": "it"
         },
         {
-          "t": "in the fire, and ground"
+          "t": " in the fire, and ground "
         },
         {
           "add": "it"
         },
         {
-          "t": "to powder, and strawed"
+          "t": " to powder, and strawed "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon the water, and made the children of Israel drink"
+          "t": " upon the water, and made the children of Israel drink "
         },
         {
           "add": "of it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And Moses said unto Aaron, What did this people unto thee, that thou hast brought so great a sin upon them?",
       "tokens": [
         {
-          "t": "And Moses said unto Aaron, What did this people unto thee, that thou hast brought so great a sin upon them?"
+          "t": "And Moses said unto Aaron, What did this people unto thee, that thou hast brought so great a sin upon them? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they are set on mischief.",
       "tokens": [
         {
-          "t": "And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they"
+          "t": "And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they "
         },
         {
           "add": "are set"
         },
         {
-          "t": "on mischief."
+          "t": " on mischief. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For they said unto me, Make us gods, which shall go before us: for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
       "tokens": [
         {
-          "t": "For they said unto me, Make us gods, which shall go before us: for"
+          "t": "For they said unto me, Make us gods, which shall go before us: for "
         },
         {
           "add": "as for"
         },
         {
-          "t": "this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him."
+          "t": " this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And I said unto them, Whosoever hath any gold, let them break it off. So they gave it me: then I cast it into the fire, and there came out this calf.",
       "tokens": [
         {
-          "t": "And I said unto them, Whosoever hath any gold, let them break"
+          "t": "And I said unto them, Whosoever hath any gold, let them break "
         },
         {
           "add": "it"
         },
         {
-          "t": "off. So they gave"
+          "t": " off. So they gave "
         },
         {
           "add": "it"
         },
         {
-          "t": "me: then I cast it into the fire, and there came out this calf."
+          "t": " me: then I cast it into the fire, and there came out this calf. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ And when Moses saw that the people were naked; (for Aaron had made them naked unto their shame among their enemies:)",
       "tokens": [
         {
-          "t": "¶ And when Moses saw that the people"
+          "t": "¶ And when Moses saw that the people "
         },
         {
           "add": "were"
         },
         {
-          "t": "naked; (for Aaron had made them naked unto"
+          "t": " naked; (for Aaron had made them naked unto "
         },
         {
           "add": "their"
         },
         {
-          "t": "shame among their enemies:)"
+          "t": " shame among their enemies:) "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Then Moses stood in the gate of the camp, and said, Who is on the LORD’s side? let him come unto me. And all the sons of Levi gathered themselves together unto him.",
       "tokens": [
         {
-          "t": "Then Moses stood in the gate of the camp, and said, Who"
+          "t": "Then Moses stood in the gate of the camp, and said, Who "
         },
         {
           "add": "is"
         },
         {
-          "t": "on the"
+          "t": " on the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "side?"
+          "t": " side? "
         },
         {
           "add": "let him come"
         },
         {
-          "t": "unto me. And all the sons of Levi gathered themselves together unto him."
+          "t": " unto me. And all the sons of Levi gathered themselves together unto him. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And he said unto them, Thus saith the LORD God of Israel, Put every man his sword by his side, and go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour.",
       "tokens": [
         {
-          "t": "And he said unto them, Thus saith the"
+          "t": "And he said unto them, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, Put every man his sword by his side,"
+          "t": " God of Israel, Put every man his sword by his side, "
         },
         {
           "add": "and"
         },
         {
-          "t": "go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour."
+          "t": " go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men.",
       "tokens": [
         {
-          "t": "And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men."
+          "t": "And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "For Moses had said, Consecrate yourselves to day to the LORD, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.",
       "tokens": [
         {
-          "t": "For Moses had said, Consecrate yourselves to day to the"
+          "t": "For Moses had said, Consecrate yourselves to day to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day."
+          "t": ", even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "¶ And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the LORD; peradventure I shall make an atonement for your sin.",
       "tokens": [
         {
-          "t": "¶ And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the"
+          "t": "¶ And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; peradventure I shall make an atonement for your sin."
+          "t": "; peradventure I shall make an atonement for your sin. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And Moses returned unto the LORD, and said, Oh, this people have sinned a great sin, and have made them gods of gold.",
       "tokens": [
         {
-          "t": "And Moses returned unto the"
+          "t": "And Moses returned unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said, Oh, this people have sinned a great sin, and have made them gods of gold."
+          "t": ", and said, Oh, this people have sinned a great sin, and have made them gods of gold. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written.",
       "tokens": [
         {
-          "t": "Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written."
+          "t": "Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And the LORD said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Whosoever hath sinned against me, him will I blot out of my book."
+          "t": " said unto Moses, Whosoever hath sinned against me, him will I blot out of my book. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Therefore now go, lead the people unto the place of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them.",
       "tokens": [
         {
-          "t": "Therefore now go, lead the people unto"
+          "t": "Therefore now go, lead the people unto "
         },
         {
           "add": "the place"
         },
         {
-          "t": "of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them."
+          "t": " of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And the LORD plagued the people, because they made the calf, which Aaron made.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "plagued the people, because they made the calf, which Aaron made."
+          "t": " plagued the people, because they made the calf, which Aaron made. "
         }
       ]
     }

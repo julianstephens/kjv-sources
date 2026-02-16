@@ -7,672 +7,715 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years.",
       "tokens": [
         {
-          "t": "And the children of Israel did evil in the sight of the"
+          "t": "And the children of Israel did evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and the"
+          "t": ": and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "delivered them into the hand of Midian seven years."
+          "t": " delivered them into the hand of Midian seven years. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the hand of Midian prevailed against Israel: and because of the Midianites the children of Israel made them the dens which are in the mountains, and caves, and strong holds.",
       "tokens": [
         {
-          "t": "And the hand of Midian prevailed against Israel:"
+          "t": "And the hand of Midian prevailed against Israel: "
         },
         {
           "add": "and"
         },
         {
-          "t": "because of the Midianites the children of Israel made them the dens which"
+          "t": " because of the Midianites the children of Israel made them the dens which "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the mountains, and caves, and strong holds."
+          "t": " in the mountains, and caves, and strong holds. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And so it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east, even they came up against them;",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "so"
         },
         {
-          "t": "it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east, even they came up against them;"
+          "t": " it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east, even they came up against them; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass.",
       "tokens": [
         {
-          "t": "And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass."
+          "t": "And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For they came up with their cattle and their tents, and they came as grasshoppers for multitude; for both they and their camels were without number: and they entered into the land to destroy it.",
       "tokens": [
         {
-          "t": "For they came up with their cattle and their tents, and they came as grasshoppers for multitude;"
+          "t": "For they came up with their cattle and their tents, and they came as grasshoppers for multitude; "
         },
         {
           "add": "for"
         },
         {
-          "t": "both they and their camels were without number: and they entered into the land to destroy it."
+          "t": " both they and their camels were without number: and they entered into the land to destroy it. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the LORD.",
       "tokens": [
         {
-          "t": "And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the"
+          "t": "And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ And it came to pass, when the children of Israel cried unto the LORD because of the Midianites,",
       "tokens": [
         {
-          "t": "¶ And it came to pass, when the children of Israel cried unto the"
+          "t": "¶ And it came to pass, when the children of Israel cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "because of the Midianites,"
+          "t": " because of the Midianites, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "That the LORD sent a prophet unto the children of Israel, which said unto them, Thus saith the LORD God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage;",
       "tokens": [
         {
-          "t": "That the"
+          "t": "That the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sent a prophet unto the children of Israel, which said unto them, Thus saith the"
+          "t": " sent a prophet unto the children of Israel, which said unto them, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage;"
+          "t": " God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land;",
       "tokens": [
         {
-          "t": "And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land;"
+          "t": "And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And I said unto you, I am the LORD your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice.",
       "tokens": [
         {
-          "t": "And I said unto you, I"
+          "t": "And I said unto you, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice."
+          "t": " your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And there came an angel of the LORD, and sat under an oak which was in Ophrah, that pertained unto Joash the Abi-ezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites.",
       "tokens": [
         {
-          "t": "¶ And there came an angel of the"
+          "t": "¶ And there came an angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and sat under an oak which"
+          "t": ", and sat under an oak which "
         },
         {
           "add": "was"
         },
         {
-          "t": "in Ophrah, that"
+          "t": " in Ophrah, that "
         },
         {
           "add": "pertained"
         },
         {
-          "t": "unto Joash the Abi-ezrite: and his son Gideon threshed wheat by the winepress, to hide"
+          "t": " unto Joash the Abi-ezrite: and his son Gideon threshed wheat by the winepress, to hide "
         },
         {
           "add": "it"
         },
         {
-          "t": "from the Midianites."
+          "t": " from the Midianites. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the angel of the LORD appeared unto him, and said unto him, The LORD is with thee, thou mighty man of valour.",
       "tokens": [
         {
-          "t": "And the angel of the"
+          "t": "And the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "appeared unto him, and said unto him, The"
+          "t": " appeared unto him, and said unto him, The "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "with thee, thou mighty man of valour."
+          "t": " with thee, thou mighty man of valour. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Gideon said unto him, Oh my Lord, if the LORD be with us, why then is all this befallen us? and where be all his miracles which our fathers told us of, saying, Did not the LORD bring us up from Egypt? but now the LORD hath forsaken us, and delivered us into the hands of the Midianites.",
       "tokens": [
         {
-          "t": "And Gideon said unto him, Oh my Lord, if the"
+          "t": "And Gideon said unto him, Oh my Lord, if the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "be with us, why then is all this befallen us? and where"
+          "t": " be with us, why then is all this befallen us? and where "
         },
         {
           "add": "be"
         },
         {
-          "t": "all his miracles which our fathers told us of, saying, Did not the"
+          "t": " all his miracles which our fathers told us of, saying, Did not the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "bring us up from Egypt? but now the"
+          "t": " bring us up from Egypt? but now the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath forsaken us, and delivered us into the hands of the Midianites."
+          "t": " hath forsaken us, and delivered us into the hands of the Midianites. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the LORD looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee?",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee?"
+          "t": " looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my family is poor in Manasseh, and I am the least in my father’s house.",
       "tokens": [
         {
-          "t": "And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my family"
+          "t": "And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my family "
         },
         {
           "add": "is"
         },
         {
-          "t": "poor in Manasseh, and I"
+          "t": " poor in Manasseh, and I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the least in my father’s house."
+          "t": " the least in my father’s house. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the LORD said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man."
+          "t": " said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou talkest with me.",
       "tokens": [
         {
-          "t": "And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou talkest with me."
+          "t": "And he said unto him, If now I have found grace in thy sight, then shew me a sign that thou talkest with me. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set it before thee. And he said, I will tarry until thou come again.",
       "tokens": [
         {
-          "t": "Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set"
+          "t": "Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set "
         },
         {
           "add": "it"
         },
         {
-          "t": "before thee. And he said, I will tarry until thou come again."
+          "t": " before thee. And he said, I will tarry until thou come again. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And Gideon went in, and made ready a kid, and unleavened cakes of an ephah of flour: the flesh he put in a basket, and he put the broth in a pot, and brought it out unto him under the oak, and presented it.",
       "tokens": [
         {
-          "t": "¶ And Gideon went in, and made ready a kid, and unleavened cakes of an ephah of flour: the flesh he put in a basket, and he put the broth in a pot, and brought"
+          "t": "¶ And Gideon went in, and made ready a kid, and unleavened cakes of an ephah of flour: the flesh he put in a basket, and he put the broth in a pot, and brought "
         },
         {
           "add": "it"
         },
         {
-          "t": "out unto him under the oak, and presented"
+          "t": " out unto him under the oak, and presented "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the angel of God said unto him, Take the flesh and the unleavened cakes, and lay them upon this rock, and pour out the broth. And he did so.",
       "tokens": [
         {
-          "t": "And the angel of God said unto him, Take the flesh and the unleavened cakes, and lay"
+          "t": "And the angel of God said unto him, Take the flesh and the unleavened cakes, and lay "
         },
         {
           "add": "them"
         },
         {
-          "t": "upon this rock, and pour out the broth. And he did so."
+          "t": " upon this rock, and pour out the broth. And he did so. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ Then the angel of the LORD put forth the end of the staff that was in his hand, and touched the flesh and the unleavened cakes; and there rose up fire out of the rock, and consumed the flesh and the unleavened cakes. Then the angel of the LORD departed out of his sight.",
       "tokens": [
         {
-          "t": "¶ Then the angel of the"
+          "t": "¶ Then the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "put forth the end of the staff that"
+          "t": " put forth the end of the staff that "
         },
         {
           "add": "was"
         },
         {
-          "t": "in his hand, and touched the flesh and the unleavened cakes; and there rose up fire out of the rock, and consumed the flesh and the unleavened cakes. Then the angel of the"
+          "t": " in his hand, and touched the flesh and the unleavened cakes; and there rose up fire out of the rock, and consumed the flesh and the unleavened cakes. Then the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "departed out of his sight."
+          "t": " departed out of his sight. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And when Gideon perceived that he was an angel of the LORD, Gideon said, Alas, O Lord GOD! for because I have seen an angel of the LORD face to face.",
       "tokens": [
         {
-          "t": "And when Gideon perceived that he"
+          "t": "And when Gideon perceived that he "
         },
         {
           "add": "was"
         },
         {
-          "t": "an angel of the"
+          "t": " an angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Gideon said, Alas, O Lord"
+          "t": ", Gideon said, Alas, O Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "! for because I have seen an angel of the"
+          "t": "! for because I have seen an angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "face to face."
+          "t": " face to face. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And the LORD said unto him, Peace be unto thee; fear not: thou shalt not die.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto him, Peace"
+          "t": " said unto him, Peace "
         },
         {
           "add": "be"
         },
         {
-          "t": "unto thee; fear not: thou shalt not die."
+          "t": " unto thee; fear not: thou shalt not die. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Then Gideon built an altar there unto the LORD, and called it Jehovah-shalom: unto this day it is yet in Ophrah of the Abi-ezrites.",
       "tokens": [
         {
-          "t": "Then Gideon built an altar there unto the"
+          "t": "Then Gideon built an altar there unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and called it Jehovah-shalom: unto this day it"
+          "t": ", and called it Jehovah-shalom: unto this day it "
         },
         {
           "add": "is"
         },
         {
-          "t": "yet in Ophrah of the Abi-ezrites."
+          "t": " yet in Ophrah of the Abi-ezrites. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ And it came to pass the same night, that the LORD said unto him, Take thy father’s young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that is by it:",
       "tokens": [
         {
-          "t": "¶ And it came to pass the same night, that the"
+          "t": "¶ And it came to pass the same night, that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto him, Take thy father’s young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that"
+          "t": " said unto him, Take thy father’s young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that "
         },
         {
           "add": "is"
         },
         {
-          "t": "by it:"
+          "t": " by it: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And build an altar unto the LORD thy God upon the top of this rock, in the ordered place, and take the second bullock, and offer a burnt sacrifice with the wood of the grove which thou shalt cut down.",
       "tokens": [
         {
-          "t": "And build an altar unto the"
+          "t": "And build an altar unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God upon the top of this rock, in the ordered place, and take the second bullock, and offer a burnt sacrifice with the wood of the grove which thou shalt cut down."
+          "t": " thy God upon the top of this rock, in the ordered place, and take the second bullock, and offer a burnt sacrifice with the wood of the grove which thou shalt cut down. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Then Gideon took ten men of his servants, and did as the LORD had said unto him: and so it was, because he feared his father’s household, and the men of the city, that he could not do it by day, that he did it by night.",
       "tokens": [
         {
-          "t": "Then Gideon took ten men of his servants, and did as the"
+          "t": "Then Gideon took ten men of his servants, and did as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had said unto him: and"
+          "t": " had said unto him: and "
         },
         {
           "add": "so"
         },
         {
-          "t": "it was, because he feared his father’s household, and the men of the city, that he could not do"
+          "t": " it was, because he feared his father’s household, and the men of the city, that he could not do "
         },
         {
           "add": "it"
         },
         {
-          "t": "by day, that he did"
+          "t": " by day, that he did "
         },
         {
           "add": "it"
         },
         {
-          "t": "by night."
+          "t": " by night. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that was by it, and the second bullock was offered upon the altar that was built.",
       "tokens": [
         {
-          "t": "¶ And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that"
+          "t": "¶ And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that "
         },
         {
           "add": "was"
         },
         {
-          "t": "by it, and the second bullock was offered upon the altar"
+          "t": " by it, and the second bullock was offered upon the altar "
         },
         {
           "add": "that was"
         },
         {
-          "t": "built."
+          "t": " built. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And they said one to another, Who hath done this thing? And when they enquired and asked, they said, Gideon the son of Joash hath done this thing.",
       "tokens": [
         {
-          "t": "And they said one to another, Who hath done this thing? And when they enquired and asked, they said, Gideon the son of Joash hath done this thing."
+          "t": "And they said one to another, Who hath done this thing? And when they enquired and asked, they said, Gideon the son of Joash hath done this thing. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that was by it.",
       "tokens": [
         {
-          "t": "Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that"
+          "t": "Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that "
         },
         {
           "add": "was"
         },
         {
-          "t": "by it."
+          "t": " by it. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And Joash said unto all that stood against him, Will ye plead for Baal? will ye save him? he that will plead for him, let him be put to death whilst it is yet morning: if he be a god, let him plead for himself, because one hath cast down his altar.",
       "tokens": [
         {
-          "t": "And Joash said unto all that stood against him, Will ye plead for Baal? will ye save him? he that will plead for him, let him be put to death whilst"
+          "t": "And Joash said unto all that stood against him, Will ye plead for Baal? will ye save him? he that will plead for him, let him be put to death whilst "
         },
         {
           "add": "it is yet"
         },
         {
-          "t": "morning: if he"
+          "t": " morning: if he "
         },
         {
           "add": "be"
         },
         {
-          "t": "a god, let him plead for himself, because"
+          "t": " a god, let him plead for himself, because "
         },
         {
           "add": "one"
         },
         {
-          "t": "hath cast down his altar."
+          "t": " hath cast down his altar. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Therefore on that day he called him Jerubbaal, saying, Let Baal plead against him, because he hath thrown down his altar.",
       "tokens": [
         {
-          "t": "Therefore on that day he called him Jerubbaal, saying, Let Baal plead against him, because he hath thrown down his altar."
+          "t": "Therefore on that day he called him Jerubbaal, saying, Let Baal plead against him, because he hath thrown down his altar. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "¶ Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.",
       "tokens": [
         {
-          "t": "¶ Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel."
+          "t": "¶ Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abi-ezer was gathered after him.",
       "tokens": [
         {
-          "t": "But the Spirit of the"
+          "t": "But the Spirit of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came upon Gideon, and he blew a trumpet; and Abi-ezer was gathered after him."
+          "t": " came upon Gideon, and he blew a trumpet; and Abi-ezer was gathered after him. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And he sent messengers throughout all Manasseh; who also was gathered after him: and he sent messengers unto Asher, and unto Zebulun, and unto Naphtali; and they came up to meet them.",
       "tokens": [
         {
-          "t": "And he sent messengers throughout all Manasseh; who also was gathered after him: and he sent messengers unto Asher, and unto Zebulun, and unto Naphtali; and they came up to meet them."
+          "t": "And he sent messengers throughout all Manasseh; who also was gathered after him: and he sent messengers unto Asher, and unto Zebulun, and unto Naphtali; and they came up to meet them. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "¶ And Gideon said unto God, If thou wilt save Israel by mine hand, as thou hast said,",
       "tokens": [
         {
-          "t": "¶ And Gideon said unto God, If thou wilt save Israel by mine hand, as thou hast said,"
+          "t": "¶ And Gideon said unto God, If thou wilt save Israel by mine hand, as thou hast said, "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Behold, I will put a fleece of wool in the floor; and if the dew be on the fleece only, and it be dry upon all the earth beside, then shall I know that thou wilt save Israel by mine hand, as thou hast said.",
       "tokens": [
         {
-          "t": "Behold, I will put a fleece of wool in the floor;"
+          "t": "Behold, I will put a fleece of wool in the floor; "
         },
         {
           "add": "and"
         },
         {
-          "t": "if the dew be on the fleece only, and"
+          "t": " if the dew be on the fleece only, and "
         },
         {
           "add": "it be"
         },
         {
-          "t": "dry upon all the earth"
+          "t": " dry upon all the earth "
         },
         {
           "add": "beside"
         },
         {
-          "t": ", then shall I know that thou wilt save Israel by mine hand, as thou hast said."
+          "t": ", then shall I know that thou wilt save Israel by mine hand, as thou hast said. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And it was so: for he rose up early on the morrow, and thrust the fleece together, and wringed the dew out of the fleece, a bowl full of water.",
       "tokens": [
         {
-          "t": "And it was so: for he rose up early on the morrow, and thrust the fleece together, and wringed the dew out of the fleece, a bowl full of water."
+          "t": "And it was so: for he rose up early on the morrow, and thrust the fleece together, and wringed the dew out of the fleece, a bowl full of water. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And Gideon said unto God, Let not thine anger be hot against me, and I will speak but this once: let me prove, I pray thee, but this once with the fleece; let it now be dry only upon the fleece, and upon all the ground let there be dew.",
       "tokens": [
         {
-          "t": "And Gideon said unto God, Let not thine anger be hot against me, and I will speak but this once: let me prove, I pray thee, but this once with the fleece; let it now be dry only upon the fleece, and upon all the ground let there be dew."
+          "t": "And Gideon said unto God, Let not thine anger be hot against me, and I will speak but this once: let me prove, I pray thee, but this once with the fleece; let it now be dry only upon the fleece, and upon all the ground let there be dew. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground.",
       "tokens": [
         {
-          "t": "And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground."
+          "t": "And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground. "
         }
       ]
     }

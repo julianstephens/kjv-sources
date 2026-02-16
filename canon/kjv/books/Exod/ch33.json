@@ -7,335 +7,358 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD said unto Moses, Depart, and go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Depart,"
+          "t": " said unto Moses, Depart, "
         },
         {
           "add": "and"
         },
         {
-          "t": "go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:"
+          "t": " go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:",
       "tokens": [
         {
-          "t": "And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:"
+          "t": "And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Unto a land flowing with milk and honey: for I will not go up in the midst of thee; for thou art a stiffnecked people: lest I consume thee in the way.",
       "tokens": [
         {
-          "t": "Unto a land flowing with milk and honey: for I will not go up in the midst of thee; for thou"
+          "t": "Unto a land flowing with milk and honey: for I will not go up in the midst of thee; for thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "a stiffnecked people: lest I consume thee in the way."
+          "t": " a stiffnecked people: lest I consume thee in the way. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments.",
       "tokens": [
         {
-          "t": "¶ And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments."
+          "t": "¶ And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For the LORD had said unto Moses, Say unto the children of Israel, Ye are a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had said unto Moses, Say unto the children of Israel, Ye"
+          "t": " had said unto Moses, Say unto the children of Israel, Ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee."
+          "t": " a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the children of Israel stripped themselves of their ornaments by the mount Horeb.",
       "tokens": [
         {
-          "t": "And the children of Israel stripped themselves of their ornaments by the mount Horeb."
+          "t": "And the children of Israel stripped themselves of their ornaments by the mount Horeb. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, that every one which sought the LORD went out unto the tabernacle of the congregation, which was without the camp.",
       "tokens": [
         {
-          "t": "And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass,"
+          "t": "And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "every one which sought the"
+          "t": " every one which sought the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "went out unto the tabernacle of the congregation, which"
+          "t": " went out unto the tabernacle of the congregation, which "
         },
         {
           "add": "was"
         },
         {
-          "t": "without the camp."
+          "t": " without the camp. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And it came to pass, when Moses went out unto the tabernacle, that all the people rose up, and stood every man at his tent door, and looked after Moses, until he was gone into the tabernacle.",
       "tokens": [
         {
-          "t": "And it came to pass, when Moses went out unto the tabernacle,"
+          "t": "And it came to pass, when Moses went out unto the tabernacle, "
         },
         {
           "add": "that"
         },
         {
-          "t": "all the people rose up, and stood every man"
+          "t": " all the people rose up, and stood every man "
         },
         {
           "add": "at"
         },
         {
-          "t": "his tent door, and looked after Moses, until he was gone into the tabernacle."
+          "t": " his tent door, and looked after Moses, until he was gone into the tabernacle. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood at the door of the tabernacle, and the LORD talked with Moses.",
       "tokens": [
         {
-          "t": "And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood"
+          "t": "And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood "
         },
         {
           "add": "at"
         },
         {
-          "t": "the door of the tabernacle, and"
+          "t": " the door of the tabernacle, and "
         },
         {
           "add": "the LORD"
         },
         {
-          "t": "talked with Moses."
+          "t": " talked with Moses. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And all the people saw the cloudy pillar stand at the tabernacle door: and all the people rose up and worshipped, every man in his tent door.",
       "tokens": [
         {
-          "t": "And all the people saw the cloudy pillar stand"
+          "t": "And all the people saw the cloudy pillar stand "
         },
         {
           "add": "at"
         },
         {
-          "t": "the tabernacle door: and all the people rose up and worshipped, every man"
+          "t": " the tabernacle door: and all the people rose up and worshipped, every man "
         },
         {
           "add": "in"
         },
         {
-          "t": "his tent door."
+          "t": " his tent door. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle."
+          "t": " spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And Moses said unto the LORD, See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight.",
       "tokens": [
         {
-          "t": "¶ And Moses said unto the"
+          "t": "¶ And Moses said unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight."
+          "t": ", See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy way, that I may know thee, that I may find grace in thy sight: and consider that this nation is thy people.",
       "tokens": [
         {
-          "t": "Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy way, that I may know thee, that I may find grace in thy sight: and consider that this nation"
+          "t": "Now therefore, I pray thee, if I have found grace in thy sight, shew me now thy way, that I may know thee, that I may find grace in thy sight: and consider that this nation "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy people."
+          "t": " thy people. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And he said, My presence shall go with thee, and I will give thee rest.",
       "tokens": [
         {
-          "t": "And he said, My presence shall go"
+          "t": "And he said, My presence shall go "
         },
         {
           "add": "with thee"
         },
         {
-          "t": ", and I will give thee rest."
+          "t": ", and I will give thee rest. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And he said unto him, If thy presence go not with me, carry us not up hence.",
       "tokens": [
         {
-          "t": "And he said unto him, If thy presence go not"
+          "t": "And he said unto him, If thy presence go not "
         },
         {
           "add": "with me"
         },
         {
-          "t": ", carry us not up hence."
+          "t": ", carry us not up hence. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "For wherein shall it be known here that I and thy people have found grace in thy sight? is it not in that thou goest with us? so shall we be separated, I and thy people, from all the people that are upon the face of the earth.",
       "tokens": [
         {
-          "t": "For wherein shall it be known here that I and thy people have found grace in thy sight?"
+          "t": "For wherein shall it be known here that I and thy people have found grace in thy sight? "
         },
         {
           "add": "is it"
         },
         {
-          "t": "not in that thou goest with us? so shall we be separated, I and thy people, from all the people that"
+          "t": " not in that thou goest with us? so shall we be separated, I and thy people, from all the people that "
         },
         {
           "add": "are"
         },
         {
-          "t": "upon the face of the earth."
+          "t": " upon the face of the earth. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the LORD said unto Moses, I will do this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, I will do this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name."
+          "t": " said unto Moses, I will do this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he said, I beseech thee, shew me thy glory.",
       "tokens": [
         {
-          "t": "And he said, I beseech thee, shew me thy glory."
+          "t": "And he said, I beseech thee, shew me thy glory. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And he said, I will make all my goodness pass before thee, and I will proclaim the name of the LORD before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy.",
       "tokens": [
         {
-          "t": "And he said, I will make all my goodness pass before thee, and I will proclaim the name of the"
+          "t": "And he said, I will make all my goodness pass before thee, and I will proclaim the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy."
+          "t": " before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And he said, Thou canst not see my face: for there shall no man see me, and live.",
       "tokens": [
         {
-          "t": "And he said, Thou canst not see my face: for there shall no man see me, and live."
+          "t": "And he said, Thou canst not see my face: for there shall no man see me, and live. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And the LORD said, Behold, there is a place by me, and thou shalt stand upon a rock:",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said, Behold,"
+          "t": " said, Behold, "
         },
         {
           "add": "there is"
         },
         {
-          "t": "a place by me, and thou shalt stand upon a rock:"
+          "t": " a place by me, and thou shalt stand upon a rock: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by:",
       "tokens": [
         {
-          "t": "And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by:"
+          "t": "And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.",
       "tokens": [
         {
-          "t": "And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen."
+          "t": "And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen. "
         }
       ]
     }

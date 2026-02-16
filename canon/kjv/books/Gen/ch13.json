@@ -7,250 +7,268 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.",
       "tokens": [
         {
-          "t": "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south."
+          "t": "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Abram was very rich in cattle, in silver, and in gold.",
       "tokens": [
         {
-          "t": "And Abram"
+          "t": "And Abram "
         },
         {
           "add": "was"
         },
         {
-          "t": "very rich in cattle, in silver, and in gold."
+          "t": " very rich in cattle, in silver, and in gold. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai;",
       "tokens": [
         {
-          "t": "And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai;"
+          "t": "And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.",
       "tokens": [
         {
-          "t": "Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the"
+          "t": "Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And Lot also, which went with Abram, had flocks, and herds, and tents.",
       "tokens": [
         {
-          "t": "¶ And Lot also, which went with Abram, had flocks, and herds, and tents."
+          "t": "¶ And Lot also, which went with Abram, had flocks, and herds, and tents. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.",
       "tokens": [
         {
-          "t": "And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together."
+          "t": "And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land.",
       "tokens": [
         {
-          "t": "And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land."
+          "t": "And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren.",
       "tokens": [
         {
-          "t": "And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we"
+          "t": "And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we "
         },
         {
           "add": "be"
         },
         {
-          "t": "brethren."
+          "t": " brethren. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left.",
       "tokens": [
         {
           "add": "Is"
         },
         {
-          "t": "not the whole land before thee? separate thyself, I pray thee, from me: if"
+          "t": " not the whole land before thee? separate thyself, I pray thee, from me: if "
         },
         {
           "add": "thou wilt take"
         },
         {
-          "t": "the left hand, then I will go to the right; or if"
+          "t": " the left hand, then I will go to the right; or if "
         },
         {
           "add": "thou depart"
         },
         {
-          "t": "to the right hand, then I will go to the left."
+          "t": " to the right hand, then I will go to the left. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.",
       "tokens": [
         {
-          "t": "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it"
+          "t": "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it "
         },
         {
           "add": "was"
         },
         {
-          "t": "well watered every where, before the"
+          "t": " well watered every where, before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "destroyed Sodom and Gomorrah,"
+          "t": " destroyed Sodom and Gomorrah, "
         },
         {
           "add": "even"
         },
         {
-          "t": "as the garden of the"
+          "t": " as the garden of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", like the land of Egypt, as thou comest unto Zoar."
+          "t": ", like the land of Egypt, as thou comest unto Zoar. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.",
       "tokens": [
         {
-          "t": "Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other."
+          "t": "Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom.",
       "tokens": [
         {
-          "t": "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched"
+          "t": "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched "
         },
         {
           "add": "his"
         },
         {
-          "t": "tent toward Sodom."
+          "t": " tent toward Sodom. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "But the men of Sodom were wicked and sinners before the LORD exceedingly.",
       "tokens": [
         {
-          "t": "But the men of Sodom"
+          "t": "But the men of Sodom "
         },
         {
           "add": "were"
         },
         {
-          "t": "wicked and sinners before the"
+          "t": " wicked and sinners before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "exceedingly."
+          "t": " exceedingly. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:"
+          "t": " said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For all the land which thou seest, to thee will I give it, and to thy seed for ever.",
       "tokens": [
         {
-          "t": "For all the land which thou seest, to thee will I give it, and to thy seed for ever."
+          "t": "For all the land which thou seest, to thee will I give it, and to thy seed for ever. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered.",
       "tokens": [
         {
-          "t": "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth,"
+          "t": "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, "
         },
         {
           "add": "then"
         },
         {
-          "t": "shall thy seed also be numbered."
+          "t": " shall thy seed also be numbered. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.",
       "tokens": [
         {
-          "t": "Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee."
+          "t": "Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD.",
       "tokens": [
         {
-          "t": "Then Abram removed"
+          "t": "Then Abram removed "
         },
         {
           "add": "his"
         },
         {
-          "t": "tent, and came and dwelt in the plain of Mamre, which"
+          "t": " tent, and came and dwelt in the plain of Mamre, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Hebron, and built there an altar unto the"
+          "t": " in Hebron, and built there an altar unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

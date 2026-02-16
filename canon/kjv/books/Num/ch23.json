@@ -7,391 +7,421 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.",
       "tokens": [
         {
-          "t": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams."
+          "t": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.",
       "tokens": [
         {
-          "t": "And Balak did as Balaam had spoken; and Balak and Balaam offered on"
+          "t": "And Balak did as Balaam had spoken; and Balak and Balaam offered on "
         },
         {
           "add": "every"
         },
         {
-          "t": "altar a bullock and a ram."
+          "t": " altar a bullock and a ram. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place.",
       "tokens": [
         {
-          "t": "And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the"
+          "t": "And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place."
+          "t": " will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram.",
       "tokens": [
         {
-          "t": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon"
+          "t": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon "
         },
         {
           "add": "every"
         },
         {
-          "t": "altar a bullock and a ram."
+          "t": " altar a bullock and a ram. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the LORD put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak."
+          "t": " put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab.",
       "tokens": [
         {
-          "t": "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab."
+          "t": "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel.",
       "tokens": [
         {
-          "t": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east,"
+          "t": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Come, curse me Jacob, and come, defy Israel."
+          "t": ", Come, curse me Jacob, and come, defy Israel. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?",
       "tokens": [
         {
-          "t": "How shall I curse, whom God hath not cursed? or how shall I defy,"
+          "t": "How shall I curse, whom God hath not cursed? or how shall I defy, "
         },
         {
           "add": "whom"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath not defied?"
+          "t": " hath not defied? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations.",
       "tokens": [
         {
-          "t": "For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations."
+          "t": "For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!",
       "tokens": [
         {
-          "t": "Who can count the dust of Jacob, and the number of the fourth"
+          "t": "Who can count the dust of Jacob, and the number of the fourth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of Israel? Let me die the death of the righteous, and let my last end be like his!"
+          "t": " of Israel? Let me die the death of the righteous, and let my last end be like his! "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.",
       "tokens": [
         {
-          "t": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed"
+          "t": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed "
         },
         {
           "add": "them"
         },
         {
-          "t": "altogether."
+          "t": " altogether. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?",
       "tokens": [
         {
-          "t": "And he answered and said, Must I not take heed to speak that which the"
+          "t": "And he answered and said, Must I not take heed to speak that which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath put in my mouth?"
+          "t": " hath put in my mouth? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.",
       "tokens": [
         {
-          "t": "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence."
+          "t": "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.",
       "tokens": [
         {
-          "t": "¶ And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on"
+          "t": "¶ And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on "
         },
         {
           "add": "every"
         },
         {
-          "t": "altar."
+          "t": " altar. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And he said unto Balak, Stand here by thy burnt offering, while I meet the Lord yonder.",
       "tokens": [
         {
-          "t": "And he said unto Balak, Stand here by thy burnt offering, while I meet"
+          "t": "And he said unto Balak, Stand here by thy burnt offering, while I meet "
         },
         {
           "add": "the Lord"
         },
         {
-          "t": "yonder."
+          "t": " yonder. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus."
+          "t": " met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken?",
       "tokens": [
         {
-          "t": "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the"
+          "t": "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spoken?"
+          "t": " spoken? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:",
       "tokens": [
         {
-          "t": "And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:"
+          "t": "And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?",
       "tokens": [
         {
-          "t": "God"
+          "t": "God "
         },
         {
           "add": "is"
         },
         {
-          "t": "not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do"
+          "t": " not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do "
         },
         {
           "add": "it"
         },
         {
-          "t": "? or hath he spoken, and shall he not make it good?"
+          "t": "? or hath he spoken, and shall he not make it good? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it.",
       "tokens": [
         {
-          "t": "Behold, I have received"
+          "t": "Behold, I have received "
         },
         {
           "add": "commandment"
         },
         {
-          "t": "to bless: and he hath blessed; and I cannot reverse it."
+          "t": " to bless: and he hath blessed; and I cannot reverse it. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the LORD his God is with him, and the shout of a king is among them.",
       "tokens": [
         {
-          "t": "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the"
+          "t": "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God"
+          "t": " his God "
         },
         {
           "add": "is"
         },
         {
-          "t": "with him, and the shout of a king"
+          "t": " with him, and the shout of a king "
         },
         {
           "add": "is"
         },
         {
-          "t": "among them."
+          "t": " among them. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "God brought them out of Egypt; he hath as it were the strength of an unicorn.",
       "tokens": [
         {
-          "t": "God brought them out of Egypt; he hath as it were the strength of an unicorn."
+          "t": "God brought them out of Egypt; he hath as it were the strength of an unicorn. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!",
       "tokens": [
         {
-          "t": "Surely"
+          "t": "Surely "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no enchantment against Jacob, neither"
+          "t": " no enchantment against Jacob, neither "
         },
         {
           "add": "is there"
         },
         {
-          "t": "any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!"
+          "t": " any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought! "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat of the prey, and drink the blood of the slain.",
       "tokens": [
         {
-          "t": "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat"
+          "t": "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat "
         },
         {
           "add": "of"
         },
         {
-          "t": "the prey, and drink the blood of the slain."
+          "t": " the prey, and drink the blood of the slain. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ And Balak said unto Balaam, Neither curse them at all, nor bless them at all.",
       "tokens": [
         {
-          "t": "¶ And Balak said unto Balaam, Neither curse them at all, nor bless them at all."
+          "t": "¶ And Balak said unto Balaam, Neither curse them at all, nor bless them at all. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "But Balaam answered and said unto Balak, Told not I thee, saying, All that the LORD speaketh, that I must do?",
       "tokens": [
         {
-          "t": "But Balaam answered and said unto Balak, Told not I thee, saying, All that the"
+          "t": "But Balaam answered and said unto Balak, Told not I thee, saying, All that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "speaketh, that I must do?"
+          "t": " speaketh, that I must do? "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence.",
       "tokens": [
         {
-          "t": "¶ And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence."
+          "t": "¶ And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon.",
       "tokens": [
         {
-          "t": "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon."
+          "t": "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.",
       "tokens": [
         {
-          "t": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams."
+          "t": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And Balak did as Balaam had said, and offered a bullock and a ram on every altar.",
       "tokens": [
         {
-          "t": "And Balak did as Balaam had said, and offered a bullock and a ram on"
+          "t": "And Balak did as Balaam had said, and offered a bullock and a ram on "
         },
         {
           "add": "every"
         },
         {
-          "t": "altar."
+          "t": " altar. "
         }
       ]
     }

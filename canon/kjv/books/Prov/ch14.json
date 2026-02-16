@@ -7,509 +7,550 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands.",
       "tokens": [
         {
-          "t": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands."
+          "t": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "He that walketh in his uprightness feareth the LORD: but he that is perverse in his ways despiseth him.",
       "tokens": [
         {
-          "t": "He that walketh in his uprightness feareth the"
+          "t": "He that walketh in his uprightness feareth the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": but"
+          "t": ": but "
         },
         {
           "add": "he that is"
         },
         {
-          "t": "perverse in his ways despiseth him."
+          "t": " perverse in his ways despiseth him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.",
       "tokens": [
         {
-          "t": "In the mouth of the foolish"
+          "t": "In the mouth of the foolish "
         },
         {
           "add": "is"
         },
         {
-          "t": "a rod of pride: but the lips of the wise shall preserve them."
+          "t": " a rod of pride: but the lips of the wise shall preserve them. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Where no oxen are, the crib is clean: but much increase is by the strength of the ox.",
       "tokens": [
         {
-          "t": "Where no oxen"
+          "t": "Where no oxen "
         },
         {
           "add": "are"
         },
         {
-          "t": ", the crib"
+          "t": ", the crib "
         },
         {
           "add": "is"
         },
         {
-          "t": "clean: but much increase"
+          "t": " clean: but much increase "
         },
         {
           "add": "is"
         },
         {
-          "t": "by the strength of the ox."
+          "t": " by the strength of the ox. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "A faithful witness will not lie: but a false witness will utter lies.",
       "tokens": [
         {
-          "t": "A faithful witness will not lie: but a false witness will utter lies."
+          "t": "A faithful witness will not lie: but a false witness will utter lies. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.",
       "tokens": [
         {
-          "t": "A scorner seeketh wisdom, and"
+          "t": "A scorner seeketh wisdom, and "
         },
         {
           "add": "findeth it"
         },
         {
-          "t": "not: but knowledge"
+          "t": " not: but knowledge "
         },
         {
           "add": "is"
         },
         {
-          "t": "easy unto him that understandeth."
+          "t": " easy unto him that understandeth. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.",
       "tokens": [
         {
-          "t": "Go from the presence of a foolish man, when thou perceivest not"
+          "t": "Go from the presence of a foolish man, when thou perceivest not "
         },
         {
           "add": "in him"
         },
         {
-          "t": "the lips of knowledge."
+          "t": " the lips of knowledge. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The wisdom of the prudent is to understand his way: but the folly of fools is deceit.",
       "tokens": [
         {
-          "t": "The wisdom of the prudent"
+          "t": "The wisdom of the prudent "
         },
         {
           "add": "is"
         },
         {
-          "t": "to understand his way: but the folly of fools"
+          "t": " to understand his way: but the folly of fools "
         },
         {
           "add": "is"
         },
         {
-          "t": "deceit."
+          "t": " deceit. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Fools make a mock at sin: but among the righteous there is favour.",
       "tokens": [
         {
-          "t": "Fools make a mock at sin: but among the righteous"
+          "t": "Fools make a mock at sin: but among the righteous "
         },
         {
           "add": "there is"
         },
         {
-          "t": "favour."
+          "t": " favour. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.",
       "tokens": [
         {
-          "t": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy."
+          "t": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.",
       "tokens": [
         {
-          "t": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish."
+          "t": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "There is a way which seemeth right unto a man, but the end thereof are the ways of death.",
       "tokens": [
         {
-          "t": "There is a way which seemeth right unto a man, but the end thereof"
+          "t": "There is a way which seemeth right unto a man, but the end thereof "
         },
         {
           "add": "are"
         },
         {
-          "t": "the ways of death."
+          "t": " the ways of death. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.",
       "tokens": [
         {
-          "t": "Even in laughter the heart is sorrowful; and the end of that mirth"
+          "t": "Even in laughter the heart is sorrowful; and the end of that mirth "
         },
         {
           "add": "is"
         },
         {
-          "t": "heaviness."
+          "t": " heaviness. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.",
       "tokens": [
         {
-          "t": "The backslider in heart shall be filled with his own ways: and a good man"
+          "t": "The backslider in heart shall be filled with his own ways: and a good man "
         },
         {
           "add": "shall be satisfied"
         },
         {
-          "t": "from himself."
+          "t": " from himself. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The simple believeth every word: but the prudent man looketh well to his going.",
       "tokens": [
         {
-          "t": "The simple believeth every word: but the prudent"
+          "t": "The simple believeth every word: but the prudent "
         },
         {
           "add": "man"
         },
         {
-          "t": "looketh well to his going."
+          "t": " looketh well to his going. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "A wise man feareth, and departeth from evil: but the fool rageth, and is confident.",
       "tokens": [
         {
-          "t": "A wise"
+          "t": "A wise "
         },
         {
           "add": "man"
         },
         {
-          "t": "feareth, and departeth from evil: but the fool rageth, and is confident."
+          "t": " feareth, and departeth from evil: but the fool rageth, and is confident. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He that is soon angry dealeth foolishly: and a man of wicked devices is hated.",
       "tokens": [
         {
           "add": "He that is"
         },
         {
-          "t": "soon angry dealeth foolishly: and a man of wicked devices is hated."
+          "t": " soon angry dealeth foolishly: and a man of wicked devices is hated. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "The simple inherit folly: but the prudent are crowned with knowledge.",
       "tokens": [
         {
-          "t": "The simple inherit folly: but the prudent are crowned with knowledge."
+          "t": "The simple inherit folly: but the prudent are crowned with knowledge. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The evil bow before the good; and the wicked at the gates of the righteous.",
       "tokens": [
         {
-          "t": "The evil bow before the good; and the wicked at the gates of the righteous."
+          "t": "The evil bow before the good; and the wicked at the gates of the righteous. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The poor is hated even of his own neighbour: but the rich hath many friends.",
       "tokens": [
         {
-          "t": "The poor is hated even of his own neighbour: but the rich"
+          "t": "The poor is hated even of his own neighbour: but the rich "
         },
         {
           "add": "hath"
         },
         {
-          "t": "many friends."
+          "t": " many friends. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.",
       "tokens": [
         {
-          "t": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy"
+          "t": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy "
         },
         {
           "add": "is"
         },
         {
-          "t": "he."
+          "t": " he. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Do they not err that devise evil? but mercy and truth shall be to them that devise good.",
       "tokens": [
         {
-          "t": "Do they not err that devise evil? but mercy and truth"
+          "t": "Do they not err that devise evil? but mercy and truth "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "to them that devise good."
+          "t": " to them that devise good. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "In all labour there is profit: but the talk of the lips tendeth only to penury.",
       "tokens": [
         {
-          "t": "In all labour there is profit: but the talk of the lips"
+          "t": "In all labour there is profit: but the talk of the lips "
         },
         {
           "add": "tendeth"
         },
         {
-          "t": "only to penury."
+          "t": " only to penury. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "The crown of the wise is their riches: but the foolishness of fools is folly.",
       "tokens": [
         {
-          "t": "The crown of the wise"
+          "t": "The crown of the wise "
         },
         {
           "add": "is"
         },
         {
-          "t": "their riches:"
+          "t": " their riches: "
         },
         {
           "add": "but"
         },
         {
-          "t": "the foolishness of fools"
+          "t": " the foolishness of fools "
         },
         {
           "add": "is"
         },
         {
-          "t": "folly."
+          "t": " folly. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "A true witness delivereth souls: but a deceitful witness speaketh lies.",
       "tokens": [
         {
-          "t": "A true witness delivereth souls: but a deceitful"
+          "t": "A true witness delivereth souls: but a deceitful "
         },
         {
           "add": "witness"
         },
         {
-          "t": "speaketh lies."
+          "t": " speaketh lies. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "In the fear of the LORD is strong confidence: and his children shall have a place of refuge.",
       "tokens": [
         {
-          "t": "In the fear of the"
+          "t": "In the fear of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "strong confidence: and his children shall have a place of refuge."
+          "t": " strong confidence: and his children shall have a place of refuge. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "The fear of the LORD is a fountain of life, to depart from the snares of death.",
       "tokens": [
         {
-          "t": "The fear of the"
+          "t": "The fear of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "a fountain of life, to depart from the snares of death."
+          "t": " a fountain of life, to depart from the snares of death. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "In the multitude of people is the king’s honour: but in the want of people is the destruction of the prince.",
       "tokens": [
         {
-          "t": "In the multitude of people"
+          "t": "In the multitude of people "
         },
         {
           "add": "is"
         },
         {
-          "t": "the king’s honour: but in the want of people"
+          "t": " the king’s honour: but in the want of people "
         },
         {
           "add": "is"
         },
         {
-          "t": "the destruction of the prince."
+          "t": " the destruction of the prince. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.",
       "tokens": [
         {
           "add": "He that is"
         },
         {
-          "t": "slow to wrath"
+          "t": " slow to wrath "
         },
         {
           "add": "is"
         },
         {
-          "t": "of great understanding: but"
+          "t": " of great understanding: but "
         },
         {
           "add": "he that is"
         },
         {
-          "t": "hasty of spirit exalteth folly."
+          "t": " hasty of spirit exalteth folly. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "A sound heart is the life of the flesh: but envy the rottenness of the bones.",
       "tokens": [
         {
-          "t": "A sound heart"
+          "t": "A sound heart "
         },
         {
           "add": "is"
         },
         {
-          "t": "the life of the flesh: but envy the rottenness of the bones."
+          "t": " the life of the flesh: but envy the rottenness of the bones. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.",
       "tokens": [
         {
-          "t": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor."
+          "t": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "The wicked is driven away in his wickedness: but the righteous hath hope in his death.",
       "tokens": [
         {
-          "t": "The wicked is driven away in his wickedness: but the righteous hath hope in his death."
+          "t": "The wicked is driven away in his wickedness: but the righteous hath hope in his death. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known.",
       "tokens": [
         {
-          "t": "Wisdom resteth in the heart of him that hath understanding: but"
+          "t": "Wisdom resteth in the heart of him that hath understanding: but "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "in the midst of fools is made known."
+          "t": " in the midst of fools is made known. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Righteousness exalteth a nation: but sin is a reproach to any people.",
       "tokens": [
         {
-          "t": "Righteousness exalteth a nation: but sin"
+          "t": "Righteousness exalteth a nation: but sin "
         },
         {
           "add": "is"
         },
         {
-          "t": "a reproach to any people."
+          "t": " a reproach to any people. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "The king’s favour is toward a wise servant: but his wrath is against him that causeth shame.",
       "tokens": [
         {
-          "t": "The king’s favour"
+          "t": "The king’s favour "
         },
         {
           "add": "is"
         },
         {
-          "t": "toward a wise servant: but his wrath is"
+          "t": " toward a wise servant: but his wrath is "
         },
         {
           "add": "against"
         },
         {
-          "t": "him that causeth shame."
+          "t": " him that causeth shame. "
         }
       ]
     }

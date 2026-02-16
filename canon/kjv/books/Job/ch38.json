@@ -7,473 +7,514 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then the LORD answered Job out of the whirlwind, and said,",
       "tokens": [
         {
-          "t": "Then the"
+          "t": "Then the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "answered Job out of the whirlwind, and said,"
+          "t": " answered Job out of the whirlwind, and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Who is this that darkeneth counsel by words without knowledge?",
       "tokens": [
         {
-          "t": "Who"
+          "t": "Who "
         },
         {
           "add": "is"
         },
         {
-          "t": "this that darkeneth counsel by words without knowledge?"
+          "t": " this that darkeneth counsel by words without knowledge? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Gird up now thy loins like a man; for I will demand of thee, and answer thou me.",
       "tokens": [
         {
-          "t": "Gird up now thy loins like a man; for I will demand of thee, and answer thou me."
+          "t": "Gird up now thy loins like a man; for I will demand of thee, and answer thou me. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.",
       "tokens": [
         {
-          "t": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding."
+          "t": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?",
       "tokens": [
         {
-          "t": "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?"
+          "t": "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;",
       "tokens": [
         {
-          "t": "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;"
+          "t": "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "When the morning stars sang together, and all the sons of God shouted for joy?",
       "tokens": [
         {
-          "t": "When the morning stars sang together, and all the sons of God shouted for joy?"
+          "t": "When the morning stars sang together, and all the sons of God shouted for joy? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?",
       "tokens": [
         {
-          "t": "Or"
+          "t": "Or "
         },
         {
           "add": "who"
         },
         {
-          "t": "shut up the sea with doors, when it brake forth,"
+          "t": " shut up the sea with doors, when it brake forth, "
         },
         {
           "add": "as if"
         },
         {
-          "t": "it had issued out of the womb?"
+          "t": " it had issued out of the womb? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,",
       "tokens": [
         {
-          "t": "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,"
+          "t": "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And brake up for it my decreed place, and set bars and doors,",
       "tokens": [
         {
-          "t": "And brake up for it my decreed"
+          "t": "And brake up for it my decreed "
         },
         {
           "add": "place"
         },
         {
-          "t": ", and set bars and doors,"
+          "t": ", and set bars and doors, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?",
       "tokens": [
         {
-          "t": "And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?"
+          "t": "And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Hast thou commanded the morning since thy days; and caused the dayspring to know his place;",
       "tokens": [
         {
-          "t": "Hast thou commanded the morning since thy days;"
+          "t": "Hast thou commanded the morning since thy days; "
         },
         {
           "add": "and"
         },
         {
-          "t": "caused the dayspring to know his place;"
+          "t": " caused the dayspring to know his place; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "That it might take hold of the ends of the earth, that the wicked might be shaken out of it?",
       "tokens": [
         {
-          "t": "That it might take hold of the ends of the earth, that the wicked might be shaken out of it?"
+          "t": "That it might take hold of the ends of the earth, that the wicked might be shaken out of it? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "It is turned as clay to the seal; and they stand as a garment.",
       "tokens": [
         {
-          "t": "It is turned as clay"
+          "t": "It is turned as clay "
         },
         {
           "add": "to"
         },
         {
-          "t": "the seal; and they stand as a garment."
+          "t": " the seal; and they stand as a garment. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And from the wicked their light is withholden, and the high arm shall be broken.",
       "tokens": [
         {
-          "t": "And from the wicked their light is withholden, and the high arm shall be broken."
+          "t": "And from the wicked their light is withholden, and the high arm shall be broken. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?",
       "tokens": [
         {
-          "t": "Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?"
+          "t": "Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?",
       "tokens": [
         {
-          "t": "Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?"
+          "t": "Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Hast thou perceived the breadth of the earth? declare if thou knowest it all.",
       "tokens": [
         {
-          "t": "Hast thou perceived the breadth of the earth? declare if thou knowest it all."
+          "t": "Hast thou perceived the breadth of the earth? declare if thou knowest it all. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Where is the way where light dwelleth? and as for darkness, where is the place thereof,",
       "tokens": [
         {
-          "t": "Where"
+          "t": "Where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the way"
+          "t": " the way "
         },
         {
           "add": "where"
         },
         {
-          "t": "light dwelleth? and"
+          "t": " light dwelleth? and "
         },
         {
           "add": "as for"
         },
         {
-          "t": "darkness, where"
+          "t": " darkness, where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the place thereof,"
+          "t": " the place thereof, "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?",
       "tokens": [
         {
-          "t": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths"
+          "t": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths "
         },
         {
           "add": "to"
         },
         {
-          "t": "the house thereof?"
+          "t": " the house thereof? "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Knowest thou it, because thou wast then born? or because the number of thy days is great?",
       "tokens": [
         {
-          "t": "Knowest thou"
+          "t": "Knowest thou "
         },
         {
           "add": "it"
         },
         {
-          "t": ", because thou wast then born? or"
+          "t": ", because thou wast then born? or "
         },
         {
           "add": "because"
         },
         {
-          "t": "the number of thy days"
+          "t": " the number of thy days "
         },
         {
           "add": "is"
         },
         {
-          "t": "great?"
+          "t": " great? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,",
       "tokens": [
         {
-          "t": "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,"
+          "t": "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail, "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Which I have reserved against the time of trouble, against the day of battle and war?",
       "tokens": [
         {
-          "t": "Which I have reserved against the time of trouble, against the day of battle and war?"
+          "t": "Which I have reserved against the time of trouble, against the day of battle and war? "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "By what way is the light parted, which scattereth the east wind upon the earth?",
       "tokens": [
         {
-          "t": "By what way is the light parted,"
+          "t": "By what way is the light parted, "
         },
         {
           "add": "which"
         },
         {
-          "t": "scattereth the east wind upon the earth?"
+          "t": " scattereth the east wind upon the earth? "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;",
       "tokens": [
         {
-          "t": "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;"
+          "t": "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder; "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;",
       "tokens": [
         {
-          "t": "To cause it to rain on the earth,"
+          "t": "To cause it to rain on the earth, "
         },
         {
           "add": "where"
         },
         {
-          "t": "no man"
+          "t": " no man "
         },
         {
           "add": "is; on"
         },
         {
-          "t": "the wilderness, wherein"
+          "t": " the wilderness, wherein "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no man;"
+          "t": " no man; "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?",
       "tokens": [
         {
-          "t": "To satisfy the desolate and waste"
+          "t": "To satisfy the desolate and waste "
         },
         {
           "add": "ground;"
         },
         {
-          "t": "and to cause the bud of the tender herb to spring forth?"
+          "t": " and to cause the bud of the tender herb to spring forth? "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Hath the rain a father? or who hath begotten the drops of dew?",
       "tokens": [
         {
-          "t": "Hath the rain a father? or who hath begotten the drops of dew?"
+          "t": "Hath the rain a father? or who hath begotten the drops of dew? "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?",
       "tokens": [
         {
-          "t": "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?"
+          "t": "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it? "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "The waters are hid as with a stone, and the face of the deep is frozen.",
       "tokens": [
         {
-          "t": "The waters are hid as"
+          "t": "The waters are hid as "
         },
         {
           "add": "with"
         },
         {
-          "t": "a stone, and the face of the deep is frozen."
+          "t": " a stone, and the face of the deep is frozen. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?",
       "tokens": [
         {
-          "t": "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?"
+          "t": "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion? "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?",
       "tokens": [
         {
-          "t": "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?"
+          "t": "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons? "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?",
       "tokens": [
         {
-          "t": "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?"
+          "t": "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth? "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?",
       "tokens": [
         {
-          "t": "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?"
+          "t": "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee? "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "Canst thou send lightnings, that they may go, and say unto thee, Here we are?",
       "tokens": [
         {
-          "t": "Canst thou send lightnings, that they may go, and say unto thee, Here we"
+          "t": "Canst thou send lightnings, that they may go, and say unto thee, Here we "
         },
         {
           "add": "are"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?",
       "tokens": [
         {
-          "t": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?"
+          "t": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart? "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Who can number the clouds in wisdom? or who can stay the bottles of heaven,",
       "tokens": [
         {
-          "t": "Who can number the clouds in wisdom? or who can stay the bottles of heaven,"
+          "t": "Who can number the clouds in wisdom? or who can stay the bottles of heaven, "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "When the dust groweth into hardness, and the clods cleave fast together?",
       "tokens": [
         {
-          "t": "When the dust groweth into hardness, and the clods cleave fast together?"
+          "t": "When the dust groweth into hardness, and the clods cleave fast together? "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,",
       "tokens": [
         {
-          "t": "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,"
+          "t": "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions, "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "When they couch in their dens, and abide in the covert to lie in wait?",
       "tokens": [
         {
-          "t": "When they couch in"
+          "t": "When they couch in "
         },
         {
           "add": "their"
         },
         {
-          "t": "dens,"
+          "t": " dens, "
         },
         {
           "add": "and"
         },
         {
-          "t": "abide in the covert to lie in wait?"
+          "t": " abide in the covert to lie in wait? "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.",
       "tokens": [
         {
-          "t": "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat."
+          "t": "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat. "
         }
       ]
     }

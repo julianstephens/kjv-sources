@@ -7,309 +7,334 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I love the LORD, because he hath heard my voice and my supplications.",
       "tokens": [
         {
-          "t": "I love the"
+          "t": "I love the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", because he hath heard my voice"
+          "t": ", because he hath heard my voice "
         },
         {
           "add": "and"
         },
         {
-          "t": "my supplications."
+          "t": " my supplications. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Because he hath inclined his ear unto me, therefore will I call upon him as long as I live.",
       "tokens": [
         {
-          "t": "Because he hath inclined his ear unto me, therefore will I call upon"
+          "t": "Because he hath inclined his ear unto me, therefore will I call upon "
         },
         {
           "add": "him"
         },
         {
-          "t": "as long as I live."
+          "t": " as long as I live. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow.",
       "tokens": [
         {
-          "t": "The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow."
+          "t": "The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then called I upon the name of the LORD; O LORD, I beseech thee, deliver my soul.",
       "tokens": [
         {
-          "t": "Then called I upon the name of the"
+          "t": "Then called I upon the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; O"
+          "t": "; O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I beseech thee, deliver my soul."
+          "t": ", I beseech thee, deliver my soul. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Gracious is the LORD, and righteous; yea, our God is merciful.",
       "tokens": [
         {
-          "t": "Gracious"
+          "t": "Gracious "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and righteous; yea, our God"
+          "t": ", and righteous; yea, our God "
         },
         {
           "add": "is"
         },
         {
-          "t": "merciful."
+          "t": " merciful. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "The LORD preserveth the simple: I was brought low, and he helped me.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "preserveth the simple: I was brought low, and he helped me."
+          "t": " preserveth the simple: I was brought low, and he helped me. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Return unto thy rest, O my soul; for the LORD hath dealt bountifully with thee.",
       "tokens": [
         {
-          "t": "Return unto thy rest, O my soul; for the"
+          "t": "Return unto thy rest, O my soul; for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath dealt bountifully with thee."
+          "t": " hath dealt bountifully with thee. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "For thou hast delivered my soul from death, mine eyes from tears, and my feet from falling.",
       "tokens": [
         {
-          "t": "For thou hast delivered my soul from death, mine eyes from tears,"
+          "t": "For thou hast delivered my soul from death, mine eyes from tears, "
         },
         {
           "add": "and"
         },
         {
-          "t": "my feet from falling."
+          "t": " my feet from falling. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "I will walk before the LORD in the land of the living.",
       "tokens": [
         {
-          "t": "I will walk before the"
+          "t": "I will walk before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in the land of the living."
+          "t": " in the land of the living. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "I believed, therefore have I spoken: I was greatly afflicted:",
       "tokens": [
         {
-          "t": "I believed, therefore have I spoken: I was greatly afflicted:"
+          "t": "I believed, therefore have I spoken: I was greatly afflicted: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "I said in my haste, All men are liars.",
       "tokens": [
         {
-          "t": "I said in my haste, All men"
+          "t": "I said in my haste, All men "
         },
         {
           "add": "are"
         },
         {
-          "t": "liars."
+          "t": " liars. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "What shall I render unto the LORD for all his benefits toward me?",
       "tokens": [
         {
-          "t": "What shall I render unto the"
+          "t": "What shall I render unto the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "for"
         },
         {
-          "t": "all his benefits toward me?"
+          "t": " all his benefits toward me? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "I will take the cup of salvation, and call upon the name of the LORD.",
       "tokens": [
         {
-          "t": "I will take the cup of salvation, and call upon the name of the"
+          "t": "I will take the cup of salvation, and call upon the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I will pay my vows unto the LORD now in the presence of all his people.",
       "tokens": [
         {
-          "t": "I will pay my vows unto the"
+          "t": "I will pay my vows unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "now in the presence of all his people."
+          "t": " now in the presence of all his people. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Precious in the sight of the LORD is the death of his saints.",
       "tokens": [
         {
-          "t": "Precious in the sight of the"
+          "t": "Precious in the sight of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "the death of his saints."
+          "t": " the death of his saints. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "O LORD, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds.",
       "tokens": [
         {
-          "t": "O"
+          "t": "O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", truly I"
+          "t": ", truly I "
         },
         {
           "add": "am"
         },
         {
-          "t": "thy servant; I"
+          "t": " thy servant; I "
         },
         {
           "add": "am"
         },
         {
-          "t": "thy servant,"
+          "t": " thy servant, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the son of thine handmaid: thou hast loosed my bonds."
+          "t": " the son of thine handmaid: thou hast loosed my bonds. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the LORD.",
       "tokens": [
         {
-          "t": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the"
+          "t": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "I will pay my vows unto the LORD now in the presence of all his people,",
       "tokens": [
         {
-          "t": "I will pay my vows unto the"
+          "t": "I will pay my vows unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "now in the presence of all his people,"
+          "t": " now in the presence of all his people, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "In the courts of the LORD’s house, in the midst of thee, O Jerusalem. Praise ye the LORD.",
       "tokens": [
         {
-          "t": "In the courts of the"
+          "t": "In the courts of the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "house, in the midst of thee, O Jerusalem. Praise ye the"
+          "t": " house, in the midst of thee, O Jerusalem. Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

@@ -7,95 +7,109 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Many a time have they afflicted me from my youth, may Israel now say:",
       "tokens": [
         {
-          "t": "Many a time have they afflicted me from my youth, may Israel now say:"
+          "t": "Many a time have they afflicted me from my youth, may Israel now say: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Many a time have they afflicted me from my youth: yet they have not prevailed against me.",
       "tokens": [
         {
-          "t": "Many a time have they afflicted me from my youth: yet they have not prevailed against me."
+          "t": "Many a time have they afflicted me from my youth: yet they have not prevailed against me. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The plowers plowed upon my back: they made long their furrows.",
       "tokens": [
         {
-          "t": "The plowers plowed upon my back: they made long their furrows."
+          "t": "The plowers plowed upon my back: they made long their furrows. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The LORD is righteous: he hath cut asunder the cords of the wicked.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "righteous: he hath cut asunder the cords of the wicked."
+          "t": " righteous: he hath cut asunder the cords of the wicked. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Let them all be confounded and turned back that hate Zion.",
       "tokens": [
         {
-          "t": "Let them all be confounded and turned back that hate Zion."
+          "t": "Let them all be confounded and turned back that hate Zion. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Let them be as the grass upon the housetops, which withereth afore it groweth up:",
       "tokens": [
         {
-          "t": "Let them be as the grass"
+          "t": "Let them be as the grass "
         },
         {
           "add": "upon"
         },
         {
-          "t": "the housetops, which withereth afore it groweth up:"
+          "t": " the housetops, which withereth afore it groweth up: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.",
       "tokens": [
         {
-          "t": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom."
+          "t": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Neither do they which go by say, The blessing of the LORD be upon you: we bless you in the name of the LORD.",
       "tokens": [
         {
-          "t": "Neither do they which go by say, The blessing of the"
+          "t": "Neither do they which go by say, The blessing of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "be"
         },
         {
-          "t": "upon you: we bless you in the name of the"
+          "t": " upon you: we bless you in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

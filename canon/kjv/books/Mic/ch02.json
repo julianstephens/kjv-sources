@@ -7,219 +7,232 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.",
       "tokens": [
         {
-          "t": "Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand."
+          "t": "Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.",
       "tokens": [
         {
-          "t": "And they covet fields, and take"
+          "t": "And they covet fields, and take "
         },
         {
           "add": "them"
         },
         {
-          "t": "by violence; and houses, and take"
+          "t": " by violence; and houses, and take "
         },
         {
           "add": "them"
         },
         {
-          "t": "away: so they oppress a man and his house, even a man and his heritage."
+          "t": " away: so they oppress a man and his house, even a man and his heritage. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time is evil.",
       "tokens": [
         {
-          "t": "Therefore thus saith the"
+          "t": "Therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time"
+          "t": "; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time "
         },
         {
           "add": "is"
         },
         {
-          "t": "evil."
+          "t": " evil. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ In that day shall one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed it from me! turning away he hath divided our fields.",
       "tokens": [
         {
-          "t": "¶ In that day shall"
+          "t": "¶ In that day shall "
         },
         {
           "add": "one"
         },
         {
-          "t": "take up a parable against you, and lament with a doleful lamentation,"
+          "t": " take up a parable against you, and lament with a doleful lamentation, "
         },
         {
           "add": "and"
         },
         {
-          "t": "say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed"
+          "t": " say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed "
         },
         {
           "add": "it"
         },
         {
-          "t": "from me! turning away he hath divided our fields."
+          "t": " from me! turning away he hath divided our fields. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Therefore thou shalt have none that shall cast a cord by lot in the congregation of the LORD.",
       "tokens": [
         {
-          "t": "Therefore thou shalt have none that shall cast a cord by lot in the congregation of the"
+          "t": "Therefore thou shalt have none that shall cast a cord by lot in the congregation of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Prophesy ye not, say they to them that prophesy: they shall not prophesy to them, that they shall not take shame.",
       "tokens": [
         {
-          "t": "Prophesy ye not,"
+          "t": "Prophesy ye not, "
         },
         {
           "add": "say they to them that"
         },
         {
-          "t": "prophesy: they shall not prophesy to them,"
+          "t": " prophesy: they shall not prophesy to them, "
         },
         {
           "add": "that"
         },
         {
-          "t": "they shall not take shame."
+          "t": " they shall not take shame. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ O thou that art named the house of Jacob, is the spirit of the LORD straitened? are these his doings? do not my words do good to him that walketh uprightly?",
       "tokens": [
         {
-          "t": "¶ O"
+          "t": "¶ O "
         },
         {
           "add": "thou that art"
         },
         {
-          "t": "named the house of Jacob, is the spirit of the"
+          "t": " named the house of Jacob, is the spirit of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "straitened?"
+          "t": " straitened? "
         },
         {
           "add": "are"
         },
         {
-          "t": "these his doings? do not my words do good to him that walketh uprightly?"
+          "t": " these his doings? do not my words do good to him that walketh uprightly? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war.",
       "tokens": [
         {
-          "t": "Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war."
+          "t": "Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever.",
       "tokens": [
         {
-          "t": "The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever."
+          "t": "The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction.",
       "tokens": [
         {
-          "t": "Arise ye, and depart; for this"
+          "t": "Arise ye, and depart; for this "
         },
         {
           "add": "is"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "your"
         },
         {
-          "t": "rest: because it is polluted, it shall destroy"
+          "t": " rest: because it is polluted, it shall destroy "
         },
         {
           "add": "you"
         },
         {
-          "t": ", even with a sore destruction."
+          "t": ", even with a sore destruction. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.",
       "tokens": [
         {
-          "t": "If a man walking in the spirit and falsehood do lie,"
+          "t": "If a man walking in the spirit and falsehood do lie, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people."
+          "t": ", I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of the multitude of men.",
       "tokens": [
         {
-          "t": "¶ I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of"
+          "t": "¶ I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of "
         },
         {
           "add": "the multitude of"
         },
         {
-          "t": "men."
+          "t": " men. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them.",
       "tokens": [
         {
-          "t": "The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the"
+          "t": "The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "on the head of them."
+          "t": " on the head of them. "
         }
       ]
     }

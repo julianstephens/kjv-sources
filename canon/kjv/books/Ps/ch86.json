@@ -1,0 +1,294 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 86,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Bow down thine ear, O LORD, hear me: for I am poor and needy.",
+      "tokens": [
+        {
+          "t": "Bow down thine ear, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", hear me: for I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " poor and needy. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Preserve my soul; for I am holy: O thou my God, save thy servant that trusteth in thee.",
+      "tokens": [
+        {
+          "t": "Preserve my soul; for I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " holy: O thou my God, save thy servant that trusteth in thee. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Be merciful unto me, O Lord: for I cry unto thee daily.",
+      "tokens": [
+        {
+          "t": "Be merciful unto me, O Lord: for I cry unto thee daily. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Rejoice the soul of thy servant: for unto thee, O Lord, do I lift up my soul.",
+      "tokens": [
+        {
+          "t": "Rejoice the soul of thy servant: for unto thee, O Lord, do I lift up my soul. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "For thou, Lord, art good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.",
+      "tokens": [
+        {
+          "t": "For thou, Lord, "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " good, and ready to forgive; and plenteous in mercy unto all them that call upon thee. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Give ear, O LORD, unto my prayer; and attend to the voice of my supplications.",
+      "tokens": [
+        {
+          "t": "Give ear, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", unto my prayer; and attend to the voice of my supplications. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "In the day of my trouble I will call upon thee: for thou wilt answer me.",
+      "tokens": [
+        {
+          "t": "In the day of my trouble I will call upon thee: for thou wilt answer me. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Among the gods there is none like unto thee, O Lord; neither are there any works like unto thy works.",
+      "tokens": [
+        {
+          "t": "Among the gods "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " none like unto thee, O Lord; neither "
+        },
+        {
+          "add": "are there any works"
+        },
+        {
+          "t": " like unto thy works. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "All nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name.",
+      "tokens": [
+        {
+          "t": "All nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "For thou art great, and doest wondrous things: thou art God alone.",
+      "tokens": [
+        {
+          "t": "For thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " great, and doest wondrous things: thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " God alone. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name.",
+      "tokens": [
+        {
+          "t": "Teach me thy way, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; I will walk in thy truth: unite my heart to fear thy name. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "I will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore.",
+      "tokens": [
+        {
+          "t": "I will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "For great is thy mercy toward me: and thou hast delivered my soul from the lowest hell.",
+      "tokens": [
+        {
+          "t": "For great "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thy mercy toward me: and thou hast delivered my soul from the lowest hell. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "O God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set thee before them.",
+      "tokens": [
+        {
+          "t": "O God, the proud are risen against me, and the assemblies of violent "
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": " have sought after my soul; and have not set thee before them. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "But thou, O Lord, art a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth.",
+      "tokens": [
+        {
+          "t": "But thou, O Lord, "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.",
+      "tokens": [
+        {
+          "t": "O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, LORD, hast holpen me, and comforted me.",
+      "tokens": [
+        {
+          "t": "Shew me a token for good; that they which hate me may see "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", and be ashamed: because thou, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", hast holpen me, and comforted me. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "A Prayer…: or, A Prayer, being a Psalm of David"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "holy: or, one whom thou favourest"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 3
+      },
+      "text": "daily: or, all the day"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 13
+      },
+      "text": "hell: or, grave"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 14
+      },
+      "text": "violent: Heb. terrible"
+    }
+  ]
+}

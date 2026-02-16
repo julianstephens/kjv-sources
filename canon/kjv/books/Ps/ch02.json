@@ -1,0 +1,227 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 2,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Why do the heathen rage, and the people imagine a vain thing?",
+      "tokens": [
+        {
+          "t": "Why do the heathen rage, and the people imagine a vain thing? "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,",
+      "tokens": [
+        {
+          "t": "The kings of the earth set themselves, and the rulers take counsel together, against the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and against his anointed, "
+        },
+        {
+          "add": "saying"
+        },
+        {
+          "t": ", "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Let us break their bands asunder, and cast away their cords from us.",
+      "tokens": [
+        {
+          "t": "Let us break their bands asunder, and cast away their cords from us. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision.",
+      "tokens": [
+        {
+          "t": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.",
+      "tokens": [
+        {
+          "t": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Yet have I set my king upon my holy hill of Zion.",
+      "tokens": [
+        {
+          "t": "Yet have I set my king upon my holy hill of Zion. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.",
+      "tokens": [
+        {
+          "t": "I will declare the decree: the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " hath said unto me, Thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my Son; this day have I begotten thee. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.",
+      "tokens": [
+        {
+          "t": "Ask of me, and I shall give "
+        },
+        {
+          "add": "thee"
+        },
+        {
+          "t": " the heathen "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " thine inheritance, and the uttermost parts of the earth "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " thy possession. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.",
+      "tokens": [
+        {
+          "t": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth.",
+      "tokens": [
+        {
+          "t": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Serve the LORD with fear, and rejoice with trembling.",
+      "tokens": [
+        {
+          "t": "Serve the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " with fear, and rejoice with trembling. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.",
+      "tokens": [
+        {
+          "t": "Kiss the Son, lest he be angry, and ye perish "
+        },
+        {
+          "add": "from"
+        },
+        {
+          "t": " the way, when his wrath is kindled but a little. Blessed "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " all they that put their trust in him. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "rage: or, tumultuously assemble"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "imagine: Heb. meditate"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "vex: or, trouble"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "set: Heb. anointed"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 6
+      },
+      "text": "upon…: Heb. upon Zion, the hill of my holiness"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 7
+      },
+      "text": "the decree: or, for a decree"
+    }
+  ]
+}

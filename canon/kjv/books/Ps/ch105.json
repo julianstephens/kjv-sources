@@ -7,517 +7,562 @@
   "verses": [
     {
       "v": 1,
+      "plain": "O give thanks unto the LORD; call upon his name: make known his deeds among the people.",
       "tokens": [
         {
-          "t": "O give thanks unto the"
+          "t": "O give thanks unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; call upon his name: make known his deeds among the people."
+          "t": "; call upon his name: make known his deeds among the people. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works.",
       "tokens": [
         {
-          "t": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works."
+          "t": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Glory ye in his holy name: let the heart of them rejoice that seek the LORD.",
       "tokens": [
         {
-          "t": "Glory ye in his holy name: let the heart of them rejoice that seek the"
+          "t": "Glory ye in his holy name: let the heart of them rejoice that seek the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Seek the LORD, and his strength: seek his face evermore.",
       "tokens": [
         {
-          "t": "Seek the"
+          "t": "Seek the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and his strength: seek his face evermore."
+          "t": ", and his strength: seek his face evermore. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;",
       "tokens": [
         {
-          "t": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;"
+          "t": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "O ye seed of Abraham his servant, ye children of Jacob his chosen.",
       "tokens": [
         {
-          "t": "O ye seed of Abraham his servant, ye children of Jacob his chosen."
+          "t": "O ye seed of Abraham his servant, ye children of Jacob his chosen. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "He is the LORD our God: his judgments are in all the earth.",
       "tokens": [
         {
-          "t": "He"
+          "t": "He "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God: his judgments"
+          "t": " our God: his judgments "
         },
         {
           "add": "are"
         },
         {
-          "t": "in all the earth."
+          "t": " in all the earth. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "He hath remembered his covenant for ever, the word which he commanded to a thousand generations.",
       "tokens": [
         {
-          "t": "He hath remembered his covenant for ever, the word"
+          "t": "He hath remembered his covenant for ever, the word "
         },
         {
           "add": "which"
         },
         {
-          "t": "he commanded to a thousand generations."
+          "t": " he commanded to a thousand generations. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Which covenant he made with Abraham, and his oath unto Isaac;",
       "tokens": [
         {
-          "t": "Which"
+          "t": "Which "
         },
         {
           "add": "covenant"
         },
         {
-          "t": "he made with Abraham, and his oath unto Isaac;"
+          "t": " he made with Abraham, and his oath unto Isaac; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And confirmed the same unto Jacob for a law, and to Israel for an everlasting covenant:",
       "tokens": [
         {
-          "t": "And confirmed the same unto Jacob for a law,"
+          "t": "And confirmed the same unto Jacob for a law, "
         },
         {
           "add": "and"
         },
         {
-          "t": "to Israel"
+          "t": " to Israel "
         },
         {
           "add": "for"
         },
         {
-          "t": "an everlasting covenant:"
+          "t": " an everlasting covenant: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:",
       "tokens": [
         {
-          "t": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:"
+          "t": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "When they were but a few men in number; yea, very few, and strangers in it.",
       "tokens": [
         {
-          "t": "When they were"
+          "t": "When they were "
         },
         {
           "add": "but"
         },
         {
-          "t": "a few men in number; yea, very few, and strangers in it."
+          "t": " a few men in number; yea, very few, and strangers in it. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "When they went from one nation to another, from one kingdom to another people;",
       "tokens": [
         {
-          "t": "When they went from one nation to another, from"
+          "t": "When they went from one nation to another, from "
         },
         {
           "add": "one"
         },
         {
-          "t": "kingdom to another people;"
+          "t": " kingdom to another people; "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;",
       "tokens": [
         {
-          "t": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;"
+          "t": "He suffered no man to do them wrong: yea, he reproved kings for their sakes; "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Saying, Touch not mine anointed, and do my prophets no harm.",
       "tokens": [
         {
           "add": "Saying"
         },
         {
-          "t": ", Touch not mine anointed, and do my prophets no harm."
+          "t": ", Touch not mine anointed, and do my prophets no harm. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Moreover he called for a famine upon the land: he brake the whole staff of bread.",
       "tokens": [
         {
-          "t": "Moreover he called for a famine upon the land: he brake the whole staff of bread."
+          "t": "Moreover he called for a famine upon the land: he brake the whole staff of bread. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He sent a man before them, even Joseph, who was sold for a servant:",
       "tokens": [
         {
-          "t": "He sent a man before them,"
+          "t": "He sent a man before them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "Joseph,"
+          "t": " Joseph, "
         },
         {
           "add": "who"
         },
         {
-          "t": "was sold for a servant:"
+          "t": " was sold for a servant: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Whose feet they hurt with fetters: he was laid in iron:",
       "tokens": [
         {
-          "t": "Whose feet they hurt with fetters: he was laid in iron:"
+          "t": "Whose feet they hurt with fetters: he was laid in iron: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Until the time that his word came: the word of the LORD tried him.",
       "tokens": [
         {
-          "t": "Until the time that his word came: the word of the"
+          "t": "Until the time that his word came: the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "tried him."
+          "t": " tried him. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The king sent and loosed him; even the ruler of the people, and let him go free.",
       "tokens": [
         {
-          "t": "The king sent and loosed him;"
+          "t": "The king sent and loosed him; "
         },
         {
           "add": "even"
         },
         {
-          "t": "the ruler of the people, and let him go free."
+          "t": " the ruler of the people, and let him go free. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "He made him lord of his house, and ruler of all his substance:",
       "tokens": [
         {
-          "t": "He made him lord of his house, and ruler of all his substance:"
+          "t": "He made him lord of his house, and ruler of all his substance: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "To bind his princes at his pleasure; and teach his senators wisdom.",
       "tokens": [
         {
-          "t": "To bind his princes at his pleasure; and teach his senators wisdom."
+          "t": "To bind his princes at his pleasure; and teach his senators wisdom. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Israel also came into Egypt; and Jacob sojourned in the land of Ham.",
       "tokens": [
         {
-          "t": "Israel also came into Egypt; and Jacob sojourned in the land of Ham."
+          "t": "Israel also came into Egypt; and Jacob sojourned in the land of Ham. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And he increased his people greatly; and made them stronger than their enemies.",
       "tokens": [
         {
-          "t": "And he increased his people greatly; and made them stronger than their enemies."
+          "t": "And he increased his people greatly; and made them stronger than their enemies. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "He turned their heart to hate his people, to deal subtilly with his servants.",
       "tokens": [
         {
-          "t": "He turned their heart to hate his people, to deal subtilly with his servants."
+          "t": "He turned their heart to hate his people, to deal subtilly with his servants. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "He sent Moses his servant; and Aaron whom he had chosen.",
       "tokens": [
         {
-          "t": "He sent Moses his servant;"
+          "t": "He sent Moses his servant; "
         },
         {
           "add": "and"
         },
         {
-          "t": "Aaron whom he had chosen."
+          "t": " Aaron whom he had chosen. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "They shewed his signs among them, and wonders in the land of Ham.",
       "tokens": [
         {
-          "t": "They shewed his signs among them, and wonders in the land of Ham."
+          "t": "They shewed his signs among them, and wonders in the land of Ham. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "He sent darkness, and made it dark; and they rebelled not against his word.",
       "tokens": [
         {
-          "t": "He sent darkness, and made it dark; and they rebelled not against his word."
+          "t": "He sent darkness, and made it dark; and they rebelled not against his word. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "He turned their waters into blood, and slew their fish.",
       "tokens": [
         {
-          "t": "He turned their waters into blood, and slew their fish."
+          "t": "He turned their waters into blood, and slew their fish. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Their land brought forth frogs in abundance, in the chambers of their kings.",
       "tokens": [
         {
-          "t": "Their land brought forth frogs in abundance, in the chambers of their kings."
+          "t": "Their land brought forth frogs in abundance, in the chambers of their kings. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "He spake, and there came divers sorts of flies, and lice in all their coasts.",
       "tokens": [
         {
-          "t": "He spake, and there came divers sorts of flies,"
+          "t": "He spake, and there came divers sorts of flies, "
         },
         {
           "add": "and"
         },
         {
-          "t": "lice in all their coasts."
+          "t": " lice in all their coasts. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "He gave them hail for rain, and flaming fire in their land.",
       "tokens": [
         {
-          "t": "He gave them hail for rain,"
+          "t": "He gave them hail for rain, "
         },
         {
           "add": "and"
         },
         {
-          "t": "flaming fire in their land."
+          "t": " flaming fire in their land. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "He smote their vines also and their fig trees; and brake the trees of their coasts.",
       "tokens": [
         {
-          "t": "He smote their vines also and their fig trees; and brake the trees of their coasts."
+          "t": "He smote their vines also and their fig trees; and brake the trees of their coasts. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "He spake, and the locusts came, and caterpillers, and that without number,",
       "tokens": [
         {
-          "t": "He spake, and the locusts came, and caterpillers, and that without number,"
+          "t": "He spake, and the locusts came, and caterpillers, and that without number, "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And did eat up all the herbs in their land, and devoured the fruit of their ground.",
       "tokens": [
         {
-          "t": "And did eat up all the herbs in their land, and devoured the fruit of their ground."
+          "t": "And did eat up all the herbs in their land, and devoured the fruit of their ground. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "He smote also all the firstborn in their land, the chief of all their strength.",
       "tokens": [
         {
-          "t": "He smote also all the firstborn in their land, the chief of all their strength."
+          "t": "He smote also all the firstborn in their land, the chief of all their strength. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "He brought them forth also with silver and gold: and there was not one feeble person among their tribes.",
       "tokens": [
         {
-          "t": "He brought them forth also with silver and gold: and"
+          "t": "He brought them forth also with silver and gold: and "
         },
         {
           "add": "there was"
         },
         {
-          "t": "not one feeble"
+          "t": " not one feeble "
         },
         {
           "add": "person"
         },
         {
-          "t": "among their tribes."
+          "t": " among their tribes. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "Egypt was glad when they departed: for the fear of them fell upon them.",
       "tokens": [
         {
-          "t": "Egypt was glad when they departed: for the fear of them fell upon them."
+          "t": "Egypt was glad when they departed: for the fear of them fell upon them. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "He spread a cloud for a covering; and fire to give light in the night.",
       "tokens": [
         {
-          "t": "He spread a cloud for a covering; and fire to give light in the night."
+          "t": "He spread a cloud for a covering; and fire to give light in the night. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "The people asked, and he brought quails, and satisfied them with the bread of heaven.",
       "tokens": [
         {
           "add": "The people"
         },
         {
-          "t": "asked, and he brought quails, and satisfied them with the bread of heaven."
+          "t": " asked, and he brought quails, and satisfied them with the bread of heaven. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "He opened the rock, and the waters gushed out; they ran in the dry places like a river.",
       "tokens": [
         {
-          "t": "He opened the rock, and the waters gushed out; they ran in the dry places"
+          "t": "He opened the rock, and the waters gushed out; they ran in the dry places "
         },
         {
           "add": "like"
         },
         {
-          "t": "a river."
+          "t": " a river. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "For he remembered his holy promise, and Abraham his servant.",
       "tokens": [
         {
-          "t": "For he remembered his holy promise,"
+          "t": "For he remembered his holy promise, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Abraham his servant."
+          "t": " Abraham his servant. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "And he brought forth his people with joy, and his chosen with gladness:",
       "tokens": [
         {
-          "t": "And he brought forth his people with joy,"
+          "t": "And he brought forth his people with joy, "
         },
         {
           "add": "and"
         },
         {
-          "t": "his chosen with gladness:"
+          "t": " his chosen with gladness: "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And gave them the lands of the heathen: and they inherited the labour of the people;",
       "tokens": [
         {
-          "t": "And gave them the lands of the heathen: and they inherited the labour of the people;"
+          "t": "And gave them the lands of the heathen: and they inherited the labour of the people; "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "That they might observe his statutes, and keep his laws. Praise ye the LORD.",
       "tokens": [
         {
-          "t": "That they might observe his statutes, and keep his laws. Praise ye the"
+          "t": "That they might observe his statutes, and keep his laws. Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

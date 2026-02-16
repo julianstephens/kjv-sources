@@ -7,316 +7,346 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Eliphaz the Temanite answered and said,",
       "tokens": [
         {
-          "t": "Then Eliphaz the Temanite answered and said,"
+          "t": "Then Eliphaz the Temanite answered and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Can a man be profitable unto God, as he that is wise may be profitable unto himself?",
       "tokens": [
         {
-          "t": "Can a man be profitable unto God, as he that is wise may be profitable unto himself?"
+          "t": "Can a man be profitable unto God, as he that is wise may be profitable unto himself? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Is it any pleasure to the Almighty, that thou art righteous? or is it gain to him, that thou makest thy ways perfect?",
       "tokens": [
         {
           "add": "Is it"
         },
         {
-          "t": "any pleasure to the Almighty, that thou art righteous? or"
+          "t": " any pleasure to the Almighty, that thou art righteous? or "
         },
         {
           "add": "is it"
         },
         {
-          "t": "gain"
+          "t": " gain "
         },
         {
           "add": "to him"
         },
         {
-          "t": ", that thou makest thy ways perfect?"
+          "t": ", that thou makest thy ways perfect? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Will he reprove thee for fear of thee? will he enter with thee into judgment?",
       "tokens": [
         {
-          "t": "Will he reprove thee for fear of thee? will he enter with thee into judgment?"
+          "t": "Will he reprove thee for fear of thee? will he enter with thee into judgment? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Is not thy wickedness great? and thine iniquities infinite?",
       "tokens": [
         {
           "add": "Is"
         },
         {
-          "t": "not thy wickedness great? and thine iniquities infinite?"
+          "t": " not thy wickedness great? and thine iniquities infinite? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.",
       "tokens": [
         {
-          "t": "For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing."
+          "t": "For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.",
       "tokens": [
         {
-          "t": "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry."
+          "t": "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But as for the mighty man, he had the earth; and the honourable man dwelt in it.",
       "tokens": [
         {
-          "t": "But"
+          "t": "But "
         },
         {
           "add": "as for"
         },
         {
-          "t": "the mighty man, he had the earth; and the honourable man dwelt in it."
+          "t": " the mighty man, he had the earth; and the honourable man dwelt in it. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Thou hast sent widows away empty, and the arms of the fatherless have been broken.",
       "tokens": [
         {
-          "t": "Thou hast sent widows away empty, and the arms of the fatherless have been broken."
+          "t": "Thou hast sent widows away empty, and the arms of the fatherless have been broken. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Therefore snares are round about thee, and sudden fear troubleth thee;",
       "tokens": [
         {
-          "t": "Therefore snares"
+          "t": "Therefore snares "
         },
         {
           "add": "are"
         },
         {
-          "t": "round about thee, and sudden fear troubleth thee;"
+          "t": " round about thee, and sudden fear troubleth thee; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Or darkness, that thou canst not see; and abundance of waters cover thee.",
       "tokens": [
         {
-          "t": "Or darkness,"
+          "t": "Or darkness, "
         },
         {
           "add": "that"
         },
         {
-          "t": "thou canst not see; and abundance of waters cover thee."
+          "t": " thou canst not see; and abundance of waters cover thee. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Is not God in the height of heaven? and behold the height of the stars, how high they are!",
       "tokens": [
         {
           "add": "Is"
         },
         {
-          "t": "not God in the height of heaven? and behold the height of the stars, how high they are!"
+          "t": " not God in the height of heaven? and behold the height of the stars, how high they are! "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And thou sayest, How doth God know? can he judge through the dark cloud?",
       "tokens": [
         {
-          "t": "And thou sayest, How doth God know? can he judge through the dark cloud?"
+          "t": "And thou sayest, How doth God know? can he judge through the dark cloud? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven.",
       "tokens": [
         {
-          "t": "Thick clouds"
+          "t": "Thick clouds "
         },
         {
           "add": "are"
         },
         {
-          "t": "a covering to him, that he seeth not; and he walketh in the circuit of heaven."
+          "t": " a covering to him, that he seeth not; and he walketh in the circuit of heaven. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Hast thou marked the old way which wicked men have trodden?",
       "tokens": [
         {
-          "t": "Hast thou marked the old way which wicked men have trodden?"
+          "t": "Hast thou marked the old way which wicked men have trodden? "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Which were cut down out of time, whose foundation was overflown with a flood:",
       "tokens": [
         {
-          "t": "Which were cut down out of time, whose foundation was overflown with a flood:"
+          "t": "Which were cut down out of time, whose foundation was overflown with a flood: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Which said unto God, Depart from us: and what can the Almighty do for them?",
       "tokens": [
         {
-          "t": "Which said unto God, Depart from us: and what can the Almighty do for them?"
+          "t": "Which said unto God, Depart from us: and what can the Almighty do for them? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Yet he filled their houses with good things: but the counsel of the wicked is far from me.",
       "tokens": [
         {
-          "t": "Yet he filled their houses with good"
+          "t": "Yet he filled their houses with good "
         },
         {
           "add": "things:"
         },
         {
-          "t": "but the counsel of the wicked is far from me."
+          "t": " but the counsel of the wicked is far from me. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The righteous see it, and are glad: and the innocent laugh them to scorn.",
       "tokens": [
         {
-          "t": "The righteous see"
+          "t": "The righteous see "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and are glad: and the innocent laugh them to scorn."
+          "t": ", and are glad: and the innocent laugh them to scorn. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Whereas our substance is not cut down, but the remnant of them the fire consumeth.",
       "tokens": [
         {
-          "t": "Whereas our substance is not cut down, but the remnant of them the fire consumeth."
+          "t": "Whereas our substance is not cut down, but the remnant of them the fire consumeth. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.",
       "tokens": [
         {
-          "t": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee."
+          "t": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.",
       "tokens": [
         {
-          "t": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart."
+          "t": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.",
       "tokens": [
         {
-          "t": "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles."
+          "t": "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Then shalt thou lay up gold as dust, and the gold of Ophir as the stones of the brooks.",
       "tokens": [
         {
-          "t": "Then shalt thou lay up gold as dust, and the"
+          "t": "Then shalt thou lay up gold as dust, and the "
         },
         {
           "add": "gold"
         },
         {
-          "t": "of Ophir as the stones of the brooks."
+          "t": " of Ophir as the stones of the brooks. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.",
       "tokens": [
         {
-          "t": "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver."
+          "t": "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God.",
       "tokens": [
         {
-          "t": "For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God."
+          "t": "For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.",
       "tokens": [
         {
-          "t": "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows."
+          "t": "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways.",
       "tokens": [
         {
-          "t": "Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways."
+          "t": "Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.",
       "tokens": [
         {
-          "t": "When"
+          "t": "When "
         },
         {
           "add": "men"
         },
         {
-          "t": "are cast down, then thou shalt say,"
+          "t": " are cast down, then thou shalt say, "
         },
         {
           "add": "There is"
         },
         {
-          "t": "lifting up; and he shall save the humble person."
+          "t": " lifting up; and he shall save the humble person. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.",
       "tokens": [
         {
-          "t": "He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands."
+          "t": "He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands. "
         }
       ]
     }

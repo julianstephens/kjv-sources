@@ -7,354 +7,379 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.",
       "tokens": [
         {
-          "t": "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the"
+          "t": "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Set thine house in order: for thou shalt die, and not live."
+          "t": ", Set thine house in order: for thou shalt die, and not live. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Then Hezekiah turned his face toward the wall, and prayed unto the LORD,",
       "tokens": [
         {
-          "t": "Then Hezekiah turned his face toward the wall, and prayed unto the"
+          "t": "Then Hezekiah turned his face toward the wall, and prayed unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And said, Remember now, O LORD, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore.",
       "tokens": [
         {
-          "t": "And said, Remember now, O"
+          "t": "And said, Remember now, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done"
+          "t": ", I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "good in thy sight. And Hezekiah wept sore."
+          "t": " good in thy sight. And Hezekiah wept sore. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ Then came the word of the LORD to Isaiah, saying,",
       "tokens": [
         {
-          "t": "¶ Then came the word of the"
+          "t": "¶ Then came the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to Isaiah, saying,"
+          "t": " to Isaiah, saying, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.",
       "tokens": [
         {
-          "t": "Go, and say to Hezekiah, Thus saith the"
+          "t": "Go, and say to Hezekiah, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years."
+          "t": ", the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.",
       "tokens": [
         {
-          "t": "And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city."
+          "t": "And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And this shall be a sign unto thee from the LORD, that the LORD will do this thing that he hath spoken;",
       "tokens": [
         {
-          "t": "And this"
+          "t": "And this "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a sign unto thee from the"
+          "t": " a sign unto thee from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that the"
+          "t": ", that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will do this thing that he hath spoken;"
+          "t": " will do this thing that he hath spoken; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.",
       "tokens": [
         {
-          "t": "Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down."
+          "t": "Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:",
       "tokens": [
         {
-          "t": "¶ The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:"
+          "t": "¶ The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years.",
       "tokens": [
         {
-          "t": "I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years."
+          "t": "I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "I said, I shall not see the LORD, even the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world.",
       "tokens": [
         {
-          "t": "I said, I shall not see the"
+          "t": "I said, I shall not see the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "even"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", in the land of the living: I shall behold man no more with the inhabitants of the world."
+          "t": ", in the land of the living: I shall behold man no more with the inhabitants of the world. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt thou make an end of me.",
       "tokens": [
         {
-          "t": "Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day"
+          "t": "Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day "
         },
         {
           "add": "even"
         },
         {
-          "t": "to night wilt thou make an end of me."
+          "t": " to night wilt thou make an end of me. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "I reckoned till morning, that, as a lion, so will he break all my bones: from day even to night wilt thou make an end of me.",
       "tokens": [
         {
-          "t": "I reckoned till morning,"
+          "t": "I reckoned till morning, "
         },
         {
           "add": "that"
         },
         {
-          "t": ", as a lion, so will he break all my bones: from day"
+          "t": ", as a lion, so will he break all my bones: from day "
         },
         {
           "add": "even"
         },
         {
-          "t": "to night wilt thou make an end of me."
+          "t": " to night wilt thou make an end of me. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Like a crane or a swallow, so did I chatter: I did mourn as a dove: mine eyes fail with looking upward: O LORD, I am oppressed; undertake for me.",
       "tokens": [
         {
-          "t": "Like a crane"
+          "t": "Like a crane "
         },
         {
           "add": "or"
         },
         {
-          "t": "a swallow, so did I chatter: I did mourn as a dove: mine eyes fail"
+          "t": " a swallow, so did I chatter: I did mourn as a dove: mine eyes fail "
         },
         {
           "add": "with looking"
         },
         {
-          "t": "upward: O"
+          "t": " upward: O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I am oppressed; undertake for me."
+          "t": ", I am oppressed; undertake for me. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "What shall I say? he hath both spoken unto me, and himself hath done it: I shall go softly all my years in the bitterness of my soul.",
       "tokens": [
         {
-          "t": "What shall I say? he hath both spoken unto me, and himself hath done"
+          "t": "What shall I say? he hath both spoken unto me, and himself hath done "
         },
         {
           "add": "it:"
         },
         {
-          "t": "I shall go softly all my years in the bitterness of my soul."
+          "t": " I shall go softly all my years in the bitterness of my soul. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "O Lord, by these things men live, and in all these things is the life of my spirit: so wilt thou recover me, and make me to live.",
       "tokens": [
         {
-          "t": "O Lord, by these"
+          "t": "O Lord, by these "
         },
         {
           "add": "things men"
         },
         {
-          "t": "live, and in all these"
+          "t": " live, and in all these "
         },
         {
           "add": "things is"
         },
         {
-          "t": "the life of my spirit: so wilt thou recover me, and make me to live."
+          "t": " the life of my spirit: so wilt thou recover me, and make me to live. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Behold, for peace I had great bitterness: but thou hast in love to my soul delivered it from the pit of corruption: for thou hast cast all my sins behind thy back.",
       "tokens": [
         {
-          "t": "Behold, for peace I had great bitterness: but thou hast in love to my soul"
+          "t": "Behold, for peace I had great bitterness: but thou hast in love to my soul "
         },
         {
           "add": "delivered it"
         },
         {
-          "t": "from the pit of corruption: for thou hast cast all my sins behind thy back."
+          "t": " from the pit of corruption: for thou hast cast all my sins behind thy back. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For the grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth.",
       "tokens": [
         {
-          "t": "For the grave cannot praise thee, death can"
+          "t": "For the grave cannot praise thee, death can "
         },
         {
           "add": "not"
         },
         {
-          "t": "celebrate thee: they that go down into the pit cannot hope for thy truth."
+          "t": " celebrate thee: they that go down into the pit cannot hope for thy truth. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The living, the living, he shall praise thee, as I do this day: the father to the children shall make known thy truth.",
       "tokens": [
         {
-          "t": "The living, the living, he shall praise thee, as I"
+          "t": "The living, the living, he shall praise thee, as I "
         },
         {
           "add": "do"
         },
         {
-          "t": "this day: the father to the children shall make known thy truth."
+          "t": " this day: the father to the children shall make known thy truth. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The LORD was ready to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the LORD.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "was ready"
         },
         {
-          "t": "to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the"
+          "t": " to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For Isaiah had said, Let them take a lump of figs, and lay it for a plaister upon the boil, and he shall recover.",
       "tokens": [
         {
-          "t": "For Isaiah had said, Let them take a lump of figs, and lay"
+          "t": "For Isaiah had said, Let them take a lump of figs, and lay "
         },
         {
           "add": "it"
         },
         {
-          "t": "for a plaister upon the boil, and he shall recover."
+          "t": " for a plaister upon the boil, and he shall recover. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Hezekiah also had said, What is the sign that I shall go up to the house of the LORD?",
       "tokens": [
         {
-          "t": "Hezekiah also had said, What"
+          "t": "Hezekiah also had said, What "
         },
         {
           "add": "is"
         },
         {
-          "t": "the sign that I shall go up to the house of the"
+          "t": " the sign that I shall go up to the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     }

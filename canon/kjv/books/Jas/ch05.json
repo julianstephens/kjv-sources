@@ -7,197 +7,217 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Go to now, ye rich men, weep and howl for your miseries that shall come upon you.",
       "tokens": [
         {
-          "t": "Go to now,"
+          "t": "Go to now, "
         },
         {
           "add": "ye"
         },
         {
-          "t": "rich men, weep and howl for your miseries that shall come upon"
+          "t": " rich men, weep and howl for your miseries that shall come upon "
         },
         {
           "add": "you"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Your riches are corrupted, and your garments are motheaten.",
       "tokens": [
         {
-          "t": "Your riches are corrupted, and your garments are motheaten."
+          "t": "Your riches are corrupted, and your garments are motheaten. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.",
       "tokens": [
         {
-          "t": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days."
+          "t": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.",
       "tokens": [
         {
-          "t": "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth."
+          "t": "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.",
       "tokens": [
         {
-          "t": "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter."
+          "t": "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Ye have condemned and killed the just; and he doth not resist you.",
       "tokens": [
         {
-          "t": "Ye have condemned"
+          "t": "Ye have condemned "
         },
         {
           "add": "and"
         },
         {
-          "t": "killed the just;"
+          "t": " killed the just; "
         },
         {
           "add": "and"
         },
         {
-          "t": "he doth not resist you."
+          "t": " he doth not resist you. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.",
       "tokens": [
         {
-          "t": "Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain."
+          "t": "Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh.",
       "tokens": [
         {
-          "t": "Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh."
+          "t": "Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door.",
       "tokens": [
         {
-          "t": "Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door."
+          "t": "Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.",
       "tokens": [
         {
-          "t": "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience."
+          "t": "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.",
       "tokens": [
         {
-          "t": "Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy."
+          "t": "Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.",
       "tokens": [
         {
-          "t": "But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and"
+          "t": "But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and "
         },
         {
           "add": "your"
         },
         {
-          "t": "nay, nay; lest ye fall into condemnation."
+          "t": " nay, nay; lest ye fall into condemnation. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Is any among you afflicted? let him pray. Is any merry? let him sing psalms.",
       "tokens": [
         {
-          "t": "Is any among you afflicted? let him pray. Is any merry? let him sing psalms."
+          "t": "Is any among you afflicted? let him pray. Is any merry? let him sing psalms. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:",
       "tokens": [
         {
-          "t": "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:"
+          "t": "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.",
       "tokens": [
         {
-          "t": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him."
+          "t": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.",
       "tokens": [
         {
-          "t": "Confess"
+          "t": "Confess "
         },
         {
           "add": "your"
         },
         {
-          "t": "faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much."
+          "t": " faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.",
       "tokens": [
         {
-          "t": "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months."
+          "t": "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit.",
       "tokens": [
         {
-          "t": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit."
+          "t": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Brethren, if any of you do err from the truth, and one convert him;",
       "tokens": [
         {
-          "t": "Brethren, if any of you do err from the truth, and one convert him;"
+          "t": "Brethren, if any of you do err from the truth, and one convert him; "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.",
       "tokens": [
         {
-          "t": "Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins."
+          "t": "Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins. "
         }
       ]
     }

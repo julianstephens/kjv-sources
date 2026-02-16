@@ -1,0 +1,224 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 32,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Blessed is he whose transgression is forgiven, whose sin is covered.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "is he whose"
+        },
+        {
+          "t": " transgression "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " forgiven, "
+        },
+        {
+          "add": "whose"
+        },
+        {
+          "t": " sin "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " covered. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the man unto whom the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " imputeth not iniquity, and in whose spirit "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " no guile. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "When I kept silence, my bones waxed old through my roaring all the day long.",
+      "tokens": [
+        {
+          "t": "When I kept silence, my bones waxed old through my roaring all the day long. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.",
+      "tokens": [
+        {
+          "t": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.",
+      "tokens": [
+        {
+          "t": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; and thou forgavest the iniquity of my sin. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.",
+      "tokens": [
+        {
+          "t": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
+      "tokens": [
+        {
+          "t": "Thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
+      "tokens": [
+        {
+          "t": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.",
+      "tokens": [
+        {
+          "t": "Be ye not as the horse, "
+        },
+        {
+          "add": "or"
+        },
+        {
+          "t": " as the mule, "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about.",
+      "tokens": [
+        {
+          "t": "Many sorrows "
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": " to the wicked: but he that trusteth in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", mercy shall compass him about. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.",
+      "tokens": [
+        {
+          "t": "Be glad in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and rejoice, ye righteous: and shout for joy, all "
+        },
+        {
+          "add": "ye that are"
+        },
+        {
+          "t": " upright in heart. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "A Psalm…: or, A Psalm of David giving instruction"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "when…: Heb. of finding"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 8
+      },
+      "text": "guide…: Heb. counsel thee, mine eye shall be upon thee"
+    }
+  ]
+}

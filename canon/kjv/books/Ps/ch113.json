@@ -7,178 +7,190 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD.",
       "tokens": [
         {
-          "t": "Praise ye the"
+          "t": "Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". Praise, O ye servants of the"
+          "t": ". Praise, O ye servants of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", praise the name of the"
+          "t": ", praise the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Blessed be the name of the LORD from this time forth and for evermore.",
       "tokens": [
         {
-          "t": "Blessed be the name of the"
+          "t": "Blessed be the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "from this time forth and for evermore."
+          "t": " from this time forth and for evermore. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "From the rising of the sun unto the going down of the same the LORD’s name is to be praised.",
       "tokens": [
         {
-          "t": "From the rising of the sun unto the going down of the same the"
+          "t": "From the rising of the sun unto the going down of the same the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "name"
+          "t": " name "
         },
         {
           "add": "is"
         },
         {
-          "t": "to be praised."
+          "t": " to be praised. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The LORD is high above all nations, and his glory above the heavens.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "high above all nations,"
+          "t": " high above all nations, "
         },
         {
           "add": "and"
         },
         {
-          "t": "his glory above the heavens."
+          "t": " his glory above the heavens. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Who is like unto the LORD our God, who dwelleth on high,",
       "tokens": [
         {
-          "t": "Who"
+          "t": "Who "
         },
         {
           "add": "is"
         },
         {
-          "t": "like unto the"
+          "t": " like unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God, who dwelleth on high,"
+          "t": " our God, who dwelleth on high, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Who humbleth himself to behold the things that are in heaven, and in the earth!",
       "tokens": [
         {
-          "t": "Who humbleth"
+          "t": "Who humbleth "
         },
         {
           "add": "himself"
         },
         {
-          "t": "to behold"
+          "t": " to behold "
         },
         {
           "add": "the things that are"
         },
         {
-          "t": "in heaven, and in the earth!"
+          "t": " in heaven, and in the earth! "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "He raiseth up the poor out of the dust, and lifteth the needy out of the dunghill;",
       "tokens": [
         {
-          "t": "He raiseth up the poor out of the dust,"
+          "t": "He raiseth up the poor out of the dust, "
         },
         {
           "add": "and"
         },
         {
-          "t": "lifteth the needy out of the dunghill;"
+          "t": " lifteth the needy out of the dunghill; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "That he may set him with princes, even with the princes of his people.",
       "tokens": [
         {
-          "t": "That he may set"
+          "t": "That he may set "
         },
         {
           "add": "him"
         },
         {
-          "t": "with princes,"
+          "t": " with princes, "
         },
         {
           "add": "even"
         },
         {
-          "t": "with the princes of his people."
+          "t": " with the princes of his people. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the LORD.",
       "tokens": [
         {
-          "t": "He maketh the barren woman to keep house,"
+          "t": "He maketh the barren woman to keep house, "
         },
         {
           "add": "and to be"
         },
         {
-          "t": "a joyful mother of children. Praise ye the"
+          "t": " a joyful mother of children. Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

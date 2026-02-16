@@ -7,277 +7,310 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I will extol thee, my God, O king; and I will bless thy name for ever and ever.",
       "tokens": [
         {
-          "t": "I will extol thee, my God, O king; and I will bless thy name for ever and ever."
+          "t": "I will extol thee, my God, O king; and I will bless thy name for ever and ever. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Every day will I bless thee; and I will praise thy name for ever and ever.",
       "tokens": [
         {
-          "t": "Every day will I bless thee; and I will praise thy name for ever and ever."
+          "t": "Every day will I bless thee; and I will praise thy name for ever and ever. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Great is the LORD, and greatly to be praised; and his greatness is unsearchable.",
       "tokens": [
         {
-          "t": "Great"
+          "t": "Great "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and greatly to be praised; and his greatness"
+          "t": ", and greatly to be praised; and his greatness "
         },
         {
           "add": "is"
         },
         {
-          "t": "unsearchable."
+          "t": " unsearchable. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "One generation shall praise thy works to another, and shall declare thy mighty acts.",
       "tokens": [
         {
-          "t": "One generation shall praise thy works to another, and shall declare thy mighty acts."
+          "t": "One generation shall praise thy works to another, and shall declare thy mighty acts. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "I will speak of the glorious honour of thy majesty, and of thy wondrous works.",
       "tokens": [
         {
-          "t": "I will speak of the glorious honour of thy majesty, and of thy wondrous works."
+          "t": "I will speak of the glorious honour of thy majesty, and of thy wondrous works. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And men shall speak of the might of thy terrible acts: and I will declare thy greatness.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "men"
         },
         {
-          "t": "shall speak of the might of thy terrible acts: and I will declare thy greatness."
+          "t": " shall speak of the might of thy terrible acts: and I will declare thy greatness. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness.",
       "tokens": [
         {
-          "t": "They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness."
+          "t": "They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The LORD is gracious, and full of compassion; slow to anger, and of great mercy.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "gracious, and full of compassion; slow to anger, and of great mercy."
+          "t": " gracious, and full of compassion; slow to anger, and of great mercy. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The LORD is good to all: and his tender mercies are over all his works.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "good to all: and his tender mercies"
+          "t": " good to all: and his tender mercies "
         },
         {
           "add": "are"
         },
         {
-          "t": "over all his works."
+          "t": " over all his works. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "All thy works shall praise thee, O LORD; and thy saints shall bless thee.",
       "tokens": [
         {
-          "t": "All thy works shall praise thee, O"
+          "t": "All thy works shall praise thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and thy saints shall bless thee."
+          "t": "; and thy saints shall bless thee. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "They shall speak of the glory of thy kingdom, and talk of thy power;",
       "tokens": [
         {
-          "t": "They shall speak of the glory of thy kingdom, and talk of thy power;"
+          "t": "They shall speak of the glory of thy kingdom, and talk of thy power; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.",
       "tokens": [
         {
-          "t": "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom."
+          "t": "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations.",
       "tokens": [
         {
-          "t": "Thy kingdom"
+          "t": "Thy kingdom "
         },
         {
           "add": "is"
         },
         {
-          "t": "an everlasting kingdom, and thy dominion"
+          "t": " an everlasting kingdom, and thy dominion "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "throughout all generations."
+          "t": " throughout all generations. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The LORD upholdeth all that fall, and raiseth up all those that be bowed down.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "upholdeth all that fall, and raiseth up all"
+          "t": " upholdeth all that fall, and raiseth up all "
         },
         {
           "add": "those that be"
         },
         {
-          "t": "bowed down."
+          "t": " bowed down. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The eyes of all wait upon thee; and thou givest them their meat in due season.",
       "tokens": [
         {
-          "t": "The eyes of all wait upon thee; and thou givest them their meat in due season."
+          "t": "The eyes of all wait upon thee; and thou givest them their meat in due season. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Thou openest thine hand, and satisfiest the desire of every living thing.",
       "tokens": [
         {
-          "t": "Thou openest thine hand, and satisfiest the desire of every living thing."
+          "t": "Thou openest thine hand, and satisfiest the desire of every living thing. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "The LORD is righteous in all his ways, and holy in all his works.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "righteous in all his ways, and holy in all his works."
+          "t": " righteous in all his ways, and holy in all his works. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "The LORD is nigh unto all them that call upon him, to all that call upon him in truth.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "nigh unto all them that call upon him, to all that call upon him in truth."
+          "t": " nigh unto all them that call upon him, to all that call upon him in truth. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.",
       "tokens": [
         {
-          "t": "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them."
+          "t": "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The LORD preserveth all them that love him: but all the wicked will he destroy.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "preserveth all them that love him: but all the wicked will he destroy."
+          "t": " preserveth all them that love him: but all the wicked will he destroy. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever.",
       "tokens": [
         {
-          "t": "My mouth shall speak the praise of the"
+          "t": "My mouth shall speak the praise of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and let all flesh bless his holy name for ever and ever."
+          "t": ": and let all flesh bless his holy name for ever and ever. "
         }
       ]
     }

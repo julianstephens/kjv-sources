@@ -7,405 +7,439 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac.",
       "tokens": [
         {
-          "t": "And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac."
+          "t": "And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I.",
       "tokens": [
         {
-          "t": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here"
+          "t": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here "
         },
         {
           "add": "am"
         },
         {
-          "t": "I."
+          "t": " I. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:",
       "tokens": [
         {
-          "t": "And he said, I"
+          "t": "And he said, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:"
+          "t": " God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes.",
       "tokens": [
         {
-          "t": "I will go down with thee into Egypt; and I will also surely bring thee up"
+          "t": "I will go down with thee into Egypt; and I will also surely bring thee up "
         },
         {
           "add": "again:"
         },
         {
-          "t": "and Joseph shall put his hand upon thine eyes."
+          "t": " and Joseph shall put his hand upon thine eyes. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Jacob rose up from Beer-sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.",
       "tokens": [
         {
-          "t": "And Jacob rose up from Beer-sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him."
+          "t": "And Jacob rose up from Beer-sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:",
       "tokens": [
         {
-          "t": "And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:"
+          "t": "And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt.",
       "tokens": [
         {
-          "t": "His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt."
+          "t": "His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.",
       "tokens": [
         {
-          "t": "¶ And these"
+          "t": "¶ And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn."
+          "t": " the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.",
       "tokens": [
         {
-          "t": "And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi."
+          "t": "And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.",
       "tokens": [
         {
-          "t": "¶ And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman."
+          "t": "¶ And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And the sons of Levi; Gershon, Kohath, and Merari.",
       "tokens": [
         {
-          "t": "¶ And the sons of Levi; Gershon, Kohath, and Merari."
+          "t": "¶ And the sons of Levi; Gershon, Kohath, and Merari. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.",
       "tokens": [
         {
-          "t": "¶ And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul."
+          "t": "¶ And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.",
       "tokens": [
         {
-          "t": "¶ And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron."
+          "t": "¶ And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And the sons of Zebulun; Sered, and Elon, and Jahleel.",
       "tokens": [
         {
-          "t": "¶ And the sons of Zebulun; Sered, and Elon, and Jahleel."
+          "t": "¶ And the sons of Zebulun; Sered, and Elon, and Jahleel. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "These be the sons of Leah, which she bare unto Jacob in Padan-aram, with his daughter Dinah: all the souls of his sons and his daughters were thirty and three.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "be"
         },
         {
-          "t": "the sons of Leah, which she bare unto Jacob in Padan-aram, with his daughter Dinah: all the souls of his sons and his daughters"
+          "t": " the sons of Leah, which she bare unto Jacob in Padan-aram, with his daughter Dinah: all the souls of his sons and his daughters "
         },
         {
           "add": "were"
         },
         {
-          "t": "thirty and three."
+          "t": " thirty and three. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.",
       "tokens": [
         {
-          "t": "¶ And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli."
+          "t": "¶ And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.",
       "tokens": [
         {
-          "t": "¶ And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel."
+          "t": "¶ And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob,"
+          "t": " the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, "
         },
         {
           "add": "even"
         },
         {
-          "t": "sixteen souls."
+          "t": " sixteen souls. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The sons of Rachel Jacob’s wife; Joseph, and Benjamin.",
       "tokens": [
         {
-          "t": "The sons of Rachel Jacob’s wife; Joseph, and Benjamin."
+          "t": "The sons of Rachel Jacob’s wife; Joseph, and Benjamin. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Poti-pherah priest of On bare unto him.",
       "tokens": [
         {
-          "t": "¶ And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Poti-pherah priest of On bare unto him."
+          "t": "¶ And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Poti-pherah priest of On bare unto him. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.",
       "tokens": [
         {
-          "t": "¶ And the sons of Benjamin"
+          "t": "¶ And the sons of Benjamin "
         },
         {
           "add": "were"
         },
         {
-          "t": "Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard."
+          "t": " Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "These are the sons of Rachel, which were born to Jacob: all the souls were fourteen.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the sons of Rachel, which were born to Jacob: all the souls"
+          "t": " the sons of Rachel, which were born to Jacob: all the souls "
         },
         {
           "add": "were"
         },
         {
-          "t": "fourteen."
+          "t": " fourteen. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ And the sons of Dan; Hushim.",
       "tokens": [
         {
-          "t": "¶ And the sons of Dan; Hushim."
+          "t": "¶ And the sons of Dan; Hushim. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.",
       "tokens": [
         {
-          "t": "¶ And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem."
+          "t": "¶ And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls"
+          "t": " the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls "
         },
         {
           "add": "were"
         },
         {
-          "t": "seven."
+          "t": " seven. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls were threescore and six;",
       "tokens": [
         {
-          "t": "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls"
+          "t": "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls "
         },
         {
           "add": "were"
         },
         {
-          "t": "threescore and six;"
+          "t": " threescore and six; "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were threescore and ten.",
       "tokens": [
         {
-          "t": "And the sons of Joseph, which were born him in Egypt,"
+          "t": "And the sons of Joseph, which were born him in Egypt, "
         },
         {
           "add": "were"
         },
         {
-          "t": "two souls: all the souls of the house of Jacob, which came into Egypt,"
+          "t": " two souls: all the souls of the house of Jacob, which came into Egypt, "
         },
         {
           "add": "were"
         },
         {
-          "t": "threescore and ten."
+          "t": " threescore and ten. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.",
       "tokens": [
         {
-          "t": "¶ And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen."
+          "t": "¶ And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.",
       "tokens": [
         {
-          "t": "And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while."
+          "t": "And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive.",
       "tokens": [
         {
-          "t": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou"
+          "t": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "yet alive."
+          "t": " yet alive. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which were in the land of Canaan, are come unto me;",
       "tokens": [
         {
-          "t": "And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which"
+          "t": "And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which "
         },
         {
           "add": "were"
         },
         {
-          "t": "in the land of Canaan, are come unto me;"
+          "t": " in the land of Canaan, are come unto me; "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And the men are shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.",
       "tokens": [
         {
-          "t": "And the men"
+          "t": "And the men "
         },
         {
           "add": "are"
         },
         {
-          "t": "shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have."
+          "t": " shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?",
       "tokens": [
         {
-          "t": "And it shall come to pass, when Pharaoh shall call you, and shall say, What"
+          "t": "And it shall come to pass, when Pharaoh shall call you, and shall say, What "
         },
         {
           "add": "is"
         },
         {
-          "t": "your occupation?"
+          "t": " your occupation? "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.",
       "tokens": [
         {
-          "t": "That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we,"
+          "t": "That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, "
         },
         {
           "add": "and"
         },
         {
-          "t": "also our fathers: that ye may dwell in the land of Goshen; for every shepherd"
+          "t": " also our fathers: that ye may dwell in the land of Goshen; for every shepherd "
         },
         {
           "add": "is"
         },
         {
-          "t": "an abomination unto the Egyptians."
+          "t": " an abomination unto the Egyptians. "
         }
       ]
     }

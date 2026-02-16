@@ -7,344 +7,601 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,",
       "tokens": [
         {
-          "t": "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,"
+          "t": "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me.",
       "tokens": [
         {
-          "t": "Saying unto them,"
-        }
-      ]
-    },
-    {
-      "v": 3,
-      "tokens": null
-    },
-    {
-      "v": 4,
-      "tokens": [
-        {
-          "t": "All this was done, that it might be fulfilled which was spoken by the prophet, saying,"
-        }
-      ]
-    },
-    {
-      "v": 5,
-      "tokens": [
-        {
-          "t": "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass."
-        }
-      ]
-    },
-    {
-      "v": 6,
-      "tokens": [
-        {
-          "t": "And the disciples went, and did as Jesus commanded them,"
-        }
-      ]
-    },
-    {
-      "v": 7,
-      "tokens": [
-        {
-          "t": "And brought the ass, and the colt, and put on them their clothes, and they set"
+          "t": "Saying unto them, "
         },
         {
-          "add": "him"
-        },
-        {
-          "t": "thereon."
-        }
-      ]
-    },
-    {
-      "v": 8,
-      "tokens": [
-        {
-          "t": "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed"
+          "t": "Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose "
         },
         {
           "add": "them"
         },
         {
-          "t": "in the way."
+          "t": ", and bring "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " unto me."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.",
+      "tokens": [
+        {
+          "t": "And if any "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": " say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "All this was done, that it might be fulfilled which was spoken by the prophet, saying,",
+      "tokens": [
+        {
+          "t": "All this was done, that it might be fulfilled which was spoken by the prophet, saying, "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.",
+      "tokens": [
+        {
+          "t": "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "And the disciples went, and did as Jesus commanded them,",
+      "tokens": [
+        {
+          "t": "And the disciples went, and did as Jesus commanded them, "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "And brought the ass, and the colt, and put on them their clothes, and they set him thereon.",
+      "tokens": [
+        {
+          "t": "And brought the ass, and the colt, and put on them their clothes, and they set "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " thereon. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed them in the way.",
+      "tokens": [
+        {
+          "t": "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " in the way. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.",
       "tokens": [
         {
-          "t": "And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed"
+          "t": "And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed "
         },
         {
           "add": "is"
         },
         {
-          "t": "he that cometh in the name of the Lord; Hosanna in the highest."
+          "t": " he that cometh in the name of the Lord; Hosanna in the highest. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And when he was come into Jerusalem, all the city was moved, saying, Who is this?",
       "tokens": [
         {
-          "t": "And when he was come into Jerusalem, all the city was moved, saying, Who is this?"
+          "t": "And when he was come into Jerusalem, all the city was moved, saying, Who is this? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the multitude said, This is Jesus the prophet of Nazareth of Galilee.",
       "tokens": [
         {
-          "t": "And the multitude said, This is Jesus the prophet of Nazareth of Galilee."
+          "t": "And the multitude said, This is Jesus the prophet of Nazareth of Galilee. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,",
       "tokens": [
         {
-          "t": "¶ And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,"
+          "t": "¶ And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.",
       "tokens": [
         {
-          "t": "And said unto them,"
+          "t": "And said unto them, "
+        },
+        {
+          "t": "It is written, My house shall be called the house of prayer; but ye have made it a den of thieves."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the blind and the lame came to him in the temple; and he healed them.",
       "tokens": [
         {
-          "t": "And the blind and the lame came to him in the temple; and he healed them."
+          "t": "And the blind and the lame came to him in the temple; and he healed them. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,",
       "tokens": [
         {
-          "t": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,"
+          "t": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And said unto him, Hearest thou what these say? And Jesus saith unto them, Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?",
       "tokens": [
         {
-          "t": "And said unto him, Hearest thou what these say? And Jesus saith unto them,"
+          "t": "And said unto him, Hearest thou what these say? And Jesus saith unto them, "
+        },
+        {
+          "t": "Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And he left them, and went out of the city into Bethany; and he lodged there.",
       "tokens": [
         {
-          "t": "¶ And he left them, and went out of the city into Bethany; and he lodged there."
+          "t": "¶ And he left them, and went out of the city into Bethany; and he lodged there. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Now in the morning as he returned into the city, he hungered.",
       "tokens": [
         {
-          "t": "Now in the morning as he returned into the city, he hungered."
+          "t": "Now in the morning as he returned into the city, he hungered. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away.",
       "tokens": [
         {
-          "t": "And presently the fig tree withered away."
+          "t": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, "
         },
         {
-          "t": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, And presently the fig tree withered away."
+          "t": "Let no fruit grow on thee henceforward for ever."
+        },
+        {
+          "t": " And presently the fig tree withered away. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And when the disciples saw it, they marvelled, saying, How soon is the fig tree withered away!",
       "tokens": [
         {
-          "t": "And when the disciples saw"
+          "t": "And when the disciples saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they marvelled, saying, How soon is the fig tree withered away!"
+          "t": ", they marvelled, saying, How soon is the fig tree withered away! "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.",
       "tokens": [
         {
-          "t": "Jesus answered and said unto them,"
+          "t": "Jesus answered and said unto them, "
+        },
+        {
+          "t": "Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this "
+        },
+        {
+          "add": "which is done"
+        },
+        {
+          "t": " to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.",
+      "tokens": [
+        {
+          "t": "And all things, whatsoever ye shall ask in prayer, believing, ye shall receive."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
+      "plain": "¶ And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
       "tokens": [
         {
-          "t": "¶ And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?"
+          "t": "¶ And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority? "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.",
       "tokens": [
         {
-          "t": "And Jesus answered and said unto them,"
+          "t": "And Jesus answered and said unto them, "
+        },
+        {
+          "t": "I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?",
       "tokens": [
         {
-          "t": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?"
+          "t": "The baptism of John, whence was it? from heaven, or of men?"
         },
         {
-          "t": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?"
+          "t": " And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him? "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "But if we shall say, Of men; we fear the people; for all hold John as a prophet.",
       "tokens": [
         {
-          "t": "But if we shall say, Of men; we fear the people; for all hold John as a prophet."
+          "t": "But if we shall say, Of men; we fear the people; for all hold John as a prophet. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I you by what authority I do these things.",
       "tokens": [
         {
-          "t": "And they answered Jesus, and said, We cannot tell. And he said unto them,"
+          "t": "And they answered Jesus, and said, We cannot tell. And he said unto them, "
+        },
+        {
+          "t": "Neither tell I you by what authority I do these things."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "¶ But what think ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.",
+      "tokens": [
+        {
+          "t": "¶ But what think ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "He answered and said, I will not: but afterward he repented, and went.",
+      "tokens": [
+        {
+          "t": "He answered and said, I will not: but afterward he repented, and went."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "And he came to the second, and said likewise. And he answered and said, I go, sir: and went not.",
+      "tokens": [
+        {
+          "t": "And he came to the second, and said likewise. And he answered and said, I "
+        },
+        {
+          "add": "go"
+        },
+        {
+          "t": ", sir: and went not."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
+      "plain": "Whether of them twain did the will of his father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you.",
       "tokens": [
         {
-          "t": "They say unto him, The first. Jesus saith unto them,"
+          "t": "Whether of them twain did the will of his father?"
         },
         {
-          "t": "They say unto him, The first. Jesus saith unto them,"
+          "t": " They say unto him, The first. Jesus saith unto them, "
+        },
+        {
+          "t": "Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen it, repented not afterward, that ye might believe him.",
+      "tokens": [
+        {
+          "t": "For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", repented not afterward, that ye might believe him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
+      "plain": "¶ Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:",
+      "tokens": [
+        {
+          "t": "¶ Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 34,
-      "tokens": null
+      "plain": "And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it.",
+      "tokens": [
+        {
+          "t": "And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 35,
-      "tokens": null
+      "plain": "And the husbandmen took his servants, and beat one, and killed another, and stoned another.",
+      "tokens": [
+        {
+          "t": "And the husbandmen took his servants, and beat one, and killed another, and stoned another."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 36,
-      "tokens": null
+      "plain": "Again, he sent other servants more than the first: and they did unto them likewise.",
+      "tokens": [
+        {
+          "t": "Again, he sent other servants more than the first: and they did unto them likewise."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 37,
-      "tokens": null
+      "plain": "But last of all he sent unto them his son, saying, They will reverence my son.",
+      "tokens": [
+        {
+          "t": "But last of all he sent unto them his son, saying, They will reverence my son."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 38,
-      "tokens": null
+      "plain": "But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance.",
+      "tokens": [
+        {
+          "t": "But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 39,
-      "tokens": null
+      "plain": "And they caught him, and cast him out of the vineyard, and slew him.",
+      "tokens": [
+        {
+          "t": "And they caught him, and cast "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " out of the vineyard, and slew "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": "."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 40,
-      "tokens": null
+      "plain": "When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?",
+      "tokens": [
+        {
+          "t": "When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 41,
+      "plain": "They say unto him, He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons.",
       "tokens": [
         {
-          "t": "They say unto him, He will miserably destroy those wicked men, and will let out"
+          "t": "They say unto him, He will miserably destroy those wicked men, and will let out "
         },
         {
           "add": "his"
         },
         {
-          "t": "vineyard unto other husbandmen, which shall render him the fruits in their seasons."
+          "t": " vineyard unto other husbandmen, which shall render him the fruits in their seasons. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?",
       "tokens": [
         {
-          "t": "Jesus saith unto them,"
+          "t": "Jesus saith unto them, "
+        },
+        {
+          "t": "Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 43,
-      "tokens": null
+      "plain": "Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.",
+      "tokens": [
+        {
+          "t": "Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 44,
-      "tokens": null
+      "plain": "And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder.",
+      "tokens": [
+        {
+          "t": "And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 45,
+      "plain": "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.",
       "tokens": [
         {
-          "t": "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them."
+          "t": "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them. "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.",
       "tokens": [
         {
-          "t": "But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet."
+          "t": "But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet. "
         }
       ]
     }

@@ -1,0 +1,302 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 66,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Make a joyful noise unto God, all ye lands:",
+      "tokens": [
+        {
+          "t": "Make a joyful noise unto God, all ye lands: "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Sing forth the honour of his name: make his praise glorious.",
+      "tokens": [
+        {
+          "t": "Sing forth the honour of his name: make his praise glorious. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Say unto God, How terrible art thou in thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.",
+      "tokens": [
+        {
+          "t": "Say unto God, How terrible "
+        },
+        {
+          "add": "art thou in"
+        },
+        {
+          "t": " thy works! through the greatness of thy power shall thine enemies submit themselves unto thee. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.",
+      "tokens": [
+        {
+          "t": "All the earth shall worship thee, and shall sing unto thee; they shall sing "
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": " thy name. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Come and see the works of God: he is terrible in his doing toward the children of men.",
+      "tokens": [
+        {
+          "t": "Come and see the works of God: "
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": " terrible "
+        },
+        {
+          "add": "in his"
+        },
+        {
+          "t": " doing toward the children of men. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "He turned the sea into dry land: they went through the flood on foot: there did we rejoice in him.",
+      "tokens": [
+        {
+          "t": "He turned the sea into dry "
+        },
+        {
+          "add": "land:"
+        },
+        {
+          "t": " they went through the flood on foot: there did we rejoice in him. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.",
+      "tokens": [
+        {
+          "t": "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "O bless our God, ye people, and make the voice of his praise to be heard:",
+      "tokens": [
+        {
+          "t": "O bless our God, ye people, and make the voice of his praise to be heard: "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Which holdeth our soul in life, and suffereth not our feet to be moved.",
+      "tokens": [
+        {
+          "t": "Which holdeth our soul in life, and suffereth not our feet to be moved. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "For thou, O God, hast proved us: thou hast tried us, as silver is tried.",
+      "tokens": [
+        {
+          "t": "For thou, O God, hast proved us: thou hast tried us, as silver is tried. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Thou broughtest us into the net; thou laidst affliction upon our loins.",
+      "tokens": [
+        {
+          "t": "Thou broughtest us into the net; thou laidst affliction upon our loins. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy place.",
+      "tokens": [
+        {
+          "t": "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy "
+        },
+        {
+          "add": "place"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "I will go into thy house with burnt offerings: I will pay thee my vows,",
+      "tokens": [
+        {
+          "t": "I will go into thy house with burnt offerings: I will pay thee my vows, "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Which my lips have uttered, and my mouth hath spoken, when I was in trouble.",
+      "tokens": [
+        {
+          "t": "Which my lips have uttered, and my mouth hath spoken, when I was in trouble. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.",
+      "tokens": [
+        {
+          "t": "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "Come and hear, all ye that fear God, and I will declare what he hath done for my soul.",
+      "tokens": [
+        {
+          "t": "Come "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " hear, all ye that fear God, and I will declare what he hath done for my soul. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "I cried unto him with my mouth, and he was extolled with my tongue.",
+      "tokens": [
+        {
+          "t": "I cried unto him with my mouth, and he was extolled with my tongue. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "If I regard iniquity in my heart, the Lord will not hear me:",
+      "tokens": [
+        {
+          "t": "If I regard iniquity in my heart, the Lord will not hear "
+        },
+        {
+          "add": "me:"
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "But verily God hath heard me; he hath attended to the voice of my prayer.",
+      "tokens": [
+        {
+          "add": "But"
+        },
+        {
+          "t": " verily God hath heard "
+        },
+        {
+          "add": "me;"
+        },
+        {
+          "t": " he hath attended to the voice of my prayer. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "Blessed be God, which hath not turned away my prayer, nor his mercy from me.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " God, which hath not turned away my prayer, nor his mercy from me. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "all…: Heb. all the earth"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "submit…: or, yield feigned obedience: Heb. lie"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 9
+      },
+      "text": "holdeth: Heb. putteth"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 12
+      },
+      "text": "wealthy: Heb. moist"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 14
+      },
+      "text": "uttered: Heb. opened"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 15
+      },
+      "text": "fatlings: Heb. marrow"
+    }
+  ]
+}

@@ -7,513 +7,742 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,",
       "tokens": [
         {
-          "t": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve"
+          "t": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve "
         },
         {
           "add": "were"
         },
         {
-          "t": "with him,"
+          "t": " with him, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,",
       "tokens": [
         {
-          "t": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,"
+          "t": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance.",
       "tokens": [
         {
-          "t": "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance."
+          "t": "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And when much people were gathered together, and were come to him out of every city, he spake by a parable:",
       "tokens": [
         {
-          "t": "¶ And when much people were gathered together, and were come to him out of every city, he spake by a parable:"
+          "t": "¶ And when much people were gathered together, and were come to him out of every city, he spake by a parable: "
         }
       ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it.",
+      "tokens": [
+        {
+          "t": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.",
+      "tokens": [
+        {
+          "t": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "And some fell among thorns; and the thorns sprang up with it, and choked it.",
+      "tokens": [
+        {
+          "t": "And some fell among thorns; and the thorns sprang up with it, and choked it."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
+      "plain": "And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear.",
       "tokens": [
         {
-          "t": "And when he had said these things, he cried,"
+          "t": "And other fell on good ground, and sprang up, and bare fruit an hundredfold."
         },
         {
-          "t": "And when he had said these things, he cried,"
+          "t": " And when he had said these things, he cried, "
+        },
+        {
+          "t": "He that hath ears to hear, let him hear."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And his disciples asked him, saying, What might this parable be?",
       "tokens": [
         {
-          "t": "And his disciples asked him, saying, What might this parable be?"
+          "t": "And his disciples asked him, saying, What might this parable be? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.",
       "tokens": [
         {
-          "t": "And he said,"
+          "t": "And he said, "
+        },
+        {
+          "t": "Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "Now the parable is this: The seed is the word of God.",
+      "tokens": [
+        {
+          "t": "Now the parable is this: The seed is the word of God."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.",
+      "tokens": [
+        {
+          "t": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.",
+      "tokens": [
+        {
+          "t": "They on the rock "
+        },
+        {
+          "add": "are they"
+        },
+        {
+          "t": ", which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection.",
+      "tokens": [
+        {
+          "t": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of "
+        },
+        {
+          "add": "this"
+        },
+        {
+          "t": " life, and bring no fruit to perfection."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.",
+      "tokens": [
+        {
+          "t": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", and bring forth fruit with patience."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "¶ No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light.",
+      "tokens": [
+        {
+          "t": "¶ No man, when he hath lighted a candle, covereth it with a vessel, or putteth "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " under a bed; but setteth "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " on a candlestick, that they which enter in may see the light."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad.",
+      "tokens": [
+        {
+          "t": "For nothing is secret, that shall not be made manifest; neither "
+        },
+        {
+          "add": "any thing"
+        },
+        {
+          "t": " hid, that shall not be known and come abroad."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have.",
+      "tokens": [
+        {
+          "t": "Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
+      "plain": "¶ Then came to him his mother and his brethren, and could not come at him for the press.",
       "tokens": [
         {
-          "t": "¶ Then came to him"
+          "t": "¶ Then came to him "
         },
         {
           "add": "his"
         },
         {
-          "t": "mother and his brethren, and could not come at him for the press."
+          "t": " mother and his brethren, and could not come at him for the press. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee.",
       "tokens": [
         {
-          "t": "And it was told him"
+          "t": "And it was told him "
         },
         {
           "add": "by certain"
         },
         {
-          "t": "which said, Thy mother and thy brethren stand without, desiring to see thee."
+          "t": " which said, Thy mother and thy brethren stand without, desiring to see thee. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.",
       "tokens": [
         {
-          "t": "And he answered and said unto them,"
+          "t": "And he answered and said unto them, "
+        },
+        {
+          "t": "My mother and my brethren are these which hear the word of God, and do it."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.",
       "tokens": [
         {
-          "t": "And they launched forth."
+          "t": "¶ Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, "
         },
         {
-          "t": "¶ Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, And they launched forth."
+          "t": "Let us go over unto the other side of the lake."
+        },
+        {
+          "t": " And they launched forth. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy.",
       "tokens": [
         {
-          "t": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled"
+          "t": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled "
         },
         {
           "add": "with water"
         },
         {
-          "t": ", and were in jeopardy."
+          "t": ", and were in jeopardy. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.",
       "tokens": [
         {
-          "t": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm."
+          "t": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.",
       "tokens": [
         {
-          "t": "And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him."
+          "t": "And he said unto them, "
         },
         {
-          "t": "And he said unto them, And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him."
+          "t": "Where is your faith?"
+        },
+        {
+          "t": " And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ And they arrived at the country of the Gadarenes, which is over against Galilee.",
       "tokens": [
         {
-          "t": "¶ And they arrived at the country of the Gadarenes, which is over against Galilee."
+          "t": "¶ And they arrived at the country of the Gadarenes, which is over against Galilee. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs.",
       "tokens": [
         {
-          "t": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in"
+          "t": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in "
         },
         {
           "add": "any"
         },
         {
-          "t": "house, but in the tombs."
+          "t": " house, but in the tombs. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not.",
       "tokens": [
         {
-          "t": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus,"
+          "t": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, "
         },
         {
           "add": "thou"
         },
         {
-          "t": "Son of God most high? I beseech thee, torment me not."
+          "t": " Son of God most high? I beseech thee, torment me not. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)",
       "tokens": [
         {
-          "t": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)"
+          "t": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.) "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.",
       "tokens": [
         {
-          "t": "And he said, Legion: because many devils were entered into him."
+          "t": "And Jesus asked him, saying, "
         },
         {
-          "t": "And Jesus asked him, saying, And he said, Legion: because many devils were entered into him."
+          "t": "What is thy name?"
+        },
+        {
+          "t": " And he said, Legion: because many devils were entered into him. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And they besought him that he would not command them to go out into the deep.",
       "tokens": [
         {
-          "t": "And they besought him that he would not command them to go out into the deep."
+          "t": "And they besought him that he would not command them to go out into the deep. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.",
       "tokens": [
         {
-          "t": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them."
+          "t": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.",
       "tokens": [
         {
-          "t": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked."
+          "t": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "When they that fed them saw what was done, they fled, and went and told it in the city and in the country.",
       "tokens": [
         {
-          "t": "When they that fed"
+          "t": "When they that fed "
         },
         {
           "add": "them"
         },
         {
-          "t": "saw what was done, they fled, and went and told"
+          "t": " saw what was done, they fled, and went and told "
         },
         {
           "add": "it"
         },
         {
-          "t": "in the city and in the country."
+          "t": " in the city and in the country. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.",
       "tokens": [
         {
-          "t": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid."
+          "t": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "They also which saw it told them by what means he that was possessed of the devils was healed.",
       "tokens": [
         {
-          "t": "They also which saw"
+          "t": "They also which saw "
         },
         {
           "add": "it"
         },
         {
-          "t": "told them by what means he that was possessed of the devils was healed."
+          "t": " told them by what means he that was possessed of the devils was healed. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "¶ Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.",
       "tokens": [
         {
-          "t": "¶ Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again."
+          "t": "¶ Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,",
       "tokens": [
         {
-          "t": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,"
+          "t": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying, "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.",
       "tokens": [
         {
-          "t": "And he went his way, and published throughout the whole city how great things Jesus had done unto him."
+          "t": "Return to thine own house, and shew how great things God hath done unto thee."
         },
         {
-          "t": "And he went his way, and published throughout the whole city how great things Jesus had done unto him."
+          "t": " And he went his way, and published throughout the whole city how great things Jesus had done unto him. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And it came to pass, that, when Jesus was returned, the people gladly received him: for they were all waiting for him.",
       "tokens": [
         {
-          "t": "And it came to pass, that, when Jesus was returned, the people"
+          "t": "And it came to pass, that, when Jesus was returned, the people "
         },
         {
           "add": "gladly"
         },
         {
-          "t": "received him: for they were all waiting for him."
+          "t": " received him: for they were all waiting for him. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "¶ And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:",
       "tokens": [
         {
-          "t": "¶ And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:"
+          "t": "¶ And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house: "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.",
       "tokens": [
         {
-          "t": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him."
+          "t": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "¶ And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,",
       "tokens": [
         {
-          "t": "¶ And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,"
+          "t": "¶ And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any, "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "Came behind him, and touched the border of his garment: and immediately her issue of blood stanched.",
       "tokens": [
         {
-          "t": "Came behind"
+          "t": "Came behind "
         },
         {
           "add": "him"
         },
         {
-          "t": ", and touched the border of his garment: and immediately her issue of blood stanched."
+          "t": ", and touched the border of his garment: and immediately her issue of blood stanched. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?",
       "tokens": [
         {
-          "t": "When all denied, Peter and they that were with him said, Master, the multitude throng thee and press"
+          "t": "And Jesus said, "
+        },
+        {
+          "t": "Who touched me?"
+        },
+        {
+          "t": " When all denied, Peter and they that were with him said, Master, the multitude throng thee and press "
         },
         {
           "add": "thee"
         },
         {
-          "t": ", and sayest thou,"
+          "t": ", and sayest thou, "
         },
         {
-          "t": "And Jesus said, When all denied, Peter and they that were with him said, Master, the multitude throng thee and press"
+          "t": "Who touched me?"
         },
         {
-          "add": "thee"
-        },
-        {
-          "t": ", and sayest thou,"
+          "t": " "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.",
       "tokens": [
         {
-          "t": "And Jesus said,"
+          "t": "And Jesus said, "
+        },
+        {
+          "t": "Somebody hath touched me: for I perceive that virtue is gone out of me."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately.",
       "tokens": [
         {
-          "t": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately."
+          "t": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.",
       "tokens": [
         {
-          "t": "And he said unto her,"
+          "t": "And he said unto her, "
+        },
+        {
+          "t": "Daughter, be of good comfort: thy faith hath made thee whole; go in peace."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "¶ While he yet spake, there cometh one from the ruler of the synagogue’s house, saying to him, Thy daughter is dead; trouble not the Master.",
       "tokens": [
         {
-          "t": "¶ While he yet spake, there cometh one from the ruler of the synagogue’s"
+          "t": "¶ While he yet spake, there cometh one from the ruler of the synagogue’s "
         },
         {
           "add": "house"
         },
         {
-          "t": ", saying to him, Thy daughter is dead; trouble not the Master."
+          "t": ", saying to him, Thy daughter is dead; trouble not the Master. "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole.",
       "tokens": [
         {
-          "t": "But when Jesus heard"
+          "t": "But when Jesus heard "
         },
         {
           "add": "it"
         },
         {
-          "t": ", he answered him, saying,"
+          "t": ", he answered him, saying, "
+        },
+        {
+          "t": "Fear not: believe only, and she shall be made whole."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.",
       "tokens": [
         {
-          "t": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden."
+          "t": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden. "
         }
       ]
     },
     {
       "v": 52,
+      "plain": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.",
       "tokens": [
         {
-          "t": "And all wept, and bewailed her: but he said,"
+          "t": "And all wept, and bewailed her: but he said, "
+        },
+        {
+          "t": "Weep not; she is not dead, but sleepeth."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 53,
+      "plain": "And they laughed him to scorn, knowing that she was dead.",
       "tokens": [
         {
-          "t": "And they laughed him to scorn, knowing that she was dead."
+          "t": "And they laughed him to scorn, knowing that she was dead. "
         }
       ]
     },
     {
       "v": 54,
+      "plain": "And he put them all out, and took her by the hand, and called, saying, Maid, arise.",
       "tokens": [
         {
-          "t": "And he put them all out, and took her by the hand, and called, saying,"
+          "t": "And he put them all out, and took her by the hand, and called, saying, "
+        },
+        {
+          "t": "Maid, arise."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 55,
+      "plain": "And her spirit came again, and she arose straightway: and he commanded to give her meat.",
       "tokens": [
         {
-          "t": "And her spirit came again, and she arose straightway: and he commanded to give her meat."
+          "t": "And her spirit came again, and she arose straightway: and he commanded to give her meat. "
         }
       ]
     },
     {
       "v": 56,
+      "plain": "And her parents were astonished: but he charged them that they should tell no man what was done.",
       "tokens": [
         {
-          "t": "And her parents were astonished: but he charged them that they should tell no man what was done."
+          "t": "And her parents were astonished: but he charged them that they should tell no man what was done. "
         }
       ]
     }

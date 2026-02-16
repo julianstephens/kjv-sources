@@ -7,501 +7,529 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word of the LORD also came unto me, saying,",
       "tokens": [
         {
-          "t": "The word of the"
+          "t": "The word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "also came unto me, saying,"
+          "t": " also came unto me, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house.",
       "tokens": [
         {
-          "t": "Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they"
+          "t": "Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they "
         },
         {
           "add": "are"
         },
         {
-          "t": "a rebellious house."
+          "t": " a rebellious house. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they be a rebellious house.",
       "tokens": [
         {
-          "t": "Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they"
+          "t": "Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they "
         },
         {
           "add": "be"
         },
         {
-          "t": "a rebellious house."
+          "t": " a rebellious house. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then shalt thou bring forth thy stuff by day in their sight, as stuff for removing: and thou shalt go forth at even in their sight, as they that go forth into captivity.",
       "tokens": [
         {
-          "t": "Then shalt thou bring forth thy stuff by day in their sight, as stuff for removing: and thou shalt go forth at even in their sight, as they that go forth into captivity."
+          "t": "Then shalt thou bring forth thy stuff by day in their sight, as stuff for removing: and thou shalt go forth at even in their sight, as they that go forth into captivity. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Dig thou through the wall in their sight, and carry out thereby.",
       "tokens": [
         {
-          "t": "Dig thou through the wall in their sight, and carry out thereby."
+          "t": "Dig thou through the wall in their sight, and carry out thereby. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "In their sight shalt thou bear it upon thy shoulders, and carry it forth in the twilight: thou shalt cover thy face, that thou see not the ground: for I have set thee for a sign unto the house of Israel.",
       "tokens": [
         {
-          "t": "In their sight shalt thou bear"
+          "t": "In their sight shalt thou bear "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon"
+          "t": " upon "
         },
         {
           "add": "thy"
         },
         {
-          "t": "shoulders,"
+          "t": " shoulders, "
         },
         {
           "add": "and"
         },
         {
-          "t": "carry"
+          "t": " carry "
         },
         {
           "add": "it"
         },
         {
-          "t": "forth in the twilight: thou shalt cover thy face, that thou see not the ground: for I have set thee"
+          "t": " forth in the twilight: thou shalt cover thy face, that thou see not the ground: for I have set thee "
         },
         {
           "add": "for"
         },
         {
-          "t": "a sign unto the house of Israel."
+          "t": " a sign unto the house of Israel. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And I did so as I was commanded: I brought forth my stuff by day, as stuff for captivity, and in the even I digged through the wall with mine hand; I brought it forth in the twilight, and I bare it upon my shoulder in their sight.",
       "tokens": [
         {
-          "t": "And I did so as I was commanded: I brought forth my stuff by day, as stuff for captivity, and in the even I digged through the wall with mine hand; I brought"
+          "t": "And I did so as I was commanded: I brought forth my stuff by day, as stuff for captivity, and in the even I digged through the wall with mine hand; I brought "
         },
         {
           "add": "it"
         },
         {
-          "t": "forth in the twilight,"
+          "t": " forth in the twilight, "
         },
         {
           "add": "and"
         },
         {
-          "t": "I bare"
+          "t": " I bare "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon"
+          "t": " upon "
         },
         {
           "add": "my"
         },
         {
-          "t": "shoulder in their sight."
+          "t": " shoulder in their sight. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And in the morning came the word of the LORD unto me, saying,",
       "tokens": [
         {
-          "t": "¶ And in the morning came the word of the"
+          "t": "¶ And in the morning came the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto me, saying,"
+          "t": " unto me, saying, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?",
       "tokens": [
         {
-          "t": "Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?"
+          "t": "Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Say thou unto them, Thus saith the Lord GOD; This burden concerneth the prince in Jerusalem, and all the house of Israel that are among them.",
       "tokens": [
         {
-          "t": "Say thou unto them, Thus saith the Lord"
+          "t": "Say thou unto them, Thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; This burden"
+          "t": "; This burden "
         },
         {
           "add": "concerneth"
         },
         {
-          "t": "the prince in Jerusalem, and all the house of Israel that"
+          "t": " the prince in Jerusalem, and all the house of Israel that "
         },
         {
           "add": "are"
         },
         {
-          "t": "among them."
+          "t": " among them. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Say, I am your sign: like as I have done, so shall it be done unto them: they shall remove and go into captivity.",
       "tokens": [
         {
-          "t": "Say, I"
+          "t": "Say, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "your sign: like as I have done, so shall it be done unto them: they shall remove"
+          "t": " your sign: like as I have done, so shall it be done unto them: they shall remove "
         },
         {
           "add": "and"
         },
         {
-          "t": "go into captivity."
+          "t": " go into captivity. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the prince that is among them shall bear upon his shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with his eyes.",
       "tokens": [
         {
-          "t": "And the prince that"
+          "t": "And the prince that "
         },
         {
           "add": "is"
         },
         {
-          "t": "among them shall bear upon"
+          "t": " among them shall bear upon "
         },
         {
           "add": "his"
         },
         {
-          "t": "shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with"
+          "t": " shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with "
         },
         {
           "add": "his"
         },
         {
-          "t": "eyes."
+          "t": " eyes. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon to the land of the Chaldeans; yet shall he not see it, though he shall die there.",
       "tokens": [
         {
-          "t": "My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon"
+          "t": "My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon "
         },
         {
           "add": "to"
         },
         {
-          "t": "the land of the Chaldeans; yet shall he not see it, though he shall die there."
+          "t": " the land of the Chaldeans; yet shall he not see it, though he shall die there. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And I will scatter toward every wind all that are about him to help him, and all his bands; and I will draw out the sword after them.",
       "tokens": [
         {
-          "t": "And I will scatter toward every wind all that"
+          "t": "And I will scatter toward every wind all that "
         },
         {
           "add": "are"
         },
         {
-          "t": "about him to help him, and all his bands; and I will draw out the sword after them."
+          "t": " about him to help him, and all his bands; and I will draw out the sword after them. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And they shall know that I am the LORD, when I shall scatter them among the nations, and disperse them in the countries.",
       "tokens": [
         {
-          "t": "And they shall know that I"
+          "t": "And they shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", when I shall scatter them among the nations, and disperse them in the countries."
+          "t": ", when I shall scatter them among the nations, and disperse them in the countries. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I am the LORD.",
       "tokens": [
         {
-          "t": "But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I"
+          "t": "But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ Moreover the word of the LORD came to me, saying,",
       "tokens": [
         {
-          "t": "¶ Moreover the word of the"
+          "t": "¶ Moreover the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came to me, saying,"
+          "t": " came to me, saying, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;",
       "tokens": [
         {
-          "t": "Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;"
+          "t": "Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And say unto the people of the land, Thus saith the Lord GOD of the inhabitants of Jerusalem, and of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein.",
       "tokens": [
         {
-          "t": "And say unto the people of the land, Thus saith the Lord"
+          "t": "And say unto the people of the land, Thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "of the inhabitants of Jerusalem,"
+          "t": " of the inhabitants of Jerusalem, "
         },
         {
           "add": "and"
         },
         {
-          "t": "of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein."
+          "t": " of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I am the LORD.",
       "tokens": [
         {
-          "t": "And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I"
+          "t": "And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ And the word of the LORD came unto me, saying,",
       "tokens": [
         {
-          "t": "¶ And the word of the"
+          "t": "¶ And the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto me, saying,"
+          "t": " came unto me, saying, "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Son of man, what is that proverb that ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?",
       "tokens": [
         {
-          "t": "Son of man, what"
+          "t": "Son of man, what "
         },
         {
           "add": "is"
         },
         {
-          "t": "that proverb"
+          "t": " that proverb "
         },
         {
           "add": "that"
         },
         {
-          "t": "ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?"
+          "t": " ye have in the land of Israel, saying, The days are prolonged, and every vision faileth? "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Tell them therefore, Thus saith the Lord GOD; I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision.",
       "tokens": [
         {
-          "t": "Tell them therefore, Thus saith the Lord"
+          "t": "Tell them therefore, Thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision."
+          "t": "; I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "For there shall be no more any vain vision nor flattering divination within the house of Israel.",
       "tokens": [
         {
-          "t": "For there shall be no more any vain vision nor flattering divination within the house of Israel."
+          "t": "For there shall be no more any vain vision nor flattering divination within the house of Israel. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "For I am the LORD: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord GOD.",
       "tokens": [
         {
-          "t": "For I"
+          "t": "For I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord"
+          "t": ": I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ Again the word of the LORD came to me, saying,",
       "tokens": [
         {
-          "t": "¶ Again the word of the"
+          "t": "¶ Again the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came to me, saying,"
+          "t": " came to me, saying, "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Son of man, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of the times that are far off.",
       "tokens": [
         {
-          "t": "Son of man, behold,"
+          "t": "Son of man, behold, "
         },
         {
           "add": "they of"
         },
         {
-          "t": "the house of Israel say, The vision that he seeth"
+          "t": " the house of Israel say, The vision that he seeth "
         },
         {
           "add": "is"
         },
         {
-          "t": "for many days"
+          "t": " for many days "
         },
         {
           "add": "to come"
         },
         {
-          "t": ", and he prophesieth of the times"
+          "t": ", and he prophesieth of the times "
         },
         {
           "add": "that are"
         },
         {
-          "t": "far off."
+          "t": " far off. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Therefore say unto them, Thus saith the Lord GOD; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord GOD.",
       "tokens": [
         {
-          "t": "Therefore say unto them, Thus saith the Lord"
+          "t": "Therefore say unto them, Thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord"
+          "t": "; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

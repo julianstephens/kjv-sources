@@ -7,282 +7,307 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Let brotherly love continue.",
       "tokens": [
         {
-          "t": "Let brotherly love continue."
+          "t": "Let brotherly love continue. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.",
       "tokens": [
         {
-          "t": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares."
+          "t": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.",
       "tokens": [
         {
-          "t": "Remember them that are in bonds, as bound with them;"
+          "t": "Remember them that are in bonds, as bound with them; "
         },
         {
           "add": "and"
         },
         {
-          "t": "them which suffer adversity, as being yourselves also in the body."
+          "t": " them which suffer adversity, as being yourselves also in the body. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.",
       "tokens": [
         {
-          "t": "Marriage"
+          "t": "Marriage "
         },
         {
           "add": "is"
         },
         {
-          "t": "honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge."
+          "t": " honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
       "tokens": [
         {
           "add": "Let your"
         },
         {
-          "t": "conversation"
+          "t": " conversation "
         },
         {
           "add": "be"
         },
         {
-          "t": "without covetousness;"
+          "t": " without covetousness; "
         },
         {
           "add": "and be"
         },
         {
-          "t": "content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee."
+          "t": " content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.",
       "tokens": [
         {
-          "t": "So that we may boldly say, The Lord"
+          "t": "So that we may boldly say, The Lord "
         },
         {
           "add": "is"
         },
         {
-          "t": "my helper, and I will not fear what man shall do unto me."
+          "t": " my helper, and I will not fear what man shall do unto me. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.",
       "tokens": [
         {
-          "t": "Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of"
+          "t": "Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of "
         },
         {
           "add": "their"
         },
         {
-          "t": "conversation."
+          "t": " conversation. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Jesus Christ the same yesterday, and to day, and for ever.",
       "tokens": [
         {
-          "t": "Jesus Christ the same yesterday, and to day, and for ever."
+          "t": "Jesus Christ the same yesterday, and to day, and for ever. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.",
       "tokens": [
         {
-          "t": "Be not carried about with divers and strange doctrines. For"
+          "t": "Be not carried about with divers and strange doctrines. For "
         },
         {
           "add": "it is"
         },
         {
-          "t": "a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein."
+          "t": " a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "We have an altar, whereof they have no right to eat which serve the tabernacle.",
       "tokens": [
         {
-          "t": "We have an altar, whereof they have no right to eat which serve the tabernacle."
+          "t": "We have an altar, whereof they have no right to eat which serve the tabernacle. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.",
       "tokens": [
         {
-          "t": "For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp."
+          "t": "For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.",
       "tokens": [
         {
-          "t": "Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate."
+          "t": "Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Let us go forth therefore unto him without the camp, bearing his reproach.",
       "tokens": [
         {
-          "t": "Let us go forth therefore unto him without the camp, bearing his reproach."
+          "t": "Let us go forth therefore unto him without the camp, bearing his reproach. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For here have we no continuing city, but we seek one to come.",
       "tokens": [
         {
-          "t": "For here have we no continuing city, but we seek one to come."
+          "t": "For here have we no continuing city, but we seek one to come. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.",
       "tokens": [
         {
-          "t": "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of"
+          "t": "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of "
         },
         {
           "add": "our"
         },
         {
-          "t": "lips giving thanks to his name."
+          "t": " lips giving thanks to his name. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But to do good and to communicate forget not: for with such sacrifices God is well pleased.",
       "tokens": [
         {
-          "t": "But to do good and to communicate forget not: for with such sacrifices God is well pleased."
+          "t": "But to do good and to communicate forget not: for with such sacrifices God is well pleased. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.",
       "tokens": [
         {
-          "t": "Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that"
+          "t": "Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that "
         },
         {
           "add": "is"
         },
         {
-          "t": "unprofitable for you."
+          "t": " unprofitable for you. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly.",
       "tokens": [
         {
-          "t": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly."
+          "t": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "But I beseech you the rather to do this, that I may be restored to you the sooner.",
       "tokens": [
         {
-          "t": "But I beseech"
+          "t": "But I beseech "
         },
         {
           "add": "you"
         },
         {
-          "t": "the rather to do this, that I may be restored to you the sooner."
+          "t": " the rather to do this, that I may be restored to you the sooner. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,",
       "tokens": [
         {
-          "t": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,"
+          "t": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.",
       "tokens": [
         {
-          "t": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom"
+          "t": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom "
         },
         {
           "add": "be"
         },
         {
-          "t": "glory for ever and ever. Amen."
+          "t": " glory for ever and ever. Amen. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words.",
       "tokens": [
         {
-          "t": "And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words."
+          "t": "And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Know ye that our brother Timothy is set at liberty; with whom, if he come shortly, I will see you.",
       "tokens": [
         {
-          "t": "Know ye that"
+          "t": "Know ye that "
         },
         {
           "add": "our"
         },
         {
-          "t": "brother Timothy is set at liberty; with whom, if he come shortly, I will see you."
+          "t": " brother Timothy is set at liberty; with whom, if he come shortly, I will see you. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Salute all them that have the rule over you, and all the saints. They of Italy salute you.",
       "tokens": [
         {
-          "t": "Salute all them that have the rule over you, and all the saints. They of Italy salute you."
+          "t": "Salute all them that have the rule over you, and all the saints. They of Italy salute you. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Grace be with you all. Amen.",
       "tokens": [
         {
-          "t": "Grace"
+          "t": "Grace "
         },
         {
           "add": "be"
         },
         {
-          "t": "with you all. Amen."
+          "t": " with you all. Amen. "
         }
       ]
     }

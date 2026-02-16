@@ -7,369 +7,397 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah, heard the words that Jeremiah had spoken unto all the people, saying,",
       "tokens": [
         {
-          "t": "Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah, heard the words that Jeremiah had spoken unto all the people, saying,"
+          "t": "Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah, heard the words that Jeremiah had spoken unto all the people, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thus saith the LORD, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live."
+          "t": ", He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Thus saith the LORD, This city shall surely be given into the hand of the king of Babylon’s army, which shall take it.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", This city shall surely be given into the hand of the king of Babylon’s army, which shall take it."
+          "t": ", This city shall surely be given into the hand of the king of Babylon’s army, which shall take it. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt.",
       "tokens": [
         {
-          "t": "Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt."
+          "t": "Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then Zedekiah the king said, Behold, he is in your hand: for the king is not he that can do any thing against you.",
       "tokens": [
         {
-          "t": "Then Zedekiah the king said, Behold, he"
+          "t": "Then Zedekiah the king said, Behold, he "
         },
         {
           "add": "is"
         },
         {
-          "t": "in your hand: for the king"
+          "t": " in your hand: for the king "
         },
         {
           "add": "is"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "he that"
         },
         {
-          "t": "can do"
+          "t": " can do "
         },
         {
           "add": "any"
         },
         {
-          "t": "thing against you."
+          "t": " thing against you. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that was in the court of the prison: and they let down Jeremiah with cords. And in the dungeon there was no water, but mire: so Jeremiah sunk in the mire.",
       "tokens": [
         {
-          "t": "Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that"
+          "t": "Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that "
         },
         {
           "add": "was"
         },
         {
-          "t": "in the court of the prison: and they let down Jeremiah with cords. And in the dungeon"
+          "t": " in the court of the prison: and they let down Jeremiah with cords. And in the dungeon "
         },
         {
           "add": "there was"
         },
         {
-          "t": "no water, but mire: so Jeremiah sunk in the mire."
+          "t": " no water, but mire: so Jeremiah sunk in the mire. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ Now when Ebed-melech the Ethiopian, one of the eunuchs which was in the king’s house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;",
       "tokens": [
         {
-          "t": "¶ Now when Ebed-melech the Ethiopian, one of the eunuchs which was in the king’s house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;"
+          "t": "¶ Now when Ebed-melech the Ethiopian, one of the eunuchs which was in the king’s house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Ebed-melech went forth out of the king’s house, and spake to the king, saying,",
       "tokens": [
         {
-          "t": "Ebed-melech went forth out of the king’s house, and spake to the king, saying,"
+          "t": "Ebed-melech went forth out of the king’s house, and spake to the king, saying, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for there is no more bread in the city.",
       "tokens": [
         {
-          "t": "My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for"
+          "t": "My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no more bread in the city."
+          "t": " no more bread in the city. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then the king commanded Ebed-melech the Ethiopian, saying, Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon, before he die.",
       "tokens": [
         {
-          "t": "Then the king commanded Ebed-melech the Ethiopian, saying, Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon, before he die."
+          "t": "Then the king commanded Ebed-melech the Ethiopian, saying, Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon, before he die. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "So Ebed-melech took the men with him, and went into the house of the king under the treasury, and took thence old cast clouts and old rotten rags, and let them down by cords into the dungeon to Jeremiah.",
       "tokens": [
         {
-          "t": "So Ebed-melech took the men with him, and went into the house of the king under the treasury, and took thence old cast clouts and old rotten rags, and let them down by cords into the dungeon to Jeremiah."
+          "t": "So Ebed-melech took the men with him, and went into the house of the king under the treasury, and took thence old cast clouts and old rotten rags, and let them down by cords into the dungeon to Jeremiah. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Ebed-melech the Ethiopian said unto Jeremiah, Put now these old cast clouts and rotten rags under thine armholes under the cords. And Jeremiah did so.",
       "tokens": [
         {
-          "t": "And Ebed-melech the Ethiopian said unto Jeremiah, Put now"
+          "t": "And Ebed-melech the Ethiopian said unto Jeremiah, Put now "
         },
         {
           "add": "these"
         },
         {
-          "t": "old cast clouts and rotten rags under thine armholes under the cords. And Jeremiah did so."
+          "t": " old cast clouts and rotten rags under thine armholes under the cords. And Jeremiah did so. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison.",
       "tokens": [
         {
-          "t": "So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison."
+          "t": "So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ Then Zedekiah the king sent, and took Jeremiah the prophet unto him into the third entry that is in the house of the LORD: and the king said unto Jeremiah, I will ask thee a thing; hide nothing from me.",
       "tokens": [
         {
-          "t": "¶ Then Zedekiah the king sent, and took Jeremiah the prophet unto him into the third entry that"
+          "t": "¶ Then Zedekiah the king sent, and took Jeremiah the prophet unto him into the third entry that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the house of the"
+          "t": " in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and the king said unto Jeremiah, I will ask thee a thing; hide nothing from me."
+          "t": ": and the king said unto Jeremiah, I will ask thee a thing; hide nothing from me. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Then Jeremiah said unto Zedekiah, If I declare it unto thee, wilt thou not surely put me to death? and if I give thee counsel, wilt thou not hearken unto me?",
       "tokens": [
         {
-          "t": "Then Jeremiah said unto Zedekiah, If I declare"
+          "t": "Then Jeremiah said unto Zedekiah, If I declare "
         },
         {
           "add": "it"
         },
         {
-          "t": "unto thee, wilt thou not surely put me to death? and if I give thee counsel, wilt thou not hearken unto me?"
+          "t": " unto thee, wilt thou not surely put me to death? and if I give thee counsel, wilt thou not hearken unto me? "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "So Zedekiah the king sware secretly unto Jeremiah, saying, As the LORD liveth, that made us this soul, I will not put thee to death, neither will I give thee into the hand of these men that seek thy life.",
       "tokens": [
         {
-          "t": "So Zedekiah the king sware secretly unto Jeremiah, saying,"
+          "t": "So Zedekiah the king sware secretly unto Jeremiah, saying, "
         },
         {
           "add": "As"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, that made us this soul, I will not put thee to death, neither will I give thee into the hand of these men that seek thy life."
+          "t": " liveth, that made us this soul, I will not put thee to death, neither will I give thee into the hand of these men that seek thy life. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Then said Jeremiah unto Zedekiah, Thus saith the LORD, the God of hosts, the God of Israel; If thou wilt assuredly go forth unto the king of Babylon’s princes, then thy soul shall live, and this city shall not be burned with fire; and thou shalt live, and thine house:",
       "tokens": [
         {
-          "t": "Then said Jeremiah unto Zedekiah, Thus saith the"
+          "t": "Then said Jeremiah unto Zedekiah, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the God of hosts, the God of Israel; If thou wilt assuredly go forth unto the king of Babylon’s princes, then thy soul shall live, and this city shall not be burned with fire; and thou shalt live, and thine house:"
+          "t": ", the God of hosts, the God of Israel; If thou wilt assuredly go forth unto the king of Babylon’s princes, then thy soul shall live, and this city shall not be burned with fire; and thou shalt live, and thine house: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "But if thou wilt not go forth to the king of Babylon’s princes, then shall this city be given into the hand of the Chaldeans, and they shall burn it with fire, and thou shalt not escape out of their hand.",
       "tokens": [
         {
-          "t": "But if thou wilt not go forth to the king of Babylon’s princes, then shall this city be given into the hand of the Chaldeans, and they shall burn it with fire, and thou shalt not escape out of their hand."
+          "t": "But if thou wilt not go forth to the king of Babylon’s princes, then shall this city be given into the hand of the Chaldeans, and they shall burn it with fire, and thou shalt not escape out of their hand. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Zedekiah the king said unto Jeremiah, I am afraid of the Jews that are fallen to the Chaldeans, lest they deliver me into their hand, and they mock me.",
       "tokens": [
         {
-          "t": "And Zedekiah the king said unto Jeremiah, I am afraid of the Jews that are fallen to the Chaldeans, lest they deliver me into their hand, and they mock me."
+          "t": "And Zedekiah the king said unto Jeremiah, I am afraid of the Jews that are fallen to the Chaldeans, lest they deliver me into their hand, and they mock me. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "But Jeremiah said, They shall not deliver thee. Obey, I beseech thee, the voice of the LORD, which I speak unto thee: so it shall be well unto thee, and thy soul shall live.",
       "tokens": [
         {
-          "t": "But Jeremiah said, They shall not deliver"
+          "t": "But Jeremiah said, They shall not deliver "
         },
         {
           "add": "thee"
         },
         {
-          "t": ". Obey, I beseech thee, the voice of the"
+          "t": ". Obey, I beseech thee, the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which I speak unto thee: so it shall be well unto thee, and thy soul shall live."
+          "t": ", which I speak unto thee: so it shall be well unto thee, and thy soul shall live. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "But if thou refuse to go forth, this is the word that the LORD hath shewed me:",
       "tokens": [
         {
-          "t": "But if thou refuse to go forth, this"
+          "t": "But if thou refuse to go forth, this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the word that the"
+          "t": " the word that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath shewed me:"
+          "t": " hath shewed me: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And, behold, all the women that are left in the king of Judah’s house shall be brought forth to the king of Babylon’s princes, and those women shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, and they are turned away back.",
       "tokens": [
         {
-          "t": "And, behold, all the women that are left in the king of Judah’s house"
+          "t": "And, behold, all the women that are left in the king of Judah’s house "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "brought forth to the king of Babylon’s princes, and those"
+          "t": " brought forth to the king of Babylon’s princes, and those "
         },
         {
           "add": "women"
         },
         {
-          "t": "shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire,"
+          "t": " shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, "
         },
         {
           "add": "and"
         },
         {
-          "t": "they are turned away back."
+          "t": " they are turned away back. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "So they shall bring out all thy wives and thy children to the Chaldeans: and thou shalt not escape out of their hand, but shalt be taken by the hand of the king of Babylon: and thou shalt cause this city to be burned with fire.",
       "tokens": [
         {
-          "t": "So they shall bring out all thy wives and thy children to the Chaldeans: and thou shalt not escape out of their hand, but shalt be taken by the hand of the king of Babylon: and thou shalt cause this city to be burned with fire."
+          "t": "So they shall bring out all thy wives and thy children to the Chaldeans: and thou shalt not escape out of their hand, but shalt be taken by the hand of the king of Babylon: and thou shalt cause this city to be burned with fire. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou shalt not die.",
       "tokens": [
         {
-          "t": "¶ Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou shalt not die."
+          "t": "¶ Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou shalt not die. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But if the princes hear that I have talked with thee, and they come unto thee, and say unto thee, Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee:",
       "tokens": [
         {
-          "t": "But if the princes hear that I have talked with thee, and they come unto thee, and say unto thee, Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee:"
+          "t": "But if the princes hear that I have talked with thee, and they come unto thee, and say unto thee, Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Then thou shalt say unto them, I presented my supplication before the king, that he would not cause me to return to Jonathan’s house, to die there.",
       "tokens": [
         {
-          "t": "Then thou shalt say unto them, I presented my supplication before the king, that he would not cause me to return to Jonathan’s house, to die there."
+          "t": "Then thou shalt say unto them, I presented my supplication before the king, that he would not cause me to return to Jonathan’s house, to die there. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived.",
       "tokens": [
         {
-          "t": "Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived."
+          "t": "Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "So Jeremiah abode in the court of the prison until the day that Jerusalem was taken: and he was there when Jerusalem was taken.",
       "tokens": [
         {
-          "t": "So Jeremiah abode in the court of the prison until the day that Jerusalem was taken: and he was"
+          "t": "So Jeremiah abode in the court of the prison until the day that Jerusalem was taken: and he was "
         },
         {
           "add": "there"
         },
         {
-          "t": "when Jerusalem was taken."
+          "t": " when Jerusalem was taken. "
         }
       ]
     }

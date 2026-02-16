@@ -7,328 +7,364 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The proverbs of Solomon the son of David, king of Israel;",
       "tokens": [
         {
-          "t": "The proverbs of Solomon the son of David, king of Israel;"
+          "t": "The proverbs of Solomon the son of David, king of Israel; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "To know wisdom and instruction; to perceive the words of understanding;",
       "tokens": [
         {
-          "t": "To know wisdom and instruction; to perceive the words of understanding;"
+          "t": "To know wisdom and instruction; to perceive the words of understanding; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "To receive the instruction of wisdom, justice, and judgment, and equity;",
       "tokens": [
         {
-          "t": "To receive the instruction of wisdom, justice, and judgment, and equity;"
+          "t": "To receive the instruction of wisdom, justice, and judgment, and equity; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "To give subtilty to the simple, to the young man knowledge and discretion.",
       "tokens": [
         {
-          "t": "To give subtilty to the simple, to the young man knowledge and discretion."
+          "t": "To give subtilty to the simple, to the young man knowledge and discretion. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
       "tokens": [
         {
-          "t": "A wise"
+          "t": "A wise "
         },
         {
           "add": "man"
         },
         {
-          "t": "will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:"
+          "t": " will hear, and will increase learning; and a man of understanding shall attain unto wise counsels: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
       "tokens": [
         {
-          "t": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings."
+          "t": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.",
       "tokens": [
         {
-          "t": "¶ The fear of the"
+          "t": "¶ The fear of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "the beginning of knowledge:"
+          "t": " the beginning of knowledge: "
         },
         {
           "add": "but"
         },
         {
-          "t": "fools despise wisdom and instruction."
+          "t": " fools despise wisdom and instruction. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
       "tokens": [
         {
-          "t": "My son, hear the instruction of thy father, and forsake not the law of thy mother:"
+          "t": "My son, hear the instruction of thy father, and forsake not the law of thy mother: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For they shall be an ornament of grace unto thy head, and chains about thy neck.",
       "tokens": [
         {
-          "t": "For they"
+          "t": "For they "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "an ornament of grace unto thy head, and chains about thy neck."
+          "t": " an ornament of grace unto thy head, and chains about thy neck. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ My son, if sinners entice thee, consent thou not.",
       "tokens": [
         {
-          "t": "¶ My son, if sinners entice thee, consent thou not."
+          "t": "¶ My son, if sinners entice thee, consent thou not. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:",
       "tokens": [
         {
-          "t": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:"
+          "t": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
       "tokens": [
         {
-          "t": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:"
+          "t": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "We shall find all precious substance, we shall fill our houses with spoil:",
       "tokens": [
         {
-          "t": "We shall find all precious substance, we shall fill our houses with spoil:"
+          "t": "We shall find all precious substance, we shall fill our houses with spoil: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Cast in thy lot among us; let us all have one purse:",
       "tokens": [
         {
-          "t": "Cast in thy lot among us; let us all have one purse:"
+          "t": "Cast in thy lot among us; let us all have one purse: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "My son, walk not thou in the way with them; refrain thy foot from their path:",
       "tokens": [
         {
-          "t": "My son, walk not thou in the way with them; refrain thy foot from their path:"
+          "t": "My son, walk not thou in the way with them; refrain thy foot from their path: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "For their feet run to evil, and make haste to shed blood.",
       "tokens": [
         {
-          "t": "For their feet run to evil, and make haste to shed blood."
+          "t": "For their feet run to evil, and make haste to shed blood. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Surely in vain the net is spread in the sight of any bird.",
       "tokens": [
         {
-          "t": "Surely in vain the net is spread in the sight of any bird."
+          "t": "Surely in vain the net is spread in the sight of any bird. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And they lay wait for their own blood; they lurk privily for their own lives.",
       "tokens": [
         {
-          "t": "And they lay wait for their"
+          "t": "And they lay wait for their "
         },
         {
           "add": "own"
         },
         {
-          "t": "blood; they lurk privily for their"
+          "t": " blood; they lurk privily for their "
         },
         {
           "add": "own"
         },
         {
-          "t": "lives."
+          "t": " lives. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.",
       "tokens": [
         {
-          "t": "So"
+          "t": "So "
         },
         {
           "add": "are"
         },
         {
-          "t": "the ways of every one that is greedy of gain;"
+          "t": " the ways of every one that is greedy of gain; "
         },
         {
           "add": "which"
         },
         {
-          "t": "taketh away the life of the owners thereof."
+          "t": " taketh away the life of the owners thereof. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ Wisdom crieth without; she uttereth her voice in the streets:",
       "tokens": [
         {
-          "t": "¶ Wisdom crieth without; she uttereth her voice in the streets:"
+          "t": "¶ Wisdom crieth without; she uttereth her voice in the streets: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,",
       "tokens": [
         {
-          "t": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words,"
+          "t": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?",
       "tokens": [
         {
-          "t": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?"
+          "t": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge? "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.",
       "tokens": [
         {
-          "t": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you."
+          "t": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
       "tokens": [
         {
-          "t": "¶ Because I have called, and ye refused; I have stretched out my hand, and no man regarded;"
+          "t": "¶ Because I have called, and ye refused; I have stretched out my hand, and no man regarded; "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But ye have set at nought all my counsel, and would none of my reproof:",
       "tokens": [
         {
-          "t": "But ye have set at nought all my counsel, and would none of my reproof:"
+          "t": "But ye have set at nought all my counsel, and would none of my reproof: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "I also will laugh at your calamity; I will mock when your fear cometh;",
       "tokens": [
         {
-          "t": "I also will laugh at your calamity; I will mock when your fear cometh;"
+          "t": "I also will laugh at your calamity; I will mock when your fear cometh; "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
       "tokens": [
         {
-          "t": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you."
+          "t": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
       "tokens": [
         {
-          "t": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
+          "t": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me: "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "For that they hated knowledge, and did not choose the fear of the LORD:",
       "tokens": [
         {
-          "t": "For that they hated knowledge, and did not choose the fear of the"
+          "t": "For that they hated knowledge, and did not choose the fear of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "They would none of my counsel: they despised all my reproof.",
       "tokens": [
         {
-          "t": "They would none of my counsel: they despised all my reproof."
+          "t": "They would none of my counsel: they despised all my reproof. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices.",
       "tokens": [
         {
-          "t": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices."
+          "t": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
       "tokens": [
         {
-          "t": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them."
+          "t": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
       "tokens": [
         {
-          "t": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
+          "t": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil. "
         }
       ]
     }

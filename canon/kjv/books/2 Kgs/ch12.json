@@ -7,361 +7,382 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother’s name was Zibiah of Beer-sheba.",
       "tokens": [
         {
-          "t": "In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother’s name"
+          "t": "In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother’s name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Zibiah of Beer-sheba."
+          "t": " Zibiah of Beer-sheba. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Jehoash did that which was right in the sight of the LORD all his days wherein Jehoiada the priest instructed him.",
       "tokens": [
         {
-          "t": "And Jehoash did"
+          "t": "And Jehoash did "
         },
         {
           "add": "that which was"
         },
         {
-          "t": "right in the sight of the"
+          "t": " right in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "all his days wherein Jehoiada the priest instructed him."
+          "t": " all his days wherein Jehoiada the priest instructed him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "But the high places were not taken away: the people still sacrificed and burnt incense in the high places.",
       "tokens": [
         {
-          "t": "But the high places were not taken away: the people still sacrificed and burnt incense in the high places."
+          "t": "But the high places were not taken away: the people still sacrificed and burnt incense in the high places. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And Jehoash said to the priests, All the money of the dedicated things that is brought into the house of the LORD, even the money of every one that passeth the account, the money that every man is set at, and all the money that cometh into any man’s heart to bring into the house of the LORD,",
       "tokens": [
         {
-          "t": "¶ And Jehoash said to the priests, All the money of the dedicated things that is brought into the house of the"
+          "t": "¶ And Jehoash said to the priests, All the money of the dedicated things that is brought into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "even"
         },
         {
-          "t": "the money of every one that passeth"
+          "t": " the money of every one that passeth "
         },
         {
           "add": "the account"
         },
         {
-          "t": ", the money that every man is set at,"
+          "t": ", the money that every man is set at, "
         },
         {
           "add": "and"
         },
         {
-          "t": "all the money that cometh into any man’s heart to bring into the house of the"
+          "t": " all the money that cometh into any man’s heart to bring into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Let the priests take it to them, every man of his acquaintance: and let them repair the breaches of the house, wheresoever any breach shall be found.",
       "tokens": [
         {
-          "t": "Let the priests take"
+          "t": "Let the priests take "
         },
         {
           "add": "it"
         },
         {
-          "t": "to them, every man of his acquaintance: and let them repair the breaches of the house, wheresoever any breach shall be found."
+          "t": " to them, every man of his acquaintance: and let them repair the breaches of the house, wheresoever any breach shall be found. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But it was so, that in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house.",
       "tokens": [
         {
-          "t": "But it was"
+          "t": "But it was "
         },
         {
           "add": "so, that"
         },
         {
-          "t": "in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house."
+          "t": " in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Then king Jehoash called for Jehoiada the priest, and the other priests, and said unto them, Why repair ye not the breaches of the house? now therefore receive no more money of your acquaintance, but deliver it for the breaches of the house.",
       "tokens": [
         {
-          "t": "Then king Jehoash called for Jehoiada the priest, and the"
+          "t": "Then king Jehoash called for Jehoiada the priest, and the "
         },
         {
           "add": "other"
         },
         {
-          "t": "priests, and said unto them, Why repair ye not the breaches of the house? now therefore receive no"
+          "t": " priests, and said unto them, Why repair ye not the breaches of the house? now therefore receive no "
         },
         {
           "add": "more"
         },
         {
-          "t": "money of your acquaintance, but deliver it for the breaches of the house."
+          "t": " money of your acquaintance, but deliver it for the breaches of the house. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the priests consented to receive no more money of the people, neither to repair the breaches of the house.",
       "tokens": [
         {
-          "t": "And the priests consented to receive no"
+          "t": "And the priests consented to receive no "
         },
         {
           "add": "more"
         },
         {
-          "t": "money of the people, neither to repair the breaches of the house."
+          "t": " money of the people, neither to repair the breaches of the house. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "But Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of the LORD: and the priests that kept the door put therein all the money that was brought into the house of the LORD.",
       "tokens": [
         {
-          "t": "But Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of the"
+          "t": "But Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and the priests that kept the door put therein all the money"
+          "t": ": and the priests that kept the door put therein all the money "
         },
         {
           "add": "that was"
         },
         {
-          "t": "brought into the house of the"
+          "t": " brought into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And it was so, when they saw that there was much money in the chest, that the king’s scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the LORD.",
       "tokens": [
         {
-          "t": "And it was"
+          "t": "And it was "
         },
         {
           "add": "so"
         },
         {
-          "t": ", when they saw that"
+          "t": ", when they saw that "
         },
         {
           "add": "there was"
         },
         {
-          "t": "much money in the chest, that the king’s scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the"
+          "t": " much money in the chest, that the king’s scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the LORD: and they laid it out to the carpenters and builders, that wrought upon the house of the LORD,",
       "tokens": [
         {
-          "t": "And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the"
+          "t": "And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and they laid it out to the carpenters and builders, that wrought upon the house of the"
+          "t": ": and they laid it out to the carpenters and builders, that wrought upon the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And to masons, and hewers of stone, and to buy timber and hewed stone to repair the breaches of the house of the LORD, and for all that was laid out for the house to repair it.",
       "tokens": [
         {
-          "t": "And to masons, and hewers of stone, and to buy timber and hewed stone to repair the breaches of the house of the"
+          "t": "And to masons, and hewers of stone, and to buy timber and hewed stone to repair the breaches of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and for all that was laid out for the house to repair"
+          "t": ", and for all that was laid out for the house to repair "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Howbeit there were not made for the house of the LORD bowls of silver, snuffers, basons, trumpets, any vessels of gold, or vessels of silver, of the money that was brought into the house of the LORD:",
       "tokens": [
         {
-          "t": "Howbeit there were not made for the house of the"
+          "t": "Howbeit there were not made for the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "bowls of silver, snuffers, basons, trumpets, any vessels of gold, or vessels of silver, of the money"
+          "t": " bowls of silver, snuffers, basons, trumpets, any vessels of gold, or vessels of silver, of the money "
         },
         {
           "add": "that was"
         },
         {
-          "t": "brought into the house of the"
+          "t": " brought into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But they gave that to the workmen, and repaired therewith the house of the LORD.",
       "tokens": [
         {
-          "t": "But they gave that to the workmen, and repaired therewith the house of the"
+          "t": "But they gave that to the workmen, and repaired therewith the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Moreover they reckoned not with the men, into whose hand they delivered the money to be bestowed on workmen: for they dealt faithfully.",
       "tokens": [
         {
-          "t": "Moreover they reckoned not with the men, into whose hand they delivered the money to be bestowed on workmen: for they dealt faithfully."
+          "t": "Moreover they reckoned not with the men, into whose hand they delivered the money to be bestowed on workmen: for they dealt faithfully. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The trespass money and sin money was not brought into the house of the LORD: it was the priests’.",
       "tokens": [
         {
-          "t": "The trespass money and sin money was not brought into the house of the"
+          "t": "The trespass money and sin money was not brought into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": it was the priests’."
+          "t": ": it was the priests’. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem.",
       "tokens": [
         {
-          "t": "¶ Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem."
+          "t": "¶ Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold that was found in the treasures of the house of the LORD, and in the king’s house, and sent it to Hazael king of Syria: and he went away from Jerusalem.",
       "tokens": [
         {
-          "t": "And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold"
+          "t": "And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold "
         },
         {
           "add": "that was"
         },
         {
-          "t": "found in the treasures of the house of the"
+          "t": " found in the treasures of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and in the king’s house, and sent"
+          "t": ", and in the king’s house, and sent "
         },
         {
           "add": "it"
         },
         {
-          "t": "to Hazael king of Syria: and he went away from Jerusalem."
+          "t": " to Hazael king of Syria: and he went away from Jerusalem. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And the rest of the acts of Joash, and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
       "tokens": [
         {
-          "t": "¶ And the rest of the acts of Joash, and all that he did,"
+          "t": "¶ And the rest of the acts of Joash, and all that he did, "
         },
         {
           "add": "are"
         },
         {
-          "t": "they not written in the book of the chronicles of the kings of Judah?"
+          "t": " they not written in the book of the chronicles of the kings of Judah? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goeth down to Silla.",
       "tokens": [
         {
-          "t": "And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goeth down to Silla."
+          "t": "And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goeth down to Silla. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.",
       "tokens": [
         {
-          "t": "For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead."
+          "t": "For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead. "
         }
       ]
     }

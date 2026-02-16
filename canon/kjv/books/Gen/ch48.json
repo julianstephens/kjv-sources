@@ -7,291 +7,313 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim.",
       "tokens": [
         {
-          "t": "And it came to pass after these things, that"
+          "t": "And it came to pass after these things, that "
         },
         {
           "add": "one"
         },
         {
-          "t": "told Joseph, Behold, thy father"
+          "t": " told Joseph, Behold, thy father "
         },
         {
           "add": "is"
         },
         {
-          "t": "sick: and he took with him his two sons, Manasseh and Ephraim."
+          "t": " sick: and he took with him his two sons, Manasseh and Ephraim. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "one"
         },
         {
-          "t": "told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed."
+          "t": " told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,",
       "tokens": [
         {
-          "t": "And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,"
+          "t": "And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me, "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession.",
       "tokens": [
         {
-          "t": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee"
+          "t": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee "
         },
         {
           "add": "for"
         },
         {
-          "t": "an everlasting possession."
+          "t": " an everlasting possession. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, are mine; as Reuben and Simeon, they shall be mine.",
       "tokens": [
         {
-          "t": "¶ And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt,"
+          "t": "¶ And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, "
         },
         {
           "add": "are"
         },
         {
-          "t": "mine; as Reuben and Simeon, they shall be mine."
+          "t": " mine; as Reuben and Simeon, they shall be mine. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And thy issue, which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance.",
       "tokens": [
         {
-          "t": "And thy issue, which thou begettest after them, shall be thine,"
+          "t": "And thy issue, which thou begettest after them, shall be thine, "
         },
         {
           "add": "and"
         },
         {
-          "t": "shall be called after the name of their brethren in their inheritance."
+          "t": " shall be called after the name of their brethren in their inheritance. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same is Beth-lehem.",
       "tokens": [
         {
-          "t": "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet"
+          "t": "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet "
         },
         {
           "add": "there was"
         },
         {
-          "t": "but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same"
+          "t": " but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same "
         },
         {
           "add": "is"
         },
         {
-          "t": "Beth-lehem."
+          "t": " Beth-lehem. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Israel beheld Joseph’s sons, and said, Who are these?",
       "tokens": [
         {
-          "t": "And Israel beheld Joseph’s sons, and said, Who"
+          "t": "And Israel beheld Joseph’s sons, and said, Who "
         },
         {
           "add": "are"
         },
         {
-          "t": "these?"
+          "t": " these? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray thee, unto me, and I will bless them.",
       "tokens": [
         {
-          "t": "And Joseph said unto his father, They"
+          "t": "And Joseph said unto his father, They "
         },
         {
           "add": "are"
         },
         {
-          "t": "my sons, whom God hath given me in this"
+          "t": " my sons, whom God hath given me in this "
         },
         {
           "add": "place"
         },
         {
-          "t": ". And he said, Bring them, I pray thee, unto me, and I will bless them."
+          "t": ". And he said, Bring them, I pray thee, unto me, and I will bless them. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Now the eyes of Israel were dim for age, so that he could not see. And he brought them near unto him; and he kissed them, and embraced them.",
       "tokens": [
         {
-          "t": "Now the eyes of Israel were dim for age,"
+          "t": "Now the eyes of Israel were dim for age, "
         },
         {
           "add": "so that"
         },
         {
-          "t": "he could not see. And he brought them near unto him; and he kissed them, and embraced them."
+          "t": " he could not see. And he brought them near unto him; and he kissed them, and embraced them. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.",
       "tokens": [
         {
-          "t": "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed."
+          "t": "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth.",
       "tokens": [
         {
-          "t": "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth."
+          "t": "And Joseph brought them out from between his knees, and he bowed himself with his face to the earth. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought them near unto him.",
       "tokens": [
         {
-          "t": "And Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought"
+          "t": "And Joseph took them both, Ephraim in his right hand toward Israel’s left hand, and Manasseh in his left hand toward Israel’s right hand, and brought "
         },
         {
           "add": "them"
         },
         {
-          "t": "near unto him."
+          "t": " near unto him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Israel stretched out his right hand, and laid it upon Ephraim’s head, who was the younger, and his left hand upon Manasseh’s head, guiding his hands wittingly; for Manasseh was the firstborn.",
       "tokens": [
         {
-          "t": "And Israel stretched out his right hand, and laid"
+          "t": "And Israel stretched out his right hand, and laid "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon Ephraim’s head, who"
+          "t": " upon Ephraim’s head, who "
         },
         {
           "add": "was"
         },
         {
-          "t": "the younger, and his left hand upon Manasseh’s head, guiding his hands wittingly; for Manasseh"
+          "t": " the younger, and his left hand upon Manasseh’s head, guiding his hands wittingly; for Manasseh "
         },
         {
           "add": "was"
         },
         {
-          "t": "the firstborn."
+          "t": " the firstborn. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,",
       "tokens": [
         {
-          "t": "¶ And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,"
+          "t": "¶ And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.",
       "tokens": [
         {
-          "t": "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth."
+          "t": "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father’s hand, to remove it from Ephraim’s head unto Manasseh’s head.",
       "tokens": [
         {
-          "t": "And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father’s hand, to remove it from Ephraim’s head unto Manasseh’s head."
+          "t": "And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father’s hand, to remove it from Ephraim’s head unto Manasseh’s head. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Joseph said unto his father, Not so, my father: for this is the firstborn; put thy right hand upon his head.",
       "tokens": [
         {
-          "t": "And Joseph said unto his father, Not so, my father: for this"
+          "t": "And Joseph said unto his father, Not so, my father: for this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the firstborn; put thy right hand upon his head."
+          "t": " the firstborn; put thy right hand upon his head. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And his father refused, and said, I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.",
       "tokens": [
         {
-          "t": "And his father refused, and said, I know"
+          "t": "And his father refused, and said, I know "
         },
         {
           "add": "it"
         },
         {
-          "t": ", my son, I know"
+          "t": ", my son, I know "
         },
         {
           "add": "it:"
         },
         {
-          "t": "he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations."
+          "t": " he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.",
       "tokens": [
         {
-          "t": "And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh."
+          "t": "And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.",
       "tokens": [
         {
-          "t": "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers."
+          "t": "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.",
       "tokens": [
         {
-          "t": "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow."
+          "t": "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow. "
         }
       ]
     }

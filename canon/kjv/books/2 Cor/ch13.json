@@ -7,137 +7,151 @@
   "verses": [
     {
       "v": 1,
+      "plain": "This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the third"
+          "t": " the third "
         },
         {
           "add": "time"
         },
         {
-          "t": "I am coming to you. In the mouth of two or three witnesses shall every word be established."
+          "t": " I am coming to you. In the mouth of two or three witnesses shall every word be established. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:",
       "tokens": [
         {
-          "t": "I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:"
+          "t": "I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.",
       "tokens": [
         {
-          "t": "Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you."
+          "t": "Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.",
       "tokens": [
         {
-          "t": "For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you."
+          "t": "For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?",
       "tokens": [
         {
-          "t": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?"
+          "t": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But I trust that ye shall know that we are not reprobates.",
       "tokens": [
         {
-          "t": "But I trust that ye shall know that we are not reprobates."
+          "t": "But I trust that ye shall know that we are not reprobates. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.",
       "tokens": [
         {
-          "t": "Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates."
+          "t": "Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "For we can do nothing against the truth, but for the truth.",
       "tokens": [
         {
-          "t": "For we can do nothing against the truth, but for the truth."
+          "t": "For we can do nothing against the truth, but for the truth. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.",
       "tokens": [
         {
-          "t": "For we are glad, when we are weak, and ye are strong: and this also we wish,"
+          "t": "For we are glad, when we are weak, and ye are strong: and this also we wish, "
         },
         {
           "add": "even"
         },
         {
-          "t": "your perfection."
+          "t": " your perfection. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.",
       "tokens": [
         {
-          "t": "Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction."
+          "t": "Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.",
       "tokens": [
         {
-          "t": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you."
+          "t": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Greet one another with an holy kiss.",
       "tokens": [
         {
-          "t": "Greet one another with an holy kiss."
+          "t": "Greet one another with an holy kiss. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "All the saints salute you.",
       "tokens": [
         {
-          "t": "All the saints salute you."
+          "t": "All the saints salute you. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.",
       "tokens": [
         {
-          "t": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost,"
+          "t": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, "
         },
         {
           "add": "be"
         },
         {
-          "t": "with you all. Amen."
+          "t": " with you all. Amen. "
         }
       ]
     }

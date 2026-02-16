@@ -7,419 +7,445 @@
   "verses": [
     {
       "v": 1,
+      "plain": "When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;",
       "tokens": [
         {
-          "t": "When the"
+          "t": "When the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;"
+          "t": " thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And when the LORD thy God shall deliver them before thee; thou shalt smite them, and utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:",
       "tokens": [
         {
-          "t": "And when the"
+          "t": "And when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall deliver them before thee; thou shalt smite them,"
+          "t": " thy God shall deliver them before thee; thou shalt smite them, "
         },
         {
           "add": "and"
         },
         {
-          "t": "utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:"
+          "t": " utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.",
       "tokens": [
         {
-          "t": "Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son."
+          "t": "Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For they will turn away thy son from following me, that they may serve other gods: so will the anger of the LORD be kindled against you, and destroy thee suddenly.",
       "tokens": [
         {
-          "t": "For they will turn away thy son from following me, that they may serve other gods: so will the anger of the"
+          "t": "For they will turn away thy son from following me, that they may serve other gods: so will the anger of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "be kindled against you, and destroy thee suddenly."
+          "t": " be kindled against you, and destroy thee suddenly. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "But thus shall ye deal with them; ye shall destroy their altars, and break down their images, and cut down their groves, and burn their graven images with fire.",
       "tokens": [
         {
-          "t": "But thus shall ye deal with them; ye shall destroy their altars, and break down their images, and cut down their groves, and burn their graven images with fire."
+          "t": "But thus shall ye deal with them; ye shall destroy their altars, and break down their images, and cut down their groves, and burn their graven images with fire. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "For thou art an holy people unto the LORD thy God: the LORD thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth.",
       "tokens": [
         {
-          "t": "For thou"
+          "t": "For thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "an holy people unto the"
+          "t": " an holy people unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God: the"
+          "t": " thy God: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath chosen thee to be a special people unto himself, above all people that"
+          "t": " thy God hath chosen thee to be a special people unto himself, above all people that "
         },
         {
           "add": "are"
         },
         {
-          "t": "upon the face of the earth."
+          "t": " upon the face of the earth. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The LORD did not set his love upon you, nor choose you, because ye were more in number than any people; for ye were the fewest of all people:",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "did not set his love upon you, nor choose you, because ye were more in number than any people; for ye"
+          "t": " did not set his love upon you, nor choose you, because ye were more in number than any people; for ye "
         },
         {
           "add": "were"
         },
         {
-          "t": "the fewest of all people:"
+          "t": " the fewest of all people: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt.",
       "tokens": [
         {
-          "t": "But because the"
+          "t": "But because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "loved you, and because he would keep the oath which he had sworn unto your fathers, hath the"
+          "t": " loved you, and because he would keep the oath which he had sworn unto your fathers, hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt."
+          "t": " brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;",
       "tokens": [
         {
-          "t": "Know therefore that the"
+          "t": "Know therefore that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, he"
+          "t": " thy God, he "
         },
         {
           "add": "is"
         },
         {
-          "t": "God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;"
+          "t": " God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And repayeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face.",
       "tokens": [
         {
-          "t": "And repayeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face."
+          "t": "And repayeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them.",
       "tokens": [
         {
-          "t": "Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them."
+          "t": "Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:",
       "tokens": [
         {
-          "t": "¶ Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the"
+          "t": "¶ Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:"
+          "t": " thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee.",
       "tokens": [
         {
-          "t": "And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee."
+          "t": "And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle.",
       "tokens": [
         {
-          "t": "Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle."
+          "t": "Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the LORD will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all them that hate thee.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all"
+          "t": " will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all "
         },
         {
           "add": "them"
         },
         {
-          "t": "that hate thee."
+          "t": " that hate thee. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And thou shalt consume all the people which the LORD thy God shall deliver thee; thine eye shall have no pity upon them: neither shalt thou serve their gods; for that will be a snare unto thee.",
       "tokens": [
         {
-          "t": "And thou shalt consume all the people which the"
+          "t": "And thou shalt consume all the people which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall deliver thee; thine eye shall have no pity upon them: neither shalt thou serve their gods; for that"
+          "t": " thy God shall deliver thee; thine eye shall have no pity upon them: neither shalt thou serve their gods; for that "
         },
         {
           "add": "will be"
         },
         {
-          "t": "a snare unto thee."
+          "t": " a snare unto thee. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "If thou shalt say in thine heart, These nations are more than I; how can I dispossess them?",
       "tokens": [
         {
-          "t": "If thou shalt say in thine heart, These nations"
+          "t": "If thou shalt say in thine heart, These nations "
         },
         {
           "add": "are"
         },
         {
-          "t": "more than I; how can I dispossess them?"
+          "t": " more than I; how can I dispossess them? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Thou shalt not be afraid of them: but shalt well remember what the LORD thy God did unto Pharaoh, and unto all Egypt;",
       "tokens": [
         {
-          "t": "Thou shalt not be afraid of them:"
+          "t": "Thou shalt not be afraid of them: "
         },
         {
           "add": "but"
         },
         {
-          "t": "shalt well remember what the"
+          "t": " shalt well remember what the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God did unto Pharaoh, and unto all Egypt;"
+          "t": " thy God did unto Pharaoh, and unto all Egypt; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the LORD thy God brought thee out: so shall the LORD thy God do unto all the people of whom thou art afraid.",
       "tokens": [
         {
-          "t": "The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the"
+          "t": "The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God brought thee out: so shall the"
+          "t": " thy God brought thee out: so shall the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God do unto all the people of whom thou art afraid."
+          "t": " thy God do unto all the people of whom thou art afraid. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Moreover the LORD thy God will send the hornet among them, until they that are left, and hide themselves from thee, be destroyed.",
       "tokens": [
         {
-          "t": "Moreover the"
+          "t": "Moreover the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God will send the hornet among them, until they that are left, and hide themselves from thee, be destroyed."
+          "t": " thy God will send the hornet among them, until they that are left, and hide themselves from thee, be destroyed. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Thou shalt not be affrighted at them: for the LORD thy God is among you, a mighty God and terrible.",
       "tokens": [
         {
-          "t": "Thou shalt not be affrighted at them: for the"
+          "t": "Thou shalt not be affrighted at them: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God"
+          "t": " thy God "
         },
         {
           "add": "is"
         },
         {
-          "t": "among you, a mighty God and terrible."
+          "t": " among you, a mighty God and terrible. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And the LORD thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee."
+          "t": " thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But the LORD thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed.",
       "tokens": [
         {
-          "t": "But the"
+          "t": "But the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed."
+          "t": " thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And he shall deliver their kings into thine hand, and thou shalt destroy their name from under heaven: there shall no man be able to stand before thee, until thou have destroyed them.",
       "tokens": [
         {
-          "t": "And he shall deliver their kings into thine hand, and thou shalt destroy their name from under heaven: there shall no man be able to stand before thee, until thou have destroyed them."
+          "t": "And he shall deliver their kings into thine hand, and thou shalt destroy their name from under heaven: there shall no man be able to stand before thee, until thou have destroyed them. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold that is on them, nor take it unto thee, lest thou be snared therein: for it is an abomination to the LORD thy God.",
       "tokens": [
         {
-          "t": "The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold"
+          "t": "The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold "
         },
         {
           "add": "that is"
         },
         {
-          "t": "on them, nor take"
+          "t": " on them, nor take "
         },
         {
           "add": "it"
         },
         {
-          "t": "unto thee, lest thou be snared therein: for it"
+          "t": " unto thee, lest thou be snared therein: for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "an abomination to the"
+          "t": " an abomination to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God."
+          "t": " thy God. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing.",
       "tokens": [
         {
-          "t": "Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it:"
+          "t": "Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: "
         },
         {
           "add": "but"
         },
         {
-          "t": "thou shalt utterly detest it, and thou shalt utterly abhor it; for it"
+          "t": " thou shalt utterly detest it, and thou shalt utterly abhor it; for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a cursed thing."
+          "t": " a cursed thing. "
         }
       ]
     }

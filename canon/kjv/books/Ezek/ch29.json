@@ -7,373 +7,394 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In the tenth year, in the tenth month, in the twelfth day of the month, the word of the LORD came unto me, saying,",
       "tokens": [
         {
-          "t": "In the tenth year, in the tenth"
+          "t": "In the tenth year, in the tenth "
         },
         {
           "add": "month"
         },
         {
-          "t": ", in the twelfth"
+          "t": ", in the twelfth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month, the word of the"
+          "t": " of the month, the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto me, saying,"
+          "t": " came unto me, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:",
       "tokens": [
         {
-          "t": "Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:"
+          "t": "Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Speak, and say, Thus saith the Lord GOD; Behold, I am against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river is mine own, and I have made it for myself.",
       "tokens": [
         {
-          "t": "Speak, and say, Thus saith the Lord"
+          "t": "Speak, and say, Thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; Behold, I"
+          "t": "; Behold, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river"
+          "t": " against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine own, and I have made"
+          "t": " mine own, and I have made "
         },
         {
           "add": "it"
         },
         {
-          "t": "for myself."
+          "t": " for myself. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales, and I will bring thee up out of the midst of thy rivers, and all the fish of thy rivers shall stick unto thy scales.",
       "tokens": [
         {
-          "t": "But I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales, and I will bring thee up out of the midst of thy rivers, and all the fish of thy rivers shall stick unto thy scales."
+          "t": "But I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales, and I will bring thee up out of the midst of thy rivers, and all the fish of thy rivers shall stick unto thy scales. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And I will leave thee thrown into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven.",
       "tokens": [
         {
-          "t": "And I will leave thee"
+          "t": "And I will leave thee "
         },
         {
           "add": "thrown"
         },
         {
-          "t": "into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven."
+          "t": " into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And all the inhabitants of Egypt shall know that I am the LORD, because they have been a staff of reed to the house of Israel.",
       "tokens": [
         {
-          "t": "And all the inhabitants of Egypt shall know that I"
+          "t": "And all the inhabitants of Egypt shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", because they have been a staff of reed to the house of Israel."
+          "t": ", because they have been a staff of reed to the house of Israel. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand.",
       "tokens": [
         {
-          "t": "When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand."
+          "t": "When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee.",
       "tokens": [
         {
-          "t": "¶ Therefore thus saith the Lord"
+          "t": "¶ Therefore thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; Behold, I will bring a sword upon thee, and cut off man and beast out of thee."
+          "t": "; Behold, I will bring a sword upon thee, and cut off man and beast out of thee. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the land of Egypt shall be desolate and waste; and they shall know that I am the LORD: because he hath said, The river is mine, and I have made it.",
       "tokens": [
         {
-          "t": "And the land of Egypt shall be desolate and waste; and they shall know that I"
+          "t": "And the land of Egypt shall be desolate and waste; and they shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": because he hath said, The river"
+          "t": ": because he hath said, The river "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine, and I have made"
+          "t": " mine, and I have made "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Behold, therefore I am against thee, and against thy rivers, and I will make the land of Egypt utterly waste and desolate, from the tower of Syene even unto the border of Ethiopia.",
       "tokens": [
         {
-          "t": "Behold, therefore I"
+          "t": "Behold, therefore I "
         },
         {
           "add": "am"
         },
         {
-          "t": "against thee, and against thy rivers, and I will make the land of Egypt utterly waste"
+          "t": " against thee, and against thy rivers, and I will make the land of Egypt utterly waste "
         },
         {
           "add": "and"
         },
         {
-          "t": "desolate, from the tower of Syene even unto the border of Ethiopia."
+          "t": " desolate, from the tower of Syene even unto the border of Ethiopia. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years.",
       "tokens": [
         {
-          "t": "No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years."
+          "t": "No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And I will make the land of Egypt desolate in the midst of the countries that are desolate, and her cities among the cities that are laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries.",
       "tokens": [
         {
-          "t": "And I will make the land of Egypt desolate in the midst of the countries"
+          "t": "And I will make the land of Egypt desolate in the midst of the countries "
         },
         {
           "add": "that are"
         },
         {
-          "t": "desolate, and her cities among the cities"
+          "t": " desolate, and her cities among the cities "
         },
         {
           "add": "that are"
         },
         {
-          "t": "laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries."
+          "t": " laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered:",
       "tokens": [
         {
-          "t": "¶ Yet thus saith the Lord"
+          "t": "¶ Yet thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; At the end of forty years will I gather the Egyptians from the people whither they were scattered:"
+          "t": "; At the end of forty years will I gather the Egyptians from the people whither they were scattered: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And I will bring again the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their habitation; and they shall be there a base kingdom.",
       "tokens": [
         {
-          "t": "And I will bring again the captivity of Egypt, and will cause them to return"
+          "t": "And I will bring again the captivity of Egypt, and will cause them to return "
         },
         {
           "add": "into"
         },
         {
-          "t": "the land of Pathros, into the land of their habitation; and they shall be there a base kingdom."
+          "t": " the land of Pathros, into the land of their habitation; and they shall be there a base kingdom. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.",
       "tokens": [
         {
-          "t": "It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations."
+          "t": "It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And it shall be no more the confidence of the house of Israel, which bringeth their iniquity to remembrance, when they shall look after them: but they shall know that I am the Lord GOD.",
       "tokens": [
         {
-          "t": "And it shall be no more the confidence of the house of Israel, which bringeth"
+          "t": "And it shall be no more the confidence of the house of Israel, which bringeth "
         },
         {
           "add": "their"
         },
         {
-          "t": "iniquity to remembrance, when they shall look after them: but they shall know that I"
+          "t": " iniquity to remembrance, when they shall look after them: but they shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the Lord"
+          "t": " the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And it came to pass in the seven and twentieth year, in the first month, in the first day of the month, the word of the LORD came unto me, saying,",
       "tokens": [
         {
-          "t": "¶ And it came to pass in the seven and twentieth year, in the first"
+          "t": "¶ And it came to pass in the seven and twentieth year, in the first "
         },
         {
           "add": "month"
         },
         {
-          "t": ", in the first"
+          "t": ", in the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month, the word of the"
+          "t": " of the month, the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto me, saying,"
+          "t": " came unto me, saying, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head was made bald, and every shoulder was peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it:",
       "tokens": [
         {
-          "t": "Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head"
+          "t": "Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head "
         },
         {
           "add": "was"
         },
         {
-          "t": "made bald, and every shoulder"
+          "t": " made bald, and every shoulder "
         },
         {
           "add": "was"
         },
         {
-          "t": "peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it:"
+          "t": " peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army.",
       "tokens": [
         {
-          "t": "Therefore thus saith the Lord"
+          "t": "Therefore thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army."
+          "t": "; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "I have given him the land of Egypt for his labour wherewith he served against it, because they wrought for me, saith the Lord GOD.",
       "tokens": [
         {
-          "t": "I have given him the land of Egypt"
+          "t": "I have given him the land of Egypt "
         },
         {
           "add": "for"
         },
         {
-          "t": "his labour wherewith he served against it, because they wrought for me, saith the Lord"
+          "t": " his labour wherewith he served against it, because they wrought for me, saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I am the LORD.",
       "tokens": [
         {
-          "t": "¶ In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I"
+          "t": "¶ In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

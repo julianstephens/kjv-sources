@@ -7,359 +7,382 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,"
+          "t": " spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Let the children of Israel also keep the passover at his appointed season.",
       "tokens": [
         {
-          "t": "Let the children of Israel also keep the passover at his appointed season."
+          "t": "Let the children of Israel also keep the passover at his appointed season. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.",
       "tokens": [
         {
-          "t": "In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it."
+          "t": "In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Moses spake unto the children of Israel, that they should keep the passover.",
       "tokens": [
         {
-          "t": "And Moses spake unto the children of Israel, that they should keep the passover."
+          "t": "And Moses spake unto the children of Israel, that they should keep the passover. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel.",
       "tokens": [
         {
-          "t": "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the"
+          "t": "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded Moses, so did the children of Israel."
+          "t": " commanded Moses, so did the children of Israel. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:",
       "tokens": [
         {
-          "t": "¶ And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:"
+          "t": "¶ And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And those men said unto him, We are defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel?",
       "tokens": [
         {
-          "t": "And those men said unto him, We"
+          "t": "And those men said unto him, We "
         },
         {
           "add": "are"
         },
         {
-          "t": "defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the"
+          "t": " defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in his appointed season among the children of Israel?"
+          "t": " in his appointed season among the children of Israel? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Moses said unto them, Stand still, and I will hear what the LORD will command concerning you.",
       "tokens": [
         {
-          "t": "And Moses said unto them, Stand still, and I will hear what the"
+          "t": "And Moses said unto them, Stand still, and I will hear what the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will command concerning you."
+          "t": " will command concerning you. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or be in a journey afar off, yet he shall keep the passover unto the LORD.",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or"
+          "t": "Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or "
         },
         {
           "add": "be"
         },
         {
-          "t": "in a journey afar off, yet he shall keep the passover unto the"
+          "t": " in a journey afar off, yet he shall keep the passover unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The fourteenth day of the second month at even they shall keep it, and eat it with unleavened bread and bitter herbs.",
       "tokens": [
         {
-          "t": "The fourteenth day of the second month at even they shall keep it,"
+          "t": "The fourteenth day of the second month at even they shall keep it, "
         },
         {
           "add": "and"
         },
         {
-          "t": "eat it with unleavened bread and bitter"
+          "t": " eat it with unleavened bread and bitter "
         },
         {
           "add": "herbs"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it.",
       "tokens": [
         {
-          "t": "They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it."
+          "t": "They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin.",
       "tokens": [
         {
-          "t": "But the man that"
+          "t": "But the man that "
         },
         {
           "add": "is"
         },
         {
-          "t": "clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the"
+          "t": " clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in his appointed season, that man shall bear his sin."
+          "t": " in his appointed season, that man shall bear his sin. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And if a stranger shall sojourn among you, and will keep the passover unto the LORD; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land.",
       "tokens": [
         {
-          "t": "And if a stranger shall sojourn among you, and will keep the passover unto the"
+          "t": "And if a stranger shall sojourn among you, and will keep the passover unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land."
+          "t": "; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And on the day that the tabernacle was reared up the cloud covered the tabernacle, namely, the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning.",
       "tokens": [
         {
-          "t": "¶ And on the day that the tabernacle was reared up the cloud covered the tabernacle,"
+          "t": "¶ And on the day that the tabernacle was reared up the cloud covered the tabernacle, "
         },
         {
           "add": "namely"
         },
         {
-          "t": ", the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning."
+          "t": ", the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "So it was alway: the cloud covered it by day, and the appearance of fire by night.",
       "tokens": [
         {
-          "t": "So it was alway: the cloud covered it"
+          "t": "So it was alway: the cloud covered it "
         },
         {
           "add": "by day"
         },
         {
-          "t": ", and the appearance of fire by night."
+          "t": ", and the appearance of fire by night. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.",
       "tokens": [
         {
-          "t": "And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents."
+          "t": "And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "At the commandment of the LORD the children of Israel journeyed, and at the commandment of the LORD they pitched: as long as the cloud abode upon the tabernacle they rested in their tents.",
       "tokens": [
         {
-          "t": "At the commandment of the"
+          "t": "At the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "the children of Israel journeyed, and at the commandment of the"
+          "t": " the children of Israel journeyed, and at the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "they pitched: as long as the cloud abode upon the tabernacle they rested in their tents."
+          "t": " they pitched: as long as the cloud abode upon the tabernacle they rested in their tents. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the LORD, and journeyed not.",
       "tokens": [
         {
-          "t": "And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the"
+          "t": "And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and journeyed not."
+          "t": ", and journeyed not. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And so it was, when the cloud was a few days upon the tabernacle; according to the commandment of the LORD they abode in their tents, and according to the commandment of the LORD they journeyed.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "so"
         },
         {
-          "t": "it was, when the cloud was a few days upon the tabernacle; according to the commandment of the"
+          "t": " it was, when the cloud was a few days upon the tabernacle; according to the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "they abode in their tents, and according to the commandment of the"
+          "t": " they abode in their tents, and according to the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "they journeyed."
+          "t": " they journeyed. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And so it was, when the cloud abode from even unto the morning, and that the cloud was taken up in the morning, then they journeyed: whether it was by day or by night that the cloud was taken up, they journeyed.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "so"
         },
         {
-          "t": "it was, when the cloud abode from even unto the morning, and"
+          "t": " it was, when the cloud abode from even unto the morning, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "the cloud was taken up in the morning, then they journeyed: whether"
+          "t": " the cloud was taken up in the morning, then they journeyed: whether "
         },
         {
           "add": "it was"
         },
         {
-          "t": "by day or by night that the cloud was taken up, they journeyed."
+          "t": " by day or by night that the cloud was taken up, they journeyed. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Or whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed.",
       "tokens": [
         {
-          "t": "Or"
+          "t": "Or "
         },
         {
           "add": "whether it were"
         },
         {
-          "t": "two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed."
+          "t": " two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses.",
       "tokens": [
         {
-          "t": "At the commandment of the"
+          "t": "At the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "they rested in the tents, and at the commandment of the"
+          "t": " they rested in the tents, and at the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "they journeyed: they kept the charge of the"
+          "t": " they journeyed: they kept the charge of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", at the commandment of the"
+          "t": ", at the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "by the hand of Moses."
+          "t": " by the hand of Moses. "
         }
       ]
     }

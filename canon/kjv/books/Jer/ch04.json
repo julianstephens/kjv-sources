@@ -7,486 +7,517 @@
   "verses": [
     {
       "v": 1,
+      "plain": "If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.",
       "tokens": [
         {
-          "t": "If thou wilt return, O Israel, saith the"
+          "t": "If thou wilt return, O Israel, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove."
+          "t": ", return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And thou shalt swear, The LORD liveth, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory.",
       "tokens": [
         {
-          "t": "And thou shalt swear, The"
+          "t": "And thou shalt swear, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory."
+          "t": " liveth, in truth, in judgment, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ For thus saith the LORD to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.",
       "tokens": [
         {
-          "t": "¶ For thus saith the"
+          "t": "¶ For thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns."
+          "t": " to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Circumcise yourselves to the LORD, and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench it, because of the evil of your doings.",
       "tokens": [
         {
-          "t": "Circumcise yourselves to the"
+          "t": "Circumcise yourselves to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench"
+          "t": ", and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench "
         },
         {
           "add": "it"
         },
         {
-          "t": ", because of the evil of your doings."
+          "t": ", because of the evil of your doings. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.",
       "tokens": [
         {
-          "t": "Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities."
+          "t": "Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Set up the standard toward Zion: retire, stay not: for I will bring evil from the north, and a great destruction.",
       "tokens": [
         {
-          "t": "Set up the standard toward Zion: retire, stay not: for I will bring evil from the north, and a great destruction."
+          "t": "Set up the standard toward Zion: retire, stay not: for I will bring evil from the north, and a great destruction. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; and thy cities shall be laid waste, without an inhabitant.",
       "tokens": [
         {
-          "t": "The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate;"
+          "t": "The lion is come up from his thicket, and the destroyer of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; "
         },
         {
           "add": "and"
         },
         {
-          "t": "thy cities shall be laid waste, without an inhabitant."
+          "t": " thy cities shall be laid waste, without an inhabitant. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "For this gird you with sackcloth, lament and howl: for the fierce anger of the LORD is not turned back from us.",
       "tokens": [
         {
-          "t": "For this gird you with sackcloth, lament and howl: for the fierce anger of the"
+          "t": "For this gird you with sackcloth, lament and howl: for the fierce anger of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "is not turned back from us."
+          "t": " is not turned back from us. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And it shall come to pass at that day, saith the LORD, that the heart of the king shall perish, and the heart of the princes; and the priests shall be astonished, and the prophets shall wonder.",
       "tokens": [
         {
-          "t": "And it shall come to pass at that day, saith the"
+          "t": "And it shall come to pass at that day, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "that"
         },
         {
-          "t": "the heart of the king shall perish, and the heart of the princes; and the priests shall be astonished, and the prophets shall wonder."
+          "t": " the heart of the king shall perish, and the heart of the princes; and the priests shall be astonished, and the prophets shall wonder. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then said I, Ah, Lord GOD! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the soul.",
       "tokens": [
         {
-          "t": "Then said I, Ah, Lord"
+          "t": "Then said I, Ah, Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the soul."
+          "t": "! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the soul. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "At that time shall it be said to this people and to Jerusalem, A dry wind of the high places in the wilderness toward the daughter of my people, not to fan, nor to cleanse,",
       "tokens": [
         {
-          "t": "At that time shall it be said to this people and to Jerusalem, A dry wind of the high places in the wilderness toward the daughter of my people, not to fan, nor to cleanse,"
+          "t": "At that time shall it be said to this people and to Jerusalem, A dry wind of the high places in the wilderness toward the daughter of my people, not to fan, nor to cleanse, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Even a full wind from those places shall come unto me: now also will I give sentence against them.",
       "tokens": [
         {
           "add": "Even"
         },
         {
-          "t": "a full wind from those"
+          "t": " a full wind from those "
         },
         {
           "add": "places"
         },
         {
-          "t": "shall come unto me: now also will I give sentence against them."
+          "t": " shall come unto me: now also will I give sentence against them. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Behold, he shall come up as clouds, and his chariots shall be as a whirlwind: his horses are swifter than eagles. Woe unto us! for we are spoiled.",
       "tokens": [
         {
-          "t": "Behold, he shall come up as clouds, and his chariots"
+          "t": "Behold, he shall come up as clouds, and his chariots "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "as a whirlwind: his horses are swifter than eagles. Woe unto us! for we are spoiled."
+          "t": " as a whirlwind: his horses are swifter than eagles. Woe unto us! for we are spoiled. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "O Jerusalem, wash thine heart from wickedness, that thou mayest be saved. How long shall thy vain thoughts lodge within thee?",
       "tokens": [
         {
-          "t": "O Jerusalem, wash thine heart from wickedness, that thou mayest be saved. How long shall thy vain thoughts lodge within thee?"
+          "t": "O Jerusalem, wash thine heart from wickedness, that thou mayest be saved. How long shall thy vain thoughts lodge within thee? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For a voice declareth from Dan, and publisheth affliction from mount Ephraim.",
       "tokens": [
         {
-          "t": "For a voice declareth from Dan, and publisheth affliction from mount Ephraim."
+          "t": "For a voice declareth from Dan, and publisheth affliction from mount Ephraim. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Make ye mention to the nations; behold, publish against Jerusalem, that watchers come from a far country, and give out their voice against the cities of Judah.",
       "tokens": [
         {
-          "t": "Make ye mention to the nations; behold, publish against Jerusalem,"
+          "t": "Make ye mention to the nations; behold, publish against Jerusalem, "
         },
         {
           "add": "that"
         },
         {
-          "t": "watchers come from a far country, and give out their voice against the cities of Judah."
+          "t": " watchers come from a far country, and give out their voice against the cities of Judah. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "As keepers of a field, are they against her round about; because she hath been rebellious against me, saith the LORD.",
       "tokens": [
         {
-          "t": "As keepers of a field, are they against her round about; because she hath been rebellious against me, saith the"
+          "t": "As keepers of a field, are they against her round about; because she hath been rebellious against me, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Thy way and thy doings have procured these things unto thee; this is thy wickedness, because it is bitter, because it reacheth unto thine heart.",
       "tokens": [
         {
-          "t": "Thy way and thy doings have procured these"
+          "t": "Thy way and thy doings have procured these "
         },
         {
           "add": "things"
         },
         {
-          "t": "unto thee; this"
+          "t": " unto thee; this "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy wickedness, because it is bitter, because it reacheth unto thine heart."
+          "t": " thy wickedness, because it is bitter, because it reacheth unto thine heart. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war.",
       "tokens": [
         {
-          "t": "¶ My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war."
+          "t": "¶ My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, and my curtains in a moment.",
       "tokens": [
         {
-          "t": "Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled,"
+          "t": "Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, "
         },
         {
           "add": "and"
         },
         {
-          "t": "my curtains in a moment."
+          "t": " my curtains in a moment. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "How long shall I see the standard, and hear the sound of the trumpet?",
       "tokens": [
         {
-          "t": "How long shall I see the standard,"
+          "t": "How long shall I see the standard, "
         },
         {
           "add": "and"
         },
         {
-          "t": "hear the sound of the trumpet?"
+          "t": " hear the sound of the trumpet? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "For my people is foolish, they have not known me; they are sottish children, and they have none understanding: they are wise to do evil, but to do good they have no knowledge.",
       "tokens": [
         {
-          "t": "For my people"
+          "t": "For my people "
         },
         {
           "add": "is"
         },
         {
-          "t": "foolish, they have not known me; they"
+          "t": " foolish, they have not known me; they "
         },
         {
           "add": "are"
         },
         {
-          "t": "sottish children, and they have none understanding: they"
+          "t": " sottish children, and they have none understanding: they "
         },
         {
           "add": "are"
         },
         {
-          "t": "wise to do evil, but to do good they have no knowledge."
+          "t": " wise to do evil, but to do good they have no knowledge. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "I beheld the earth, and, lo, it was without form, and void; and the heavens, and they had no light.",
       "tokens": [
         {
-          "t": "I beheld the earth, and, lo,"
+          "t": "I beheld the earth, and, lo, "
         },
         {
           "add": "it was"
         },
         {
-          "t": "without form, and void; and the heavens, and they"
+          "t": " without form, and void; and the heavens, and they "
         },
         {
           "add": "had"
         },
         {
-          "t": "no light."
+          "t": " no light. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "I beheld the mountains, and, lo, they trembled, and all the hills moved lightly.",
       "tokens": [
         {
-          "t": "I beheld the mountains, and, lo, they trembled, and all the hills moved lightly."
+          "t": "I beheld the mountains, and, lo, they trembled, and all the hills moved lightly. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "I beheld, and, lo, there was no man, and all the birds of the heavens were fled.",
       "tokens": [
         {
-          "t": "I beheld, and, lo,"
+          "t": "I beheld, and, lo, "
         },
         {
           "add": "there was"
         },
         {
-          "t": "no man, and all the birds of the heavens were fled."
+          "t": " no man, and all the birds of the heavens were fled. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "I beheld, and, lo, the fruitful place was a wilderness, and all the cities thereof were broken down at the presence of the LORD, and by his fierce anger.",
       "tokens": [
         {
-          "t": "I beheld, and, lo, the fruitful place"
+          "t": "I beheld, and, lo, the fruitful place "
         },
         {
           "add": "was"
         },
         {
-          "t": "a wilderness, and all the cities thereof were broken down at the presence of the"
+          "t": " a wilderness, and all the cities thereof were broken down at the presence of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "and"
         },
         {
-          "t": "by his fierce anger."
+          "t": " by his fierce anger. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "For thus hath the LORD said, The whole land shall be desolate; yet will I not make a full end.",
       "tokens": [
         {
-          "t": "For thus hath the"
+          "t": "For thus hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said, The whole land shall be desolate; yet will I not make a full end."
+          "t": " said, The whole land shall be desolate; yet will I not make a full end. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "For this shall the earth mourn, and the heavens above be black: because I have spoken it, I have purposed it, and will not repent, neither will I turn back from it.",
       "tokens": [
         {
-          "t": "For this shall the earth mourn, and the heavens above be black: because I have spoken"
+          "t": "For this shall the earth mourn, and the heavens above be black: because I have spoken "
         },
         {
           "add": "it"
         },
         {
-          "t": ", I have purposed"
+          "t": ", I have purposed "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and will not repent, neither will I turn back from it."
+          "t": ", and will not repent, neither will I turn back from it. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "The whole city shall flee for the noise of the horsemen and bowmen; they shall go into thickets, and climb up upon the rocks: every city shall be forsaken, and not a man dwell therein.",
       "tokens": [
         {
-          "t": "The whole city shall flee for the noise of the horsemen and bowmen; they shall go into thickets, and climb up upon the rocks: every city"
+          "t": "The whole city shall flee for the noise of the horsemen and bowmen; they shall go into thickets, and climb up upon the rocks: every city "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "forsaken, and not a man dwell therein."
+          "t": " forsaken, and not a man dwell therein. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And when thou art spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; thy lovers will despise thee, they will seek thy life.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "when"
         },
         {
-          "t": "thou"
+          "t": " thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair;"
+          "t": " spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; "
         },
         {
           "add": "thy"
         },
         {
-          "t": "lovers will despise thee, they will seek thy life."
+          "t": " lovers will despise thee, they will seek thy life. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "For I have heard a voice as of a woman in travail, and the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that bewaileth herself, that spreadeth her hands, saying, Woe is me now! for my soul is wearied because of murderers.",
       "tokens": [
         {
-          "t": "For I have heard a voice as of a woman in travail,"
+          "t": "For I have heard a voice as of a woman in travail, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion,"
+          "t": " the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, "
         },
         {
           "add": "that"
         },
         {
-          "t": "bewaileth herself,"
+          "t": " bewaileth herself, "
         },
         {
           "add": "that"
         },
         {
-          "t": "spreadeth her hands,"
+          "t": " spreadeth her hands, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Woe"
+          "t": ", Woe "
         },
         {
           "add": "is"
         },
         {
-          "t": "me now! for my soul is wearied because of murderers."
+          "t": " me now! for my soul is wearied because of murderers. "
         }
       ]
     }

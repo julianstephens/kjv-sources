@@ -7,162 +7,172 @@
   "verses": [
     {
       "v": 1,
+      "plain": "LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
       "tokens": [
         {
           "nd": "LORD"
         },
         {
-          "t": ", I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee."
+          "t": ", I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice.",
       "tokens": [
         {
-          "t": "Let my prayer be set forth before thee"
+          "t": "Let my prayer be set forth before thee "
         },
         {
           "add": "as"
         },
         {
-          "t": "incense;"
+          "t": " incense; "
         },
         {
           "add": "and"
         },
         {
-          "t": "the lifting up of my hands"
+          "t": " the lifting up of my hands "
         },
         {
           "add": "as"
         },
         {
-          "t": "the evening sacrifice."
+          "t": " the evening sacrifice. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Set a watch, O LORD, before my mouth; keep the door of my lips.",
       "tokens": [
         {
-          "t": "Set a watch, O"
+          "t": "Set a watch, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", before my mouth; keep the door of my lips."
+          "t": ", before my mouth; keep the door of my lips. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Incline not my heart to any evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.",
       "tokens": [
         {
-          "t": "Incline not my heart to"
+          "t": "Incline not my heart to "
         },
         {
           "add": "any"
         },
         {
-          "t": "evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties."
+          "t": " evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities.",
       "tokens": [
         {
-          "t": "Let the righteous smite me;"
+          "t": "Let the righteous smite me; "
         },
         {
           "add": "it shall be"
         },
         {
-          "t": "a kindness: and let him reprove me;"
+          "t": " a kindness: and let him reprove me; "
         },
         {
           "add": "it shall be"
         },
         {
-          "t": "an excellent oil,"
+          "t": " an excellent oil, "
         },
         {
           "add": "which"
         },
         {
-          "t": "shall not break my head: for yet my prayer also"
+          "t": " shall not break my head: for yet my prayer also "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "in their calamities."
+          "t": " in their calamities. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet.",
       "tokens": [
         {
-          "t": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet."
+          "t": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth wood upon the earth.",
       "tokens": [
         {
-          "t": "Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth"
+          "t": "Our bones are scattered at the grave’s mouth, as when one cutteth and cleaveth "
         },
         {
           "add": "wood"
         },
         {
-          "t": "upon the earth."
+          "t": " upon the earth. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But mine eyes are unto thee, O GOD the Lord: in thee is my trust; leave not my soul destitute.",
       "tokens": [
         {
-          "t": "But mine eyes"
+          "t": "But mine eyes "
         },
         {
           "add": "are"
         },
         {
-          "t": "unto thee, O"
+          "t": " unto thee, O "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "the Lord: in thee is my trust; leave not my soul destitute."
+          "t": " the Lord: in thee is my trust; leave not my soul destitute. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Keep me from the snares which they have laid for me, and the gins of the workers of iniquity.",
       "tokens": [
         {
-          "t": "Keep me from the snares"
+          "t": "Keep me from the snares "
         },
         {
           "add": "which"
         },
         {
-          "t": "they have laid for me, and the gins of the workers of iniquity."
+          "t": " they have laid for me, and the gins of the workers of iniquity. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Let the wicked fall into their own nets, whilst that I withal escape.",
       "tokens": [
         {
-          "t": "Let the wicked fall into their own nets, whilst that I withal escape."
+          "t": "Let the wicked fall into their own nets, whilst that I withal escape. "
         }
       ]
     }

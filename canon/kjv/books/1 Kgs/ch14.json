@@ -7,501 +7,532 @@
   "verses": [
     {
       "v": 1,
+      "plain": "At that time Abijah the son of Jeroboam fell sick.",
       "tokens": [
         {
-          "t": "At that time Abijah the son of Jeroboam fell sick."
+          "t": "At that time Abijah the son of Jeroboam fell sick. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, which told me that I should be king over this people.",
       "tokens": [
         {
-          "t": "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there"
+          "t": "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there "
         },
         {
           "add": "is"
         },
         {
-          "t": "Ahijah the prophet, which told me that"
+          "t": " Ahijah the prophet, which told me that "
         },
         {
           "add": "I should be"
         },
         {
-          "t": "king over this people."
+          "t": " king over this people. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child.",
       "tokens": [
         {
-          "t": "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child."
+          "t": "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age.",
       "tokens": [
         {
-          "t": "And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age."
+          "t": "And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And the LORD said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he is sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself to be another woman.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he"
+          "t": " said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself"
+          "t": " sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself "
         },
         {
           "add": "to be"
         },
         {
-          "t": "another"
+          "t": " another "
         },
         {
           "add": "woman"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings.",
       "tokens": [
         {
-          "t": "And it was"
+          "t": "And it was "
         },
         {
           "add": "so"
         },
         {
-          "t": ", when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself"
+          "t": ", when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself "
         },
         {
           "add": "to be"
         },
         {
-          "t": "another? for I"
+          "t": " another? for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "sent to thee"
+          "t": " sent to thee "
         },
         {
           "add": "with"
         },
         {
-          "t": "heavy"
+          "t": " heavy "
         },
         {
           "add": "tidings"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Go, tell Jeroboam, Thus saith the LORD God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,",
       "tokens": [
         {
-          "t": "Go, tell Jeroboam, Thus saith the"
+          "t": "Go, tell Jeroboam, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,"
+          "t": " God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And rent the kingdom away from the house of David, and gave it thee: and yet thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in mine eyes;",
       "tokens": [
         {
-          "t": "And rent the kingdom away from the house of David, and gave it thee: and"
+          "t": "And rent the kingdom away from the house of David, and gave it thee: and "
         },
         {
           "add": "yet"
         },
         {
-          "t": "thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do"
+          "t": " thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do "
         },
         {
           "add": "that"
         },
         {
-          "t": "only"
+          "t": " only "
         },
         {
           "add": "which was"
         },
         {
-          "t": "right in mine eyes;"
+          "t": " right in mine eyes; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:",
       "tokens": [
         {
-          "t": "But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:"
+          "t": "But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, and him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone.",
       "tokens": [
         {
-          "t": "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall,"
+          "t": "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, "
         },
         {
           "add": "and"
         },
         {
-          "t": "him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone."
+          "t": " him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the LORD hath spoken it.",
       "tokens": [
         {
-          "t": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the"
+          "t": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath spoken"
+          "t": " hath spoken "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Arise thou therefore, get thee to thine own house: and when thy feet enter into the city, the child shall die.",
       "tokens": [
         {
-          "t": "Arise thou therefore, get thee to thine own house:"
+          "t": "Arise thou therefore, get thee to thine own house: "
         },
         {
           "add": "and"
         },
         {
-          "t": "when thy feet enter into the city, the child shall die."
+          "t": " when thy feet enter into the city, the child shall die. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found some good thing toward the LORD God of Israel in the house of Jeroboam.",
       "tokens": [
         {
-          "t": "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found"
+          "t": "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found "
         },
         {
           "add": "some"
         },
         {
-          "t": "good thing toward the"
+          "t": " good thing toward the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel in the house of Jeroboam."
+          "t": " God of Israel in the house of Jeroboam. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.",
       "tokens": [
         {
-          "t": "Moreover the"
+          "t": "Moreover the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now."
+          "t": " shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For the LORD shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the LORD to anger.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the"
+          "t": " shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to anger."
+          "t": " to anger. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin.",
       "tokens": [
         {
-          "t": "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin."
+          "t": "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And Jeroboam’s wife arose, and departed, and came to Tirzah: and when she came to the threshold of the door, the child died;",
       "tokens": [
         {
-          "t": "¶ And Jeroboam’s wife arose, and departed, and came to Tirzah:"
+          "t": "¶ And Jeroboam’s wife arose, and departed, and came to Tirzah: "
         },
         {
           "add": "and"
         },
         {
-          "t": "when she came to the threshold of the door, the child died;"
+          "t": " when she came to the threshold of the door, the child died; "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And they buried him; and all Israel mourned for him, according to the word of the LORD, which he spake by the hand of his servant Ahijah the prophet.",
       "tokens": [
         {
-          "t": "And they buried him; and all Israel mourned for him, according to the word of the"
+          "t": "And they buried him; and all Israel mourned for him, according to the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which he spake by the hand of his servant Ahijah the prophet."
+          "t": ", which he spake by the hand of his servant Ahijah the prophet. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.",
       "tokens": [
         {
-          "t": "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they"
+          "t": "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they "
         },
         {
           "add": "are"
         },
         {
-          "t": "written in the book of the chronicles of the kings of Israel."
+          "t": " written in the book of the chronicles of the kings of Israel. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.",
       "tokens": [
         {
-          "t": "And the days which Jeroboam reigned"
+          "t": "And the days which Jeroboam reigned "
         },
         {
           "add": "were"
         },
         {
-          "t": "two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead."
+          "t": " two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother’s name was Naamah an Ammonitess.",
       "tokens": [
         {
-          "t": "¶ And Rehoboam the son of Solomon reigned in Judah. Rehoboam"
+          "t": "¶ And Rehoboam the son of Solomon reigned in Judah. Rehoboam "
         },
         {
           "add": "was"
         },
         {
-          "t": "forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the"
+          "t": " forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "did choose out of all the tribes of Israel, to put his name there. And his mother’s name"
+          "t": " did choose out of all the tribes of Israel, to put his name there. And his mother’s name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Naamah an Ammonitess."
+          "t": " Naamah an Ammonitess. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.",
       "tokens": [
         {
-          "t": "And Judah did evil in the sight of the"
+          "t": "And Judah did evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done."
+          "t": ", and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For they also built them high places, and images, and groves, on every high hill, and under every green tree.",
       "tokens": [
         {
-          "t": "For they also built them high places, and images, and groves, on every high hill, and under every green tree."
+          "t": "For they also built them high places, and images, and groves, on every high hill, and under every green tree. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And there were also sodomites in the land: and they did according to all the abominations of the nations which the LORD cast out before the children of Israel.",
       "tokens": [
         {
-          "t": "And there were also sodomites in the land:"
+          "t": "And there were also sodomites in the land: "
         },
         {
           "add": "and"
         },
         {
-          "t": "they did according to all the abominations of the nations which the"
+          "t": " they did according to all the abominations of the nations which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "cast out before the children of Israel."
+          "t": " cast out before the children of Israel. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:",
       "tokens": [
         {
-          "t": "¶ And it came to pass in the fifth year of king Rehoboam,"
+          "t": "¶ And it came to pass in the fifth year of king Rehoboam, "
         },
         {
           "add": "that"
         },
         {
-          "t": "Shishak king of Egypt came up against Jerusalem:"
+          "t": " Shishak king of Egypt came up against Jerusalem: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And he took away the treasures of the house of the LORD, and the treasures of the king’s house; he even took away all: and he took away all the shields of gold which Solomon had made.",
       "tokens": [
         {
-          "t": "And he took away the treasures of the house of the"
+          "t": "And he took away the treasures of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the treasures of the king’s house; he even took away all: and he took away all the shields of gold which Solomon had made."
+          "t": ", and the treasures of the king’s house; he even took away all: and he took away all the shields of gold which Solomon had made. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And king Rehoboam made in their stead brasen shields, and committed them unto the hands of the chief of the guard, which kept the door of the king’s house.",
       "tokens": [
         {
-          "t": "And king Rehoboam made in their stead brasen shields, and committed"
+          "t": "And king Rehoboam made in their stead brasen shields, and committed "
         },
         {
           "add": "them"
         },
         {
-          "t": "unto the hands of the chief of the guard, which kept the door of the king’s house."
+          "t": " unto the hands of the chief of the guard, which kept the door of the king’s house. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And it was so, when the king went into the house of the LORD, that the guard bare them, and brought them back into the guard chamber.",
       "tokens": [
         {
-          "t": "And it was"
+          "t": "And it was "
         },
         {
           "add": "so"
         },
         {
-          "t": ", when the king went into the house of the"
+          "t": ", when the king went into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that the guard bare them, and brought them back into the guard chamber."
+          "t": ", that the guard bare them, and brought them back into the guard chamber. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
       "tokens": [
         {
-          "t": "¶ Now the rest of the acts of Rehoboam, and all that he did,"
+          "t": "¶ Now the rest of the acts of Rehoboam, and all that he did, "
         },
         {
           "add": "are"
         },
         {
-          "t": "they not written in the book of the chronicles of the kings of Judah?"
+          "t": " they not written in the book of the chronicles of the kings of Judah? "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And there was war between Rehoboam and Jeroboam all their days.",
       "tokens": [
         {
-          "t": "And there was war between Rehoboam and Jeroboam all"
+          "t": "And there was war between Rehoboam and Jeroboam all "
         },
         {
           "add": "their"
         },
         {
-          "t": "days."
+          "t": " days. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother’s name was Naamah an Ammonitess. And Abijam his son reigned in his stead.",
       "tokens": [
         {
-          "t": "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother’s name"
+          "t": "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother’s name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Naamah an Ammonitess. And Abijam his son reigned in his stead."
+          "t": " Naamah an Ammonitess. And Abijam his son reigned in his stead. "
         }
       ]
     }

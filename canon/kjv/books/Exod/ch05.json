@@ -7,353 +7,376 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.",
       "tokens": [
         {
-          "t": "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the"
+          "t": "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, Let my people go, that they may hold a feast unto me in the wilderness."
+          "t": " God of Israel, Let my people go, that they may hold a feast unto me in the wilderness. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.",
       "tokens": [
         {
-          "t": "And Pharaoh said, Who"
+          "t": "And Pharaoh said, Who "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that I should obey his voice to let Israel go? I know not the"
+          "t": ", that I should obey his voice to let Israel go? I know not the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", neither will I let Israel go."
+          "t": ", neither will I let Israel go. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword.",
       "tokens": [
         {
-          "t": "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the"
+          "t": "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God; lest he fall upon us with pestilence, or with the sword."
+          "t": " our God; lest he fall upon us with pestilence, or with the sword. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens.",
       "tokens": [
         {
-          "t": "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens."
+          "t": "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Pharaoh said, Behold, the people of the land now are many, and ye make them rest from their burdens.",
       "tokens": [
         {
-          "t": "And Pharaoh said, Behold, the people of the land now"
+          "t": "And Pharaoh said, Behold, the people of the land now "
         },
         {
           "add": "are"
         },
         {
-          "t": "many, and ye make them rest from their burdens."
+          "t": " many, and ye make them rest from their burdens. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,",
       "tokens": [
         {
-          "t": "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,"
+          "t": "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying, "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves.",
       "tokens": [
         {
-          "t": "Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves."
+          "t": "Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God.",
       "tokens": [
         {
-          "t": "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish"
+          "t": "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish "
         },
         {
           "add": "ought"
         },
         {
-          "t": "thereof: for they"
+          "t": " thereof: for they "
         },
         {
           "add": "be"
         },
         {
-          "t": "idle; therefore they cry, saying, Let us go"
+          "t": " idle; therefore they cry, saying, Let us go "
         },
         {
           "add": "and"
         },
         {
-          "t": "sacrifice to our God."
+          "t": " sacrifice to our God. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words.",
       "tokens": [
         {
-          "t": "Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words."
+          "t": "Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw.",
       "tokens": [
         {
-          "t": "¶ And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw."
+          "t": "¶ And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished.",
       "tokens": [
         {
-          "t": "Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished."
+          "t": "Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw.",
       "tokens": [
         {
-          "t": "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw."
+          "t": "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw.",
       "tokens": [
         {
-          "t": "And the taskmasters hasted"
+          "t": "And the taskmasters hasted "
         },
         {
           "add": "them"
         },
         {
-          "t": ", saying, Fulfil your works,"
+          "t": ", saying, Fulfil your works, "
         },
         {
           "add": "your"
         },
         {
-          "t": "daily tasks, as when there was straw."
+          "t": " daily tasks, as when there was straw. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, and demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?",
       "tokens": [
         {
-          "t": "And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten,"
+          "t": "And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, "
         },
         {
           "add": "and"
         },
         {
-          "t": "demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?"
+          "t": " demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?",
       "tokens": [
         {
-          "t": "¶ Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?"
+          "t": "¶ Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants? "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants are beaten; but the fault is in thine own people.",
       "tokens": [
         {
-          "t": "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants"
+          "t": "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants "
         },
         {
           "add": "are"
         },
         {
-          "t": "beaten; but the fault"
+          "t": " beaten; but the fault "
         },
         {
           "add": "is"
         },
         {
-          "t": "in thine own people."
+          "t": " in thine own people. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "But he said, Ye are idle, ye are idle: therefore ye say, Let us go and do sacrifice to the LORD.",
       "tokens": [
         {
-          "t": "But he said, Ye"
+          "t": "But he said, Ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "idle,"
+          "t": " idle, "
         },
         {
           "add": "ye are"
         },
         {
-          "t": "idle: therefore ye say, Let us go"
+          "t": " idle: therefore ye say, Let us go "
         },
         {
           "add": "and"
         },
         {
-          "t": "do sacrifice to the"
+          "t": " do sacrifice to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Go therefore now, and work; for there shall no straw be given you, yet shall ye deliver the tale of bricks.",
       "tokens": [
         {
-          "t": "Go therefore now,"
+          "t": "Go therefore now, "
         },
         {
           "add": "and"
         },
         {
-          "t": "work; for there shall no straw be given you, yet shall ye deliver the tale of bricks."
+          "t": " work; for there shall no straw be given you, yet shall ye deliver the tale of bricks. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And the officers of the children of Israel did see that they were in evil case, after it was said, Ye shall not minish ought from your bricks of your daily task.",
       "tokens": [
         {
-          "t": "And the officers of the children of Israel did see"
+          "t": "And the officers of the children of Israel did see "
         },
         {
           "add": "that"
         },
         {
-          "t": "they"
+          "t": " they "
         },
         {
           "add": "were"
         },
         {
-          "t": "in evil"
+          "t": " in evil "
         },
         {
           "add": "case"
         },
         {
-          "t": ", after it was said, Ye shall not minish"
+          "t": ", after it was said, Ye shall not minish "
         },
         {
           "add": "ought"
         },
         {
-          "t": "from your bricks of your daily task."
+          "t": " from your bricks of your daily task. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:",
       "tokens": [
         {
-          "t": "¶ And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:"
+          "t": "¶ And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And they said unto them, The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us.",
       "tokens": [
         {
-          "t": "And they said unto them, The"
+          "t": "And they said unto them, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us."
+          "t": " look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Moses returned unto the LORD, and said, Lord, wherefore hast thou so evil entreated this people? why is it that thou hast sent me?",
       "tokens": [
         {
-          "t": "And Moses returned unto the"
+          "t": "And Moses returned unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said, Lord, wherefore hast thou"
+          "t": ", and said, Lord, wherefore hast thou "
         },
         {
           "add": "so"
         },
         {
-          "t": "evil entreated this people? why"
+          "t": " evil entreated this people? why "
         },
         {
           "add": "is"
         },
         {
-          "t": "it"
+          "t": " it "
         },
         {
           "add": "that"
         },
         {
-          "t": "thou hast sent me?"
+          "t": " thou hast sent me? "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all.",
       "tokens": [
         {
-          "t": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all."
+          "t": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all. "
         }
       ]
     }

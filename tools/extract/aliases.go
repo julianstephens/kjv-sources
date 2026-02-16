@@ -32,9 +32,10 @@ type AliasChapters struct {
 
 type AliasesOutput map[string]AliasChapters
 
-func MainAliases() {
+func MainAliases(stop chan bool) {
 	cwd, err := os.Getwd()
 	if err != nil {
+		close(stop)
 		fmt.Println("Error getting current working directory:", err)
 		return
 	}
@@ -43,8 +44,9 @@ func MainAliases() {
 	RawDir := filepath.Join(cwd, "raw", "html")
 
 	// Read books.json
-	booksData, err := os.ReadFile(filepath.Join(CanonDir, "books.json"))
+	booksData, err := os.ReadFile(filepath.Join(CanonDir, "books.json")) // nolint: gosec
 	if err != nil {
+		close(stop)
 		fmt.Println("Error reading books.json:", err)
 		return
 	}
@@ -52,6 +54,7 @@ func MainAliases() {
 	var booksOutput BooksOutput
 	err = json.Unmarshal(booksData, &booksOutput)
 	if err != nil {
+		close(stop)
 		fmt.Println("Error parsing books.json:", err)
 		return
 	}
@@ -112,12 +115,18 @@ func MainAliases() {
 
 		// Generate expected filenames for each chapter
 		for chapter := 1; chapter <= book.Chapters; chapter++ {
-			// Format: ABBR + chapter number (zero-padded to 2 digits) + .htm
-			filename := fmt.Sprintf("%s%02d.htm", book.Abbr, chapter)
+			// Try 3-digit zero-padded format first (e.g., PSA001.htm for Psalms 1)
+			filename := fmt.Sprintf("%s%03d.htm", book.Abbr, chapter)
 
 			// Check if file exists and get its path
 			if path, exists := availableFiles[filename]; exists {
 				chapters[strconv.Itoa(chapter)] = path
+			} else {
+				// Fall back to 2-digit format for backward compatibility
+				filename = fmt.Sprintf("%s%02d.htm", book.Abbr, chapter)
+				if path, exists := availableFiles[filename]; exists {
+					chapters[strconv.Itoa(chapter)] = path
+				}
 			}
 		}
 
@@ -136,6 +145,7 @@ func MainAliases() {
 	// Marshal to JSON
 	jsonData, err := json.MarshalIndent(aliases, "", "  ")
 	if err != nil {
+		close(stop)
 		fmt.Println("Error marshaling JSON:", err)
 		return
 	}
@@ -143,9 +153,11 @@ func MainAliases() {
 	// Write to file
 	err = os.WriteFile(filepath.Join(CanonDir, "aliases.json"), jsonData, 0600)
 	if err != nil {
+		close(stop)
 		fmt.Println("Error writing aliases.json:", err)
 		return
 	}
 
+	close(stop)
 	fmt.Println("Successfully created aliases.json")
 }

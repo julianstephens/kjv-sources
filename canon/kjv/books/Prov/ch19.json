@@ -7,467 +7,499 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.",
       "tokens": [
         {
-          "t": "Better"
+          "t": "Better "
         },
         {
           "add": "is"
         },
         {
-          "t": "the poor that walketh in his integrity, than"
+          "t": " the poor that walketh in his integrity, than "
         },
         {
           "add": "he that is"
         },
         {
-          "t": "perverse in his lips, and is a fool."
+          "t": " perverse in his lips, and is a fool. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.",
       "tokens": [
         {
-          "t": "Also,"
+          "t": "Also, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the soul"
+          "t": " the soul "
         },
         {
           "add": "be"
         },
         {
-          "t": "without knowledge,"
+          "t": " without knowledge, "
         },
         {
           "add": "it is"
         },
         {
-          "t": "not good; and he that hasteth with"
+          "t": " not good; and he that hasteth with "
         },
         {
           "add": "his"
         },
         {
-          "t": "feet sinneth."
+          "t": " feet sinneth. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The foolishness of man perverteth his way: and his heart fretteth against the LORD.",
       "tokens": [
         {
-          "t": "The foolishness of man perverteth his way: and his heart fretteth against the"
+          "t": "The foolishness of man perverteth his way: and his heart fretteth against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Wealth maketh many friends; but the poor is separated from his neighbour.",
       "tokens": [
         {
-          "t": "Wealth maketh many friends; but the poor is separated from his neighbour."
+          "t": "Wealth maketh many friends; but the poor is separated from his neighbour. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "A false witness shall not be unpunished, and he that speaketh lies shall not escape.",
       "tokens": [
         {
-          "t": "A false witness shall not be unpunished, and"
+          "t": "A false witness shall not be unpunished, and "
         },
         {
           "add": "he that"
         },
         {
-          "t": "speaketh lies shall not escape."
+          "t": " speaketh lies shall not escape. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.",
       "tokens": [
         {
-          "t": "Many will intreat the favour of the prince: and every man"
+          "t": "Many will intreat the favour of the prince: and every man "
         },
         {
           "add": "is"
         },
         {
-          "t": "a friend to him that giveth gifts."
+          "t": " a friend to him that giveth gifts. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.",
       "tokens": [
         {
-          "t": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth"
+          "t": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth "
         },
         {
           "add": "them with"
         },
         {
-          "t": "words,"
+          "t": " words, "
         },
         {
           "add": "yet"
         },
         {
-          "t": "they"
+          "t": " they "
         },
         {
           "add": "are"
         },
         {
-          "t": "wanting"
+          "t": " wanting "
         },
         {
           "add": "to him"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.",
       "tokens": [
         {
-          "t": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good."
+          "t": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "A false witness shall not be unpunished, and he that speaketh lies shall perish.",
       "tokens": [
         {
-          "t": "A false witness shall not be unpunished, and"
+          "t": "A false witness shall not be unpunished, and "
         },
         {
           "add": "he that"
         },
         {
-          "t": "speaketh lies shall perish."
+          "t": " speaketh lies shall perish. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Delight is not seemly for a fool; much less for a servant to have rule over princes.",
       "tokens": [
         {
-          "t": "Delight is not seemly for a fool; much less for a servant to have rule over princes."
+          "t": "Delight is not seemly for a fool; much less for a servant to have rule over princes. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
       "tokens": [
         {
-          "t": "The discretion of a man deferreth his anger; and"
+          "t": "The discretion of a man deferreth his anger; and "
         },
         {
           "add": "it is"
         },
         {
-          "t": "his glory to pass over a transgression."
+          "t": " his glory to pass over a transgression. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The king’s wrath is as the roaring of a lion; but his favour is as dew upon the grass.",
       "tokens": [
         {
-          "t": "The king’s wrath"
+          "t": "The king’s wrath "
         },
         {
           "add": "is"
         },
         {
-          "t": "as the roaring of a lion; but his favour"
+          "t": " as the roaring of a lion; but his favour "
         },
         {
           "add": "is"
         },
         {
-          "t": "as dew upon the grass."
+          "t": " as dew upon the grass. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "A foolish son is the calamity of his father: and the contentions of a wife are a continual dropping.",
       "tokens": [
         {
-          "t": "A foolish son"
+          "t": "A foolish son "
         },
         {
           "add": "is"
         },
         {
-          "t": "the calamity of his father: and the contentions of a wife"
+          "t": " the calamity of his father: and the contentions of a wife "
         },
         {
           "add": "are"
         },
         {
-          "t": "a continual dropping."
+          "t": " a continual dropping. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "House and riches are the inheritance of fathers: and a prudent wife is from the LORD.",
       "tokens": [
         {
-          "t": "House and riches"
+          "t": "House and riches "
         },
         {
           "add": "are"
         },
         {
-          "t": "the inheritance of fathers: and a prudent wife"
+          "t": " the inheritance of fathers: and a prudent wife "
         },
         {
           "add": "is"
         },
         {
-          "t": "from the"
+          "t": " from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.",
       "tokens": [
         {
-          "t": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger."
+          "t": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "He that keepeth the commandment keepeth his own soul; but he that despiseth his ways shall die.",
       "tokens": [
         {
-          "t": "He that keepeth the commandment keepeth his own soul;"
+          "t": "He that keepeth the commandment keepeth his own soul; "
         },
         {
           "add": "but"
         },
         {
-          "t": "he that despiseth his ways shall die."
+          "t": " he that despiseth his ways shall die. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
       "tokens": [
         {
-          "t": "He that hath pity upon the poor lendeth unto the"
+          "t": "He that hath pity upon the poor lendeth unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and that which he hath given will he pay him again."
+          "t": "; and that which he hath given will he pay him again. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Chasten thy son while there is hope, and let not thy soul spare for his crying.",
       "tokens": [
         {
-          "t": "Chasten thy son while there is hope, and let not thy soul spare for his crying."
+          "t": "Chasten thy son while there is hope, and let not thy soul spare for his crying. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "A man of great wrath shall suffer punishment: for if thou deliver him, yet thou must do it again.",
       "tokens": [
         {
-          "t": "A man of great wrath shall suffer punishment: for if thou deliver"
+          "t": "A man of great wrath shall suffer punishment: for if thou deliver "
         },
         {
           "add": "him"
         },
         {
-          "t": ", yet thou must do it again."
+          "t": ", yet thou must do it again. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
       "tokens": [
         {
-          "t": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end."
+          "t": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "There are many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand.",
       "tokens": [
         {
           "add": "There are"
         },
         {
-          "t": "many devices in a man’s heart; nevertheless the counsel of the"
+          "t": " many devices in a man’s heart; nevertheless the counsel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that shall stand."
+          "t": ", that shall stand. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The desire of a man is his kindness: and a poor man is better than a liar.",
       "tokens": [
         {
-          "t": "The desire of a man"
+          "t": "The desire of a man "
         },
         {
           "add": "is"
         },
         {
-          "t": "his kindness: and a poor man"
+          "t": " his kindness: and a poor man "
         },
         {
           "add": "is"
         },
         {
-          "t": "better than a liar."
+          "t": " better than a liar. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The fear of the LORD tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.",
       "tokens": [
         {
-          "t": "The fear of the"
+          "t": "The fear of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "tendeth"
         },
         {
-          "t": "to life: and"
+          "t": " to life: and "
         },
         {
           "add": "he that hath it"
         },
         {
-          "t": "shall abide satisfied; he shall not be visited with evil."
+          "t": " shall abide satisfied; he shall not be visited with evil. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "A slothful man hideth his hand in his bosom, and will not so much as bring it to his mouth again.",
       "tokens": [
         {
-          "t": "A slothful"
+          "t": "A slothful "
         },
         {
           "add": "man"
         },
         {
-          "t": "hideth his hand in"
+          "t": " hideth his hand in "
         },
         {
           "add": "his"
         },
         {
-          "t": "bosom, and will not so much as bring it to his mouth again."
+          "t": " bosom, and will not so much as bring it to his mouth again. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Smite a scorner, and the simple will beware: and reprove one that hath understanding, and he will understand knowledge.",
       "tokens": [
         {
-          "t": "Smite a scorner, and the simple will beware: and reprove one that hath understanding,"
+          "t": "Smite a scorner, and the simple will beware: and reprove one that hath understanding, "
         },
         {
           "add": "and"
         },
         {
-          "t": "he will understand knowledge."
+          "t": " he will understand knowledge. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "He that wasteth his father, and chaseth away his mother, is a son that causeth shame, and bringeth reproach.",
       "tokens": [
         {
-          "t": "He that wasteth"
+          "t": "He that wasteth "
         },
         {
           "add": "his"
         },
         {
-          "t": "father,"
+          "t": " father, "
         },
         {
           "add": "and"
         },
         {
-          "t": "chaseth away"
+          "t": " chaseth away "
         },
         {
           "add": "his"
         },
         {
-          "t": "mother,"
+          "t": " mother, "
         },
         {
           "add": "is"
         },
         {
-          "t": "a son that causeth shame, and bringeth reproach."
+          "t": " a son that causeth shame, and bringeth reproach. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Cease, my son, to hear the instruction that causeth to err from the words of knowledge.",
       "tokens": [
         {
-          "t": "Cease, my son, to hear the instruction"
+          "t": "Cease, my son, to hear the instruction "
         },
         {
           "add": "that causeth"
         },
         {
-          "t": "to err from the words of knowledge."
+          "t": " to err from the words of knowledge. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
       "tokens": [
         {
-          "t": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity."
+          "t": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Judgments are prepared for scorners, and stripes for the back of fools.",
       "tokens": [
         {
-          "t": "Judgments are prepared for scorners, and stripes for the back of fools."
+          "t": "Judgments are prepared for scorners, and stripes for the back of fools. "
         }
       ]
     }

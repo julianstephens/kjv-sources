@@ -7,585 +7,625 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God am holy.",
       "tokens": [
         {
-          "t": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the"
+          "t": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God"
+          "t": " your God "
         },
         {
           "add": "am"
         },
         {
-          "t": "holy."
+          "t": " holy. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the LORD your God.",
       "tokens": [
         {
-          "t": "¶ Ye shall fear every man his mother, and his father, and keep my sabbaths: I"
+          "t": "¶ Ye shall fear every man his mother, and his father, and keep my sabbaths: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God.",
       "tokens": [
         {
-          "t": "¶ Turn ye not unto idols, nor make to yourselves molten gods: I"
+          "t": "¶ Turn ye not unto idols, nor make to yourselves molten gods: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.",
       "tokens": [
         {
-          "t": "¶ And if ye offer a sacrifice of peace offerings unto the"
+          "t": "¶ And if ye offer a sacrifice of peace offerings unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", ye shall offer it at your own will."
+          "t": ", ye shall offer it at your own will. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.",
       "tokens": [
         {
-          "t": "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire."
+          "t": "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And if it be eaten at all on the third day, it is abominable; it shall not be accepted.",
       "tokens": [
         {
-          "t": "And if it be eaten at all on the third day, it"
+          "t": "And if it be eaten at all on the third day, it "
         },
         {
           "add": "is"
         },
         {
-          "t": "abominable; it shall not be accepted."
+          "t": " abominable; it shall not be accepted. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.",
       "tokens": [
         {
-          "t": "Therefore"
+          "t": "Therefore "
         },
         {
           "add": "every one"
         },
         {
-          "t": "that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the"
+          "t": " that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and that soul shall be cut off from among his people."
+          "t": ": and that soul shall be cut off from among his people. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.",
       "tokens": [
         {
-          "t": "¶ And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest."
+          "t": "¶ And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the LORD your God.",
       "tokens": [
         {
-          "t": "And thou shalt not glean thy vineyard, neither shalt thou gather"
+          "t": "And thou shalt not glean thy vineyard, neither shalt thou gather "
         },
         {
           "add": "every"
         },
         {
-          "t": "grape of thy vineyard; thou shalt leave them for the poor and stranger: I"
+          "t": " grape of thy vineyard; thou shalt leave them for the poor and stranger: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Ye shall not steal, neither deal falsely, neither lie one to another.",
       "tokens": [
         {
-          "t": "¶ Ye shall not steal, neither deal falsely, neither lie one to another."
+          "t": "¶ Ye shall not steal, neither deal falsely, neither lie one to another. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD.",
       "tokens": [
         {
-          "t": "¶ And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I"
+          "t": "¶ And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not defraud thy neighbour, neither rob"
+          "t": "¶ Thou shalt not defraud thy neighbour, neither rob "
         },
         {
           "add": "him:"
         },
         {
-          "t": "the wages of him that is hired shall not abide with thee all night until the morning."
+          "t": " the wages of him that is hired shall not abide with thee all night until the morning. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I am the LORD.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I"
+          "t": "¶ Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour.",
       "tokens": [
         {
-          "t": "¶ Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty:"
+          "t": "¶ Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: "
         },
         {
           "add": "but"
         },
         {
-          "t": "in righteousness shalt thou judge thy neighbour."
+          "t": " in righteousness shalt thou judge thy neighbour. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the LORD.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not go up and down"
+          "t": "¶ Thou shalt not go up and down "
         },
         {
           "add": "as"
         },
         {
-          "t": "a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I"
+          "t": " a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him."
+          "t": "¶ Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I"
+          "t": "¶ Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.",
       "tokens": [
         {
-          "t": "¶ Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee."
+          "t": "¶ Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.",
       "tokens": [
         {
-          "t": "¶ And whosoever lieth carnally with a woman, that"
+          "t": "¶ And whosoever lieth carnally with a woman, that "
         },
         {
           "add": "is"
         },
         {
-          "t": "a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free."
+          "t": " a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering.",
       "tokens": [
         {
-          "t": "And he shall bring his trespass offering unto the"
+          "t": "And he shall bring his trespass offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", unto the door of the tabernacle of the congregation,"
+          "t": ", unto the door of the tabernacle of the congregation, "
         },
         {
           "add": "even"
         },
         {
-          "t": "a ram for a trespass offering."
+          "t": " a ram for a trespass offering. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him.",
       "tokens": [
         {
-          "t": "And the priest shall make an atonement for him with the ram of the trespass offering before the"
+          "t": "And the priest shall make an atonement for him with the ram of the trespass offering before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for his sin which he hath done: and the sin which he hath done shall be forgiven him."
+          "t": " for his sin which he hath done: and the sin which he hath done shall be forgiven him. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.",
       "tokens": [
         {
-          "t": "¶ And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of."
+          "t": "¶ And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "But in the fourth year all the fruit thereof shall be holy to praise the LORD withal.",
       "tokens": [
         {
-          "t": "But in the fourth year all the fruit thereof shall be holy to praise the"
+          "t": "But in the fourth year all the fruit thereof shall be holy to praise the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "withal"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the LORD your God.",
       "tokens": [
         {
-          "t": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I"
+          "t": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ Ye shall not eat any thing with the blood: neither shall ye use enchantment, nor observe times.",
       "tokens": [
         {
-          "t": "¶ Ye shall not eat"
+          "t": "¶ Ye shall not eat "
         },
         {
           "add": "any thing"
         },
         {
-          "t": "with the blood: neither shall ye use enchantment, nor observe times."
+          "t": " with the blood: neither shall ye use enchantment, nor observe times. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.",
       "tokens": [
         {
-          "t": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard."
+          "t": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the LORD.",
       "tokens": [
         {
-          "t": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I"
+          "t": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.",
       "tokens": [
         {
-          "t": "¶ Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness."
+          "t": "¶ Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "¶ Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD.",
       "tokens": [
         {
-          "t": "¶ Ye shall keep my sabbaths, and reverence my sanctuary: I"
+          "t": "¶ Ye shall keep my sabbaths, and reverence my sanctuary: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "¶ Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the LORD your God.",
       "tokens": [
         {
-          "t": "¶ Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I"
+          "t": "¶ Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "¶ Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the LORD.",
       "tokens": [
         {
-          "t": "¶ Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I"
+          "t": "¶ Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "¶ And if a stranger sojourn with thee in your land, ye shall not vex him.",
       "tokens": [
         {
-          "t": "¶ And if a stranger sojourn with thee in your land, ye shall not vex him."
+          "t": "¶ And if a stranger sojourn with thee in your land, ye shall not vex him. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the LORD your God.",
       "tokens": [
         {
           "add": "But"
         },
         {
-          "t": "the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I"
+          "t": " the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "¶ Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.",
       "tokens": [
         {
-          "t": "¶ Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure."
+          "t": "¶ Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the LORD your God, which brought you out of the land of Egypt.",
       "tokens": [
         {
-          "t": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I"
+          "t": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God, which brought you out of the land of Egypt."
+          "t": " your God, which brought you out of the land of Egypt. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the LORD.",
       "tokens": [
         {
-          "t": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I"
+          "t": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

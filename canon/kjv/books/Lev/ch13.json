@@ -7,1175 +7,1234 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses and Aaron, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses and Aaron, saying,"
+          "t": " spake unto Moses and Aaron, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:",
       "tokens": [
         {
-          "t": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh"
+          "t": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh "
         },
         {
           "add": "like"
         },
         {
-          "t": "the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:"
+          "t": " the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean.",
       "tokens": [
         {
-          "t": "And the priest shall look on the plague in the skin of the flesh: and"
+          "t": "And the priest shall look on the plague in the skin of the flesh: and "
         },
         {
           "add": "when"
         },
         {
-          "t": "the hair in the plague is turned white, and the plague in sight"
+          "t": " the hair in the plague is turned white, and the plague in sight "
         },
         {
           "add": "be"
         },
         {
-          "t": "deeper than the skin of his flesh, it"
+          "t": " deeper than the skin of his flesh, it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a plague of leprosy: and the priest shall look on him, and pronounce him unclean."
+          "t": " a plague of leprosy: and the priest shall look on him, and pronounce him unclean. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up him that hath the plague seven days:",
       "tokens": [
         {
-          "t": "If the bright spot"
+          "t": "If the bright spot "
         },
         {
           "add": "be"
         },
         {
-          "t": "white in the skin of his flesh, and in sight"
+          "t": " white in the skin of his flesh, and in sight "
         },
         {
           "add": "be"
         },
         {
-          "t": "not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up"
+          "t": " not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up "
         },
         {
           "add": "him that hath"
         },
         {
-          "t": "the plague seven days:"
+          "t": " the plague seven days: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more:",
       "tokens": [
         {
-          "t": "And the priest shall look on him the seventh day: and, behold,"
+          "t": "And the priest shall look on him the seventh day: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the plague in his sight be at a stay,"
+          "t": " the plague in his sight be at a stay, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the plague spread not in the skin; then the priest shall shut him up seven days more:"
+          "t": " the plague spread not in the skin; then the priest shall shut him up seven days more: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean.",
       "tokens": [
         {
-          "t": "And the priest shall look on him again the seventh day: and, behold,"
+          "t": "And the priest shall look on him again the seventh day: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the plague"
+          "t": " the plague "
         },
         {
           "add": "be"
         },
         {
-          "t": "somewhat dark,"
+          "t": " somewhat dark, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the plague spread not in the skin, the priest shall pronounce him clean: it"
+          "t": " the plague spread not in the skin, the priest shall pronounce him clean: it "
         },
         {
           "add": "is but"
         },
         {
-          "t": "a scab: and he shall wash his clothes, and be clean."
+          "t": " a scab: and he shall wash his clothes, and be clean. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:",
       "tokens": [
         {
-          "t": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:"
+          "t": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And if the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it is a leprosy.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "if"
         },
         {
-          "t": "the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it"
+          "t": " the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a leprosy."
+          "t": " a leprosy. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ When the plague of leprosy is in a man, then he shall be brought unto the priest;",
       "tokens": [
         {
-          "t": "¶ When the plague of leprosy is in a man, then he shall be brought unto the priest;"
+          "t": "¶ When the plague of leprosy is in a man, then he shall be brought unto the priest; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;",
       "tokens": [
         {
-          "t": "And the priest shall see"
+          "t": "And the priest shall see "
         },
         {
           "add": "him:"
         },
         {
-          "t": "and, behold,"
+          "t": " and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the rising"
+          "t": " the rising "
         },
         {
           "add": "be"
         },
         {
-          "t": "white in the skin, and it have turned the hair white, and"
+          "t": " white in the skin, and it have turned the hair white, and "
         },
         {
           "add": "there be"
         },
         {
-          "t": "quick raw flesh in the rising;"
+          "t": " quick raw flesh in the rising; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean.",
       "tokens": [
         {
-          "t": "It"
+          "t": "It "
         },
         {
           "add": "is"
         },
         {
-          "t": "an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he"
+          "t": " an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "unclean."
+          "t": " unclean. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that hath the plague from his head even to his foot, wheresoever the priest looketh;",
       "tokens": [
         {
-          "t": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of"
+          "t": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of "
         },
         {
           "add": "him that hath"
         },
         {
-          "t": "the plague from his head even to his foot, wheresoever the priest looketh;"
+          "t": " the plague from his head even to his foot, wheresoever the priest looketh; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean.",
       "tokens": [
         {
-          "t": "Then the priest shall consider: and, behold,"
+          "t": "Then the priest shall consider: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the leprosy have covered all his flesh, he shall pronounce"
+          "t": " the leprosy have covered all his flesh, he shall pronounce "
         },
         {
           "add": "him"
         },
         {
-          "t": "clean"
+          "t": " clean "
         },
         {
           "add": "that hath"
         },
         {
-          "t": "the plague: it is all turned white: he"
+          "t": " the plague: it is all turned white: he "
         },
         {
           "add": "is"
         },
         {
-          "t": "clean."
+          "t": " clean. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But when raw flesh appeareth in him, he shall be unclean.",
       "tokens": [
         {
-          "t": "But when raw flesh appeareth in him, he shall be unclean."
+          "t": "But when raw flesh appeareth in him, he shall be unclean. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the priest shall see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy.",
       "tokens": [
         {
-          "t": "And the priest shall see the raw flesh, and pronounce him to be unclean:"
+          "t": "And the priest shall see the raw flesh, and pronounce him to be unclean: "
         },
         {
           "add": "for"
         },
         {
-          "t": "the raw flesh"
+          "t": " the raw flesh "
         },
         {
           "add": "is"
         },
         {
-          "t": "unclean: it"
+          "t": " unclean: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a leprosy."
+          "t": " a leprosy. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;",
       "tokens": [
         {
-          "t": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;"
+          "t": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the priest shall see him: and, behold, if the plague be turned into white; then the priest shall pronounce him clean that hath the plague: he is clean.",
       "tokens": [
         {
-          "t": "And the priest shall see him: and, behold,"
+          "t": "And the priest shall see him: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the plague be turned into white; then the priest shall pronounce"
+          "t": " the plague be turned into white; then the priest shall pronounce "
         },
         {
           "add": "him"
         },
         {
-          "t": "clean"
+          "t": " clean "
         },
         {
           "add": "that hath"
         },
         {
-          "t": "the plague: he"
+          "t": " the plague: he "
         },
         {
           "add": "is"
         },
         {
-          "t": "clean."
+          "t": " clean. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ The flesh also, in which, even in the skin thereof, was a boil, and is healed,",
       "tokens": [
         {
-          "t": "¶ The flesh also, in which,"
+          "t": "¶ The flesh also, in which, "
         },
         {
           "add": "even"
         },
         {
-          "t": "in the skin thereof, was a boil, and is healed,"
+          "t": " in the skin thereof, was a boil, and is healed, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;",
       "tokens": [
         {
-          "t": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;"
+          "t": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest; "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And if, when the priest seeth it, behold, it be in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it is a plague of leprosy broken out of the boil.",
       "tokens": [
         {
-          "t": "And if, when the priest seeth it, behold, it"
+          "t": "And if, when the priest seeth it, behold, it "
         },
         {
           "add": "be"
         },
         {
-          "t": "in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it"
+          "t": " in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a plague of leprosy broken out of the boil."
+          "t": " a plague of leprosy broken out of the boil. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "But if the priest look on it, and, behold, there be no white hairs therein, and if it be not lower than the skin, but be somewhat dark; then the priest shall shut him up seven days:",
       "tokens": [
         {
-          "t": "But if the priest look on it, and, behold,"
+          "t": "But if the priest look on it, and, behold, "
         },
         {
           "add": "there be"
         },
         {
-          "t": "no white hairs therein, and"
+          "t": " no white hairs therein, and "
         },
         {
           "add": "if"
         },
         {
-          "t": "it"
+          "t": " it "
         },
         {
           "add": "be"
         },
         {
-          "t": "not lower than the skin, but"
+          "t": " not lower than the skin, but "
         },
         {
           "add": "be"
         },
         {
-          "t": "somewhat dark; then the priest shall shut him up seven days:"
+          "t": " somewhat dark; then the priest shall shut him up seven days: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague.",
       "tokens": [
         {
-          "t": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it"
+          "t": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a plague."
+          "t": " a plague. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest shall pronounce him clean.",
       "tokens": [
         {
-          "t": "But if the bright spot stay in his place,"
+          "t": "But if the bright spot stay in his place, "
         },
         {
           "add": "and"
         },
         {
-          "t": "spread not, it"
+          "t": " spread not, it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a burning boil; and the priest shall pronounce him clean."
+          "t": " a burning boil; and the priest shall pronounce him clean. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;",
       "tokens": [
         {
-          "t": "¶ Or if there be"
+          "t": "¶ Or if there be "
         },
         {
           "add": "any"
         },
         {
-          "t": "flesh, in the skin whereof"
+          "t": " flesh, in the skin whereof "
         },
         {
           "add": "there is"
         },
         {
-          "t": "a hot burning, and the quick"
+          "t": " a hot burning, and the quick "
         },
         {
           "add": "flesh"
         },
         {
-          "t": "that burneth have a white bright spot, somewhat reddish, or white;"
+          "t": " that burneth have a white bright spot, somewhat reddish, or white; "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Then the priest shall look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it is the plague of leprosy.",
       "tokens": [
         {
-          "t": "Then the priest shall look upon it: and, behold,"
+          "t": "Then the priest shall look upon it: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the hair in the bright spot be turned white, and it"
+          "t": " the hair in the bright spot be turned white, and it "
         },
         {
           "add": "be in"
         },
         {
-          "t": "sight deeper than the skin; it"
+          "t": " sight deeper than the skin; it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it"
+          "t": " a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "the plague of leprosy."
+          "t": " the plague of leprosy. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "But if the priest look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest shall shut him up seven days:",
       "tokens": [
         {
-          "t": "But if the priest look on it, and, behold,"
+          "t": "But if the priest look on it, and, behold, "
         },
         {
           "add": "there be"
         },
         {
-          "t": "no white hair in the bright spot, and it"
+          "t": " no white hair in the bright spot, and it "
         },
         {
           "add": "be"
         },
         {
-          "t": "no lower than the"
+          "t": " no lower than the "
         },
         {
           "add": "other"
         },
         {
-          "t": "skin, but"
+          "t": " skin, but "
         },
         {
           "add": "be"
         },
         {
-          "t": "somewhat dark; then the priest shall shut him up seven days:"
+          "t": " somewhat dark; then the priest shall shut him up seven days: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And the priest shall look upon him the seventh day: and if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it is the plague of leprosy.",
       "tokens": [
         {
-          "t": "And the priest shall look upon him the seventh day:"
+          "t": "And the priest shall look upon him the seventh day: "
         },
         {
           "add": "and"
         },
         {
-          "t": "if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it"
+          "t": " if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "the plague of leprosy."
+          "t": " the plague of leprosy. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a rising of the burning, and the priest shall pronounce him clean: for it is an inflammation of the burning.",
       "tokens": [
         {
-          "t": "And if the bright spot stay in his place,"
+          "t": "And if the bright spot stay in his place, "
         },
         {
           "add": "and"
         },
         {
-          "t": "spread not in the skin, but it"
+          "t": " spread not in the skin, but it "
         },
         {
           "add": "be"
         },
         {
-          "t": "somewhat dark; it"
+          "t": " somewhat dark; it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a rising of the burning, and the priest shall pronounce him clean: for it"
+          "t": " a rising of the burning, and the priest shall pronounce him clean: for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "an inflammation of the burning."
+          "t": " an inflammation of the burning. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ If a man or woman have a plague upon the head or the beard;",
       "tokens": [
         {
-          "t": "¶ If a man or woman have a plague upon the head or the beard;"
+          "t": "¶ If a man or woman have a plague upon the head or the beard; "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Then the priest shall see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.",
       "tokens": [
         {
-          "t": "Then the priest shall see the plague: and, behold, if it"
+          "t": "Then the priest shall see the plague: and, behold, if it "
         },
         {
           "add": "be"
         },
         {
-          "t": "in sight deeper than the skin;"
+          "t": " in sight deeper than the skin; "
         },
         {
           "add": "and there be"
         },
         {
-          "t": "in it a yellow thin hair; then the priest shall pronounce him unclean: it"
+          "t": " in it a yellow thin hair; then the priest shall pronounce him unclean: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a dry scall,"
+          "t": " a dry scall, "
         },
         {
           "add": "even"
         },
         {
-          "t": "a leprosy upon the head or beard."
+          "t": " a leprosy upon the head or beard. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And if the priest look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest shall shut up him that hath the plague of the scall seven days:",
       "tokens": [
         {
-          "t": "And if the priest look on the plague of the scall, and, behold, it"
+          "t": "And if the priest look on the plague of the scall, and, behold, it "
         },
         {
           "add": "be"
         },
         {
-          "t": "not in sight deeper than the skin, and"
+          "t": " not in sight deeper than the skin, and "
         },
         {
           "add": "that there is"
         },
         {
-          "t": "no black hair in it; then the priest shall shut up"
+          "t": " no black hair in it; then the priest shall shut up "
         },
         {
           "add": "him that hath"
         },
         {
-          "t": "the plague of the scall seven days:"
+          "t": " the plague of the scall seven days: "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And in the seventh day the priest shall look on the plague: and, behold, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;",
       "tokens": [
         {
-          "t": "And in the seventh day the priest shall look on the plague: and, behold,"
+          "t": "And in the seventh day the priest shall look on the plague: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the scall spread not, and there be in it no yellow hair, and the scall"
+          "t": " the scall spread not, and there be in it no yellow hair, and the scall "
         },
         {
           "add": "be"
         },
         {
-          "t": "not in sight deeper than the skin;"
+          "t": " not in sight deeper than the skin; "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up him that hath the scall seven days more:",
       "tokens": [
         {
-          "t": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up"
+          "t": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up "
         },
         {
           "add": "him that hath"
         },
         {
-          "t": "the scall seven days more:"
+          "t": " the scall seven days more: "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And in the seventh day the priest shall look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean.",
       "tokens": [
         {
-          "t": "And in the seventh day the priest shall look on the scall: and, behold,"
+          "t": "And in the seventh day the priest shall look on the scall: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the scall be not spread in the skin, nor"
+          "t": " the scall be not spread in the skin, nor "
         },
         {
           "add": "be"
         },
         {
-          "t": "in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean."
+          "t": " in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "But if the scall spread much in the skin after his cleansing;",
       "tokens": [
         {
-          "t": "But if the scall spread much in the skin after his cleansing;"
+          "t": "But if the scall spread much in the skin after his cleansing; "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he is unclean.",
       "tokens": [
         {
-          "t": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he"
+          "t": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he "
         },
         {
           "add": "is"
         },
         {
-          "t": "unclean."
+          "t": " unclean. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "But if the scall be in his sight at a stay, and that there is black hair grown up therein; the scall is healed, he is clean: and the priest shall pronounce him clean.",
       "tokens": [
         {
-          "t": "But if the scall be in his sight at a stay, and"
+          "t": "But if the scall be in his sight at a stay, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "there is black hair grown up therein; the scall is healed, he"
+          "t": " there is black hair grown up therein; the scall is healed, he "
         },
         {
           "add": "is"
         },
         {
-          "t": "clean: and the priest shall pronounce him clean."
+          "t": " clean: and the priest shall pronounce him clean. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "¶ If a man also or a woman have in the skin of their flesh bright spots, even white bright spots;",
       "tokens": [
         {
-          "t": "¶ If a man also or a woman have in the skin of their flesh bright spots,"
+          "t": "¶ If a man also or a woman have in the skin of their flesh bright spots, "
         },
         {
           "add": "even"
         },
         {
-          "t": "white bright spots;"
+          "t": " white bright spots; "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean.",
       "tokens": [
         {
-          "t": "Then the priest shall look: and, behold,"
+          "t": "Then the priest shall look: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the bright spots in the skin of their flesh"
+          "t": " the bright spots in the skin of their flesh "
         },
         {
           "add": "be"
         },
         {
-          "t": "darkish white; it"
+          "t": " darkish white; it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a freckled spot"
+          "t": " a freckled spot "
         },
         {
           "add": "that"
         },
         {
-          "t": "groweth in the skin; he"
+          "t": " groweth in the skin; he "
         },
         {
           "add": "is"
         },
         {
-          "t": "clean."
+          "t": " clean. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And the man whose hair is fallen off his head, he is bald; yet is he clean.",
       "tokens": [
         {
-          "t": "And the man whose hair is fallen off his head, he"
+          "t": "And the man whose hair is fallen off his head, he "
         },
         {
           "add": "is"
         },
         {
-          "t": "bald;"
+          "t": " bald; "
         },
         {
           "add": "yet is"
         },
         {
-          "t": "he clean."
+          "t": " he clean. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And he that hath his hair fallen off from the part of his head toward his face, he is forehead bald: yet is he clean.",
       "tokens": [
         {
-          "t": "And he that hath his hair fallen off from the part of his head toward his face, he"
+          "t": "And he that hath his hair fallen off from the part of his head toward his face, he "
         },
         {
           "add": "is"
         },
         {
-          "t": "forehead bald:"
+          "t": " forehead bald: "
         },
         {
           "add": "yet is"
         },
         {
-          "t": "he clean."
+          "t": " he clean. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead.",
       "tokens": [
         {
-          "t": "And if there be in the bald head, or bald forehead, a white reddish sore; it"
+          "t": "And if there be in the bald head, or bald forehead, a white reddish sore; it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a leprosy sprung up in his bald head, or his bald forehead."
+          "t": " a leprosy sprung up in his bald head, or his bald forehead. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "Then the priest shall look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;",
       "tokens": [
         {
-          "t": "Then the priest shall look upon it: and, behold,"
+          "t": "Then the priest shall look upon it: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the rising of the sore"
+          "t": " the rising of the sore "
         },
         {
           "add": "be"
         },
         {
-          "t": "white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;"
+          "t": " white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh; "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head.",
       "tokens": [
         {
-          "t": "He is a leprous man, he"
+          "t": "He is a leprous man, he "
         },
         {
           "add": "is"
         },
         {
-          "t": "unclean: the priest shall pronounce him utterly unclean; his plague"
+          "t": " unclean: the priest shall pronounce him utterly unclean; his plague "
         },
         {
           "add": "is"
         },
         {
-          "t": "in his head."
+          "t": " in his head. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.",
       "tokens": [
         {
-          "t": "And the leper in whom the plague"
+          "t": "And the leper in whom the plague "
         },
         {
           "add": "is"
         },
         {
-          "t": ", his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean."
+          "t": ", his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean. "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be.",
       "tokens": [
         {
-          "t": "All the days wherein the plague"
+          "t": "All the days wherein the plague "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "in him he shall be defiled; he"
+          "t": " in him he shall be defiled; he "
         },
         {
           "add": "is"
         },
         {
-          "t": "unclean: he shall dwell alone; without the camp"
+          "t": " unclean: he shall dwell alone; without the camp "
         },
         {
           "add": "shall"
         },
         {
-          "t": "his habitation"
+          "t": " his habitation "
         },
         {
           "add": "be"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "¶ The garment also that the plague of leprosy is in, whether it be a woollen garment, or a linen garment;",
       "tokens": [
         {
-          "t": "¶ The garment also that the plague of leprosy is in,"
+          "t": "¶ The garment also that the plague of leprosy is in, "
         },
         {
           "add": "whether it be"
         },
         {
-          "t": "a woollen garment, or a linen garment;"
+          "t": " a woollen garment, or a linen garment; "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;",
       "tokens": [
         {
-          "t": "Whether"
+          "t": "Whether "
         },
         {
           "add": "it be"
         },
         {
-          "t": "in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;"
+          "t": " in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin; "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:",
       "tokens": [
         {
-          "t": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it"
+          "t": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a plague of leprosy, and shall be shewed unto the priest:"
+          "t": " a plague of leprosy, and shall be shewed unto the priest: "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "And the priest shall look upon the plague, and shut up it that hath the plague seven days:",
       "tokens": [
         {
-          "t": "And the priest shall look upon the plague, and shut up"
+          "t": "And the priest shall look upon the plague, and shut up "
         },
         {
           "add": "it that hath"
         },
         {
-          "t": "the plague seven days:"
+          "t": " the plague seven days: "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean.",
       "tokens": [
         {
-          "t": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin,"
+          "t": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, "
         },
         {
           "add": "or"
         },
         {
-          "t": "in any work that is made of skin; the plague"
+          "t": " in any work that is made of skin; the plague "
         },
         {
           "add": "is"
         },
         {
-          "t": "a fretting leprosy; it"
+          "t": " a fretting leprosy; it "
         },
         {
           "add": "is"
         },
         {
-          "t": "unclean."
+          "t": " unclean. "
         }
       ]
     },
     {
       "v": 52,
+      "plain": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it is a fretting leprosy; it shall be burnt in the fire.",
       "tokens": [
         {
-          "t": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it"
+          "t": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a fretting leprosy; it shall be burnt in the fire."
+          "t": " a fretting leprosy; it shall be burnt in the fire. "
         }
       ]
     },
     {
       "v": 53,
+      "plain": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;",
       "tokens": [
         {
-          "t": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;"
+          "t": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin; "
         }
       ]
     },
     {
       "v": 54,
+      "plain": "Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:",
       "tokens": [
         {
-          "t": "Then the priest shall command that they wash"
+          "t": "Then the priest shall command that they wash "
         },
         {
           "add": "the thing"
         },
         {
-          "t": "wherein the plague"
+          "t": " wherein the plague "
         },
         {
           "add": "is"
         },
         {
-          "t": ", and he shall shut it up seven days more:"
+          "t": ", and he shall shut it up seven days more: "
         }
       ]
     },
     {
       "v": 55,
+      "plain": "And the priest shall look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; thou shalt burn it in the fire; it is fret inward, whether it be bare within or without.",
       "tokens": [
         {
-          "t": "And the priest shall look on the plague, after that it is washed: and, behold,"
+          "t": "And the priest shall look on the plague, after that it is washed: and, behold, "
         },
         {
           "add": "if"
         },
         {
-          "t": "the plague have not changed his colour, and the plague be not spread; it"
+          "t": " the plague have not changed his colour, and the plague be not spread; it "
         },
         {
           "add": "is"
         },
         {
-          "t": "unclean; thou shalt burn it in the fire; it"
+          "t": " unclean; thou shalt burn it in the fire; it "
         },
         {
           "add": "is"
         },
         {
-          "t": "fret inward,"
+          "t": " fret inward, "
         },
         {
           "add": "whether"
         },
         {
-          "t": "it"
+          "t": " it "
         },
         {
           "add": "be"
         },
         {
-          "t": "bare within or without."
+          "t": " bare within or without. "
         }
       ]
     },
     {
       "v": 56,
+      "plain": "And if the priest look, and, behold, the plague be somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:",
       "tokens": [
         {
-          "t": "And if the priest look, and, behold, the plague"
+          "t": "And if the priest look, and, behold, the plague "
         },
         {
           "add": "be"
         },
         {
-          "t": "somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:"
+          "t": " somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof: "
         }
       ]
     },
     {
       "v": 57,
+      "plain": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it is a spreading plague: thou shalt burn that wherein the plague is with fire.",
       "tokens": [
         {
-          "t": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it"
+          "t": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a spreading"
+          "t": " a spreading "
         },
         {
           "add": "plague:"
         },
         {
-          "t": "thou shalt burn that wherein the plague"
+          "t": " thou shalt burn that wherein the plague "
         },
         {
           "add": "is"
         },
         {
-          "t": "with fire."
+          "t": " with fire. "
         }
       ]
     },
     {
       "v": 58,
+      "plain": "And the garment, either warp, or woof, or whatsoever thing of skin it be, which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean.",
       "tokens": [
         {
-          "t": "And the garment, either warp, or woof, or whatsoever thing of skin"
+          "t": "And the garment, either warp, or woof, or whatsoever thing of skin "
         },
         {
           "add": "it be"
         },
         {
-          "t": ", which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean."
+          "t": ", which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean. "
         }
       ]
     },
     {
       "v": 59,
+      "plain": "This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean.",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean."
+          "t": " the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean. "
         }
       ]
     }

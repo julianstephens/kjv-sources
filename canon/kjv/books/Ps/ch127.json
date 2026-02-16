@@ -7,110 +7,115 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.",
       "tokens": [
         {
-          "t": "Except the"
+          "t": "Except the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "build the house, they labour in vain that build it: except the"
+          "t": " build the house, they labour in vain that build it: except the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "keep the city, the watchman waketh"
+          "t": " keep the city, the watchman waketh "
         },
         {
           "add": "but"
         },
         {
-          "t": "in vain."
+          "t": " in vain. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "vain for you to rise up early, to sit up late, to eat the bread of sorrows:"
+          "t": " vain for you to rise up early, to sit up late, to eat the bread of sorrows: "
         },
         {
           "add": "for"
         },
         {
-          "t": "so he giveth his beloved sleep."
+          "t": " so he giveth his beloved sleep. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Lo, children are an heritage of the LORD: and the fruit of the womb is his reward.",
       "tokens": [
         {
-          "t": "Lo, children"
+          "t": "Lo, children "
         },
         {
           "add": "are"
         },
         {
-          "t": "an heritage of the"
+          "t": " an heritage of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         },
         {
           "add": "and"
         },
         {
-          "t": "the fruit of the womb"
+          "t": " the fruit of the womb "
         },
         {
           "add": "is his"
         },
         {
-          "t": "reward."
+          "t": " reward. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "As arrows are in the hand of a mighty man; so are children of the youth.",
       "tokens": [
         {
-          "t": "As arrows"
+          "t": "As arrows "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the hand of a mighty man; so"
+          "t": " in the hand of a mighty man; so "
         },
         {
           "add": "are"
         },
         {
-          "t": "children of the youth."
+          "t": " children of the youth. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.",
       "tokens": [
         {
-          "t": "Happy"
+          "t": "Happy "
         },
         {
           "add": "is"
         },
         {
-          "t": "the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate."
+          "t": " the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate. "
         }
       ]
     }

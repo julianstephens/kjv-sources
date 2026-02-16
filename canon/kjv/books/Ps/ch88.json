@@ -1,0 +1,292 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 88,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O LORD God of my salvation, I have cried day and night before thee:",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God of my salvation, I have cried day "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " night before thee: "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Let my prayer come before thee: incline thine ear unto my cry;",
+      "tokens": [
+        {
+          "t": "Let my prayer come before thee: incline thine ear unto my cry; "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For my soul is full of troubles: and my life draweth nigh unto the grave.",
+      "tokens": [
+        {
+          "t": "For my soul is full of troubles: and my life draweth nigh unto the grave. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "I am counted with them that go down into the pit: I am as a man that hath no strength:",
+      "tokens": [
+        {
+          "t": "I am counted with them that go down into the pit: I am as a man "
+        },
+        {
+          "add": "that hath"
+        },
+        {
+          "t": " no strength: "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.",
+      "tokens": [
+        {
+          "t": "Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Thou hast laid me in the lowest pit, in darkness, in the deeps.",
+      "tokens": [
+        {
+          "t": "Thou hast laid me in the lowest pit, in darkness, in the deeps. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Thy wrath lieth hard upon me, and thou hast afflicted me with all thy waves. Selah.",
+      "tokens": [
+        {
+          "t": "Thy wrath lieth hard upon me, and thou hast afflicted "
+        },
+        {
+          "add": "me"
+        },
+        {
+          "t": " with all thy waves. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: I am shut up, and I cannot come forth.",
+      "tokens": [
+        {
+          "t": "Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: "
+        },
+        {
+          "add": "I am"
+        },
+        {
+          "t": " shut up, and I cannot come forth. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Mine eye mourneth by reason of affliction: LORD, I have called daily upon thee, I have stretched out my hands unto thee.",
+      "tokens": [
+        {
+          "t": "Mine eye mourneth by reason of affliction: "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", I have called daily upon thee, I have stretched out my hands unto thee. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Wilt thou shew wonders to the dead? shall the dead arise and praise thee? Selah.",
+      "tokens": [
+        {
+          "t": "Wilt thou shew wonders to the dead? shall the dead arise "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " praise thee? Selah. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Shall thy lovingkindness be declared in the grave? or thy faithfulness in destruction?",
+      "tokens": [
+        {
+          "t": "Shall thy lovingkindness be declared in the grave? "
+        },
+        {
+          "add": "or"
+        },
+        {
+          "t": " thy faithfulness in destruction? "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?",
+      "tokens": [
+        {
+          "t": "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness? "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "But unto thee have I cried, O LORD; and in the morning shall my prayer prevent thee.",
+      "tokens": [
+        {
+          "t": "But unto thee have I cried, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; and in the morning shall my prayer prevent thee. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "LORD, why castest thou off my soul? why hidest thou thy face from me?",
+      "tokens": [
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", why castest thou off my soul? "
+        },
+        {
+          "add": "why"
+        },
+        {
+          "t": " hidest thou thy face from me? "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "I am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted.",
+      "tokens": [
+        {
+          "t": "I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " afflicted and ready to die from "
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": " youth up: "
+        },
+        {
+          "add": "while"
+        },
+        {
+          "t": " I suffer thy terrors I am distracted. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "Thy fierce wrath goeth over me; thy terrors have cut me off.",
+      "tokens": [
+        {
+          "t": "Thy fierce wrath goeth over me; thy terrors have cut me off. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "They came round about me daily like water; they compassed me about together.",
+      "tokens": [
+        {
+          "t": "They came round about me daily like water; they compassed me about together. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "Lover and friend hast thou put far from me, and mine acquaintance into darkness.",
+      "tokens": [
+        {
+          "t": "Lover and friend hast thou put far from me, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " mine acquaintance into darkness. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "for the sons: or, of the sons"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "Maschil…: or, A Psalm of Heman the Ezrahite, giving instruction"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "from: or, by"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 17
+      },
+      "text": "daily: or, all the day"
+    }
+  ]
+}

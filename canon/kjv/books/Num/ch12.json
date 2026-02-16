@@ -7,261 +7,277 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.",
       "tokens": [
         {
-          "t": "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman."
+          "t": "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard it.",
       "tokens": [
         {
-          "t": "And they said, Hath the"
+          "t": "And they said, Hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "indeed spoken only by Moses? hath he not spoken also by us? And the"
+          "t": " indeed spoken only by Moses? hath he not spoken also by us? And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "heard"
+          "t": " heard "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "(Now the man Moses was very meek, above all the men which were upon the face of the earth.)",
       "tokens": [
         {
-          "t": "(Now the man Moses"
+          "t": "(Now the man Moses "
         },
         {
           "add": "was"
         },
         {
-          "t": "very meek, above all the men which"
+          "t": " very meek, above all the men which "
         },
         {
           "add": "were"
         },
         {
-          "t": "upon the face of the earth.)"
+          "t": " upon the face of the earth.) "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out."
+          "t": " spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the LORD came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came down in the pillar of the cloud, and stood"
+          "t": " came down in the pillar of the cloud, and stood "
         },
         {
           "add": "in"
         },
         {
-          "t": "the door of the tabernacle, and called Aaron and Miriam: and they both came forth."
+          "t": " the door of the tabernacle, and called Aaron and Miriam: and they both came forth. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.",
       "tokens": [
         {
-          "t": "And he said, Hear now my words: If there be a prophet among you,"
+          "t": "And he said, Hear now my words: If there be a prophet among you, "
         },
         {
           "add": "I"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will make myself known unto him in a vision,"
+          "t": " will make myself known unto him in a vision, "
         },
         {
           "add": "and"
         },
         {
-          "t": "will speak unto him in a dream."
+          "t": " will speak unto him in a dream. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "My servant Moses is not so, who is faithful in all mine house.",
       "tokens": [
         {
-          "t": "My servant Moses"
+          "t": "My servant Moses "
         },
         {
           "add": "is"
         },
         {
-          "t": "not so, who"
+          "t": " not so, who "
         },
         {
           "add": "is"
         },
         {
-          "t": "faithful in all mine house."
+          "t": " faithful in all mine house. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses?",
       "tokens": [
         {
-          "t": "With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the"
+          "t": "With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall he behold: wherefore then were ye not afraid to speak against my servant Moses?"
+          "t": " shall he behold: wherefore then were ye not afraid to speak against my servant Moses? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the anger of the LORD was kindled against them; and he departed.",
       "tokens": [
         {
-          "t": "And the anger of the"
+          "t": "And the anger of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was kindled against them; and he departed."
+          "t": " was kindled against them; and he departed. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the cloud departed from off the tabernacle; and, behold, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, behold, she was leprous.",
       "tokens": [
         {
-          "t": "And the cloud departed from off the tabernacle; and, behold, Miriam"
+          "t": "And the cloud departed from off the tabernacle; and, behold, Miriam "
         },
         {
           "add": "became"
         },
         {
-          "t": "leprous,"
+          "t": " leprous, "
         },
         {
           "add": "white"
         },
         {
-          "t": "as snow: and Aaron looked upon Miriam, and, behold,"
+          "t": " as snow: and Aaron looked upon Miriam, and, behold, "
         },
         {
           "add": "she was"
         },
         {
-          "t": "leprous."
+          "t": " leprous. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned.",
       "tokens": [
         {
-          "t": "And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned."
+          "t": "And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb.",
       "tokens": [
         {
-          "t": "Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb."
+          "t": "Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee.",
       "tokens": [
         {
-          "t": "And Moses cried unto the"
+          "t": "And Moses cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", saying, Heal her now, O God, I beseech thee."
+          "t": ", saying, Heal her now, O God, I beseech thee. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in again.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in"
+          "t": " said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in "
         },
         {
           "add": "again"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again.",
       "tokens": [
         {
-          "t": "And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in"
+          "t": "And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in "
         },
         {
           "add": "again"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran.",
       "tokens": [
         {
-          "t": "And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran."
+          "t": "And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran. "
         }
       ]
     }

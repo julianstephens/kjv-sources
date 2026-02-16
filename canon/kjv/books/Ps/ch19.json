@@ -1,0 +1,348 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 19,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+      "tokens": [
+        {
+          "t": "The heavens declare the glory of God; and the firmament sheweth his handywork. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Day unto day uttereth speech, and night unto night sheweth knowledge.",
+      "tokens": [
+        {
+          "t": "Day unto day uttereth speech, and night unto night sheweth knowledge. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "There is no speech nor language, where their voice is not heard.",
+      "tokens": [
+        {
+          "add": "There is"
+        },
+        {
+          "t": " no speech nor language, "
+        },
+        {
+          "add": "where"
+        },
+        {
+          "t": " their voice is not heard. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,",
+      "tokens": [
+        {
+          "t": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun, "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.",
+      "tokens": [
+        {
+          "t": "Which "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " as a bridegroom coming out of his chamber, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " rejoiceth as a strong man to run a race. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.",
+      "tokens": [
+        {
+          "t": "His going forth "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "The law of the LORD is perfect, converting the soul: the testimony of the LORD is sure, making wise the simple.",
+      "tokens": [
+        {
+          "t": "The law of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " perfect, converting the soul: the testimony of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " sure, making wise the simple. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "The statutes of the LORD are right, rejoicing the heart: the commandment of the LORD is pure, enlightening the eyes.",
+      "tokens": [
+        {
+          "t": "The statutes of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " right, rejoicing the heart: the commandment of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " pure, enlightening the eyes. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "The fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether.",
+      "tokens": [
+        {
+          "t": "The fear of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " clean, enduring for ever: the judgments of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " true "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " righteous altogether. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.",
+      "tokens": [
+        {
+          "t": "More to be desired "
+        },
+        {
+          "add": "are they"
+        },
+        {
+          "t": " than gold, yea, than much fine gold: sweeter also than honey and the honeycomb. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Moreover by them is thy servant warned: and in keeping of them there is great reward.",
+      "tokens": [
+        {
+          "t": "Moreover by them is thy servant warned: "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " in keeping of them "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " great reward. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Who can understand his errors? cleanse thou me from secret faults.",
+      "tokens": [
+        {
+          "t": "Who can understand "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " errors? cleanse thou me from secret "
+        },
+        {
+          "add": "faults"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Keep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.",
+      "tokens": [
+        {
+          "t": "Keep back thy servant also from presumptuous "
+        },
+        {
+          "add": "sins;"
+        },
+        {
+          "t": " let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.",
+      "tokens": [
+        {
+          "t": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", my strength, and my redeemer. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "where…: or, without these their voice is heard: Heb. without their voice heard"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "line: or, rule, or, direction"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "law: or, doctrine"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "converting: or, restoring"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "true: Heb. truth"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 10
+      },
+      "text": "the honeycomb: Heb. the dropping of honeycombs"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 13
+      },
+      "text": "the great: or, much"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 14
+      },
+      "text": "strength: Heb. rock"
+    }
+  ]
+}

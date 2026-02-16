@@ -1,0 +1,282 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 41,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " he that considereth the poor: the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will deliver him in time of trouble. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will preserve him, and keep him alive; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee.",
+      "tokens": [
+        {
+          "t": "I said, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", be merciful unto me: heal my soul; for I have sinned against thee. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Mine enemies speak evil of me, When shall he die, and his name perish?",
+      "tokens": [
+        {
+          "t": "Mine enemies speak evil of me, When shall he die, and his name perish? "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "And if he come to see me, he speaketh vanity: his heart gathereth iniquity to itself; when he goeth abroad, he telleth it.",
+      "tokens": [
+        {
+          "t": "And if he come to see "
+        },
+        {
+          "add": "me"
+        },
+        {
+          "t": ", he speaketh vanity: his heart gathereth iniquity to itself; "
+        },
+        {
+          "add": "when"
+        },
+        {
+          "t": " he goeth abroad, he telleth "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "All that hate me whisper together against me: against me do they devise my hurt.",
+      "tokens": [
+        {
+          "t": "All that hate me whisper together against me: against me do they devise my hurt. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "An evil disease, say they, cleaveth fast unto him: and now that he lieth he shall rise up no more.",
+      "tokens": [
+        {
+          "t": "An evil disease, "
+        },
+        {
+          "add": "say they"
+        },
+        {
+          "t": ", cleaveth fast unto him: and "
+        },
+        {
+          "add": "now"
+        },
+        {
+          "t": " that he lieth he shall rise up no more. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me.",
+      "tokens": [
+        {
+          "t": "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " heel against me. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "But thou, O LORD, be merciful unto me, and raise me up, that I may requite them.",
+      "tokens": [
+        {
+          "t": "But thou, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", be merciful unto me, and raise me up, that I may requite them. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "By this I know that thou favourest me, because mine enemy doth not triumph over me.",
+      "tokens": [
+        {
+          "t": "By this I know that thou favourest me, because mine enemy doth not triumph over me. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.",
+      "tokens": [
+        {
+          "t": "And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God of Israel from everlasting, and to everlasting. Amen, and Amen. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "the poor: or, the weak, or, sick"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "in time…: Heb. in the day of evil"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 2
+      },
+      "text": "thou…: or, do not thou deliver"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 3
+      },
+      "text": "make: Heb. turn"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 7
+      },
+      "text": "my…: Heb. evil to me"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 8
+      },
+      "text": "An…: Heb. A thing of Belial"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 9
+      },
+      "text": "mine…: Heb. the man of my peace"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 9
+      },
+      "text": "lifted…: Heb. magnified"
+    }
+  ]
+}

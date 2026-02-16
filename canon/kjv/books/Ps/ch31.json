@@ -1,0 +1,396 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 31,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.",
+      "tokens": [
+        {
+          "t": "In thee, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", do I put my trust; let me never be ashamed: deliver me in thy righteousness. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.",
+      "tokens": [
+        {
+          "t": "Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For thou art my rock and my fortress; therefore for thy name’s sake lead me, and guide me.",
+      "tokens": [
+        {
+          "t": "For thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my rock and my fortress; therefore for thy name’s sake lead me, and guide me. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Pull me out of the net that they have laid privily for me: for thou art my strength.",
+      "tokens": [
+        {
+          "t": "Pull me out of the net that they have laid privily for me: for thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my strength. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth.",
+      "tokens": [
+        {
+          "t": "Into thine hand I commit my spirit: thou hast redeemed me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God of truth. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "I have hated them that regard lying vanities: but I trust in the LORD.",
+      "tokens": [
+        {
+          "t": "I have hated them that regard lying vanities: but I trust in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;",
+      "tokens": [
+        {
+          "t": "I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities; "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room.",
+      "tokens": [
+        {
+          "t": "And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Have mercy upon me, O LORD, for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly.",
+      "tokens": [
+        {
+          "t": "Have mercy upon me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", for I am in trouble: mine eye is consumed with grief, "
+        },
+        {
+          "add": "yea"
+        },
+        {
+          "t": ", my soul and my belly. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed.",
+      "tokens": [
+        {
+          "t": "For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me.",
+      "tokens": [
+        {
+          "t": "I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "I am forgotten as a dead man out of mind: I am like a broken vessel.",
+      "tokens": [
+        {
+          "t": "I am forgotten as a dead man out of mind: I am like a broken vessel. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "For I have heard the slander of many: fear was on every side: while they took counsel together against me, they devised to take away my life.",
+      "tokens": [
+        {
+          "t": "For I have heard the slander of many: fear "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " on every side: while they took counsel together against me, they devised to take away my life. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "But I trusted in thee, O LORD: I said, Thou art my God.",
+      "tokens": [
+        {
+          "t": "But I trusted in thee, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": I said, Thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my God. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.",
+      "tokens": [
+        {
+          "t": "My times "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " in thy hand: deliver me from the hand of mine enemies, and from them that persecute me. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "Make thy face to shine upon thy servant: save me for thy mercies’ sake.",
+      "tokens": [
+        {
+          "t": "Make thy face to shine upon thy servant: save me for thy mercies’ sake. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave.",
+      "tokens": [
+        {
+          "t": "Let me not be ashamed, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for I have called upon thee: let the wicked be ashamed, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " let them be silent in the grave. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous.",
+      "tokens": [
+        {
+          "t": "Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Oh how great is thy goodness, which thou hast laid up for them that fear thee; which thou hast wrought for them that trust in thee before the sons of men!",
+      "tokens": [
+        {
+          "add": "Oh"
+        },
+        {
+          "t": " how great "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thy goodness, which thou hast laid up for them that fear thee; "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " thou hast wrought for them that trust in thee before the sons of men! "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "Thou shalt hide them in the secret of thy presence from the pride of man: thou shalt keep them secretly in a pavilion from the strife of tongues.",
+      "tokens": [
+        {
+          "t": "Thou shalt hide them in the secret of thy presence from the pride of man: thou shalt keep them secretly in a pavilion from the strife of tongues. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "Blessed be the LORD: for he hath shewed me his marvellous kindness in a strong city.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": for he hath shewed me his marvellous kindness in a strong city. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee.",
+      "tokens": [
+        {
+          "t": "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "O love the LORD, all ye his saints: for the LORD preserveth the faithful, and plentifully rewardeth the proud doer.",
+      "tokens": [
+        {
+          "t": "O love the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", all ye his saints: "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " preserveth the faithful, and plentifully rewardeth the proud doer. "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.",
+      "tokens": [
+        {
+          "t": "Be of good courage, and he shall strengthen your heart, all ye that hope in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "my…: Heb. to me for a rock of strength"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 12
+      },
+      "text": "a broken…: Heb. a vessel that perisheth"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 17
+      },
+      "text": "silent…: or, cut off for"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 18
+      },
+      "text": "grievous…: Heb. a hard thing"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 21
+      },
+      "text": "strong: or, fenced"
+    }
+  ]
+}

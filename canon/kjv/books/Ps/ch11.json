@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 11,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?",
+      "tokens": [
+        {
+          "t": "In the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " put I my trust: how say ye to my soul, Flee "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " a bird to your mountain? "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.",
+      "tokens": [
+        {
+          "t": "For, lo, the wicked bend "
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": " bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "If the foundations be destroyed, what can the righteous do?",
+      "tokens": [
+        {
+          "t": "If the foundations be destroyed, what can the righteous do? "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "The LORD is in his holy temple, the LORD’s throne is in heaven: his eyes behold, his eyelids try, the children of men.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in his holy temple, the "
+        },
+        {
+          "nd": "LORD’s"
+        },
+        {
+          "t": " throne "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in heaven: his eyes behold, his eyelids try, the children of men. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " trieth the righteous: but the wicked and him that loveth violence his soul hateth. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.",
+      "tokens": [
+        {
+          "t": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: "
+        },
+        {
+          "add": "this shall be"
+        },
+        {
+          "t": " the portion of their cup. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "For the righteous LORD loveth righteousness; his countenance doth behold the upright.",
+      "tokens": [
+        {
+          "t": "For the righteous "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " loveth righteousness; his countenance doth behold the upright. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "privily: Heb. in darkness"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "an horrible…: or, a burning tempest"
+    }
+  ]
+}

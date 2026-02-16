@@ -1,0 +1,195 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 64,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
+      "tokens": [
+        {
+          "t": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:",
+      "tokens": [
+        {
+          "t": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity: "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:",
+      "tokens": [
+        {
+          "t": "Who whet their tongue like a sword, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " bend "
+        },
+        {
+          "add": "their bows to shoot"
+        },
+        {
+          "t": " their arrows, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " bitter words: "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.",
+      "tokens": [
+        {
+          "t": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?",
+      "tokens": [
+        {
+          "t": "They encourage themselves "
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": " an evil matter: they commune of laying snares privily; they say, Who shall see them? "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.",
+      "tokens": [
+        {
+          "t": "They search out iniquities; they accomplish a diligent search: both the inward "
+        },
+        {
+          "add": "thought"
+        },
+        {
+          "t": " of every one "
+        },
+        {
+          "add": "of them"
+        },
+        {
+          "t": ", and the heart, "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " deep. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "But God shall shoot at them with an arrow; suddenly shall they be wounded.",
+      "tokens": [
+        {
+          "t": "But God shall shoot at them "
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": " an arrow; suddenly shall they be wounded. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away.",
+      "tokens": [
+        {
+          "t": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.",
+      "tokens": [
+        {
+          "t": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.",
+      "tokens": [
+        {
+          "t": "The righteous shall be glad in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and shall trust in him; and all the upright in heart shall glory. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "matter: or, speech"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "of…: Heb. to hide his snares"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "they…: or, we are consumed by that which they have throughly searched"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "a diligent…: Heb. a search searched"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 7
+      },
+      "text": "shall they…: Heb. their wound shall be"
+    }
+  ]
+}

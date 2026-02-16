@@ -7,301 +7,529 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,",
       "tokens": [
         {
-          "t": "Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,"
+          "t": "Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread.",
       "tokens": [
         {
-          "t": "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread."
+          "t": "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?",
       "tokens": [
         {
-          "t": "But he answered and said unto them,"
+          "t": "But he answered and said unto them, "
+        },
+        {
+          "t": "Why do ye also transgress the commandment of God by your tradition?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.",
+      "tokens": [
+        {
+          "t": "For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me;",
+      "tokens": [
+        {
+          "t": "But ye say, Whosoever shall say to "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " father or "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " mother, "
+        },
+        {
+          "add": "It is"
+        },
+        {
+          "t": " a gift, by whatsoever thou mightest be profited by me;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition.",
+      "tokens": [
+        {
+          "t": "And honour not his father or his mother, "
+        },
+        {
+          "add": "he shall be free"
+        },
+        {
+          "t": ". Thus have ye made the commandment of God of none effect by your tradition."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "Ye hypocrites, well did Esaias prophesy of you, saying,",
+      "tokens": [
+        {
+          "add": "Ye"
+        },
+        {
+          "t": " hypocrites, well did Esaias prophesy of you, saying,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.",
+      "tokens": [
+        {
+          "t": "This people draweth nigh unto me with their mouth, and honoureth me with "
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": " lips; but their heart is far from me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "But in vain they do worship me, teaching for doctrines the commandments of men.",
+      "tokens": [
+        {
+          "t": "But in vain they do worship me, teaching "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " doctrines the commandments of men."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
+      "plain": "¶ And he called the multitude, and said unto them, Hear, and understand:",
       "tokens": [
         {
-          "t": "¶ And he called the multitude, and said unto them,"
+          "t": "¶ And he called the multitude, and said unto them, "
+        },
+        {
+          "t": "Hear, and understand:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.",
+      "tokens": [
+        {
+          "t": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
+      "plain": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?",
       "tokens": [
         {
-          "t": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?"
+          "t": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up.",
       "tokens": [
         {
-          "t": "But he answered and said,"
+          "t": "But he answered and said, "
+        },
+        {
+          "t": "Every plant, which my heavenly Father hath not planted, shall be rooted up."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.",
+      "tokens": [
+        {
+          "t": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
+      "plain": "Then answered Peter and said unto him, Declare unto us this parable.",
       "tokens": [
         {
-          "t": "Then answered Peter and said unto him, Declare unto us this parable."
+          "t": "Then answered Peter and said unto him, Declare unto us this parable. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Jesus said, Are ye also yet without understanding?",
       "tokens": [
         {
-          "t": "And Jesus said,"
+          "t": "And Jesus said, "
+        },
+        {
+          "t": "Are ye also yet without understanding?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?",
+      "tokens": [
+        {
+          "t": "Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "But those things which proceed out of the mouth come forth from the heart; and they defile the man.",
+      "tokens": [
+        {
+          "t": "But those things which proceed out of the mouth come forth from the heart; and they defile the man."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:",
+      "tokens": [
+        {
+          "t": "For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "These are the things which defile a man: but to eat with unwashen hands defileth not a man.",
+      "tokens": [
+        {
+          "t": "These are "
+        },
+        {
+          "add": "the things"
+        },
+        {
+          "t": " which defile a man: but to eat with unwashen hands defileth not a man."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
+      "plain": "¶ Then Jesus went thence, and departed into the coasts of Tyre and Sidon.",
       "tokens": [
         {
-          "t": "¶ Then Jesus went thence, and departed into the coasts of Tyre and Sidon."
+          "t": "¶ Then Jesus went thence, and departed into the coasts of Tyre and Sidon. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil.",
       "tokens": [
         {
-          "t": "And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord,"
+          "t": "And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, "
         },
         {
           "add": "thou"
         },
         {
-          "t": "Son of David; my daughter is grievously vexed with a devil."
+          "t": " Son of David; my daughter is grievously vexed with a devil. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.",
       "tokens": [
         {
-          "t": "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us."
+          "t": "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "But he answered and said, I am not sent but unto the lost sheep of the house of Israel.",
       "tokens": [
         {
-          "t": "But he answered and said,"
+          "t": "But he answered and said, "
+        },
+        {
+          "t": "I am not sent but unto the lost sheep of the house of Israel."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Then came she and worshipped him, saying, Lord, help me.",
       "tokens": [
         {
-          "t": "Then came she and worshipped him, saying, Lord, help me."
+          "t": "Then came she and worshipped him, saying, Lord, help me. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs.",
       "tokens": [
         {
-          "t": "But he answered and said,"
+          "t": "But he answered and said, "
+        },
+        {
+          "t": "It is not meet to take the children’s bread, and to cast "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " to dogs."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table.",
       "tokens": [
         {
-          "t": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table."
+          "t": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.",
       "tokens": [
         {
-          "t": "And her daughter was made whole from that very hour."
+          "t": "Then Jesus answered and said unto her, "
         },
         {
-          "t": "Then Jesus answered and said unto her, And her daughter was made whole from that very hour."
+          "t": "O woman, great "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thy faith: be it unto thee even as thou wilt."
+        },
+        {
+          "t": " And her daughter was made whole from that very hour. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.",
       "tokens": [
         {
-          "t": "And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there."
+          "t": "And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus’ feet; and he healed them:",
       "tokens": [
         {
-          "t": "And great multitudes came unto him, having with them"
+          "t": "And great multitudes came unto him, having with them "
         },
         {
           "add": "those that were"
         },
         {
-          "t": "lame, blind, dumb, maimed, and many others, and cast them down at Jesus’ feet; and he healed them:"
+          "t": " lame, blind, dumb, maimed, and many others, and cast them down at Jesus’ feet; and he healed them: "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel.",
       "tokens": [
         {
-          "t": "Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel."
+          "t": "Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "¶ Then Jesus called his disciples unto him, and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way.",
       "tokens": [
         {
-          "t": "¶ Then Jesus called his disciples"
+          "t": "¶ Then Jesus called his disciples "
         },
         {
           "add": "unto him"
         },
         {
-          "t": ", and said,"
+          "t": ", and said, "
+        },
+        {
+          "t": "I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?",
       "tokens": [
         {
-          "t": "And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?"
+          "t": "And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude? "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And Jesus saith unto them, How many loaves have ye? And they said, Seven, and a few little fishes.",
       "tokens": [
         {
-          "t": "And they said, Seven, and a few little fishes."
+          "t": "And Jesus saith unto them, "
         },
         {
-          "t": "And Jesus saith unto them, And they said, Seven, and a few little fishes."
+          "t": "How many loaves have ye?"
+        },
+        {
+          "t": " And they said, Seven, and a few little fishes. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And he commanded the multitude to sit down on the ground.",
       "tokens": [
         {
-          "t": "And he commanded the multitude to sit down on the ground."
+          "t": "And he commanded the multitude to sit down on the ground. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And he took the seven loaves and the fishes, and gave thanks, and brake them, and gave to his disciples, and the disciples to the multitude.",
       "tokens": [
         {
-          "t": "And he took the seven loaves and the fishes, and gave thanks, and brake"
+          "t": "And he took the seven loaves and the fishes, and gave thanks, and brake "
         },
         {
           "add": "them"
         },
         {
-          "t": ", and gave to his disciples, and the disciples to the multitude."
+          "t": ", and gave to his disciples, and the disciples to the multitude. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And they did all eat, and were filled: and they took up of the broken meat that was left seven baskets full.",
       "tokens": [
         {
-          "t": "And they did all eat, and were filled: and they took up of the broken"
+          "t": "And they did all eat, and were filled: and they took up of the broken "
         },
         {
           "add": "meat"
         },
         {
-          "t": "that was left seven baskets full."
+          "t": " that was left seven baskets full. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And they that did eat were four thousand men, beside women and children.",
       "tokens": [
         {
-          "t": "And they that did eat were four thousand men, beside women and children."
+          "t": "And they that did eat were four thousand men, beside women and children. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And he sent away the multitude, and took ship, and came into the coasts of Magdala.",
       "tokens": [
         {
-          "t": "And he sent away the multitude, and took ship, and came into the coasts of Magdala."
+          "t": "And he sent away the multitude, and took ship, and came into the coasts of Magdala. "
         }
       ]
     }

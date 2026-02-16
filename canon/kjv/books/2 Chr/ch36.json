@@ -7,392 +7,418 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem.",
       "tokens": [
         {
-          "t": "Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem."
+          "t": "Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem.",
       "tokens": [
         {
-          "t": "Jehoahaz"
+          "t": "Jehoahaz "
         },
         {
           "add": "was"
         },
         {
-          "t": "twenty and three years old when he began to reign, and he reigned three months in Jerusalem."
+          "t": " twenty and three years old when he began to reign, and he reigned three months in Jerusalem. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold.",
       "tokens": [
         {
-          "t": "And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold."
+          "t": "And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.",
       "tokens": [
         {
-          "t": "And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt."
+          "t": "And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God.",
       "tokens": [
         {
-          "t": "¶ Jehoiakim"
+          "t": "¶ Jehoiakim "
         },
         {
           "add": "was"
         },
         {
-          "t": "twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did"
+          "t": " twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did "
         },
         {
           "add": "that which was"
         },
         {
-          "t": "evil in the sight of the"
+          "t": " evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God."
+          "t": " his God. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.",
       "tokens": [
         {
-          "t": "Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon."
+          "t": "Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon.",
       "tokens": [
         {
-          "t": "Nebuchadnezzar also carried of the vessels of the house of the"
+          "t": "Nebuchadnezzar also carried of the vessels of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to Babylon, and put them in his temple at Babylon."
+          "t": " to Babylon, and put them in his temple at Babylon. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead.",
       "tokens": [
         {
-          "t": "Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they"
+          "t": "Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they "
         },
         {
           "add": "are"
         },
         {
-          "t": "written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead."
+          "t": " written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD.",
       "tokens": [
         {
-          "t": "¶ Jehoiachin"
+          "t": "¶ Jehoiachin "
         },
         {
           "add": "was"
         },
         {
-          "t": "eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did"
+          "t": " eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did "
         },
         {
           "add": "that which was"
         },
         {
-          "t": "evil in the sight of the"
+          "t": " evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.",
       "tokens": [
         {
-          "t": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the"
+          "t": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and made Zedekiah his brother king over Judah and Jerusalem."
+          "t": ", and made Zedekiah his brother king over Judah and Jerusalem. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem.",
       "tokens": [
         {
-          "t": "¶ Zedekiah"
+          "t": "¶ Zedekiah "
         },
         {
           "add": "was"
         },
         {
-          "t": "one and twenty years old when he began to reign, and reigned eleven years in Jerusalem."
+          "t": " one and twenty years old when he began to reign, and reigned eleven years in Jerusalem. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD.",
       "tokens": [
         {
-          "t": "And he did"
+          "t": "And he did "
         },
         {
           "add": "that which was"
         },
         {
-          "t": "evil in the sight of the"
+          "t": " evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God,"
+          "t": " his God, "
         },
         {
           "add": "and"
         },
         {
-          "t": "humbled not himself before Jeremiah the prophet"
+          "t": " humbled not himself before Jeremiah the prophet "
         },
         {
           "add": "speaking"
         },
         {
-          "t": "from the mouth of the"
+          "t": " from the mouth of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel.",
       "tokens": [
         {
-          "t": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the"
+          "t": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel."
+          "t": " God of Israel. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem.",
       "tokens": [
         {
-          "t": "¶ Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the"
+          "t": "¶ Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "which he had hallowed in Jerusalem."
+          "t": " which he had hallowed in Jerusalem. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:"
+          "t": " God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy.",
       "tokens": [
         {
-          "t": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the"
+          "t": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "arose against his people, till"
+          "t": " arose against his people, till "
         },
         {
           "add": "there was"
         },
         {
-          "t": "no remedy."
+          "t": " no remedy. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand.",
       "tokens": [
         {
-          "t": "Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave"
+          "t": "Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave "
         },
         {
           "add": "them"
         },
         {
-          "t": "all into his hand."
+          "t": " all into his hand. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon.",
       "tokens": [
         {
-          "t": "And all the vessels of the house of God, great and small, and the treasures of the house of the"
+          "t": "And all the vessels of the house of God, great and small, and the treasures of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the treasures of the king, and of his princes; all"
+          "t": ", and the treasures of the king, and of his princes; all "
         },
         {
           "add": "these"
         },
         {
-          "t": "he brought to Babylon."
+          "t": " he brought to Babylon. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof.",
       "tokens": [
         {
-          "t": "And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof."
+          "t": "And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:",
       "tokens": [
         {
-          "t": "And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:"
+          "t": "And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.",
       "tokens": [
         {
-          "t": "To fulfil the word of the"
+          "t": "To fulfil the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "by the mouth of Jeremiah, until the land had enjoyed her sabbaths:"
+          "t": " by the mouth of Jeremiah, until the land had enjoyed her sabbaths: "
         },
         {
           "add": "for"
         },
         {
-          "t": "as long as she lay desolate she kept sabbath, to fulfil threescore and ten years."
+          "t": " as long as she lay desolate she kept sabbath, to fulfil threescore and ten years. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,",
       "tokens": [
         {
-          "t": "¶ Now in the first year of Cyrus king of Persia, that the word of the"
+          "t": "¶ Now in the first year of Cyrus king of Persia, that the word of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "spoken"
         },
         {
-          "t": "by the mouth of Jeremiah might be accomplished, the"
+          "t": " by the mouth of Jeremiah might be accomplished, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and"
+          "t": " stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and "
         },
         {
           "add": "put it"
         },
         {
-          "t": "also in writing, saying,"
+          "t": " also in writing, saying, "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up.",
       "tokens": [
         {
-          "t": "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the"
+          "t": "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of heaven given me; and he hath charged me to build him an house in Jerusalem, which"
+          "t": " God of heaven given me; and he hath charged me to build him an house in Jerusalem, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Judah. Who"
+          "t": " in Judah. Who "
         },
         {
           "add": "is there"
         },
         {
-          "t": "among you of all his people? The"
+          "t": " among you of all his people? The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God"
+          "t": " his God "
         },
         {
           "add": "be"
         },
         {
-          "t": "with him, and let him go up."
+          "t": " with him, and let him go up. "
         }
       ]
     }

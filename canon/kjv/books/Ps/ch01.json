@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 1,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "But his delight is in the law of the LORD; and in his law doth he meditate day and night.",
+      "tokens": [
+        {
+          "t": "But his delight "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in the law of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; and in his law doth he meditate day and night. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.",
+      "tokens": [
+        {
+          "t": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "The ungodly are not so: but are like the chaff which the wind driveth away.",
+      "tokens": [
+        {
+          "t": "The ungodly "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " not so: but "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " like the chaff which the wind driveth away. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+      "tokens": [
+        {
+          "t": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.",
+      "tokens": [
+        {
+          "t": "For the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " knoweth the way of the righteous: but the way of the ungodly shall perish. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "ungodly: or, wicked"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "wither: Heb. fade"
+    }
+  ]
+}

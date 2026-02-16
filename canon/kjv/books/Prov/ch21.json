@@ -7,450 +7,481 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The king’s heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.",
       "tokens": [
         {
-          "t": "The king’s heart"
+          "t": "The king’s heart "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the hand of the"
+          "t": " in the hand of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "as"
         },
         {
-          "t": "the rivers of water: he turneth it whithersoever he will."
+          "t": " the rivers of water: he turneth it whithersoever he will. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Every way of a man is right in his own eyes: but the LORD pondereth the hearts.",
       "tokens": [
         {
-          "t": "Every way of a man"
+          "t": "Every way of a man "
         },
         {
           "add": "is"
         },
         {
-          "t": "right in his own eyes: but the"
+          "t": " right in his own eyes: but the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "pondereth the hearts."
+          "t": " pondereth the hearts. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "To do justice and judgment is more acceptable to the LORD than sacrifice.",
       "tokens": [
         {
-          "t": "To do justice and judgment"
+          "t": "To do justice and judgment "
         },
         {
           "add": "is"
         },
         {
-          "t": "more acceptable to the"
+          "t": " more acceptable to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "than sacrifice."
+          "t": " than sacrifice. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "An high look, and a proud heart, and the plowing of the wicked, is sin.",
       "tokens": [
         {
-          "t": "An high look, and a proud heart,"
+          "t": "An high look, and a proud heart, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the plowing of the wicked,"
+          "t": " the plowing of the wicked, "
         },
         {
           "add": "is"
         },
         {
-          "t": "sin."
+          "t": " sin. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.",
       "tokens": [
         {
-          "t": "The thoughts of the diligent"
+          "t": "The thoughts of the diligent "
         },
         {
           "add": "tend"
         },
         {
-          "t": "only to plenteousness; but of every one"
+          "t": " only to plenteousness; but of every one "
         },
         {
           "add": "that is"
         },
         {
-          "t": "hasty only to want."
+          "t": " hasty only to want. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death.",
       "tokens": [
         {
-          "t": "The getting of treasures by a lying tongue"
+          "t": "The getting of treasures by a lying tongue "
         },
         {
           "add": "is"
         },
         {
-          "t": "a vanity tossed to and fro of them that seek death."
+          "t": " a vanity tossed to and fro of them that seek death. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The robbery of the wicked shall destroy them; because they refuse to do judgment.",
       "tokens": [
         {
-          "t": "The robbery of the wicked shall destroy them; because they refuse to do judgment."
+          "t": "The robbery of the wicked shall destroy them; because they refuse to do judgment. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The way of man is froward and strange: but as for the pure, his work is right.",
       "tokens": [
         {
-          "t": "The way of man"
+          "t": "The way of man "
         },
         {
           "add": "is"
         },
         {
-          "t": "froward and strange: but"
+          "t": " froward and strange: but "
         },
         {
           "add": "as for"
         },
         {
-          "t": "the pure, his work"
+          "t": " the pure, his work "
         },
         {
           "add": "is"
         },
         {
-          "t": "right."
+          "t": " right. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "better to dwell in a corner of the housetop, than with a brawling woman in a wide house."
+          "t": " better to dwell in a corner of the housetop, than with a brawling woman in a wide house. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.",
       "tokens": [
         {
-          "t": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes."
+          "t": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.",
       "tokens": [
         {
-          "t": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge."
+          "t": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness.",
       "tokens": [
         {
-          "t": "The righteous"
+          "t": "The righteous "
         },
         {
           "add": "man"
         },
         {
-          "t": "wisely considereth the house of the wicked:"
+          "t": " wisely considereth the house of the wicked: "
         },
         {
           "add": "but God"
         },
         {
-          "t": "overthroweth the wicked for"
+          "t": " overthroweth the wicked for "
         },
         {
           "add": "their"
         },
         {
-          "t": "wickedness."
+          "t": " wickedness. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.",
       "tokens": [
         {
-          "t": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard."
+          "t": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "A gift in secret pacifieth anger: and a reward in the bosom strong wrath.",
       "tokens": [
         {
-          "t": "A gift in secret pacifieth anger: and a reward in the bosom strong wrath."
+          "t": "A gift in secret pacifieth anger: and a reward in the bosom strong wrath. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "joy to the just to do judgment: but destruction"
+          "t": " joy to the just to do judgment: but destruction "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "to the workers of iniquity."
+          "t": " to the workers of iniquity. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The man that wandereth out of the way of understanding shall remain in the congregation of the dead.",
       "tokens": [
         {
-          "t": "The man that wandereth out of the way of understanding shall remain in the congregation of the dead."
+          "t": "The man that wandereth out of the way of understanding shall remain in the congregation of the dead. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.",
       "tokens": [
         {
-          "t": "He that loveth pleasure"
+          "t": "He that loveth pleasure "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a poor man: he that loveth wine and oil shall not be rich."
+          "t": " a poor man: he that loveth wine and oil shall not be rich. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "The wicked shall be a ransom for the righteous, and the transgressor for the upright.",
       "tokens": [
         {
-          "t": "The wicked"
+          "t": "The wicked "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a ransom for the righteous, and the transgressor for the upright."
+          "t": " a ransom for the righteous, and the transgressor for the upright. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "It is better to dwell in the wilderness, than with a contentious and an angry woman.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "better to dwell in the wilderness, than with a contentious and an angry woman."
+          "t": " better to dwell in the wilderness, than with a contentious and an angry woman. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up."
+          "t": " treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
       "tokens": [
         {
-          "t": "He that followeth after righteousness and mercy findeth life, righteousness, and honour."
+          "t": "He that followeth after righteousness and mercy findeth life, righteousness, and honour. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "A wise man scaleth the city of the mighty, and casteth down the strength of the confidence thereof.",
       "tokens": [
         {
-          "t": "A wise"
+          "t": "A wise "
         },
         {
           "add": "man"
         },
         {
-          "t": "scaleth the city of the mighty, and casteth down the strength of the confidence thereof."
+          "t": " scaleth the city of the mighty, and casteth down the strength of the confidence thereof. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
       "tokens": [
         {
-          "t": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles."
+          "t": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Proud and haughty scorner is his name, who dealeth in proud wrath.",
       "tokens": [
         {
-          "t": "Proud"
+          "t": "Proud "
         },
         {
           "add": "and"
         },
         {
-          "t": "haughty scorner"
+          "t": " haughty scorner "
         },
         {
           "add": "is"
         },
         {
-          "t": "his name, who dealeth in proud wrath."
+          "t": " his name, who dealeth in proud wrath. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "The desire of the slothful killeth him; for his hands refuse to labour.",
       "tokens": [
         {
-          "t": "The desire of the slothful killeth him; for his hands refuse to labour."
+          "t": "The desire of the slothful killeth him; for his hands refuse to labour. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "He coveteth greedily all the day long: but the righteous giveth and spareth not.",
       "tokens": [
         {
-          "t": "He coveteth greedily all the day long: but the righteous giveth and spareth not."
+          "t": "He coveteth greedily all the day long: but the righteous giveth and spareth not. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "The sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked mind?",
       "tokens": [
         {
-          "t": "The sacrifice of the wicked"
+          "t": "The sacrifice of the wicked "
         },
         {
           "add": "is"
         },
         {
-          "t": "abomination: how much more,"
+          "t": " abomination: how much more, "
         },
         {
           "add": "when"
         },
         {
-          "t": "he bringeth it with a wicked mind?"
+          "t": " he bringeth it with a wicked mind? "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "A false witness shall perish: but the man that heareth speaketh constantly.",
       "tokens": [
         {
-          "t": "A false witness shall perish: but the man that heareth speaketh constantly."
+          "t": "A false witness shall perish: but the man that heareth speaketh constantly. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "A wicked man hardeneth his face: but as for the upright, he directeth his way.",
       "tokens": [
         {
-          "t": "A wicked man hardeneth his face: but"
+          "t": "A wicked man hardeneth his face: but "
         },
         {
           "add": "as for"
         },
         {
-          "t": "the upright, he directeth his way."
+          "t": " the upright, he directeth his way. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "There is no wisdom nor understanding nor counsel against the LORD.",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "no wisdom nor understanding nor counsel against the"
+          "t": " no wisdom nor understanding nor counsel against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "The horse is prepared against the day of battle: but safety is of the LORD.",
       "tokens": [
         {
-          "t": "The horse"
+          "t": "The horse "
         },
         {
           "add": "is"
         },
         {
-          "t": "prepared against the day of battle: but safety"
+          "t": " prepared against the day of battle: but safety "
         },
         {
           "add": "is"
         },
         {
-          "t": "of the"
+          "t": " of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

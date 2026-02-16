@@ -7,380 +7,406 @@
   "verses": [
     {
       "v": 1,
+      "plain": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "O give thanks unto the"
+          "t": "O give thanks unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; for"
+          "t": "; for "
         },
         {
           "add": "he is"
         },
         {
-          "t": "good: for his mercy"
+          "t": " good: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "O give thanks unto the God of gods: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "O give thanks unto the God of gods: for his mercy"
+          "t": "O give thanks unto the God of gods: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "O give thanks to the Lord of lords: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "O give thanks to the Lord of lords: for his mercy"
+          "t": "O give thanks to the Lord of lords: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "To him who alone doeth great wonders: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "To him who alone doeth great wonders: for his mercy"
+          "t": "To him who alone doeth great wonders: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "To him that by wisdom made the heavens: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "To him that by wisdom made the heavens: for his mercy"
+          "t": "To him that by wisdom made the heavens: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "To him that stretched out the earth above the waters: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "To him that stretched out the earth above the waters: for his mercy"
+          "t": "To him that stretched out the earth above the waters: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "To him that made great lights: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "To him that made great lights: for his mercy"
+          "t": "To him that made great lights: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The sun to rule by day: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "The sun to rule by day: for his mercy"
+          "t": "The sun to rule by day: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The moon and stars to rule by night: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "The moon and stars to rule by night: for his mercy"
+          "t": "The moon and stars to rule by night: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "To him that smote Egypt in their firstborn: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "To him that smote Egypt in their firstborn: for his mercy"
+          "t": "To him that smote Egypt in their firstborn: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And brought out Israel from among them: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "And brought out Israel from among them: for his mercy"
+          "t": "And brought out Israel from among them: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "With a strong hand, and with a stretched out arm: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "With a strong hand, and with a stretched out arm: for his mercy"
+          "t": "With a strong hand, and with a stretched out arm: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "To him which divided the Red sea into parts: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "To him which divided the Red sea into parts: for his mercy"
+          "t": "To him which divided the Red sea into parts: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And made Israel to pass through the midst of it: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "And made Israel to pass through the midst of it: for his mercy"
+          "t": "And made Israel to pass through the midst of it: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "But overthrew Pharaoh and his host in the Red sea: for his mercy"
+          "t": "But overthrew Pharaoh and his host in the Red sea: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "To him which led his people through the wilderness: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "To him which led his people through the wilderness: for his mercy"
+          "t": "To him which led his people through the wilderness: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "To him which smote great kings: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "To him which smote great kings: for his mercy"
+          "t": "To him which smote great kings: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And slew famous kings: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "And slew famous kings: for his mercy"
+          "t": "And slew famous kings: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Sihon king of the Amorites: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "Sihon king of the Amorites: for his mercy"
+          "t": "Sihon king of the Amorites: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Og the king of Bashan: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "And Og the king of Bashan: for his mercy"
+          "t": "And Og the king of Bashan: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And gave their land for an heritage: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "And gave their land for an heritage: for his mercy"
+          "t": "And gave their land for an heritage: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Even an heritage unto Israel his servant: for his mercy endureth for ever.",
       "tokens": [
         {
           "add": "Even"
         },
         {
-          "t": "an heritage unto Israel his servant: for his mercy"
+          "t": " an heritage unto Israel his servant: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Who remembered us in our low estate: for his mercy endureth for ever:",
       "tokens": [
         {
-          "t": "Who remembered us in our low estate: for his mercy"
+          "t": "Who remembered us in our low estate: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And hath redeemed us from our enemies: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "And hath redeemed us from our enemies: for his mercy"
+          "t": "And hath redeemed us from our enemies: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Who giveth food to all flesh: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "Who giveth food to all flesh: for his mercy"
+          "t": "Who giveth food to all flesh: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "O give thanks unto the God of heaven: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "O give thanks unto the God of heaven: for his mercy"
+          "t": "O give thanks unto the God of heaven: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     }

@@ -7,228 +7,298 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.",
       "tokens": [
         {
-          "t": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb."
+          "t": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations.",
       "tokens": [
         {
-          "t": "In the midst of the street of it, and on either side of the river,"
+          "t": "In the midst of the street of it, and on either side of the river, "
         },
         {
           "add": "was there"
         },
         {
-          "t": "the tree of life, which bare twelve"
+          "t": " the tree of life, which bare twelve "
         },
         {
           "add": "manner of"
         },
         {
-          "t": "fruits,"
+          "t": " fruits, "
         },
         {
           "add": "and"
         },
         {
-          "t": "yielded her fruit every month: and the leaves of the tree"
+          "t": " yielded her fruit every month: and the leaves of the tree "
         },
         {
           "add": "were"
         },
         {
-          "t": "for the healing of the nations."
+          "t": " for the healing of the nations. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:",
       "tokens": [
         {
-          "t": "And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:"
+          "t": "And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And they shall see his face; and his name shall be in their foreheads.",
       "tokens": [
         {
-          "t": "And they shall see his face; and his name"
+          "t": "And they shall see his face; and his name "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "in their foreheads."
+          "t": " in their foreheads. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.",
       "tokens": [
         {
-          "t": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever."
+          "t": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he said unto me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.",
       "tokens": [
         {
-          "t": "And he said unto me, These sayings"
+          "t": "And he said unto me, These sayings "
         },
         {
           "add": "are"
         },
         {
-          "t": "faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done."
+          "t": " faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done. "
         }
       ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.",
+      "tokens": [
+        {
+          "t": "Behold, I come quickly: blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " he that keepeth the sayings of the prophecy of this book."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
+      "plain": "And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.",
       "tokens": [
         {
-          "t": "And I John saw these things, and heard"
+          "t": "And I John saw these things, and heard "
         },
         {
           "add": "them"
         },
         {
-          "t": ". And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things."
+          "t": ". And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.",
       "tokens": [
         {
-          "t": "Then saith he unto me, See"
+          "t": "Then saith he unto me, See "
         },
         {
           "add": "thou do it"
         },
         {
-          "t": "not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God."
+          "t": " not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand.",
       "tokens": [
         {
-          "t": "And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand."
+          "t": "And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.",
       "tokens": [
         {
-          "t": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still."
+          "t": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still. "
         }
       ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be.",
+      "tokens": [
+        {
+          "t": "And, behold, I come quickly; and my reward "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " with me, to give every man according as his work shall be."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "I am Alpha and Omega, the beginning and the end, the first and the last.",
+      "tokens": [
+        {
+          "t": "I am Alpha and Omega, the beginning and the end, the first and the last."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
+      "plain": "Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "are"
         },
         {
-          "t": "they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city."
+          "t": " they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.",
       "tokens": [
         {
-          "t": "For without"
+          "t": "For without "
         },
         {
           "add": "are"
         },
         {
-          "t": "dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie."
+          "t": " dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie. "
         }
       ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.",
+      "tokens": [
+        {
+          "t": "I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " the bright and morning star."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
+      "plain": "And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.",
       "tokens": [
         {
-          "t": "And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely."
+          "t": "And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:",
       "tokens": [
         {
-          "t": "For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:"
+          "t": "For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.",
       "tokens": [
         {
-          "t": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and"
+          "t": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and "
         },
         {
           "add": "from"
         },
         {
-          "t": "the things which are written in this book."
+          "t": " the things which are written in this book. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.",
       "tokens": [
         {
-          "t": "Amen. Even so, come, Lord Jesus."
+          "t": "He which testifieth these things saith, "
         },
         {
-          "t": "He which testifieth these things saith, Amen. Even so, come, Lord Jesus."
+          "t": "Surely I come quickly."
+        },
+        {
+          "t": " Amen. Even so, come, Lord Jesus. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "The grace of our Lord Jesus Christ be with you all. Amen.",
       "tokens": [
         {
-          "t": "The grace of our Lord Jesus Christ"
+          "t": "The grace of our Lord Jesus Christ "
         },
         {
           "add": "be"
         },
         {
-          "t": "with you all. Amen."
+          "t": " with you all. Amen. "
         }
       ]
     }

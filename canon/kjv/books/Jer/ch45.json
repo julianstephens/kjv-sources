@@ -7,77 +7,82 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,",
       "tokens": [
         {
-          "t": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,"
+          "t": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thus saith the LORD, the God of Israel, unto thee, O Baruch;",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the God of Israel, unto thee, O Baruch;"
+          "t": ", the God of Israel, unto thee, O Baruch; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest.",
       "tokens": [
         {
-          "t": "Thou didst say, Woe is me now! for the"
+          "t": "Thou didst say, Woe is me now! for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath added grief to my sorrow; I fainted in my sighing, and I find no rest."
+          "t": " hath added grief to my sorrow; I fainted in my sighing, and I find no rest. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ Thus shalt thou say unto him, The LORD saith thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land.",
       "tokens": [
         {
-          "t": "¶ Thus shalt thou say unto him, The"
+          "t": "¶ Thus shalt thou say unto him, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "saith thus; Behold,"
+          "t": " saith thus; Behold, "
         },
         {
           "add": "that"
         },
         {
-          "t": "which I have built will I break down, and that which I have planted I will pluck up, even this whole land."
+          "t": " which I have built will I break down, and that which I have planted I will pluck up, even this whole land. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest.",
       "tokens": [
         {
-          "t": "And seekest thou great things for thyself? seek"
+          "t": "And seekest thou great things for thyself? seek "
         },
         {
           "add": "them"
         },
         {
-          "t": "not: for, behold, I will bring evil upon all flesh, saith the"
+          "t": " not: for, behold, I will bring evil upon all flesh, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": but thy life will I give unto thee for a prey in all places whither thou goest."
+          "t": ": but thy life will I give unto thee for a prey in all places whither thou goest. "
         }
       ]
     }

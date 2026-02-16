@@ -7,343 +7,373 @@
   "verses": [
     {
       "v": 1,
+      "plain": "But Job answered and said,",
       "tokens": [
         {
-          "t": "But Job answered and said,"
+          "t": "But Job answered and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Oh that my grief were throughly weighed, and my calamity laid in the balances together!",
       "tokens": [
         {
-          "t": "Oh that my grief were throughly weighed, and my calamity laid in the balances together!"
+          "t": "Oh that my grief were throughly weighed, and my calamity laid in the balances together! "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up.",
       "tokens": [
         {
-          "t": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up."
+          "t": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.",
       "tokens": [
         {
-          "t": "For the arrows of the Almighty"
+          "t": "For the arrows of the Almighty "
         },
         {
           "add": "are"
         },
         {
-          "t": "within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me."
+          "t": " within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?",
       "tokens": [
         {
-          "t": "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?"
+          "t": "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?",
       "tokens": [
         {
-          "t": "Can that which is unsavoury be eaten without salt? or is there"
+          "t": "Can that which is unsavoury be eaten without salt? or is there "
         },
         {
           "add": "any"
         },
         {
-          "t": "taste in the white of an egg?"
+          "t": " taste in the white of an egg? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The things that my soul refused to touch are as my sorrowful meat.",
       "tokens": [
         {
-          "t": "The things"
+          "t": "The things "
         },
         {
           "add": "that"
         },
         {
-          "t": "my soul refused to touch"
+          "t": " my soul refused to touch "
         },
         {
           "add": "are"
         },
         {
-          "t": "as my sorrowful meat."
+          "t": " as my sorrowful meat. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Oh that I might have my request; and that God would grant me the thing that I long for!",
       "tokens": [
         {
-          "t": "Oh that I might have my request; and that God would grant"
+          "t": "Oh that I might have my request; and that God would grant "
         },
         {
           "add": "me"
         },
         {
-          "t": "the thing that I long for!"
+          "t": " the thing that I long for! "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!",
       "tokens": [
         {
-          "t": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!"
+          "t": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off! "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.",
       "tokens": [
         {
-          "t": "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One."
+          "t": "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "What is my strength, that I should hope? and what is mine end, that I should prolong my life?",
       "tokens": [
         {
-          "t": "What"
+          "t": "What "
         },
         {
           "add": "is"
         },
         {
-          "t": "my strength, that I should hope? and what"
+          "t": " my strength, that I should hope? and what "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine end, that I should prolong my life?"
+          "t": " mine end, that I should prolong my life? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Is my strength the strength of stones? or is my flesh of brass?",
       "tokens": [
         {
           "add": "Is"
         },
         {
-          "t": "my strength the strength of stones? or"
+          "t": " my strength the strength of stones? or "
         },
         {
           "add": "is"
         },
         {
-          "t": "my flesh of brass?"
+          "t": " my flesh of brass? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Is not my help in me? and is wisdom driven quite from me?",
       "tokens": [
         {
           "add": "Is"
         },
         {
-          "t": "not my help in me? and is wisdom driven quite from me?"
+          "t": " not my help in me? and is wisdom driven quite from me? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.",
       "tokens": [
         {
-          "t": "To him that is afflicted pity"
+          "t": "To him that is afflicted pity "
         },
         {
           "add": "should be shewed"
         },
         {
-          "t": "from his friend; but he forsaketh the fear of the Almighty."
+          "t": " from his friend; but he forsaketh the fear of the Almighty. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;",
       "tokens": [
         {
-          "t": "My brethren have dealt deceitfully as a brook,"
+          "t": "My brethren have dealt deceitfully as a brook, "
         },
         {
           "add": "and"
         },
         {
-          "t": "as the stream of brooks they pass away;"
+          "t": " as the stream of brooks they pass away; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Which are blackish by reason of the ice, and wherein the snow is hid:",
       "tokens": [
         {
-          "t": "Which are blackish by reason of the ice,"
+          "t": "Which are blackish by reason of the ice, "
         },
         {
           "add": "and"
         },
         {
-          "t": "wherein the snow is hid:"
+          "t": " wherein the snow is hid: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place.",
       "tokens": [
         {
-          "t": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place."
+          "t": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "The paths of their way are turned aside; they go to nothing, and perish.",
       "tokens": [
         {
-          "t": "The paths of their way are turned aside; they go to nothing, and perish."
+          "t": "The paths of their way are turned aside; they go to nothing, and perish. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The troops of Tema looked, the companies of Sheba waited for them.",
       "tokens": [
         {
-          "t": "The troops of Tema looked, the companies of Sheba waited for them."
+          "t": "The troops of Tema looked, the companies of Sheba waited for them. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "They were confounded because they had hoped; they came thither, and were ashamed.",
       "tokens": [
         {
-          "t": "They were confounded because they had hoped; they came thither, and were ashamed."
+          "t": "They were confounded because they had hoped; they came thither, and were ashamed. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For now ye are nothing; ye see my casting down, and are afraid.",
       "tokens": [
         {
-          "t": "For now ye are nothing; ye see"
+          "t": "For now ye are nothing; ye see "
         },
         {
           "add": "my"
         },
         {
-          "t": "casting down, and are afraid."
+          "t": " casting down, and are afraid. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Did I say, Bring unto me? or, Give a reward for me of your substance?",
       "tokens": [
         {
-          "t": "Did I say, Bring unto me? or, Give a reward for me of your substance?"
+          "t": "Did I say, Bring unto me? or, Give a reward for me of your substance? "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?",
       "tokens": [
         {
-          "t": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?"
+          "t": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty? "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.",
       "tokens": [
         {
-          "t": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred."
+          "t": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "How forcible are right words! but what doth your arguing reprove?",
       "tokens": [
         {
-          "t": "How forcible are right words! but what doth your arguing reprove?"
+          "t": "How forcible are right words! but what doth your arguing reprove? "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?",
       "tokens": [
         {
-          "t": "Do ye imagine to reprove words, and the speeches of one that is desperate,"
+          "t": "Do ye imagine to reprove words, and the speeches of one that is desperate, "
         },
         {
           "add": "which are"
         },
         {
-          "t": "as wind?"
+          "t": " as wind? "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.",
       "tokens": [
         {
-          "t": "Yea, ye overwhelm the fatherless, and ye dig"
+          "t": "Yea, ye overwhelm the fatherless, and ye dig "
         },
         {
           "add": "a pit"
         },
         {
-          "t": "for your friend."
+          "t": " for your friend. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Now therefore be content, look upon me; for it is evident unto you if I lie.",
       "tokens": [
         {
-          "t": "Now therefore be content, look upon me; for"
+          "t": "Now therefore be content, look upon me; for "
         },
         {
           "add": "it is"
         },
         {
-          "t": "evident unto you if I lie."
+          "t": " evident unto you if I lie. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it.",
       "tokens": [
         {
-          "t": "Return, I pray you, let it not be iniquity; yea, return again, my righteousness"
+          "t": "Return, I pray you, let it not be iniquity; yea, return again, my righteousness "
         },
         {
           "add": "is"
         },
         {
-          "t": "in it."
+          "t": " in it. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Is there iniquity in my tongue? cannot my taste discern perverse things?",
       "tokens": [
         {
-          "t": "Is there iniquity in my tongue? cannot my taste discern perverse things?"
+          "t": "Is there iniquity in my tongue? cannot my taste discern perverse things? "
         }
       ]
     }

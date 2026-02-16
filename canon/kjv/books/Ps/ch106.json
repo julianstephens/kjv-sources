@@ -7,571 +7,619 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Praise ye the LORD. O give thanks unto the LORD; for he is good: for his mercy endureth for ever.",
       "tokens": [
         {
-          "t": "Praise ye the"
+          "t": "Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". O give thanks unto the"
+          "t": ". O give thanks unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; for"
+          "t": "; for "
         },
         {
           "add": "he is"
         },
         {
-          "t": "good: for his mercy"
+          "t": " good: for his mercy "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Who can utter the mighty acts of the LORD? who can shew forth all his praise?",
       "tokens": [
         {
-          "t": "Who can utter the mighty acts of the"
+          "t": "Who can utter the mighty acts of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "?"
+          "t": "? "
         },
         {
           "add": "who"
         },
         {
-          "t": "can shew forth all his praise?"
+          "t": " can shew forth all his praise? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Blessed are they that keep judgment, and he that doeth righteousness at all times.",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "are"
         },
         {
-          "t": "they that keep judgment,"
+          "t": " they that keep judgment, "
         },
         {
           "add": "and"
         },
         {
-          "t": "he that doeth righteousness at all times."
+          "t": " he that doeth righteousness at all times. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Remember me, O LORD, with the favour that thou bearest unto thy people: O visit me with thy salvation;",
       "tokens": [
         {
-          "t": "Remember me, O"
+          "t": "Remember me, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", with the favour"
+          "t": ", with the favour "
         },
         {
           "add": "that thou bearest unto"
         },
         {
-          "t": "thy people: O visit me with thy salvation;"
+          "t": " thy people: O visit me with thy salvation; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance.",
       "tokens": [
         {
-          "t": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance."
+          "t": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
       "tokens": [
         {
-          "t": "We have sinned with our fathers, we have committed iniquity, we have done wickedly."
+          "t": "We have sinned with our fathers, we have committed iniquity, we have done wickedly. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked him at the sea, even at the Red sea.",
       "tokens": [
         {
-          "t": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked"
+          "t": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked "
         },
         {
           "add": "him"
         },
         {
-          "t": "at the sea,"
+          "t": " at the sea, "
         },
         {
           "add": "even"
         },
         {
-          "t": "at the Red sea."
+          "t": " at the Red sea. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Nevertheless he saved them for his name’s sake, that he might make his mighty power to be known.",
       "tokens": [
         {
-          "t": "Nevertheless he saved them for his name’s sake, that he might make his mighty power to be known."
+          "t": "Nevertheless he saved them for his name’s sake, that he might make his mighty power to be known. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.",
       "tokens": [
         {
-          "t": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness."
+          "t": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he saved them from the hand of him that hated them, and redeemed them from the hand of the enemy.",
       "tokens": [
         {
-          "t": "And he saved them from the hand of him that hated"
+          "t": "And he saved them from the hand of him that hated "
         },
         {
           "add": "them"
         },
         {
-          "t": ", and redeemed them from the hand of the enemy."
+          "t": ", and redeemed them from the hand of the enemy. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the waters covered their enemies: there was not one of them left.",
       "tokens": [
         {
-          "t": "And the waters covered their enemies: there was not one of them left."
+          "t": "And the waters covered their enemies: there was not one of them left. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Then believed they his words; they sang his praise.",
       "tokens": [
         {
-          "t": "Then believed they his words; they sang his praise."
+          "t": "Then believed they his words; they sang his praise. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "They soon forgat his works; they waited not for his counsel:",
       "tokens": [
         {
-          "t": "They soon forgat his works; they waited not for his counsel:"
+          "t": "They soon forgat his works; they waited not for his counsel: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But lusted exceedingly in the wilderness, and tempted God in the desert.",
       "tokens": [
         {
-          "t": "But lusted exceedingly in the wilderness, and tempted God in the desert."
+          "t": "But lusted exceedingly in the wilderness, and tempted God in the desert. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And he gave them their request; but sent leanness into their soul.",
       "tokens": [
         {
-          "t": "And he gave them their request; but sent leanness into their soul."
+          "t": "And he gave them their request; but sent leanness into their soul. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "They envied Moses also in the camp, and Aaron the saint of the LORD.",
       "tokens": [
         {
-          "t": "They envied Moses also in the camp,"
+          "t": "They envied Moses also in the camp, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Aaron the saint of the"
+          "t": " Aaron the saint of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "The earth opened and swallowed up Dathan, and covered the company of Abiram.",
       "tokens": [
         {
-          "t": "The earth opened and swallowed up Dathan, and covered the company of Abiram."
+          "t": "The earth opened and swallowed up Dathan, and covered the company of Abiram. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And a fire was kindled in their company; the flame burned up the wicked.",
       "tokens": [
         {
-          "t": "And a fire was kindled in their company; the flame burned up the wicked."
+          "t": "And a fire was kindled in their company; the flame burned up the wicked. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "They made a calf in Horeb, and worshipped the molten image.",
       "tokens": [
         {
-          "t": "They made a calf in Horeb, and worshipped the molten image."
+          "t": "They made a calf in Horeb, and worshipped the molten image. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Thus they changed their glory into the similitude of an ox that eateth grass.",
       "tokens": [
         {
-          "t": "Thus they changed their glory into the similitude of an ox that eateth grass."
+          "t": "Thus they changed their glory into the similitude of an ox that eateth grass. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "They forgat God their saviour, which had done great things in Egypt;",
       "tokens": [
         {
-          "t": "They forgat God their saviour, which had done great things in Egypt;"
+          "t": "They forgat God their saviour, which had done great things in Egypt; "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Wondrous works in the land of Ham, and terrible things by the Red sea.",
       "tokens": [
         {
-          "t": "Wondrous works in the land of Ham,"
+          "t": "Wondrous works in the land of Ham, "
         },
         {
           "add": "and"
         },
         {
-          "t": "terrible things by the Red sea."
+          "t": " terrible things by the Red sea. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy them.",
       "tokens": [
         {
-          "t": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy"
+          "t": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Yea, they despised the pleasant land, they believed not his word:",
       "tokens": [
         {
-          "t": "Yea, they despised the pleasant land, they believed not his word:"
+          "t": "Yea, they despised the pleasant land, they believed not his word: "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But murmured in their tents, and hearkened not unto the voice of the LORD.",
       "tokens": [
         {
-          "t": "But murmured in their tents,"
+          "t": "But murmured in their tents, "
         },
         {
           "add": "and"
         },
         {
-          "t": "hearkened not unto the voice of the"
+          "t": " hearkened not unto the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Therefore he lifted up his hand against them, to overthrow them in the wilderness:",
       "tokens": [
         {
-          "t": "Therefore he lifted up his hand against them, to overthrow them in the wilderness:"
+          "t": "Therefore he lifted up his hand against them, to overthrow them in the wilderness: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "To overthrow their seed also among the nations, and to scatter them in the lands.",
       "tokens": [
         {
-          "t": "To overthrow their seed also among the nations, and to scatter them in the lands."
+          "t": "To overthrow their seed also among the nations, and to scatter them in the lands. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "They joined themselves also unto Baal-peor, and ate the sacrifices of the dead.",
       "tokens": [
         {
-          "t": "They joined themselves also unto Baal-peor, and ate the sacrifices of the dead."
+          "t": "They joined themselves also unto Baal-peor, and ate the sacrifices of the dead. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Thus they provoked him to anger with their inventions: and the plague brake in upon them.",
       "tokens": [
         {
-          "t": "Thus they provoked"
+          "t": "Thus they provoked "
         },
         {
           "add": "him"
         },
         {
-          "t": "to anger with their inventions: and the plague brake in upon them."
+          "t": " to anger with their inventions: and the plague brake in upon them. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Then stood up Phinehas, and executed judgment: and so the plague was stayed.",
       "tokens": [
         {
-          "t": "Then stood up Phinehas, and executed judgment: and"
+          "t": "Then stood up Phinehas, and executed judgment: and "
         },
         {
           "add": "so"
         },
         {
-          "t": "the plague was stayed."
+          "t": " the plague was stayed. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And that was counted unto him for righteousness unto all generations for evermore.",
       "tokens": [
         {
-          "t": "And that was counted unto him for righteousness unto all generations for evermore."
+          "t": "And that was counted unto him for righteousness unto all generations for evermore. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "They angered him also at the waters of strife, so that it went ill with Moses for their sakes:",
       "tokens": [
         {
-          "t": "They angered"
+          "t": "They angered "
         },
         {
           "add": "him"
         },
         {
-          "t": "also at the waters of strife, so that it went ill with Moses for their sakes:"
+          "t": " also at the waters of strife, so that it went ill with Moses for their sakes: "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Because they provoked his spirit, so that he spake unadvisedly with his lips.",
       "tokens": [
         {
-          "t": "Because they provoked his spirit, so that he spake unadvisedly with his lips."
+          "t": "Because they provoked his spirit, so that he spake unadvisedly with his lips. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "They did not destroy the nations, concerning whom the LORD commanded them:",
       "tokens": [
         {
-          "t": "They did not destroy the nations, concerning whom the"
+          "t": "They did not destroy the nations, concerning whom the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded them:"
+          "t": " commanded them: "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "But were mingled among the heathen, and learned their works.",
       "tokens": [
         {
-          "t": "But were mingled among the heathen, and learned their works."
+          "t": "But were mingled among the heathen, and learned their works. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And they served their idols: which were a snare unto them.",
       "tokens": [
         {
-          "t": "And they served their idols: which were a snare unto them."
+          "t": "And they served their idols: which were a snare unto them. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Yea, they sacrificed their sons and their daughters unto devils,",
       "tokens": [
         {
-          "t": "Yea, they sacrificed their sons and their daughters unto devils,"
+          "t": "Yea, they sacrificed their sons and their daughters unto devils, "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.",
       "tokens": [
         {
-          "t": "And shed innocent blood,"
+          "t": "And shed innocent blood, "
         },
         {
           "add": "even"
         },
         {
-          "t": "the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood."
+          "t": " the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "Thus were they defiled with their own works, and went a whoring with their own inventions.",
       "tokens": [
         {
-          "t": "Thus were they defiled with their own works, and went a whoring with their own inventions."
+          "t": "Thus were they defiled with their own works, and went a whoring with their own inventions. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance.",
       "tokens": [
         {
-          "t": "Therefore was the wrath of the"
+          "t": "Therefore was the wrath of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "kindled against his people, insomuch that he abhorred his own inheritance."
+          "t": " kindled against his people, insomuch that he abhorred his own inheritance. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And he gave them into the hand of the heathen; and they that hated them ruled over them.",
       "tokens": [
         {
-          "t": "And he gave them into the hand of the heathen; and they that hated them ruled over them."
+          "t": "And he gave them into the hand of the heathen; and they that hated them ruled over them. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "Their enemies also oppressed them, and they were brought into subjection under their hand.",
       "tokens": [
         {
-          "t": "Their enemies also oppressed them, and they were brought into subjection under their hand."
+          "t": "Their enemies also oppressed them, and they were brought into subjection under their hand. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "Many times did he deliver them; but they provoked him with their counsel, and were brought low for their iniquity.",
       "tokens": [
         {
-          "t": "Many times did he deliver them; but they provoked"
+          "t": "Many times did he deliver them; but they provoked "
         },
         {
           "add": "him"
         },
         {
-          "t": "with their counsel, and were brought low for their iniquity."
+          "t": " with their counsel, and were brought low for their iniquity. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "Nevertheless he regarded their affliction, when he heard their cry:",
       "tokens": [
         {
-          "t": "Nevertheless he regarded their affliction, when he heard their cry:"
+          "t": "Nevertheless he regarded their affliction, when he heard their cry: "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "And he remembered for them his covenant, and repented according to the multitude of his mercies.",
       "tokens": [
         {
-          "t": "And he remembered for them his covenant, and repented according to the multitude of his mercies."
+          "t": "And he remembered for them his covenant, and repented according to the multitude of his mercies. "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "He made them also to be pitied of all those that carried them captives.",
       "tokens": [
         {
-          "t": "He made them also to be pitied of all those that carried them captives."
+          "t": "He made them also to be pitied of all those that carried them captives. "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise.",
       "tokens": [
         {
-          "t": "Save us, O"
+          "t": "Save us, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God, and gather us from among the heathen, to give thanks unto thy holy name,"
+          "t": " our God, and gather us from among the heathen, to give thanks unto thy holy name, "
         },
         {
           "add": "and"
         },
         {
-          "t": "to triumph in thy praise."
+          "t": " to triumph in thy praise. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD.",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the"
+          "t": " God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

@@ -7,335 +7,364 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Job answered and said,",
       "tokens": [
         {
-          "t": "Then Job answered and said,"
+          "t": "Then Job answered and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "How long will ye vex my soul, and break me in pieces with words?",
       "tokens": [
         {
-          "t": "How long will ye vex my soul, and break me in pieces with words?"
+          "t": "How long will ye vex my soul, and break me in pieces with words? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "These ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me.",
       "tokens": [
         {
-          "t": "These ten times have ye reproached me: ye are not ashamed"
+          "t": "These ten times have ye reproached me: ye are not ashamed "
         },
         {
           "add": "that"
         },
         {
-          "t": "ye make yourselves strange to me."
+          "t": " ye make yourselves strange to me. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And be it indeed that I have erred, mine error remaineth with myself.",
       "tokens": [
         {
-          "t": "And be it indeed"
+          "t": "And be it indeed "
         },
         {
           "add": "that"
         },
         {
-          "t": "I have erred, mine error remaineth with myself."
+          "t": " I have erred, mine error remaineth with myself. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "If indeed ye will magnify yourselves against me, and plead against me my reproach:",
       "tokens": [
         {
-          "t": "If indeed ye will magnify"
+          "t": "If indeed ye will magnify "
         },
         {
           "add": "yourselves"
         },
         {
-          "t": "against me, and plead against me my reproach:"
+          "t": " against me, and plead against me my reproach: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Know now that God hath overthrown me, and hath compassed me with his net.",
       "tokens": [
         {
-          "t": "Know now that God hath overthrown me, and hath compassed me with his net."
+          "t": "Know now that God hath overthrown me, and hath compassed me with his net. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.",
       "tokens": [
         {
-          "t": "Behold, I cry out of wrong, but I am not heard: I cry aloud, but"
+          "t": "Behold, I cry out of wrong, but I am not heard: I cry aloud, but "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no judgment."
+          "t": " no judgment. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.",
       "tokens": [
         {
-          "t": "He hath fenced up my way that I cannot pass, and he hath set darkness in my paths."
+          "t": "He hath fenced up my way that I cannot pass, and he hath set darkness in my paths. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He hath stripped me of my glory, and taken the crown from my head.",
       "tokens": [
         {
-          "t": "He hath stripped me of my glory, and taken the crown"
+          "t": "He hath stripped me of my glory, and taken the crown "
         },
         {
           "add": "from"
         },
         {
-          "t": "my head."
+          "t": " my head. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.",
       "tokens": [
         {
-          "t": "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree."
+          "t": "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "He hath also kindled his wrath against me, and he counteth me unto him as one of his enemies.",
       "tokens": [
         {
-          "t": "He hath also kindled his wrath against me, and he counteth me unto him as"
+          "t": "He hath also kindled his wrath against me, and he counteth me unto him as "
         },
         {
           "add": "one of"
         },
         {
-          "t": "his enemies."
+          "t": " his enemies. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "His troops come together, and raise up their way against me, and encamp round about my tabernacle.",
       "tokens": [
         {
-          "t": "His troops come together, and raise up their way against me, and encamp round about my tabernacle."
+          "t": "His troops come together, and raise up their way against me, and encamp round about my tabernacle. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "He hath put my brethren far from me, and mine acquaintance are verily estranged from me.",
       "tokens": [
         {
-          "t": "He hath put my brethren far from me, and mine acquaintance are verily estranged from me."
+          "t": "He hath put my brethren far from me, and mine acquaintance are verily estranged from me. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "My kinsfolk have failed, and my familiar friends have forgotten me.",
       "tokens": [
         {
-          "t": "My kinsfolk have failed, and my familiar friends have forgotten me."
+          "t": "My kinsfolk have failed, and my familiar friends have forgotten me. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.",
       "tokens": [
         {
-          "t": "They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight."
+          "t": "They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "I called my servant, and he gave me no answer; I intreated him with my mouth.",
       "tokens": [
         {
-          "t": "I called my servant, and he gave"
+          "t": "I called my servant, and he gave "
         },
         {
           "add": "me"
         },
         {
-          "t": "no answer; I intreated him with my mouth."
+          "t": " no answer; I intreated him with my mouth. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "My breath is strange to my wife, though I intreated for the children’s sake of mine own body.",
       "tokens": [
         {
-          "t": "My breath is strange to my wife, though I intreated for the children’s"
+          "t": "My breath is strange to my wife, though I intreated for the children’s "
         },
         {
           "add": "sake"
         },
         {
-          "t": "of mine own body."
+          "t": " of mine own body. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Yea, young children despised me; I arose, and they spake against me.",
       "tokens": [
         {
-          "t": "Yea, young children despised me; I arose, and they spake against me."
+          "t": "Yea, young children despised me; I arose, and they spake against me. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "All my inward friends abhorred me: and they whom I loved are turned against me.",
       "tokens": [
         {
-          "t": "All my inward friends abhorred me: and they whom I loved are turned against me."
+          "t": "All my inward friends abhorred me: and they whom I loved are turned against me. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.",
       "tokens": [
         {
-          "t": "My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth."
+          "t": "My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.",
       "tokens": [
         {
-          "t": "Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me."
+          "t": "Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Why do ye persecute me as God, and are not satisfied with my flesh?",
       "tokens": [
         {
-          "t": "Why do ye persecute me as God, and are not satisfied with my flesh?"
+          "t": "Why do ye persecute me as God, and are not satisfied with my flesh? "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Oh that my words were now written! oh that they were printed in a book!",
       "tokens": [
         {
-          "t": "Oh that my words were now written! oh that they were printed in a book!"
+          "t": "Oh that my words were now written! oh that they were printed in a book! "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "That they were graven with an iron pen and lead in the rock for ever!",
       "tokens": [
         {
-          "t": "That they were graven with an iron pen and lead in the rock for ever!"
+          "t": "That they were graven with an iron pen and lead in the rock for ever! "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:",
       "tokens": [
         {
-          "t": "For I know"
+          "t": "For I know "
         },
         {
           "add": "that"
         },
         {
-          "t": "my redeemer liveth, and"
+          "t": " my redeemer liveth, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "he shall stand at the latter"
+          "t": " he shall stand at the latter "
         },
         {
           "add": "day"
         },
         {
-          "t": "upon the earth:"
+          "t": " upon the earth: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And though after my skin worms destroy this body, yet in my flesh shall I see God:",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "though"
         },
         {
-          "t": "after my skin"
+          "t": " after my skin "
         },
         {
           "add": "worms"
         },
         {
-          "t": "destroy this"
+          "t": " destroy this "
         },
         {
           "add": "body"
         },
         {
-          "t": ", yet in my flesh shall I see God:"
+          "t": ", yet in my flesh shall I see God: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me.",
       "tokens": [
         {
-          "t": "Whom I shall see for myself, and mine eyes shall behold, and not another;"
+          "t": "Whom I shall see for myself, and mine eyes shall behold, and not another; "
         },
         {
           "add": "though"
         },
         {
-          "t": "my reins be consumed within me."
+          "t": " my reins be consumed within me. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "But ye should say, Why persecute we him, seeing the root of the matter is found in me?",
       "tokens": [
         {
-          "t": "But ye should say, Why persecute we him, seeing the root of the matter is found in me?"
+          "t": "But ye should say, Why persecute we him, seeing the root of the matter is found in me? "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment.",
       "tokens": [
         {
-          "t": "Be ye afraid of the sword: for wrath"
+          "t": "Be ye afraid of the sword: for wrath "
         },
         {
           "add": "bringeth"
         },
         {
-          "t": "the punishments of the sword, that ye may know"
+          "t": " the punishments of the sword, that ye may know "
         },
         {
           "add": "there is"
         },
         {
-          "t": "a judgment."
+          "t": " a judgment. "
         }
       ]
     }

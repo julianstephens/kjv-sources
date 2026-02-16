@@ -7,419 +7,442 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Again, David gathered together all the chosen men of Israel, thirty thousand.",
       "tokens": [
         {
-          "t": "Again, David gathered together all"
+          "t": "Again, David gathered together all "
         },
         {
           "add": "the"
         },
         {
-          "t": "chosen"
+          "t": " chosen "
         },
         {
           "add": "men"
         },
         {
-          "t": "of Israel, thirty thousand."
+          "t": " of Israel, thirty thousand. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And David arose, and went with all the people that were with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the LORD of hosts that dwelleth between the cherubims.",
       "tokens": [
         {
-          "t": "And David arose, and went with all the people that"
+          "t": "And David arose, and went with all the people that "
         },
         {
           "add": "were"
         },
         {
-          "t": "with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the"
+          "t": " with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts that dwelleth"
+          "t": " of hosts that dwelleth "
         },
         {
           "add": "between"
         },
         {
-          "t": "the cherubims."
+          "t": " the cherubims. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.",
       "tokens": [
         {
-          "t": "And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that"
+          "t": "And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that "
         },
         {
           "add": "was"
         },
         {
-          "t": "in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart."
+          "t": " in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And they brought it out of the house of Abinadab which was at Gibeah, accompanying the ark of God: and Ahio went before the ark.",
       "tokens": [
         {
-          "t": "And they brought it out of the house of Abinadab which"
+          "t": "And they brought it out of the house of Abinadab which "
         },
         {
           "add": "was"
         },
         {
-          "t": "at Gibeah, accompanying the ark of God: and Ahio went before the ark."
+          "t": " at Gibeah, accompanying the ark of God: and Ahio went before the ark. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And David and all the house of Israel played before the LORD on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals.",
       "tokens": [
         {
-          "t": "And David and all the house of Israel played before the"
+          "t": "And David and all the house of Israel played before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "on all manner of"
+          "t": " on all manner of "
         },
         {
           "add": "instruments made of"
         },
         {
-          "t": "fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals."
+          "t": " fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And when they came to Nachon’s threshingfloor, Uzzah put forth his hand to the ark of God, and took hold of it; for the oxen shook it.",
       "tokens": [
         {
-          "t": "¶ And when they came to Nachon’s threshingfloor, Uzzah put forth"
+          "t": "¶ And when they came to Nachon’s threshingfloor, Uzzah put forth "
         },
         {
           "add": "his hand"
         },
         {
-          "t": "to the ark of God, and took hold of it; for the oxen shook"
+          "t": " to the ark of God, and took hold of it; for the oxen shook "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the anger of the LORD was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God.",
       "tokens": [
         {
-          "t": "And the anger of the"
+          "t": "And the anger of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was kindled against Uzzah; and God smote him there for"
+          "t": " was kindled against Uzzah; and God smote him there for "
         },
         {
           "add": "his"
         },
         {
-          "t": "error; and there he died by the ark of God."
+          "t": " error; and there he died by the ark of God. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perez-uzzah to this day.",
       "tokens": [
         {
-          "t": "And David was displeased, because the"
+          "t": "And David was displeased, because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had made a breach upon Uzzah: and he called the name of the place Perez-uzzah to this day."
+          "t": " had made a breach upon Uzzah: and he called the name of the place Perez-uzzah to this day. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And David was afraid of the LORD that day, and said, How shall the ark of the LORD come to me?",
       "tokens": [
         {
-          "t": "And David was afraid of the"
+          "t": "And David was afraid of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that day, and said, How shall the ark of the"
+          "t": " that day, and said, How shall the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "come to me?"
+          "t": " come to me? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "So David would not remove the ark of the LORD unto him into the city of David: but David carried it aside into the house of Obed-edom the Gittite.",
       "tokens": [
         {
-          "t": "So David would not remove the ark of the"
+          "t": "So David would not remove the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto him into the city of David: but David carried it aside into the house of Obed-edom the Gittite."
+          "t": " unto him into the city of David: but David carried it aside into the house of Obed-edom the Gittite. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the ark of the LORD continued in the house of Obed-edom the Gittite three months: and the LORD blessed Obed-edom, and all his household.",
       "tokens": [
         {
-          "t": "And the ark of the"
+          "t": "And the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "continued in the house of Obed-edom the Gittite three months: and the"
+          "t": " continued in the house of Obed-edom the Gittite three months: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "blessed Obed-edom, and all his household."
+          "t": " blessed Obed-edom, and all his household. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And it was told king David, saying, The LORD hath blessed the house of Obed-edom, and all that pertaineth unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obed-edom into the city of David with gladness.",
       "tokens": [
         {
-          "t": "¶ And it was told king David, saying, The"
+          "t": "¶ And it was told king David, saying, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath blessed the house of Obed-edom, and all that"
+          "t": " hath blessed the house of Obed-edom, and all that "
         },
         {
           "add": "pertaineth"
         },
         {
-          "t": "unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obed-edom into the city of David with gladness."
+          "t": " unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obed-edom into the city of David with gladness. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And it was so, that when they that bare the ark of the LORD had gone six paces, he sacrificed oxen and fatlings.",
       "tokens": [
         {
-          "t": "And it was"
+          "t": "And it was "
         },
         {
           "add": "so"
         },
         {
-          "t": ", that when they that bare the ark of the"
+          "t": ", that when they that bare the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had gone six paces, he sacrificed oxen and fatlings."
+          "t": " had gone six paces, he sacrificed oxen and fatlings. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And David danced before the LORD with all his might; and David was girded with a linen ephod.",
       "tokens": [
         {
-          "t": "And David danced before the"
+          "t": "And David danced before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "with all"
+          "t": " with all "
         },
         {
           "add": "his"
         },
         {
-          "t": "might; and David"
+          "t": " might; and David "
         },
         {
           "add": "was"
         },
         {
-          "t": "girded with a linen ephod."
+          "t": " girded with a linen ephod. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet.",
       "tokens": [
         {
-          "t": "So David and all the house of Israel brought up the ark of the"
+          "t": "So David and all the house of Israel brought up the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "with shouting, and with the sound of the trumpet."
+          "t": " with shouting, and with the sound of the trumpet. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And as the ark of the LORD came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart.",
       "tokens": [
         {
-          "t": "And as the ark of the"
+          "t": "And as the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the"
+          "t": " came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and she despised him in her heart."
+          "t": "; and she despised him in her heart. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And they brought in the ark of the LORD, and set it in his place, in the midst of the tabernacle that David had pitched for it: and David offered burnt offerings and peace offerings before the LORD.",
       "tokens": [
         {
-          "t": "¶ And they brought in the ark of the"
+          "t": "¶ And they brought in the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and set it in his place, in the midst of the tabernacle that David had pitched for it: and David offered burnt offerings and peace offerings before the"
+          "t": ", and set it in his place, in the midst of the tabernacle that David had pitched for it: and David offered burnt offerings and peace offerings before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And as soon as David had made an end of offering burnt offerings and peace offerings, he blessed the people in the name of the LORD of hosts.",
       "tokens": [
         {
-          "t": "And as soon as David had made an end of offering burnt offerings and peace offerings, he blessed the people in the name of the"
+          "t": "And as soon as David had made an end of offering burnt offerings and peace offerings, he blessed the people in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts."
+          "t": " of hosts. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And he dealt among all the people, even among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece of flesh, and a flagon of wine. So all the people departed every one to his house.",
       "tokens": [
         {
-          "t": "And he dealt among all the people,"
+          "t": "And he dealt among all the people, "
         },
         {
           "add": "even"
         },
         {
-          "t": "among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece"
+          "t": " among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece "
         },
         {
           "add": "of flesh"
         },
         {
-          "t": ", and a flagon"
+          "t": ", and a flagon "
         },
         {
           "add": "of wine"
         },
         {
-          "t": ". So all the people departed every one to his house."
+          "t": ". So all the people departed every one to his house. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!",
       "tokens": [
         {
-          "t": "¶ Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!"
+          "t": "¶ Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself! "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And David said unto Michal, It was before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD.",
       "tokens": [
         {
-          "t": "And David said unto Michal,"
+          "t": "And David said unto Michal, "
         },
         {
           "add": "It was"
         },
         {
-          "t": "before the"
+          "t": " before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which chose me before thy father, and before all his house, to appoint me ruler over the people of the"
+          "t": ", which chose me before thy father, and before all his house, to appoint me ruler over the people of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", over Israel: therefore will I play before the"
+          "t": ", over Israel: therefore will I play before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour.",
       "tokens": [
         {
-          "t": "And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour."
+          "t": "And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Therefore Michal the daughter of Saul had no child unto the day of her death.",
       "tokens": [
         {
-          "t": "Therefore Michal the daughter of Saul had no child unto the day of her death."
+          "t": "Therefore Michal the daughter of Saul had no child unto the day of her death. "
         }
       ]
     }

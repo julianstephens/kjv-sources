@@ -7,583 +7,616 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the LORD.",
       "tokens": [
         {
-          "t": "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name"
+          "t": "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name "
         },
         {
           "add": "in those things"
         },
         {
-          "t": "which they hallow unto me: I"
+          "t": " which they hallow unto me: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I am the LORD.",
       "tokens": [
         {
-          "t": "Say unto them, Whosoever"
+          "t": "Say unto them, Whosoever "
         },
         {
           "add": "he be"
         },
         {
-          "t": "of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the"
+          "t": " of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", having his uncleanness upon him, that soul shall be cut off from my presence: I"
+          "t": ", having his uncleanness upon him, that soul shall be cut off from my presence: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;",
       "tokens": [
         {
-          "t": "What man soever of the seed of Aaron"
+          "t": "What man soever of the seed of Aaron "
         },
         {
           "add": "is"
         },
         {
-          "t": "a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing"
+          "t": " a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing "
         },
         {
           "add": "that is"
         },
         {
-          "t": "unclean"
+          "t": " unclean "
         },
         {
           "add": "by"
         },
         {
-          "t": "the dead, or a man whose seed goeth from him;"
+          "t": " the dead, or a man whose seed goeth from him; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;",
       "tokens": [
         {
-          "t": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;"
+          "t": "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.",
       "tokens": [
         {
-          "t": "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water."
+          "t": "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it is his food.",
       "tokens": [
         {
-          "t": "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it"
+          "t": "And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it "
         },
         {
           "add": "is"
         },
         {
-          "t": "his food."
+          "t": " his food. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "That which dieth of itself, or is torn with beasts, he shall not eat to defile himself therewith: I am the LORD.",
       "tokens": [
         {
-          "t": "That which dieth of itself, or is torn"
+          "t": "That which dieth of itself, or is torn "
         },
         {
           "add": "with beasts"
         },
         {
-          "t": ", he shall not eat to defile himself therewith: I"
+          "t": ", he shall not eat to defile himself therewith: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the LORD do sanctify them.",
       "tokens": [
         {
-          "t": "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the"
+          "t": "They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "do sanctify them."
+          "t": " do sanctify them. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "There shall no stranger eat of the holy thing: a sojourner of the priest, or an hired servant, shall not eat of the holy thing.",
       "tokens": [
         {
-          "t": "There shall no stranger eat"
+          "t": "There shall no stranger eat "
         },
         {
           "add": "of"
         },
         {
-          "t": "the holy thing: a sojourner of the priest, or an hired servant, shall not eat"
+          "t": " the holy thing: a sojourner of the priest, or an hired servant, shall not eat "
         },
         {
           "add": "of"
         },
         {
-          "t": "the holy thing."
+          "t": " the holy thing. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.",
       "tokens": [
         {
-          "t": "But if the priest buy"
+          "t": "But if the priest buy "
         },
         {
           "add": "any"
         },
         {
-          "t": "soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat."
+          "t": " soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "If the priest’s daughter also be married unto a stranger, she may not eat of an offering of the holy things.",
       "tokens": [
         {
-          "t": "If the priest’s daughter also be"
+          "t": "If the priest’s daughter also be "
         },
         {
           "add": "married"
         },
         {
-          "t": "unto a stranger, she may not eat of an offering of the holy things."
+          "t": " unto a stranger, she may not eat of an offering of the holy things. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "But if the priest’s daughter be a widow, or divorced, and have no child, and is returned unto her father’s house, as in her youth, she shall eat of her father’s meat: but there shall no stranger eat thereof.",
       "tokens": [
         {
-          "t": "But if the priest’s daughter be a widow, or divorced, and have no child, and is returned unto her father’s house, as in her youth, she shall eat of her father’s meat: but there shall no stranger eat thereof."
+          "t": "But if the priest’s daughter be a widow, or divorced, and have no child, and is returned unto her father’s house, as in her youth, she shall eat of her father’s meat: but there shall no stranger eat thereof. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And if a man eat of the holy thing unwittingly, then he shall put the fifth part thereof unto it, and shall give it unto the priest with the holy thing.",
       "tokens": [
         {
-          "t": "¶ And if a man eat"
+          "t": "¶ And if a man eat "
         },
         {
           "add": "of"
         },
         {
-          "t": "the holy thing unwittingly, then he shall put the fifth"
+          "t": " the holy thing unwittingly, then he shall put the fifth "
         },
         {
           "add": "part"
         },
         {
-          "t": "thereof unto it, and shall give"
+          "t": " thereof unto it, and shall give "
         },
         {
           "add": "it"
         },
         {
-          "t": "unto the priest with the holy thing."
+          "t": " unto the priest with the holy thing. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And they shall not profane the holy things of the children of Israel, which they offer unto the LORD;",
       "tokens": [
         {
-          "t": "And they shall not profane the holy things of the children of Israel, which they offer unto the"
+          "t": "And they shall not profane the holy things of the children of Israel, which they offer unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ";"
+          "t": "; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the LORD do sanctify them.",
       "tokens": [
         {
-          "t": "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the"
+          "t": "Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "do sanctify them."
+          "t": " do sanctify them. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever he be of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the LORD for a burnt offering;",
       "tokens": [
         {
-          "t": "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever"
+          "t": "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever "
         },
         {
           "add": "he be"
         },
         {
-          "t": "of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the"
+          "t": " of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for a burnt offering;"
+          "t": " for a burnt offering; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats.",
       "tokens": [
         {
           "add": "Ye shall offer"
         },
         {
-          "t": "at your own will a male without blemish, of the beeves, of the sheep, or of the goats."
+          "t": " at your own will a male without blemish, of the beeves, of the sheep, or of the goats. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "But whatsoever hath a blemish, that shall ye not offer: for it shall not be acceptable for you.",
       "tokens": [
         {
           "add": "But"
         },
         {
-          "t": "whatsoever hath a blemish,"
+          "t": " whatsoever hath a blemish, "
         },
         {
           "add": "that"
         },
         {
-          "t": "shall ye not offer: for it shall not be acceptable for you."
+          "t": " shall ye not offer: for it shall not be acceptable for you. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And whosoever offereth a sacrifice of peace offerings unto the LORD to accomplish his vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.",
       "tokens": [
         {
-          "t": "And whosoever offereth a sacrifice of peace offerings unto the"
+          "t": "And whosoever offereth a sacrifice of peace offerings unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to accomplish"
+          "t": " to accomplish "
         },
         {
           "add": "his"
         },
         {
-          "t": "vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein."
+          "t": " vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the LORD, nor make an offering by fire of them upon the altar unto the LORD.",
       "tokens": [
         {
-          "t": "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the"
+          "t": "Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", nor make an offering by fire of them upon the altar unto the"
+          "t": ", nor make an offering by fire of them upon the altar unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer for a freewill offering; but for a vow it shall not be accepted.",
       "tokens": [
         {
-          "t": "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer"
+          "t": "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer "
         },
         {
           "add": "for"
         },
         {
-          "t": "a freewill offering; but for a vow it shall not be accepted."
+          "t": " a freewill offering; but for a vow it shall not be accepted. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Ye shall not offer unto the LORD that which is bruised, or crushed, or broken, or cut; neither shall ye make any offering thereof in your land.",
       "tokens": [
         {
-          "t": "Ye shall not offer unto the"
+          "t": "Ye shall not offer unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that which is bruised, or crushed, or broken, or cut; neither shall ye make"
+          "t": " that which is bruised, or crushed, or broken, or cut; neither shall ye make "
         },
         {
           "add": "any offering thereof"
         },
         {
-          "t": "in your land."
+          "t": " in your land. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they shall not be accepted for you.",
       "tokens": [
         {
-          "t": "Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption"
+          "t": "Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption "
         },
         {
           "add": "is"
         },
         {
-          "t": "in them,"
+          "t": " in them, "
         },
         {
           "add": "and"
         },
         {
-          "t": "blemishes"
+          "t": " blemishes "
         },
         {
           "add": "be"
         },
         {
-          "t": "in them: they shall not be accepted for you."
+          "t": " in them: they shall not be accepted for you. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the LORD.",
       "tokens": [
         {
-          "t": "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the"
+          "t": "When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And whether it be cow or ewe, ye shall not kill it and her young both in one day.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "whether it be"
         },
         {
-          "t": "cow or ewe, ye shall not kill it and her young both in one day."
+          "t": " cow or ewe, ye shall not kill it and her young both in one day. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And when ye will offer a sacrifice of thanksgiving unto the LORD, offer it at your own will.",
       "tokens": [
         {
-          "t": "And when ye will offer a sacrifice of thanksgiving unto the"
+          "t": "And when ye will offer a sacrifice of thanksgiving unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", offer"
+          "t": ", offer "
         },
         {
           "add": "it"
         },
         {
-          "t": "at your own will."
+          "t": " at your own will. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I am the LORD.",
       "tokens": [
         {
-          "t": "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I"
+          "t": "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Therefore shall ye keep my commandments, and do them: I am the LORD.",
       "tokens": [
         {
-          "t": "Therefore shall ye keep my commandments, and do them: I"
+          "t": "Therefore shall ye keep my commandments, and do them: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I am the LORD which hallow you,",
       "tokens": [
         {
-          "t": "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I"
+          "t": "Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "which hallow you,"
+          "t": " which hallow you, "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "That brought you out of the land of Egypt, to be your God: I am the LORD.",
       "tokens": [
         {
-          "t": "That brought you out of the land of Egypt, to be your God: I"
+          "t": "That brought you out of the land of Egypt, to be your God: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

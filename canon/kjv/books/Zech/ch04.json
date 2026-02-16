@@ -7,257 +7,271 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,",
       "tokens": [
         {
-          "t": "And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,"
+          "t": "And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all of gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which are upon the top thereof:",
       "tokens": [
         {
-          "t": "And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all"
+          "t": "And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all "
         },
         {
           "add": "of"
         },
         {
-          "t": "gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which"
+          "t": " gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which "
         },
         {
           "add": "are"
         },
         {
-          "t": "upon the top thereof:"
+          "t": " upon the top thereof: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And two olive trees by it, one upon the right side of the bowl, and the other upon the left side thereof.",
       "tokens": [
         {
-          "t": "And two olive trees by it, one upon the right"
+          "t": "And two olive trees by it, one upon the right "
         },
         {
           "add": "side"
         },
         {
-          "t": "of the bowl, and the other upon the left"
+          "t": " of the bowl, and the other upon the left "
         },
         {
           "add": "side"
         },
         {
-          "t": "thereof."
+          "t": " thereof. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "So I answered and spake to the angel that talked with me, saying, What are these, my lord?",
       "tokens": [
         {
-          "t": "So I answered and spake to the angel that talked with me, saying, What"
+          "t": "So I answered and spake to the angel that talked with me, saying, What "
         },
         {
           "add": "are"
         },
         {
-          "t": "these, my lord?"
+          "t": " these, my lord? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then the angel that talked with me answered and said unto me, Knowest thou not what these be? And I said, No, my lord.",
       "tokens": [
         {
-          "t": "Then the angel that talked with me answered and said unto me, Knowest thou not what these be? And I said, No, my lord."
+          "t": "Then the angel that talked with me answered and said unto me, Knowest thou not what these be? And I said, No, my lord. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Then he answered and spake unto me, saying, This is the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts.",
       "tokens": [
         {
-          "t": "Then he answered and spake unto me, saying, This"
+          "t": "Then he answered and spake unto me, saying, This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the word of the"
+          "t": " the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the"
+          "t": " unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts."
+          "t": " of hosts. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it.",
       "tokens": [
         {
-          "t": "Who"
+          "t": "Who "
         },
         {
           "add": "art"
         },
         {
-          "t": "thou, O great mountain? before Zerubbabel"
+          "t": " thou, O great mountain? before Zerubbabel "
         },
         {
           "add": "thou shalt become"
         },
         {
-          "t": "a plain: and he shall bring forth the headstone"
+          "t": " a plain: and he shall bring forth the headstone "
         },
         {
           "add": "thereof with"
         },
         {
-          "t": "shoutings,"
+          "t": " shoutings, "
         },
         {
           "add": "crying"
         },
         {
-          "t": ", Grace, grace unto it."
+          "t": ", Grace, grace unto it. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Moreover the word of the LORD came unto me, saying,",
       "tokens": [
         {
-          "t": "Moreover the word of the"
+          "t": "Moreover the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto me, saying,"
+          "t": " came unto me, saying, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the LORD of hosts hath sent me unto you.",
       "tokens": [
         {
-          "t": "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the"
+          "t": "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts hath sent me unto you."
+          "t": " of hosts hath sent me unto you. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel with those seven; they are the eyes of the LORD, which run to and fro through the whole earth.",
       "tokens": [
         {
-          "t": "For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel"
+          "t": "For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel "
         },
         {
           "add": "with"
         },
         {
-          "t": "those seven; they"
+          "t": " those seven; they "
         },
         {
           "add": "are"
         },
         {
-          "t": "the eyes of the"
+          "t": " the eyes of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which run to and fro through the whole earth."
+          "t": ", which run to and fro through the whole earth. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Then answered I, and said unto him, What are these two olive trees upon the right side of the candlestick and upon the left side thereof?",
       "tokens": [
         {
-          "t": "¶ Then answered I, and said unto him, What"
+          "t": "¶ Then answered I, and said unto him, What "
         },
         {
           "add": "are"
         },
         {
-          "t": "these two olive trees upon the right"
+          "t": " these two olive trees upon the right "
         },
         {
           "add": "side"
         },
         {
-          "t": "of the candlestick and upon the left"
+          "t": " of the candlestick and upon the left "
         },
         {
           "add": "side"
         },
         {
-          "t": "thereof?"
+          "t": " thereof? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And I answered again, and said unto him, What be these two olive branches which through the two golden pipes empty the golden oil out of themselves?",
       "tokens": [
         {
-          "t": "And I answered again, and said unto him, What"
+          "t": "And I answered again, and said unto him, What "
         },
         {
           "add": "be these"
         },
         {
-          "t": "two olive branches which through the two golden pipes empty the golden"
+          "t": " two olive branches which through the two golden pipes empty the golden "
         },
         {
           "add": "oil"
         },
         {
-          "t": "out of themselves?"
+          "t": " out of themselves? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he answered me and said, Knowest thou not what these be? And I said, No, my lord.",
       "tokens": [
         {
-          "t": "And he answered me and said, Knowest thou not what these"
+          "t": "And he answered me and said, Knowest thou not what these "
         },
         {
           "add": "be"
         },
         {
-          "t": "? And I said, No, my lord."
+          "t": "? And I said, No, my lord. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then said he, These are the two anointed ones, that stand by the Lord of the whole earth.",
       "tokens": [
         {
-          "t": "Then said he, These"
+          "t": "Then said he, These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the two anointed ones, that stand by the Lord of the whole earth."
+          "t": " the two anointed ones, that stand by the Lord of the whole earth. "
         }
       ]
     }

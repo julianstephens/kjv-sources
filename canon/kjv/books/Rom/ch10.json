@@ -7,205 +7,226 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.",
       "tokens": [
         {
-          "t": "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved."
+          "t": "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "For I bear them record that they have a zeal of God, but not according to knowledge.",
       "tokens": [
         {
-          "t": "For I bear them record that they have a zeal of God, but not according to knowledge."
+          "t": "For I bear them record that they have a zeal of God, but not according to knowledge. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.",
       "tokens": [
         {
-          "t": "For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God."
+          "t": "For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For Christ is the end of the law for righteousness to every one that believeth.",
       "tokens": [
         {
-          "t": "For Christ"
+          "t": "For Christ "
         },
         {
           "add": "is"
         },
         {
-          "t": "the end of the law for righteousness to every one that believeth."
+          "t": " the end of the law for righteousness to every one that believeth. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.",
       "tokens": [
         {
-          "t": "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them."
+          "t": "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)",
       "tokens": [
         {
-          "t": "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down"
+          "t": "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down "
         },
         {
           "add": "from above"
         },
         {
-          "t": ":)"
+          "t": ":) "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)",
       "tokens": [
         {
-          "t": "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)"
+          "t": "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.) "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But what saith it? The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach;",
       "tokens": [
         {
-          "t": "But what saith it? The word is nigh thee,"
+          "t": "But what saith it? The word is nigh thee, "
         },
         {
           "add": "even"
         },
         {
-          "t": "in thy mouth, and in thy heart: that is, the word of faith, which we preach;"
+          "t": " in thy mouth, and in thy heart: that is, the word of faith, which we preach; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.",
       "tokens": [
         {
-          "t": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+          "t": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.",
       "tokens": [
         {
-          "t": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation."
+          "t": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For the scripture saith, Whosoever believeth on him shall not be ashamed.",
       "tokens": [
         {
-          "t": "For the scripture saith, Whosoever believeth on him shall not be ashamed."
+          "t": "For the scripture saith, Whosoever believeth on him shall not be ashamed. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.",
       "tokens": [
         {
-          "t": "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him."
+          "t": "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "For whosoever shall call upon the name of the Lord shall be saved.",
       "tokens": [
         {
-          "t": "For whosoever shall call upon the name of the Lord shall be saved."
+          "t": "For whosoever shall call upon the name of the Lord shall be saved. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?",
       "tokens": [
         {
-          "t": "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?"
+          "t": "How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!",
       "tokens": [
         {
-          "t": "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!"
+          "t": "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things! "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?",
       "tokens": [
         {
-          "t": "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?"
+          "t": "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "So then faith cometh by hearing, and hearing by the word of God.",
       "tokens": [
         {
-          "t": "So then faith"
+          "t": "So then faith "
         },
         {
           "add": "cometh"
         },
         {
-          "t": "by hearing, and hearing by the word of God."
+          "t": " by hearing, and hearing by the word of God. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.",
       "tokens": [
         {
-          "t": "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world."
+          "t": "But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.",
       "tokens": [
         {
-          "t": "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by"
+          "t": "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by "
         },
         {
           "add": "them that are"
         },
         {
-          "t": "no people,"
+          "t": " no people, "
         },
         {
           "add": "and"
         },
         {
-          "t": "by a foolish nation I will anger you."
+          "t": " by a foolish nation I will anger you. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.",
       "tokens": [
         {
-          "t": "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me."
+          "t": "But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.",
       "tokens": [
         {
-          "t": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people."
+          "t": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people. "
         }
       ]
     }

@@ -7,706 +7,751 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life?",
       "tokens": [
         {
-          "t": "And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what"
+          "t": "And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine iniquity? and what"
+          "t": " mine iniquity? and what "
         },
         {
           "add": "is"
         },
         {
-          "t": "my sin before thy father, that he seeketh my life?"
+          "t": " my sin before thy father, that he seeketh my life? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will shew it me: and why should my father hide this thing from me? it is not so.",
       "tokens": [
         {
-          "t": "And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will shew it me: and why should my father hide this thing from me? it"
+          "t": "And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will shew it me: and why should my father hide this thing from me? it "
         },
         {
           "add": "is"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "so"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly as the LORD liveth, and as thy soul liveth, there is but a step between me and death.",
       "tokens": [
         {
-          "t": "And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly"
+          "t": "And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly "
         },
         {
           "add": "as"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, and"
+          "t": " liveth, and "
         },
         {
           "add": "as"
         },
         {
-          "t": "thy soul liveth,"
+          "t": " thy soul liveth, "
         },
         {
           "add": "there is"
         },
         {
-          "t": "but a step between me and death."
+          "t": " but a step between me and death. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then said Jonathan unto David, Whatsoever thy soul desireth, I will even do it for thee.",
       "tokens": [
         {
-          "t": "Then said Jonathan unto David, Whatsoever thy soul desireth, I will even do"
+          "t": "Then said Jonathan unto David, Whatsoever thy soul desireth, I will even do "
         },
         {
           "add": "it"
         },
         {
-          "t": "for thee."
+          "t": " for thee. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And David said unto Jonathan, Behold, to morrow is the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third day at even.",
       "tokens": [
         {
-          "t": "And David said unto Jonathan, Behold, to morrow"
+          "t": "And David said unto Jonathan, Behold, to morrow "
         },
         {
           "add": "is"
         },
         {
-          "t": "the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third"
+          "t": " the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third "
         },
         {
           "add": "day"
         },
         {
-          "t": "at even."
+          "t": " at even. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "If thy father at all miss me, then say, David earnestly asked leave of me that he might run to Beth-lehem his city: for there is a yearly sacrifice there for all the family.",
       "tokens": [
         {
-          "t": "If thy father at all miss me, then say, David earnestly asked"
+          "t": "If thy father at all miss me, then say, David earnestly asked "
         },
         {
           "add": "leave"
         },
         {
-          "t": "of me that he might run to Beth-lehem his city: for"
+          "t": " of me that he might run to Beth-lehem his city: for "
         },
         {
           "add": "there is"
         },
         {
-          "t": "a yearly sacrifice there for all the family."
+          "t": " a yearly sacrifice there for all the family. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "If he say thus, It is well; thy servant shall have peace: but if he be very wroth, then be sure that evil is determined by him.",
       "tokens": [
         {
-          "t": "If he say thus,"
+          "t": "If he say thus, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "well; thy servant shall have peace: but if he be very wroth,"
+          "t": " well; thy servant shall have peace: but if he be very wroth, "
         },
         {
           "add": "then"
         },
         {
-          "t": "be sure that evil is determined by him."
+          "t": " be sure that evil is determined by him. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Therefore thou shalt deal kindly with thy servant; for thou hast brought thy servant into a covenant of the LORD with thee: notwithstanding, if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father?",
       "tokens": [
         {
-          "t": "Therefore thou shalt deal kindly with thy servant; for thou hast brought thy servant into a covenant of the"
+          "t": "Therefore thou shalt deal kindly with thy servant; for thou hast brought thy servant into a covenant of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "with thee: notwithstanding, if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father?"
+          "t": " with thee: notwithstanding, if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And Jonathan said, Far be it from thee: for if I knew certainly that evil were determined by my father to come upon thee, then would not I tell it thee?",
       "tokens": [
         {
-          "t": "And Jonathan said, Far be it from thee: for if I knew certainly that evil were determined by my father to come upon thee, then would not I tell it thee?"
+          "t": "And Jonathan said, Far be it from thee: for if I knew certainly that evil were determined by my father to come upon thee, then would not I tell it thee? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then said David to Jonathan, Who shall tell me? or what if thy father answer thee roughly?",
       "tokens": [
         {
-          "t": "Then said David to Jonathan, Who shall tell me? or what"
+          "t": "Then said David to Jonathan, Who shall tell me? or what "
         },
         {
           "add": "if"
         },
         {
-          "t": "thy father answer thee roughly?"
+          "t": " thy father answer thee roughly? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field.",
       "tokens": [
         {
-          "t": "¶ And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field."
+          "t": "¶ And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Jonathan said unto David, O LORD God of Israel, when I have sounded my father about to morrow any time, or the third day, and, behold, if there be good toward David, and I then send not unto thee, and shew it thee;",
       "tokens": [
         {
-          "t": "And Jonathan said unto David, O"
+          "t": "And Jonathan said unto David, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, when I have sounded my father about to morrow any time,"
+          "t": " God of Israel, when I have sounded my father about to morrow any time, "
         },
         {
           "add": "or"
         },
         {
-          "t": "the third"
+          "t": " the third "
         },
         {
           "add": "day"
         },
         {
-          "t": ", and, behold,"
+          "t": ", and, behold, "
         },
         {
           "add": "if there be"
         },
         {
-          "t": "good toward David, and I then send not unto thee, and shew it thee;"
+          "t": " good toward David, and I then send not unto thee, and shew it thee; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The LORD do so and much more to Jonathan: but if it please my father to do thee evil, then I will shew it thee, and send thee away, that thou mayest go in peace: and the LORD be with thee, as he hath been with my father.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "do so and much more to Jonathan: but if it please my father"
+          "t": " do so and much more to Jonathan: but if it please my father "
         },
         {
           "add": "to do"
         },
         {
-          "t": "thee evil, then I will shew it thee, and send thee away, that thou mayest go in peace: and the"
+          "t": " thee evil, then I will shew it thee, and send thee away, that thou mayest go in peace: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "be with thee, as he hath been with my father."
+          "t": " be with thee, as he hath been with my father. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And thou shalt not only while yet I live shew me the kindness of the LORD, that I die not:",
       "tokens": [
         {
-          "t": "And thou shalt not only while yet I live shew me the kindness of the"
+          "t": "And thou shalt not only while yet I live shew me the kindness of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that I die not:"
+          "t": ", that I die not: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But also thou shalt not cut off thy kindness from my house for ever: no, not when the LORD hath cut off the enemies of David every one from the face of the earth.",
       "tokens": [
         {
-          "t": "But"
+          "t": "But "
         },
         {
           "add": "also"
         },
         {
-          "t": "thou shalt not cut off thy kindness from my house for ever: no, not when the"
+          "t": " thou shalt not cut off thy kindness from my house for ever: no, not when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath cut off the enemies of David every one from the face of the earth."
+          "t": " hath cut off the enemies of David every one from the face of the earth. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "So Jonathan made a covenant with the house of David, saying, Let the LORD even require it at the hand of David’s enemies.",
       "tokens": [
         {
-          "t": "So Jonathan made"
+          "t": "So Jonathan made "
         },
         {
           "add": "a covenant"
         },
         {
-          "t": "with the house of David,"
+          "t": " with the house of David, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Let the"
+          "t": ", Let the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "even require"
+          "t": " even require "
         },
         {
           "add": "it"
         },
         {
-          "t": "at the hand of David’s enemies."
+          "t": " at the hand of David’s enemies. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul.",
       "tokens": [
         {
-          "t": "And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul."
+          "t": "And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Then Jonathan said to David, To morrow is the new moon: and thou shalt be missed, because thy seat will be empty.",
       "tokens": [
         {
-          "t": "Then Jonathan said to David, To morrow"
+          "t": "Then Jonathan said to David, To morrow "
         },
         {
           "add": "is"
         },
         {
-          "t": "the new moon: and thou shalt be missed, because thy seat will be empty."
+          "t": " the new moon: and thou shalt be missed, because thy seat will be empty. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And when thou hast stayed three days, then thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was in hand, and shalt remain by the stone Ezel.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "when"
         },
         {
-          "t": "thou hast stayed three days,"
+          "t": " thou hast stayed three days, "
         },
         {
           "add": "then"
         },
         {
-          "t": "thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was"
+          "t": " thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was "
         },
         {
           "add": "in hand"
         },
         {
-          "t": ", and shalt remain by the stone Ezel."
+          "t": ", and shalt remain by the stone Ezel. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And I will shoot three arrows on the side thereof, as though I shot at a mark.",
       "tokens": [
         {
-          "t": "And I will shoot three arrows on the side"
+          "t": "And I will shoot three arrows on the side "
         },
         {
           "add": "thereof"
         },
         {
-          "t": ", as though I shot at a mark."
+          "t": ", as though I shot at a mark. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And, behold, I will send a lad, saying, Go, find out the arrows. If I expressly say unto the lad, Behold, the arrows are on this side of thee, take them; then come thou: for there is peace to thee, and no hurt; as the LORD liveth.",
       "tokens": [
         {
-          "t": "And, behold, I will send a lad,"
+          "t": "And, behold, I will send a lad, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Go, find out the arrows. If I expressly say unto the lad, Behold, the arrows"
+          "t": ", Go, find out the arrows. If I expressly say unto the lad, Behold, the arrows "
         },
         {
           "add": "are"
         },
         {
-          "t": "on this side of thee, take them; then come thou: for"
+          "t": " on this side of thee, take them; then come thou: for "
         },
         {
           "add": "there is"
         },
         {
-          "t": "peace to thee, and no hurt;"
+          "t": " peace to thee, and no hurt; "
         },
         {
           "add": "as"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth."
+          "t": " liveth. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But if I say thus unto the young man, Behold, the arrows are beyond thee; go thy way: for the LORD hath sent thee away.",
       "tokens": [
         {
-          "t": "But if I say thus unto the young man, Behold, the arrows"
+          "t": "But if I say thus unto the young man, Behold, the arrows "
         },
         {
           "add": "are"
         },
         {
-          "t": "beyond thee; go thy way: for the"
+          "t": " beyond thee; go thy way: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath sent thee away."
+          "t": " hath sent thee away. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And as touching the matter which thou and I have spoken of, behold, the LORD be between thee and me for ever.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "as touching"
         },
         {
-          "t": "the matter which thou and I have spoken of, behold, the"
+          "t": " the matter which thou and I have spoken of, behold, the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "be"
         },
         {
-          "t": "between thee and me for ever."
+          "t": " between thee and me for ever. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ So David hid himself in the field: and when the new moon was come, the king sat him down to eat meat.",
       "tokens": [
         {
-          "t": "¶ So David hid himself in the field: and when the new moon was come, the king sat him down to eat meat."
+          "t": "¶ So David hid himself in the field: and when the new moon was come, the king sat him down to eat meat. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And the king sat upon his seat, as at other times, even upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty.",
       "tokens": [
         {
-          "t": "And the king sat upon his seat, as at other times,"
+          "t": "And the king sat upon his seat, as at other times, "
         },
         {
           "add": "even"
         },
         {
-          "t": "upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty."
+          "t": " upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Nevertheless Saul spake not any thing that day: for he thought, Something hath befallen him, he is not clean; surely he is not clean.",
       "tokens": [
         {
-          "t": "Nevertheless Saul spake not any thing that day: for he thought, Something hath befallen him, he"
+          "t": "Nevertheless Saul spake not any thing that day: for he thought, Something hath befallen him, he "
         },
         {
           "add": "is"
         },
         {
-          "t": "not clean; surely he"
+          "t": " not clean; surely he "
         },
         {
           "add": "is"
         },
         {
-          "t": "not clean."
+          "t": " not clean. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And it came to pass on the morrow, which was the second day of the month, that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day?",
       "tokens": [
         {
-          "t": "And it came to pass on the morrow,"
+          "t": "And it came to pass on the morrow, "
         },
         {
           "add": "which was"
         },
         {
-          "t": "the second"
+          "t": " the second "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month, that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day?"
+          "t": " of the month, that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day? "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Jonathan answered Saul, David earnestly asked leave of me to go to Beth-lehem:",
       "tokens": [
         {
-          "t": "And Jonathan answered Saul, David earnestly asked"
+          "t": "And Jonathan answered Saul, David earnestly asked "
         },
         {
           "add": "leave"
         },
         {
-          "t": "of me"
+          "t": " of me "
         },
         {
           "add": "to go"
         },
         {
-          "t": "to Beth-lehem:"
+          "t": " to Beth-lehem: "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me to be there: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table.",
       "tokens": [
         {
-          "t": "And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me"
+          "t": "And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me "
         },
         {
           "add": "to be there:"
         },
         {
-          "t": "and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table."
+          "t": " and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness?",
       "tokens": [
         {
-          "t": "Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious"
+          "t": "Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious "
         },
         {
           "add": "woman"
         },
         {
-          "t": ", do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness?"
+          "t": ", do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness? "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "For as long as the son of Jesse liveth upon the ground, thou shalt not be established, nor thy kingdom. Wherefore now send and fetch him unto me, for he shall surely die.",
       "tokens": [
         {
-          "t": "For as long as the son of Jesse liveth upon the ground, thou shalt not be established, nor thy kingdom. Wherefore now send and fetch him unto me, for he shall surely die."
+          "t": "For as long as the son of Jesse liveth upon the ground, thou shalt not be established, nor thy kingdom. Wherefore now send and fetch him unto me, for he shall surely die. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And Jonathan answered Saul his father, and said unto him, Wherefore shall he be slain? what hath he done?",
       "tokens": [
         {
-          "t": "And Jonathan answered Saul his father, and said unto him, Wherefore shall he be slain? what hath he done?"
+          "t": "And Jonathan answered Saul his father, and said unto him, Wherefore shall he be slain? what hath he done? "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was determined of his father to slay David.",
       "tokens": [
         {
-          "t": "And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was determined of his father to slay David."
+          "t": "And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was determined of his father to slay David. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame.",
       "tokens": [
         {
-          "t": "So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame."
+          "t": "So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "¶ And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him.",
       "tokens": [
         {
-          "t": "¶ And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him."
+          "t": "¶ And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And he said unto his lad, Run, find out now the arrows which I shoot. And as the lad ran, he shot an arrow beyond him.",
       "tokens": [
         {
-          "t": "And he said unto his lad, Run, find out now the arrows which I shoot."
+          "t": "And he said unto his lad, Run, find out now the arrows which I shoot. "
         },
         {
           "add": "And"
         },
         {
-          "t": "as the lad ran, he shot an arrow beyond him."
+          "t": " as the lad ran, he shot an arrow beyond him. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, Is not the arrow beyond thee?",
       "tokens": [
         {
-          "t": "And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said,"
+          "t": "And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, "
         },
         {
           "add": "Is"
         },
         {
-          "t": "not the arrow beyond thee?"
+          "t": " not the arrow beyond thee? "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan’s lad gathered up the arrows, and came to his master.",
       "tokens": [
         {
-          "t": "And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan’s lad gathered up the arrows, and came to his master."
+          "t": "And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan’s lad gathered up the arrows, and came to his master. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "But the lad knew not any thing: only Jonathan and David knew the matter.",
       "tokens": [
         {
-          "t": "But the lad knew not any thing: only Jonathan and David knew the matter."
+          "t": "But the lad knew not any thing: only Jonathan and David knew the matter. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And Jonathan gave his artillery unto his lad, and said unto him, Go, carry them to the city.",
       "tokens": [
         {
-          "t": "And Jonathan gave his artillery unto his lad, and said unto him, Go, carry"
+          "t": "And Jonathan gave his artillery unto his lad, and said unto him, Go, carry "
         },
         {
           "add": "them"
         },
         {
-          "t": "to the city."
+          "t": " to the city. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "¶ And as soon as the lad was gone, David arose out of a place toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.",
       "tokens": [
         {
-          "t": "¶"
+          "t": "¶ "
         },
         {
           "add": "And"
         },
         {
-          "t": "as soon as the lad was gone, David arose out of"
+          "t": " as soon as the lad was gone, David arose out of "
         },
         {
           "add": "a place"
         },
         {
-          "t": "toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded."
+          "t": " toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city.",
       "tokens": [
         {
-          "t": "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the"
+          "t": "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", saying, The"
+          "t": ", saying, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city."
+          "t": " be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city. "
         }
       ]
     }

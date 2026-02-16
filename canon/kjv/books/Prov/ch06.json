@@ -7,392 +7,427 @@
   "verses": [
     {
       "v": 1,
+      "plain": "My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,",
       "tokens": [
         {
-          "t": "My son, if thou be surety for thy friend,"
+          "t": "My son, if thou be surety for thy friend, "
         },
         {
           "add": "if"
         },
         {
-          "t": "thou hast stricken thy hand with a stranger,"
+          "t": " thou hast stricken thy hand with a stranger, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.",
       "tokens": [
         {
-          "t": "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth."
+          "t": "Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend.",
       "tokens": [
         {
-          "t": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend."
+          "t": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Give not sleep to thine eyes, nor slumber to thine eyelids.",
       "tokens": [
         {
-          "t": "Give not sleep to thine eyes, nor slumber to thine eyelids."
+          "t": "Give not sleep to thine eyes, nor slumber to thine eyelids. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler.",
       "tokens": [
         {
-          "t": "Deliver thyself as a roe from the hand"
+          "t": "Deliver thyself as a roe from the hand "
         },
         {
           "add": "of the hunter"
         },
         {
-          "t": ", and as a bird from the hand of the fowler."
+          "t": ", and as a bird from the hand of the fowler. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ Go to the ant, thou sluggard; consider her ways, and be wise:",
       "tokens": [
         {
-          "t": "¶ Go to the ant, thou sluggard; consider her ways, and be wise:"
+          "t": "¶ Go to the ant, thou sluggard; consider her ways, and be wise: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Which having no guide, overseer, or ruler,",
       "tokens": [
         {
-          "t": "Which having no guide, overseer, or ruler,"
+          "t": "Which having no guide, overseer, or ruler, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Provideth her meat in the summer, and gathereth her food in the harvest.",
       "tokens": [
         {
-          "t": "Provideth her meat in the summer,"
+          "t": "Provideth her meat in the summer, "
         },
         {
           "add": "and"
         },
         {
-          "t": "gathereth her food in the harvest."
+          "t": " gathereth her food in the harvest. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?",
       "tokens": [
         {
-          "t": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
+          "t": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:",
       "tokens": [
         {
           "add": "Yet"
         },
         {
-          "t": "a little sleep, a little slumber, a little folding of the hands to sleep:"
+          "t": " a little sleep, a little slumber, a little folding of the hands to sleep: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "So shall thy poverty come as one that travelleth, and thy want as an armed man.",
       "tokens": [
         {
-          "t": "So shall thy poverty come as one that travelleth, and thy want as an armed man."
+          "t": "So shall thy poverty come as one that travelleth, and thy want as an armed man. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ A naughty person, a wicked man, walketh with a froward mouth.",
       "tokens": [
         {
-          "t": "¶ A naughty person, a wicked man, walketh with a froward mouth."
+          "t": "¶ A naughty person, a wicked man, walketh with a froward mouth. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;",
       "tokens": [
         {
-          "t": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;"
+          "t": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers; "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Frowardness is in his heart, he deviseth mischief continually; he soweth discord.",
       "tokens": [
         {
-          "t": "Frowardness"
+          "t": "Frowardness "
         },
         {
           "add": "is"
         },
         {
-          "t": "in his heart, he deviseth mischief continually; he soweth discord."
+          "t": " in his heart, he deviseth mischief continually; he soweth discord. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.",
       "tokens": [
         {
-          "t": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy."
+          "t": "Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ These six things doth the LORD hate: yea, seven are an abomination unto him:",
       "tokens": [
         {
-          "t": "¶ These six"
+          "t": "¶ These six "
         },
         {
           "add": "things"
         },
         {
-          "t": "doth the"
+          "t": " doth the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hate: yea, seven"
+          "t": " hate: yea, seven "
         },
         {
           "add": "are"
         },
         {
-          "t": "an abomination unto him:"
+          "t": " an abomination unto him: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "A proud look, a lying tongue, and hands that shed innocent blood,",
       "tokens": [
         {
-          "t": "A proud look, a lying tongue, and hands that shed innocent blood,"
+          "t": "A proud look, a lying tongue, and hands that shed innocent blood, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,",
       "tokens": [
         {
-          "t": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief,"
+          "t": "An heart that deviseth wicked imaginations, feet that be swift in running to mischief, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "A false witness that speaketh lies, and he that soweth discord among brethren.",
       "tokens": [
         {
-          "t": "A false witness"
+          "t": "A false witness "
         },
         {
           "add": "that"
         },
         {
-          "t": "speaketh lies, and he that soweth discord among brethren."
+          "t": " speaketh lies, and he that soweth discord among brethren. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ My son, keep thy father’s commandment, and forsake not the law of thy mother:",
       "tokens": [
         {
-          "t": "¶ My son, keep thy father’s commandment, and forsake not the law of thy mother:"
+          "t": "¶ My son, keep thy father’s commandment, and forsake not the law of thy mother: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Bind them continually upon thine heart, and tie them about thy neck.",
       "tokens": [
         {
-          "t": "Bind them continually upon thine heart,"
+          "t": "Bind them continually upon thine heart, "
         },
         {
           "add": "and"
         },
         {
-          "t": "tie them about thy neck."
+          "t": " tie them about thy neck. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.",
       "tokens": [
         {
-          "t": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and"
+          "t": "When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and "
         },
         {
           "add": "when"
         },
         {
-          "t": "thou awakest, it shall talk with thee."
+          "t": " thou awakest, it shall talk with thee. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:",
       "tokens": [
         {
-          "t": "For the commandment"
+          "t": "For the commandment "
         },
         {
           "add": "is"
         },
         {
-          "t": "a lamp; and the law"
+          "t": " a lamp; and the law "
         },
         {
           "add": "is"
         },
         {
-          "t": "light; and reproofs of instruction"
+          "t": " light; and reproofs of instruction "
         },
         {
           "add": "are"
         },
         {
-          "t": "the way of life:"
+          "t": " the way of life: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "To keep thee from the evil woman, from the flattery of the tongue of a strange woman.",
       "tokens": [
         {
-          "t": "To keep thee from the evil woman, from the flattery of the tongue of a strange woman."
+          "t": "To keep thee from the evil woman, from the flattery of the tongue of a strange woman. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Lust not after her beauty in thine heart; neither let her take thee with her eyelids.",
       "tokens": [
         {
-          "t": "Lust not after her beauty in thine heart; neither let her take thee with her eyelids."
+          "t": "Lust not after her beauty in thine heart; neither let her take thee with her eyelids. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life.",
       "tokens": [
         {
-          "t": "For by means of a whorish woman"
+          "t": "For by means of a whorish woman "
         },
         {
           "add": "a man is brought"
         },
         {
-          "t": "to a piece of bread: and the adulteress will hunt for the precious life."
+          "t": " to a piece of bread: and the adulteress will hunt for the precious life. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Can a man take fire in his bosom, and his clothes not be burned?",
       "tokens": [
         {
-          "t": "Can a man take fire in his bosom, and his clothes not be burned?"
+          "t": "Can a man take fire in his bosom, and his clothes not be burned? "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Can one go upon hot coals, and his feet not be burned?",
       "tokens": [
         {
-          "t": "Can one go upon hot coals, and his feet not be burned?"
+          "t": "Can one go upon hot coals, and his feet not be burned? "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent.",
       "tokens": [
         {
-          "t": "So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent."
+          "t": "So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Men do not despise a thief, if he steal to satisfy his soul when he is hungry;",
       "tokens": [
         {
           "add": "Men"
         },
         {
-          "t": "do not despise a thief, if he steal to satisfy his soul when he is hungry;"
+          "t": " do not despise a thief, if he steal to satisfy his soul when he is hungry; "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "But if he be found, he shall restore sevenfold; he shall give all the substance of his house.",
       "tokens": [
         {
-          "t": "But"
+          "t": "But "
         },
         {
           "add": "if"
         },
         {
-          "t": "he be found, he shall restore sevenfold; he shall give all the substance of his house."
+          "t": " he be found, he shall restore sevenfold; he shall give all the substance of his house. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul.",
       "tokens": [
         {
           "add": "But"
         },
         {
-          "t": "whoso committeth adultery with a woman lacketh understanding: he"
+          "t": " whoso committeth adultery with a woman lacketh understanding: he "
         },
         {
           "add": "that"
         },
         {
-          "t": "doeth it destroyeth his own soul."
+          "t": " doeth it destroyeth his own soul. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "A wound and dishonour shall he get; and his reproach shall not be wiped away.",
       "tokens": [
         {
-          "t": "A wound and dishonour shall he get; and his reproach shall not be wiped away."
+          "t": "A wound and dishonour shall he get; and his reproach shall not be wiped away. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "For jealousy is the rage of a man: therefore he will not spare in the day of vengeance.",
       "tokens": [
         {
-          "t": "For jealousy"
+          "t": "For jealousy "
         },
         {
           "add": "is"
         },
         {
-          "t": "the rage of a man: therefore he will not spare in the day of vengeance."
+          "t": " the rage of a man: therefore he will not spare in the day of vengeance. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "He will not regard any ransom; neither will he rest content, though thou givest many gifts.",
       "tokens": [
         {
-          "t": "He will not regard any ransom; neither will he rest content, though thou givest many gifts."
+          "t": "He will not regard any ransom; neither will he rest content, though thou givest many gifts. "
         }
       ]
     }

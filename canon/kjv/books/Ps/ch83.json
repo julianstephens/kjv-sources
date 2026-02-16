@@ -1,0 +1,260 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 83,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Keep not thou silence, O God: hold not thy peace, and be not still, O God.",
+      "tokens": [
+        {
+          "t": "Keep not thou silence, O God: hold not thy peace, and be not still, O God. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.",
+      "tokens": [
+        {
+          "t": "For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "They have taken crafty counsel against thy people, and consulted against thy hidden ones.",
+      "tokens": [
+        {
+          "t": "They have taken crafty counsel against thy people, and consulted against thy hidden ones. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.",
+      "tokens": [
+        {
+          "t": "They have said, Come, and let us cut them off from "
+        },
+        {
+          "add": "being"
+        },
+        {
+          "t": " a nation; that the name of Israel may be no more in remembrance. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "For they have consulted together with one consent: they are confederate against thee:",
+      "tokens": [
+        {
+          "t": "For they have consulted together with one consent: they are confederate against thee: "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;",
+      "tokens": [
+        {
+          "t": "The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes; "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;",
+      "tokens": [
+        {
+          "t": "Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre; "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Assur also is joined with them: they have holpen the children of Lot. Selah.",
+      "tokens": [
+        {
+          "t": "Assur also is joined with them: they have holpen the children of Lot. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Do unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison:",
+      "tokens": [
+        {
+          "t": "Do unto them as "
+        },
+        {
+          "add": "unto"
+        },
+        {
+          "t": " the Midianites; as "
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": " Sisera, as "
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": " Jabin, at the brook of Kison: "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Which perished at Endor: they became as dung for the earth.",
+      "tokens": [
+        {
+          "add": "Which"
+        },
+        {
+          "t": " perished at Endor: they became "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " dung for the earth. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:",
+      "tokens": [
+        {
+          "t": "Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna: "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Who said, Let us take to ourselves the houses of God in possession.",
+      "tokens": [
+        {
+          "t": "Who said, Let us take to ourselves the houses of God in possession. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "O my God, make them like a wheel; as the stubble before the wind.",
+      "tokens": [
+        {
+          "t": "O my God, make them like a wheel; as the stubble before the wind. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "As the fire burneth a wood, and as the flame setteth the mountains on fire;",
+      "tokens": [
+        {
+          "t": "As the fire burneth a wood, and as the flame setteth the mountains on fire; "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "So persecute them with thy tempest, and make them afraid with thy storm.",
+      "tokens": [
+        {
+          "t": "So persecute them with thy tempest, and make them afraid with thy storm. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "Fill their faces with shame; that they may seek thy name, O LORD.",
+      "tokens": [
+        {
+          "t": "Fill their faces with shame; that they may seek thy name, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:",
+      "tokens": [
+        {
+          "t": "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish: "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "That men may know that thou, whose name alone is JEHOVAH, art the most high over all the earth.",
+      "tokens": [
+        {
+          "t": "That "
+        },
+        {
+          "add": "men"
+        },
+        {
+          "t": " may know that thou, whose name alone "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " "
+        },
+        {
+          "nd": "JEHOVAH"
+        },
+        {
+          "t": ", "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " the most high over all the earth. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "of Asaph: or, for Asaph"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "consent: Heb. heart"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 8
+      },
+      "text": "holpen: Heb. been an arm to"
+    }
+  ]
+}

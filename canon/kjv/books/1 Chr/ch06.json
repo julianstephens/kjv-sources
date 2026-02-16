@@ -7,856 +7,937 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The sons of Levi; Gershon, Kohath, and Merari.",
       "tokens": [
         {
-          "t": "The sons of Levi; Gershon, Kohath, and Merari."
+          "t": "The sons of Levi; Gershon, Kohath, and Merari. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.",
       "tokens": [
         {
-          "t": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel."
+          "t": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
       "tokens": [
         {
-          "t": "And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar."
+          "t": "And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ Eleazar begat Phinehas, Phinehas begat Abishua,",
       "tokens": [
         {
-          "t": "¶ Eleazar begat Phinehas, Phinehas begat Abishua,"
+          "t": "¶ Eleazar begat Phinehas, Phinehas begat Abishua, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Abishua begat Bukki, and Bukki begat Uzzi,",
       "tokens": [
         {
-          "t": "And Abishua begat Bukki, and Bukki begat Uzzi,"
+          "t": "And Abishua begat Bukki, and Bukki begat Uzzi, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,",
       "tokens": [
         {
-          "t": "And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,"
+          "t": "And Uzzi begat Zerahiah, and Zerahiah begat Meraioth, "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Meraioth begat Amariah, and Amariah begat Ahitub,",
       "tokens": [
         {
-          "t": "Meraioth begat Amariah, and Amariah begat Ahitub,"
+          "t": "Meraioth begat Amariah, and Amariah begat Ahitub, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Ahitub begat Zadok, and Zadok begat Ahimaaz,",
       "tokens": [
         {
-          "t": "And Ahitub begat Zadok, and Zadok begat Ahimaaz,"
+          "t": "And Ahitub begat Zadok, and Zadok begat Ahimaaz, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And Ahimaaz begat Azariah, and Azariah begat Johanan,",
       "tokens": [
         {
-          "t": "And Ahimaaz begat Azariah, and Azariah begat Johanan,"
+          "t": "And Ahimaaz begat Azariah, and Azariah begat Johanan, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Johanan begat Azariah, (he it is that executed the priest’s office in the temple that Solomon built in Jerusalem:)",
       "tokens": [
         {
-          "t": "And Johanan begat Azariah, (he"
+          "t": "And Johanan begat Azariah, (he "
         },
         {
           "add": "it is"
         },
         {
-          "t": "that executed the priest’s office in the temple that Solomon built in Jerusalem:)"
+          "t": " that executed the priest’s office in the temple that Solomon built in Jerusalem:) "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Azariah begat Amariah, and Amariah begat Ahitub,",
       "tokens": [
         {
-          "t": "And Azariah begat Amariah, and Amariah begat Ahitub,"
+          "t": "And Azariah begat Amariah, and Amariah begat Ahitub, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Ahitub begat Zadok, and Zadok begat Shallum,",
       "tokens": [
         {
-          "t": "And Ahitub begat Zadok, and Zadok begat Shallum,"
+          "t": "And Ahitub begat Zadok, and Zadok begat Shallum, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Shallum begat Hilkiah, and Hilkiah begat Azariah,",
       "tokens": [
         {
-          "t": "And Shallum begat Hilkiah, and Hilkiah begat Azariah,"
+          "t": "And Shallum begat Hilkiah, and Hilkiah begat Azariah, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Azariah begat Seraiah, and Seraiah begat Jehozadak,",
       "tokens": [
         {
-          "t": "And Azariah begat Seraiah, and Seraiah begat Jehozadak,"
+          "t": "And Azariah begat Seraiah, and Seraiah begat Jehozadak, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And Jehozadak went into captivity, when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar.",
       "tokens": [
         {
-          "t": "And Jehozadak went"
+          "t": "And Jehozadak went "
         },
         {
           "add": "into captivity"
         },
         {
-          "t": ", when the"
+          "t": ", when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "carried away Judah and Jerusalem by the hand of Nebuchadnezzar."
+          "t": " carried away Judah and Jerusalem by the hand of Nebuchadnezzar. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ The sons of Levi; Gershom, Kohath, and Merari.",
       "tokens": [
         {
-          "t": "¶ The sons of Levi; Gershom, Kohath, and Merari."
+          "t": "¶ The sons of Levi; Gershom, Kohath, and Merari. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And these be the names of the sons of Gershom; Libni, and Shimei.",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "be"
         },
         {
-          "t": "the names of the sons of Gershom; Libni, and Shimei."
+          "t": " the names of the sons of Gershom; Libni, and Shimei. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel.",
       "tokens": [
         {
-          "t": "And the sons of Kohath"
+          "t": "And the sons of Kohath "
         },
         {
           "add": "were"
         },
         {
-          "t": ", Amram, and Izhar, and Hebron, and Uzziel."
+          "t": ", Amram, and Izhar, and Hebron, and Uzziel. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers.",
       "tokens": [
         {
-          "t": "The sons of Merari; Mahli, and Mushi. And these"
+          "t": "The sons of Merari; Mahli, and Mushi. And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the families of the Levites according to their fathers."
+          "t": " the families of the Levites according to their fathers. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Of Gershom; Libni his son, Jahath his son, Zimmah his son,",
       "tokens": [
         {
-          "t": "Of Gershom; Libni his son, Jahath his son, Zimmah his son,"
+          "t": "Of Gershom; Libni his son, Jahath his son, Zimmah his son, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Joah his son, Iddo his son, Zerah his son, Jeaterai his son.",
       "tokens": [
         {
-          "t": "Joah his son, Iddo his son, Zerah his son, Jeaterai his son."
+          "t": "Joah his son, Iddo his son, Zerah his son, Jeaterai his son. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The sons of Kohath; Amminadab his son, Korah his son, Assir his son,",
       "tokens": [
         {
-          "t": "The sons of Kohath; Amminadab his son, Korah his son, Assir his son,"
+          "t": "The sons of Kohath; Amminadab his son, Korah his son, Assir his son, "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Elkanah his son, and Ebiasaph his son, and Assir his son,",
       "tokens": [
         {
-          "t": "Elkanah his son, and Ebiasaph his son, and Assir his son,"
+          "t": "Elkanah his son, and Ebiasaph his son, and Assir his son, "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.",
       "tokens": [
         {
-          "t": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son."
+          "t": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And the sons of Elkanah; Amasai, and Ahimoth.",
       "tokens": [
         {
-          "t": "And the sons of Elkanah; Amasai, and Ahimoth."
+          "t": "And the sons of Elkanah; Amasai, and Ahimoth. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "As for Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,",
       "tokens": [
         {
           "add": "As for"
         },
         {
-          "t": "Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,"
+          "t": " Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son, "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Eliab his son, Jeroham his son, Elkanah his son.",
       "tokens": [
         {
-          "t": "Eliab his son, Jeroham his son, Elkanah his son."
+          "t": "Eliab his son, Jeroham his son, Elkanah his son. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And the sons of Samuel; the firstborn Vashni, and Abiah.",
       "tokens": [
         {
-          "t": "And the sons of Samuel; the firstborn Vashni, and Abiah."
+          "t": "And the sons of Samuel; the firstborn Vashni, and Abiah. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,",
       "tokens": [
         {
-          "t": "The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,"
+          "t": "The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son, "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Shimea his son, Haggiah his son, Asaiah his son.",
       "tokens": [
         {
-          "t": "Shimea his son, Haggiah his son, Asaiah his son."
+          "t": "Shimea his son, Haggiah his son, Asaiah his son. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And these are they whom David set over the service of song in the house of the LORD, after that the ark had rest.",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are they"
         },
         {
-          "t": "whom David set over the service of song in the house of the"
+          "t": " whom David set over the service of song in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", after that the ark had rest."
+          "t": ", after that the ark had rest. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and then they waited on their office according to their order.",
       "tokens": [
         {
-          "t": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the"
+          "t": "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in Jerusalem: and"
+          "t": " in Jerusalem: and "
         },
         {
           "add": "then"
         },
         {
-          "t": "they waited on their office according to their order."
+          "t": " they waited on their office according to their order. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,"
+          "t": " they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel, "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,",
       "tokens": [
         {
-          "t": "The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,"
+          "t": "The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah, "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,",
       "tokens": [
         {
-          "t": "The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,"
+          "t": "The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai, "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,",
       "tokens": [
         {
-          "t": "The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,"
+          "t": "The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah, "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,",
       "tokens": [
         {
-          "t": "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,"
+          "t": "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah, "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "The son of Izhar, the son of Kohath, the son of Levi, the son of Israel.",
       "tokens": [
         {
-          "t": "The son of Izhar, the son of Kohath, the son of Levi, the son of Israel."
+          "t": "The son of Izhar, the son of Kohath, the son of Levi, the son of Israel. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And his brother Asaph, who stood on his right hand, even Asaph the son of Berachiah, the son of Shimea,",
       "tokens": [
         {
-          "t": "And his brother Asaph, who stood on his right hand,"
+          "t": "And his brother Asaph, who stood on his right hand, "
         },
         {
           "add": "even"
         },
         {
-          "t": "Asaph the son of Berachiah, the son of Shimea,"
+          "t": " Asaph the son of Berachiah, the son of Shimea, "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "The son of Michael, the son of Baaseiah, the son of Malchiah,",
       "tokens": [
         {
-          "t": "The son of Michael, the son of Baaseiah, the son of Malchiah,"
+          "t": "The son of Michael, the son of Baaseiah, the son of Malchiah, "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "The son of Ethni, the son of Zerah, the son of Adaiah,",
       "tokens": [
         {
-          "t": "The son of Ethni, the son of Zerah, the son of Adaiah,"
+          "t": "The son of Ethni, the son of Zerah, the son of Adaiah, "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "The son of Ethan, the son of Zimmah, the son of Shimei,",
       "tokens": [
         {
-          "t": "The son of Ethan, the son of Zimmah, the son of Shimei,"
+          "t": "The son of Ethan, the son of Zimmah, the son of Shimei, "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "The son of Jahath, the son of Gershom, the son of Levi.",
       "tokens": [
         {
-          "t": "The son of Jahath, the son of Gershom, the son of Levi."
+          "t": "The son of Jahath, the son of Gershom, the son of Levi. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And their brethren the sons of Merari stood on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,",
       "tokens": [
         {
-          "t": "And their brethren the sons of Merari"
+          "t": "And their brethren the sons of Merari "
         },
         {
           "add": "stood"
         },
         {
-          "t": "on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,"
+          "t": " on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch, "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "The son of Hashabiah, the son of Amaziah, the son of Hilkiah,",
       "tokens": [
         {
-          "t": "The son of Hashabiah, the son of Amaziah, the son of Hilkiah,"
+          "t": "The son of Hashabiah, the son of Amaziah, the son of Hilkiah, "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "The son of Amzi, the son of Bani, the son of Shamer,",
       "tokens": [
         {
-          "t": "The son of Amzi, the son of Bani, the son of Shamer,"
+          "t": "The son of Amzi, the son of Bani, the son of Shamer, "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.",
       "tokens": [
         {
-          "t": "The son of Mahli, the son of Mushi, the son of Merari, the son of Levi."
+          "t": "The son of Mahli, the son of Mushi, the son of Merari, the son of Levi. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "Their brethren also the Levites were appointed unto all manner of service of the tabernacle of the house of God.",
       "tokens": [
         {
-          "t": "Their brethren also the Levites"
+          "t": "Their brethren also the Levites "
         },
         {
           "add": "were"
         },
         {
-          "t": "appointed unto all manner of service of the tabernacle of the house of God."
+          "t": " appointed unto all manner of service of the tabernacle of the house of God. "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "¶ But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.",
       "tokens": [
         {
-          "t": "¶ But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense,"
+          "t": "¶ But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, "
         },
         {
           "add": "and were appointed"
         },
         {
-          "t": "for all the work of the"
+          "t": " for all the work of the "
         },
         {
           "add": "place"
         },
         {
-          "t": "most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded."
+          "t": " most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded. "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "And these are the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,"
+          "t": " the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son, "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "Bukki his son, Uzzi his son, Zerahiah his son,",
       "tokens": [
         {
-          "t": "Bukki his son, Uzzi his son, Zerahiah his son,"
+          "t": "Bukki his son, Uzzi his son, Zerahiah his son, "
         }
       ]
     },
     {
       "v": 52,
+      "plain": "Meraioth his son, Amariah his son, Ahitub his son,",
       "tokens": [
         {
-          "t": "Meraioth his son, Amariah his son, Ahitub his son,"
+          "t": "Meraioth his son, Amariah his son, Ahitub his son, "
         }
       ]
     },
     {
       "v": 53,
+      "plain": "Zadok his son, Ahimaaz his son.",
       "tokens": [
         {
-          "t": "Zadok his son, Ahimaaz his son."
+          "t": "Zadok his son, Ahimaaz his son. "
         }
       ]
     },
     {
       "v": 54,
+      "plain": "¶ Now these are their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.",
       "tokens": [
         {
-          "t": "¶ Now these"
+          "t": "¶ Now these "
         },
         {
           "add": "are"
         },
         {
-          "t": "their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot."
+          "t": " their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot. "
         }
       ]
     },
     {
       "v": 55,
+      "plain": "And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.",
       "tokens": [
         {
-          "t": "And they gave them Hebron in the land of Judah, and the suburbs thereof round about it."
+          "t": "And they gave them Hebron in the land of Judah, and the suburbs thereof round about it. "
         }
       ]
     },
     {
       "v": 56,
+      "plain": "But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.",
       "tokens": [
         {
-          "t": "But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh."
+          "t": "But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh. "
         }
       ]
     },
     {
       "v": 57,
+      "plain": "And to the sons of Aaron they gave the cities of Judah, namely, Hebron, the city of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,",
       "tokens": [
         {
-          "t": "And to the sons of Aaron they gave the cities of Judah,"
+          "t": "And to the sons of Aaron they gave the cities of Judah, "
         },
         {
           "add": "namely"
         },
         {
-          "t": ", Hebron,"
+          "t": ", Hebron, "
         },
         {
           "add": "the city"
         },
         {
-          "t": "of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,"
+          "t": " of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs, "
         }
       ]
     },
     {
       "v": 58,
+      "plain": "And Hilen with her suburbs, Debir with her suburbs,",
       "tokens": [
         {
-          "t": "And Hilen with her suburbs, Debir with her suburbs,"
+          "t": "And Hilen with her suburbs, Debir with her suburbs, "
         }
       ]
     },
     {
       "v": 59,
+      "plain": "And Ashan with her suburbs, and Beth-shemesh with her suburbs:",
       "tokens": [
         {
-          "t": "And Ashan with her suburbs, and Beth-shemesh with her suburbs:"
+          "t": "And Ashan with her suburbs, and Beth-shemesh with her suburbs: "
         }
       ]
     },
     {
       "v": 60,
+      "plain": "And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families were thirteen cities.",
       "tokens": [
         {
-          "t": "And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families"
+          "t": "And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families "
         },
         {
           "add": "were"
         },
         {
-          "t": "thirteen cities."
+          "t": " thirteen cities. "
         }
       ]
     },
     {
       "v": 61,
+      "plain": "And unto the sons of Kohath, which were left of the family of that tribe, were cities given out of the half tribe, namely, out of the half tribe of Manasseh, by lot, ten cities.",
       "tokens": [
         {
-          "t": "And unto the sons of Kohath,"
+          "t": "And unto the sons of Kohath, "
         },
         {
           "add": "which were"
         },
         {
-          "t": "left of the family of that tribe,"
+          "t": " left of the family of that tribe, "
         },
         {
           "add": "were cities given"
         },
         {
-          "t": "out of the half tribe,"
+          "t": " out of the half tribe, "
         },
         {
           "add": "namely, out of"
         },
         {
-          "t": "the half"
+          "t": " the half "
         },
         {
           "add": "tribe"
         },
         {
-          "t": "of Manasseh, by lot, ten cities."
+          "t": " of Manasseh, by lot, ten cities. "
         }
       ]
     },
     {
       "v": 62,
+      "plain": "And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.",
       "tokens": [
         {
-          "t": "And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities."
+          "t": "And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities. "
         }
       ]
     },
     {
       "v": 63,
+      "plain": "Unto the sons of Merari were given by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
       "tokens": [
         {
-          "t": "Unto the sons of Merari"
+          "t": "Unto the sons of Merari "
         },
         {
           "add": "were given"
         },
         {
-          "t": "by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities."
+          "t": " by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities. "
         }
       ]
     },
     {
       "v": 64,
+      "plain": "And the children of Israel gave to the Levites these cities with their suburbs.",
       "tokens": [
         {
-          "t": "And the children of Israel gave to the Levites"
+          "t": "And the children of Israel gave to the Levites "
         },
         {
           "add": "these"
         },
         {
-          "t": "cities with their suburbs."
+          "t": " cities with their suburbs. "
         }
       ]
     },
     {
       "v": 65,
+      "plain": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by their names.",
       "tokens": [
         {
-          "t": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by"
+          "t": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by "
         },
         {
           "add": "their"
         },
         {
-          "t": "names."
+          "t": " names. "
         }
       ]
     },
     {
       "v": 66,
+      "plain": "And the residue of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "the residue"
         },
         {
-          "t": "of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim."
+          "t": " of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim. "
         }
       ]
     },
     {
       "v": 67,
+      "plain": "And they gave unto them, of the cities of refuge, Shechem in mount Ephraim with her suburbs; they gave also Gezer with her suburbs,",
       "tokens": [
         {
-          "t": "And they gave unto them,"
+          "t": "And they gave unto them, "
         },
         {
           "add": "of"
         },
         {
-          "t": "the cities of refuge, Shechem in mount Ephraim with her suburbs;"
+          "t": " the cities of refuge, Shechem in mount Ephraim with her suburbs; "
         },
         {
           "add": "they gave"
         },
         {
-          "t": "also Gezer with her suburbs,"
+          "t": " also Gezer with her suburbs, "
         }
       ]
     },
     {
       "v": 68,
+      "plain": "And Jokmeam with her suburbs, and Beth-horon with her suburbs,",
       "tokens": [
         {
-          "t": "And Jokmeam with her suburbs, and Beth-horon with her suburbs,"
+          "t": "And Jokmeam with her suburbs, and Beth-horon with her suburbs, "
         }
       ]
     },
     {
       "v": 69,
+      "plain": "And Aijalon with her suburbs, and Gath-rimmon with her suburbs:",
       "tokens": [
         {
-          "t": "And Aijalon with her suburbs, and Gath-rimmon with her suburbs:"
+          "t": "And Aijalon with her suburbs, and Gath-rimmon with her suburbs: "
         }
       ]
     },
     {
       "v": 70,
+      "plain": "And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath.",
       "tokens": [
         {
-          "t": "And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath."
+          "t": "And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath. "
         }
       ]
     },
     {
       "v": 71,
+      "plain": "Unto the sons of Gershom were given out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:",
       "tokens": [
         {
-          "t": "Unto the sons of Gershom"
+          "t": "Unto the sons of Gershom "
         },
         {
           "add": "were given"
         },
         {
-          "t": "out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:"
+          "t": " out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs: "
         }
       ]
     },
     {
       "v": 72,
+      "plain": "And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,",
       "tokens": [
         {
-          "t": "And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,"
+          "t": "And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs, "
         }
       ]
     },
     {
       "v": 73,
+      "plain": "And Ramoth with her suburbs, and Anem with her suburbs:",
       "tokens": [
         {
-          "t": "And Ramoth with her suburbs, and Anem with her suburbs:"
+          "t": "And Ramoth with her suburbs, and Anem with her suburbs: "
         }
       ]
     },
     {
       "v": 74,
+      "plain": "And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,",
       "tokens": [
         {
-          "t": "And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,"
+          "t": "And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs, "
         }
       ]
     },
     {
       "v": 75,
+      "plain": "And Hukok with her suburbs, and Rehob with her suburbs:",
       "tokens": [
         {
-          "t": "And Hukok with her suburbs, and Rehob with her suburbs:"
+          "t": "And Hukok with her suburbs, and Rehob with her suburbs: "
         }
       ]
     },
     {
       "v": 76,
+      "plain": "And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs.",
       "tokens": [
         {
-          "t": "And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs."
+          "t": "And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs. "
         }
       ]
     },
     {
       "v": 77,
+      "plain": "Unto the rest of the children of Merari were given out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:",
       "tokens": [
         {
-          "t": "Unto the rest of the children of Merari"
+          "t": "Unto the rest of the children of Merari "
         },
         {
           "add": "were given"
         },
         {
-          "t": "out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:"
+          "t": " out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs: "
         }
       ]
     },
     {
       "v": 78,
+      "plain": "And on the other side Jordan by Jericho, on the east side of Jordan, were given them out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,",
       "tokens": [
         {
-          "t": "And on the other side Jordan by Jericho, on the east side of Jordan,"
+          "t": "And on the other side Jordan by Jericho, on the east side of Jordan, "
         },
         {
           "add": "were given them"
         },
         {
-          "t": "out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,"
+          "t": " out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs, "
         }
       ]
     },
     {
       "v": 79,
+      "plain": "Kedemoth also with her suburbs, and Mephaath with her suburbs:",
       "tokens": [
         {
-          "t": "Kedemoth also with her suburbs, and Mephaath with her suburbs:"
+          "t": "Kedemoth also with her suburbs, and Mephaath with her suburbs: "
         }
       ]
     },
     {
       "v": 80,
+      "plain": "And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,",
       "tokens": [
         {
-          "t": "And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,"
+          "t": "And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs, "
         }
       ]
     },
     {
       "v": 81,
+      "plain": "And Heshbon with her suburbs, and Jazer with her suburbs.",
       "tokens": [
         {
-          "t": "And Heshbon with her suburbs, and Jazer with her suburbs."
+          "t": "And Heshbon with her suburbs, and Jazer with her suburbs. "
         }
       ]
     }

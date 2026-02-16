@@ -1,0 +1,249 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 65,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.",
+      "tokens": [
+        {
+          "t": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "O thou that hearest prayer, unto thee shall all flesh come.",
+      "tokens": [
+        {
+          "t": "O thou that hearest prayer, unto thee shall all flesh come. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Iniquities prevail against me: as for our transgressions, thou shalt purge them away.",
+      "tokens": [
+        {
+          "t": "Iniquities prevail against me: "
+        },
+        {
+          "add": "as for"
+        },
+        {
+          "t": " our transgressions, thou shalt purge them away. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "is the man whom"
+        },
+        {
+          "t": " thou choosest, and causest to approach "
+        },
+        {
+          "add": "unto thee, that"
+        },
+        {
+          "t": " he may dwell in thy courts: we shall be satisfied with the goodness of thy house, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " of thy holy temple. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:",
+      "tokens": [
+        {
+          "add": "By"
+        },
+        {
+          "t": " terrible things in righteousness wilt thou answer us, O God of our salvation; "
+        },
+        {
+          "add": "who art"
+        },
+        {
+          "t": " the confidence of all the ends of the earth, and of them that are afar off "
+        },
+        {
+          "add": "upon"
+        },
+        {
+          "t": " the sea: "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Which by his strength setteth fast the mountains; being girded with power:",
+      "tokens": [
+        {
+          "t": "Which by his strength setteth fast the mountains; "
+        },
+        {
+          "add": "being"
+        },
+        {
+          "t": " girded with power: "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.",
+      "tokens": [
+        {
+          "t": "Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.",
+      "tokens": [
+        {
+          "t": "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.",
+      "tokens": [
+        {
+          "t": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " is full of water: thou preparest them corn, when thou hast so provided for it. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.",
+      "tokens": [
+        {
+          "t": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Thou crownest the year with thy goodness; and thy paths drop fatness.",
+      "tokens": [
+        {
+          "t": "Thou crownest the year with thy goodness; and thy paths drop fatness. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "They drop upon the pastures of the wilderness: and the little hills rejoice on every side.",
+      "tokens": [
+        {
+          "t": "They drop "
+        },
+        {
+          "add": "upon"
+        },
+        {
+          "t": " the pastures of the wilderness: and the little hills rejoice on every side. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.",
+      "tokens": [
+        {
+          "t": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "waiteth: Heb. is silent"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "Iniquities: Heb. Words, or, Matters of iniquities"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 8
+      },
+      "text": "rejoice: or, sing"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 9
+      },
+      "text": "and…: or, after thou hadst made it to desire rain"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 10
+      },
+      "text": "settlest: or, causest rain to descend into"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 10
+      },
+      "text": "makest…: Heb. dissolvest it"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 11
+      },
+      "text": "with: Heb. of"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 12
+      },
+      "text": "rejoice…: Heb. are girded with joy"
+    }
+  ]
+}

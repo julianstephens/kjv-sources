@@ -1,0 +1,348 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 59,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Deliver me from mine enemies, O my God: defend me from them that rise up against me.",
+      "tokens": [
+        {
+          "t": "Deliver me from mine enemies, O my God: defend me from them that rise up against me. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Deliver me from the workers of iniquity, and save me from bloody men.",
+      "tokens": [
+        {
+          "t": "Deliver me from the workers of iniquity, and save me from bloody men. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O LORD.",
+      "tokens": [
+        {
+          "t": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " my transgression, nor "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " my sin, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "They run and prepare themselves without my fault: awake to help me, and behold.",
+      "tokens": [
+        {
+          "t": "They run and prepare themselves without "
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": " fault: awake to help me, and behold. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Thou therefore, O LORD God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah.",
+      "tokens": [
+        {
+          "t": "Thou therefore, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "They return at evening: they make a noise like a dog, and go round about the city.",
+      "tokens": [
+        {
+          "t": "They return at evening: they make a noise like a dog, and go round about the city. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Behold, they belch out with their mouth: swords are in their lips: for who, say they, doth hear?",
+      "tokens": [
+        {
+          "t": "Behold, they belch out with their mouth: swords "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " in their lips: for who, "
+        },
+        {
+          "add": "say they"
+        },
+        {
+          "t": ", doth hear? "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "But thou, O LORD, shalt laugh at them; thou shalt have all the heathen in derision.",
+      "tokens": [
+        {
+          "t": "But thou, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", shalt laugh at them; thou shalt have all the heathen in derision. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Because of his strength will I wait upon thee: for God is my defence.",
+      "tokens": [
+        {
+          "add": "Because of"
+        },
+        {
+          "t": " his strength will I wait upon thee: for God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my defence. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "The God of my mercy shall prevent me: God shall let me see my desire upon mine enemies.",
+      "tokens": [
+        {
+          "t": "The God of my mercy shall prevent me: God shall let me see "
+        },
+        {
+          "add": "my desire"
+        },
+        {
+          "t": " upon mine enemies. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.",
+      "tokens": [
+        {
+          "t": "Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "For the sin of their mouth and the words of their lips let them even be taken in their pride: and for cursing and lying which they speak.",
+      "tokens": [
+        {
+          "add": "For"
+        },
+        {
+          "t": " the sin of their mouth "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " the words of their lips let them even be taken in their pride: and for cursing and lying "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " they speak. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Consume them in wrath, consume them, that they may not be: and let them know that God ruleth in Jacob unto the ends of the earth. Selah.",
+      "tokens": [
+        {
+          "t": "Consume "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " in wrath, consume "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": ", that they "
+        },
+        {
+          "add": "may"
+        },
+        {
+          "t": " not "
+        },
+        {
+          "add": "be:"
+        },
+        {
+          "t": " and let them know that God ruleth in Jacob unto the ends of the earth. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "And at evening let them return; and let them make a noise like a dog, and go round about the city.",
+      "tokens": [
+        {
+          "t": "And at evening let them return; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " let them make a noise like a dog, and go round about the city. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Let them wander up and down for meat, and grudge if they be not satisfied.",
+      "tokens": [
+        {
+          "t": "Let them wander up and down for meat, and grudge if they be not satisfied. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.",
+      "tokens": [
+        {
+          "t": "But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "Unto thee, O my strength, will I sing: for God is my defence, and the God of my mercy.",
+      "tokens": [
+        {
+          "t": "Unto thee, O my strength, will I sing: for God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my defence, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " the God of my mercy. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Al-taschith…: or, Destroy not"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "Michtam: or, A golden Psalm"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 1
+      },
+      "text": "defend…: Heb. set me on high"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 4
+      },
+      "text": "help: Heb. meet"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "defence: Heb. high place"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 10
+      },
+      "text": "enemies: Heb. observers"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 15
+      },
+      "text": "for meat: Heb. to eat"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 15
+      },
+      "text": "and grudge…: or, if they be not satisfied, then they will stay all night"
+    }
+  ]
+}

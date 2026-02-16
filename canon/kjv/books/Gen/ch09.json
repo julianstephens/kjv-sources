@@ -7,335 +7,364 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.",
       "tokens": [
         {
-          "t": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth."
+          "t": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.",
       "tokens": [
         {
-          "t": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth"
+          "t": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth "
         },
         {
           "add": "upon"
         },
         {
-          "t": "the earth, and upon all the fishes of the sea; into your hand are they delivered."
+          "t": " the earth, and upon all the fishes of the sea; into your hand are they delivered. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.",
       "tokens": [
         {
-          "t": "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things."
+          "t": "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But flesh with the life thereof, which is the blood thereof, shall ye not eat.",
       "tokens": [
         {
-          "t": "But flesh with the life thereof,"
+          "t": "But flesh with the life thereof, "
         },
         {
           "add": "which is"
         },
         {
-          "t": "the blood thereof, shall ye not eat."
+          "t": " the blood thereof, shall ye not eat. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.",
       "tokens": [
         {
-          "t": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man."
+          "t": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man.",
       "tokens": [
         {
-          "t": "Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man."
+          "t": "Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.",
       "tokens": [
         {
-          "t": "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein."
+          "t": "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And God spake unto Noah, and to his sons with him, saying,",
       "tokens": [
         {
-          "t": "¶ And God spake unto Noah, and to his sons with him, saying,"
+          "t": "¶ And God spake unto Noah, and to his sons with him, saying, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And I, behold, I establish my covenant with you, and with your seed after you;",
       "tokens": [
         {
-          "t": "And I, behold, I establish my covenant with you, and with your seed after you;"
+          "t": "And I, behold, I establish my covenant with you, and with your seed after you; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.",
       "tokens": [
         {
-          "t": "And with every living creature that"
+          "t": "And with every living creature that "
         },
         {
           "add": "is"
         },
         {
-          "t": "with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth."
+          "t": " with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.",
       "tokens": [
         {
-          "t": "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth."
+          "t": "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:",
       "tokens": [
         {
-          "t": "And God said, This"
+          "t": "And God said, This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the token of the covenant which I make between me and you and every living creature that"
+          "t": " the token of the covenant which I make between me and you and every living creature that "
         },
         {
           "add": "is"
         },
         {
-          "t": "with you, for perpetual generations:"
+          "t": " with you, for perpetual generations: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
       "tokens": [
         {
-          "t": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth."
+          "t": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:",
       "tokens": [
         {
-          "t": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:"
+          "t": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.",
       "tokens": [
         {
-          "t": "And I will remember my covenant, which"
+          "t": "And I will remember my covenant, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh."
+          "t": " between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.",
       "tokens": [
         {
-          "t": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that"
+          "t": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the earth."
+          "t": " upon the earth. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth.",
       "tokens": [
         {
-          "t": "And God said unto Noah, This"
+          "t": "And God said unto Noah, This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the token of the covenant, which I have established between me and all flesh that"
+          "t": " the token of the covenant, which I have established between me and all flesh that "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the earth."
+          "t": " upon the earth. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan.",
       "tokens": [
         {
-          "t": "¶ And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham"
+          "t": "¶ And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham "
         },
         {
           "add": "is"
         },
         {
-          "t": "the father of Canaan."
+          "t": " the father of Canaan. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "These are the three sons of Noah: and of them was the whole earth overspread.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the three sons of Noah: and of them was the whole earth overspread."
+          "t": " the three sons of Noah: and of them was the whole earth overspread. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Noah began to be an husbandman, and he planted a vineyard:",
       "tokens": [
         {
-          "t": "And Noah began"
+          "t": "And Noah began "
         },
         {
           "add": "to be"
         },
         {
-          "t": "an husbandman, and he planted a vineyard:"
+          "t": " an husbandman, and he planted a vineyard: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he drank of the wine, and was drunken; and he was uncovered within his tent.",
       "tokens": [
         {
-          "t": "And he drank of the wine, and was drunken; and he was uncovered within his tent."
+          "t": "And he drank of the wine, and was drunken; and he was uncovered within his tent. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without.",
       "tokens": [
         {
-          "t": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without."
+          "t": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father’s nakedness.",
       "tokens": [
         {
-          "t": "And Shem and Japheth took a garment, and laid"
+          "t": "And Shem and Japheth took a garment, and laid "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces"
+          "t": " upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces "
         },
         {
           "add": "were"
         },
         {
-          "t": "backward, and they saw not their father’s nakedness."
+          "t": " backward, and they saw not their father’s nakedness. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Noah awoke from his wine, and knew what his younger son had done unto him.",
       "tokens": [
         {
-          "t": "And Noah awoke from his wine, and knew what his younger son had done unto him."
+          "t": "And Noah awoke from his wine, and knew what his younger son had done unto him. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren.",
       "tokens": [
         {
-          "t": "And he said, Cursed"
+          "t": "And he said, Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "Canaan; a servant of servants shall he be unto his brethren."
+          "t": " Canaan; a servant of servants shall he be unto his brethren. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant.",
       "tokens": [
         {
-          "t": "And he said, Blessed"
+          "t": "And he said, Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Shem; and Canaan shall be his servant."
+          "t": " God of Shem; and Canaan shall be his servant. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.",
       "tokens": [
         {
-          "t": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
+          "t": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ And Noah lived after the flood three hundred and fifty years.",
       "tokens": [
         {
-          "t": "¶ And Noah lived after the flood three hundred and fifty years."
+          "t": "¶ And Noah lived after the flood three hundred and fifty years. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And all the days of Noah were nine hundred and fifty years: and he died.",
       "tokens": [
         {
-          "t": "And all the days of Noah were nine hundred and fifty years: and he died."
+          "t": "And all the days of Noah were nine hundred and fifty years: and he died. "
         }
       ]
     }

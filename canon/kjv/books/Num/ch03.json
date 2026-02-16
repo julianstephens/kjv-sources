@@ -7,739 +7,790 @@
   "verses": [
     {
       "v": 1,
+      "plain": "These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.",
       "tokens": [
         {
-          "t": "These also"
+          "t": "These also "
         },
         {
           "add": "are"
         },
         {
-          "t": "the generations of Aaron and Moses in the day"
+          "t": " the generations of Aaron and Moses in the day "
         },
         {
           "add": "that"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake with Moses in mount Sinai."
+          "t": " spake with Moses in mount Sinai. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar."
+          "t": " the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office."
+          "t": " the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father.",
       "tokens": [
         {
-          "t": "And Nadab and Abihu died before the"
+          "t": "And Nadab and Abihu died before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", when they offered strange fire before the"
+          "t": ", when they offered strange fire before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father."
+          "t": ", in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him.",
       "tokens": [
         {
-          "t": "Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him."
+          "t": "Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.",
       "tokens": [
         {
-          "t": "And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle."
+          "t": "And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.",
       "tokens": [
         {
-          "t": "And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle."
+          "t": "And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And thou shalt give the Levites unto Aaron and to his sons: they are wholly given unto him out of the children of Israel.",
       "tokens": [
         {
-          "t": "And thou shalt give the Levites unto Aaron and to his sons: they"
+          "t": "And thou shalt give the Levites unto Aaron and to his sons: they "
         },
         {
           "add": "are"
         },
         {
-          "t": "wholly given unto him out of the children of Israel."
+          "t": " wholly given unto him out of the children of Israel. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And thou shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death.",
       "tokens": [
         {
-          "t": "And thou shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death."
+          "t": "And thou shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;",
       "tokens": [
         {
-          "t": "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;"
+          "t": "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Because all the firstborn are mine; for on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I am the LORD.",
       "tokens": [
         {
-          "t": "Because all the firstborn"
+          "t": "Because all the firstborn "
         },
         {
           "add": "are"
         },
         {
-          "t": "mine;"
+          "t": " mine; "
         },
         {
           "add": "for"
         },
         {
-          "t": "on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I"
+          "t": " on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And the LORD spake unto Moses in the wilderness of Sinai, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses in the wilderness of Sinai, saying,"
+          "t": " spake unto Moses in the wilderness of Sinai, saying, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.",
       "tokens": [
         {
-          "t": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them."
+          "t": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Moses numbered them according to the word of the LORD, as he was commanded.",
       "tokens": [
         {
-          "t": "And Moses numbered them according to the word of the"
+          "t": "And Moses numbered them according to the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", as he was commanded."
+          "t": ", as he was commanded. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.",
       "tokens": [
         {
-          "t": "And these were the sons of Levi by their names; Gershon, and Kohath, and Merari."
+          "t": "And these were the sons of Levi by their names; Gershon, and Kohath, and Merari. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And these are the names of the sons of Gershon by their families; Libni, and Shimei.",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the names of the sons of Gershon by their families; Libni, and Shimei."
+          "t": " the names of the sons of Gershon by their families; Libni, and Shimei. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.",
       "tokens": [
         {
-          "t": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel."
+          "t": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers.",
       "tokens": [
         {
-          "t": "And the sons of Merari by their families; Mahli, and Mushi. These"
+          "t": "And the sons of Merari by their families; Mahli, and Mushi. These "
         },
         {
           "add": " are"
         },
         {
-          "t": "the families of the Levites according to the house of their fathers."
+          "t": " the families of the Levites according to the house of their fathers. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Of Gershon was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites.",
       "tokens": [
         {
-          "t": "Of Gershon"
+          "t": "Of Gershon "
         },
         {
           "add": "was"
         },
         {
-          "t": "the family of the Libnites, and the family of the Shimites: these"
+          "t": " the family of the Libnites, and the family of the Shimites: these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the families of the Gershonites."
+          "t": " the families of the Gershonites. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them, according to the number of all the males, from a month old and upward,"
+          "t": "Those that were numbered of them, according to the number of all the males, from a month old and upward, "
         },
         {
           "add": "even"
         },
         {
-          "t": "those that were numbered of them"
+          "t": " those that were numbered of them "
         },
         {
           "add": "were"
         },
         {
-          "t": "seven thousand and five hundred."
+          "t": " seven thousand and five hundred. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The families of the Gershonites shall pitch behind the tabernacle westward.",
       "tokens": [
         {
-          "t": "The families of the Gershonites shall pitch behind the tabernacle westward."
+          "t": "The families of the Gershonites shall pitch behind the tabernacle westward. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And the chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael.",
       "tokens": [
         {
-          "t": "And the chief of the house of the father of the Gershonites"
+          "t": "And the chief of the house of the father of the Gershonites "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "Eliasaph the son of Lael."
+          "t": " Eliasaph the son of Lael. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And the charge of the sons of Gershon in the tabernacle of the congregation shall be the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,",
       "tokens": [
         {
-          "t": "And the charge of the sons of Gershon in the tabernacle of the congregation"
+          "t": "And the charge of the sons of Gershon in the tabernacle of the congregation "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,"
+          "t": " the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation, "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And the hangings of the court, and the curtain for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof.",
       "tokens": [
         {
-          "t": "And the hangings of the court, and the curtain for the door of the court, which"
+          "t": "And the hangings of the court, and the curtain for the door of the court, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "by the tabernacle, and by the altar round about, and the cords of it for all the service thereof."
+          "t": " by the tabernacle, and by the altar round about, and the cords of it for all the service thereof. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And of Kohath was the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites.",
       "tokens": [
         {
-          "t": "¶ And of Kohath"
+          "t": "¶ And of Kohath "
         },
         {
           "add": "was"
         },
         {
-          "t": "the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these"
+          "t": " the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the families of the Kohathites."
+          "t": " the families of the Kohathites. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary.",
       "tokens": [
         {
-          "t": "In the number of all the males, from a month old and upward,"
+          "t": "In the number of all the males, from a month old and upward, "
         },
         {
           "add": "were"
         },
         {
-          "t": "eight thousand and six hundred, keeping the charge of the sanctuary."
+          "t": " eight thousand and six hundred, keeping the charge of the sanctuary. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "The families of the sons of Kohath shall pitch on the side of the tabernacle southward.",
       "tokens": [
         {
-          "t": "The families of the sons of Kohath shall pitch on the side of the tabernacle southward."
+          "t": "The families of the sons of Kohath shall pitch on the side of the tabernacle southward. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel.",
       "tokens": [
         {
-          "t": "And the chief of the house of the father of the families of the Kohathites"
+          "t": "And the chief of the house of the father of the families of the Kohathites "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "Elizaphan the son of Uzziel."
+          "t": " Elizaphan the son of Uzziel. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof.",
       "tokens": [
         {
-          "t": "And their charge"
+          "t": "And their charge "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof."
+          "t": " the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And Eleazar the son of Aaron the priest shall be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary.",
       "tokens": [
         {
-          "t": "And Eleazar the son of Aaron the priest"
+          "t": "And Eleazar the son of Aaron the priest "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "chief over the chief of the Levites,"
+          "t": " chief over the chief of the Levites, "
         },
         {
           "add": "and have"
         },
         {
-          "t": "the oversight of them that keep the charge of the sanctuary."
+          "t": " the oversight of them that keep the charge of the sanctuary. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "¶ Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari.",
       "tokens": [
         {
-          "t": "¶ Of Merari"
+          "t": "¶ Of Merari "
         },
         {
           "add": "was"
         },
         {
-          "t": "the family of the Mahlites, and the family of the Mushites: these"
+          "t": " the family of the Mahlites, and the family of the Mushites: these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the families of Merari."
+          "t": " the families of Merari. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And those that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand and two hundred.",
       "tokens": [
         {
-          "t": "And those that were numbered of them, according to the number of all the males, from a month old and upward,"
+          "t": "And those that were numbered of them, according to the number of all the males, from a month old and upward, "
         },
         {
           "add": "were"
         },
         {
-          "t": "six thousand and two hundred."
+          "t": " six thousand and two hundred. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward.",
       "tokens": [
         {
-          "t": "And the chief of the house of the father of the families of Merari"
+          "t": "And the chief of the house of the father of the families of Merari "
         },
         {
           "add": "was"
         },
         {
-          "t": "Zuriel the son of Abihail:"
+          "t": " Zuriel the son of Abihail: "
         },
         {
           "add": "these"
         },
         {
-          "t": "shall pitch on the side of the tabernacle northward."
+          "t": " shall pitch on the side of the tabernacle northward. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "under"
         },
         {
-          "t": "the custody and charge of the sons of Merari"
+          "t": " the custody and charge of the sons of Merari "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,"
+          "t": " the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto, "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And the pillars of the court round about, and their sockets, and their pins, and their cords.",
       "tokens": [
         {
-          "t": "And the pillars of the court round about, and their sockets, and their pins, and their cords."
+          "t": "And the pillars of the court round about, and their sockets, and their pins, and their cords. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "¶ But those that encamp before the tabernacle toward the east, even before the tabernacle of the congregation eastward, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death.",
       "tokens": [
         {
-          "t": "¶ But those that encamp before the tabernacle toward the east,"
+          "t": "¶ But those that encamp before the tabernacle toward the east, "
         },
         {
           "add": "even"
         },
         {
-          "t": "before the tabernacle of the congregation eastward,"
+          "t": " before the tabernacle of the congregation eastward, "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death."
+          "t": " Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand.",
       "tokens": [
         {
-          "t": "All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the"
+          "t": "All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", throughout their families, all the males from a month old and upward,"
+          "t": ", throughout their families, all the males from a month old and upward, "
         },
         {
           "add": "were"
         },
         {
-          "t": "twenty and two thousand."
+          "t": " twenty and two thousand. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "¶ And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names."
+          "t": " said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And thou shalt take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel.",
       "tokens": [
         {
-          "t": "And thou shalt take the Levites for me (I"
+          "t": "And thou shalt take the Levites for me (I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ") instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel."
+          "t": ") instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel.",
       "tokens": [
         {
-          "t": "And Moses numbered, as the"
+          "t": "And Moses numbered, as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded him, all the firstborn among the children of Israel."
+          "t": " commanded him, all the firstborn among the children of Israel. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.",
       "tokens": [
         {
-          "t": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen."
+          "t": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the LORD.",
       "tokens": [
         {
-          "t": "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I"
+          "t": "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;",
       "tokens": [
         {
-          "t": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;"
+          "t": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites; "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take them: (the shekel is twenty gerahs:)",
       "tokens": [
         {
-          "t": "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take"
+          "t": "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take "
         },
         {
           "add": "them:"
         },
         {
-          "t": "(the shekel"
+          "t": " (the shekel "
         },
         {
           "add": "is"
         },
         {
-          "t": "twenty gerahs:)"
+          "t": " twenty gerahs:) "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons.",
       "tokens": [
         {
-          "t": "And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons."
+          "t": "And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons. "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "And Moses took the redemption money of them that were over and above them that were redeemed by the Levites:",
       "tokens": [
         {
-          "t": "And Moses took the redemption money of them that were over and above them that were redeemed by the Levites:"
+          "t": "And Moses took the redemption money of them that were over and above them that were redeemed by the Levites: "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary:",
       "tokens": [
         {
-          "t": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five"
+          "t": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five "
         },
         {
           "add": "shekels"
         },
         {
-          "t": ", after the shekel of the sanctuary:"
+          "t": ", after the shekel of the sanctuary: "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses.",
       "tokens": [
         {
-          "t": "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the"
+          "t": "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", as the"
+          "t": ", as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded Moses."
+          "t": " commanded Moses. "
         }
       ]
     }

@@ -7,457 +7,499 @@
   "verses": [
     {
       "v": 1,
+      "plain": "But a certain man named Ananias, with Sapphira his wife, sold a possession,",
       "tokens": [
         {
-          "t": "But a certain man named Ananias, with Sapphira his wife, sold a possession,"
+          "t": "But a certain man named Ananias, with Sapphira his wife, sold a possession, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles’ feet.",
       "tokens": [
         {
-          "t": "And kept back"
+          "t": "And kept back "
         },
         {
           "add": "part"
         },
         {
-          "t": "of the price, his wife also being privy"
+          "t": " of the price, his wife also being privy "
         },
         {
           "add": "to it"
         },
         {
-          "t": ", and brought a certain part, and laid"
+          "t": ", and brought a certain part, and laid "
         },
         {
           "add": "it"
         },
         {
-          "t": "at the apostles’ feet."
+          "t": " at the apostles’ feet. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?",
       "tokens": [
         {
-          "t": "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back"
+          "t": "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back "
         },
         {
           "add": "part"
         },
         {
-          "t": "of the price of the land?"
+          "t": " of the price of the land? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God.",
       "tokens": [
         {
-          "t": "Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God."
+          "t": "Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.",
       "tokens": [
         {
-          "t": "And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things."
+          "t": "And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the young men arose, wound him up, and carried him out, and buried him.",
       "tokens": [
         {
-          "t": "And the young men arose, wound him up, and carried"
+          "t": "And the young men arose, wound him up, and carried "
         },
         {
           "add": "him"
         },
         {
-          "t": "out, and buried"
+          "t": " out, and buried "
         },
         {
           "add": "him"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And it was about the space of three hours after, when his wife, not knowing what was done, came in.",
       "tokens": [
         {
-          "t": "And it was about the space of three hours after, when his wife, not knowing what was done, came in."
+          "t": "And it was about the space of three hours after, when his wife, not knowing what was done, came in. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much.",
       "tokens": [
         {
-          "t": "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much."
+          "t": "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband are at the door, and shall carry thee out.",
       "tokens": [
         {
-          "t": "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband"
+          "t": "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband "
         },
         {
           "add": "are"
         },
         {
-          "t": "at the door, and shall carry thee out."
+          "t": " at the door, and shall carry thee out. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.",
       "tokens": [
         {
-          "t": "Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying"
+          "t": "Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying "
         },
         {
           "add": "her"
         },
         {
-          "t": "forth, buried"
+          "t": " forth, buried "
         },
         {
           "add": "her"
         },
         {
-          "t": "by her husband."
+          "t": " by her husband. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And great fear came upon all the church, and upon as many as heard these things.",
       "tokens": [
         {
-          "t": "And great fear came upon all the church, and upon as many as heard these things."
+          "t": "And great fear came upon all the church, and upon as many as heard these things. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon’s porch.",
       "tokens": [
         {
-          "t": "¶ And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon’s porch."
+          "t": "¶ And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon’s porch. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And of the rest durst no man join himself to them: but the people magnified them.",
       "tokens": [
         {
-          "t": "And of the rest durst no man join himself to them: but the people magnified them."
+          "t": "And of the rest durst no man join himself to them: but the people magnified them. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And believers were the more added to the Lord, multitudes both of men and women.)",
       "tokens": [
         {
-          "t": "And believers were the more added to the Lord, multitudes both of men and women.)"
+          "t": "And believers were the more added to the Lord, multitudes both of men and women.) "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them.",
       "tokens": [
         {
-          "t": "Insomuch that they brought forth the sick into the streets, and laid"
+          "t": "Insomuch that they brought forth the sick into the streets, and laid "
         },
         {
           "add": "them"
         },
         {
-          "t": "on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them."
+          "t": " on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "There came also a multitude out of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.",
       "tokens": [
         {
-          "t": "There came also a multitude"
+          "t": "There came also a multitude "
         },
         {
           "add": "out"
         },
         {
-          "t": "of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one."
+          "t": " of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,",
       "tokens": [
         {
-          "t": "¶ Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,"
+          "t": "¶ Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And laid their hands on the apostles, and put them in the common prison.",
       "tokens": [
         {
-          "t": "And laid their hands on the apostles, and put them in the common prison."
+          "t": "And laid their hands on the apostles, and put them in the common prison. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "But the angel of the Lord by night opened the prison doors, and brought them forth, and said,",
       "tokens": [
         {
-          "t": "But the angel of the Lord by night opened the prison doors, and brought them forth, and said,"
+          "t": "But the angel of the Lord by night opened the prison doors, and brought them forth, and said, "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Go, stand and speak in the temple to the people all the words of this life.",
       "tokens": [
         {
-          "t": "Go, stand and speak in the temple to the people all the words of this life."
+          "t": "Go, stand and speak in the temple to the people all the words of this life. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And when they heard that, they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.",
       "tokens": [
         {
-          "t": "And when they heard"
+          "t": "And when they heard "
         },
         {
           "add": "that"
         },
         {
-          "t": ", they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought."
+          "t": ", they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But when the officers came, and found them not in the prison, they returned, and told,",
       "tokens": [
         {
-          "t": "But when the officers came, and found them not in the prison, they returned, and told,"
+          "t": "But when the officers came, and found them not in the prison, they returned, and told, "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within.",
       "tokens": [
         {
-          "t": "Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within."
+          "t": "Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.",
       "tokens": [
         {
-          "t": "Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow."
+          "t": "Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people.",
       "tokens": [
         {
-          "t": "Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people."
+          "t": "Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned.",
       "tokens": [
         {
-          "t": "Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned."
+          "t": "Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And when they had brought them, they set them before the council: and the high priest asked them,",
       "tokens": [
         {
-          "t": "And when they had brought them, they set"
+          "t": "And when they had brought them, they set "
         },
         {
           "add": "them"
         },
         {
-          "t": "before the council: and the high priest asked them,"
+          "t": " before the council: and the high priest asked them, "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man’s blood upon us.",
       "tokens": [
         {
-          "t": "Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man’s blood upon us."
+          "t": "Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man’s blood upon us. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ Then Peter and the other apostles answered and said, We ought to obey God rather than men.",
       "tokens": [
         {
-          "t": "¶ Then Peter and the"
+          "t": "¶ Then Peter and the "
         },
         {
           "add": "other"
         },
         {
-          "t": "apostles answered and said, We ought to obey God rather than men."
+          "t": " apostles answered and said, We ought to obey God rather than men. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.",
       "tokens": [
         {
-          "t": "The God of our fathers raised up Jesus, whom ye slew and hanged on a tree."
+          "t": "The God of our fathers raised up Jesus, whom ye slew and hanged on a tree. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.",
       "tokens": [
         {
-          "t": "Him hath God exalted with his right hand"
+          "t": "Him hath God exalted with his right hand "
         },
         {
           "add": "to be"
         },
         {
-          "t": "a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins."
+          "t": " a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.",
       "tokens": [
         {
-          "t": "And we are his witnesses of these things; and"
+          "t": "And we are his witnesses of these things; and "
         },
         {
           "add": "so is"
         },
         {
-          "t": "also the Holy Ghost, whom God hath given to them that obey him."
+          "t": " also the Holy Ghost, whom God hath given to them that obey him. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "¶ When they heard that, they were cut to the heart, and took counsel to slay them.",
       "tokens": [
         {
-          "t": "¶ When they heard"
+          "t": "¶ When they heard "
         },
         {
           "add": "that"
         },
         {
-          "t": ", they were cut"
+          "t": ", they were cut "
         },
         {
           "add": "to the heart"
         },
         {
-          "t": ", and took counsel to slay them."
+          "t": ", and took counsel to slay them. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;",
       "tokens": [
         {
-          "t": "Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;"
+          "t": "Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space; "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men.",
       "tokens": [
         {
-          "t": "And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men."
+          "t": "And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.",
       "tokens": [
         {
-          "t": "For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought."
+          "t": "For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, even as many as obeyed him, were dispersed.",
       "tokens": [
         {
-          "t": "After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all,"
+          "t": "After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, "
         },
         {
           "add": "even"
         },
         {
-          "t": "as many as obeyed him, were dispersed."
+          "t": " as many as obeyed him, were dispersed. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:",
       "tokens": [
         {
-          "t": "And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:"
+          "t": "And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought: "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "But if it be of God, ye can not overthrow it; lest haply ye be found even to fight against God.",
       "tokens": [
         {
-          "t": "But if it be of God, ye can not overthrow it; lest haply ye be found even to fight against God."
+          "t": "But if it be of God, ye can not overthrow it; lest haply ye be found even to fight against God. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And to him they agreed: and when they had called the apostles, and beaten them, they commanded that they should not speak in the name of Jesus, and let them go.",
       "tokens": [
         {
-          "t": "And to him they agreed: and when they had called the apostles, and beaten"
+          "t": "And to him they agreed: and when they had called the apostles, and beaten "
         },
         {
           "add": "them"
         },
         {
-          "t": ", they commanded that they should not speak in the name of Jesus, and let them go."
+          "t": ", they commanded that they should not speak in the name of Jesus, and let them go. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "¶ And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.",
       "tokens": [
         {
-          "t": "¶ And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name."
+          "t": "¶ And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ.",
       "tokens": [
         {
-          "t": "And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ."
+          "t": "And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ. "
         }
       ]
     }

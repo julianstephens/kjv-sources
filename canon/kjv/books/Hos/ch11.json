@@ -7,148 +7,160 @@
   "verses": [
     {
       "v": 1,
+      "plain": "When Israel was a child, then I loved him, and called my son out of Egypt.",
       "tokens": [
         {
-          "t": "When Israel"
+          "t": "When Israel "
         },
         {
           "add": "was"
         },
         {
-          "t": "a child, then I loved him, and called my son out of Egypt."
+          "t": " a child, then I loved him, and called my son out of Egypt. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images."
+          "t": " they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.",
       "tokens": [
         {
-          "t": "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them."
+          "t": "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.",
       "tokens": [
         {
-          "t": "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them."
+          "t": "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return.",
       "tokens": [
         {
-          "t": "¶ He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return."
+          "t": "¶ He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels.",
       "tokens": [
         {
-          "t": "And the sword shall abide on his cities, and shall consume his branches, and devour"
+          "t": "And the sword shall abide on his cities, and shall consume his branches, and devour "
         },
         {
           "add": "them"
         },
         {
-          "t": ", because of their own counsels."
+          "t": ", because of their own counsels. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.",
       "tokens": [
         {
-          "t": "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt"
+          "t": "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt "
         },
         {
           "add": "him"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "How shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.",
       "tokens": [
         {
-          "t": "How shall I give thee up, Ephraim?"
+          "t": "How shall I give thee up, Ephraim? "
         },
         {
           "add": "how"
         },
         {
-          "t": "shall I deliver thee, Israel? how shall I make thee as Admah?"
+          "t": " shall I deliver thee, Israel? how shall I make thee as Admah? "
         },
         {
           "add": "how"
         },
         {
-          "t": "shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together."
+          "t": " shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city.",
       "tokens": [
         {
-          "t": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I"
+          "t": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "God, and not man; the Holy One in the midst of thee: and I will not enter into the city."
+          "t": " God, and not man; the Holy One in the midst of thee: and I will not enter into the city. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.",
       "tokens": [
         {
-          "t": "They shall walk after the"
+          "t": "They shall walk after the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": he shall roar like a lion: when he shall roar, then the children shall tremble from the west."
+          "t": ": he shall roar like a lion: when he shall roar, then the children shall tremble from the west. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.",
       "tokens": [
         {
-          "t": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the"
+          "t": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.",
       "tokens": [
         {
-          "t": "Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints."
+          "t": "Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints. "
         }
       ]
     }

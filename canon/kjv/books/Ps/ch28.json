@@ -1,0 +1,198 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 28,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.",
+      "tokens": [
+        {
+          "t": "Unto thee will I cry, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " my rock; be not silent to me: lest, "
+        },
+        {
+          "add": "if"
+        },
+        {
+          "t": " thou be silent to me, I become like them that go down into the pit. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
+      "tokens": [
+        {
+          "t": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts.",
+      "tokens": [
+        {
+          "t": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in their hearts. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
+      "tokens": [
+        {
+          "t": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up.",
+      "tokens": [
+        {
+          "t": "Because they regard not the works of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", nor the operation of his hands, he shall destroy them, and not build them up. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Blessed be the LORD, because he hath heard the voice of my supplications.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", because he hath heard the voice of my supplications. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "The LORD is their strength, and he is the saving strength of his anointed.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " their strength, and he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the saving strength of his anointed. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.",
+      "tokens": [
+        {
+          "t": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "to me: Heb. from me"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "thy…: or, the oracle of thy sanctuary"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 8
+      },
+      "text": "their: or, his"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 8
+      },
+      "text": "saving…: Heb. strength of salvations"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "feed: or, rule"
+    }
+  ]
+}

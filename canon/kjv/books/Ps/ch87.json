@@ -1,0 +1,130 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 87,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "His foundation is in the holy mountains.",
+      "tokens": [
+        {
+          "t": "His foundation "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in the holy mountains. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "The LORD loveth the gates of Zion more than all the dwellings of Jacob.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " loveth the gates of Zion more than all the dwellings of Jacob. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Glorious things are spoken of thee, O city of God. Selah.",
+      "tokens": [
+        {
+          "t": "Glorious things are spoken of thee, O city of God. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.",
+      "tokens": [
+        {
+          "t": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": " was born there. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.",
+      "tokens": [
+        {
+          "t": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "The LORD shall count, when he writeth up the people, that this man was born there. Selah.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " shall count, when he writeth up the people, "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " this "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": " was born there. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "As well the singers as the players on instruments shall be there: all my springs are in thee.",
+      "tokens": [
+        {
+          "t": "As well the singers as the players on instruments "
+        },
+        {
+          "add": "shall be there:"
+        },
+        {
+          "t": " all my springs "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " in thee. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "for the sons: or, of the sons"
+    }
+  ]
+}

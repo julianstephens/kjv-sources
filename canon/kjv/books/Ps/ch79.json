@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 79,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.",
+      "tokens": [
+        {
+          "t": "O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.",
+      "tokens": [
+        {
+          "t": "The dead bodies of thy servants have they given "
+        },
+        {
+          "add": "to be"
+        },
+        {
+          "t": " meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Their blood have they shed like water round about Jerusalem; and there was none to bury them.",
+      "tokens": [
+        {
+          "t": "Their blood have they shed like water round about Jerusalem; and "
+        },
+        {
+          "add": "there was"
+        },
+        {
+          "t": " none to bury "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "We are become a reproach to our neighbours, a scorn and derision to them that are round about us.",
+      "tokens": [
+        {
+          "t": "We are become a reproach to our neighbours, a scorn and derision to them that are round about us. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?",
+      "tokens": [
+        {
+          "t": "How long, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? wilt thou be angry for ever? shall thy jealousy burn like fire? "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name.",
+      "tokens": [
+        {
+          "t": "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "For they have devoured Jacob, and laid waste his dwelling place.",
+      "tokens": [
+        {
+          "t": "For they have devoured Jacob, and laid waste his dwelling place. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.",
+      "tokens": [
+        {
+          "t": "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name’s sake.",
+      "tokens": [
+        {
+          "t": "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name’s sake. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed.",
+      "tokens": [
+        {
+          "t": "Wherefore should the heathen say, Where "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " their God? let him be known among the heathen in our sight "
+        },
+        {
+          "add": "by"
+        },
+        {
+          "t": " the revenging of the blood of thy servants "
+        },
+        {
+          "add": "which is"
+        },
+        {
+          "t": " shed. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;",
+      "tokens": [
+        {
+          "t": "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die; "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.",
+      "tokens": [
+        {
+          "t": "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.",
+      "tokens": [
+        {
+          "t": "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "of: or, for"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 8
+      },
+      "text": "former…: or, the iniquities of them that were before us"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 10
+      },
+      "text": "revenging: Heb. vengeance"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 11
+      },
+      "text": "thy…: Heb. thine arm"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 11
+      },
+      "text": "preserve…: Heb. reserve the children of death"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 13
+      },
+      "text": "to all…: Heb. to generation and generation"
+    }
+  ]
+}

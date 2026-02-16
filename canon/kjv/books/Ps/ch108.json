@@ -7,192 +7,205 @@
   "verses": [
     {
       "v": 1,
+      "plain": "O God, my heart is fixed; I will sing and give praise, even with my glory.",
       "tokens": [
         {
-          "t": "O God, my heart is fixed; I will sing and give praise, even with my glory."
+          "t": "O God, my heart is fixed; I will sing and give praise, even with my glory. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Awake, psaltery and harp: I myself will awake early.",
       "tokens": [
         {
-          "t": "Awake, psaltery and harp: I"
+          "t": "Awake, psaltery and harp: I "
         },
         {
           "add": "myself"
         },
         {
-          "t": "will awake early."
+          "t": " will awake early. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I will praise thee, O LORD, among the people: and I will sing praises unto thee among the nations.",
       "tokens": [
         {
-          "t": "I will praise thee, O"
+          "t": "I will praise thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", among the people: and I will sing praises unto thee among the nations."
+          "t": ", among the people: and I will sing praises unto thee among the nations. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For thy mercy is great above the heavens: and thy truth reacheth unto the clouds.",
       "tokens": [
         {
-          "t": "For thy mercy"
+          "t": "For thy mercy "
         },
         {
           "add": "is"
         },
         {
-          "t": "great above the heavens: and thy truth"
+          "t": " great above the heavens: and thy truth "
         },
         {
           "add": "reacheth"
         },
         {
-          "t": "unto the clouds."
+          "t": " unto the clouds. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;",
       "tokens": [
         {
-          "t": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;"
+          "t": "Be thou exalted, O God, above the heavens: and thy glory above all the earth; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "That thy beloved may be delivered: save with thy right hand, and answer me.",
       "tokens": [
         {
-          "t": "That thy beloved may be delivered: save"
+          "t": "That thy beloved may be delivered: save "
         },
         {
           "add": "with"
         },
         {
-          "t": "thy right hand, and answer me."
+          "t": " thy right hand, and answer me. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
       "tokens": [
         {
-          "t": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."
+          "t": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;",
       "tokens": [
         {
-          "t": "Gilead"
+          "t": "Gilead "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine; Manasseh"
+          "t": " mine; Manasseh "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine; Ephraim also"
+          "t": " mine; Ephraim also "
         },
         {
           "add": "is"
         },
         {
-          "t": "the strength of mine head; Judah"
+          "t": " the strength of mine head; Judah "
         },
         {
           "add": "is"
         },
         {
-          "t": "my lawgiver;"
+          "t": " my lawgiver; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.",
       "tokens": [
         {
-          "t": "Moab"
+          "t": "Moab "
         },
         {
           "add": "is"
         },
         {
-          "t": "my washpot; over Edom will I cast out my shoe; over Philistia will I triumph."
+          "t": " my washpot; over Edom will I cast out my shoe; over Philistia will I triumph. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Who will bring me into the strong city? who will lead me into Edom?",
       "tokens": [
         {
-          "t": "Who will bring me into the strong city? who will lead me into Edom?"
+          "t": "Who will bring me into the strong city? who will lead me into Edom? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Wilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our hosts?",
       "tokens": [
         {
           "add": "Wilt"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "thou"
         },
         {
-          "t": ", O God,"
+          "t": ", O God, "
         },
         {
           "add": "who"
         },
         {
-          "t": "hast cast us off? and wilt not thou, O God, go forth with our hosts?"
+          "t": " hast cast us off? and wilt not thou, O God, go forth with our hosts? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Give us help from trouble: for vain is the help of man.",
       "tokens": [
         {
-          "t": "Give us help from trouble: for vain"
+          "t": "Give us help from trouble: for vain "
         },
         {
           "add": "is"
         },
         {
-          "t": "the help of man."
+          "t": " the help of man. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Through God we shall do valiantly: for he it is that shall tread down our enemies.",
       "tokens": [
         {
-          "t": "Through God we shall do valiantly: for he"
+          "t": "Through God we shall do valiantly: for he "
         },
         {
           "add": "it is that"
         },
         {
-          "t": "shall tread down our enemies."
+          "t": " shall tread down our enemies. "
         }
       ]
     }

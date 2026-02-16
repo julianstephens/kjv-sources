@@ -7,331 +7,355 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.",
       "tokens": [
         {
-          "t": "And the children of Israel again did evil in the sight of the"
+          "t": "And the children of Israel again did evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", when Ehud was dead."
+          "t": ", when Ehud was dead. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host"
+          "t": " sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host "
         },
         {
           "add": "was"
         },
         {
-          "t": "Sisera, which dwelt in Harosheth of the Gentiles."
+          "t": " Sisera, which dwelt in Harosheth of the Gentiles. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the children of Israel cried unto the LORD: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.",
       "tokens": [
         {
-          "t": "And the children of Israel cried unto the"
+          "t": "And the children of Israel cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel."
+          "t": ": for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.",
       "tokens": [
         {
-          "t": "¶ And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time."
+          "t": "¶ And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And she dwelt under the palm tree of Deborah between Ramah and Beth-el in mount Ephraim: and the children of Israel came up to her for judgment.",
       "tokens": [
         {
-          "t": "And she dwelt under the palm tree of Deborah between Ramah and Beth-el in mount Ephraim: and the children of Israel came up to her for judgment."
+          "t": "And she dwelt under the palm tree of Deborah between Ramah and Beth-el in mount Ephraim: and the children of Israel came up to her for judgment. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him, Hath not the LORD God of Israel commanded, saying, Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?",
       "tokens": [
         {
-          "t": "And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him, Hath not the"
+          "t": "And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him, Hath not the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel commanded,"
+          "t": " God of Israel commanded, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?"
+          "t": ", Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And I will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thine hand.",
       "tokens": [
         {
-          "t": "And I will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thine hand."
+          "t": "And I will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thine hand. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me, then I will not go.",
       "tokens": [
         {
-          "t": "And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me,"
+          "t": "And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me, "
         },
         {
           "add": "then"
         },
         {
-          "t": "I will not go."
+          "t": " I will not go. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.",
       "tokens": [
         {
-          "t": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the"
+          "t": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh."
+          "t": " shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.",
       "tokens": [
         {
-          "t": "¶ And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him."
+          "t": "¶ And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Now Heber the Kenite, which was of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which is by Kedesh.",
       "tokens": [
         {
-          "t": "Now Heber the Kenite,"
+          "t": "Now Heber the Kenite, "
         },
         {
           "add": "which was"
         },
         {
-          "t": "of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which"
+          "t": " of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "by Kedesh."
+          "t": " by Kedesh. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor.",
       "tokens": [
         {
-          "t": "And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor."
+          "t": "And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people that were with him, from Harosheth of the Gentiles unto the river of Kishon.",
       "tokens": [
         {
-          "t": "And Sisera gathered together all his chariots,"
+          "t": "And Sisera gathered together all his chariots, "
         },
         {
           "add": "even"
         },
         {
-          "t": "nine hundred chariots of iron, and all the people that"
+          "t": " nine hundred chariots of iron, and all the people that "
         },
         {
           "add": "were"
         },
         {
-          "t": "with him, from Harosheth of the Gentiles unto the river of Kishon."
+          "t": " with him, from Harosheth of the Gentiles unto the river of Kishon. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Deborah said unto Barak, Up; for this is the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him.",
       "tokens": [
         {
-          "t": "And Deborah said unto Barak, Up; for this"
+          "t": "And Deborah said unto Barak, Up; for this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the day in which the"
+          "t": " the day in which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath delivered Sisera into thine hand: is not the"
+          "t": " hath delivered Sisera into thine hand: is not the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him."
+          "t": " gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the LORD discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; so that Sisera lighted down off his chariot, and fled away on his feet.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "discomfited Sisera, and all"
+          "t": " discomfited Sisera, and all "
         },
         {
           "add": "his"
         },
         {
-          "t": "chariots, and all"
+          "t": " chariots, and all "
         },
         {
           "add": "his"
         },
         {
-          "t": "host, with the edge of the sword before Barak; so that Sisera lighted down off"
+          "t": " host, with the edge of the sword before Barak; so that Sisera lighted down off "
         },
         {
           "add": "his"
         },
         {
-          "t": "chariot, and fled away on his feet."
+          "t": " chariot, and fled away on his feet. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; and there was not a man left.",
       "tokens": [
         {
-          "t": "But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword;"
+          "t": "But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; "
         },
         {
           "add": "and"
         },
         {
-          "t": "there was not a man left."
+          "t": " there was not a man left. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.",
       "tokens": [
         {
-          "t": "Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for"
+          "t": "Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for "
         },
         {
           "add": "there was"
         },
         {
-          "t": "peace between Jabin the king of Hazor and the house of Heber the Kenite."
+          "t": " peace between Jabin the king of Hazor and the house of Heber the Kenite. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle.",
       "tokens": [
         {
-          "t": "¶ And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle."
+          "t": "¶ And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him.",
       "tokens": [
         {
-          "t": "And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him."
+          "t": "And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and enquire of thee, and say, Is there any man here? that thou shalt say, No.",
       "tokens": [
         {
-          "t": "Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and enquire of thee, and say, Is there any man here? that thou shalt say, No."
+          "t": "Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and enquire of thee, and say, Is there any man here? that thou shalt say, No. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.",
       "tokens": [
         {
-          "t": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died."
+          "t": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her tent, behold, Sisera lay dead, and the nail was in his temples.",
       "tokens": [
         {
-          "t": "And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her"
+          "t": "And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her "
         },
         {
           "add": "tent"
         },
         {
-          "t": ", behold, Sisera lay dead, and the nail"
+          "t": ", behold, Sisera lay dead, and the nail "
         },
         {
           "add": "was"
         },
         {
-          "t": "in his temples."
+          "t": " in his temples. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "So God subdued on that day Jabin the king of Canaan before the children of Israel.",
       "tokens": [
         {
-          "t": "So God subdued on that day Jabin the king of Canaan before the children of Israel."
+          "t": "So God subdued on that day Jabin the king of Canaan before the children of Israel. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.",
       "tokens": [
         {
-          "t": "And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan."
+          "t": "And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan. "
         }
       ]
     }

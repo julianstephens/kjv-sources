@@ -7,591 +7,631 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.",
       "tokens": [
         {
-          "t": "And it came to pass, when king Hezekiah heard"
+          "t": "And it came to pass, when king Hezekiah heard "
         },
         {
           "add": "it"
         },
         {
-          "t": ", that he rent his clothes, and covered himself with sackcloth, and went into the house of the"
+          "t": ", that he rent his clothes, and covered himself with sackcloth, and went into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And he sent Eliakim, which was over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz.",
       "tokens": [
         {
-          "t": "And he sent Eliakim, which"
+          "t": "And he sent Eliakim, which "
         },
         {
           "add": "was"
         },
         {
-          "t": "over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz."
+          "t": " over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And they said unto him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and there is not strength to bring forth.",
       "tokens": [
         {
-          "t": "And they said unto him, Thus saith Hezekiah, This day"
+          "t": "And they said unto him, Thus saith Hezekiah, This day "
         },
         {
           "add": "is"
         },
         {
-          "t": "a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and"
+          "t": " a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and "
         },
         {
           "add": "there is"
         },
         {
-          "t": "not strength to bring forth."
+          "t": " not strength to bring forth. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "It may be the LORD thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the LORD thy God hath heard: wherefore lift up thy prayer for the remnant that are left.",
       "tokens": [
         {
-          "t": "It may be the"
+          "t": "It may be the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the"
+          "t": " thy God will hear all the words of Rab-shakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath heard: wherefore lift up"
+          "t": " thy God hath heard: wherefore lift up "
         },
         {
           "add": "thy"
         },
         {
-          "t": "prayer for the remnant that are left."
+          "t": " prayer for the remnant that are left. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "So the servants of king Hezekiah came to Isaiah.",
       "tokens": [
         {
-          "t": "So the servants of king Hezekiah came to Isaiah."
+          "t": "So the servants of king Hezekiah came to Isaiah. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me.",
       "tokens": [
         {
-          "t": "¶ And Isaiah said unto them, Thus shall ye say to your master, Thus saith the"
+          "t": "¶ And Isaiah said unto them, Thus shall ye say to your master, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me."
+          "t": ", Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land.",
       "tokens": [
         {
-          "t": "Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land."
+          "t": "Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.",
       "tokens": [
         {
-          "t": "¶ So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish."
+          "t": "¶ So Rab-shakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,",
       "tokens": [
         {
-          "t": "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,"
+          "t": "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria.",
       "tokens": [
         {
-          "t": "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria."
+          "t": "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?",
       "tokens": [
         {
-          "t": "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?"
+          "t": "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Have the gods of the nations delivered them which my fathers have destroyed; as Gozan, and Haran, and Rezeph, and the children of Eden which were in Thelasar?",
       "tokens": [
         {
-          "t": "Have the gods of the nations delivered them which my fathers have destroyed;"
+          "t": "Have the gods of the nations delivered them which my fathers have destroyed; "
         },
         {
           "add": "as"
         },
         {
-          "t": "Gozan, and Haran, and Rezeph, and the children of Eden which"
+          "t": " Gozan, and Haran, and Rezeph, and the children of Eden which "
         },
         {
           "add": "were"
         },
         {
-          "t": "in Thelasar?"
+          "t": " in Thelasar? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Where is the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?",
       "tokens": [
         {
-          "t": "Where"
+          "t": "Where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?"
+          "t": " the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD.",
       "tokens": [
         {
-          "t": "¶ And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the"
+          "t": "¶ And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and spread it before the"
+          "t": ", and spread it before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest between the cherubims, thou art the God, even thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.",
       "tokens": [
         {
-          "t": "And Hezekiah prayed before the"
+          "t": "And Hezekiah prayed before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said, O"
+          "t": ", and said, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, which dwellest"
+          "t": " God of Israel, which dwellest "
         },
         {
           "add": "between"
         },
         {
-          "t": "the cherubims, thou art the God,"
+          "t": " the cherubims, thou art the God, "
         },
         {
           "add": "even"
         },
         {
-          "t": "thou alone, of all the kingdoms of the earth; thou hast made heaven and earth."
+          "t": " thou alone, of all the kingdoms of the earth; thou hast made heaven and earth. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God.",
       "tokens": [
         {
           "nd": "LORD"
         },
         {
-          "t": ", bow down thine ear, and hear: open,"
+          "t": ", bow down thine ear, and hear: open, "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God."
+          "t": ", thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,",
       "tokens": [
         {
-          "t": "Of a truth,"
+          "t": "Of a truth, "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the kings of Assyria have destroyed the nations and their lands,"
+          "t": ", the kings of Assyria have destroyed the nations and their lands, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And have cast their gods into the fire: for they were no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them.",
       "tokens": [
         {
-          "t": "And have cast their gods into the fire: for they"
+          "t": "And have cast their gods into the fire: for they "
         },
         {
           "add": "were"
         },
         {
-          "t": "no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them."
+          "t": " no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou art the LORD God, even thou only.",
       "tokens": [
         {
-          "t": "Now therefore, O"
+          "t": "Now therefore, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou"
+          "t": " our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God,"
+          "t": " God, "
         },
         {
           "add": "even"
         },
         {
-          "t": "thou only."
+          "t": " thou only. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, That which thou hast prayed to me against Sennacherib king of Assyria I have heard.",
       "tokens": [
         {
-          "t": "¶ Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the"
+          "t": "¶ Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel,"
+          "t": " God of Israel, "
         },
         {
           "add": "That"
         },
         {
-          "t": "which thou hast prayed to me against Sennacherib king of Assyria I have heard."
+          "t": " which thou hast prayed to me against Sennacherib king of Assyria I have heard. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "This is the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, and laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the word that the"
+          "t": " the word that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath spoken concerning him; The virgin the daughter of Zion hath despised thee,"
+          "t": " hath spoken concerning him; The virgin the daughter of Zion hath despised thee, "
         },
         {
           "add": "and"
         },
         {
-          "t": "laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee."
+          "t": " laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Whom hast thou reproached and blasphemed? and against whom hast thou exalted thy voice, and lifted up thine eyes on high? even against the Holy One of Israel.",
       "tokens": [
         {
-          "t": "Whom hast thou reproached and blasphemed? and against whom hast thou exalted"
+          "t": "Whom hast thou reproached and blasphemed? and against whom hast thou exalted "
         },
         {
           "add": "thy"
         },
         {
-          "t": "voice, and lifted up thine eyes on high?"
+          "t": " voice, and lifted up thine eyes on high? "
         },
         {
           "add": "even"
         },
         {
-          "t": "against the Holy"
+          "t": " against the Holy "
         },
         {
           "add": "One"
         },
         {
-          "t": "of Israel."
+          "t": " of Israel. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, and the choice fir trees thereof: and I will enter into the lodgings of his borders, and into the forest of his Carmel.",
       "tokens": [
         {
-          "t": "By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof,"
+          "t": "By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the choice fir trees thereof: and I will enter into the lodgings of his borders,"
+          "t": " the choice fir trees thereof: and I will enter into the lodgings of his borders, "
         },
         {
           "add": "and into"
         },
         {
-          "t": "the forest of his Carmel."
+          "t": " the forest of his Carmel. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places.",
       "tokens": [
         {
-          "t": "I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places."
+          "t": "I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Hast thou not heard long ago how I have done it, and of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities into ruinous heaps.",
       "tokens": [
         {
-          "t": "Hast thou not heard long ago"
+          "t": "Hast thou not heard long ago "
         },
         {
           "add": "how"
         },
         {
-          "t": "I have done it,"
+          "t": " I have done it, "
         },
         {
           "add": "and"
         },
         {
-          "t": "of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities"
+          "t": " of ancient times that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste fenced cities "
         },
         {
           "add": "into"
         },
         {
-          "t": "ruinous heaps."
+          "t": " ruinous heaps. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the housetops, and as corn blasted before it be grown up.",
       "tokens": [
         {
-          "t": "Therefore their inhabitants were of small power, they were dismayed and confounded; they were"
+          "t": "Therefore their inhabitants were of small power, they were dismayed and confounded; they were "
         },
         {
           "add": "as"
         },
         {
-          "t": "the grass of the field, and"
+          "t": " the grass of the field, and "
         },
         {
           "add": "as"
         },
         {
-          "t": "the green herb,"
+          "t": " the green herb, "
         },
         {
           "add": "as"
         },
         {
-          "t": "the grass on the housetops, and"
+          "t": " the grass on the housetops, and "
         },
         {
           "add": "as corn"
         },
         {
-          "t": "blasted before it be grown up."
+          "t": " blasted before it be grown up. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "But I know thy abode, and thy going out, and thy coming in, and thy rage against me.",
       "tokens": [
         {
-          "t": "But I know thy abode, and thy going out, and thy coming in, and thy rage against me."
+          "t": "But I know thy abode, and thy going out, and thy coming in, and thy rage against me. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.",
       "tokens": [
         {
-          "t": "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest."
+          "t": "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And this shall be a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof.",
       "tokens": [
         {
-          "t": "And this"
+          "t": "And this "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof."
+          "t": " a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward.",
       "tokens": [
         {
-          "t": "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward."
+          "t": "And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD of hosts shall do this.",
       "tokens": [
         {
-          "t": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the"
+          "t": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": " of hosts"
         },
         {
-          "t": "shall do this."
+          "t": " shall do this. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.",
       "tokens": [
         {
-          "t": "Therefore thus saith the"
+          "t": "Therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it."
+          "t": " concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD.",
       "tokens": [
         {
-          "t": "By the way that he came, by the same shall he return, and shall not come into this city, saith the"
+          "t": "By the way that he came, by the same shall he return, and shall not come into this city, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "For I will defend this city, to save it, for mine own sake, and for my servant David’s sake.",
       "tokens": [
         {
-          "t": "For I will defend this city, to save it, for mine own sake, and for my servant David’s sake."
+          "t": "For I will defend this city, to save it, for mine own sake, and for my servant David’s sake. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "¶ And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses.",
       "tokens": [
         {
-          "t": "¶ And it came to pass that night, that the angel of the"
+          "t": "¶ And it came to pass that night, that the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they"
+          "t": " went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they "
         },
         {
           "add": "were"
         },
         {
-          "t": "all dead corpses."
+          "t": " all dead corpses. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.",
       "tokens": [
         {
-          "t": "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh."
+          "t": "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esar-haddon his son reigned in his stead.",
       "tokens": [
         {
-          "t": "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esar-haddon his son reigned in his stead."
+          "t": "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esar-haddon his son reigned in his stead. "
         }
       ]
     }

@@ -7,860 +7,907 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Speak unto the children of Israel, and say unto them, Concerning the feasts of the LORD, which ye shall proclaim to be holy convocations, even these are my feasts.",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, and say unto them,"
+          "t": "Speak unto the children of Israel, and say unto them, "
         },
         {
           "add": "Concerning"
         },
         {
-          "t": "the feasts of the"
+          "t": " the feasts of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which ye shall proclaim"
+          "t": ", which ye shall proclaim "
         },
         {
           "add": "to be"
         },
         {
-          "t": "holy convocations,"
+          "t": " holy convocations, "
         },
         {
           "add": "even"
         },
         {
-          "t": "these"
+          "t": " these "
         },
         {
           "add": "are"
         },
         {
-          "t": "my feasts."
+          "t": " my feasts. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the LORD in all your dwellings.",
       "tokens": [
         {
-          "t": "Six days shall work be done: but the seventh day"
+          "t": "Six days shall work be done: but the seventh day "
         },
         {
           "add": "is"
         },
         {
-          "t": "the sabbath of rest, an holy convocation; ye shall do no work"
+          "t": " the sabbath of rest, an holy convocation; ye shall do no work "
         },
         {
           "add": "therein:"
         },
         {
-          "t": "it"
+          "t": " it "
         },
         {
           "add": "is"
         },
         {
-          "t": "the sabbath of the"
+          "t": " the sabbath of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in all your dwellings."
+          "t": " in all your dwellings. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ These are the feasts of the LORD, even holy convocations, which ye shall proclaim in their seasons.",
       "tokens": [
         {
-          "t": "¶ These"
+          "t": "¶ These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the feasts of the"
+          "t": " the feasts of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "even"
         },
         {
-          "t": "holy convocations, which ye shall proclaim in their seasons."
+          "t": " holy convocations, which ye shall proclaim in their seasons. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "In the fourteenth day of the first month at even is the LORD’s passover.",
       "tokens": [
         {
-          "t": "In the fourteenth"
+          "t": "In the fourteenth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the first month at even"
+          "t": " of the first month at even "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "passover."
+          "t": " passover. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And on the fifteenth day of the same month is the feast of unleavened bread unto the LORD: seven days ye must eat unleavened bread.",
       "tokens": [
         {
-          "t": "And on the fifteenth day of the same month"
+          "t": "And on the fifteenth day of the same month "
         },
         {
           "add": "is"
         },
         {
-          "t": "the feast of unleavened bread unto the"
+          "t": " the feast of unleavened bread unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": seven days ye must eat unleavened bread."
+          "t": ": seven days ye must eat unleavened bread. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "In the first day ye shall have an holy convocation: ye shall do no servile work therein.",
       "tokens": [
         {
-          "t": "In the first day ye shall have an holy convocation: ye shall do no servile work therein."
+          "t": "In the first day ye shall have an holy convocation: ye shall do no servile work therein. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But ye shall offer an offering made by fire unto the LORD seven days: in the seventh day is an holy convocation: ye shall do no servile work therein.",
       "tokens": [
         {
-          "t": "But ye shall offer an offering made by fire unto the"
+          "t": "But ye shall offer an offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "seven days: in the seventh day"
+          "t": " seven days: in the seventh day "
         },
         {
           "add": "is"
         },
         {
-          "t": "an holy convocation: ye shall do no servile work"
+          "t": " an holy convocation: ye shall do no servile work "
         },
         {
           "add": "therein"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:"
+          "t": "Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And he shall wave the sheaf before the LORD, to be accepted for you: on the morrow after the sabbath the priest shall wave it.",
       "tokens": [
         {
-          "t": "And he shall wave the sheaf before the"
+          "t": "And he shall wave the sheaf before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to be accepted for you: on the morrow after the sabbath the priest shall wave it."
+          "t": ", to be accepted for you: on the morrow after the sabbath the priest shall wave it. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And ye shall offer that day when ye wave the sheaf an he lamb without blemish of the first year for a burnt offering unto the LORD.",
       "tokens": [
         {
-          "t": "And ye shall offer that day when ye wave the sheaf an he lamb without blemish of the first year for a burnt offering unto the"
+          "t": "And ye shall offer that day when ye wave the sheaf an he lamb without blemish of the first year for a burnt offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the meat offering thereof shall be two tenth deals of fine flour mingled with oil, an offering made by fire unto the LORD for a sweet savour: and the drink offering thereof shall be of wine, the fourth part of an hin.",
       "tokens": [
         {
-          "t": "And the meat offering thereof"
+          "t": "And the meat offering thereof "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "two tenth deals of fine flour mingled with oil, an offering made by fire unto the"
+          "t": " two tenth deals of fine flour mingled with oil, an offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "for"
         },
         {
-          "t": "a sweet savour: and the drink offering thereof"
+          "t": " a sweet savour: and the drink offering thereof "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "of wine, the fourth"
+          "t": " of wine, the fourth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of an hin."
+          "t": " of an hin. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: it shall be a statute for ever throughout your generations in all your dwellings.",
       "tokens": [
         {
-          "t": "And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God:"
+          "t": "And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: "
         },
         {
           "add": "it shall be"
         },
         {
-          "t": "a statute for ever throughout your generations in all your dwellings."
+          "t": " a statute for ever throughout your generations in all your dwellings. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:",
       "tokens": [
         {
-          "t": "¶ And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:"
+          "t": "¶ And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD.",
       "tokens": [
         {
-          "t": "Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the"
+          "t": "Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; they are the firstfruits unto the LORD.",
       "tokens": [
         {
-          "t": "Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven;"
+          "t": "Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; "
         },
         {
           "add": "they are"
         },
         {
-          "t": "the firstfruits unto the"
+          "t": " the firstfruits unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be for a burnt offering unto the LORD, with their meat offering, and their drink offerings, even an offering made by fire, of sweet savour unto the LORD.",
       "tokens": [
         {
-          "t": "And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be"
+          "t": "And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be "
         },
         {
           "add": "for"
         },
         {
-          "t": "a burnt offering unto the"
+          "t": " a burnt offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", with their meat offering, and their drink offerings,"
+          "t": ", with their meat offering, and their drink offerings, "
         },
         {
           "add": "even"
         },
         {
-          "t": "an offering made by fire, of sweet savour unto the"
+          "t": " an offering made by fire, of sweet savour unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings.",
       "tokens": [
         {
-          "t": "Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings."
+          "t": "Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the priest shall wave them with the bread of the firstfruits for a wave offering before the LORD, with the two lambs: they shall be holy to the LORD for the priest.",
       "tokens": [
         {
-          "t": "And the priest shall wave them with the bread of the firstfruits"
+          "t": "And the priest shall wave them with the bread of the firstfruits "
         },
         {
           "add": "for"
         },
         {
-          "t": "a wave offering before the"
+          "t": " a wave offering before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", with the two lambs: they shall be holy to the"
+          "t": ", with the two lambs: they shall be holy to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for the priest."
+          "t": " for the priest. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And ye shall proclaim on the selfsame day, that it may be an holy convocation unto you: ye shall do no servile work therein: it shall be a statute for ever in all your dwellings throughout your generations.",
       "tokens": [
         {
-          "t": "And ye shall proclaim on the selfsame day,"
+          "t": "And ye shall proclaim on the selfsame day, "
         },
         {
           "add": "that"
         },
         {
-          "t": "it may be an holy convocation unto you: ye shall do no servile work"
+          "t": " it may be an holy convocation unto you: ye shall do no servile work "
         },
         {
           "add": "therein: it shall be"
         },
         {
-          "t": "a statute for ever in all your dwellings throughout your generations."
+          "t": " a statute for ever in all your dwellings throughout your generations. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I am the LORD your God.",
       "tokens": [
         {
-          "t": "¶ And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I"
+          "t": "¶ And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Speak unto the children of Israel, saying, In the seventh month, in the first day of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation.",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, saying, In the seventh month, in the first"
+          "t": "Speak unto the children of Israel, saying, In the seventh month, in the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation."
+          "t": " of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Ye shall do no servile work therein: but ye shall offer an offering made by fire unto the LORD.",
       "tokens": [
         {
-          "t": "Ye shall do no servile work"
+          "t": "Ye shall do no servile work "
         },
         {
           "add": "therein:"
         },
         {
-          "t": "but ye shall offer an offering made by fire unto the"
+          "t": " but ye shall offer an offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD.",
       "tokens": [
         {
-          "t": "Also on the tenth"
+          "t": "Also on the tenth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of this seventh month"
+          "t": " of this seventh month "
         },
         {
           "add": "there shall be"
         },
         {
-          "t": "a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the"
+          "t": " a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the LORD your God.",
       "tokens": [
         {
-          "t": "And ye shall do no work in that same day: for it"
+          "t": "And ye shall do no work in that same day: for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a day of atonement, to make an atonement for you before the"
+          "t": " a day of atonement, to make an atonement for you before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off from among his people.",
       "tokens": [
         {
-          "t": "For whatsoever soul"
+          "t": "For whatsoever soul "
         },
         {
           "add": "it be"
         },
         {
-          "t": "that shall not be afflicted in that same day, he shall be cut off from among his people."
+          "t": " that shall not be afflicted in that same day, he shall be cut off from among his people. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And whatsoever soul it be that doeth any work in that same day, the same soul will I destroy from among his people.",
       "tokens": [
         {
-          "t": "And whatsoever soul"
+          "t": "And whatsoever soul "
         },
         {
           "add": "it be"
         },
         {
-          "t": "that doeth any work in that same day, the same soul will I destroy from among his people."
+          "t": " that doeth any work in that same day, the same soul will I destroy from among his people. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Ye shall do no manner of work: it shall be a statute for ever throughout your generations in all your dwellings.",
       "tokens": [
         {
-          "t": "Ye shall do no manner of work:"
+          "t": "Ye shall do no manner of work: "
         },
         {
           "add": "it shall be"
         },
         {
-          "t": "a statute for ever throughout your generations in all your dwellings."
+          "t": " a statute for ever throughout your generations in all your dwellings. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "It shall be unto you a sabbath of rest, and ye shall afflict your souls: in the ninth day of the month at even, from even unto even, shall ye celebrate your sabbath.",
       "tokens": [
         {
-          "t": "It"
+          "t": "It "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "unto you a sabbath of rest, and ye shall afflict your souls: in the ninth"
+          "t": " unto you a sabbath of rest, and ye shall afflict your souls: in the ninth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month at even, from even unto even, shall ye celebrate your sabbath."
+          "t": " of the month at even, from even unto even, shall ye celebrate your sabbath. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month shall be the feast of tabernacles for seven days unto the LORD.",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month"
+          "t": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the feast of tabernacles"
+          "t": " the feast of tabernacles "
         },
         {
           "add": "for"
         },
         {
-          "t": "seven days unto the"
+          "t": " seven days unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "On the first day shall be an holy convocation: ye shall do no servile work therein.",
       "tokens": [
         {
-          "t": "On the first day"
+          "t": "On the first day "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "an holy convocation: ye shall do no servile work"
+          "t": " an holy convocation: ye shall do no servile work "
         },
         {
           "add": "therein"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it is a solemn assembly; and ye shall do no servile work therein.",
       "tokens": [
         {
-          "t": "Seven days ye shall offer an offering made by fire unto the"
+          "t": "Seven days ye shall offer an offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the"
+          "t": ": on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": it"
+          "t": ": it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a solemn assembly;"
+          "t": " a solemn assembly; "
         },
         {
           "add": "and"
         },
         {
-          "t": "ye shall do no servile work"
+          "t": " ye shall do no servile work "
         },
         {
           "add": "therein"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "These are the feasts of the LORD, which ye shall proclaim to be holy convocations, to offer an offering made by fire unto the LORD, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the feasts of the"
+          "t": " the feasts of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which ye shall proclaim"
+          "t": ", which ye shall proclaim "
         },
         {
           "add": "to be"
         },
         {
-          "t": "holy convocations, to offer an offering made by fire unto the"
+          "t": " holy convocations, to offer an offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:"
+          "t": ", a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day: "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the LORD.",
       "tokens": [
         {
-          "t": "Beside the sabbaths of the"
+          "t": "Beside the sabbaths of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the"
+          "t": ", and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the LORD seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath.",
       "tokens": [
         {
-          "t": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the"
+          "t": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "seven days: on the first day"
+          "t": " seven days: on the first day "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a sabbath, and on the eighth day"
+          "t": " a sabbath, and on the eighth day "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a sabbath."
+          "t": " a sabbath. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days.",
       "tokens": [
         {
-          "t": "And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the"
+          "t": "And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God seven days."
+          "t": " your God seven days. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And ye shall keep it a feast unto the LORD seven days in the year. It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month.",
       "tokens": [
         {
-          "t": "And ye shall keep it a feast unto the"
+          "t": "And ye shall keep it a feast unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "seven days in the year."
+          "t": " seven days in the year. "
         },
         {
           "add": "It shall be"
         },
         {
-          "t": "a statute for ever in your generations: ye shall celebrate it in the seventh month."
+          "t": " a statute for ever in your generations: ye shall celebrate it in the seventh month. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:",
       "tokens": [
         {
-          "t": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:"
+          "t": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths: "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I am the LORD your God.",
       "tokens": [
         {
-          "t": "That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I"
+          "t": "That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And Moses declared unto the children of Israel the feasts of the LORD.",
       "tokens": [
         {
-          "t": "And Moses declared unto the children of Israel the feasts of the"
+          "t": "And Moses declared unto the children of Israel the feasts of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

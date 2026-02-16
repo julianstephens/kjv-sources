@@ -1,0 +1,132 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 93,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " reigneth, he is clothed with majesty; the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " is clothed with strength, "
+        },
+        {
+          "add": "wherewith"
+        },
+        {
+          "t": " he hath girded himself: the world also is stablished, that it cannot be moved. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Thy throne is established of old: thou art from everlasting.",
+      "tokens": [
+        {
+          "t": "Thy throne "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " established of old: thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " from everlasting. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.",
+      "tokens": [
+        {
+          "t": "The floods have lifted up, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", the floods have lifted up their voice; the floods lift up their waves. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " on high "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " mightier than the noise of many waters, "
+        },
+        {
+          "add": "yea, than"
+        },
+        {
+          "t": " the mighty waves of the sea. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.",
+      "tokens": [
+        {
+          "t": "Thy testimonies are very sure: holiness becometh thine house, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", for ever. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "of old: Heb. from then"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "for ever: Heb. to length of days"
+    }
+  ]
+}

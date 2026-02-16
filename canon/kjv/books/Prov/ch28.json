@@ -7,426 +7,454 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
       "tokens": [
         {
-          "t": "The wicked flee when no man pursueth: but the righteous are bold as a lion."
+          "t": "The wicked flee when no man pursueth: but the righteous are bold as a lion. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.",
       "tokens": [
         {
-          "t": "For the transgression of a land many"
+          "t": "For the transgression of a land many "
         },
         {
           "add": "are"
         },
         {
-          "t": "the princes thereof: but by a man of understanding"
+          "t": " the princes thereof: but by a man of understanding "
         },
         {
           "add": "and"
         },
         {
-          "t": "knowledge the state"
+          "t": " knowledge the state "
         },
         {
           "add": "thereof"
         },
         {
-          "t": "shall be prolonged."
+          "t": " shall be prolonged. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "A poor man that oppresseth the poor is like a sweeping rain which leaveth no food.",
       "tokens": [
         {
-          "t": "A poor man that oppresseth the poor"
+          "t": "A poor man that oppresseth the poor "
         },
         {
           "add": "is like"
         },
         {
-          "t": "a sweeping rain which leaveth no food."
+          "t": " a sweeping rain which leaveth no food. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "They that forsake the law praise the wicked: but such as keep the law contend with them.",
       "tokens": [
         {
-          "t": "They that forsake the law praise the wicked: but such as keep the law contend with them."
+          "t": "They that forsake the law praise the wicked: but such as keep the law contend with them. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Evil men understand not judgment: but they that seek the LORD understand all things.",
       "tokens": [
         {
-          "t": "Evil men understand not judgment: but they that seek the"
+          "t": "Evil men understand not judgment: but they that seek the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "understand all"
+          "t": " understand all "
         },
         {
           "add": "things"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.",
       "tokens": [
         {
-          "t": "Better"
+          "t": "Better "
         },
         {
           "add": "is"
         },
         {
-          "t": "the poor that walketh in his uprightness, than"
+          "t": " the poor that walketh in his uprightness, than "
         },
         {
           "add": "he that is"
         },
         {
-          "t": "perverse"
+          "t": " perverse "
         },
         {
           "add": "in his"
         },
         {
-          "t": "ways, though he"
+          "t": " ways, though he "
         },
         {
           "add": "be"
         },
         {
-          "t": "rich."
+          "t": " rich. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father.",
       "tokens": [
         {
-          "t": "Whoso keepeth the law"
+          "t": "Whoso keepeth the law "
         },
         {
           "add": "is"
         },
         {
-          "t": "a wise son: but he that is a companion of riotous"
+          "t": " a wise son: but he that is a companion of riotous "
         },
         {
           "add": "men"
         },
         {
-          "t": "shameth his father."
+          "t": " shameth his father. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
       "tokens": [
         {
-          "t": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor."
+          "t": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He that turneth away his ear from hearing the law, even his prayer shall be abomination.",
       "tokens": [
         {
-          "t": "He that turneth away his ear from hearing the law, even his prayer"
+          "t": "He that turneth away his ear from hearing the law, even his prayer "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "abomination."
+          "t": " abomination. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession.",
       "tokens": [
         {
-          "t": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good"
+          "t": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good "
         },
         {
           "add": "things"
         },
         {
-          "t": "in possession."
+          "t": " in possession. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The rich man is wise in his own conceit; but the poor that hath understanding searcheth him out.",
       "tokens": [
         {
-          "t": "The rich man"
+          "t": "The rich man "
         },
         {
           "add": "is"
         },
         {
-          "t": "wise in his own conceit; but the poor that hath understanding searcheth him out."
+          "t": " wise in his own conceit; but the poor that hath understanding searcheth him out. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.",
       "tokens": [
         {
-          "t": "When righteous"
+          "t": "When righteous "
         },
         {
           "add": "men"
         },
         {
-          "t": "do rejoice,"
+          "t": " do rejoice, "
         },
         {
           "add": "there is"
         },
         {
-          "t": "great glory: but when the wicked rise, a man is hidden."
+          "t": " great glory: but when the wicked rise, a man is hidden. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.",
       "tokens": [
         {
-          "t": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh"
+          "t": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh "
         },
         {
           "add": "them"
         },
         {
-          "t": "shall have mercy."
+          "t": " shall have mercy. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.",
       "tokens": [
         {
-          "t": "Happy"
+          "t": "Happy "
         },
         {
           "add": "is"
         },
         {
-          "t": "the man that feareth alway: but he that hardeneth his heart shall fall into mischief."
+          "t": " the man that feareth alway: but he that hardeneth his heart shall fall into mischief. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "a roaring lion, and a ranging bear;"
+          "t": " a roaring lion, and a ranging bear; "
         },
         {
           "add": "so is"
         },
         {
-          "t": "a wicked ruler over the poor people."
+          "t": " a wicked ruler over the poor people. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days.",
       "tokens": [
         {
-          "t": "The prince that wanteth understanding"
+          "t": "The prince that wanteth understanding "
         },
         {
           "add": "is"
         },
         {
-          "t": "also a great oppressor:"
+          "t": " also a great oppressor: "
         },
         {
           "add": "but"
         },
         {
-          "t": "he that hateth covetousness shall prolong"
+          "t": " he that hateth covetousness shall prolong "
         },
         {
           "add": "his"
         },
         {
-          "t": "days."
+          "t": " days. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.",
       "tokens": [
         {
-          "t": "A man that doeth violence to the blood of"
+          "t": "A man that doeth violence to the blood of "
         },
         {
           "add": "any"
         },
         {
-          "t": "person shall flee to the pit; let no man stay him."
+          "t": " person shall flee to the pit; let no man stay him. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once.",
       "tokens": [
         {
-          "t": "Whoso walketh uprightly shall be saved: but"
+          "t": "Whoso walketh uprightly shall be saved: but "
         },
         {
           "add": "he that is"
         },
         {
-          "t": "perverse"
+          "t": " perverse "
         },
         {
           "add": "in his"
         },
         {
-          "t": "ways shall fall at once."
+          "t": " ways shall fall at once. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.",
       "tokens": [
         {
-          "t": "He that tilleth his land shall have plenty of bread: but he that followeth after vain"
+          "t": "He that tilleth his land shall have plenty of bread: but he that followeth after vain "
         },
         {
           "add": "persons"
         },
         {
-          "t": "shall have poverty enough."
+          "t": " shall have poverty enough. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
       "tokens": [
         {
-          "t": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent."
+          "t": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "To have respect of persons is not good: for for a piece of bread that man will transgress.",
       "tokens": [
         {
-          "t": "To have respect of persons"
+          "t": "To have respect of persons "
         },
         {
           "add": "is"
         },
         {
-          "t": "not good: for for a piece of bread"
+          "t": " not good: for for a piece of bread "
         },
         {
           "add": "that"
         },
         {
-          "t": "man will transgress."
+          "t": " man will transgress. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.",
       "tokens": [
         {
-          "t": "He that hasteth to be rich"
+          "t": "He that hasteth to be rich "
         },
         {
           "add": "hath"
         },
         {
-          "t": "an evil eye, and considereth not that poverty shall come upon him."
+          "t": " an evil eye, and considereth not that poverty shall come upon him. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.",
       "tokens": [
         {
-          "t": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue."
+          "t": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.",
       "tokens": [
         {
-          "t": "Whoso robbeth his father or his mother, and saith,"
+          "t": "Whoso robbeth his father or his mother, and saith, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "no transgression; the same"
+          "t": " no transgression; the same "
         },
         {
           "add": "is"
         },
         {
-          "t": "the companion of a destroyer."
+          "t": " the companion of a destroyer. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.",
       "tokens": [
         {
-          "t": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the"
+          "t": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall be made fat."
+          "t": " shall be made fat. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
       "tokens": [
         {
-          "t": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered."
+          "t": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
       "tokens": [
         {
-          "t": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse."
+          "t": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "When the wicked rise, men hide themselves: but when they perish, the righteous increase.",
       "tokens": [
         {
-          "t": "When the wicked rise, men hide themselves: but when they perish, the righteous increase."
+          "t": "When the wicked rise, men hide themselves: but when they perish, the righteous increase. "
         }
       ]
     }

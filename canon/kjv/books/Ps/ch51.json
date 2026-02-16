@@ -1,0 +1,277 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 51,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.",
+      "tokens": [
+        {
+          "t": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Wash me throughly from mine iniquity, and cleanse me from my sin.",
+      "tokens": [
+        {
+          "t": "Wash me throughly from mine iniquity, and cleanse me from my sin. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For I acknowledge my transgressions: and my sin is ever before me.",
+      "tokens": [
+        {
+          "t": "For I acknowledge my transgressions: and my sin "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " ever before me. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.",
+      "tokens": [
+        {
+          "t": "Against thee, thee only, have I sinned, and done "
+        },
+        {
+          "add": "this"
+        },
+        {
+          "t": " evil in thy sight: that thou mightest be justified when thou speakest, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " be clear when thou judgest. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Behold, I was shapen in iniquity; and in sin did my mother conceive me.",
+      "tokens": [
+        {
+          "t": "Behold, I was shapen in iniquity; and in sin did my mother conceive me. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.",
+      "tokens": [
+        {
+          "t": "Behold, thou desirest truth in the inward parts: and in the hidden "
+        },
+        {
+          "add": "part"
+        },
+        {
+          "t": " thou shalt make me to know wisdom. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.",
+      "tokens": [
+        {
+          "t": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.",
+      "tokens": [
+        {
+          "t": "Make me to hear joy and gladness; "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " the bones "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " thou hast broken may rejoice. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Hide thy face from my sins, and blot out all mine iniquities.",
+      "tokens": [
+        {
+          "t": "Hide thy face from my sins, and blot out all mine iniquities. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Create in me a clean heart, O God; and renew a right spirit within me.",
+      "tokens": [
+        {
+          "t": "Create in me a clean heart, O God; and renew a right spirit within me. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Cast me not away from thy presence; and take not thy holy spirit from me.",
+      "tokens": [
+        {
+          "t": "Cast me not away from thy presence; and take not thy holy spirit from me. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit.",
+      "tokens": [
+        {
+          "t": "Restore unto me the joy of thy salvation; and uphold me "
+        },
+        {
+          "add": "with thy"
+        },
+        {
+          "t": " free spirit. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Then will I teach transgressors thy ways; and sinners shall be converted unto thee.",
+      "tokens": [
+        {
+          "add": "Then"
+        },
+        {
+          "t": " will I teach transgressors thy ways; and sinners shall be converted unto thee. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.",
+      "tokens": [
+        {
+          "t": "Deliver me from bloodguiltiness, O God, thou God of my salvation: "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " my tongue shall sing aloud of thy righteousness. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "O Lord, open thou my lips; and my mouth shall shew forth thy praise.",
+      "tokens": [
+        {
+          "t": "O Lord, open thou my lips; and my mouth shall shew forth thy praise. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.",
+      "tokens": [
+        {
+          "t": "For thou desirest not sacrifice; else would I give "
+        },
+        {
+          "add": "it:"
+        },
+        {
+          "t": " thou delightest not in burnt offering. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.",
+      "tokens": [
+        {
+          "t": "The sacrifices of God "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " a broken spirit: a broken and a contrite heart, O God, thou wilt not despise. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.",
+      "tokens": [
+        {
+          "t": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
+      "tokens": [
+        {
+          "t": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "conceive…: Heb. warm me"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 10
+      },
+      "text": "right: or, constant"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 14
+      },
+      "text": "bloodguiltiness: Heb. bloods"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 16
+      },
+      "text": "else…: or, that I should"
+    }
+  ]
+}

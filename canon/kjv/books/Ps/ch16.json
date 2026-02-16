@@ -1,0 +1,250 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 16,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Preserve me, O God: for in thee do I put my trust.",
+      "tokens": [
+        {
+          "t": "Preserve me, O God: for in thee do I put my trust. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "O my soul, thou hast said unto the LORD, Thou art my Lord: my goodness extendeth not to thee;",
+      "tokens": [
+        {
+          "add": "O my soul"
+        },
+        {
+          "t": ", thou hast said unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", Thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my Lord: my goodness "
+        },
+        {
+          "add": "extendeth"
+        },
+        {
+          "t": " not to thee; "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "But to the saints that are in the earth, and to the excellent, in whom is all my delight.",
+      "tokens": [
+        {
+          "add": "But"
+        },
+        {
+          "t": " to the saints that "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " in the earth, and "
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": " the excellent, in whom "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " all my delight. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.",
+      "tokens": [
+        {
+          "t": "Their sorrows shall be multiplied "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " hasten "
+        },
+        {
+          "add": "after"
+        },
+        {
+          "t": " another "
+        },
+        {
+          "add": "god:"
+        },
+        {
+          "t": " their drink offerings of blood will I not offer, nor take up their names into my lips. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "The LORD is the portion of mine inheritance and of my cup: thou maintainest my lot.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the portion of mine inheritance and of my cup: thou maintainest my lot. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "The lines are fallen unto me in pleasant places; yea, I have a goodly heritage.",
+      "tokens": [
+        {
+          "t": "The lines are fallen unto me in pleasant "
+        },
+        {
+          "add": "places;"
+        },
+        {
+          "t": " yea, I have a goodly heritage. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons.",
+      "tokens": [
+        {
+          "t": "I will bless the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", who hath given me counsel: my reins also instruct me in the night seasons. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "I have set the LORD always before me: because he is at my right hand, I shall not be moved.",
+      "tokens": [
+        {
+          "t": "I have set the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " always before me: because "
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": " at my right hand, I shall not be moved. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
+      "tokens": [
+        {
+          "t": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.",
+      "tokens": [
+        {
+          "t": "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.",
+      "tokens": [
+        {
+          "t": "Thou wilt shew me the path of life: in thy presence "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " fulness of joy; at thy right hand "
+        },
+        {
+          "add": "there are"
+        },
+        {
+          "t": " pleasures for evermore. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Michtam: or, A golden Psalm"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "hasten…: or, give gifts to another"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "of mine…: Heb. of my part"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 9
+      },
+      "text": "rest…: Heb. dwell confidently"
+    }
+  ]
+}

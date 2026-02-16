@@ -7,153 +7,163 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Jonah prayed unto the LORD his God out of the fish’s belly,",
       "tokens": [
         {
-          "t": "Then Jonah prayed unto the"
+          "t": "Then Jonah prayed unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God out of the fish’s belly,"
+          "t": " his God out of the fish’s belly, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
       "tokens": [
         {
-          "t": "And said, I cried by reason of mine affliction unto the"
+          "t": "And said, I cried by reason of mine affliction unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and he heard me; out of the belly of hell cried I,"
+          "t": ", and he heard me; out of the belly of hell cried I, "
         },
         {
           "add": "and"
         },
         {
-          "t": "thou heardest my voice."
+          "t": " thou heardest my voice. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
       "tokens": [
         {
-          "t": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me."
+          "t": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
       "tokens": [
         {
-          "t": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple."
+          "t": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
       "tokens": [
         {
-          "t": "The waters compassed me about,"
+          "t": "The waters compassed me about, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to the soul: the depth closed me round about, the weeds were wrapped about my head."
+          "t": " to the soul: the depth closed me round about, the weeds were wrapped about my head. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.",
       "tokens": [
         {
-          "t": "I went down to the bottoms of the mountains; the earth with her bars"
+          "t": "I went down to the bottoms of the mountains; the earth with her bars "
         },
         {
           "add": "was"
         },
         {
-          "t": "about me for ever: yet hast thou brought up my life from corruption, O"
+          "t": " about me for ever: yet hast thou brought up my life from corruption, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "my God."
+          "t": " my God. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.",
       "tokens": [
         {
-          "t": "When my soul fainted within me I remembered the"
+          "t": "When my soul fainted within me I remembered the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and my prayer came in unto thee, into thine holy temple."
+          "t": ": and my prayer came in unto thee, into thine holy temple. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "They that observe lying vanities forsake their own mercy.",
       "tokens": [
         {
-          "t": "They that observe lying vanities forsake their own mercy."
+          "t": "They that observe lying vanities forsake their own mercy. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.",
       "tokens": [
         {
-          "t": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay"
+          "t": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay "
         },
         {
           "add": "that"
         },
         {
-          "t": "that I have vowed. Salvation"
+          "t": " that I have vowed. Salvation "
         },
         {
           "add": "is"
         },
         {
-          "t": "of the"
+          "t": " of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto the fish, and it vomited out Jonah upon the dry"
+          "t": " spake unto the fish, and it vomited out Jonah upon the dry "
         },
         {
           "add": "land"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

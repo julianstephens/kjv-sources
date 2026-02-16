@@ -7,229 +7,253 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)",
       "tokens": [
         {
-          "t": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+          "t": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;) "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And all the brethren which are with me, unto the churches of Galatia:",
       "tokens": [
         {
-          "t": "And all the brethren which are with me, unto the churches of Galatia:"
+          "t": "And all the brethren which are with me, unto the churches of Galatia: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,",
       "tokens": [
         {
-          "t": "Grace"
+          "t": "Grace "
         },
         {
           "add": "be"
         },
         {
-          "t": "to you and peace from God the Father, and"
+          "t": " to you and peace from God the Father, and "
         },
         {
           "add": "from"
         },
         {
-          "t": "our Lord Jesus Christ,"
+          "t": " our Lord Jesus Christ, "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:",
       "tokens": [
         {
-          "t": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:"
+          "t": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "To whom be glory for ever and ever. Amen.",
       "tokens": [
         {
-          "t": "To whom"
+          "t": "To whom "
         },
         {
           "add": "be"
         },
         {
-          "t": "glory for ever and ever. Amen."
+          "t": " glory for ever and ever. Amen. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:",
       "tokens": [
         {
-          "t": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:"
+          "t": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.",
       "tokens": [
         {
-          "t": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ."
+          "t": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
       "tokens": [
         {
-          "t": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed."
+          "t": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.",
       "tokens": [
         {
-          "t": "As we said before, so say I now again, If any"
+          "t": "As we said before, so say I now again, If any "
         },
         {
           "add": "man"
         },
         {
-          "t": "preach any other gospel unto you than that ye have received, let him be accursed."
+          "t": " preach any other gospel unto you than that ye have received, let him be accursed. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
       "tokens": [
         {
-          "t": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ."
+          "t": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "But I certify you, brethren, that the gospel which was preached of me is not after man.",
       "tokens": [
         {
-          "t": "But I certify you, brethren, that the gospel which was preached of me is not after man."
+          "t": "But I certify you, brethren, that the gospel which was preached of me is not after man. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.",
       "tokens": [
         {
-          "t": "For I neither received it of man, neither was I taught"
+          "t": "For I neither received it of man, neither was I taught "
         },
         {
           "add": "it"
         },
         {
-          "t": ", but by the revelation of Jesus Christ."
+          "t": ", but by the revelation of Jesus Christ. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:",
       "tokens": [
         {
-          "t": "For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:"
+          "t": "For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.",
       "tokens": [
         {
-          "t": "And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers."
+          "t": "And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But when it pleased God, who separated me from my mother’s womb, and called me by his grace,",
       "tokens": [
         {
-          "t": "But when it pleased God, who separated me from my mother’s womb, and called"
+          "t": "But when it pleased God, who separated me from my mother’s womb, and called "
         },
         {
           "add": "me"
         },
         {
-          "t": "by his grace,"
+          "t": " by his grace, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:",
       "tokens": [
         {
-          "t": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:"
+          "t": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.",
       "tokens": [
         {
-          "t": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus."
+          "t": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.",
       "tokens": [
         {
-          "t": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
+          "t": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "But other of the apostles saw I none, save James the Lord’s brother.",
       "tokens": [
         {
-          "t": "But other of the apostles saw I none, save James the Lord’s brother."
+          "t": "But other of the apostles saw I none, save James the Lord’s brother. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Now the things which I write unto you, behold, before God, I lie not.",
       "tokens": [
         {
-          "t": "Now the things which I write unto you, behold, before God, I lie not."
+          "t": "Now the things which I write unto you, behold, before God, I lie not. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Afterwards I came into the regions of Syria and Cilicia;",
       "tokens": [
         {
-          "t": "Afterwards I came into the regions of Syria and Cilicia;"
+          "t": "Afterwards I came into the regions of Syria and Cilicia; "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And was unknown by face unto the churches of Judaea which were in Christ:",
       "tokens": [
         {
-          "t": "And was unknown by face unto the churches of Judaea which were in Christ:"
+          "t": "And was unknown by face unto the churches of Judaea which were in Christ: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.",
       "tokens": [
         {
-          "t": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed."
+          "t": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And they glorified God in me.",
       "tokens": [
         {
-          "t": "And they glorified God in me."
+          "t": "And they glorified God in me. "
         }
       ]
     }

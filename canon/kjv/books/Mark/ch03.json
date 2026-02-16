@@ -7,309 +7,417 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And he entered again into the synagogue; and there was a man there which had a withered hand.",
       "tokens": [
         {
-          "t": "And he entered again into the synagogue; and there was a man there which had a withered hand."
+          "t": "And he entered again into the synagogue; and there was a man there which had a withered hand. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him.",
       "tokens": [
         {
-          "t": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him."
+          "t": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he saith unto the man which had the withered hand, Stand forth.",
       "tokens": [
         {
-          "t": "And he saith unto the man which had the withered hand,"
+          "t": "And he saith unto the man which had the withered hand, "
+        },
+        {
+          "t": "Stand forth."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.",
       "tokens": [
         {
-          "t": "But they held their peace."
+          "t": "And he saith unto them, "
         },
         {
-          "t": "And he saith unto them, But they held their peace."
+          "t": "Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill?"
+        },
+        {
+          "t": " But they held their peace. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.",
       "tokens": [
         {
-          "t": "And he stretched"
+          "t": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, "
+        },
+        {
+          "t": "Stretch forth thine hand."
+        },
+        {
+          "t": " And he stretched "
         },
         {
           "add": "it"
         },
         {
-          "t": "out: and his hand was restored whole as the other."
-        },
-        {
-          "t": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, And he stretched"
-        },
-        {
-          "add": "it"
-        },
-        {
-          "t": "out: and his hand was restored whole as the other."
+          "t": " out: and his hand was restored whole as the other. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.",
       "tokens": [
         {
-          "t": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him."
+          "t": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judæa,",
       "tokens": [
         {
-          "t": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judæa,"
+          "t": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judæa, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.",
       "tokens": [
         {
-          "t": "And from Jerusalem, and from Idumaea, and"
+          "t": "And from Jerusalem, and from Idumaea, and "
         },
         {
           "add": "from"
         },
         {
-          "t": "beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him."
+          "t": " beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.",
       "tokens": [
         {
-          "t": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him."
+          "t": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues.",
       "tokens": [
         {
-          "t": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues."
+          "t": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.",
       "tokens": [
         {
-          "t": "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God."
+          "t": "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And he straitly charged them that they should not make him known.",
       "tokens": [
         {
-          "t": "And he straitly charged them that they should not make him known."
+          "t": "And he straitly charged them that they should not make him known. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.",
       "tokens": [
         {
-          "t": "And he goeth up into a mountain, and calleth"
+          "t": "And he goeth up into a mountain, and calleth "
         },
         {
           "add": "unto him"
         },
         {
-          "t": "whom he would: and they came unto him."
+          "t": " whom he would: and they came unto him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And he ordained twelve, that they should be with him, and that he might send them forth to preach,",
       "tokens": [
         {
-          "t": "And he ordained twelve, that they should be with him, and that he might send them forth to preach,"
+          "t": "And he ordained twelve, that they should be with him, and that he might send them forth to preach, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And to have power to heal sicknesses, and to cast out devils:",
       "tokens": [
         {
-          "t": "And to have power to heal sicknesses, and to cast out devils:"
+          "t": "And to have power to heal sicknesses, and to cast out devils: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Simon he surnamed Peter;",
       "tokens": [
         {
-          "t": "And Simon he surnamed Peter;"
+          "t": "And Simon he surnamed Peter; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:",
       "tokens": [
         {
-          "t": "And James the"
+          "t": "And James the "
         },
         {
           "add": "son"
         },
         {
-          "t": "of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:"
+          "t": " of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Canaanite,",
       "tokens": [
         {
-          "t": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the"
+          "t": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the "
         },
         {
           "add": "son"
         },
         {
-          "t": "of Alphaeus, and Thaddaeus, and Simon the Canaanite,"
+          "t": " of Alphaeus, and Thaddaeus, and Simon the Canaanite, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Judas Iscariot, which also betrayed him: and they went into an house.",
       "tokens": [
         {
-          "t": "And Judas Iscariot, which also betrayed him: and they went into an house."
+          "t": "And Judas Iscariot, which also betrayed him: and they went into an house. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the multitude cometh together again, so that they could not so much as eat bread.",
       "tokens": [
         {
-          "t": "And the multitude cometh together again, so that they could not so much as eat bread."
+          "t": "And the multitude cometh together again, so that they could not so much as eat bread. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And when his friends heard of it, they went out to lay hold on him: for they said, He is beside himself.",
       "tokens": [
         {
-          "t": "And when his friends heard"
+          "t": "And when his friends heard "
         },
         {
           "add": "of it"
         },
         {
-          "t": ", they went out to lay hold on him: for they said, He is beside himself."
+          "t": ", they went out to lay hold on him: for they said, He is beside himself. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.",
       "tokens": [
         {
-          "t": "¶ And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils."
+          "t": "¶ And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And he called them unto him, and said unto them in parables, How can Satan cast out Satan?",
       "tokens": [
         {
-          "t": "And he called them"
+          "t": "And he called them "
         },
         {
           "add": "unto him"
         },
         {
-          "t": ", and said unto them in parables,"
+          "t": ", and said unto them in parables, "
+        },
+        {
+          "t": "How can Satan cast out Satan?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "And if a kingdom be divided against itself, that kingdom cannot stand.",
+      "tokens": [
+        {
+          "t": "And if a kingdom be divided against itself, that kingdom cannot stand."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "And if a house be divided against itself, that house cannot stand.",
+      "tokens": [
+        {
+          "t": "And if a house be divided against itself, that house cannot stand."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end.",
+      "tokens": [
+        {
+          "t": "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house.",
+      "tokens": [
+        {
+          "t": "No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:",
+      "tokens": [
+        {
+          "t": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:",
+      "tokens": [
+        {
+          "t": "But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
+      "plain": "Because they said, He hath an unclean spirit.",
       "tokens": [
         {
-          "t": "Because they said, He hath an unclean spirit."
+          "t": "Because they said, He hath an unclean spirit. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "¶ There came then his brethren and his mother, and, standing without, sent unto him, calling him.",
       "tokens": [
         {
-          "t": "¶ There came then his brethren and his mother, and, standing without, sent unto him, calling him."
+          "t": "¶ There came then his brethren and his mother, and, standing without, sent unto him, calling him. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee.",
       "tokens": [
         {
-          "t": "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee."
+          "t": "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And he answered them, saying, Who is my mother, or my brethren?",
       "tokens": [
         {
-          "t": "And he answered them, saying,"
+          "t": "And he answered them, saying, "
+        },
+        {
+          "t": "Who is my mother, or my brethren?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And he looked round about on them which sat about him, and said, Behold my mother and my brethren!",
       "tokens": [
         {
-          "t": "And he looked round about on them which sat about him, and said,"
+          "t": "And he looked round about on them which sat about him, and said, "
+        },
+        {
+          "t": "Behold my mother and my brethren!"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 35,
-      "tokens": null
+      "plain": "For whosoever shall do the will of God, the same is my brother, and my sister, and mother.",
+      "tokens": [
+        {
+          "t": "For whosoever shall do the will of God, the same is my brother, and my sister, and mother."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

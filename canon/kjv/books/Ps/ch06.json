@@ -1,0 +1,191 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 6,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", rebuke me not in thine anger, neither chasten me in thy hot displeasure. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed.",
+      "tokens": [
+        {
+          "t": "Have mercy upon me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " weak: O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", heal me; for my bones are vexed. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "My soul is also sore vexed: but thou, O LORD, how long?",
+      "tokens": [
+        {
+          "t": "My soul is also sore vexed: but thou, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", how long? "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Return, O LORD, deliver my soul: oh save me for thy mercies’ sake.",
+      "tokens": [
+        {
+          "t": "Return, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", deliver my soul: oh save me for thy mercies’ sake. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?",
+      "tokens": [
+        {
+          "t": "For in death "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " no remembrance of thee: in the grave who shall give thee thanks? "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
+      "tokens": [
+        {
+          "t": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
+      "tokens": [
+        {
+          "t": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.",
+      "tokens": [
+        {
+          "t": "Depart from me, all ye workers of iniquity; for the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " hath heard the voice of my weeping. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "The LORD hath heard my supplication; the LORD will receive my prayer.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " hath heard my supplication; the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will receive my prayer. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.",
+      "tokens": [
+        {
+          "t": "Let all mine enemies be ashamed and sore vexed: let them return "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " be ashamed suddenly. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "chief…: or, overseer"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "Sheminith: or, the eighth"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "all…: or, every night"
+    }
+  ]
+}

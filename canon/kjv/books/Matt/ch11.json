@@ -7,151 +7,405 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.",
       "tokens": [
         {
-          "t": "And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities."
+          "t": "And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Now when John had heard in the prison the works of Christ, he sent two of his disciples,",
       "tokens": [
         {
-          "t": "Now when John had heard in the prison the works of Christ, he sent two of his disciples,"
+          "t": "Now when John had heard in the prison the works of Christ, he sent two of his disciples, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And said unto him, Art thou he that should come, or do we look for another?",
       "tokens": [
         {
-          "t": "And said unto him, Art thou he that should come, or do we look for another?"
+          "t": "And said unto him, Art thou he that should come, or do we look for another? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Jesus answered and said unto them, Go and shew John again those things which ye do hear and see:",
       "tokens": [
         {
-          "t": "Jesus answered and said unto them,"
+          "t": "Jesus answered and said unto them, "
+        },
+        {
+          "t": "Go and shew John again those things which ye do hear and see:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them.",
+      "tokens": [
+        {
+          "t": "The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "And blessed is he, whosoever shall not be offended in me.",
+      "tokens": [
+        {
+          "t": "And blessed is "
+        },
+        {
+          "add": "he"
+        },
+        {
+          "t": ", whosoever shall not be offended in me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
+      "plain": "¶ And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind?",
       "tokens": [
         {
-          "t": "¶ And as they departed, Jesus began to say unto the multitudes concerning John,"
+          "t": "¶ And as they departed, Jesus began to say unto the multitudes concerning John, "
+        },
+        {
+          "t": "What went ye out into the wilderness to see? A reed shaken with the wind?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings’ houses.",
+      "tokens": [
+        {
+          "t": "But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft "
+        },
+        {
+          "add": "clothing"
+        },
+        {
+          "t": " are in kings’ houses."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "But what went ye out for to see? A prophet? yea, I say unto you, and more than a prophet.",
+      "tokens": [
+        {
+          "t": "But what went ye out for to see? A prophet? yea, I say unto you, and more than a prophet."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+      "tokens": [
+        {
+          "t": "For this is "
+        },
+        {
+          "add": "he"
+        },
+        {
+          "t": ", of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.",
+      "tokens": [
+        {
+          "t": "Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.",
+      "tokens": [
+        {
+          "t": "And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "For all the prophets and the law prophesied until John.",
+      "tokens": [
+        {
+          "t": "For all the prophets and the law prophesied until John."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "And if ye will receive it, this is Elias, which was for to come.",
+      "tokens": [
+        {
+          "t": "And if ye will receive "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", this is Elias, which was for to come."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "He that hath ears to hear, let him hear.",
+      "tokens": [
+        {
+          "t": "He that hath ears to hear, let him hear."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "¶ But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows,",
+      "tokens": [
+        {
+          "t": "¶ But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "And saying, We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented.",
+      "tokens": [
+        {
+          "t": "And saying, We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "For John came neither eating nor drinking, and they say, He hath a devil.",
+      "tokens": [
+        {
+          "t": "For John came neither eating nor drinking, and they say, He hath a devil."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.",
+      "tokens": [
+        {
+          "t": "The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
+      "plain": "¶ Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:",
       "tokens": [
         {
-          "t": "¶ Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:"
+          "t": "¶ Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not: "
         }
       ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.",
+      "tokens": [
+        {
+          "t": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.",
+      "tokens": [
+        {
+          "t": "But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.",
+      "tokens": [
+        {
+          "t": "And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee.",
+      "tokens": [
+        {
+          "t": "But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
+      "plain": "¶ At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.",
       "tokens": [
         {
-          "t": "¶ At that time Jesus answered and said,"
+          "t": "¶ At that time Jesus answered and said, "
+        },
+        {
+          "t": "I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "Even so, Father: for so it seemed good in thy sight.",
+      "tokens": [
+        {
+          "t": "Even so, Father: for so it seemed good in thy sight."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him.",
+      "tokens": [
+        {
+          "t": "All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and "
+        },
+        {
+          "add": "he"
+        },
+        {
+          "t": " to whomsoever the Son will reveal "
+        },
+        {
+          "add": "him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "¶ Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "tokens": [
+        {
+          "t": "¶ Come unto me, all "
+        },
+        {
+          "add": "ye"
+        },
+        {
+          "t": " that labour and are heavy laden, and I will give you rest."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
+      "tokens": [
+        {
+          "t": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "For my yoke is easy, and my burden is light.",
+      "tokens": [
+        {
+          "t": "For my yoke "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " easy, and my burden is light."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

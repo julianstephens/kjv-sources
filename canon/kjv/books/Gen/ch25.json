@@ -7,465 +7,499 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then again Abraham took a wife, and her name was Keturah.",
       "tokens": [
         {
-          "t": "Then again Abraham took a wife, and her name"
+          "t": "Then again Abraham took a wife, and her name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Keturah."
+          "t": " Keturah. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.",
       "tokens": [
         {
-          "t": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah."
+          "t": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim.",
       "tokens": [
         {
-          "t": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim."
+          "t": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these were the children of Keturah.",
       "tokens": [
         {
-          "t": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these"
+          "t": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these "
         },
         {
           "add": "were"
         },
         {
-          "t": "the children of Keturah."
+          "t": " the children of Keturah. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And Abraham gave all that he had unto Isaac.",
       "tokens": [
         {
-          "t": "¶ And Abraham gave all that he had unto Isaac."
+          "t": "¶ And Abraham gave all that he had unto Isaac. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.",
       "tokens": [
         {
-          "t": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country."
+          "t": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years."
+          "t": " the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people.",
       "tokens": [
         {
-          "t": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full"
+          "t": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full "
         },
         {
           "add": "of years;"
         },
         {
-          "t": "and was gathered to his people."
+          "t": " and was gathered to his people. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;",
       "tokens": [
         {
-          "t": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which"
+          "t": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "before Mamre;"
+          "t": " before Mamre; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.",
       "tokens": [
         {
-          "t": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
+          "t": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai-roi.",
       "tokens": [
         {
-          "t": "¶ And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai-roi."
+          "t": "¶ And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahai-roi. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Now these are the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:",
       "tokens": [
         {
-          "t": "¶ Now these"
+          "t": "¶ Now these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham:"
+          "t": " the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s handmaid, bare unto Abraham: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,"
+          "t": " the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Mishma, and Dumah, and Massa,",
       "tokens": [
         {
-          "t": "And Mishma, and Dumah, and Massa,"
+          "t": "And Mishma, and Dumah, and Massa, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Hadar, and Tema, Jetur, Naphish, and Kedemah:",
       "tokens": [
         {
-          "t": "Hadar, and Tema, Jetur, Naphish, and Kedemah:"
+          "t": "Hadar, and Tema, Jetur, Naphish, and Kedemah: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the sons of Ishmael, and these"
+          "t": " the sons of Ishmael, and these "
         },
         {
           "add": "are"
         },
         {
-          "t": "their names, by their towns, and by their castles; twelve princes according to their nations."
+          "t": " their names, by their towns, and by their castles; twelve princes according to their nations. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people."
+          "t": " the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren.",
       "tokens": [
         {
-          "t": "And they dwelt from Havilah unto Shur, that"
+          "t": "And they dwelt from Havilah unto Shur, that "
         },
         {
           "add": "is"
         },
         {
-          "t": "before Egypt, as thou goest toward Assyria:"
+          "t": " before Egypt, as thou goest toward Assyria: "
         },
         {
           "add": "and"
         },
         {
-          "t": "he died in the presence of all his brethren."
+          "t": " he died in the presence of all his brethren. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And these are the generations of Isaac, Abraham’s son: Abraham begat Isaac:",
       "tokens": [
         {
-          "t": "¶ And these"
+          "t": "¶ And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the generations of Isaac, Abraham’s son: Abraham begat Isaac:"
+          "t": " the generations of Isaac, Abraham’s son: Abraham begat Isaac: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian.",
       "tokens": [
         {
-          "t": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian."
+          "t": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived.",
       "tokens": [
         {
-          "t": "And Isaac intreated the"
+          "t": "And Isaac intreated the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for his wife, because she"
+          "t": " for his wife, because she "
         },
         {
           "add": "was"
         },
         {
-          "t": "barren: and the"
+          "t": " barren: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was intreated of him, and Rebekah his wife conceived."
+          "t": " was intreated of him, and Rebekah his wife conceived. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD.",
       "tokens": [
         {
-          "t": "And the children struggled together within her; and she said, If"
+          "t": "And the children struggled together within her; and she said, If "
         },
         {
           "add": "it be"
         },
         {
-          "t": "so, why"
+          "t": " so, why "
         },
         {
           "add": "am"
         },
         {
-          "t": "I thus? And she went to enquire of the"
+          "t": " I thus? And she went to enquire of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto her, Two nations"
+          "t": " said unto her, Two nations "
         },
         {
           "add": "are"
         },
         {
-          "t": "in thy womb, and two manner of people shall be separated from thy bowels; and"
+          "t": " in thy womb, and two manner of people shall be separated from thy bowels; and "
         },
         {
           "add": "the one"
         },
         {
-          "t": "people shall be stronger than"
+          "t": " people shall be stronger than "
         },
         {
           "add": "the other"
         },
         {
-          "t": "people; and the elder shall serve the younger."
+          "t": " people; and the elder shall serve the younger. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ And when her days to be delivered were fulfilled, behold, there were twins in her womb.",
       "tokens": [
         {
-          "t": "¶ And when her days to be delivered were fulfilled, behold,"
+          "t": "¶ And when her days to be delivered were fulfilled, behold, "
         },
         {
           "add": "there were"
         },
         {
-          "t": "twins in her womb."
+          "t": " twins in her womb. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And the first came out red, all over like an hairy garment; and they called his name Esau.",
       "tokens": [
         {
-          "t": "And the first came out red, all over like an hairy garment; and they called his name Esau."
+          "t": "And the first came out red, all over like an hairy garment; and they called his name Esau. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.",
       "tokens": [
         {
-          "t": "And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac"
+          "t": "And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac "
         },
         {
           "add": "was"
         },
         {
-          "t": "threescore years old when she bare them."
+          "t": " threescore years old when she bare them. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.",
       "tokens": [
         {
-          "t": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob"
+          "t": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob "
         },
         {
           "add": "was"
         },
         {
-          "t": "a plain man, dwelling in tents."
+          "t": " a plain man, dwelling in tents. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.",
       "tokens": [
         {
-          "t": "And Isaac loved Esau, because he did eat of"
+          "t": "And Isaac loved Esau, because he did eat of "
         },
         {
           "add": "his"
         },
         {
-          "t": "venison: but Rebekah loved Jacob."
+          "t": " venison: but Rebekah loved Jacob. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ And Jacob sod pottage: and Esau came from the field, and he was faint:",
       "tokens": [
         {
-          "t": "¶ And Jacob sod pottage: and Esau came from the field, and he"
+          "t": "¶ And Jacob sod pottage: and Esau came from the field, and he "
         },
         {
           "add": "was"
         },
         {
-          "t": "faint:"
+          "t": " faint: "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.",
       "tokens": [
         {
-          "t": "And Esau said to Jacob, Feed me, I pray thee, with that same red"
+          "t": "And Esau said to Jacob, Feed me, I pray thee, with that same red "
         },
         {
           "add": "pottage;"
         },
         {
-          "t": "for I"
+          "t": " for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "faint: therefore was his name called Edom."
+          "t": " faint: therefore was his name called Edom. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And Jacob said, Sell me this day thy birthright.",
       "tokens": [
         {
-          "t": "And Jacob said, Sell me this day thy birthright."
+          "t": "And Jacob said, Sell me this day thy birthright. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?",
       "tokens": [
         {
-          "t": "And Esau said, Behold, I"
+          "t": "And Esau said, Behold, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "at the point to die: and what profit shall this birthright do to me?"
+          "t": " at the point to die: and what profit shall this birthright do to me? "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.",
       "tokens": [
         {
-          "t": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob."
+          "t": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.",
       "tokens": [
         {
-          "t": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised"
+          "t": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised "
         },
         {
           "add": "his"
         },
         {
-          "t": "birthright."
+          "t": " birthright. "
         }
       ]
     }

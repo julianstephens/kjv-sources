@@ -7,163 +7,456 @@
   "verses": [
     {
       "v": 1,
+      "plain": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?",
       "tokens": [
         {
-          "t": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?"
+          "t": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Jesus called a little child unto him, and set him in the midst of them,",
       "tokens": [
         {
-          "t": "And Jesus called a little child unto him, and set him in the midst of them,"
+          "t": "And Jesus called a little child unto him, and set him in the midst of them, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.",
       "tokens": [
         {
-          "t": "And said,"
+          "t": "And said, "
+        },
+        {
+          "t": "Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.",
+      "tokens": [
+        {
+          "t": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "And whoso shall receive one such little child in my name receiveth me.",
+      "tokens": [
+        {
+          "t": "And whoso shall receive one such little child in my name receiveth me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
+      "tokens": [
+        {
+          "t": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " he were drowned in the depth of the sea."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "¶ Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!",
+      "tokens": [
+        {
+          "t": "¶ Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.",
+      "tokens": [
+        {
+          "t": "Wherefore if thy hand or thy foot offend thee, cut them off, and cast "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.",
+      "tokens": [
+        {
+          "t": "And if thine eye offend thee, pluck it out, and cast "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.",
+      "tokens": [
+        {
+          "t": "Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "For the Son of man is come to save that which was lost.",
+      "tokens": [
+        {
+          "t": "For the Son of man is come to save that which was lost."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?",
+      "tokens": [
+        {
+          "t": "How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray.",
+      "tokens": [
+        {
+          "t": "And if so be that he find it, verily I say unto you, he rejoiceth more of that "
+        },
+        {
+          "add": "sheep"
+        },
+        {
+          "t": ", than of the ninety and nine which went not astray."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.",
+      "tokens": [
+        {
+          "t": "Even so it is not the will of your Father which is in heaven, that one of these little ones should perish."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "¶ Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.",
+      "tokens": [
+        {
+          "t": "¶ Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established.",
+      "tokens": [
+        {
+          "t": "But if he will not hear "
+        },
+        {
+          "add": "thee, then"
+        },
+        {
+          "t": " take with thee one or two more, that in the mouth of two or three witnesses every word may be established."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.",
+      "tokens": [
+        {
+          "t": "And if he shall neglect to hear them, tell "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.",
+      "tokens": [
+        {
+          "t": "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.",
+      "tokens": [
+        {
+          "t": "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "For where two or three are gathered together in my name, there am I in the midst of them.",
+      "tokens": [
+        {
+          "t": "For where two or three are gathered together in my name, there am I in the midst of them."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
+      "plain": "¶ Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?",
       "tokens": [
         {
-          "t": "¶ Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?"
+          "t": "¶ Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.",
       "tokens": [
         {
-          "t": "Jesus saith unto him,"
+          "t": "Jesus saith unto him, "
+        },
+        {
+          "t": "I say not unto thee, Until seven times: but, Until seventy times seven."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "¶ Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.",
+      "tokens": [
+        {
+          "t": "¶ Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents.",
+      "tokens": [
+        {
+          "t": "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.",
+      "tokens": [
+        {
+          "t": "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.",
+      "tokens": [
+        {
+          "t": "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.",
+      "tokens": [
+        {
+          "t": "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest.",
+      "tokens": [
+        {
+          "t": "But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all.",
+      "tokens": [
+        {
+          "t": "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "And he would not: but went and cast him into prison, till he should pay the debt.",
+      "tokens": [
+        {
+          "t": "And he would not: but went and cast him into prison, till he should pay the debt."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
-      "tokens": null
+      "plain": "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.",
+      "tokens": [
+        {
+          "t": "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:",
+      "tokens": [
+        {
+          "t": "Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
+      "plain": "Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?",
+      "tokens": [
+        {
+          "t": "Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 34,
-      "tokens": null
+      "plain": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.",
+      "tokens": [
+        {
+          "t": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 35,
-      "tokens": null
+      "plain": "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.",
+      "tokens": [
+        {
+          "t": "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

@@ -7,631 +7,667 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.",
       "tokens": [
         {
-          "t": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which"
+          "t": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
+          "t": " between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:",
       "tokens": [
         {
-          "t": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:"
+          "t": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.",
       "tokens": [
         {
-          "t": "And the children of Israel said unto them, Would to God we had died by the hand of the"
+          "t": "And the children of Israel said unto them, Would to God we had died by the hand of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in the land of Egypt, when we sat by the flesh pots,"
+          "t": " in the land of Egypt, when we sat by the flesh pots, "
         },
         {
           "add": "and"
         },
         {
-          "t": "when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
+          "t": " when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.",
       "tokens": [
         {
-          "t": "¶ Then said the"
+          "t": "¶ Then said the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
+          "t": " unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily.",
       "tokens": [
         {
-          "t": "And it shall come to pass, that on the sixth day they shall prepare"
+          "t": "And it shall come to pass, that on the sixth day they shall prepare "
         },
         {
           "add": "that"
         },
         {
-          "t": "which they bring in; and it shall be twice as much as they gather daily."
+          "t": " which they bring in; and it shall be twice as much as they gather daily. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:",
       "tokens": [
         {
-          "t": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the"
+          "t": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath brought you out from the land of Egypt:"
+          "t": " hath brought you out from the land of Egypt: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what are we, that ye murmur against us?",
       "tokens": [
         {
-          "t": "And in the morning, then ye shall see the glory of the"
+          "t": "And in the morning, then ye shall see the glory of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; for that he heareth your murmurings against the"
+          "t": "; for that he heareth your murmurings against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and what"
+          "t": ": and what "
         },
         {
           "add": "are"
         },
         {
-          "t": "we, that ye murmur against us?"
+          "t": " we, that ye murmur against us? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Moses said, This shall be, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the LORD.",
       "tokens": [
         {
-          "t": "And Moses said,"
+          "t": "And Moses said, "
         },
         {
           "add": "This shall be"
         },
         {
-          "t": ", when the"
+          "t": ", when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall give you in the evening flesh to eat, and in the morning bread to the full; for that the"
+          "t": " shall give you in the evening flesh to eat, and in the morning bread to the full; for that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "heareth your murmurings which ye murmur against him: and what"
+          "t": " heareth your murmurings which ye murmur against him: and what "
         },
         {
           "add": "are"
         },
         {
-          "t": "we? your murmurings"
+          "t": " we? your murmurings "
         },
         {
           "add": "are"
         },
         {
-          "t": "not against us, but against the"
+          "t": " not against us, but against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings.",
       "tokens": [
         {
-          "t": "¶ And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the"
+          "t": "¶ And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for he hath heard your murmurings."
+          "t": ": for he hath heard your murmurings. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud.",
       "tokens": [
         {
-          "t": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the"
+          "t": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "appeared in the cloud."
+          "t": " appeared in the cloud. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the LORD your God.",
       "tokens": [
         {
-          "t": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I"
+          "t": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.",
       "tokens": [
         {
-          "t": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host."
+          "t": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground.",
       "tokens": [
         {
-          "t": "And when the dew that lay was gone up, behold, upon the face of the wilderness"
+          "t": "And when the dew that lay was gone up, behold, upon the face of the wilderness "
         },
         {
           "add": "there lay"
         },
         {
-          "t": "a small round thing,"
+          "t": " a small round thing, "
         },
         {
           "add": "as"
         },
         {
-          "t": "small as the hoar frost on the ground."
+          "t": " small as the hoar frost on the ground. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the LORD hath given you to eat.",
       "tokens": [
         {
-          "t": "And when the children of Israel saw"
+          "t": "And when the children of Israel saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they said one to another, It"
+          "t": ", they said one to another, It "
         },
         {
           "add": "is"
         },
         {
-          "t": "manna: for they wist not what it"
+          "t": " manna: for they wist not what it "
         },
         {
           "add": "was"
         },
         {
-          "t": ". And Moses said unto them, This"
+          "t": ". And Moses said unto them, This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the bread which the"
+          "t": " the bread which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath given you to eat."
+          "t": " hath given you to eat. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents.",
       "tokens": [
         {
-          "t": "¶ This"
+          "t": "¶ This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the thing which the"
+          "t": " the thing which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath commanded, Gather of it every man according to his eating, an omer for every man,"
+          "t": " hath commanded, Gather of it every man according to his eating, an omer for every man, "
         },
         {
           "add": "according to"
         },
         {
-          "t": "the number of your persons; take ye every man for"
+          "t": " the number of your persons; take ye every man for "
         },
         {
           "add": "them"
         },
         {
-          "t": "which"
+          "t": " which "
         },
         {
           "add": "are"
         },
         {
-          "t": "in his tents."
+          "t": " in his tents. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the children of Israel did so, and gathered, some more, some less.",
       "tokens": [
         {
-          "t": "And the children of Israel did so, and gathered, some more, some less."
+          "t": "And the children of Israel did so, and gathered, some more, some less. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.",
       "tokens": [
         {
-          "t": "And when they did mete"
+          "t": "And when they did mete "
         },
         {
           "add": "it"
         },
         {
-          "t": "with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating."
+          "t": " with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Moses said, Let no man leave of it till the morning.",
       "tokens": [
         {
-          "t": "And Moses said, Let no man leave of it till the morning."
+          "t": "And Moses said, Let no man leave of it till the morning. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them.",
       "tokens": [
         {
-          "t": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them."
+          "t": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted.",
       "tokens": [
         {
-          "t": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted."
+          "t": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses.",
       "tokens": [
         {
-          "t": "¶ And it came to pass,"
+          "t": "¶ And it came to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "on the sixth day they gathered twice as much bread, two omers for one"
+          "t": " on the sixth day they gathered twice as much bread, two omers for one "
         },
         {
           "add": "man:"
         },
         {
-          "t": "and all the rulers of the congregation came and told Moses."
+          "t": " and all the rulers of the congregation came and told Moses. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And he said unto them, This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning.",
       "tokens": [
         {
-          "t": "And he said unto them, This"
+          "t": "And he said unto them, This "
         },
         {
           "add": "is that"
         },
         {
-          "t": "which the"
+          "t": " which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath said, To morrow"
+          "t": " hath said, To morrow "
         },
         {
           "add": "is"
         },
         {
-          "t": "the rest of the holy sabbath unto the"
+          "t": " the rest of the holy sabbath unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": bake"
+          "t": ": bake "
         },
         {
           "add": "that"
         },
         {
-          "t": "which ye will bake"
+          "t": " which ye will bake "
         },
         {
           "add": "to day"
         },
         {
-          "t": ", and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
+          "t": ", and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein.",
       "tokens": [
         {
-          "t": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein."
+          "t": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field.",
       "tokens": [
         {
-          "t": "And Moses said, Eat that to day; for to day"
+          "t": "And Moses said, Eat that to day; for to day "
         },
         {
           "add": "is"
         },
         {
-          "t": "a sabbath unto the"
+          "t": " a sabbath unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": to day ye shall not find it in the field."
+          "t": ": to day ye shall not find it in the field. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none.",
       "tokens": [
         {
-          "t": "Six days ye shall gather it; but on the seventh day,"
+          "t": "Six days ye shall gather it; but on the seventh day, "
         },
         {
           "add": "which is"
         },
         {
-          "t": "the sabbath, in it there shall be none."
+          "t": " the sabbath, in it there shall be none. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none.",
       "tokens": [
         {
-          "t": "¶ And it came to pass,"
+          "t": "¶ And it came to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "there went out"
+          "t": " there went out "
         },
         {
           "add": "some"
         },
         {
-          "t": "of the people on the seventh day for to gather, and they found none."
+          "t": " of the people on the seventh day for to gather, and they found none. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws?",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, How long refuse ye to keep my commandments and my laws?"
+          "t": " said unto Moses, How long refuse ye to keep my commandments and my laws? "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day.",
       "tokens": [
         {
-          "t": "See, for that the"
+          "t": "See, for that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
+          "t": " hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "So the people rested on the seventh day.",
       "tokens": [
         {
-          "t": "So the people rested on the seventh day."
+          "t": "So the people rested on the seventh day. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey.",
       "tokens": [
         {
-          "t": "And the house of Israel called the name thereof Manna: and it"
+          "t": "And the house of Israel called the name thereof Manna: and it "
         },
         {
           "add": "was"
         },
         {
-          "t": "like coriander seed, white; and the taste of it"
+          "t": " like coriander seed, white; and the taste of it "
         },
         {
           "add": "was"
         },
         {
-          "t": "like wafers"
+          "t": " like wafers "
         },
         {
           "add": "made"
         },
         {
-          "t": "with honey."
+          "t": " with honey. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "¶ And Moses said, This is the thing which the LORD commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt.",
       "tokens": [
         {
-          "t": "¶ And Moses said, This"
+          "t": "¶ And Moses said, This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the thing which the"
+          "t": " the thing which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt."
+          "t": " commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations.",
       "tokens": [
         {
-          "t": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the"
+          "t": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to be kept for your generations."
+          "t": ", to be kept for your generations. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept.",
       "tokens": [
         {
-          "t": "As the"
+          "t": "As the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded Moses, so Aaron laid it up before the Testimony, to be kept."
+          "t": " commanded Moses, so Aaron laid it up before the Testimony, to be kept. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan.",
       "tokens": [
         {
-          "t": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan."
+          "t": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Now an omer is the tenth part of an ephah.",
       "tokens": [
         {
-          "t": "Now an omer"
+          "t": "Now an omer "
         },
         {
           "add": "is"
         },
         {
-          "t": "the tenth"
+          "t": " the tenth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of an ephah."
+          "t": " of an ephah. "
         }
       ]
     }

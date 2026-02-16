@@ -1,0 +1,182 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 14,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.",
+      "tokens": [
+        {
+          "t": "The fool hath said in his heart, "
+        },
+        {
+          "add": "There is"
+        },
+        {
+          "t": " no God. They are corrupt, they have done abominable works, "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " none that doeth good. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " looked down from heaven upon the children of men, to see if there were any that did understand, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " seek God. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one.",
+      "tokens": [
+        {
+          "t": "They are all gone aside, they are "
+        },
+        {
+          "add": "all"
+        },
+        {
+          "t": " together become filthy: "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " none that doeth good, no, not one. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the LORD.",
+      "tokens": [
+        {
+          "t": "Have all the workers of iniquity no knowledge? who eat up my people "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " they eat bread, and call not upon the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "There were they in great fear: for God is in the generation of the righteous.",
+      "tokens": [
+        {
+          "t": "There were they in great fear: for God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in the generation of the righteous. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Ye have shamed the counsel of the poor, because the LORD is his refuge.",
+      "tokens": [
+        {
+          "t": "Ye have shamed the counsel of the poor, because the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " his refuge. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Oh that the salvation of Israel were come out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.",
+      "tokens": [
+        {
+          "t": "Oh that the salvation of Israel "
+        },
+        {
+          "add": "were come"
+        },
+        {
+          "t": " out of Zion! when the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " bringeth back the captivity of his people, Jacob shall rejoice, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " Israel shall be glad. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "filthy: Heb. stinking"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 5
+      },
+      "text": "were…: Heb. they feared a fear"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "Oh…: Heb. Who will give"
+    }
+  ]
+}

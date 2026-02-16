@@ -7,336 +7,367 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The words of king Lemuel, the prophecy that his mother taught him.",
       "tokens": [
         {
-          "t": "The words of king Lemuel, the prophecy that his mother taught him."
+          "t": "The words of king Lemuel, the prophecy that his mother taught him. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "What, my son? and what, the son of my womb? and what, the son of my vows?",
       "tokens": [
         {
-          "t": "What, my son? and what, the son of my womb? and what, the son of my vows?"
+          "t": "What, my son? and what, the son of my womb? and what, the son of my vows? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Give not thy strength unto women, nor thy ways to that which destroyeth kings.",
       "tokens": [
         {
-          "t": "Give not thy strength unto women, nor thy ways to that which destroyeth kings."
+          "t": "Give not thy strength unto women, nor thy ways to that which destroyeth kings. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink:",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "not for kings, O Lemuel,"
+          "t": " not for kings, O Lemuel, "
         },
         {
           "add": "it is"
         },
         {
-          "t": "not for kings to drink wine; nor for princes strong drink:"
+          "t": " not for kings to drink wine; nor for princes strong drink: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.",
       "tokens": [
         {
-          "t": "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted."
+          "t": "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.",
       "tokens": [
         {
-          "t": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts."
+          "t": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Let him drink, and forget his poverty, and remember his misery no more.",
       "tokens": [
         {
-          "t": "Let him drink, and forget his poverty, and remember his misery no more."
+          "t": "Let him drink, and forget his poverty, and remember his misery no more. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction.",
       "tokens": [
         {
-          "t": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction."
+          "t": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Open thy mouth, judge righteously, and plead the cause of the poor and needy.",
       "tokens": [
         {
-          "t": "Open thy mouth, judge righteously, and plead the cause of the poor and needy."
+          "t": "Open thy mouth, judge righteously, and plead the cause of the poor and needy. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ Who can find a virtuous woman? for her price is far above rubies.",
       "tokens": [
         {
-          "t": "¶ Who can find a virtuous woman? for her price"
+          "t": "¶ Who can find a virtuous woman? for her price "
         },
         {
           "add": "is"
         },
         {
-          "t": "far above rubies."
+          "t": " far above rubies. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil.",
       "tokens": [
         {
-          "t": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil."
+          "t": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "She will do him good and not evil all the days of her life.",
       "tokens": [
         {
-          "t": "She will do him good and not evil all the days of her life."
+          "t": "She will do him good and not evil all the days of her life. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "She seeketh wool, and flax, and worketh willingly with her hands.",
       "tokens": [
         {
-          "t": "She seeketh wool, and flax, and worketh willingly with her hands."
+          "t": "She seeketh wool, and flax, and worketh willingly with her hands. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "She is like the merchants’ ships; she bringeth her food from afar.",
       "tokens": [
         {
-          "t": "She is like the merchants’ ships; she bringeth her food from afar."
+          "t": "She is like the merchants’ ships; she bringeth her food from afar. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.",
       "tokens": [
         {
-          "t": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens."
+          "t": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.",
       "tokens": [
         {
-          "t": "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard."
+          "t": "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "She girdeth her loins with strength, and strengtheneth her arms.",
       "tokens": [
         {
-          "t": "She girdeth her loins with strength, and strengtheneth her arms."
+          "t": "She girdeth her loins with strength, and strengtheneth her arms. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "She perceiveth that her merchandise is good: her candle goeth not out by night.",
       "tokens": [
         {
-          "t": "She perceiveth that her merchandise"
+          "t": "She perceiveth that her merchandise "
         },
         {
           "add": "is"
         },
         {
-          "t": "good: her candle goeth not out by night."
+          "t": " good: her candle goeth not out by night. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "She layeth her hands to the spindle, and her hands hold the distaff.",
       "tokens": [
         {
-          "t": "She layeth her hands to the spindle, and her hands hold the distaff."
+          "t": "She layeth her hands to the spindle, and her hands hold the distaff. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.",
       "tokens": [
         {
-          "t": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy."
+          "t": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "She is not afraid of the snow for her household: for all her household are clothed with scarlet.",
       "tokens": [
         {
-          "t": "She is not afraid of the snow for her household: for all her household"
+          "t": "She is not afraid of the snow for her household: for all her household "
         },
         {
           "add": "are"
         },
         {
-          "t": "clothed with scarlet."
+          "t": " clothed with scarlet. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "She maketh herself coverings of tapestry; her clothing is silk and purple.",
       "tokens": [
         {
-          "t": "She maketh herself coverings of tapestry; her clothing"
+          "t": "She maketh herself coverings of tapestry; her clothing "
         },
         {
           "add": "is"
         },
         {
-          "t": "silk and purple."
+          "t": " silk and purple. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Her husband is known in the gates, when he sitteth among the elders of the land.",
       "tokens": [
         {
-          "t": "Her husband is known in the gates, when he sitteth among the elders of the land."
+          "t": "Her husband is known in the gates, when he sitteth among the elders of the land. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "She maketh fine linen, and selleth it; and delivereth girdles unto the merchant.",
       "tokens": [
         {
-          "t": "She maketh fine linen, and selleth"
+          "t": "She maketh fine linen, and selleth "
         },
         {
           "add": "it;"
         },
         {
-          "t": "and delivereth girdles unto the merchant."
+          "t": " and delivereth girdles unto the merchant. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Strength and honour are her clothing; and she shall rejoice in time to come.",
       "tokens": [
         {
-          "t": "Strength and honour"
+          "t": "Strength and honour "
         },
         {
           "add": "are"
         },
         {
-          "t": "her clothing; and she shall rejoice in time to come."
+          "t": " her clothing; and she shall rejoice in time to come. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "She openeth her mouth with wisdom; and in her tongue is the law of kindness.",
       "tokens": [
         {
-          "t": "She openeth her mouth with wisdom; and in her tongue"
+          "t": "She openeth her mouth with wisdom; and in her tongue "
         },
         {
           "add": "is"
         },
         {
-          "t": "the law of kindness."
+          "t": " the law of kindness. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "She looketh well to the ways of her household, and eateth not the bread of idleness.",
       "tokens": [
         {
-          "t": "She looketh well to the ways of her household, and eateth not the bread of idleness."
+          "t": "She looketh well to the ways of her household, and eateth not the bread of idleness. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Her children arise up, and call her blessed; her husband also, and he praiseth her.",
       "tokens": [
         {
-          "t": "Her children arise up, and call her blessed; her husband"
+          "t": "Her children arise up, and call her blessed; her husband "
         },
         {
           "add": "also"
         },
         {
-          "t": ", and he praiseth her."
+          "t": ", and he praiseth her. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Many daughters have done virtuously, but thou excellest them all.",
       "tokens": [
         {
-          "t": "Many daughters have done virtuously, but thou excellest them all."
+          "t": "Many daughters have done virtuously, but thou excellest them all. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.",
       "tokens": [
         {
-          "t": "Favour"
+          "t": "Favour "
         },
         {
           "add": "is"
         },
         {
-          "t": "deceitful, and beauty"
+          "t": " deceitful, and beauty "
         },
         {
           "add": "is"
         },
         {
-          "t": "vain:"
+          "t": " vain: "
         },
         {
           "add": "but"
         },
         {
-          "t": "a woman"
+          "t": " a woman "
         },
         {
           "add": "that"
         },
         {
-          "t": "feareth the"
+          "t": " feareth the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", she shall be praised."
+          "t": ", she shall be praised. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Give her of the fruit of her hands; and let her own works praise her in the gates.",
       "tokens": [
         {
-          "t": "Give her of the fruit of her hands; and let her own works praise her in the gates."
+          "t": "Give her of the fruit of her hands; and let her own works praise her in the gates. "
         }
       ]
     }

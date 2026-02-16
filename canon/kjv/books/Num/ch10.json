@@ -7,490 +7,529 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.",
       "tokens": [
         {
-          "t": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps."
+          "t": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation.",
       "tokens": [
         {
-          "t": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation."
+          "t": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto thee.",
       "tokens": [
         {
-          "t": "And if they blow"
+          "t": "And if they blow "
         },
         {
           "add": "but"
         },
         {
-          "t": "with one"
+          "t": " with one "
         },
         {
           "add": "trumpet"
         },
         {
-          "t": ", then the princes,"
+          "t": ", then the princes, "
         },
         {
           "add": "which are"
         },
         {
-          "t": "heads of the thousands of Israel, shall gather themselves unto thee."
+          "t": " heads of the thousands of Israel, shall gather themselves unto thee. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "When ye blow an alarm, then the camps that lie on the east parts shall go forward.",
       "tokens": [
         {
-          "t": "When ye blow an alarm, then the camps that lie on the east parts shall go forward."
+          "t": "When ye blow an alarm, then the camps that lie on the east parts shall go forward. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.",
       "tokens": [
         {
-          "t": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys."
+          "t": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm.",
       "tokens": [
         {
-          "t": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm."
+          "t": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations.",
       "tokens": [
         {
-          "t": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations."
+          "t": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies.",
       "tokens": [
         {
-          "t": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the"
+          "t": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God, and ye shall be saved from your enemies."
+          "t": " your God, and ye shall be saved from your enemies. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God.",
       "tokens": [
         {
-          "t": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I"
+          "t": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And it came to pass on the twentieth day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.",
       "tokens": [
         {
-          "t": "¶ And it came to pass on the twentieth"
+          "t": "¶ And it came to pass on the twentieth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony."
+          "t": " of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.",
       "tokens": [
         {
-          "t": "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran."
+          "t": "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And they first took their journey according to the commandment of the LORD by the hand of Moses.",
       "tokens": [
         {
-          "t": "And they first took their journey according to the commandment of the"
+          "t": "And they first took their journey according to the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "by the hand of Moses."
+          "t": " by the hand of Moses. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ In the first place went the standard of the camp of the children of Judah according to their armies: and over his host was Nahshon the son of Amminadab.",
       "tokens": [
         {
-          "t": "¶ In the first"
+          "t": "¶ In the first "
         },
         {
           "add": "place"
         },
         {
-          "t": "went the standard of the camp of the children of Judah according to their armies: and over his host"
+          "t": " went the standard of the camp of the children of Judah according to their armies: and over his host "
         },
         {
           "add": "was"
         },
         {
-          "t": "Nahshon the son of Amminadab."
+          "t": " Nahshon the son of Amminadab. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And over the host of the tribe of the children of Issachar was Nethaneel the son of Zuar.",
       "tokens": [
         {
-          "t": "And over the host of the tribe of the children of Issachar"
+          "t": "And over the host of the tribe of the children of Issachar "
         },
         {
           "add": "was"
         },
         {
-          "t": "Nethaneel the son of Zuar."
+          "t": " Nethaneel the son of Zuar. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And over the host of the tribe of the children of Zebulun was Eliab the son of Helon.",
       "tokens": [
         {
-          "t": "And over the host of the tribe of the children of Zebulun"
+          "t": "And over the host of the tribe of the children of Zebulun "
         },
         {
           "add": "was"
         },
         {
-          "t": "Eliab the son of Helon."
+          "t": " Eliab the son of Helon. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle.",
       "tokens": [
         {
-          "t": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle."
+          "t": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And the standard of the camp of Reuben set forward according to their armies: and over his host was Elizur the son of Shedeur.",
       "tokens": [
         {
-          "t": "¶ And the standard of the camp of Reuben set forward according to their armies: and over his host"
+          "t": "¶ And the standard of the camp of Reuben set forward according to their armies: and over his host "
         },
         {
           "add": "was"
         },
         {
-          "t": "Elizur the son of Shedeur."
+          "t": " Elizur the son of Shedeur. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai.",
       "tokens": [
         {
-          "t": "And over the host of the tribe of the children of Simeon"
+          "t": "And over the host of the tribe of the children of Simeon "
         },
         {
           "add": "was"
         },
         {
-          "t": "Shelumiel the son of Zurishaddai."
+          "t": " Shelumiel the son of Zurishaddai. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And over the host of the tribe of the children of Gad was Eliasaph the son of Deuel.",
       "tokens": [
         {
-          "t": "And over the host of the tribe of the children of Gad"
+          "t": "And over the host of the tribe of the children of Gad "
         },
         {
           "add": "was"
         },
         {
-          "t": "Eliasaph the son of Deuel."
+          "t": " Eliasaph the son of Deuel. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And the Kohathites set forward, bearing the sanctuary: and the other did set up the tabernacle against they came.",
       "tokens": [
         {
-          "t": "And the Kohathites set forward, bearing the sanctuary: and"
+          "t": "And the Kohathites set forward, bearing the sanctuary: and "
         },
         {
           "add": "the other"
         },
         {
-          "t": "did set up the tabernacle against they came."
+          "t": " did set up the tabernacle against they came. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host was Elishama the son of Ammihud.",
       "tokens": [
         {
-          "t": "¶ And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host"
+          "t": "¶ And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host "
         },
         {
           "add": "was"
         },
         {
-          "t": "Elishama the son of Ammihud."
+          "t": " Elishama the son of Ammihud. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And over the host of the tribe of the children of Manasseh was Gamaliel the son of Pedahzur.",
       "tokens": [
         {
-          "t": "And over the host of the tribe of the children of Manasseh"
+          "t": "And over the host of the tribe of the children of Manasseh "
         },
         {
           "add": "was"
         },
         {
-          "t": "Gamaliel the son of Pedahzur."
+          "t": " Gamaliel the son of Pedahzur. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni.",
       "tokens": [
         {
-          "t": "And over the host of the tribe of the children of Benjamin"
+          "t": "And over the host of the tribe of the children of Benjamin "
         },
         {
           "add": "was"
         },
         {
-          "t": "Abidan the son of Gideoni."
+          "t": " Abidan the son of Gideoni. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ And the standard of the camp of the children of Dan set forward, which was the rereward of all the camps throughout their hosts: and over his host was Ahiezer the son of Ammishaddai.",
       "tokens": [
         {
-          "t": "¶ And the standard of the camp of the children of Dan set forward,"
+          "t": "¶ And the standard of the camp of the children of Dan set forward, "
         },
         {
           "add": "which was"
         },
         {
-          "t": "the rereward of all the camps throughout their hosts: and over his host"
+          "t": " the rereward of all the camps throughout their hosts: and over his host "
         },
         {
           "add": "was"
         },
         {
-          "t": "Ahiezer the son of Ammishaddai."
+          "t": " Ahiezer the son of Ammishaddai. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And over the host of the tribe of the children of Asher was Pagiel the son of Ocran.",
       "tokens": [
         {
-          "t": "And over the host of the tribe of the children of Asher"
+          "t": "And over the host of the tribe of the children of Asher "
         },
         {
           "add": "was"
         },
         {
-          "t": "Pagiel the son of Ocran."
+          "t": " Pagiel the son of Ocran. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And over the host of the tribe of the children of Naphtali was Ahira the son of Enan.",
       "tokens": [
         {
-          "t": "And over the host of the tribe of the children of Naphtali"
+          "t": "And over the host of the tribe of the children of Naphtali "
         },
         {
           "add": "was"
         },
         {
-          "t": "Ahira the son of Enan."
+          "t": " Ahira the son of Enan. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Thus were the journeyings of the children of Israel according to their armies, when they set forward.",
       "tokens": [
         {
-          "t": "Thus"
+          "t": "Thus "
         },
         {
           "add": " were"
         },
         {
-          "t": "the journeyings of the children of Israel according to their armies, when they set forward."
+          "t": " the journeyings of the children of Israel according to their armies, when they set forward. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the LORD said, I will give it you: come thou with us, and we will do thee good: for the LORD hath spoken good concerning Israel.",
       "tokens": [
         {
-          "t": "¶ And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the"
+          "t": "¶ And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said, I will give it you: come thou with us, and we will do thee good: for the"
+          "t": " said, I will give it you: come thou with us, and we will do thee good: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath spoken good concerning Israel."
+          "t": " hath spoken good concerning Israel. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.",
       "tokens": [
         {
-          "t": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred."
+          "t": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes.",
       "tokens": [
         {
-          "t": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes."
+          "t": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And it shall be, if thou go with us, yea, it shall be, that what goodness the LORD shall do unto us, the same will we do unto thee.",
       "tokens": [
         {
-          "t": "And it shall be, if thou go with us, yea, it shall be, that what goodness the"
+          "t": "And it shall be, if thou go with us, yea, it shall be, that what goodness the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall do unto us, the same will we do unto thee."
+          "t": " shall do unto us, the same will we do unto thee. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "¶ And they departed from the mount of the LORD three days’ journey: and the ark of the covenant of the LORD went before them in the three days’ journey, to search out a resting place for them.",
       "tokens": [
         {
-          "t": "¶ And they departed from the mount of the"
+          "t": "¶ And they departed from the mount of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "three days’ journey: and the ark of the covenant of the"
+          "t": " three days’ journey: and the ark of the covenant of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "went before them in the three days’ journey, to search out a resting place for them."
+          "t": " went before them in the three days’ journey, to search out a resting place for them. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And the cloud of the LORD was upon them by day, when they went out of the camp.",
       "tokens": [
         {
-          "t": "And the cloud of the"
+          "t": "And the cloud of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "was"
         },
         {
-          "t": "upon them by day, when they went out of the camp."
+          "t": " upon them by day, when they went out of the camp. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee.",
       "tokens": [
         {
-          "t": "And it came to pass, when the ark set forward, that Moses said, Rise up,"
+          "t": "And it came to pass, when the ark set forward, that Moses said, Rise up, "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and let thine enemies be scattered; and let them that hate thee flee before thee."
+          "t": ", and let thine enemies be scattered; and let them that hate thee flee before thee. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And when it rested, he said, Return, O LORD, unto the many thousands of Israel.",
       "tokens": [
         {
-          "t": "And when it rested, he said, Return, O"
+          "t": "And when it rested, he said, Return, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", unto the many thousands of Israel."
+          "t": ", unto the many thousands of Israel. "
         }
       ]
     }

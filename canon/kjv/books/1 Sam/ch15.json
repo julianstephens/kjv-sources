@@ -7,578 +7,616 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Samuel also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD.",
       "tokens": [
         {
-          "t": "Samuel also said unto Saul, The"
+          "t": "Samuel also said unto Saul, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sent me to anoint thee"
+          "t": " sent me to anoint thee "
         },
         {
           "add": "to be"
         },
         {
-          "t": "king over his people, over Israel: now therefore hearken thou unto the voice of the words of the"
+          "t": " king over his people, over Israel: now therefore hearken thou unto the voice of the words of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thus saith the LORD of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, I remember"
+          "t": " of hosts, I remember "
         },
         {
           "add": "that"
         },
         {
-          "t": "which Amalek did to Israel, how he laid"
+          "t": " which Amalek did to Israel, how he laid "
         },
         {
           "add": "wait"
         },
         {
-          "t": "for him in the way, when he came up from Egypt."
+          "t": " for him in the way, when he came up from Egypt. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.",
       "tokens": [
         {
-          "t": "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass."
+          "t": "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah.",
       "tokens": [
         {
-          "t": "And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah."
+          "t": "And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Saul came to a city of Amalek, and laid wait in the valley.",
       "tokens": [
         {
-          "t": "And Saul came to a city of Amalek, and laid wait in the valley."
+          "t": "And Saul came to a city of Amalek, and laid wait in the valley. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites.",
       "tokens": [
         {
-          "t": "¶ And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites."
+          "t": "¶ And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Saul smote the Amalekites from Havilah until thou comest to Shur, that is over against Egypt.",
       "tokens": [
         {
-          "t": "And Saul smote the Amalekites from Havilah"
+          "t": "And Saul smote the Amalekites from Havilah "
         },
         {
           "add": "until"
         },
         {
-          "t": "thou comest to Shur, that"
+          "t": " thou comest to Shur, that "
         },
         {
           "add": "is"
         },
         {
-          "t": "over against Egypt."
+          "t": " over against Egypt. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword.",
       "tokens": [
         {
-          "t": "And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword."
+          "t": "And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly.",
       "tokens": [
         {
-          "t": "But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all"
+          "t": "But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all "
         },
         {
           "add": "that was"
         },
         {
-          "t": "good, and would not utterly destroy them: but every thing"
+          "t": " good, and would not utterly destroy them: but every thing "
         },
         {
           "add": "that was"
         },
         {
-          "t": "vile and refuse, that they destroyed utterly."
+          "t": " vile and refuse, that they destroyed utterly. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ Then came the word of the LORD unto Samuel, saying,",
       "tokens": [
         {
-          "t": "¶ Then came the word of the"
+          "t": "¶ Then came the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto Samuel, saying,"
+          "t": " unto Samuel, saying, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night.",
       "tokens": [
         {
-          "t": "It repenteth me that I have set up Saul"
+          "t": "It repenteth me that I have set up Saul "
         },
         {
           "add": "to be"
         },
         {
-          "t": "king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the"
+          "t": " king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "all night."
+          "t": " all night. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal.",
       "tokens": [
         {
-          "t": "And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal."
+          "t": "And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Samuel came to Saul: and Saul said unto him, Blessed be thou of the LORD: I have performed the commandment of the LORD.",
       "tokens": [
         {
-          "t": "And Samuel came to Saul: and Saul said unto him, Blessed"
+          "t": "And Samuel came to Saul: and Saul said unto him, Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "thou of the"
+          "t": " thou of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": I have performed the commandment of the"
+          "t": ": I have performed the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?",
       "tokens": [
         {
-          "t": "And Samuel said, What"
+          "t": "And Samuel said, What "
         },
         {
           "add": "meaneth"
         },
         {
-          "t": "then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?"
+          "t": " then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD thy God; and the rest we have utterly destroyed.",
       "tokens": [
         {
-          "t": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the"
+          "t": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God; and the rest we have utterly destroyed."
+          "t": " thy God; and the rest we have utterly destroyed. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on.",
       "tokens": [
         {
-          "t": "Then Samuel said unto Saul, Stay, and I will tell thee what the"
+          "t": "Then Samuel said unto Saul, Stay, and I will tell thee what the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath said to me this night. And he said unto him, Say on."
+          "t": " hath said to me this night. And he said unto him, Say on. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the LORD anointed thee king over Israel?",
       "tokens": [
         {
-          "t": "And Samuel said, When thou"
+          "t": "And Samuel said, When thou "
         },
         {
           "add": "wast"
         },
         {
-          "t": "little in thine own sight,"
+          "t": " little in thine own sight, "
         },
         {
           "add": "wast"
         },
         {
-          "t": "thou not"
+          "t": " thou not "
         },
         {
           "add": "made"
         },
         {
-          "t": "the head of the tribes of Israel, and the"
+          "t": " the head of the tribes of Israel, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "anointed thee king over Israel?"
+          "t": " anointed thee king over Israel? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the LORD sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed."
+          "t": " sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD?",
       "tokens": [
         {
-          "t": "Wherefore then didst thou not obey the voice of the"
+          "t": "Wherefore then didst thou not obey the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", but didst fly upon the spoil, and didst evil in the sight of the"
+          "t": ", but didst fly upon the spoil, and didst evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites.",
       "tokens": [
         {
-          "t": "And Saul said unto Samuel, Yea, I have obeyed the voice of the"
+          "t": "And Saul said unto Samuel, Yea, I have obeyed the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and have gone the way which the"
+          "t": ", and have gone the way which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites."
+          "t": " sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal.",
       "tokens": [
         {
-          "t": "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the"
+          "t": "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God in Gilgal."
+          "t": " thy God in Gilgal. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.",
       "tokens": [
         {
-          "t": "And Samuel said, Hath the"
+          "t": "And Samuel said, Hath the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "as great"
         },
         {
-          "t": "delight in burnt offerings and sacrifices, as in obeying the voice of the"
+          "t": " delight in burnt offerings and sacrifices, as in obeying the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "? Behold, to obey"
+          "t": "? Behold, to obey "
         },
         {
           "add": "is"
         },
         {
-          "t": "better than sacrifice,"
+          "t": " better than sacrifice, "
         },
         {
           "add": "and"
         },
         {
-          "t": "to hearken than the fat of rams."
+          "t": " to hearken than the fat of rams. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king.",
       "tokens": [
         {
-          "t": "For rebellion"
+          "t": "For rebellion "
         },
         {
           "add": "is as"
         },
         {
-          "t": "the sin of witchcraft, and stubbornness"
+          "t": " the sin of witchcraft, and stubbornness "
         },
         {
           "add": "is as"
         },
         {
-          "t": "iniquity and idolatry. Because thou hast rejected the word of the"
+          "t": " iniquity and idolatry. Because thou hast rejected the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", he hath also rejected thee from"
+          "t": ", he hath also rejected thee from "
         },
         {
           "add": "being"
         },
         {
-          "t": "king."
+          "t": " king. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the LORD, and thy words: because I feared the people, and obeyed their voice.",
       "tokens": [
         {
-          "t": "¶ And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the"
+          "t": "¶ And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and thy words: because I feared the people, and obeyed their voice."
+          "t": ", and thy words: because I feared the people, and obeyed their voice. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the LORD.",
       "tokens": [
         {
-          "t": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the"
+          "t": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the LORD, and the LORD hath rejected thee from being king over Israel.",
       "tokens": [
         {
-          "t": "And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the"
+          "t": "And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the"
+          "t": ", and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath rejected thee from being king over Israel."
+          "t": " hath rejected thee from being king over Israel. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent.",
       "tokens": [
         {
-          "t": "And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent."
+          "t": "And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Samuel said unto him, The LORD hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.",
       "tokens": [
         {
-          "t": "And Samuel said unto him, The"
+          "t": "And Samuel said unto him, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine,"
+          "t": " hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, "
         },
         {
           "add": "that is"
         },
         {
-          "t": "better than thou."
+          "t": " better than thou. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent.",
       "tokens": [
         {
-          "t": "And also the Strength of Israel will not lie nor repent: for he"
+          "t": "And also the Strength of Israel will not lie nor repent: for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "not a man, that he should repent."
+          "t": " not a man, that he should repent. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Then he said, I have sinned: yet honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the LORD thy God.",
       "tokens": [
         {
-          "t": "Then he said, I have sinned:"
+          "t": "Then he said, I have sinned: "
         },
         {
           "add": "yet"
         },
         {
-          "t": "honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the"
+          "t": " honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God."
+          "t": " thy God. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "So Samuel turned again after Saul; and Saul worshipped the LORD.",
       "tokens": [
         {
-          "t": "So Samuel turned again after Saul; and Saul worshipped the"
+          "t": "So Samuel turned again after Saul; and Saul worshipped the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "¶ Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past.",
       "tokens": [
         {
-          "t": "¶ Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past."
+          "t": "¶ Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the LORD in Gilgal.",
       "tokens": [
         {
-          "t": "And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the"
+          "t": "And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in Gilgal."
+          "t": " in Gilgal. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "¶ Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul.",
       "tokens": [
         {
-          "t": "¶ Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul."
+          "t": "¶ Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel.",
       "tokens": [
         {
-          "t": "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the"
+          "t": "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "repented that he had made Saul king over Israel."
+          "t": " repented that he had made Saul king over Israel. "
         }
       ]
     }

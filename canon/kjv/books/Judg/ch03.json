@@ -7,402 +7,433 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now these are the nations which the LORD left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan;",
       "tokens": [
         {
-          "t": "Now these"
+          "t": "Now these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the nations which the"
+          "t": " the nations which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "left, to prove Israel by them,"
+          "t": " left, to prove Israel by them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "as many"
+          "t": " as many "
         },
         {
           "add": "of Israel"
         },
         {
-          "t": "as had not known all the wars of Canaan;"
+          "t": " as had not known all the wars of Canaan; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Only that the generations of the children of Israel might know, to teach them war, at the least such as before knew nothing thereof;",
       "tokens": [
         {
-          "t": "Only that the generations of the children of Israel might know, to teach them war, at the least such as before knew nothing thereof;"
+          "t": "Only that the generations of the children of Israel might know, to teach them war, at the least such as before knew nothing thereof; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Namely, five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baal-hermon unto the entering in of Hamath.",
       "tokens": [
         {
           "add": "Namely"
         },
         {
-          "t": ", five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baal-hermon unto the entering in of Hamath."
+          "t": ", five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baal-hermon unto the entering in of Hamath. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And they were to prove Israel by them, to know whether they would hearken unto the commandments of the LORD, which he commanded their fathers by the hand of Moses.",
       "tokens": [
         {
-          "t": "And they were to prove Israel by them, to know whether they would hearken unto the commandments of the"
+          "t": "And they were to prove Israel by them, to know whether they would hearken unto the commandments of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which he commanded their fathers by the hand of Moses."
+          "t": ", which he commanded their fathers by the hand of Moses. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites:",
       "tokens": [
         {
-          "t": "¶ And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites:"
+          "t": "¶ And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And they took their daughters to be their wives, and gave their daughters to their sons, and served their gods.",
       "tokens": [
         {
-          "t": "And they took their daughters to be their wives, and gave their daughters to their sons, and served their gods."
+          "t": "And they took their daughters to be their wives, and gave their daughters to their sons, and served their gods. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the children of Israel did evil in the sight of the LORD, and forgat the LORD their God, and served Baalim and the groves.",
       "tokens": [
         {
-          "t": "And the children of Israel did evil in the sight of the"
+          "t": "And the children of Israel did evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and forgat the"
+          "t": ", and forgat the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "their God, and served Baalim and the groves."
+          "t": " their God, and served Baalim and the groves. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ Therefore the anger of the LORD was hot against Israel, and he sold them into the hand of Chushan-rishathaim king of Mesopotamia: and the children of Israel served Chushan-rishathaim eight years.",
       "tokens": [
         {
-          "t": "¶ Therefore the anger of the"
+          "t": "¶ Therefore the anger of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was hot against Israel, and he sold them into the hand of Chushan-rishathaim king of Mesopotamia: and the children of Israel served Chushan-rishathaim eight years."
+          "t": " was hot against Israel, and he sold them into the hand of Chushan-rishathaim king of Mesopotamia: and the children of Israel served Chushan-rishathaim eight years. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And when the children of Israel cried unto the LORD, the LORD raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb’s younger brother.",
       "tokens": [
         {
-          "t": "And when the children of Israel cried unto the"
+          "t": "And when the children of Israel cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the"
+          "t": ", the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "raised up a deliverer to the children of Israel, who delivered them,"
+          "t": " raised up a deliverer to the children of Israel, who delivered them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "Othniel the son of Kenaz, Caleb’s younger brother."
+          "t": " Othniel the son of Kenaz, Caleb’s younger brother. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the Spirit of the LORD came upon him, and he judged Israel, and went out to war: and the LORD delivered Chushan-rishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushan-rishathaim.",
       "tokens": [
         {
-          "t": "And the Spirit of the"
+          "t": "And the Spirit of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came upon him, and he judged Israel, and went out to war: and the"
+          "t": " came upon him, and he judged Israel, and went out to war: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "delivered Chushan-rishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushan-rishathaim."
+          "t": " delivered Chushan-rishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushan-rishathaim. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the land had rest forty years. And Othniel the son of Kenaz died.",
       "tokens": [
         {
-          "t": "And the land had rest forty years. And Othniel the son of Kenaz died."
+          "t": "And the land had rest forty years. And Othniel the son of Kenaz died. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And the children of Israel did evil again in the sight of the LORD: and the LORD strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the LORD.",
       "tokens": [
         {
-          "t": "¶ And the children of Israel did evil again in the sight of the"
+          "t": "¶ And the children of Israel did evil again in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and the"
+          "t": ": and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the"
+          "t": " strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees.",
       "tokens": [
         {
-          "t": "And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees."
+          "t": "And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "So the children of Israel served Eglon the king of Moab eighteen years.",
       "tokens": [
         {
-          "t": "So the children of Israel served Eglon the king of Moab eighteen years."
+          "t": "So the children of Israel served Eglon the king of Moab eighteen years. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But when the children of Israel cried unto the LORD, the LORD raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab.",
       "tokens": [
         {
-          "t": "But when the children of Israel cried unto the"
+          "t": "But when the children of Israel cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the"
+          "t": ", the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab."
+          "t": " raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But Ehud made him a dagger which had two edges, of a cubit length; and he did gird it under his raiment upon his right thigh.",
       "tokens": [
         {
-          "t": "But Ehud made him a dagger which had two edges, of a cubit length; and he did gird it under his raiment upon his right thigh."
+          "t": "But Ehud made him a dagger which had two edges, of a cubit length; and he did gird it under his raiment upon his right thigh. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And he brought the present unto Eglon king of Moab: and Eglon was a very fat man.",
       "tokens": [
         {
-          "t": "And he brought the present unto Eglon king of Moab: and Eglon"
+          "t": "And he brought the present unto Eglon king of Moab: and Eglon "
         },
         {
           "add": "was"
         },
         {
-          "t": "a very fat man."
+          "t": " a very fat man. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And when he had made an end to offer the present, he sent away the people that bare the present.",
       "tokens": [
         {
-          "t": "And when he had made an end to offer the present, he sent away the people that bare the present."
+          "t": "And when he had made an end to offer the present, he sent away the people that bare the present. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "But he himself turned again from the quarries that were by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him.",
       "tokens": [
         {
-          "t": "But he himself turned again from the quarries that"
+          "t": "But he himself turned again from the quarries that "
         },
         {
           "add": "were"
         },
         {
-          "t": "by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him."
+          "t": " by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of his seat.",
       "tokens": [
         {
-          "t": "And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of"
+          "t": "And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of "
         },
         {
           "add": "his"
         },
         {
-          "t": "seat."
+          "t": " seat. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly:",
       "tokens": [
         {
-          "t": "And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly:"
+          "t": "And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And the haft also went in after the blade; and the fat closed upon the blade, so that he could not draw the dagger out of his belly; and the dirt came out.",
       "tokens": [
         {
-          "t": "And the haft also went in after the blade; and the fat closed upon the blade, so that he could not draw the dagger out of his belly; and the dirt came out."
+          "t": "And the haft also went in after the blade; and the fat closed upon the blade, so that he could not draw the dagger out of his belly; and the dirt came out. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Then Ehud went forth through the porch, and shut the doors of the parlour upon him, and locked them.",
       "tokens": [
         {
-          "t": "Then Ehud went forth through the porch, and shut the doors of the parlour upon him, and locked them."
+          "t": "Then Ehud went forth through the porch, and shut the doors of the parlour upon him, and locked them. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were locked, they said, Surely he covereth his feet in his summer chamber.",
       "tokens": [
         {
-          "t": "When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour"
+          "t": "When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour "
         },
         {
           "add": "were"
         },
         {
-          "t": "locked, they said, Surely he covereth his feet in his summer chamber."
+          "t": " locked, they said, Surely he covereth his feet in his summer chamber. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened them: and, behold, their lord was fallen down dead on the earth.",
       "tokens": [
         {
-          "t": "And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened"
+          "t": "And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened "
         },
         {
           "add": "them:"
         },
         {
-          "t": "and, behold, their lord"
+          "t": " and, behold, their lord "
         },
         {
           "add": "was"
         },
         {
-          "t": "fallen down dead on the earth."
+          "t": " fallen down dead on the earth. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath.",
       "tokens": [
         {
-          "t": "And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath."
+          "t": "And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them.",
       "tokens": [
         {
-          "t": "And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them."
+          "t": "And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And he said unto them, Follow after me: for the LORD hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over.",
       "tokens": [
         {
-          "t": "And he said unto them, Follow after me: for the"
+          "t": "And he said unto them, Follow after me: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over."
+          "t": " hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man.",
       "tokens": [
         {
-          "t": "And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man."
+          "t": "And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years.",
       "tokens": [
         {
-          "t": "So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years."
+          "t": "So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "¶ And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.",
       "tokens": [
         {
-          "t": "¶ And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel."
+          "t": "¶ And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel. "
         }
       ]
     }

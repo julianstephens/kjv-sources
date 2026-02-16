@@ -1,0 +1,105 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 15,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+      "tokens": [
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", who shall abide in thy tabernacle? who shall dwell in thy holy hill? "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+      "tokens": [
+        {
+          "t": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+      "tokens": [
+        {
+          "add": "He that"
+        },
+        {
+          "t": " backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not.",
+      "tokens": [
+        {
+          "t": "In whose eyes a vile person is contemned; but he honoureth them that fear the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        },
+        {
+          "add": "He that"
+        },
+        {
+          "t": " sweareth to "
+        },
+        {
+          "add": "his own"
+        },
+        {
+          "t": " hurt, and changeth not. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.",
+      "tokens": [
+        {
+          "add": "He that"
+        },
+        {
+          "t": " putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these "
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": " shall never be moved. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "abide: Heb. sojourn"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "taketh…: or, receiveth, or, endureth"
+    }
+  ]
+}

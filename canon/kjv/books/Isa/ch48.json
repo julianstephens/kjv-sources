@@ -7,372 +7,394 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, but not in truth, nor in righteousness.",
       "tokens": [
         {
-          "t": "Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the"
+          "t": "Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and make mention of the God of Israel,"
+          "t": ", and make mention of the God of Israel, "
         },
         {
           "add": "but"
         },
         {
-          "t": "not in truth, nor in righteousness."
+          "t": " not in truth, nor in righteousness. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "For they call themselves of the holy city, and stay themselves upon the God of Israel; The LORD of hosts is his name.",
       "tokens": [
         {
-          "t": "For they call themselves of the holy city, and stay themselves upon the God of Israel; The"
+          "t": "For they call themselves of the holy city, and stay themselves upon the God of Israel; The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts"
+          "t": " of hosts "
         },
         {
           "add": "is"
         },
         {
-          "t": "his name."
+          "t": " his name. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did them suddenly, and they came to pass.",
       "tokens": [
         {
-          "t": "I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did"
+          "t": "I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did "
         },
         {
           "add": "them"
         },
         {
-          "t": "suddenly, and they came to pass."
+          "t": " suddenly, and they came to pass. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Because I knew that thou art obstinate, and thy neck is an iron sinew, and thy brow brass;",
       "tokens": [
         {
-          "t": "Because I knew that thou"
+          "t": "Because I knew that thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "obstinate, and thy neck"
+          "t": " obstinate, and thy neck "
         },
         {
           "add": "is"
         },
         {
-          "t": "an iron sinew, and thy brow brass;"
+          "t": " an iron sinew, and thy brow brass; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "I have even from the beginning declared it to thee; before it came to pass I shewed it thee: lest thou shouldest say, Mine idol hath done them, and my graven image, and my molten image, hath commanded them.",
       "tokens": [
         {
-          "t": "I have even from the beginning declared"
+          "t": "I have even from the beginning declared "
         },
         {
           "add": "it"
         },
         {
-          "t": "to thee; before it came to pass I shewed"
+          "t": " to thee; before it came to pass I shewed "
         },
         {
           "add": "it"
         },
         {
-          "t": "thee: lest thou shouldest say, Mine idol hath done them, and my graven image, and my molten image, hath commanded them."
+          "t": " thee: lest thou shouldest say, Mine idol hath done them, and my graven image, and my molten image, hath commanded them. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Thou hast heard, see all this; and will not ye declare it? I have shewed thee new things from this time, even hidden things, and thou didst not know them.",
       "tokens": [
         {
-          "t": "Thou hast heard, see all this; and will not ye declare"
+          "t": "Thou hast heard, see all this; and will not ye declare "
         },
         {
           "add": "it"
         },
         {
-          "t": "? I have shewed thee new things from this time, even hidden things, and thou didst not know them."
+          "t": "? I have shewed thee new things from this time, even hidden things, and thou didst not know them. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.",
       "tokens": [
         {
-          "t": "They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them."
+          "t": "They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Yea, thou heardest not; yea, thou knewest not; yea, from that time that thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb.",
       "tokens": [
         {
-          "t": "Yea, thou heardest not; yea, thou knewest not; yea, from that time"
+          "t": "Yea, thou heardest not; yea, thou knewest not; yea, from that time "
         },
         {
           "add": "that"
         },
         {
-          "t": "thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb."
+          "t": " thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.",
       "tokens": [
         {
-          "t": "¶ For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off."
+          "t": "¶ For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.",
       "tokens": [
         {
-          "t": "Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction."
+          "t": "Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory unto another.",
       "tokens": [
         {
-          "t": "For mine own sake,"
+          "t": "For mine own sake, "
         },
         {
           "add": "even"
         },
         {
-          "t": "for mine own sake, will I do"
+          "t": " for mine own sake, will I do "
         },
         {
           "add": "it:"
         },
         {
-          "t": "for how should"
+          "t": " for how should "
         },
         {
           "add": "my name"
         },
         {
-          "t": "be polluted? and I will not give my glory unto another."
+          "t": " be polluted? and I will not give my glory unto another. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last.",
       "tokens": [
         {
-          "t": "¶ Hearken unto me, O Jacob and Israel, my called; I"
+          "t": "¶ Hearken unto me, O Jacob and Israel, my called; I "
         },
         {
           "add": "am"
         },
         {
-          "t": "he; I"
+          "t": " he; I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the first, I also"
+          "t": " the first, I also "
         },
         {
           "add": "am"
         },
         {
-          "t": "the last."
+          "t": " the last. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.",
       "tokens": [
         {
-          "t": "Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens:"
+          "t": "Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: "
         },
         {
           "add": "when"
         },
         {
-          "t": "I call unto them, they stand up together."
+          "t": " I call unto them, they stand up together. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "All ye, assemble yourselves, and hear; which among them hath declared these things? The LORD hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.",
       "tokens": [
         {
-          "t": "All ye, assemble yourselves, and hear; which among them hath declared these"
+          "t": "All ye, assemble yourselves, and hear; which among them hath declared these "
         },
         {
           "add": "things"
         },
         {
-          "t": "? The"
+          "t": "? The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath loved him: he will do his pleasure on Babylon, and his arm"
+          "t": " hath loved him: he will do his pleasure on Babylon, and his arm "
         },
         {
           "add": "shall be on"
         },
         {
-          "t": "the Chaldeans."
+          "t": " the Chaldeans. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "I, even I, have spoken; yea, I have called him: I have brought him, and he shall make his way prosperous.",
       "tokens": [
         {
-          "t": "I,"
+          "t": "I, "
         },
         {
           "add": "even"
         },
         {
-          "t": "I, have spoken; yea, I have called him: I have brought him, and he shall make his way prosperous."
+          "t": " I, have spoken; yea, I have called him: I have brought him, and he shall make his way prosperous. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord GOD, and his Spirit, hath sent me.",
       "tokens": [
         {
-          "t": "¶ Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there"
+          "t": "¶ Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there "
         },
         {
           "add": "am"
         },
         {
-          "t": "I: and now the Lord"
+          "t": " I: and now the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ", and his Spirit, hath sent me."
+          "t": ", and his Spirit, hath sent me. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Thus saith the LORD, thy Redeemer, the Holy One of Israel; I am the LORD thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", thy Redeemer, the Holy One of Israel; I"
+          "t": ", thy Redeemer, the Holy One of Israel; I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God which teacheth thee to profit, which leadeth thee by the way"
+          "t": " thy God which teacheth thee to profit, which leadeth thee by the way "
         },
         {
           "add": "that"
         },
         {
-          "t": "thou shouldest go."
+          "t": " thou shouldest go. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:",
       "tokens": [
         {
-          "t": "O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:"
+          "t": "O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me.",
       "tokens": [
         {
-          "t": "Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me."
+          "t": "Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.",
       "tokens": [
         {
-          "t": "¶ Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it"
+          "t": "¶ Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it "
         },
         {
           "add": "even"
         },
         {
-          "t": "to the end of the earth; say ye, The"
+          "t": " to the end of the earth; say ye, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath redeemed his servant Jacob."
+          "t": " hath redeemed his servant Jacob. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.",
       "tokens": [
         {
-          "t": "And they thirsted not"
+          "t": "And they thirsted not "
         },
         {
           "add": "when"
         },
         {
-          "t": "he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out."
+          "t": " he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "There is no peace, saith the LORD, unto the wicked.",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "no peace, saith the"
+          "t": " no peace, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", unto the wicked."
+          "t": ", unto the wicked. "
         }
       ]
     }

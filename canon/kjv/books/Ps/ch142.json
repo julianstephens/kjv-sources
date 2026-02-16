@@ -7,99 +7,106 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.",
       "tokens": [
         {
-          "t": "I cried unto the"
+          "t": "I cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "with my voice; with my voice unto the"
+          "t": " with my voice; with my voice unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "did I make my supplication."
+          "t": " did I make my supplication. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "I poured out my complaint before him; I shewed before him my trouble.",
       "tokens": [
         {
-          "t": "I poured out my complaint before him; I shewed before him my trouble."
+          "t": "I poured out my complaint before him; I shewed before him my trouble. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.",
       "tokens": [
         {
-          "t": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me."
+          "t": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul.",
       "tokens": [
         {
-          "t": "I looked on"
+          "t": "I looked on "
         },
         {
           "add": "my"
         },
         {
-          "t": "right hand, and beheld, but"
+          "t": " right hand, and beheld, but "
         },
         {
           "add": "there was"
         },
         {
-          "t": "no man that would know me: refuge failed me; no man cared for my soul."
+          "t": " no man that would know me: refuge failed me; no man cared for my soul. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "I cried unto thee, O LORD: I said, Thou art my refuge and my portion in the land of the living.",
       "tokens": [
         {
-          "t": "I cried unto thee, O"
+          "t": "I cried unto thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": I said, Thou"
+          "t": ": I said, Thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "my refuge"
+          "t": " my refuge "
         },
         {
           "add": "and"
         },
         {
-          "t": "my portion in the land of the living."
+          "t": " my portion in the land of the living. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
       "tokens": [
         {
-          "t": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I."
+          "t": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.",
       "tokens": [
         {
-          "t": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me."
+          "t": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me. "
         }
       ]
     }

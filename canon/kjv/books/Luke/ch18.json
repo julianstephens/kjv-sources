@@ -7,338 +7,592 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And he spake a parable unto them to this end, that men ought always to pray, and not to faint;",
       "tokens": [
         {
-          "t": "And he spake a parable unto them"
+          "t": "And he spake a parable unto them "
         },
         {
           "add": "to this end"
         },
         {
-          "t": ", that men ought always to pray, and not to faint;"
+          "t": ", that men ought always to pray, and not to faint; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Saying, There was in a city a judge, which feared not God, neither regarded man:",
       "tokens": [
         {
-          "t": "Saying,"
+          "t": "Saying, "
+        },
+        {
+          "t": "There was in a city a judge, which feared not God, neither regarded man:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 3,
-      "tokens": null
+      "plain": "And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary.",
+      "tokens": [
+        {
+          "t": "And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;",
+      "tokens": [
+        {
+          "t": "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.",
+      "tokens": [
+        {
+          "t": "Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
+      "plain": "And the Lord said, Hear what the unjust judge saith.",
       "tokens": [
         {
-          "t": "And the Lord said,"
+          "t": "And the Lord said, "
+        },
+        {
+          "t": "Hear what the unjust judge saith."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?",
+      "tokens": [
+        {
+          "t": "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?",
+      "tokens": [
+        {
+          "t": "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
+      "plain": "And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:",
       "tokens": [
         {
-          "t": "And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:"
+          "t": "And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others: "
         }
       ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican.",
+      "tokens": [
+        {
+          "t": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican.",
+      "tokens": [
+        {
+          "t": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": ", extortioners, unjust, adulterers, or even as this publican."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "I fast twice in the week, I give tithes of all that I possess.",
+      "tokens": [
+        {
+          "t": "I fast twice in the week, I give tithes of all that I possess."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
-    },
-    {
-      "v": 14,
-      "tokens": null
-    },
-    {
-      "v": 15,
+      "plain": "And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.",
       "tokens": [
         {
-          "t": "And they brought unto him also infants, that he would touch them: but when"
+          "t": "And the publican, standing afar off, would not lift up so much as "
         },
         {
           "add": "his"
         },
         {
-          "t": "disciples saw"
+          "t": " eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.",
+      "tokens": [
+        {
+          "t": "I tell you, this man went down to his house justified "
+        },
+        {
+          "add": "rather"
+        },
+        {
+          "t": " than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "And they brought unto him also infants, that he would touch them: but when his disciples saw it, they rebuked them.",
+      "tokens": [
+        {
+          "t": "And they brought unto him also infants, that he would touch them: but when "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " disciples saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they rebuked them."
+          "t": ", they rebuked them. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But Jesus called them unto him, and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God.",
       "tokens": [
         {
-          "t": "But Jesus called them"
+          "t": "But Jesus called them "
         },
         {
           "add": "unto him"
         },
         {
-          "t": ", and said,"
+          "t": ", and said, "
+        },
+        {
+          "t": "Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein.",
+      "tokens": [
+        {
+          "t": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
+      "plain": "And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?",
       "tokens": [
         {
-          "t": "And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?"
+          "t": "And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life? "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God.",
       "tokens": [
         {
-          "t": "And Jesus said unto him,"
+          "t": "And Jesus said unto him, "
+        },
+        {
+          "t": "Why callest thou me good? none "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " good, save one, "
+        },
+        {
+          "add": "that is"
+        },
+        {
+          "t": ", God."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother.",
+      "tokens": [
+        {
+          "t": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
+      "plain": "And he said, All these have I kept from my youth up.",
       "tokens": [
         {
-          "t": "And he said, All these have I kept from my youth up."
+          "t": "And he said, All these have I kept from my youth up. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.",
       "tokens": [
         {
-          "t": "Now when Jesus heard these things, he said unto him,"
+          "t": "Now when Jesus heard these things, he said unto him, "
+        },
+        {
+          "t": "Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And when he heard this, he was very sorrowful: for he was very rich.",
       "tokens": [
         {
-          "t": "And when he heard this, he was very sorrowful: for he was very rich."
+          "t": "And when he heard this, he was very sorrowful: for he was very rich. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!",
       "tokens": [
         {
-          "t": "And when Jesus saw that he was very sorrowful, he said,"
+          "t": "And when Jesus saw that he was very sorrowful, he said, "
+        },
+        {
+          "t": "How hardly shall they that have riches enter into the kingdom of God!"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God.",
+      "tokens": [
+        {
+          "t": "For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
+      "plain": "And they that heard it said, Who then can be saved?",
       "tokens": [
         {
-          "t": "And they that heard"
+          "t": "And they that heard "
         },
         {
           "add": "it"
         },
         {
-          "t": "said, Who then can be saved?"
+          "t": " said, Who then can be saved? "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And he said, The things which are impossible with men are possible with God.",
       "tokens": [
         {
-          "t": "And he said,"
+          "t": "And he said, "
+        },
+        {
+          "t": "The things which are impossible with men are possible with God."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Then Peter said, Lo, we have left all, and followed thee.",
       "tokens": [
         {
-          "t": "Then Peter said, Lo, we have left all, and followed thee."
+          "t": "Then Peter said, Lo, we have left all, and followed thee. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God’s sake,",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God’s sake,"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "Who shall not receive manifold more in this present time, and in the world to come life everlasting.",
+      "tokens": [
+        {
+          "t": "Who shall not receive manifold more in this present time, and in the world to come life everlasting."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
+      "plain": "¶ Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.",
       "tokens": [
         {
-          "t": "¶ Then he took"
+          "t": "¶ Then he took "
         },
         {
           "add": "unto him"
         },
         {
-          "t": "the twelve, and said unto them,"
+          "t": " the twelve, and said unto them, "
+        },
+        {
+          "t": "Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:",
+      "tokens": [
+        {
+          "t": "For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
+      "plain": "And they shall scourge him, and put him to death: and the third day he shall rise again.",
+      "tokens": [
+        {
+          "t": "And they shall scourge "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": ", and put him to death: and the third day he shall rise again."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 34,
+      "plain": "And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken.",
       "tokens": [
         {
-          "t": "And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken."
+          "t": "And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "¶ And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:",
       "tokens": [
         {
-          "t": "¶ And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:"
+          "t": "¶ And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging: "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And hearing the multitude pass by, he asked what it meant.",
       "tokens": [
         {
-          "t": "And hearing the multitude pass by, he asked what it meant."
+          "t": "And hearing the multitude pass by, he asked what it meant. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And they told him, that Jesus of Nazareth passeth by.",
       "tokens": [
         {
-          "t": "And they told him, that Jesus of Nazareth passeth by."
+          "t": "And they told him, that Jesus of Nazareth passeth by. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And he cried, saying, Jesus, thou Son of David, have mercy on me.",
       "tokens": [
         {
-          "t": "And he cried, saying, Jesus,"
+          "t": "And he cried, saying, Jesus, "
         },
         {
           "add": "thou"
         },
         {
-          "t": "Son of David, have mercy on me."
+          "t": " Son of David, have mercy on me. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou Son of David, have mercy on me.",
       "tokens": [
         {
-          "t": "And they which went before rebuked him, that he should hold his peace: but he cried so much the more,"
+          "t": "And they which went before rebuked him, that he should hold his peace: but he cried so much the more, "
         },
         {
           "add": "Thou"
         },
         {
-          "t": "Son of David, have mercy on me."
+          "t": " Son of David, have mercy on me. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,",
       "tokens": [
         {
-          "t": "And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,"
+          "t": "And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him, "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight.",
       "tokens": [
         {
-          "t": "And he said, Lord, that I may receive my sight."
+          "t": "Saying, "
         },
         {
-          "t": "Saying, And he said, Lord, that I may receive my sight."
+          "t": "What wilt thou that I shall do unto thee?"
+        },
+        {
+          "t": " And he said, Lord, that I may receive my sight. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And Jesus said unto him, Receive thy sight: thy faith hath saved thee.",
       "tokens": [
         {
-          "t": "And Jesus said unto him,"
+          "t": "And Jesus said unto him, "
+        },
+        {
+          "t": "Receive thy sight: thy faith hath saved thee."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.",
       "tokens": [
         {
-          "t": "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw"
+          "t": "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", gave praise unto God."
+          "t": ", gave praise unto God. "
         }
       ]
     }

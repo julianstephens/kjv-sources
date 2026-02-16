@@ -7,235 +7,723 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.",
       "tokens": [
         {
-          "t": "And Jesus went out, and departed from the temple: and his disciples came to"
+          "t": "And Jesus went out, and departed from the temple: and his disciples came to "
         },
         {
           "add": "him"
         },
         {
-          "t": "for to shew him the buildings of the temple."
+          "t": " for to shew him the buildings of the temple. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.",
       "tokens": [
         {
-          "t": "And Jesus said unto them,"
+          "t": "And Jesus said unto them, "
+        },
+        {
+          "t": "See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?",
       "tokens": [
         {
-          "t": "¶ And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what"
+          "t": "¶ And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the sign of thy coming, and of the end of the world?"
+          "t": " the sign of thy coming, and of the end of the world? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Jesus answered and said unto them, Take heed that no man deceive you.",
       "tokens": [
         {
-          "t": "And Jesus answered and said unto them,"
+          "t": "And Jesus answered and said unto them, "
+        },
+        {
+          "t": "Take heed that no man deceive you."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "For many shall come in my name, saying, I am Christ; and shall deceive many.",
+      "tokens": [
+        {
+          "t": "For many shall come in my name, saying, I am Christ; and shall deceive many."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.",
+      "tokens": [
+        {
+          "t": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all "
+        },
+        {
+          "add": "these things"
+        },
+        {
+          "t": " must come to pass, but the end is not yet."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.",
+      "tokens": [
+        {
+          "t": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "All these are the beginning of sorrows.",
+      "tokens": [
+        {
+          "t": "All these "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the beginning of sorrows."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.",
+      "tokens": [
+        {
+          "t": "Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "And then shall many be offended, and shall betray one another, and shall hate one another.",
+      "tokens": [
+        {
+          "t": "And then shall many be offended, and shall betray one another, and shall hate one another."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "And many false prophets shall rise, and shall deceive many.",
+      "tokens": [
+        {
+          "t": "And many false prophets shall rise, and shall deceive many."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "And because iniquity shall abound, the love of many shall wax cold.",
+      "tokens": [
+        {
+          "t": "And because iniquity shall abound, the love of many shall wax cold."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "But he that shall endure unto the end, the same shall be saved.",
+      "tokens": [
+        {
+          "t": "But he that shall endure unto the end, the same shall be saved."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.",
+      "tokens": [
+        {
+          "t": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)",
+      "tokens": [
+        {
+          "t": "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "Then let them which be in Judaea flee into the mountains:",
+      "tokens": [
+        {
+          "t": "Then let them which be in Judaea flee into the mountains:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "Let him which is on the housetop not come down to take any thing out of his house:",
+      "tokens": [
+        {
+          "t": "Let him which is on the housetop not come down to take any thing out of his house:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "Neither let him which is in the field return back to take his clothes.",
+      "tokens": [
+        {
+          "t": "Neither let him which is in the field return back to take his clothes."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "And woe unto them that are with child, and to them that give suck in those days!",
+      "tokens": [
+        {
+          "t": "And woe unto them that are with child, and to them that give suck in those days!"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "But pray ye that your flight be not in the winter, neither on the sabbath day:",
+      "tokens": [
+        {
+          "t": "But pray ye that your flight be not in the winter, neither on the sabbath day:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.",
+      "tokens": [
+        {
+          "t": "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.",
+      "tokens": [
+        {
+          "t": "And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "Then if any man shall say unto you, Lo, here is Christ, or there; believe it not.",
+      "tokens": [
+        {
+          "t": "Then if any man shall say unto you, Lo, here "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " Christ, or there; believe "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " not."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.",
+      "tokens": [
+        {
+          "t": "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if "
+        },
+        {
+          "add": "it were"
+        },
+        {
+          "t": " possible, they shall deceive the very elect."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "Behold, I have told you before.",
+      "tokens": [
+        {
+          "t": "Behold, I have told you before."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not.",
+      "tokens": [
+        {
+          "t": "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, "
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": " in the secret chambers; believe "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " not."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.",
+      "tokens": [
+        {
+          "t": "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "For wheresoever the carcase is, there will the eagles be gathered together.",
+      "tokens": [
+        {
+          "t": "For wheresoever the carcase is, there will the eagles be gathered together."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "¶ Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:",
+      "tokens": [
+        {
+          "t": "¶ Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.",
+      "tokens": [
+        {
+          "t": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
-      "tokens": null
+      "plain": "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.",
+      "tokens": [
+        {
+          "t": "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:",
+      "tokens": [
+        {
+          "t": "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " nigh:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
+      "plain": "So likewise ye, when ye shall see all these things, know that it is near, even at the doors.",
+      "tokens": [
+        {
+          "t": "So likewise ye, when ye shall see all these things, know that it is near, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " at the doors."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 34,
-      "tokens": null
+      "plain": "Verily I say unto you, This generation shall not pass, till all these things be fulfilled.",
+      "tokens": [
+        {
+          "t": "Verily I say unto you, This generation shall not pass, till all these things be fulfilled."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 35,
-      "tokens": null
+      "plain": "Heaven and earth shall pass away, but my words shall not pass away.",
+      "tokens": [
+        {
+          "t": "Heaven and earth shall pass away, but my words shall not pass away."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 36,
-      "tokens": null
+      "plain": "¶ But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.",
+      "tokens": [
+        {
+          "t": "¶ But of that day and hour knoweth no "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": ", no, not the angels of heaven, but my Father only."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 37,
-      "tokens": null
+      "plain": "But as the days of Noe were, so shall also the coming of the Son of man be.",
+      "tokens": [
+        {
+          "t": "But as the days of Noe "
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": ", so shall also the coming of the Son of man be."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 38,
-      "tokens": null
+      "plain": "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,",
+      "tokens": [
+        {
+          "t": "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 39,
-      "tokens": null
+      "plain": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.",
+      "tokens": [
+        {
+          "t": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 40,
-      "tokens": null
+      "plain": "Then shall two be in the field; the one shall be taken, and the other left.",
+      "tokens": [
+        {
+          "t": "Then shall two be in the field; the one shall be taken, and the other left."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 41,
-      "tokens": null
+      "plain": "Two women shall be grinding at the mill; the one shall be taken, and the other left.",
+      "tokens": [
+        {
+          "t": "Two "
+        },
+        {
+          "add": "women shall be"
+        },
+        {
+          "t": " grinding at the mill; the one shall be taken, and the other left."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 42,
-      "tokens": null
+      "plain": "¶ Watch therefore: for ye know not what hour your Lord doth come.",
+      "tokens": [
+        {
+          "t": "¶ Watch therefore: for ye know not what hour your Lord doth come."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 43,
-      "tokens": null
+      "plain": "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.",
+      "tokens": [
+        {
+          "t": "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 44,
-      "tokens": null
+      "plain": "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.",
+      "tokens": [
+        {
+          "t": "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 45,
-      "tokens": null
+      "plain": "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?",
+      "tokens": [
+        {
+          "t": "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 46,
-      "tokens": null
+      "plain": "Blessed is that servant, whom his lord when he cometh shall find so doing.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " that servant, whom his lord when he cometh shall find so doing."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 47,
-      "tokens": null
+      "plain": "Verily I say unto you, That he shall make him ruler over all his goods.",
+      "tokens": [
+        {
+          "t": "Verily I say unto you, That he shall make him ruler over all his goods."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 48,
-      "tokens": null
+      "plain": "But and if that evil servant shall say in his heart, My lord delayeth his coming;",
+      "tokens": [
+        {
+          "t": "But and if that evil servant shall say in his heart, My lord delayeth his coming;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 49,
-      "tokens": null
+      "plain": "And shall begin to smite his fellowservants, and to eat and drink with the drunken;",
+      "tokens": [
+        {
+          "t": "And shall begin to smite "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " fellowservants, and to eat and drink with the drunken;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 50,
-      "tokens": null
+      "plain": "The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,",
+      "tokens": [
+        {
+          "t": "The lord of that servant shall come in a day when he looketh not for "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": ", and in an hour that he is not aware of,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 51,
-      "tokens": null
+      "plain": "And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.",
+      "tokens": [
+        {
+          "t": "And shall cut him asunder, and appoint "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " his portion with the hypocrites: there shall be weeping and gnashing of teeth."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

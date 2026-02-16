@@ -7,113 +7,121 @@
   "verses": [
     {
       "v": 1,
+      "plain": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
       "tokens": [
         {
-          "t": "When Israel went out of Egypt, the house of Jacob from a people of strange language;"
+          "t": "When Israel went out of Egypt, the house of Jacob from a people of strange language; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Judah was his sanctuary, and Israel his dominion.",
       "tokens": [
         {
-          "t": "Judah was his sanctuary,"
+          "t": "Judah was his sanctuary, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Israel his dominion."
+          "t": " Israel his dominion. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The sea saw it, and fled: Jordan was driven back.",
       "tokens": [
         {
-          "t": "The sea saw"
+          "t": "The sea saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and fled: Jordan was driven back."
+          "t": ", and fled: Jordan was driven back. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The mountains skipped like rams, and the little hills like lambs.",
       "tokens": [
         {
-          "t": "The mountains skipped like rams,"
+          "t": "The mountains skipped like rams, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the little hills like lambs."
+          "t": " the little hills like lambs. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?",
       "tokens": [
         {
-          "t": "What"
+          "t": "What "
         },
         {
           "add": "ailed"
         },
         {
-          "t": "thee, O thou sea, that thou fleddest? thou Jordan,"
+          "t": " thee, O thou sea, that thou fleddest? thou Jordan, "
         },
         {
           "add": "that"
         },
         {
-          "t": "thou wast driven back?"
+          "t": " thou wast driven back? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Ye mountains, that ye skipped like rams; and ye little hills, like lambs?",
       "tokens": [
         {
-          "t": "Ye mountains,"
+          "t": "Ye mountains, "
         },
         {
           "add": "that"
         },
         {
-          "t": "ye skipped like rams;"
+          "t": " ye skipped like rams; "
         },
         {
           "add": "and"
         },
         {
-          "t": "ye little hills, like lambs?"
+          "t": " ye little hills, like lambs? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
       "tokens": [
         {
-          "t": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;"
+          "t": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Which turned the rock into a standing water, the flint into a fountain of waters.",
       "tokens": [
         {
-          "t": "Which turned the rock"
+          "t": "Which turned the rock "
         },
         {
           "add": "into"
         },
         {
-          "t": "a standing water, the flint into a fountain of waters."
+          "t": " a standing water, the flint into a fountain of waters. "
         }
       ]
     }

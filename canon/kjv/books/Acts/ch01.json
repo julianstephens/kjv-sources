@@ -7,243 +7,295 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,",
       "tokens": [
         {
-          "t": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,"
+          "t": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:",
       "tokens": [
         {
-          "t": "Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:"
+          "t": "Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:",
       "tokens": [
         {
-          "t": "To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:"
+          "t": "To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, ye have heard of me.",
       "tokens": [
         {
-          "t": "And, being assembled together with"
+          "t": "And, being assembled together with "
         },
         {
           "add": "them"
         },
         {
+          "t": ", commanded them that they should not depart from Jerusalem, "
+        },
+        {
+          "t": "but wait for the promise of the Father, which,"
+        },
+        {
+          "t": " "
+        },
+        {
           "add": "saith he"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
-          "t": ", commanded them that they should not depart from Jerusalem,"
+          "t": "ye have heard of me."
         },
         {
-          "add": "saith he"
-        },
-        {
-          "t": ","
+          "t": " "
         }
       ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.",
+      "tokens": [
+        {
+          "t": "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
+      "plain": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?",
       "tokens": [
         {
-          "t": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?"
+          "t": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "It is not for you to know the times or the seasons, which the Father hath put in his own power."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth.",
+      "tokens": [
+        {
+          "t": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
+      "plain": "And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.",
       "tokens": [
         {
-          "t": "And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight."
+          "t": "And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;",
       "tokens": [
         {
-          "t": "And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;"
+          "t": "And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.",
       "tokens": [
         {
-          "t": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven."
+          "t": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day’s journey.",
       "tokens": [
         {
-          "t": "Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day’s journey."
+          "t": "Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day’s journey. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James the son of Alphaeus, and Simon Zelotes, and Judas the brother of James.",
       "tokens": [
         {
-          "t": "And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James"
+          "t": "And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James "
         },
         {
           "add": "the son"
         },
         {
-          "t": "of Alphaeus, and Simon Zelotes, and Judas"
+          "t": " of Alphaeus, and Simon Zelotes, and Judas "
         },
         {
           "add": "the brother"
         },
         {
-          "t": "of James."
+          "t": " of James. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.",
       "tokens": [
         {
-          "t": "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren."
+          "t": "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)",
       "tokens": [
         {
-          "t": "¶ And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)"
+          "t": "¶ And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,) "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.",
       "tokens": [
         {
-          "t": "Men"
+          "t": "Men "
         },
         {
           "add": "and"
         },
         {
-          "t": "brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus."
+          "t": " brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "For he was numbered with us, and had obtained part of this ministry.",
       "tokens": [
         {
-          "t": "For he was numbered with us, and had obtained part of this ministry."
+          "t": "For he was numbered with us, and had obtained part of this ministry. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.",
       "tokens": [
         {
-          "t": "Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out."
+          "t": "Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.",
       "tokens": [
         {
-          "t": "And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood."
+          "t": "And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.",
       "tokens": [
         {
-          "t": "For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take."
+          "t": "For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,",
       "tokens": [
         {
-          "t": "Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,"
+          "t": "Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us, "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.",
       "tokens": [
         {
-          "t": "Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection."
+          "t": "Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.",
       "tokens": [
         {
-          "t": "And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias."
+          "t": "And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,",
       "tokens": [
         {
-          "t": "And they prayed, and said, Thou, Lord, which knowest the hearts of all"
+          "t": "And they prayed, and said, Thou, Lord, which knowest the hearts of all "
         },
         {
           "add": "men"
         },
         {
-          "t": ", shew whether of these two thou hast chosen,"
+          "t": ", shew whether of these two thou hast chosen, "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.",
       "tokens": [
         {
-          "t": "That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place."
+          "t": "That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.",
       "tokens": [
         {
-          "t": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles."
+          "t": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles. "
         }
       ]
     }

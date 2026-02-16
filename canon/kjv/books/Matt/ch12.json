@@ -7,354 +7,684 @@
   "verses": [
     {
       "v": 1,
+      "plain": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.",
       "tokens": [
         {
-          "t": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat."
+          "t": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day.",
       "tokens": [
         {
-          "t": "But when the Pharisees saw"
+          "t": "But when the Pharisees saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day."
+          "t": ", they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;",
       "tokens": [
         {
-          "t": "But he said unto them,"
+          "t": "But he said unto them, "
+        },
+        {
+          "t": "Have ye not read what David did, when he was an hungred, and they that were with him;"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?",
+      "tokens": [
+        {
+          "t": "How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?",
+      "tokens": [
+        {
+          "t": "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "But I say unto you, That in this place is one greater than the temple.",
+      "tokens": [
+        {
+          "t": "But I say unto you, That in this place is "
+        },
+        {
+          "add": "one"
+        },
+        {
+          "t": " greater than the temple."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "But if ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.",
+      "tokens": [
+        {
+          "t": "But if ye had known what "
+        },
+        {
+          "add": "this"
+        },
+        {
+          "t": " meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "For the Son of man is Lord even of the sabbath day.",
+      "tokens": [
+        {
+          "t": "For the Son of man is Lord even of the sabbath day."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
+      "plain": "And when he was departed thence, he went into their synagogue:",
       "tokens": [
         {
-          "t": "And when he was departed thence, he went into their synagogue:"
+          "t": "And when he was departed thence, he went into their synagogue: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And, behold, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.",
       "tokens": [
         {
-          "t": "¶ And, behold, there was a man which had"
+          "t": "¶ And, behold, there was a man which had "
         },
         {
           "add": "his"
         },
         {
-          "t": "hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him."
+          "t": " hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " out?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days.",
+      "tokens": [
+        {
+          "t": "How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
+      "plain": "Then saith he to the man, Stretch forth thine hand. And he stretched it forth; and it was restored whole, like as the other.",
       "tokens": [
         {
-          "t": "And he stretched"
+          "t": "Then saith he to the man, "
+        },
+        {
+          "t": "Stretch forth thine hand."
+        },
+        {
+          "t": " And he stretched "
         },
         {
           "add": "it"
         },
         {
-          "t": "forth; and it was restored whole, like as the other."
-        },
-        {
-          "t": "Then saith he to the man, And he stretched"
-        },
-        {
-          "add": "it"
-        },
-        {
-          "t": "forth; and it was restored whole, like as the other."
+          "t": " forth; and it was restored whole, like as the other. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ Then the Pharisees went out, and held a council against him, how they might destroy him.",
       "tokens": [
         {
-          "t": "¶ Then the Pharisees went out, and held a council against him, how they might destroy him."
+          "t": "¶ Then the Pharisees went out, and held a council against him, how they might destroy him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But when Jesus knew it, he withdrew himself from thence: and great multitudes followed him, and he healed them all;",
       "tokens": [
         {
-          "t": "But when Jesus knew"
+          "t": "But when Jesus knew "
         },
         {
           "add": "it"
         },
         {
-          "t": ", he withdrew himself from thence: and great multitudes followed him, and he healed them all;"
+          "t": ", he withdrew himself from thence: and great multitudes followed him, and he healed them all; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And charged them that they should not make him known:",
       "tokens": [
         {
-          "t": "And charged them that they should not make him known:"
+          "t": "And charged them that they should not make him known: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "That it might be fulfilled which was spoken by Esaias the prophet, saying,",
       "tokens": [
         {
-          "t": "That it might be fulfilled which was spoken by Esaias the prophet, saying,"
+          "t": "That it might be fulfilled which was spoken by Esaias the prophet, saying, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.",
       "tokens": [
         {
-          "t": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles."
+          "t": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He shall not strive, nor cry; neither shall any man hear his voice in the streets.",
       "tokens": [
         {
-          "t": "He shall not strive, nor cry; neither shall any man hear his voice in the streets."
+          "t": "He shall not strive, nor cry; neither shall any man hear his voice in the streets. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory.",
       "tokens": [
         {
-          "t": "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory."
+          "t": "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And in his name shall the Gentiles trust.",
       "tokens": [
         {
-          "t": "And in his name shall the Gentiles trust."
+          "t": "And in his name shall the Gentiles trust. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw.",
       "tokens": [
         {
-          "t": "¶ Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw."
+          "t": "¶ Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And all the people were amazed, and said, Is not this the son of David?",
       "tokens": [
         {
-          "t": "And all the people were amazed, and said, Is not this the son of David?"
+          "t": "And all the people were amazed, and said, Is not this the son of David? "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils.",
       "tokens": [
         {
-          "t": "But when the Pharisees heard"
+          "t": "But when the Pharisees heard "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they said, This"
+          "t": ", they said, This "
         },
         {
           "add": "fellow"
         },
         {
-          "t": "doth not cast out devils, but by Beelzebub the prince of the devils."
+          "t": " doth not cast out devils, but by Beelzebub the prince of the devils. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:",
       "tokens": [
         {
-          "t": "And Jesus knew their thoughts, and said unto them,"
+          "t": "And Jesus knew their thoughts, and said unto them, "
+        },
+        {
+          "t": "Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "And if Satan cast out Satan, he is divided against himself; how shall then his kingdom stand?",
+      "tokens": [
+        {
+          "t": "And if Satan cast out Satan, he is divided against himself; how shall then his kingdom stand?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges.",
+      "tokens": [
+        {
+          "t": "And if I by Beelzebub cast out devils, by whom do your children cast "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " out? therefore they shall be your judges."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you.",
+      "tokens": [
+        {
+          "t": "But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "Or else how can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.",
+      "tokens": [
+        {
+          "t": "Or else how can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "He that is not with me is against me; and he that gathereth not with me scattereth abroad.",
+      "tokens": [
+        {
+          "t": "He that is not with me is against me; and he that gathereth not with me scattereth abroad."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
-      "tokens": null
+      "plain": "¶ Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy against the Holy Ghost shall not be forgiven unto men.",
+      "tokens": [
+        {
+          "t": "¶ Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy "
+        },
+        {
+          "add": "against"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "add": "Holy"
+        },
+        {
+          "t": " Ghost shall not be forgiven unto men."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.",
+      "tokens": [
+        {
+          "t": "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the "
+        },
+        {
+          "add": "world"
+        },
+        {
+          "t": " to come."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
-    },
-    {
-      "v": 34,
-      "tokens": null
-    },
-    {
-      "v": 35,
-      "tokens": null
-    },
-    {
-      "v": 36,
-      "tokens": null
-    },
-    {
-      "v": 37,
-      "tokens": null
-    },
-    {
-      "v": 38,
+      "plain": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by his fruit.",
       "tokens": [
         {
-          "t": "¶ Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee."
-        }
-      ]
-    },
-    {
-      "v": 39,
-      "tokens": [
-        {
-          "t": "But he answered and said unto them,"
-        }
-      ]
-    },
-    {
-      "v": 40,
-      "tokens": null
-    },
-    {
-      "v": 41,
-      "tokens": null
-    },
-    {
-      "v": 42,
-      "tokens": null
-    },
-    {
-      "v": 43,
-      "tokens": null
-    },
-    {
-      "v": 44,
-      "tokens": null
-    },
-    {
-      "v": 45,
-      "tokens": null
-    },
-    {
-      "v": 46,
-      "tokens": [
-        {
-          "t": "¶ While he yet talked to the people, behold,"
+          "t": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by "
         },
         {
           "add": "his"
         },
         {
-          "t": "mother and his brethren stood without, desiring to speak with him."
+          "t": " fruit."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "plain": "O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh.",
+      "tokens": [
+        {
+          "t": "O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "plain": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things.",
+      "tokens": [
+        {
+          "t": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "plain": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.",
+      "tokens": [
+        {
+          "t": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "plain": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned.",
+      "tokens": [
+        {
+          "t": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "plain": "¶ Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee.",
+      "tokens": [
+        {
+          "t": "¶ Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee. "
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "plain": "But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:",
+      "tokens": [
+        {
+          "t": "But he answered and said unto them, "
+        },
+        {
+          "t": "An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:"
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "plain": "For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.",
+      "tokens": [
+        {
+          "t": "For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "plain": "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.",
+      "tokens": [
+        {
+          "t": "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " here."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "plain": "The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here.",
+      "tokens": [
+        {
+          "t": "The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " here."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "plain": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.",
+      "tokens": [
+        {
+          "t": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "plain": "Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished.",
+      "tokens": [
+        {
+          "t": "Then he saith, I will return into my house from whence I came out; and when he is come, he findeth "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " empty, swept, and garnished."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "plain": "Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation.",
+      "tokens": [
+        {
+          "t": "Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last "
+        },
+        {
+          "add": "state"
+        },
+        {
+          "t": " of that man is worse than the first. Even so shall it be also unto this wicked generation."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "plain": "¶ While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him.",
+      "tokens": [
+        {
+          "t": "¶ While he yet talked to the people, behold, "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " mother and his brethren stood without, desiring to speak with him. "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee.",
       "tokens": [
         {
-          "t": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee."
+          "t": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "But he answered and said unto him that told him, Who is my mother? and who are my brethren?",
       "tokens": [
         {
-          "t": "But he answered and said unto him that told him,"
+          "t": "But he answered and said unto him that told him, "
+        },
+        {
+          "t": "Who is my mother? and who are my brethren?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!",
       "tokens": [
         {
-          "t": "And he stretched forth his hand toward his disciples, and said,"
+          "t": "And he stretched forth his hand toward his disciples, and said, "
+        },
+        {
+          "t": "Behold my mother and my brethren!"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 50,
-      "tokens": null
+      "plain": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.",
+      "tokens": [
+        {
+          "t": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

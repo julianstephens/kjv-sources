@@ -7,257 +7,274 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I am the rose of Sharon, and the lily of the valleys.",
       "tokens": [
         {
-          "t": "I"
+          "t": "I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the rose of Sharon,"
+          "t": " the rose of Sharon, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the lily of the valleys."
+          "t": " the lily of the valleys. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "As the lily among thorns, so is my love among the daughters.",
       "tokens": [
         {
-          "t": "As the lily among thorns, so"
+          "t": "As the lily among thorns, so "
         },
         {
           "add": "is"
         },
         {
-          "t": "my love among the daughters."
+          "t": " my love among the daughters. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.",
       "tokens": [
         {
-          "t": "As the apple tree among the trees of the wood, so"
+          "t": "As the apple tree among the trees of the wood, so "
         },
         {
           "add": "is"
         },
         {
-          "t": "my beloved among the sons. I sat down under his shadow with great delight, and his fruit"
+          "t": " my beloved among the sons. I sat down under his shadow with great delight, and his fruit "
         },
         {
           "add": "was"
         },
         {
-          "t": "sweet to my taste."
+          "t": " sweet to my taste. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "He brought me to the banqueting house, and his banner over me was love.",
       "tokens": [
         {
-          "t": "He brought me to the banqueting house, and his banner over me"
+          "t": "He brought me to the banqueting house, and his banner over me "
         },
         {
           "add": "was"
         },
         {
-          "t": "love."
+          "t": " love. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Stay me with flagons, comfort me with apples: for I am sick of love.",
       "tokens": [
         {
-          "t": "Stay me with flagons, comfort me with apples: for I"
+          "t": "Stay me with flagons, comfort me with apples: for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "sick of love."
+          "t": " sick of love. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "His left hand is under my head, and his right hand doth embrace me.",
       "tokens": [
         {
-          "t": "His left hand"
+          "t": "His left hand "
         },
         {
           "add": "is"
         },
         {
-          "t": "under my head, and his right hand doth embrace me."
+          "t": " under my head, and his right hand doth embrace me. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.",
       "tokens": [
         {
-          "t": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake"
+          "t": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake "
         },
         {
           "add": "my"
         },
         {
-          "t": "love, till he please."
+          "t": " love, till he please. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills.",
       "tokens": [
         {
-          "t": "¶ The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills."
+          "t": "¶ The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice.",
       "tokens": [
         {
-          "t": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice."
+          "t": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away.",
       "tokens": [
         {
-          "t": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away."
+          "t": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For, lo, the winter is past, the rain is over and gone;",
       "tokens": [
         {
-          "t": "For, lo, the winter is past, the rain is over"
+          "t": "For, lo, the winter is past, the rain is over "
         },
         {
           "add": "and"
         },
         {
-          "t": "gone;"
+          "t": " gone; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;",
       "tokens": [
         {
-          "t": "The flowers appear on the earth; the time of the singing"
+          "t": "The flowers appear on the earth; the time of the singing "
         },
         {
           "add": "of birds"
         },
         {
-          "t": "is come, and the voice of the turtle is heard in our land;"
+          "t": " is come, and the voice of the turtle is heard in our land; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The fig tree putteth forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.",
       "tokens": [
         {
-          "t": "The fig tree putteth forth her green figs, and the vines"
+          "t": "The fig tree putteth forth her green figs, and the vines "
         },
         {
           "add": "with"
         },
         {
-          "t": "the tender grape give a"
+          "t": " the tender grape give a "
         },
         {
           "add": "good"
         },
         {
-          "t": "smell. Arise, my love, my fair one, and come away."
+          "t": " smell. Arise, my love, my fair one, and come away. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ O my dove, that art in the clefts of the rock, in the secret places of the stairs, let me see thy countenance, let me hear thy voice; for sweet is thy voice, and thy countenance is comely.",
       "tokens": [
         {
-          "t": "¶ O my dove,"
+          "t": "¶ O my dove, "
         },
         {
           "add": "that art"
         },
         {
-          "t": "in the clefts of the rock, in the secret"
+          "t": " in the clefts of the rock, in the secret "
         },
         {
           "add": "places"
         },
         {
-          "t": "of the stairs, let me see thy countenance, let me hear thy voice; for sweet"
+          "t": " of the stairs, let me see thy countenance, let me hear thy voice; for sweet "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy voice, and thy countenance"
+          "t": " thy voice, and thy countenance "
         },
         {
           "add": "is"
         },
         {
-          "t": "comely."
+          "t": " comely. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.",
       "tokens": [
         {
-          "t": "Take us the foxes, the little foxes, that spoil the vines: for our vines"
+          "t": "Take us the foxes, the little foxes, that spoil the vines: for our vines "
         },
         {
           "add": "have"
         },
         {
-          "t": "tender grapes."
+          "t": " tender grapes. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ My beloved is mine, and I am his: he feedeth among the lilies.",
       "tokens": [
         {
-          "t": "¶ My beloved"
+          "t": "¶ My beloved "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine, and I"
+          "t": " mine, and I "
         },
         {
           "add": "am"
         },
         {
-          "t": "his: he feedeth among the lilies."
+          "t": " his: he feedeth among the lilies. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether.",
       "tokens": [
         {
-          "t": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether."
+          "t": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether. "
         }
       ]
     }

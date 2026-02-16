@@ -7,103 +7,115 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.",
       "tokens": [
         {
-          "t": "And in that day thou shalt say, O"
+          "t": "And in that day thou shalt say, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me."
+          "t": ", I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation.",
       "tokens": [
         {
-          "t": "Behold, God"
+          "t": "Behold, God "
         },
         {
           "add": "is"
         },
         {
-          "t": "my salvation; I will trust, and not be afraid: for the"
+          "t": " my salvation; I will trust, and not be afraid: for the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "nd": "JEHOVAH"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "my strength and"
+          "t": " my strength and "
         },
         {
           "add": "my"
         },
         {
-          "t": "song; he also is become my salvation."
+          "t": " song; he also is become my salvation. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Therefore with joy shall ye draw water out of the wells of salvation.",
       "tokens": [
         {
-          "t": "Therefore with joy shall ye draw water out of the wells of salvation."
+          "t": "Therefore with joy shall ye draw water out of the wells of salvation. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And in that day shall ye say, Praise the LORD, call upon his name, declare his doings among the people, make mention that his name is exalted.",
       "tokens": [
         {
-          "t": "And in that day shall ye say, Praise the"
+          "t": "And in that day shall ye say, Praise the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", call upon his name, declare his doings among the people, make mention that his name is exalted."
+          "t": ", call upon his name, declare his doings among the people, make mention that his name is exalted. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Sing unto the LORD; for he hath done excellent things: this is known in all the earth.",
       "tokens": [
         {
-          "t": "Sing unto the"
+          "t": "Sing unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; for he hath done excellent things: this"
+          "t": "; for he hath done excellent things: this "
         },
         {
           "add": "is"
         },
         {
-          "t": "known in all the earth."
+          "t": " known in all the earth. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Cry out and shout, thou inhabitant of Zion: for great is the Holy One of Israel in the midst of thee.",
       "tokens": [
         {
-          "t": "Cry out and shout, thou inhabitant of Zion: for great"
+          "t": "Cry out and shout, thou inhabitant of Zion: for great "
         },
         {
           "add": "is"
         },
         {
-          "t": "the Holy One of Israel in the midst of thee."
+          "t": " the Holy One of Israel in the midst of thee. "
         }
       ]
     }

@@ -7,394 +7,421 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth.",
       "tokens": [
         {
-          "t": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth."
+          "t": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.",
       "tokens": [
         {
-          "t": "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips."
+          "t": "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "A stone is heavy, and the sand weighty; but a fool’s wrath is heavier than them both.",
       "tokens": [
         {
-          "t": "A stone"
+          "t": "A stone "
         },
         {
           "add": "is"
         },
         {
-          "t": "heavy, and the sand weighty; but a fool’s wrath"
+          "t": " heavy, and the sand weighty; but a fool’s wrath "
         },
         {
           "add": "is"
         },
         {
-          "t": "heavier than them both."
+          "t": " heavier than them both. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Wrath is cruel, and anger is outrageous; but who is able to stand before envy?",
       "tokens": [
         {
-          "t": "Wrath"
+          "t": "Wrath "
         },
         {
           "add": "is"
         },
         {
-          "t": "cruel, and anger"
+          "t": " cruel, and anger "
         },
         {
           "add": "is"
         },
         {
-          "t": "outrageous; but who"
+          "t": " outrageous; but who "
         },
         {
           "add": "is"
         },
         {
-          "t": "able to stand before envy?"
+          "t": " able to stand before envy? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Open rebuke is better than secret love.",
       "tokens": [
         {
-          "t": "Open rebuke"
+          "t": "Open rebuke "
         },
         {
           "add": "is"
         },
         {
-          "t": "better than secret love."
+          "t": " better than secret love. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.",
       "tokens": [
         {
-          "t": "Faithful"
+          "t": "Faithful "
         },
         {
           "add": "are"
         },
         {
-          "t": "the wounds of a friend; but the kisses of an enemy"
+          "t": " the wounds of a friend; but the kisses of an enemy "
         },
         {
           "add": "are"
         },
         {
-          "t": "deceitful."
+          "t": " deceitful. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.",
       "tokens": [
         {
-          "t": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet."
+          "t": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "As a bird that wandereth from her nest, so is a man that wandereth from his place.",
       "tokens": [
         {
-          "t": "As a bird that wandereth from her nest, so"
+          "t": "As a bird that wandereth from her nest, so "
         },
         {
           "add": "is"
         },
         {
-          "t": "a man that wandereth from his place."
+          "t": " a man that wandereth from his place. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Ointment and perfume rejoice the heart: so doth the sweetness of a man’s friend by hearty counsel.",
       "tokens": [
         {
-          "t": "Ointment and perfume rejoice the heart: so"
+          "t": "Ointment and perfume rejoice the heart: so "
         },
         {
           "add": "doth"
         },
         {
-          "t": "the sweetness of a man’s friend by hearty counsel."
+          "t": " the sweetness of a man’s friend by hearty counsel. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: for better is a neighbour that is near than a brother far off.",
       "tokens": [
         {
-          "t": "Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity:"
+          "t": "Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: "
         },
         {
           "add": "for"
         },
         {
-          "t": "better"
+          "t": " better "
         },
         {
           "add": "is"
         },
         {
-          "t": "a neighbour"
+          "t": " a neighbour "
         },
         {
           "add": "that is"
         },
         {
-          "t": "near than a brother far off."
+          "t": " near than a brother far off. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me.",
       "tokens": [
         {
-          "t": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me."
+          "t": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished.",
       "tokens": [
         {
-          "t": "A prudent"
+          "t": "A prudent "
         },
         {
           "add": "man"
         },
         {
-          "t": "foreseeth the evil,"
+          "t": " foreseeth the evil, "
         },
         {
           "add": "and"
         },
         {
-          "t": "hideth himself;"
+          "t": " hideth himself; "
         },
         {
           "add": "but"
         },
         {
-          "t": "the simple pass on,"
+          "t": " the simple pass on, "
         },
         {
           "add": "and"
         },
         {
-          "t": "are punished."
+          "t": " are punished. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman.",
       "tokens": [
         {
-          "t": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman."
+          "t": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.",
       "tokens": [
         {
-          "t": "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him."
+          "t": "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "A continual dropping in a very rainy day and a contentious woman are alike.",
       "tokens": [
         {
-          "t": "A continual dropping in a very rainy day and a contentious woman are alike."
+          "t": "A continual dropping in a very rainy day and a contentious woman are alike. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself.",
       "tokens": [
         {
-          "t": "Whosoever hideth her hideth the wind, and the ointment of his right hand,"
+          "t": "Whosoever hideth her hideth the wind, and the ointment of his right hand, "
         },
         {
           "add": "which"
         },
         {
-          "t": "bewrayeth"
+          "t": " bewrayeth "
         },
         {
           "add": "itself"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
       "tokens": [
         {
-          "t": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
+          "t": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.",
       "tokens": [
         {
-          "t": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured."
+          "t": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "As in water face answereth to face, so the heart of man to man.",
       "tokens": [
         {
-          "t": "As in water face"
+          "t": "As in water face "
         },
         {
           "add": "answereth"
         },
         {
-          "t": "to face, so the heart of man to man."
+          "t": " to face, so the heart of man to man. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Hell and destruction are never full; so the eyes of man are never satisfied.",
       "tokens": [
         {
-          "t": "Hell and destruction are never full; so the eyes of man are never satisfied."
+          "t": "Hell and destruction are never full; so the eyes of man are never satisfied. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "As the fining pot for silver, and the furnace for gold; so is a man to his praise.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "the fining pot for silver, and the furnace for gold; so"
+          "t": " the fining pot for silver, and the furnace for gold; so "
         },
         {
           "add": "is"
         },
         {
-          "t": "a man to his praise."
+          "t": " a man to his praise. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.",
       "tokens": [
         {
-          "t": "Though thou shouldest bray a fool in a mortar among wheat with a pestle,"
+          "t": "Though thou shouldest bray a fool in a mortar among wheat with a pestle, "
         },
         {
           "add": "yet"
         },
         {
-          "t": "will not his foolishness depart from him."
+          "t": " will not his foolishness depart from him. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Be thou diligent to know the state of thy flocks, and look well to thy herds.",
       "tokens": [
         {
-          "t": "Be thou diligent to know the state of thy flocks,"
+          "t": "Be thou diligent to know the state of thy flocks, "
         },
         {
           "add": "and"
         },
         {
-          "t": "look well to thy herds."
+          "t": " look well to thy herds. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "For riches are not for ever: and doth the crown endure to every generation?",
       "tokens": [
         {
-          "t": "For riches"
+          "t": "For riches "
         },
         {
           "add": "are"
         },
         {
-          "t": "not for ever: and doth the crown"
+          "t": " not for ever: and doth the crown "
         },
         {
           "add": "endure"
         },
         {
-          "t": "to every generation?"
+          "t": " to every generation? "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered.",
       "tokens": [
         {
-          "t": "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered."
+          "t": "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "The lambs are for thy clothing, and the goats are the price of the field.",
       "tokens": [
         {
-          "t": "The lambs"
+          "t": "The lambs "
         },
         {
           "add": "are"
         },
         {
-          "t": "for thy clothing, and the goats"
+          "t": " for thy clothing, and the goats "
         },
         {
           "add": "are"
         },
         {
-          "t": "the price of the field."
+          "t": " the price of the field. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And thou shalt have goats’ milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "thou shalt have"
         },
         {
-          "t": "goats’ milk enough for thy food, for the food of thy household, and"
+          "t": " goats’ milk enough for thy food, for the food of thy household, and "
         },
         {
           "add": "for"
         },
         {
-          "t": "the maintenance for thy maidens."
+          "t": " the maintenance for thy maidens. "
         }
       ]
     }

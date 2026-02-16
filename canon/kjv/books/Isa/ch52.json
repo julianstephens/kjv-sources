@@ -7,229 +7,244 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.",
       "tokens": [
         {
-          "t": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean."
+          "t": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.",
       "tokens": [
         {
-          "t": "Shake thyself from the dust; arise,"
+          "t": "Shake thyself from the dust; arise, "
         },
         {
           "add": "and"
         },
         {
-          "t": "sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion."
+          "t": " sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money.",
       "tokens": [
         {
-          "t": "For thus saith the"
+          "t": "For thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Ye have sold yourselves for nought; and ye shall be redeemed without money."
+          "t": ", Ye have sold yourselves for nought; and ye shall be redeemed without money. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.",
       "tokens": [
         {
-          "t": "For thus saith the Lord"
+          "t": "For thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ", My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause."
+          "t": ", My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Now therefore, what have I here, saith the LORD, that my people is taken away for nought? they that rule over them make them to howl, saith the LORD; and my name continually every day is blasphemed.",
       "tokens": [
         {
-          "t": "Now therefore, what have I here, saith the"
+          "t": "Now therefore, what have I here, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that my people is taken away for nought? they that rule over them make them to howl, saith the"
+          "t": ", that my people is taken away for nought? they that rule over them make them to howl, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and my name continually every day"
+          "t": "; and my name continually every day "
         },
         {
           "add": "is"
         },
         {
-          "t": "blasphemed."
+          "t": " blasphemed. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Therefore my people shall know my name: therefore they shall know in that day that I am he that doth speak: behold, it is I.",
       "tokens": [
         {
-          "t": "Therefore my people shall know my name: therefore"
+          "t": "Therefore my people shall know my name: therefore "
         },
         {
           "add": "they shall know"
         },
         {
-          "t": "in that day that I"
+          "t": " in that day that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "he that doth speak: behold,"
+          "t": " he that doth speak: behold, "
         },
         {
           "add": "it is"
         },
         {
-          "t": "I."
+          "t": " I. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
       "tokens": [
         {
-          "t": "¶ How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!"
+          "t": "¶ How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth! "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.",
       "tokens": [
         {
-          "t": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the"
+          "t": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall bring again Zion."
+          "t": " shall bring again Zion. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.",
       "tokens": [
         {
-          "t": "¶ Break forth into joy, sing together, ye waste places of Jerusalem: for the"
+          "t": "¶ Break forth into joy, sing together, ye waste places of Jerusalem: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath comforted his people, he hath redeemed Jerusalem."
+          "t": " hath comforted his people, he hath redeemed Jerusalem. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God."
+          "t": " hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.",
       "tokens": [
         {
-          "t": "¶ Depart ye, depart ye, go ye out from thence, touch no unclean"
+          "t": "¶ Depart ye, depart ye, go ye out from thence, touch no unclean "
         },
         {
           "add": "thing;"
         },
         {
-          "t": "go ye out of the midst of her; be ye clean, that bear the vessels of the"
+          "t": " go ye out of the midst of her; be ye clean, that bear the vessels of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward.",
       "tokens": [
         {
-          "t": "For ye shall not go out with haste, nor go by flight: for the"
+          "t": "For ye shall not go out with haste, nor go by flight: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will go before you; and the God of Israel"
+          "t": " will go before you; and the God of Israel "
         },
         {
           "add": "will be"
         },
         {
-          "t": "your rereward."
+          "t": " your rereward. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.",
       "tokens": [
         {
-          "t": "¶ Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high."
+          "t": "¶ Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:",
       "tokens": [
         {
-          "t": "As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:"
+          "t": "As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.",
       "tokens": [
         {
-          "t": "So shall he sprinkle many nations; the kings shall shut their mouths at him: for"
+          "t": "So shall he sprinkle many nations; the kings shall shut their mouths at him: for "
         },
         {
           "add": "that"
         },
         {
-          "t": "which had not been told them shall they see; and"
+          "t": " which had not been told them shall they see; and "
         },
         {
           "add": "that"
         },
         {
-          "t": "which they had not heard shall they consider."
+          "t": " which they had not heard shall they consider. "
         }
       ]
     }

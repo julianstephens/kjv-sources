@@ -1,0 +1,805 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 89,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.",
+      "tokens": [
+        {
+          "t": "I will sing of the mercies of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " for ever: with my mouth will I make known thy faithfulness to all generations. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.",
+      "tokens": [
+        {
+          "t": "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "I have made a covenant with my chosen, I have sworn unto David my servant,",
+      "tokens": [
+        {
+          "t": "I have made a covenant with my chosen, I have sworn unto David my servant, "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Thy seed will I establish for ever, and build up thy throne to all generations. Selah.",
+      "tokens": [
+        {
+          "t": "Thy seed will I establish for ever, and build up thy throne to all generations. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints.",
+      "tokens": [
+        {
+          "t": "And the heavens shall praise thy wonders, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": thy faithfulness also in the congregation of the saints. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "For who in the heaven can be compared unto the LORD? who among the sons of the mighty can be likened unto the LORD?",
+      "tokens": [
+        {
+          "t": "For who in the heaven can be compared unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? "
+        },
+        {
+          "add": "who"
+        },
+        {
+          "t": " among the sons of the mighty can be likened unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all them that are about him.",
+      "tokens": [
+        {
+          "t": "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all "
+        },
+        {
+          "add": "them that are"
+        },
+        {
+          "t": " about him. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee?",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God of hosts, who "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " a strong "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " like unto thee? or to thy faithfulness round about thee? "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.",
+      "tokens": [
+        {
+          "t": "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.",
+      "tokens": [
+        {
+          "t": "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "The heavens are thine, the earth also is thine: as for the world and the fulness thereof, thou hast founded them.",
+      "tokens": [
+        {
+          "t": "The heavens "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " thine, the earth also "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thine: "
+        },
+        {
+          "add": "as for"
+        },
+        {
+          "t": " the world and the fulness thereof, thou hast founded them. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.",
+      "tokens": [
+        {
+          "t": "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Thou hast a mighty arm: strong is thy hand, and high is thy right hand.",
+      "tokens": [
+        {
+          "t": "Thou hast a mighty arm: strong is thy hand, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " high is thy right hand. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face.",
+      "tokens": [
+        {
+          "t": "Justice and judgment "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the habitation of thy throne: mercy and truth shall go before thy face. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the people that know the joyful sound: they shall walk, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", in the light of thy countenance. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.",
+      "tokens": [
+        {
+          "t": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "For thou art the glory of their strength: and in thy favour our horn shall be exalted.",
+      "tokens": [
+        {
+          "t": "For thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " the glory of their strength: and in thy favour our horn shall be exalted. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "For the LORD is our defence; and the Holy One of Israel is our king.",
+      "tokens": [
+        {
+          "t": "For the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " our defence; and the Holy One of Israel "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " our king. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon one that is mighty; I have exalted one chosen out of the people.",
+      "tokens": [
+        {
+          "t": "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon "
+        },
+        {
+          "add": "one that is"
+        },
+        {
+          "t": " mighty; I have exalted "
+        },
+        {
+          "add": "one"
+        },
+        {
+          "t": " chosen out of the people. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "I have found David my servant; with my holy oil have I anointed him:",
+      "tokens": [
+        {
+          "t": "I have found David my servant; with my holy oil have I anointed him: "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "With whom my hand shall be established: mine arm also shall strengthen him.",
+      "tokens": [
+        {
+          "t": "With whom my hand shall be established: mine arm also shall strengthen him. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "The enemy shall not exact upon him; nor the son of wickedness afflict him.",
+      "tokens": [
+        {
+          "t": "The enemy shall not exact upon him; nor the son of wickedness afflict him. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "And I will beat down his foes before his face, and plague them that hate him.",
+      "tokens": [
+        {
+          "t": "And I will beat down his foes before his face, and plague them that hate him. "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted.",
+      "tokens": [
+        {
+          "t": "But my faithfulness and my mercy "
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": " with him: and in my name shall his horn be exalted. "
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "plain": "I will set his hand also in the sea, and his right hand in the rivers.",
+      "tokens": [
+        {
+          "t": "I will set his hand also in the sea, and his right hand in the rivers. "
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "plain": "He shall cry unto me, Thou art my father, my God, and the rock of my salvation.",
+      "tokens": [
+        {
+          "t": "He shall cry unto me, Thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my father, my God, and the rock of my salvation. "
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "plain": "Also I will make him my firstborn, higher than the kings of the earth.",
+      "tokens": [
+        {
+          "t": "Also I will make him "
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": " firstborn, higher than the kings of the earth. "
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "plain": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.",
+      "tokens": [
+        {
+          "t": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him. "
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "plain": "His seed also will I make to endure for ever, and his throne as the days of heaven.",
+      "tokens": [
+        {
+          "t": "His seed also will I make "
+        },
+        {
+          "add": "to endure"
+        },
+        {
+          "t": " for ever, and his throne as the days of heaven. "
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "plain": "If his children forsake my law, and walk not in my judgments;",
+      "tokens": [
+        {
+          "t": "If his children forsake my law, and walk not in my judgments; "
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "plain": "If they break my statutes, and keep not my commandments;",
+      "tokens": [
+        {
+          "t": "If they break my statutes, and keep not my commandments; "
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "plain": "Then will I visit their transgression with the rod, and their iniquity with stripes.",
+      "tokens": [
+        {
+          "t": "Then will I visit their transgression with the rod, and their iniquity with stripes. "
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "plain": "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.",
+      "tokens": [
+        {
+          "t": "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail. "
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "plain": "My covenant will I not break, nor alter the thing that is gone out of my lips.",
+      "tokens": [
+        {
+          "t": "My covenant will I not break, nor alter the thing that is gone out of my lips. "
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "plain": "Once have I sworn by my holiness that I will not lie unto David.",
+      "tokens": [
+        {
+          "t": "Once have I sworn by my holiness that I will not lie unto David. "
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "plain": "His seed shall endure for ever, and his throne as the sun before me.",
+      "tokens": [
+        {
+          "t": "His seed shall endure for ever, and his throne as the sun before me. "
+        }
+      ]
+    },
+    {
+      "v": 37,
+      "plain": "It shall be established for ever as the moon, and as a faithful witness in heaven. Selah.",
+      "tokens": [
+        {
+          "t": "It shall be established for ever as the moon, and "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " a faithful witness in heaven. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 38,
+      "plain": "But thou hast cast off and abhorred, thou hast been wroth with thine anointed.",
+      "tokens": [
+        {
+          "t": "But thou hast cast off and abhorred, thou hast been wroth with thine anointed. "
+        }
+      ]
+    },
+    {
+      "v": 39,
+      "plain": "Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground.",
+      "tokens": [
+        {
+          "t": "Thou hast made void the covenant of thy servant: thou hast profaned his crown "
+        },
+        {
+          "add": "by casting it"
+        },
+        {
+          "t": " to the ground. "
+        }
+      ]
+    },
+    {
+      "v": 40,
+      "plain": "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin.",
+      "tokens": [
+        {
+          "t": "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin. "
+        }
+      ]
+    },
+    {
+      "v": 41,
+      "plain": "All that pass by the way spoil him: he is a reproach to his neighbours.",
+      "tokens": [
+        {
+          "t": "All that pass by the way spoil him: he is a reproach to his neighbours. "
+        }
+      ]
+    },
+    {
+      "v": 42,
+      "plain": "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice.",
+      "tokens": [
+        {
+          "t": "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice. "
+        }
+      ]
+    },
+    {
+      "v": 43,
+      "plain": "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.",
+      "tokens": [
+        {
+          "t": "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle. "
+        }
+      ]
+    },
+    {
+      "v": 44,
+      "plain": "Thou hast made his glory to cease, and cast his throne down to the ground.",
+      "tokens": [
+        {
+          "t": "Thou hast made his glory to cease, and cast his throne down to the ground. "
+        }
+      ]
+    },
+    {
+      "v": 45,
+      "plain": "The days of his youth hast thou shortened: thou hast covered him with shame. Selah.",
+      "tokens": [
+        {
+          "t": "The days of his youth hast thou shortened: thou hast covered him with shame. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 46,
+      "plain": "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?",
+      "tokens": [
+        {
+          "t": "How long, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? wilt thou hide thyself for ever? shall thy wrath burn like fire? "
+        }
+      ]
+    },
+    {
+      "v": 47,
+      "plain": "Remember how short my time is: wherefore hast thou made all men in vain?",
+      "tokens": [
+        {
+          "t": "Remember how short my time is: wherefore hast thou made all men in vain? "
+        }
+      ]
+    },
+    {
+      "v": 48,
+      "plain": "What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.",
+      "tokens": [
+        {
+          "t": "What man "
+        },
+        {
+          "add": "is he that"
+        },
+        {
+          "t": " liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah. "
+        }
+      ]
+    },
+    {
+      "v": 49,
+      "plain": "Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?",
+      "tokens": [
+        {
+          "t": "Lord, where "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " thy former lovingkindnesses, "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " thou swarest unto David in thy truth? "
+        }
+      ]
+    },
+    {
+      "v": 50,
+      "plain": "Remember, Lord, the reproach of thy servants; how I do bear in my bosom the reproach of all the mighty people;",
+      "tokens": [
+        {
+          "t": "Remember, Lord, the reproach of thy servants; "
+        },
+        {
+          "add": "how"
+        },
+        {
+          "t": " I do bear in my bosom "
+        },
+        {
+          "add": "the reproach of"
+        },
+        {
+          "t": " all the mighty people; "
+        }
+      ]
+    },
+    {
+      "v": 51,
+      "plain": "Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed.",
+      "tokens": [
+        {
+          "t": "Wherewith thine enemies have reproached, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; wherewith they have reproached the footsteps of thine anointed. "
+        }
+      ]
+    },
+    {
+      "v": 52,
+      "plain": "Blessed be the LORD for evermore. Amen, and Amen.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " for evermore. Amen, and Amen. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Maschil…: or, A Psalm for Ethan the Ezrahite, to give instruction"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "to all…: Heb. to generation and generation"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 10
+      },
+      "text": "Rahab: or, Egypt"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 10
+      },
+      "text": "thy…: Heb. the arm of thy strength"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 11
+      },
+      "text": "the fulness…: or, all it containeth"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 13
+      },
+      "text": "a…: Heb. an arm with might"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 14
+      },
+      "text": "habitation: or, establishment"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 18
+      },
+      "text": "the LORD…: or, our shield is of the LORD, and our king is of the Holy One of Israel"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 31
+      },
+      "text": "break: Heb. profane"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 33
+      },
+      "text": "will…: Heb. I will not make void from him"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 33
+      },
+      "text": "to fail: Heb. to lie"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 35
+      },
+      "text": "that…: Heb. if I lie"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 44
+      },
+      "text": "glory: Heb. brightness"
+    }
+  ]
+}

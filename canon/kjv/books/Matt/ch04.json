@@ -7,249 +7,304 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.",
       "tokens": [
         {
-          "t": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil."
+          "t": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And when he had fasted forty days and forty nights, he was afterward an hungred.",
       "tokens": [
         {
-          "t": "And when he had fasted forty days and forty nights, he was afterward an hungred."
+          "t": "And when he had fasted forty days and forty nights, he was afterward an hungred. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.",
       "tokens": [
         {
-          "t": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread."
+          "t": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
       "tokens": [
         {
-          "t": "But he answered and said,"
+          "t": "But he answered and said, "
+        },
+        {
+          "t": "It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,",
       "tokens": [
         {
-          "t": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,"
+          "t": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.",
       "tokens": [
         {
-          "t": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in"
+          "t": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in "
         },
         {
           "add": "their"
         },
         {
-          "t": "hands they shall bear thee up, lest at any time thou dash thy foot against a stone."
+          "t": " hands they shall bear thee up, lest at any time thou dash thy foot against a stone. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.",
       "tokens": [
         {
-          "t": "Jesus said unto him,"
+          "t": "Jesus said unto him, "
+        },
+        {
+          "t": "It is written again, Thou shalt not tempt the Lord thy God."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;",
       "tokens": [
         {
-          "t": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;"
+          "t": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
       "tokens": [
         {
-          "t": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me."
+          "t": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.",
       "tokens": [
         {
-          "t": "Then saith Jesus unto him,"
+          "t": "Then saith Jesus unto him, "
+        },
+        {
+          "t": "Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Then the devil leaveth him, and, behold, angels came and ministered unto him.",
       "tokens": [
         {
-          "t": "Then the devil leaveth him, and, behold, angels came and ministered unto him."
+          "t": "Then the devil leaveth him, and, behold, angels came and ministered unto him. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Now when Jesus had heard that John was cast into prison, he departed into Galilee;",
       "tokens": [
         {
-          "t": "¶ Now when Jesus had heard that John was cast into prison, he departed into Galilee;"
+          "t": "¶ Now when Jesus had heard that John was cast into prison, he departed into Galilee; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:",
       "tokens": [
         {
-          "t": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:"
+          "t": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "That it might be fulfilled which was spoken by Esaias the prophet, saying,",
       "tokens": [
         {
-          "t": "That it might be fulfilled which was spoken by Esaias the prophet, saying,"
+          "t": "That it might be fulfilled which was spoken by Esaias the prophet, saying, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;",
       "tokens": [
         {
-          "t": "The land of Zabulon, and the land of Nephthalim,"
+          "t": "The land of Zabulon, and the land of Nephthalim, "
         },
         {
           "add": "by"
         },
         {
-          "t": "the way of the sea, beyond Jordan, Galilee of the Gentiles;"
+          "t": " the way of the sea, beyond Jordan, Galilee of the Gentiles; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.",
       "tokens": [
         {
-          "t": "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up."
+          "t": "The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.",
       "tokens": [
         {
-          "t": "¶ From that time Jesus began to preach, and to say,"
+          "t": "¶ From that time Jesus began to preach, and to say, "
+        },
+        {
+          "t": "Repent: for the kingdom of heaven is at hand."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.",
       "tokens": [
         {
-          "t": "¶ And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers."
+          "t": "¶ And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And he saith unto them, Follow me, and I will make you fishers of men.",
       "tokens": [
         {
-          "t": "And he saith unto them,"
+          "t": "And he saith unto them, "
+        },
+        {
+          "t": "Follow me, and I will make you fishers of men."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And they straightway left their nets, and followed him.",
       "tokens": [
         {
-          "t": "And they straightway left"
+          "t": "And they straightway left "
         },
         {
           "add": "their"
         },
         {
-          "t": "nets, and followed him."
+          "t": " nets, and followed him. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.",
       "tokens": [
         {
-          "t": "And going on from thence, he saw other two brethren, James"
+          "t": "And going on from thence, he saw other two brethren, James "
         },
         {
           "add": "the son"
         },
         {
-          "t": "of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them."
+          "t": " of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And they immediately left the ship and their father, and followed him.",
       "tokens": [
         {
-          "t": "And they immediately left the ship and their father, and followed him."
+          "t": "And they immediately left the ship and their father, and followed him. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.",
       "tokens": [
         {
-          "t": "¶ And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people."
+          "t": "¶ And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.",
       "tokens": [
         {
-          "t": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them."
+          "t": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.",
       "tokens": [
         {
-          "t": "And there followed him great multitudes of people from Galilee, and"
+          "t": "And there followed him great multitudes of people from Galilee, and "
         },
         {
           "add": "from"
         },
         {
-          "t": "Decapolis, and"
+          "t": " Decapolis, and "
         },
         {
           "add": "from"
         },
         {
-          "t": "Jerusalem, and"
+          "t": " Jerusalem, and "
         },
         {
           "add": "from"
         },
         {
-          "t": "Judaea, and"
+          "t": " Judaea, and "
         },
         {
           "add": "from"
         },
         {
-          "t": "beyond Jordan."
+          "t": " beyond Jordan. "
         }
       ]
     }

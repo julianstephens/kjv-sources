@@ -7,125 +7,133 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.",
       "tokens": [
         {
-          "t": "And it came to pass, that after the year was expired, at the time that kings go out"
+          "t": "And it came to pass, that after the year was expired, at the time that kings go out "
         },
         {
           "add": "to battle"
         },
         {
-          "t": ", Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it."
+          "t": ", Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And David took the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it; and it was set upon David’s head: and he brought also exceeding much spoil out of the city.",
       "tokens": [
         {
-          "t": "And David took the crown of their king from off his head, and found it to weigh a talent of gold, and"
+          "t": "And David took the crown of their king from off his head, and found it to weigh a talent of gold, and "
         },
         {
           "add": "there were"
         },
         {
-          "t": "precious stones in it; and it was set upon David’s head: and he brought also exceeding much spoil out of the city."
+          "t": " precious stones in it; and it was set upon David’s head: and he brought also exceeding much spoil out of the city. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he brought out the people that were in it, and cut them with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.",
       "tokens": [
         {
-          "t": "And he brought out the people that"
+          "t": "And he brought out the people that "
         },
         {
           "add": "were"
         },
         {
-          "t": "in it, and cut"
+          "t": " in it, and cut "
         },
         {
           "add": "them"
         },
         {
-          "t": "with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem."
+          "t": " with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, that was of the children of the giant: and they were subdued.",
       "tokens": [
         {
-          "t": "¶ And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai,"
+          "t": "¶ And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, "
         },
         {
           "add": "that was"
         },
         {
-          "t": "of the children of the giant: and they were subdued."
+          "t": " of the children of the giant: and they were subdued. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff was like a weaver’s beam.",
       "tokens": [
         {
-          "t": "And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff"
+          "t": "And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff "
         },
         {
           "add": "was"
         },
         {
-          "t": "like a weaver’s beam."
+          "t": " like a weaver’s beam. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And yet again there was war at Gath, where was a man of great stature, whose fingers and toes were four and twenty, six on each hand, and six on each foot: and he also was the son of the giant.",
       "tokens": [
         {
-          "t": "And yet again there was war at Gath, where was a man of"
+          "t": "And yet again there was war at Gath, where was a man of "
         },
         {
           "add": "great"
         },
         {
-          "t": "stature, whose fingers and toes"
+          "t": " stature, whose fingers and toes "
         },
         {
           "add": "were"
         },
         {
-          "t": "four and twenty, six"
+          "t": " four and twenty, six "
         },
         {
           "add": "on each hand"
         },
         {
-          "t": ", and six"
+          "t": ", and six "
         },
         {
           "add": "on each foot:"
         },
         {
-          "t": "and he also was the son of the giant."
+          "t": " and he also was the son of the giant. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But when he defied Israel, Jonathan the son of Shimea David’s brother slew him.",
       "tokens": [
         {
-          "t": "But when he defied Israel, Jonathan the son of Shimea David’s brother slew him."
+          "t": "But when he defied Israel, Jonathan the son of Shimea David’s brother slew him. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants.",
       "tokens": [
         {
-          "t": "These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants."
+          "t": "These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants. "
         }
       ]
     }

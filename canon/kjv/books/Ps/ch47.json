@@ -1,0 +1,158 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 47,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O clap your hands, all ye people; shout unto God with the voice of triumph.",
+      "tokens": [
+        {
+          "t": "O clap your hands, all ye people; shout unto God with the voice of triumph. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "For the LORD most high is terrible; he is a great King over all the earth.",
+      "tokens": [
+        {
+          "t": "For the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " most high "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " terrible; "
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": " a great King over all the earth. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "He shall subdue the people under us, and the nations under our feet.",
+      "tokens": [
+        {
+          "t": "He shall subdue the people under us, and the nations under our feet. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.",
+      "tokens": [
+        {
+          "t": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "God is gone up with a shout, the LORD with the sound of a trumpet.",
+      "tokens": [
+        {
+          "t": "God is gone up with a shout, the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " with the sound of a trumpet. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Sing praises to God, sing praises: sing praises unto our King, sing praises.",
+      "tokens": [
+        {
+          "t": "Sing praises to God, sing praises: sing praises unto our King, sing praises. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "For God is the King of all the earth: sing ye praises with understanding.",
+      "tokens": [
+        {
+          "t": "For God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the King of all the earth: sing ye praises with understanding. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "God reigneth over the heathen: God sitteth upon the throne of his holiness.",
+      "tokens": [
+        {
+          "t": "God reigneth over the heathen: God sitteth upon the throne of his holiness. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted.",
+      "tokens": [
+        {
+          "t": "The princes of the people are gathered together, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " the people of the God of Abraham: for the shields of the earth "
+        },
+        {
+          "add": "belong"
+        },
+        {
+          "t": " unto God: he is greatly exalted. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "for: or, of"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 7
+      },
+      "text": "with: or, every one that hath"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 9
+      },
+      "text": "princes…: or, voluntary of the people are gathered unto the people of the God of Abraham"
+    }
+  ]
+}

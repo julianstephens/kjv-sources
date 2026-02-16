@@ -7,93 +7,100 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In my distress I cried unto the LORD, and he heard me.",
       "tokens": [
         {
-          "t": "In my distress I cried unto the"
+          "t": "In my distress I cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and he heard me."
+          "t": ", and he heard me. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Deliver my soul, O LORD, from lying lips, and from a deceitful tongue.",
       "tokens": [
         {
-          "t": "Deliver my soul, O"
+          "t": "Deliver my soul, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", from lying lips,"
+          "t": ", from lying lips, "
         },
         {
           "add": "and"
         },
         {
-          "t": "from a deceitful tongue."
+          "t": " from a deceitful tongue. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?",
       "tokens": [
         {
-          "t": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?"
+          "t": "What shall be given unto thee? or what shall be done unto thee, thou false tongue? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Sharp arrows of the mighty, with coals of juniper.",
       "tokens": [
         {
-          "t": "Sharp arrows of the mighty, with coals of juniper."
+          "t": "Sharp arrows of the mighty, with coals of juniper. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!",
       "tokens": [
         {
-          "t": "Woe is me, that I sojourn in Mesech,"
+          "t": "Woe is me, that I sojourn in Mesech, "
         },
         {
           "add": "that"
         },
         {
-          "t": "I dwell in the tents of Kedar!"
+          "t": " I dwell in the tents of Kedar! "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "My soul hath long dwelt with him that hateth peace.",
       "tokens": [
         {
-          "t": "My soul hath long dwelt with him that hateth peace."
+          "t": "My soul hath long dwelt with him that hateth peace. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "I am for peace: but when I speak, they are for war.",
       "tokens": [
         {
-          "t": "I"
+          "t": "I "
         },
         {
           "add": "am for"
         },
         {
-          "t": "peace: but when I speak, they"
+          "t": " peace: but when I speak, they "
         },
         {
           "add": "are"
         },
         {
-          "t": "for war."
+          "t": " for war. "
         }
       ]
     }

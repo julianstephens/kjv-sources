@@ -1,0 +1,196 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 63,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;",
+      "tokens": [
+        {
+          "t": "O God, thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is; "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "To see thy power and thy glory, so as I have seen thee in the sanctuary.",
+      "tokens": [
+        {
+          "t": "To see thy power and thy glory, so "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " I have seen thee in the sanctuary. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Because thy lovingkindness is better than life, my lips shall praise thee.",
+      "tokens": [
+        {
+          "t": "Because thy lovingkindness "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " better than life, my lips shall praise thee. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Thus will I bless thee while I live: I will lift up my hands in thy name.",
+      "tokens": [
+        {
+          "t": "Thus will I bless thee while I live: I will lift up my hands in thy name. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:",
+      "tokens": [
+        {
+          "t": "My soul shall be satisfied as "
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": " marrow and fatness; and my mouth shall praise "
+        },
+        {
+          "add": "thee"
+        },
+        {
+          "t": " with joyful lips: "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "When I remember thee upon my bed, and meditate on thee in the night watches.",
+      "tokens": [
+        {
+          "t": "When I remember thee upon my bed, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " meditate on thee in the "
+        },
+        {
+          "add": "night"
+        },
+        {
+          "t": " watches. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.",
+      "tokens": [
+        {
+          "t": "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "My soul followeth hard after thee: thy right hand upholdeth me.",
+      "tokens": [
+        {
+          "t": "My soul followeth hard after thee: thy right hand upholdeth me. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "But those that seek my soul, to destroy it, shall go into the lower parts of the earth.",
+      "tokens": [
+        {
+          "t": "But those "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " seek my soul, to destroy "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", shall go into the lower parts of the earth. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "They shall fall by the sword: they shall be a portion for foxes.",
+      "tokens": [
+        {
+          "t": "They shall fall by the sword: they shall be a portion for foxes. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.",
+      "tokens": [
+        {
+          "t": "But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "thirsty: Heb. weary"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "where…: without water"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "marrow: Heb. fatness"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 10
+      },
+      "text": "They shall fall…: Heb. They shall make him run out like water by the hands of"
+    }
+  ]
+}

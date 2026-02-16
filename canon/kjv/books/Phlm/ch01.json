@@ -7,243 +7,268 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,",
       "tokens": [
         {
-          "t": "Paul, a prisoner of Jesus Christ, and Timothy"
+          "t": "Paul, a prisoner of Jesus Christ, and Timothy "
         },
         {
           "add": "our"
         },
         {
-          "t": "brother, unto Philemon our dearly beloved, and fellowlabourer,"
+          "t": " brother, unto Philemon our dearly beloved, and fellowlabourer, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:",
       "tokens": [
         {
-          "t": "And to"
+          "t": "And to "
         },
         {
           "add": "our"
         },
         {
-          "t": "beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:"
+          "t": " beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Grace to you, and peace, from God our Father and the Lord Jesus Christ.",
       "tokens": [
         {
-          "t": "Grace to you, and peace, from God our Father and the Lord Jesus Christ."
+          "t": "Grace to you, and peace, from God our Father and the Lord Jesus Christ. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "I thank my God, making mention of thee always in my prayers,",
       "tokens": [
         {
-          "t": "I thank my God, making mention of thee always in my prayers,"
+          "t": "I thank my God, making mention of thee always in my prayers, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;",
       "tokens": [
         {
-          "t": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;"
+          "t": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.",
       "tokens": [
         {
-          "t": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus."
+          "t": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.",
       "tokens": [
         {
-          "t": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother."
+          "t": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,",
       "tokens": [
         {
-          "t": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"
+          "t": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Yet for love’s sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.",
       "tokens": [
         {
-          "t": "Yet for love’s sake I rather beseech"
+          "t": "Yet for love’s sake I rather beseech "
         },
         {
           "add": "thee"
         },
         {
-          "t": ", being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
+          "t": ", being such an one as Paul the aged, and now also a prisoner of Jesus Christ. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:",
       "tokens": [
         {
-          "t": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:"
+          "t": "I beseech thee for my son Onesimus, whom I have begotten in my bonds: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Which in time past was to thee unprofitable, but now profitable to thee and to me:",
       "tokens": [
         {
-          "t": "Which in time past was to thee unprofitable, but now profitable to thee and to me:"
+          "t": "Which in time past was to thee unprofitable, but now profitable to thee and to me: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Whom I have sent again: thou therefore receive him, that is, mine own bowels:",
       "tokens": [
         {
-          "t": "Whom I have sent again: thou therefore receive him, that is, mine own bowels:"
+          "t": "Whom I have sent again: thou therefore receive him, that is, mine own bowels: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:",
       "tokens": [
         {
-          "t": "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:"
+          "t": "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.",
       "tokens": [
         {
-          "t": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly."
+          "t": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;",
       "tokens": [
         {
-          "t": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;"
+          "t": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?",
       "tokens": [
         {
-          "t": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?"
+          "t": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "If thou count me therefore a partner, receive him as myself.",
       "tokens": [
         {
-          "t": "If thou count me therefore a partner, receive him as myself."
+          "t": "If thou count me therefore a partner, receive him as myself. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "If he hath wronged thee, or oweth thee ought, put that on mine account;",
       "tokens": [
         {
-          "t": "If he hath wronged thee, or oweth"
+          "t": "If he hath wronged thee, or oweth "
         },
         {
           "add": "thee"
         },
         {
-          "t": "ought, put that on mine account;"
+          "t": " ought, put that on mine account; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.",
       "tokens": [
         {
-          "t": "I Paul have written"
+          "t": "I Paul have written "
         },
         {
           "add": "it"
         },
         {
-          "t": "with mine own hand, I will repay"
+          "t": " with mine own hand, I will repay "
         },
         {
           "add": "it"
         },
         {
-          "t": ": albeit I do not say to thee how thou owest unto me even thine own self besides."
+          "t": ": albeit I do not say to thee how thou owest unto me even thine own self besides. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.",
       "tokens": [
         {
-          "t": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord."
+          "t": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.",
       "tokens": [
         {
-          "t": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say."
+          "t": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.",
       "tokens": [
         {
-          "t": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you."
+          "t": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;",
       "tokens": [
         {
-          "t": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;"
+          "t": "There salute thee Epaphras, my fellowprisoner in Christ Jesus; "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.",
       "tokens": [
         {
-          "t": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers."
+          "t": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "The grace of our Lord Jesus Christ be with your spirit. Amen.",
       "tokens": [
         {
-          "t": "The grace of our Lord Jesus Christ"
+          "t": "The grace of our Lord Jesus Christ "
         },
         {
           "add": "be"
         },
         {
-          "t": "with your spirit. Amen."
+          "t": " with your spirit. Amen. "
         }
       ]
     }

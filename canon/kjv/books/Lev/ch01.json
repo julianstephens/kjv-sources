@@ -7,302 +7,322 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,"
+          "t": " called unto Moses, and spake unto him out of the tabernacle of the congregation, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, even of the herd, and of the flock.",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the"
+          "t": "Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", ye shall bring your offering of the cattle,"
+          "t": ", ye shall bring your offering of the cattle, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the herd, and of the flock."
+          "t": " of the herd, and of the flock. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "If his offering be a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD.",
       "tokens": [
         {
-          "t": "If his offering"
+          "t": "If his offering "
         },
         {
           "add": "be"
         },
         {
-          "t": "a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the"
+          "t": " a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him.",
       "tokens": [
         {
-          "t": "And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."
+          "t": "And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And he shall kill the bullock before the LORD: and the priests, Aaron’s sons, shall bring the blood, and sprinkle the blood round about upon the altar that is by the door of the tabernacle of the congregation.",
       "tokens": [
         {
-          "t": "And he shall kill the bullock before the"
+          "t": "And he shall kill the bullock before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and the priests, Aaron’s sons, shall bring the blood, and sprinkle the blood round about upon the altar that"
+          "t": ": and the priests, Aaron’s sons, shall bring the blood, and sprinkle the blood round about upon the altar that "
         },
         {
           "add": "is by"
         },
         {
-          "t": "the door of the tabernacle of the congregation."
+          "t": " the door of the tabernacle of the congregation. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he shall flay the burnt offering, and cut it into his pieces.",
       "tokens": [
         {
-          "t": "And he shall flay the burnt offering, and cut it into his pieces."
+          "t": "And he shall flay the burnt offering, and cut it into his pieces. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire:",
       "tokens": [
         {
-          "t": "And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire:"
+          "t": "And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the priests, Aaron’s sons, shall lay the parts, the head, and the fat, in order upon the wood that is on the fire which is upon the altar:",
       "tokens": [
         {
-          "t": "And the priests, Aaron’s sons, shall lay the parts, the head, and the fat, in order upon the wood that"
+          "t": "And the priests, Aaron’s sons, shall lay the parts, the head, and the fat, in order upon the wood that "
         },
         {
           "add": "is"
         },
         {
-          "t": "on the fire which"
+          "t": " on the fire which "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the altar:"
+          "t": " upon the altar: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.",
       "tokens": [
         {
-          "t": "But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar,"
+          "t": "But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar, "
         },
         {
           "add": "to be"
         },
         {
-          "t": "a burnt sacrifice, an offering made by fire, of a sweet savour unto the"
+          "t": " a burnt sacrifice, an offering made by fire, of a sweet savour unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And if his offering be of the flocks, namely, of the sheep, or of the goats, for a burnt sacrifice; he shall bring it a male without blemish.",
       "tokens": [
         {
-          "t": "¶ And if his offering"
+          "t": "¶ And if his offering "
         },
         {
           "add": "be"
         },
         {
-          "t": "of the flocks,"
+          "t": " of the flocks, "
         },
         {
           "add": "namely"
         },
         {
-          "t": ", of the sheep, or of the goats, for a burnt sacrifice; he shall bring it a male without blemish."
+          "t": ", of the sheep, or of the goats, for a burnt sacrifice; he shall bring it a male without blemish. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And he shall kill it on the side of the altar northward before the LORD: and the priests, Aaron’s sons, shall sprinkle his blood round about upon the altar.",
       "tokens": [
         {
-          "t": "And he shall kill it on the side of the altar northward before the"
+          "t": "And he shall kill it on the side of the altar northward before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and the priests, Aaron’s sons, shall sprinkle his blood round about upon the altar."
+          "t": ": and the priests, Aaron’s sons, shall sprinkle his blood round about upon the altar. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And he shall cut it into his pieces, with his head and his fat: and the priest shall lay them in order on the wood that is on the fire which is upon the altar:",
       "tokens": [
         {
-          "t": "And he shall cut it into his pieces, with his head and his fat: and the priest shall lay them in order on the wood that"
+          "t": "And he shall cut it into his pieces, with his head and his fat: and the priest shall lay them in order on the wood that "
         },
         {
           "add": "is"
         },
         {
-          "t": "on the fire which"
+          "t": " on the fire which "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the altar:"
+          "t": " upon the altar: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "But he shall wash the inwards and the legs with water: and the priest shall bring it all, and burn it upon the altar: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.",
       "tokens": [
         {
-          "t": "But he shall wash the inwards and the legs with water: and the priest shall bring"
+          "t": "But he shall wash the inwards and the legs with water: and the priest shall bring "
         },
         {
           "add": "it"
         },
         {
-          "t": "all, and burn"
+          "t": " all, and burn "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon the altar: it"
+          "t": " upon the altar: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a burnt sacrifice, an offering made by fire, of a sweet savour unto the"
+          "t": " a burnt sacrifice, an offering made by fire, of a sweet savour unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And if the burnt sacrifice for his offering to the LORD be of fowls, then he shall bring his offering of turtledoves, or of young pigeons.",
       "tokens": [
         {
-          "t": "¶ And if the burnt sacrifice for his offering to the"
+          "t": "¶ And if the burnt sacrifice for his offering to the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "be"
         },
         {
-          "t": "of fowls, then he shall bring his offering of turtledoves, or of young pigeons."
+          "t": " of fowls, then he shall bring his offering of turtledoves, or of young pigeons. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the priest shall bring it unto the altar, and wring off his head, and burn it on the altar; and the blood thereof shall be wrung out at the side of the altar:",
       "tokens": [
         {
-          "t": "And the priest shall bring it unto the altar, and wring off his head, and burn"
+          "t": "And the priest shall bring it unto the altar, and wring off his head, and burn "
         },
         {
           "add": "it"
         },
         {
-          "t": "on the altar; and the blood thereof shall be wrung out at the side of the altar:"
+          "t": " on the altar; and the blood thereof shall be wrung out at the side of the altar: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:",
       "tokens": [
         {
-          "t": "And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:"
+          "t": "And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And he shall cleave it with the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.",
       "tokens": [
         {
-          "t": "And he shall cleave it with the wings thereof,"
+          "t": "And he shall cleave it with the wings thereof, "
         },
         {
           "add": "but"
         },
         {
-          "t": "shall not divide"
+          "t": " shall not divide "
         },
         {
           "add": "it"
         },
         {
-          "t": "asunder: and the priest shall burn it upon the altar, upon the wood that"
+          "t": " asunder: and the priest shall burn it upon the altar, upon the wood that "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the fire: it"
+          "t": " upon the fire: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a burnt sacrifice, an offering made by fire, of a sweet savour unto the"
+          "t": " a burnt sacrifice, an offering made by fire, of a sweet savour unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

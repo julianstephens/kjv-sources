@@ -7,255 +7,277 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Man that is born of a woman is of few days, and full of trouble.",
       "tokens": [
         {
-          "t": "Man"
+          "t": "Man "
         },
         {
           "add": "that is"
         },
         {
-          "t": "born of a woman"
+          "t": " born of a woman "
         },
         {
           "add": "is"
         },
         {
-          "t": "of few days, and full of trouble."
+          "t": " of few days, and full of trouble. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.",
       "tokens": [
         {
-          "t": "He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not."
+          "t": "He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?",
       "tokens": [
         {
-          "t": "And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?"
+          "t": "And dost thou open thine eyes upon such an one, and bringest me into judgment with thee? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Who can bring a clean thing out of an unclean? not one.",
       "tokens": [
         {
-          "t": "Who can bring a clean"
+          "t": "Who can bring a clean "
         },
         {
           "add": "thing"
         },
         {
-          "t": "out of an unclean? not one."
+          "t": " out of an unclean? not one. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;",
       "tokens": [
         {
-          "t": "Seeing his days"
+          "t": "Seeing his days "
         },
         {
           "add": "are"
         },
         {
-          "t": "determined, the number of his months"
+          "t": " determined, the number of his months "
         },
         {
           "add": "are"
         },
         {
-          "t": "with thee, thou hast appointed his bounds that he cannot pass;"
+          "t": " with thee, thou hast appointed his bounds that he cannot pass; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.",
       "tokens": [
         {
-          "t": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day."
+          "t": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.",
       "tokens": [
         {
-          "t": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease."
+          "t": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Though the root thereof wax old in the earth, and the stock thereof die in the ground;",
       "tokens": [
         {
-          "t": "Though the root thereof wax old in the earth, and the stock thereof die in the ground;"
+          "t": "Though the root thereof wax old in the earth, and the stock thereof die in the ground; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Yet through the scent of water it will bud, and bring forth boughs like a plant.",
       "tokens": [
         {
           "add": "Yet"
         },
         {
-          "t": "through the scent of water it will bud, and bring forth boughs like a plant."
+          "t": " through the scent of water it will bud, and bring forth boughs like a plant. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?",
       "tokens": [
         {
-          "t": "But man dieth, and wasteth away: yea, man giveth up the ghost, and where"
+          "t": "But man dieth, and wasteth away: yea, man giveth up the ghost, and where "
         },
         {
           "add": "is"
         },
         {
-          "t": "he?"
+          "t": " he? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "As the waters fail from the sea, and the flood decayeth and drieth up:",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "the waters fail from the sea, and the flood decayeth and drieth up:"
+          "t": " the waters fail from the sea, and the flood decayeth and drieth up: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep.",
       "tokens": [
         {
-          "t": "So man lieth down, and riseth not: till the heavens"
+          "t": "So man lieth down, and riseth not: till the heavens "
         },
         {
           "add": "be"
         },
         {
-          "t": "no more, they shall not awake, nor be raised out of their sleep."
+          "t": " no more, they shall not awake, nor be raised out of their sleep. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!",
       "tokens": [
         {
-          "t": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!"
+          "t": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me! "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "If a man die, shall he live again? all the days of my appointed time will I wait, till my change come.",
       "tokens": [
         {
-          "t": "If a man die, shall he live"
+          "t": "If a man die, shall he live "
         },
         {
           "add": "again"
         },
         {
-          "t": "? all the days of my appointed time will I wait, till my change come."
+          "t": "? all the days of my appointed time will I wait, till my change come. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.",
       "tokens": [
         {
-          "t": "Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands."
+          "t": "Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "For now thou numberest my steps: dost thou not watch over my sin?",
       "tokens": [
         {
-          "t": "For now thou numberest my steps: dost thou not watch over my sin?"
+          "t": "For now thou numberest my steps: dost thou not watch over my sin? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "My transgression is sealed up in a bag, and thou sewest up mine iniquity.",
       "tokens": [
         {
-          "t": "My transgression"
+          "t": "My transgression "
         },
         {
           "add": "is"
         },
         {
-          "t": "sealed up in a bag, and thou sewest up mine iniquity."
+          "t": " sealed up in a bag, and thou sewest up mine iniquity. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And surely the mountain falling cometh to nought, and the rock is removed out of his place.",
       "tokens": [
         {
-          "t": "And surely the mountain falling cometh to nought, and the rock is removed out of his place."
+          "t": "And surely the mountain falling cometh to nought, and the rock is removed out of his place. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man.",
       "tokens": [
         {
-          "t": "The waters wear the stones: thou washest away the things which grow"
+          "t": "The waters wear the stones: thou washest away the things which grow "
         },
         {
           "add": "out"
         },
         {
-          "t": "of the dust of the earth; and thou destroyest the hope of man."
+          "t": " of the dust of the earth; and thou destroyest the hope of man. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.",
       "tokens": [
         {
-          "t": "Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away."
+          "t": "Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "His sons come to honour, and he knoweth it not; and they are brought low, but he perceiveth it not of them.",
       "tokens": [
         {
-          "t": "His sons come to honour, and he knoweth"
+          "t": "His sons come to honour, and he knoweth "
         },
         {
           "add": "it"
         },
         {
-          "t": "not; and they are brought low, but he perceiveth"
+          "t": " not; and they are brought low, but he perceiveth "
         },
         {
           "add": "it"
         },
         {
-          "t": "not of them."
+          "t": " not of them. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But his flesh upon him shall have pain, and his soul within him shall mourn.",
       "tokens": [
         {
-          "t": "But his flesh upon him shall have pain, and his soul within him shall mourn."
+          "t": "But his flesh upon him shall have pain, and his soul within him shall mourn. "
         }
       ]
     }

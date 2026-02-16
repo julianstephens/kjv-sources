@@ -1,0 +1,551 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 73,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Truly God is good to Israel, even to such as are of a clean heart.",
+      "tokens": [
+        {
+          "t": "Truly God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " good to Israel, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " to such as are of a clean heart. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "But as for me, my feet were almost gone; my steps had well nigh slipped.",
+      "tokens": [
+        {
+          "t": "But as for me, my feet were almost gone; my steps had well nigh slipped. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For I was envious at the foolish, when I saw the prosperity of the wicked.",
+      "tokens": [
+        {
+          "t": "For I was envious at the foolish, "
+        },
+        {
+          "add": "when"
+        },
+        {
+          "t": " I saw the prosperity of the wicked. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For there are no bands in their death: but their strength is firm.",
+      "tokens": [
+        {
+          "t": "For "
+        },
+        {
+          "add": "there are"
+        },
+        {
+          "t": " no bands in their death: but their strength "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " firm. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "They are not in trouble as other men; neither are they plagued like other men.",
+      "tokens": [
+        {
+          "t": "They "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " not in trouble "
+        },
+        {
+          "add": "as other"
+        },
+        {
+          "t": " men; neither are they plagued like "
+        },
+        {
+          "add": "other"
+        },
+        {
+          "t": " men. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Therefore pride compasseth them about as a chain; violence covereth them as a garment.",
+      "tokens": [
+        {
+          "t": "Therefore pride compasseth them about as a chain; violence covereth them "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " a garment. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Their eyes stand out with fatness: they have more than heart could wish.",
+      "tokens": [
+        {
+          "t": "Their eyes stand out with fatness: they have more than heart could wish. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "They are corrupt, and speak wickedly concerning oppression: they speak loftily.",
+      "tokens": [
+        {
+          "t": "They are corrupt, and speak wickedly "
+        },
+        {
+          "add": "concerning"
+        },
+        {
+          "t": " oppression: they speak loftily. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "They set their mouth against the heavens, and their tongue walketh through the earth.",
+      "tokens": [
+        {
+          "t": "They set their mouth against the heavens, and their tongue walketh through the earth. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Therefore his people return hither: and waters of a full cup are wrung out to them.",
+      "tokens": [
+        {
+          "t": "Therefore his people return hither: and waters of a full "
+        },
+        {
+          "add": "cup"
+        },
+        {
+          "t": " are wrung out to them. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "And they say, How doth God know? and is there knowledge in the most High?",
+      "tokens": [
+        {
+          "t": "And they say, How doth God know? and is there knowledge in the most High? "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Behold, these are the ungodly, who prosper in the world; they increase in riches.",
+      "tokens": [
+        {
+          "t": "Behold, these "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the ungodly, who prosper in the world; they increase "
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": " riches. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Verily I have cleansed my heart in vain, and washed my hands in innocency.",
+      "tokens": [
+        {
+          "t": "Verily I have cleansed my heart "
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": " vain, and washed my hands in innocency. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "For all the day long have I been plagued, and chastened every morning.",
+      "tokens": [
+        {
+          "t": "For all the day long have I been plagued, and chastened every morning. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "If I say, I will speak thus; behold, I should offend against the generation of thy children.",
+      "tokens": [
+        {
+          "t": "If I say, I will speak thus; behold, I should offend "
+        },
+        {
+          "add": "against"
+        },
+        {
+          "t": " the generation of thy children. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "When I thought to know this, it was too painful for me;",
+      "tokens": [
+        {
+          "t": "When I thought to know this, it "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " too painful for me; "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "Until I went into the sanctuary of God; then understood I their end.",
+      "tokens": [
+        {
+          "t": "Until I went into the sanctuary of God; "
+        },
+        {
+          "add": "then"
+        },
+        {
+          "t": " understood I their end. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "Surely thou didst set them in slippery places: thou castedst them down into destruction.",
+      "tokens": [
+        {
+          "t": "Surely thou didst set them in slippery places: thou castedst them down into destruction. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "How are they brought into desolation, as in a moment! they are utterly consumed with terrors.",
+      "tokens": [
+        {
+          "t": "How are they "
+        },
+        {
+          "add": "brought"
+        },
+        {
+          "t": " into desolation, as in a moment! they are utterly consumed with terrors. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "As a dream when one awaketh; so, O Lord, when thou awakest, thou shalt despise their image.",
+      "tokens": [
+        {
+          "t": "As a dream when "
+        },
+        {
+          "add": "one"
+        },
+        {
+          "t": " awaketh; "
+        },
+        {
+          "add": "so"
+        },
+        {
+          "t": ", O Lord, when thou awakest, thou shalt despise their image. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "Thus my heart was grieved, and I was pricked in my reins.",
+      "tokens": [
+        {
+          "t": "Thus my heart was grieved, and I was pricked in my reins. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "So foolish was I, and ignorant: I was as a beast before thee.",
+      "tokens": [
+        {
+          "t": "So foolish "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " I, and ignorant: I was "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " a beast before thee. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "Nevertheless I am continually with thee: thou hast holden me by my right hand.",
+      "tokens": [
+        {
+          "t": "Nevertheless I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " continually with thee: thou hast holden "
+        },
+        {
+          "add": "me"
+        },
+        {
+          "t": " by my right hand. "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "Thou shalt guide me with thy counsel, and afterward receive me to glory.",
+      "tokens": [
+        {
+          "t": "Thou shalt guide me with thy counsel, and afterward receive me "
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": " glory. "
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "plain": "Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.",
+      "tokens": [
+        {
+          "t": "Whom have I in heaven "
+        },
+        {
+          "add": "but thee"
+        },
+        {
+          "t": "? and "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " none upon earth "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " I desire beside thee. "
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "plain": "My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.",
+      "tokens": [
+        {
+          "t": "My flesh and my heart faileth: "
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": " God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the strength of my heart, and my portion for ever. "
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "plain": "For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.",
+      "tokens": [
+        {
+          "t": "For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee. "
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "plain": "But it is good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works.",
+      "tokens": [
+        {
+          "t": "But "
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": " good for me to draw near to God: I have put my trust in the Lord "
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": ", that I may declare all thy works. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "of: or, for"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "Truly: or, Yet"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 1
+      },
+      "text": "of…: Heb. clean of heart"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 4
+      },
+      "text": "firm: Heb. fat"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 5
+      },
+      "text": "in…: Heb. in the trouble of other men"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 5
+      },
+      "text": "like: Heb. with"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 7
+      },
+      "text": "have…: Heb. pass the thoughts of the heart"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 14
+      },
+      "text": "chastened: Heb. my chastisement was"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 16
+      },
+      "text": "too…: Heb. labour in mine eyes"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 22
+      },
+      "text": "ignorant: Heb. I knew not"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 22
+      },
+      "text": "before: Heb. with"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 26
+      },
+      "text": "strength: Heb. rock"
+    }
+  ]
+}

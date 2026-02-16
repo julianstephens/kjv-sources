@@ -7,321 +7,340 @@
   "verses": [
     {
       "v": 1,
+      "plain": "A prayer of Habakkuk the prophet upon Shigionoth.",
       "tokens": [
         {
-          "t": "A prayer of Habakkuk the prophet upon Shigionoth."
+          "t": "A prayer of Habakkuk the prophet upon Shigionoth. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "O LORD, I have heard thy speech, and was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.",
       "tokens": [
         {
-          "t": "O"
+          "t": "O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I have heard thy speech,"
+          "t": ", I have heard thy speech, "
         },
         {
           "add": "and"
         },
         {
-          "t": "was afraid: O"
+          "t": " was afraid: O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy."
+          "t": ", revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.",
       "tokens": [
         {
-          "t": "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise."
+          "t": "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "his"
         },
         {
-          "t": "brightness was as the light; he had horns"
+          "t": " brightness was as the light; he had horns "
         },
         {
           "add": "coming"
         },
         {
-          "t": "out of his hand: and there"
+          "t": " out of his hand: and there "
         },
         {
           "add": "was"
         },
         {
-          "t": "the hiding of his power."
+          "t": " the hiding of his power. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Before him went the pestilence, and burning coals went forth at his feet.",
       "tokens": [
         {
-          "t": "Before him went the pestilence, and burning coals went forth at his feet."
+          "t": "Before him went the pestilence, and burning coals went forth at his feet. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.",
       "tokens": [
         {
-          "t": "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways"
+          "t": "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways "
         },
         {
           "add": "are"
         },
         {
-          "t": "everlasting."
+          "t": " everlasting. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.",
       "tokens": [
         {
-          "t": "I saw the tents of Cushan in affliction:"
+          "t": "I saw the tents of Cushan in affliction: "
         },
         {
           "add": "and"
         },
         {
-          "t": "the curtains of the land of Midian did tremble."
+          "t": " the curtains of the land of Midian did tremble. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Was the LORD displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?",
       "tokens": [
         {
-          "t": "Was the"
+          "t": "Was the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "displeased against the rivers?"
+          "t": " displeased against the rivers? "
         },
         {
           "add": "was"
         },
         {
-          "t": "thine anger against the rivers?"
+          "t": " thine anger against the rivers? "
         },
         {
           "add": "was"
         },
         {
-          "t": "thy wrath against the sea, that thou didst ride upon thine horses"
+          "t": " thy wrath against the sea, that thou didst ride upon thine horses "
         },
         {
           "add": "and"
         },
         {
-          "t": "thy chariots of salvation?"
+          "t": " thy chariots of salvation? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers.",
       "tokens": [
         {
-          "t": "Thy bow was made quite naked,"
+          "t": "Thy bow was made quite naked, "
         },
         {
           "add": "according"
         },
         {
-          "t": "to the oaths of the tribes,"
+          "t": " to the oaths of the tribes, "
         },
         {
           "add": "even thy"
         },
         {
-          "t": "word. Selah. Thou didst cleave the earth with rivers."
+          "t": " word. Selah. Thou didst cleave the earth with rivers. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high.",
       "tokens": [
         {
-          "t": "The mountains saw thee,"
+          "t": "The mountains saw thee, "
         },
         {
           "add": "and"
         },
         {
-          "t": "they trembled: the overflowing of the water passed by: the deep uttered his voice,"
+          "t": " they trembled: the overflowing of the water passed by: the deep uttered his voice, "
         },
         {
           "add": "and"
         },
         {
-          "t": "lifted up his hands on high."
+          "t": " lifted up his hands on high. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.",
       "tokens": [
         {
-          "t": "The sun"
+          "t": "The sun "
         },
         {
           "add": "and"
         },
         {
-          "t": "moon stood still in their habitation: at the light of thine arrows they went,"
+          "t": " moon stood still in their habitation: at the light of thine arrows they went, "
         },
         {
           "add": "and"
         },
         {
-          "t": "at the shining of thy glittering spear."
+          "t": " at the shining of thy glittering spear. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Thou didst march through the land in indignation, thou didst thresh the heathen in anger.",
       "tokens": [
         {
-          "t": "Thou didst march through the land in indignation, thou didst thresh the heathen in anger."
+          "t": "Thou didst march through the land in indignation, thou didst thresh the heathen in anger. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.",
       "tokens": [
         {
-          "t": "Thou wentest forth for the salvation of thy people,"
+          "t": "Thou wentest forth for the salvation of thy people, "
         },
         {
           "add": "even"
         },
         {
-          "t": "for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah."
+          "t": " for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.",
       "tokens": [
         {
-          "t": "Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing"
+          "t": "Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing "
         },
         {
           "add": "was"
         },
         {
-          "t": "as to devour the poor secretly."
+          "t": " as to devour the poor secretly. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Thou didst walk through the sea with thine horses, through the heap of great waters.",
       "tokens": [
         {
-          "t": "Thou didst walk through the sea with thine horses,"
+          "t": "Thou didst walk through the sea with thine horses, "
         },
         {
           "add": "through"
         },
         {
-          "t": "the heap of great waters."
+          "t": " the heap of great waters. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.",
       "tokens": [
         {
-          "t": "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops."
+          "t": "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:",
       "tokens": [
         {
-          "t": "¶ Although the fig tree shall not blossom, neither"
+          "t": "¶ Although the fig tree shall not blossom, neither "
         },
         {
           "add": "shall"
         },
         {
-          "t": "fruit"
+          "t": " fruit "
         },
         {
           "add": "be"
         },
         {
-          "t": "in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and"
+          "t": " in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and "
         },
         {
           "add": "there shall be"
         },
         {
-          "t": "no herd in the stalls:"
+          "t": " no herd in the stalls: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Yet I will rejoice in the LORD, I will joy in the God of my salvation.",
       "tokens": [
         {
-          "t": "Yet I will rejoice in the"
+          "t": "Yet I will rejoice in the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I will joy in the God of my salvation."
+          "t": ", I will joy in the God of my salvation. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The LORD God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God"
+          "t": " God "
         },
         {
           "add": "is"
         },
         {
-          "t": "my strength, and he will make my feet like hinds’"
+          "t": " my strength, and he will make my feet like hinds’ "
         },
         {
           "add": "feet"
         },
         {
-          "t": ", and he will make me to walk upon mine high places. To the chief singer on my stringed instruments."
+          "t": ", and he will make me to walk upon mine high places. To the chief singer on my stringed instruments. "
         }
       ]
     }

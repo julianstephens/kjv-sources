@@ -7,510 +7,544 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Be not thou envious against evil men, neither desire to be with them.",
       "tokens": [
         {
-          "t": "Be not thou envious against evil men, neither desire to be with them."
+          "t": "Be not thou envious against evil men, neither desire to be with them. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "For their heart studieth destruction, and their lips talk of mischief.",
       "tokens": [
         {
-          "t": "For their heart studieth destruction, and their lips talk of mischief."
+          "t": "For their heart studieth destruction, and their lips talk of mischief. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Through wisdom is an house builded; and by understanding it is established:",
       "tokens": [
         {
-          "t": "Through wisdom is an house builded; and by understanding it is established:"
+          "t": "Through wisdom is an house builded; and by understanding it is established: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And by knowledge shall the chambers be filled with all precious and pleasant riches.",
       "tokens": [
         {
-          "t": "And by knowledge shall the chambers be filled with all precious and pleasant riches."
+          "t": "And by knowledge shall the chambers be filled with all precious and pleasant riches. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "A wise man is strong; yea, a man of knowledge increaseth strength.",
       "tokens": [
         {
-          "t": "A wise man"
+          "t": "A wise man "
         },
         {
           "add": "is"
         },
         {
-          "t": "strong; yea, a man of knowledge increaseth strength."
+          "t": " strong; yea, a man of knowledge increaseth strength. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.",
       "tokens": [
         {
-          "t": "For by wise counsel thou shalt make thy war: and in multitude of counsellors"
+          "t": "For by wise counsel thou shalt make thy war: and in multitude of counsellors "
         },
         {
           "add": "there is"
         },
         {
-          "t": "safety."
+          "t": " safety. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Wisdom is too high for a fool: he openeth not his mouth in the gate.",
       "tokens": [
         {
-          "t": "Wisdom"
+          "t": "Wisdom "
         },
         {
           "add": "is"
         },
         {
-          "t": "too high for a fool: he openeth not his mouth in the gate."
+          "t": " too high for a fool: he openeth not his mouth in the gate. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "He that deviseth to do evil shall be called a mischievous person.",
       "tokens": [
         {
-          "t": "He that deviseth to do evil shall be called a mischievous person."
+          "t": "He that deviseth to do evil shall be called a mischievous person. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The thought of foolishness is sin: and the scorner is an abomination to men.",
       "tokens": [
         {
-          "t": "The thought of foolishness"
+          "t": "The thought of foolishness "
         },
         {
           "add": "is"
         },
         {
-          "t": "sin: and the scorner"
+          "t": " sin: and the scorner "
         },
         {
           "add": "is"
         },
         {
-          "t": "an abomination to men."
+          "t": " an abomination to men. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "If thou faint in the day of adversity, thy strength is small.",
       "tokens": [
         {
           "add": "If"
         },
         {
-          "t": "thou faint in the day of adversity, thy strength"
+          "t": " thou faint in the day of adversity, thy strength "
         },
         {
           "add": "is"
         },
         {
-          "t": "small."
+          "t": " small. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "If thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;",
       "tokens": [
         {
-          "t": "If thou forbear to deliver"
+          "t": "If thou forbear to deliver "
         },
         {
           "add": "them that are"
         },
         {
-          "t": "drawn unto death, and"
+          "t": " drawn unto death, and "
         },
         {
           "add": "those that are"
         },
         {
-          "t": "ready to be slain;"
+          "t": " ready to be slain; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?",
       "tokens": [
         {
-          "t": "If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider"
+          "t": "If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider "
         },
         {
           "add": "it"
         },
         {
-          "t": "? and he that keepeth thy soul, doth"
+          "t": "? and he that keepeth thy soul, doth "
         },
         {
           "add": "not"
         },
         {
-          "t": "he know"
+          "t": " he know "
         },
         {
           "add": "it"
         },
         {
-          "t": "? and shall"
+          "t": "? and shall "
         },
         {
           "add": "not"
         },
         {
-          "t": "he render to"
+          "t": " he render to "
         },
         {
           "add": "every"
         },
         {
-          "t": "man according to his works?"
+          "t": " man according to his works? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:",
       "tokens": [
         {
-          "t": "My son, eat thou honey, because"
+          "t": "My son, eat thou honey, because "
         },
         {
           "add": "it is"
         },
         {
-          "t": "good; and the honeycomb,"
+          "t": " good; and the honeycomb, "
         },
         {
           "add": "which is"
         },
         {
-          "t": "sweet to thy taste:"
+          "t": " sweet to thy taste: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.",
       "tokens": [
         {
-          "t": "So"
+          "t": "So "
         },
         {
           "add": "shall"
         },
         {
-          "t": "the knowledge of wisdom"
+          "t": " the knowledge of wisdom "
         },
         {
           "add": "be"
         },
         {
-          "t": "unto thy soul: when thou hast found"
+          "t": " unto thy soul: when thou hast found "
         },
         {
           "add": "it"
         },
         {
-          "t": ", then there shall be a reward, and thy expectation shall not be cut off."
+          "t": ", then there shall be a reward, and thy expectation shall not be cut off. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:",
       "tokens": [
         {
-          "t": "Lay not wait, O wicked"
+          "t": "Lay not wait, O wicked "
         },
         {
           "add": "man"
         },
         {
-          "t": ", against the dwelling of the righteous; spoil not his resting place:"
+          "t": ", against the dwelling of the righteous; spoil not his resting place: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.",
       "tokens": [
         {
-          "t": "For a just"
+          "t": "For a just "
         },
         {
           "add": "man"
         },
         {
-          "t": "falleth seven times, and riseth up again: but the wicked shall fall into mischief."
+          "t": " falleth seven times, and riseth up again: but the wicked shall fall into mischief. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:",
       "tokens": [
         {
-          "t": "Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:"
+          "t": "Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Lest the LORD see it, and it displease him, and he turn away his wrath from him.",
       "tokens": [
         {
-          "t": "Lest the"
+          "t": "Lest the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "see"
+          "t": " see "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and it displease him, and he turn away his wrath from him."
+          "t": ", and it displease him, and he turn away his wrath from him. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Fret not thyself because of evil men, neither be thou envious at the wicked;",
       "tokens": [
         {
-          "t": "Fret not thyself because of evil"
+          "t": "Fret not thyself because of evil "
         },
         {
           "add": "men"
         },
         {
-          "t": ", neither be thou envious at the wicked;"
+          "t": ", neither be thou envious at the wicked; "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "For there shall be no reward to the evil man; the candle of the wicked shall be put out.",
       "tokens": [
         {
-          "t": "For there shall be no reward to the evil"
+          "t": "For there shall be no reward to the evil "
         },
         {
           "add": "man;"
         },
         {
-          "t": "the candle of the wicked shall be put out."
+          "t": " the candle of the wicked shall be put out. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "My son, fear thou the LORD and the king: and meddle not with them that are given to change:",
       "tokens": [
         {
-          "t": "My son, fear thou the"
+          "t": "My son, fear thou the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "and the king:"
+          "t": " and the king: "
         },
         {
           "add": "and"
         },
         {
-          "t": "meddle not with them that are given to change:"
+          "t": " meddle not with them that are given to change: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "For their calamity shall rise suddenly; and who knoweth the ruin of them both?",
       "tokens": [
         {
-          "t": "For their calamity shall rise suddenly; and who knoweth the ruin of them both?"
+          "t": "For their calamity shall rise suddenly; and who knoweth the ruin of them both? "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "These things also belong to the wise. It is not good to have respect of persons in judgment.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "things"
         },
         {
-          "t": "also"
+          "t": " also "
         },
         {
           "add": "belong"
         },
         {
-          "t": "to the wise."
+          "t": " to the wise. "
         },
         {
           "add": "It is"
         },
         {
-          "t": "not good to have respect of persons in judgment."
+          "t": " not good to have respect of persons in judgment. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "He that saith unto the wicked, Thou art righteous; him shall the people curse, nations shall abhor him:",
       "tokens": [
         {
-          "t": "He that saith unto the wicked, Thou"
+          "t": "He that saith unto the wicked, Thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "righteous; him shall the people curse, nations shall abhor him:"
+          "t": " righteous; him shall the people curse, nations shall abhor him: "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But to them that rebuke him shall be delight, and a good blessing shall come upon them.",
       "tokens": [
         {
-          "t": "But to them that rebuke"
+          "t": "But to them that rebuke "
         },
         {
           "add": "him"
         },
         {
-          "t": "shall be delight, and a good blessing shall come upon them."
+          "t": " shall be delight, and a good blessing shall come upon them. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Every man shall kiss his lips that giveth a right answer.",
       "tokens": [
         {
           "add": "Every man"
         },
         {
-          "t": "shall kiss"
+          "t": " shall kiss "
         },
         {
           "add": "his"
         },
         {
-          "t": "lips that giveth a right answer."
+          "t": " lips that giveth a right answer. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.",
       "tokens": [
         {
-          "t": "Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house."
+          "t": "Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Be not a witness against thy neighbour without cause; and deceive not with thy lips.",
       "tokens": [
         {
-          "t": "Be not a witness against thy neighbour without cause; and deceive"
+          "t": "Be not a witness against thy neighbour without cause; and deceive "
         },
         {
           "add": "not"
         },
         {
-          "t": "with thy lips."
+          "t": " with thy lips. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work.",
       "tokens": [
         {
-          "t": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work."
+          "t": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "I went by the field of the slothful, and by the vineyard of the man void of understanding;",
       "tokens": [
         {
-          "t": "I went by the field of the slothful, and by the vineyard of the man void of understanding;"
+          "t": "I went by the field of the slothful, and by the vineyard of the man void of understanding; "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down.",
       "tokens": [
         {
-          "t": "And, lo, it was all grown over with thorns,"
+          "t": "And, lo, it was all grown over with thorns, "
         },
         {
           "add": "and"
         },
         {
-          "t": "nettles had covered the face thereof, and the stone wall thereof was broken down."
+          "t": " nettles had covered the face thereof, and the stone wall thereof was broken down. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Then I saw, and considered it well: I looked upon it, and received instruction.",
       "tokens": [
         {
-          "t": "Then I saw,"
+          "t": "Then I saw, "
         },
         {
           "add": "and"
         },
         {
-          "t": "considered"
+          "t": " considered "
         },
         {
           "add": "it"
         },
         {
-          "t": "well: I looked upon"
+          "t": " well: I looked upon "
         },
         {
           "add": "it, and"
         },
         {
-          "t": "received instruction."
+          "t": " received instruction. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:",
       "tokens": [
         {
           "add": "Yet"
         },
         {
-          "t": "a little sleep, a little slumber, a little folding of the hands to sleep:"
+          "t": " a little sleep, a little slumber, a little folding of the hands to sleep: "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "So shall thy poverty come as one that travelleth; and thy want as an armed man.",
       "tokens": [
         {
-          "t": "So shall thy poverty come"
+          "t": "So shall thy poverty come "
         },
         {
           "add": "as"
         },
         {
-          "t": "one that travelleth; and thy want as an armed man."
+          "t": " one that travelleth; and thy want as an armed man. "
         }
       ]
     }

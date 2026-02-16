@@ -1,0 +1,266 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 96,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O sing unto the LORD a new song: sing unto the LORD, all the earth.",
+      "tokens": [
+        {
+          "t": "O sing unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " a new song: sing unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", all the earth. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Sing unto the LORD, bless his name; shew forth his salvation from day to day.",
+      "tokens": [
+        {
+          "t": "Sing unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", bless his name; shew forth his salvation from day to day. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Declare his glory among the heathen, his wonders among all people.",
+      "tokens": [
+        {
+          "t": "Declare his glory among the heathen, his wonders among all people. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For the LORD is great, and greatly to be praised: he is to be feared above all gods.",
+      "tokens": [
+        {
+          "t": "For the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " great, and greatly to be praised: he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " to be feared above all gods. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "For all the gods of the nations are idols: but the LORD made the heavens.",
+      "tokens": [
+        {
+          "t": "For all the gods of the nations "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " idols: but the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " made the heavens. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Honour and majesty are before him: strength and beauty are in his sanctuary.",
+      "tokens": [
+        {
+          "t": "Honour and majesty "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " before him: strength and beauty "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " in his sanctuary. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength.",
+      "tokens": [
+        {
+          "t": "Give unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", O ye kindreds of the people, give unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " glory and strength. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Give unto the LORD the glory due unto his name: bring an offering, and come into his courts.",
+      "tokens": [
+        {
+          "t": "Give unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " the glory "
+        },
+        {
+          "add": "due unto"
+        },
+        {
+          "t": " his name: bring an offering, and come into his courts. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "O worship the LORD in the beauty of holiness: fear before him, all the earth.",
+      "tokens": [
+        {
+          "t": "O worship the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " in the beauty of holiness: fear before him, all the earth. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.",
+      "tokens": [
+        {
+          "t": "Say among the heathen "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.",
+      "tokens": [
+        {
+          "t": "Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice",
+      "tokens": [
+        {
+          "t": "Let the field be joyful, and all that "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " therein: then shall all the trees of the wood rejoice "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.",
+      "tokens": [
+        {
+          "t": "Before the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 8
+      },
+      "text": "due…: Heb. of his name"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 9
+      },
+      "text": "in the…: or, in the glorious sanctuary"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 11
+      },
+      "text": "the fulness…: or, all it containeth"
+    }
+  ]
+}

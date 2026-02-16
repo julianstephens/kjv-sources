@@ -7,298 +7,325 @@
   "verses": [
     {
       "v": 1,
+      "plain": "My son, keep my words, and lay up my commandments with thee.",
       "tokens": [
         {
-          "t": "My son, keep my words, and lay up my commandments with thee."
+          "t": "My son, keep my words, and lay up my commandments with thee. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Keep my commandments, and live; and my law as the apple of thine eye.",
       "tokens": [
         {
-          "t": "Keep my commandments, and live; and my law as the apple of thine eye."
+          "t": "Keep my commandments, and live; and my law as the apple of thine eye. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Bind them upon thy fingers, write them upon the table of thine heart.",
       "tokens": [
         {
-          "t": "Bind them upon thy fingers, write them upon the table of thine heart."
+          "t": "Bind them upon thy fingers, write them upon the table of thine heart. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:",
       "tokens": [
         {
-          "t": "Say unto wisdom, Thou"
+          "t": "Say unto wisdom, Thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "my sister; and call understanding"
+          "t": " my sister; and call understanding "
         },
         {
           "add": "thy"
         },
         {
-          "t": "kinswoman:"
+          "t": " kinswoman: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "That they may keep thee from the strange woman, from the stranger which flattereth with her words.",
       "tokens": [
         {
-          "t": "That they may keep thee from the strange woman, from the stranger"
+          "t": "That they may keep thee from the strange woman, from the stranger "
         },
         {
           "add": "which"
         },
         {
-          "t": "flattereth with her words."
+          "t": " flattereth with her words. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ For at the window of my house I looked through my casement,",
       "tokens": [
         {
-          "t": "¶ For at the window of my house I looked through my casement,"
+          "t": "¶ For at the window of my house I looked through my casement, "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And beheld among the simple ones, I discerned among the youths, a young man void of understanding,",
       "tokens": [
         {
-          "t": "And beheld among the simple ones, I discerned among the youths, a young man void of understanding,"
+          "t": "And beheld among the simple ones, I discerned among the youths, a young man void of understanding, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Passing through the street near her corner; and he went the way to her house,",
       "tokens": [
         {
-          "t": "Passing through the street near her corner; and he went the way to her house,"
+          "t": "Passing through the street near her corner; and he went the way to her house, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "In the twilight, in the evening, in the black and dark night:",
       "tokens": [
         {
-          "t": "In the twilight, in the evening, in the black and dark night:"
+          "t": "In the twilight, in the evening, in the black and dark night: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And, behold, there met him a woman with the attire of an harlot, and subtil of heart.",
       "tokens": [
         {
-          "t": "And, behold, there met him a woman"
+          "t": "And, behold, there met him a woman "
         },
         {
           "add": "with"
         },
         {
-          "t": "the attire of an harlot, and subtil of heart."
+          "t": " the attire of an harlot, and subtil of heart. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "(She is loud and stubborn; her feet abide not in her house:",
       "tokens": [
         {
-          "t": "(She"
+          "t": "(She "
         },
         {
           "add": "is"
         },
         {
-          "t": "loud and stubborn; her feet abide not in her house:"
+          "t": " loud and stubborn; her feet abide not in her house: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Now is she without, now in the streets, and lieth in wait at every corner.)",
       "tokens": [
         {
-          "t": "Now"
+          "t": "Now "
         },
         {
           "add": "is she"
         },
         {
-          "t": "without, now in the streets, and lieth in wait at every corner.)"
+          "t": " without, now in the streets, and lieth in wait at every corner.) "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "So she caught him, and kissed him, and with an impudent face said unto him,",
       "tokens": [
         {
-          "t": "So she caught him, and kissed him,"
+          "t": "So she caught him, and kissed him, "
         },
         {
           "add": "and"
         },
         {
-          "t": "with an impudent face said unto him,"
+          "t": " with an impudent face said unto him, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I have peace offerings with me; this day have I payed my vows.",
       "tokens": [
         {
           "add": "I have"
         },
         {
-          "t": "peace offerings with me; this day have I payed my vows."
+          "t": " peace offerings with me; this day have I payed my vows. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.",
       "tokens": [
         {
-          "t": "Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee."
+          "t": "Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.",
       "tokens": [
         {
-          "t": "I have decked my bed with coverings of tapestry, with carved"
+          "t": "I have decked my bed with coverings of tapestry, with carved "
         },
         {
           "add": "works"
         },
         {
-          "t": ", with fine linen of Egypt."
+          "t": ", with fine linen of Egypt. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "I have perfumed my bed with myrrh, aloes, and cinnamon.",
       "tokens": [
         {
-          "t": "I have perfumed my bed with myrrh, aloes, and cinnamon."
+          "t": "I have perfumed my bed with myrrh, aloes, and cinnamon. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Come, let us take our fill of love until the morning: let us solace ourselves with loves.",
       "tokens": [
         {
-          "t": "Come, let us take our fill of love until the morning: let us solace ourselves with loves."
+          "t": "Come, let us take our fill of love until the morning: let us solace ourselves with loves. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "For the goodman is not at home, he is gone a long journey:",
       "tokens": [
         {
-          "t": "For the goodman"
+          "t": "For the goodman "
         },
         {
           "add": "is"
         },
         {
-          "t": "not at home, he is gone a long journey:"
+          "t": " not at home, he is gone a long journey: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "He hath taken a bag of money with him, and will come home at the day appointed.",
       "tokens": [
         {
-          "t": "He hath taken a bag of money with him,"
+          "t": "He hath taken a bag of money with him, "
         },
         {
           "add": "and"
         },
         {
-          "t": "will come home at the day appointed."
+          "t": " will come home at the day appointed. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "With her much fair speech she caused him to yield, with the flattering of her lips she forced him.",
       "tokens": [
         {
-          "t": "With her much fair speech she caused him to yield, with the flattering of her lips she forced him."
+          "t": "With her much fair speech she caused him to yield, with the flattering of her lips she forced him. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;",
       "tokens": [
         {
-          "t": "He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;"
+          "t": "He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks; "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.",
       "tokens": [
         {
-          "t": "Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it"
+          "t": "Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it "
         },
         {
           "add": "is"
         },
         {
-          "t": "for his life."
+          "t": " for his life. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ Hearken unto me now therefore, O ye children, and attend to the words of my mouth.",
       "tokens": [
         {
-          "t": "¶ Hearken unto me now therefore, O ye children, and attend to the words of my mouth."
+          "t": "¶ Hearken unto me now therefore, O ye children, and attend to the words of my mouth. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Let not thine heart decline to her ways, go not astray in her paths.",
       "tokens": [
         {
-          "t": "Let not thine heart decline to her ways, go not astray in her paths."
+          "t": "Let not thine heart decline to her ways, go not astray in her paths. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "For she hath cast down many wounded: yea, many strong men have been slain by her.",
       "tokens": [
         {
-          "t": "For she hath cast down many wounded: yea, many strong"
+          "t": "For she hath cast down many wounded: yea, many strong "
         },
         {
           "add": "men"
         },
         {
-          "t": "have been slain by her."
+          "t": " have been slain by her. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Her house is the way to hell, going down to the chambers of death.",
       "tokens": [
         {
-          "t": "Her house"
+          "t": "Her house "
         },
         {
           "add": "is"
         },
         {
-          "t": "the way to hell, going down to the chambers of death."
+          "t": " the way to hell, going down to the chambers of death. "
         }
       ]
     }

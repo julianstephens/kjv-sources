@@ -7,270 +7,292 @@
   "verses": [
     {
       "v": 1,
+      "plain": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.",
       "tokens": [
         {
-          "t": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul."
+          "t": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
       "tokens": [
         {
-          "t": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me."
+          "t": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?",
       "tokens": [
         {
           "add": "Is it"
         },
         {
-          "t": "good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?"
+          "t": " good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Hast thou eyes of flesh? or seest thou as man seeth?",
       "tokens": [
         {
-          "t": "Hast thou eyes of flesh? or seest thou as man seeth?"
+          "t": "Hast thou eyes of flesh? or seest thou as man seeth? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Are thy days as the days of man? are thy years as man’s days,",
       "tokens": [
         {
           "add": "Are"
         },
         {
-          "t": "thy days as the days of man?"
+          "t": " thy days as the days of man? "
         },
         {
           "add": "are"
         },
         {
-          "t": "thy years as man’s days,"
+          "t": " thy years as man’s days, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "That thou enquirest after mine iniquity, and searchest after my sin?",
       "tokens": [
         {
-          "t": "That thou enquirest after mine iniquity, and searchest after my sin?"
+          "t": "That thou enquirest after mine iniquity, and searchest after my sin? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.",
       "tokens": [
         {
-          "t": "Thou knowest that I am not wicked; and"
+          "t": "Thou knowest that I am not wicked; and "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none that can deliver out of thine hand."
+          "t": " none that can deliver out of thine hand. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me.",
       "tokens": [
         {
-          "t": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me."
+          "t": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?",
       "tokens": [
         {
-          "t": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?"
+          "t": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Hast thou not poured me out as milk, and curdled me like cheese?",
       "tokens": [
         {
-          "t": "Hast thou not poured me out as milk, and curdled me like cheese?"
+          "t": "Hast thou not poured me out as milk, and curdled me like cheese? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.",
       "tokens": [
         {
-          "t": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews."
+          "t": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Thou hast granted me life and favour, and thy visitation hath preserved my spirit.",
       "tokens": [
         {
-          "t": "Thou hast granted me life and favour, and thy visitation hath preserved my spirit."
+          "t": "Thou hast granted me life and favour, and thy visitation hath preserved my spirit. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And these things hast thou hid in thine heart: I know that this is with thee.",
       "tokens": [
         {
-          "t": "And these"
+          "t": "And these "
         },
         {
           "add": "things"
         },
         {
-          "t": "hast thou hid in thine heart: I know that this"
+          "t": " hast thou hid in thine heart: I know that this "
         },
         {
           "add": "is"
         },
         {
-          "t": "with thee."
+          "t": " with thee. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.",
       "tokens": [
         {
-          "t": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity."
+          "t": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "If I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see thou mine affliction;",
       "tokens": [
         {
-          "t": "If I be wicked, woe unto me; and"
+          "t": "If I be wicked, woe unto me; and "
         },
         {
           "add": "if"
         },
         {
-          "t": "I be righteous,"
+          "t": " I be righteous, "
         },
         {
           "add": "yet"
         },
         {
-          "t": "will I not lift up my head."
+          "t": " will I not lift up my head. "
         },
         {
           "add": "I am"
         },
         {
-          "t": "full of confusion; therefore see thou mine affliction;"
+          "t": " full of confusion; therefore see thou mine affliction; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.",
       "tokens": [
         {
-          "t": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me."
+          "t": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.",
       "tokens": [
         {
-          "t": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war"
+          "t": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war "
         },
         {
           "add": "are"
         },
         {
-          "t": "against me."
+          "t": " against me. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!",
       "tokens": [
         {
-          "t": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!"
+          "t": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me! "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "I should have been as though I had not been; I should have been carried from the womb to the grave.",
       "tokens": [
         {
-          "t": "I should have been as though I had not been; I should have been carried from the womb to the grave."
+          "t": "I should have been as though I had not been; I should have been carried from the womb to the grave. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Are not my days few? cease then, and let me alone, that I may take comfort a little,",
       "tokens": [
         {
           "add": "Are"
         },
         {
-          "t": "not my days few? cease"
+          "t": " not my days few? cease "
         },
         {
           "add": "then, and"
         },
         {
-          "t": "let me alone, that I may take comfort a little,"
+          "t": " let me alone, that I may take comfort a little, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Before I go whence I shall not return, even to the land of darkness and the shadow of death;",
       "tokens": [
         {
-          "t": "Before I go"
+          "t": "Before I go "
         },
         {
           "add": "whence"
         },
         {
-          "t": "I shall not return,"
+          "t": " I shall not return, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to the land of darkness and the shadow of death;"
+          "t": " to the land of darkness and the shadow of death; "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "A land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness.",
       "tokens": [
         {
-          "t": "A land of darkness, as darkness"
+          "t": "A land of darkness, as darkness "
         },
         {
           "add": "itself; and"
         },
         {
-          "t": "of the shadow of death, without any order, and"
+          "t": " of the shadow of death, without any order, and "
         },
         {
           "add": "where"
         },
         {
-          "t": "the light"
+          "t": " the light "
         },
         {
           "add": "is"
         },
         {
-          "t": "as darkness."
+          "t": " as darkness. "
         }
       ]
     }

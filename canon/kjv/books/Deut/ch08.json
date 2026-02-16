@@ -7,320 +7,343 @@
   "verses": [
     {
       "v": 1,
+      "plain": "All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers.",
       "tokens": [
         {
-          "t": "All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the"
+          "t": "All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sware unto your fathers."
+          "t": " sware unto your fathers. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no.",
       "tokens": [
         {
-          "t": "And thou shalt remember all the way which the"
+          "t": "And thou shalt remember all the way which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God led thee these forty years in the wilderness, to humble thee,"
+          "t": " thy God led thee these forty years in the wilderness, to humble thee, "
         },
         {
           "add": "and"
         },
         {
-          "t": "to prove thee, to know what"
+          "t": " to prove thee, to know what "
         },
         {
           "add": "was"
         },
         {
-          "t": "in thine heart, whether thou wouldest keep his commandments, or no."
+          "t": " in thine heart, whether thou wouldest keep his commandments, or no. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live.",
       "tokens": [
         {
-          "t": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every"
+          "t": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every "
         },
         {
           "add": "word"
         },
         {
-          "t": "that proceedeth out of the mouth of the"
+          "t": " that proceedeth out of the mouth of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "doth man live."
+          "t": " doth man live. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years.",
       "tokens": [
         {
-          "t": "Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years."
+          "t": "Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Thou shalt also consider in thine heart, that, as a man chasteneth his son, so the LORD thy God chasteneth thee.",
       "tokens": [
         {
-          "t": "Thou shalt also consider in thine heart, that, as a man chasteneth his son,"
+          "t": "Thou shalt also consider in thine heart, that, as a man chasteneth his son, "
         },
         {
           "add": "so"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God chasteneth thee."
+          "t": " thy God chasteneth thee. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Therefore thou shalt keep the commandments of the LORD thy God, to walk in his ways, and to fear him.",
       "tokens": [
         {
-          "t": "Therefore thou shalt keep the commandments of the"
+          "t": "Therefore thou shalt keep the commandments of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, to walk in his ways, and to fear him."
+          "t": " thy God, to walk in his ways, and to fear him. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "For the LORD thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills;",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills;"
+          "t": " thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey;",
       "tokens": [
         {
-          "t": "A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey;"
+          "t": "A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "A land wherein thou shalt eat bread without scarceness, thou shalt not lack any thing in it; a land whose stones are iron, and out of whose hills thou mayest dig brass.",
       "tokens": [
         {
-          "t": "A land wherein thou shalt eat bread without scarceness, thou shalt not lack any"
+          "t": "A land wherein thou shalt eat bread without scarceness, thou shalt not lack any "
         },
         {
           "add": "thing"
         },
         {
-          "t": "in it; a land whose stones"
+          "t": " in it; a land whose stones "
         },
         {
           "add": "are"
         },
         {
-          "t": "iron, and out of whose hills thou mayest dig brass."
+          "t": " iron, and out of whose hills thou mayest dig brass. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "When thou hast eaten and art full, then thou shalt bless the LORD thy God for the good land which he hath given thee.",
       "tokens": [
         {
-          "t": "When thou hast eaten and art full, then thou shalt bless the"
+          "t": "When thou hast eaten and art full, then thou shalt bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God for the good land which he hath given thee."
+          "t": " thy God for the good land which he hath given thee. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Beware that thou forget not the LORD thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:",
       "tokens": [
         {
-          "t": "Beware that thou forget not the"
+          "t": "Beware that thou forget not the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:"
+          "t": " thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Lest when thou hast eaten and art full, and hast built goodly houses, and dwelt therein;",
       "tokens": [
         {
-          "t": "Lest"
+          "t": "Lest "
         },
         {
           "add": "when"
         },
         {
-          "t": "thou hast eaten and art full, and hast built goodly houses, and dwelt"
+          "t": " thou hast eaten and art full, and hast built goodly houses, and dwelt "
         },
         {
           "add": "therein;"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "when"
         },
         {
-          "t": "thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;"
+          "t": " thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied; "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then thine heart be lifted up, and thou forget the LORD thy God, which brought thee forth out of the land of Egypt, from the house of bondage;",
       "tokens": [
         {
-          "t": "Then thine heart be lifted up, and thou forget the"
+          "t": "Then thine heart be lifted up, and thou forget the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, which brought thee forth out of the land of Egypt, from the house of bondage;"
+          "t": " thy God, which brought thee forth out of the land of Egypt, from the house of bondage; "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Who led thee through that great and terrible wilderness, wherein were fiery serpents, and scorpions, and drought, where there was no water; who brought thee forth water out of the rock of flint;",
       "tokens": [
         {
-          "t": "Who led thee through that great and terrible wilderness,"
+          "t": "Who led thee through that great and terrible wilderness, "
         },
         {
           "add": "wherein were"
         },
         {
-          "t": "fiery serpents, and scorpions, and drought, where"
+          "t": " fiery serpents, and scorpions, and drought, where "
         },
         {
           "add": "there was"
         },
         {
-          "t": "no water; who brought thee forth water out of the rock of flint;"
+          "t": " no water; who brought thee forth water out of the rock of flint; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end;",
       "tokens": [
         {
-          "t": "Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end;"
+          "t": "Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And thou say in thine heart, My power and the might of mine hand hath gotten me this wealth.",
       "tokens": [
         {
-          "t": "And thou say in thine heart, My power and the might of"
+          "t": "And thou say in thine heart, My power and the might of "
         },
         {
           "add": "mine"
         },
         {
-          "t": "hand hath gotten me this wealth."
+          "t": " hand hath gotten me this wealth. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day.",
       "tokens": [
         {
-          "t": "But thou shalt remember the"
+          "t": "But thou shalt remember the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God: for"
+          "t": " thy God: for "
         },
         {
           "add": "it is"
         },
         {
-          "t": "he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as"
+          "t": " he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as "
         },
         {
           "add": "it is"
         },
         {
-          "t": "this day."
+          "t": " this day. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And it shall be, if thou do at all forget the LORD thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish.",
       "tokens": [
         {
-          "t": "And it shall be, if thou do at all forget the"
+          "t": "And it shall be, if thou do at all forget the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish."
+          "t": " thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "As the nations which the LORD destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the LORD your God.",
       "tokens": [
         {
-          "t": "As the nations which the"
+          "t": "As the nations which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the"
+          "t": " destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God."
+          "t": " your God. "
         }
       ]
     }

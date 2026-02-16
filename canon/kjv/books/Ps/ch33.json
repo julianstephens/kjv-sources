@@ -1,0 +1,389 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 33,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Rejoice in the LORD, O ye righteous: for praise is comely for the upright.",
+      "tokens": [
+        {
+          "t": "Rejoice in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", O ye righteous: "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " praise is comely for the upright. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Praise the LORD with harp: sing unto him with the psaltery and an instrument of ten strings.",
+      "tokens": [
+        {
+          "t": "Praise the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " with harp: sing unto him with the psaltery "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " an instrument of ten strings. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Sing unto him a new song; play skilfully with a loud noise.",
+      "tokens": [
+        {
+          "t": "Sing unto him a new song; play skilfully with a loud noise. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For the word of the LORD is right; and all his works are done in truth.",
+      "tokens": [
+        {
+          "t": "For the word of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " right; and all his works "
+        },
+        {
+          "add": "are done"
+        },
+        {
+          "t": " in truth. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "He loveth righteousness and judgment: the earth is full of the goodness of the LORD.",
+      "tokens": [
+        {
+          "t": "He loveth righteousness and judgment: the earth is full of the goodness of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth.",
+      "tokens": [
+        {
+          "t": "By the word of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " were the heavens made; and all the host of them by the breath of his mouth. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses.",
+      "tokens": [
+        {
+          "t": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him.",
+      "tokens": [
+        {
+          "t": "Let all the earth fear the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": let all the inhabitants of the world stand in awe of him. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "For he spake, and it was done; he commanded, and it stood fast.",
+      "tokens": [
+        {
+          "t": "For he spake, and it was "
+        },
+        {
+          "add": "done;"
+        },
+        {
+          "t": " he commanded, and it stood fast. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations.",
+      "tokens": [
+        {
+          "t": "The counsel of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " standeth for ever, the thoughts of his heart to all generations. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the nation whose God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " the people "
+        },
+        {
+          "add": "whom"
+        },
+        {
+          "t": " he hath chosen for his own inheritance. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "The LORD looketh from heaven; he beholdeth all the sons of men.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " looketh from heaven; he beholdeth all the sons of men. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "From the place of his habitation he looketh upon all the inhabitants of the earth.",
+      "tokens": [
+        {
+          "t": "From the place of his habitation he looketh upon all the inhabitants of the earth. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "He fashioneth their hearts alike; he considereth all their works.",
+      "tokens": [
+        {
+          "t": "He fashioneth their hearts alike; he considereth all their works. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength.",
+      "tokens": [
+        {
+          "t": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "An horse is a vain thing for safety: neither shall he deliver any by his great strength.",
+      "tokens": [
+        {
+          "t": "An horse "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " a vain thing for safety: neither shall he deliver "
+        },
+        {
+          "add": "any"
+        },
+        {
+          "t": " by his great strength. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;",
+      "tokens": [
+        {
+          "t": "Behold, the eye of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " upon them that fear him, upon them that hope in his mercy; "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "To deliver their soul from death, and to keep them alive in famine.",
+      "tokens": [
+        {
+          "t": "To deliver their soul from death, and to keep them alive in famine. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "Our soul waiteth for the LORD: he is our help and our shield.",
+      "tokens": [
+        {
+          "t": "Our soul waiteth for the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " our help and our shield. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "For our heart shall rejoice in him, because we have trusted in his holy name.",
+      "tokens": [
+        {
+          "t": "For our heart shall rejoice in him, because we have trusted in his holy name. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "Let thy mercy, O LORD, be upon us, according as we hope in thee.",
+      "tokens": [
+        {
+          "t": "Let thy mercy, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", be upon us, according as we hope in thee. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "goodness: or, mercy"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 10
+      },
+      "text": "bringeth: Heb. maketh frustrate"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 11
+      },
+      "text": "to all…: Heb. to generation and generation"
+    }
+  ]
+}

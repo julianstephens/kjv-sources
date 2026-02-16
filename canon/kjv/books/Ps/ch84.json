@@ -1,0 +1,276 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 84,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "How amiable are thy tabernacles, O LORD of hosts!",
+      "tokens": [
+        {
+          "t": "How amiable "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " thy tabernacles, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " of hosts! "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.",
+      "tokens": [
+        {
+          "t": "My soul longeth, yea, even fainteth for the courts of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": my heart and my flesh crieth out for the living God. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts, my King, and my God.",
+      "tokens": [
+        {
+          "t": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " thine altars, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " of hosts, my King, and my God. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Blessed are they that dwell in thy house: they will be still praising thee. Selah.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " they that dwell in thy house: they will be still praising thee. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Blessed is the man whose strength is in thee; in whose heart are the ways of them.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the man whose strength "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in thee; in whose heart "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the ways "
+        },
+        {
+          "add": "of them"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Who passing through the valley of Baca make it a well; the rain also filleth the pools.",
+      "tokens": [
+        {
+          "add": "Who"
+        },
+        {
+          "t": " passing through the valley of Baca make it a well; the rain also filleth the pools. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "They go from strength to strength, every one of them in Zion appeareth before God.",
+      "tokens": [
+        {
+          "t": "They go from strength to strength, "
+        },
+        {
+          "add": "every one of them"
+        },
+        {
+          "t": " in Zion appeareth before God. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God of hosts, hear my prayer: give ear, O God of Jacob. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Behold, O God our shield, and look upon the face of thine anointed.",
+      "tokens": [
+        {
+          "t": "Behold, O God our shield, and look upon the face of thine anointed. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "For a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.",
+      "tokens": [
+        {
+          "t": "For a day in thy courts "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly.",
+      "tokens": [
+        {
+          "t": "For the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " a sun and shield: the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will give grace and glory: no good "
+        },
+        {
+          "add": "thing"
+        },
+        {
+          "t": " will he withhold from them that walk uprightly. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "O LORD of hosts, blessed is the man that trusteth in thee.",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " of hosts, blessed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the man that trusteth in thee. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "for the sons: or, of the sons"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "Baca…: or, mulberry trees make him a well, etc"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "filleth: Heb. covereth"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "strength to…: or, company to company"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 10
+      },
+      "text": "I had…: Heb. I would choose rather to sit at the threshold"
+    }
+  ]
+}

@@ -7,373 +7,400 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;",
       "tokens": [
         {
-          "t": "In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;"
+          "t": "In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.",
       "tokens": [
         {
-          "t": "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the"
+          "t": "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem."
+          "t": " came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:",
       "tokens": [
         {
-          "t": "¶ And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:"
+          "t": "¶ And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;",
       "tokens": [
         {
-          "t": "And I prayed unto the"
+          "t": "And I prayed unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;"
+          "t": " my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:",
       "tokens": [
         {
-          "t": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:"
+          "t": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land.",
       "tokens": [
         {
-          "t": "Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land."
+          "t": "Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "O Lord, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee.",
       "tokens": [
         {
-          "t": "O Lord, righteousness"
+          "t": "O Lord, righteousness "
         },
         {
           "add": "belongeth"
         },
         {
-          "t": "unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel,"
+          "t": " unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, "
         },
         {
           "add": "that are"
         },
         {
-          "t": "near, and"
+          "t": " near, and "
         },
         {
           "add": "that are"
         },
         {
-          "t": "far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee."
+          "t": " far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee.",
       "tokens": [
         {
-          "t": "O Lord, to us"
+          "t": "O Lord, to us "
         },
         {
           "add": "belongeth"
         },
         {
-          "t": "confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee."
+          "t": " confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;",
       "tokens": [
         {
-          "t": "To the Lord our God"
+          "t": "To the Lord our God "
         },
         {
           "add": "belong"
         },
         {
-          "t": "mercies and forgivenesses, though we have rebelled against him;"
+          "t": " mercies and forgivenesses, though we have rebelled against him; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets.",
       "tokens": [
         {
-          "t": "Neither have we obeyed the voice of the"
+          "t": "Neither have we obeyed the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God, to walk in his laws, which he set before us by his servants the prophets."
+          "t": " our God, to walk in his laws, which he set before us by his servants the prophets. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.",
       "tokens": [
         {
-          "t": "Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that"
+          "t": "Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that "
         },
         {
           "add": "is"
         },
         {
-          "t": "written in the law of Moses the servant of God, because we have sinned against him."
+          "t": " written in the law of Moses the servant of God, because we have sinned against him. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.",
       "tokens": [
         {
-          "t": "And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem."
+          "t": "And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth.",
       "tokens": [
         {
-          "t": "As"
+          "t": "As "
         },
         {
           "add": "it is"
         },
         {
-          "t": "written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the"
+          "t": " written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God, that we might turn from our iniquities, and understand thy truth."
+          "t": " our God, that we might turn from our iniquities, and understand thy truth. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all his works which he doeth: for we obeyed not his voice.",
       "tokens": [
         {
-          "t": "Therefore hath the"
+          "t": "Therefore hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "watched upon the evil, and brought it upon us: for the"
+          "t": " watched upon the evil, and brought it upon us: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God"
+          "t": " our God "
         },
         {
           "add": "is"
         },
         {
-          "t": "righteous in all his works which he doeth: for we obeyed not his voice."
+          "t": " righteous in all his works which he doeth: for we obeyed not his voice. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly.",
       "tokens": [
         {
-          "t": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly."
+          "t": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people are become a reproach to all that are about us.",
       "tokens": [
         {
-          "t": "¶ O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people"
+          "t": "¶ O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people "
         },
         {
           "add": "are become"
         },
         {
-          "t": "a reproach to all"
+          "t": " a reproach to all "
         },
         {
           "add": "that are"
         },
         {
-          "t": "about us."
+          "t": " about us. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord’s sake.",
       "tokens": [
         {
-          "t": "Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord’s sake."
+          "t": "Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord’s sake. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies.",
       "tokens": [
         {
-          "t": "O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies."
+          "t": "O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.",
       "tokens": [
         {
-          "t": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name."
+          "t": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;",
       "tokens": [
         {
-          "t": "¶ And whiles I"
+          "t": "¶ And whiles I "
         },
         {
           "add": "was"
         },
         {
-          "t": "speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the"
+          "t": " speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "my God for the holy mountain of my God;"
+          "t": " my God for the holy mountain of my God; "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.",
       "tokens": [
         {
-          "t": "Yea, whiles I"
+          "t": "Yea, whiles I "
         },
         {
           "add": "was"
         },
         {
-          "t": "speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation."
+          "t": " speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.",
       "tokens": [
         {
-          "t": "And he informed"
+          "t": "And he informed "
         },
         {
           "add": "me"
         },
         {
-          "t": ", and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding."
+          "t": ", and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "At the beginning of thy supplications the commandment came forth, and I am come to shew thee; for thou art greatly beloved: therefore understand the matter, and consider the vision.",
       "tokens": [
         {
-          "t": "At the beginning of thy supplications the commandment came forth, and I am come to shew"
+          "t": "At the beginning of thy supplications the commandment came forth, and I am come to shew "
         },
         {
           "add": "thee;"
         },
         {
-          "t": "for thou"
+          "t": " for thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "greatly beloved: therefore understand the matter, and consider the vision."
+          "t": " greatly beloved: therefore understand the matter, and consider the vision. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.",
       "tokens": [
         {
-          "t": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy."
+          "t": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.",
       "tokens": [
         {
-          "t": "Know therefore and understand,"
+          "t": "Know therefore and understand, "
         },
         {
           "add": "that"
         },
         {
-          "t": "from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince"
+          "t": " from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times."
+          "t": " seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.",
       "tokens": [
         {
-          "t": "And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof"
+          "t": "And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "with a flood, and unto the end of the war desolations are determined."
+          "t": " with a flood, and unto the end of the war desolations are determined. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.",
       "tokens": [
         {
-          "t": "And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make"
+          "t": "And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make "
         },
         {
           "add": "it"
         },
         {
-          "t": "desolate, even until the consummation, and that determined shall be poured upon the desolate."
+          "t": " desolate, even until the consummation, and that determined shall be poured upon the desolate. "
         }
       ]
     }

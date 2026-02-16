@@ -7,122 +7,133 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Out of the depths have I cried unto thee, O LORD.",
       "tokens": [
         {
-          "t": "Out of the depths have I cried unto thee, O"
+          "t": "Out of the depths have I cried unto thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
       "tokens": [
         {
-          "t": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications."
+          "t": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?",
       "tokens": [
         {
-          "t": "If thou,"
+          "t": "If thou, "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", shouldest mark iniquities, O Lord, who shall stand?"
+          "t": ", shouldest mark iniquities, O Lord, who shall stand? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But there is forgiveness with thee, that thou mayest be feared.",
       "tokens": [
         {
-          "t": "But"
+          "t": "But "
         },
         {
           "add": "there is"
         },
         {
-          "t": "forgiveness with thee, that thou mayest be feared."
+          "t": " forgiveness with thee, that thou mayest be feared. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "I wait for the LORD, my soul doth wait, and in his word do I hope.",
       "tokens": [
         {
-          "t": "I wait for the"
+          "t": "I wait for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", my soul doth wait, and in his word do I hope."
+          "t": ", my soul doth wait, and in his word do I hope. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.",
       "tokens": [
         {
-          "t": "My soul"
+          "t": "My soul "
         },
         {
           "add": "waiteth"
         },
         {
-          "t": "for the Lord more than they that watch for the morning:"
+          "t": " for the Lord more than they that watch for the morning: "
         },
         {
           "add": "I say, more than"
         },
         {
-          "t": "they that watch for the morning."
+          "t": " they that watch for the morning. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.",
       "tokens": [
         {
-          "t": "Let Israel hope in the"
+          "t": "Let Israel hope in the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for with the"
+          "t": ": for with the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "there is"
         },
         {
-          "t": "mercy, and with him"
+          "t": " mercy, and with him "
         },
         {
           "add": "is"
         },
         {
-          "t": "plenteous redemption."
+          "t": " plenteous redemption. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And he shall redeem Israel from all his iniquities.",
       "tokens": [
         {
-          "t": "And he shall redeem Israel from all his iniquities."
+          "t": "And he shall redeem Israel from all his iniquities. "
         }
       ]
     }

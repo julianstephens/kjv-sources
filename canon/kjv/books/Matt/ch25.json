@@ -7,187 +7,675 @@
   "verses": [
     {
       "v": 1,
-      "tokens": null
+      "plain": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.",
+      "tokens": [
+        {
+          "t": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 2,
-      "tokens": null
+      "plain": "And five of them were wise, and five were foolish.",
+      "tokens": [
+        {
+          "t": "And five of them were wise, and five "
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": " foolish."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 3,
-      "tokens": null
+      "plain": "They that were foolish took their lamps, and took no oil with them:",
+      "tokens": [
+        {
+          "t": "They that "
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": " foolish took their lamps, and took no oil with them:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "But the wise took oil in their vessels with their lamps.",
+      "tokens": [
+        {
+          "t": "But the wise took oil in their vessels with their lamps."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "While the bridegroom tarried, they all slumbered and slept.",
+      "tokens": [
+        {
+          "t": "While the bridegroom tarried, they all slumbered and slept."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.",
+      "tokens": [
+        {
+          "t": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "Then all those virgins arose, and trimmed their lamps.",
+      "tokens": [
+        {
+          "t": "Then all those virgins arose, and trimmed their lamps."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.",
+      "tokens": [
+        {
+          "t": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.",
+      "tokens": [
+        {
+          "t": "But the wise answered, saying, "
+        },
+        {
+          "add": "Not so"
+        },
+        {
+          "t": "; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.",
+      "tokens": [
+        {
+          "t": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "Afterward came also the other virgins, saying, Lord, Lord, open to us.",
+      "tokens": [
+        {
+          "t": "Afterward came also the other virgins, saying, Lord, Lord, open to us."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "But he answered and said, Verily I say unto you, I know you not.",
+      "tokens": [
+        {
+          "t": "But he answered and said, Verily I say unto you, I know you not."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.",
+      "tokens": [
+        {
+          "t": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "¶ For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods.",
+      "tokens": [
+        {
+          "t": "¶ For "
+        },
+        {
+          "add": "the kingdom of heaven is"
+        },
+        {
+          "t": " as a man travelling into a far country, "
+        },
+        {
+          "add": "who"
+        },
+        {
+          "t": " called his own servants, and delivered unto them his goods."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey.",
+      "tokens": [
+        {
+          "t": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "Then he that had received the five talents went and traded with the same, and made them other five talents.",
+      "tokens": [
+        {
+          "t": "Then he that had received the five talents went and traded with the same, and made "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " other five talents."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "And likewise he that had received two, he also gained other two.",
+      "tokens": [
+        {
+          "t": "And likewise he that "
+        },
+        {
+          "add": "had received"
+        },
+        {
+          "t": " two, he also gained other two."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "But he that had received one went and digged in the earth, and hid his lord’s money.",
+      "tokens": [
+        {
+          "t": "But he that had received one went and digged in the earth, and hid his lord’s money."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "After a long time the lord of those servants cometh, and reckoneth with them.",
+      "tokens": [
+        {
+          "t": "After a long time the lord of those servants cometh, and reckoneth with them."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.",
+      "tokens": [
+        {
+          "t": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+      "tokens": [
+        {
+          "t": "His lord said unto him, Well done, "
+        },
+        {
+          "add": "thou"
+        },
+        {
+          "t": " good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.",
+      "tokens": [
+        {
+          "t": "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+      "tokens": [
+        {
+          "t": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:",
+      "tokens": [
+        {
+          "t": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine.",
+      "tokens": [
+        {
+          "t": "And I was afraid, and went and hid thy talent in the earth: lo, "
+        },
+        {
+          "add": "there"
+        },
+        {
+          "t": " thou hast "
+        },
+        {
+          "add": "that is"
+        },
+        {
+          "t": " thine."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:",
+      "tokens": [
+        {
+          "t": "His lord answered and said unto him, "
+        },
+        {
+          "add": "Thou"
+        },
+        {
+          "t": " wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury.",
+      "tokens": [
+        {
+          "t": "Thou oughtest therefore to have put my money to the exchangers, and "
+        },
+        {
+          "add": "then"
+        },
+        {
+          "t": " at my coming I should have received mine own with usury."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "Take therefore the talent from him, and give it unto him which hath ten talents.",
+      "tokens": [
+        {
+          "t": "Take therefore the talent from him, and give "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " unto him which hath ten talents."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
+      "tokens": [
+        {
+          "t": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.",
+      "tokens": [
+        {
+          "t": "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
-      "tokens": null
+      "plain": "¶ When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:",
+      "tokens": [
+        {
+          "t": "¶ When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:",
+      "tokens": [
+        {
+          "t": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " sheep from the goats:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
+      "plain": "And he shall set the sheep on his right hand, but the goats on the left.",
+      "tokens": [
+        {
+          "t": "And he shall set the sheep on his right hand, but the goats on the left."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 34,
-      "tokens": null
+      "plain": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+      "tokens": [
+        {
+          "t": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 35,
-      "tokens": null
+      "plain": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:",
+      "tokens": [
+        {
+          "t": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 36,
-      "tokens": null
+      "plain": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+      "tokens": [
+        {
+          "t": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 37,
-      "tokens": null
+      "plain": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?",
+      "tokens": [
+        {
+          "t": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed "
+        },
+        {
+          "add": "thee"
+        },
+        {
+          "t": "? or thirsty, and gave thee drink?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 38,
-      "tokens": null
+      "plain": "When saw we thee a stranger, and took thee in? or naked, and clothed thee?",
+      "tokens": [
+        {
+          "t": "When saw we thee a stranger, and took thee in? or naked, and clothed "
+        },
+        {
+          "add": "thee"
+        },
+        {
+          "t": "?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 39,
-      "tokens": null
+      "plain": "Or when saw we thee sick, or in prison, and came unto thee?",
+      "tokens": [
+        {
+          "t": "Or when saw we thee sick, or in prison, and came unto thee?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 40,
-      "tokens": null
+      "plain": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+      "tokens": [
+        {
+          "t": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " unto one of the least of these my brethren, ye have done "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " unto me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 41,
-      "tokens": null
+      "plain": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:",
+      "tokens": [
+        {
+          "t": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 42,
-      "tokens": null
+      "plain": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:",
+      "tokens": [
+        {
+          "t": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 43,
-      "tokens": null
+      "plain": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.",
+      "tokens": [
+        {
+          "t": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 44,
-      "tokens": null
+      "plain": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?",
+      "tokens": [
+        {
+          "t": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 45,
-      "tokens": null
+      "plain": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me.",
+      "tokens": [
+        {
+          "t": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " not to one of the least of these, ye did "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " not to me."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 46,
-      "tokens": null
+      "plain": "And these shall go away into everlasting punishment: but the righteous into life eternal.",
+      "tokens": [
+        {
+          "t": "And these shall go away into everlasting punishment: but the righteous into life eternal."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

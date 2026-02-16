@@ -7,353 +7,373 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the LORD thy God hath driven thee,",
       "tokens": [
         {
-          "t": "And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call"
+          "t": "And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call "
         },
         {
           "add": "them"
         },
         {
-          "t": "to mind among all the nations, whither the"
+          "t": " to mind among all the nations, whither the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath driven thee,"
+          "t": " thy God hath driven thee, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And shalt return unto the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;",
       "tokens": [
         {
-          "t": "And shalt return unto the"
+          "t": "And shalt return unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;"
+          "t": " thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "That then the LORD thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the LORD thy God hath scattered thee.",
       "tokens": [
         {
-          "t": "That then the"
+          "t": "That then the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the"
+          "t": " thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath scattered thee."
+          "t": " thy God hath scattered thee. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "If any of thine be driven out unto the outmost parts of heaven, from thence will the LORD thy God gather thee, and from thence will he fetch thee:",
       "tokens": [
         {
-          "t": "If"
+          "t": "If "
         },
         {
           "add": "any"
         },
         {
-          "t": "of thine be driven out unto the outmost"
+          "t": " of thine be driven out unto the outmost "
         },
         {
           "add": "parts"
         },
         {
-          "t": "of heaven, from thence will the"
+          "t": " of heaven, from thence will the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God gather thee, and from thence will he fetch thee:"
+          "t": " thy God gather thee, and from thence will he fetch thee: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the LORD thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers."
+          "t": " thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God will circumcise thine heart, and the heart of thy seed, to love the"
+          "t": " thy God will circumcise thine heart, and the heart of thy seed, to love the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God with all thine heart, and with all thy soul, that thou mayest live."
+          "t": " thy God with all thine heart, and with all thy soul, that thou mayest live. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the LORD thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee."
+          "t": " thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And thou shalt return and obey the voice of the LORD, and do all his commandments which I command thee this day.",
       "tokens": [
         {
-          "t": "And thou shalt return and obey the voice of the"
+          "t": "And thou shalt return and obey the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and do all his commandments which I command thee this day."
+          "t": ", and do all his commandments which I command thee this day. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the LORD thy God will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good: for the LORD will again rejoice over thee for good, as he rejoiced over thy fathers:",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good: for the"
+          "t": " thy God will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will again rejoice over thee for good, as he rejoiced over thy fathers:"
+          "t": " will again rejoice over thee for good, as he rejoiced over thy fathers: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "If thou shalt hearken unto the voice of the LORD thy God, to keep his commandments and his statutes which are written in this book of the law, and if thou turn unto the LORD thy God with all thine heart, and with all thy soul.",
       "tokens": [
         {
-          "t": "If thou shalt hearken unto the voice of the"
+          "t": "If thou shalt hearken unto the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, to keep his commandments and his statutes which are written in this book of the law,"
+          "t": " thy God, to keep his commandments and his statutes which are written in this book of the law, "
         },
         {
           "add": "and"
         },
         {
-          "t": "if thou turn unto the"
+          "t": " if thou turn unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God with all thine heart, and with all thy soul."
+          "t": " thy God with all thine heart, and with all thy soul. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ For this commandment which I command thee this day, it is not hidden from thee, neither is it far off.",
       "tokens": [
         {
-          "t": "¶ For this commandment which I command thee this day, it"
+          "t": "¶ For this commandment which I command thee this day, it "
         },
         {
           "add": "is"
         },
         {
-          "t": "not hidden from thee, neither"
+          "t": " not hidden from thee, neither "
         },
         {
           "add": "is"
         },
         {
-          "t": "it far off."
+          "t": " it far off. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "It is not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?",
       "tokens": [
         {
-          "t": "It"
+          "t": "It "
         },
         {
           "add": "is"
         },
         {
-          "t": "not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?"
+          "t": " not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Neither is it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it?",
       "tokens": [
         {
-          "t": "Neither"
+          "t": "Neither "
         },
         {
           "add": "is"
         },
         {
-          "t": "it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it?"
+          "t": " it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But the word is very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it.",
       "tokens": [
         {
-          "t": "But the word"
+          "t": "But the word "
         },
         {
           "add": "is"
         },
         {
-          "t": "very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it."
+          "t": " very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ See, I have set before thee this day life and good, and death and evil;",
       "tokens": [
         {
-          "t": "¶ See, I have set before thee this day life and good, and death and evil;"
+          "t": "¶ See, I have set before thee this day life and good, and death and evil; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "In that I command thee this day to love the LORD thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the LORD thy God shall bless thee in the land whither thou goest to possess it.",
       "tokens": [
         {
-          "t": "In that I command thee this day to love the"
+          "t": "In that I command thee this day to love the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the"
+          "t": " thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall bless thee in the land whither thou goest to possess it."
+          "t": " thy God shall bless thee in the land whither thou goest to possess it. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "But if thine heart turn away, so that thou wilt not hear, but shalt be drawn away, and worship other gods, and serve them;",
       "tokens": [
         {
-          "t": "But if thine heart turn away, so that thou wilt not hear, but shalt be drawn away, and worship other gods, and serve them;"
+          "t": "But if thine heart turn away, so that thou wilt not hear, but shalt be drawn away, and worship other gods, and serve them; "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "I denounce unto you this day, that ye shall surely perish, and that ye shall not prolong your days upon the land, whither thou passest over Jordan to go to possess it.",
       "tokens": [
         {
-          "t": "I denounce unto you this day, that ye shall surely perish,"
+          "t": "I denounce unto you this day, that ye shall surely perish, "
         },
         {
           "add": "and that"
         },
         {
-          "t": "ye shall not prolong"
+          "t": " ye shall not prolong "
         },
         {
           "add": "your"
         },
         {
-          "t": "days upon the land, whither thou passest over Jordan to go to possess it."
+          "t": " days upon the land, whither thou passest over Jordan to go to possess it. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:",
       "tokens": [
         {
-          "t": "I call heaven and earth to record this day against you,"
+          "t": "I call heaven and earth to record this day against you, "
         },
         {
           "add": "that"
         },
         {
-          "t": "I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:"
+          "t": " I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "That thou mayest love the LORD thy God, and that thou mayest obey his voice, and that thou mayest cleave unto him: for he is thy life, and the length of thy days: that thou mayest dwell in the land which the LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.",
       "tokens": [
         {
-          "t": "That thou mayest love the"
+          "t": "That thou mayest love the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God,"
+          "t": " thy God, "
         },
         {
           "add": "and"
         },
         {
-          "t": "that thou mayest obey his voice, and that thou mayest cleave unto him: for he"
+          "t": " that thou mayest obey his voice, and that thou mayest cleave unto him: for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy life, and the length of thy days: that thou mayest dwell in the land which the"
+          "t": " thy life, and the length of thy days: that thou mayest dwell in the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them."
+          "t": " sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them. "
         }
       ]
     }

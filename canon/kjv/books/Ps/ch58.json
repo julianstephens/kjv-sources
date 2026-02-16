@@ -1,0 +1,252 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 58,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?",
+      "tokens": [
+        {
+          "t": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men? "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.",
+      "tokens": [
+        {
+          "t": "Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.",
+      "tokens": [
+        {
+          "t": "The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Their poison is like the poison of a serpent: they are like the deaf adder that stoppeth her ear;",
+      "tokens": [
+        {
+          "t": "Their poison "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " like the poison of a serpent: "
+        },
+        {
+          "add": "they are"
+        },
+        {
+          "t": " like the deaf adder "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " stoppeth her ear; "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Which will not hearken to the voice of charmers, charming never so wisely.",
+      "tokens": [
+        {
+          "t": "Which will not hearken to the voice of charmers, charming never so wisely. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD.",
+      "tokens": [
+        {
+          "t": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Let them melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces.",
+      "tokens": [
+        {
+          "t": "Let them melt away as waters "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " run continually: "
+        },
+        {
+          "add": "when"
+        },
+        {
+          "t": " he bendeth "
+        },
+        {
+          "add": "his bow to shoot"
+        },
+        {
+          "t": " his arrows, let them be as cut in pieces. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "As a snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun.",
+      "tokens": [
+        {
+          "t": "As a snail "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " melteth, let "
+        },
+        {
+          "add": "every one of them"
+        },
+        {
+          "t": " pass away: "
+        },
+        {
+          "add": "like"
+        },
+        {
+          "t": " the untimely birth of a woman, "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " they may not see the sun. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in his wrath.",
+      "tokens": [
+        {
+          "t": "Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " wrath. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.",
+      "tokens": [
+        {
+          "t": "The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth.",
+      "tokens": [
+        {
+          "t": "So that a man shall say, Verily "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " a reward for the righteous: verily he is a God that judgeth in the earth. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Al-taschith…: or, Destroy not"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "Michtam: or, A golden Psalm"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 3
+      },
+      "text": "as soon…: Heb. from the belly"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 4
+      },
+      "text": "like the poison: Heb. according to the likeness, etc"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 4
+      },
+      "text": "adder: or, asp"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 5
+      },
+      "text": "charming…: or, be the charmer never so cunning"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 9
+      },
+      "text": "both…: Heb. as living as wrath"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 11
+      },
+      "text": "a reward…: Heb. fruit of the, etc"
+    }
+  ]
+}

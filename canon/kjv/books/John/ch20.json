@@ -7,299 +7,445 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.",
       "tokens": [
         {
-          "t": "The first"
+          "t": "The first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre."
+          "t": " of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.",
       "tokens": [
         {
-          "t": "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him."
+          "t": "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Peter therefore went forth, and that other disciple, and came to the sepulchre.",
       "tokens": [
         {
-          "t": "Peter therefore went forth, and that other disciple, and came to the sepulchre."
+          "t": "Peter therefore went forth, and that other disciple, and came to the sepulchre. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.",
       "tokens": [
         {
-          "t": "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre."
+          "t": "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And he stooping down, and looking in, saw the linen clothes lying; yet went he not in.",
       "tokens": [
         {
-          "t": "And he stooping down,"
+          "t": "And he stooping down, "
         },
         {
           "add": "and looking in"
         },
         {
-          "t": ", saw the linen clothes lying; yet went he not in."
+          "t": ", saw the linen clothes lying; yet went he not in. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,",
       "tokens": [
         {
-          "t": "Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,"
+          "t": "Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie, "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.",
       "tokens": [
         {
-          "t": "And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself."
+          "t": "And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.",
       "tokens": [
         {
-          "t": "Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed."
+          "t": "Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For as yet they knew not the scripture, that he must rise again from the dead.",
       "tokens": [
         {
-          "t": "For as yet they knew not the scripture, that he must rise again from the dead."
+          "t": "For as yet they knew not the scripture, that he must rise again from the dead. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then the disciples went away again unto their own home.",
       "tokens": [
         {
-          "t": "Then the disciples went away again unto their own home."
+          "t": "Then the disciples went away again unto their own home. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre,",
       "tokens": [
         {
-          "t": "¶ But Mary stood without at the sepulchre weeping: and as she wept, she stooped down,"
+          "t": "¶ But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, "
         },
         {
           "add": "and looked"
         },
         {
-          "t": "into the sepulchre,"
+          "t": " into the sepulchre, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.",
       "tokens": [
         {
-          "t": "And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain."
+          "t": "And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.",
       "tokens": [
         {
-          "t": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him."
+          "t": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.",
       "tokens": [
         {
-          "t": "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus."
+          "t": "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.",
       "tokens": [
         {
-          "t": "She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away."
+          "t": "Jesus saith unto her, "
         },
         {
-          "t": "Jesus saith unto her, She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away."
+          "t": "Woman, why weepest thou? whom seekest thou?"
+        },
+        {
+          "t": " She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.",
       "tokens": [
         {
-          "t": "She turned herself, and saith unto him, Rabboni; which is to say, Master."
+          "t": "Jesus saith unto her, "
         },
         {
-          "t": "Jesus saith unto her, She turned herself, and saith unto him, Rabboni; which is to say, Master."
+          "t": "Mary."
+        },
+        {
+          "t": " She turned herself, and saith unto him, Rabboni; which is to say, Master. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.",
       "tokens": [
         {
-          "t": "Jesus saith unto her,"
+          "t": "Jesus saith unto her, "
+        },
+        {
+          "t": "Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and "
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": " my God, and your God."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Mary Magdalene came and told the disciples that she had seen the Lord, and that he had spoken these things unto her.",
       "tokens": [
         {
-          "t": "Mary Magdalene came and told the disciples that she had seen the Lord, and"
+          "t": "Mary Magdalene came and told the disciples that she had seen the Lord, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "he had spoken these things unto her."
+          "t": " he had spoken these things unto her. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.",
       "tokens": [
         {
-          "t": "¶ Then the same day at evening, being the first"
+          "t": "¶ Then the same day at evening, being the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them,"
+          "t": " of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, "
+        },
+        {
+          "t": "Peace "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " unto you."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the Lord.",
       "tokens": [
         {
-          "t": "And when he had so said, he shewed unto them"
+          "t": "And when he had so said, he shewed unto them "
         },
         {
           "add": "his"
         },
         {
-          "t": "hands and his side. Then were the disciples glad, when they saw the Lord."
+          "t": " hands and his side. Then were the disciples glad, when they saw the Lord. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you.",
       "tokens": [
         {
-          "t": "Then said Jesus to them again,"
+          "t": "Then said Jesus to them again, "
+        },
+        {
+          "t": "Peace "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " unto you: as "
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": " Father hath sent me, even so send I you."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:",
       "tokens": [
         {
-          "t": "And when he had said this, he breathed on"
+          "t": "And when he had said this, he breathed on "
         },
         {
           "add": "them"
         },
         {
-          "t": ", and saith unto them,"
+          "t": ", and saith unto them, "
+        },
+        {
+          "t": "Receive ye the Holy Ghost:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.",
+      "tokens": [
+        {
+          "t": "Whose soever sins ye remit, they are remitted unto them; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " whose soever "
+        },
+        {
+          "add": "sins"
+        },
+        {
+          "t": " ye retain, they are retained."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
+      "plain": "¶ But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.",
       "tokens": [
         {
-          "t": "¶ But Thomas, one of the twelve, called Didymus, was not with them when Jesus came."
+          "t": "¶ But Thomas, one of the twelve, called Didymus, was not with them when Jesus came. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.",
       "tokens": [
         {
-          "t": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
+          "t": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you.",
       "tokens": [
         {
-          "t": "¶ And after eight days again his disciples were within, and Thomas with them:"
+          "t": "¶ And after eight days again his disciples were within, and Thomas with them: "
         },
         {
           "add": "then"
         },
         {
-          "t": "came Jesus, the doors being shut, and stood in the midst, and said,"
+          "t": " came Jesus, the doors being shut, and stood in the midst, and said, "
+        },
+        {
+          "t": "Peace "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " unto you."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing.",
       "tokens": [
         {
-          "t": "Then saith he to Thomas,"
+          "t": "Then saith he to Thomas, "
+        },
+        {
+          "t": "Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " into my side: and be not faithless, but believing."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Thomas answered and said unto him, My Lord and my God.",
       "tokens": [
         {
-          "t": "And Thomas answered and said unto him, My Lord and my God."
+          "t": "And Thomas answered and said unto him, My Lord and my God. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed.",
       "tokens": [
         {
-          "t": "Jesus saith unto him,"
+          "t": "Jesus saith unto him, "
+        },
+        {
+          "t": "Thomas, because thou hast seen me, thou hast believed: blessed "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " they that have not seen, and "
+        },
+        {
+          "add": "yet"
+        },
+        {
+          "t": " have believed."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "¶ And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:",
       "tokens": [
         {
-          "t": "¶ And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:"
+          "t": "¶ And many other signs truly did Jesus in the presence of his disciples, which are not written in this book: "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.",
       "tokens": [
         {
-          "t": "But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name."
+          "t": "But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name. "
         }
       ]
     }

@@ -7,261 +7,283 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;",
       "tokens": [
         {
-          "t": "And God remembered Noah, and every living thing, and all the cattle that"
+          "t": "And God remembered Noah, and every living thing, and all the cattle that "
         },
         {
           "add": "was"
         },
         {
-          "t": "with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;"
+          "t": " with him in the ark: and God made a wind to pass over the earth, and the waters asswaged; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;",
       "tokens": [
         {
-          "t": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;"
+          "t": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.",
       "tokens": [
         {
-          "t": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated."
+          "t": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.",
       "tokens": [
         {
-          "t": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat."
+          "t": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.",
       "tokens": [
         {
-          "t": "And the waters decreased continually until the tenth month: in the tenth"
+          "t": "And the waters decreased continually until the tenth month: in the tenth "
         },
         {
           "add": "month"
         },
         {
-          "t": ", on the first"
+          "t": ", on the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month, were the tops of the mountains seen."
+          "t": " of the month, were the tops of the mountains seen. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:",
       "tokens": [
         {
-          "t": "¶ And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:"
+          "t": "¶ And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.",
       "tokens": [
         {
-          "t": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth."
+          "t": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;",
       "tokens": [
         {
-          "t": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;"
+          "t": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.",
       "tokens": [
         {
-          "t": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters"
+          "t": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters "
         },
         {
           "add": "were"
         },
         {
-          "t": "on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark."
+          "t": " on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;",
       "tokens": [
         {
-          "t": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;"
+          "t": "And he stayed yet other seven days; and again he sent forth the dove out of the ark; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.",
       "tokens": [
         {
-          "t": "And the dove came in to him in the evening; and, lo, in her mouth"
+          "t": "And the dove came in to him in the evening; and, lo, in her mouth "
         },
         {
           "add": "was"
         },
         {
-          "t": "an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth."
+          "t": " an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.",
       "tokens": [
         {
-          "t": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more."
+          "t": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.",
       "tokens": [
         {
-          "t": "¶ And it came to pass in the six hundredth and first year, in the first"
+          "t": "¶ And it came to pass in the six hundredth and first year, in the first "
         },
         {
           "add": "month"
         },
         {
-          "t": ", the first"
+          "t": ", the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry."
+          "t": " of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And in the second month, on the seven and twentieth day of the month, was the earth dried.",
       "tokens": [
         {
-          "t": "And in the second month, on the seven and twentieth day of the month, was the earth dried."
+          "t": "And in the second month, on the seven and twentieth day of the month, was the earth dried. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And God spake unto Noah, saying,",
       "tokens": [
         {
-          "t": "¶ And God spake unto Noah, saying,"
+          "t": "¶ And God spake unto Noah, saying, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee.",
       "tokens": [
         {
-          "t": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee."
+          "t": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons’ wives with thee. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.",
       "tokens": [
         {
-          "t": "Bring forth with thee every living thing that"
+          "t": "Bring forth with thee every living thing that "
         },
         {
           "add": "is"
         },
         {
-          "t": "with thee, of all flesh,"
+          "t": " with thee, of all flesh, "
         },
         {
           "add": "both"
         },
         {
-          "t": "of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth."
+          "t": " of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Noah went forth, and his sons, and his wife, and his sons’ wives with him:",
       "tokens": [
         {
-          "t": "And Noah went forth, and his sons, and his wife, and his sons’ wives with him:"
+          "t": "And Noah went forth, and his sons, and his wife, and his sons’ wives with him: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.",
       "tokens": [
         {
-          "t": "Every beast, every creeping thing, and every fowl,"
+          "t": "Every beast, every creeping thing, and every fowl, "
         },
         {
           "add": "and"
         },
         {
-          "t": "whatsoever creepeth upon the earth, after their kinds, went forth out of the ark."
+          "t": " whatsoever creepeth upon the earth, after their kinds, went forth out of the ark. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.",
       "tokens": [
         {
-          "t": "¶ And Noah builded an altar unto the"
+          "t": "¶ And Noah builded an altar unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar."
+          "t": "; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "smelled a sweet savour; and the"
+          "t": " smelled a sweet savour; and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart"
+          "t": " said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart "
         },
         {
           "add": "is"
         },
         {
-          "t": "evil from his youth; neither will I again smite any more every thing living, as I have done."
+          "t": " evil from his youth; neither will I again smite any more every thing living, as I have done. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
       "tokens": [
         {
-          "t": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+          "t": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease. "
         }
       ]
     }

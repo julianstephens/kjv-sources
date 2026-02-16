@@ -1,0 +1,434 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 10,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?",
+      "tokens": [
+        {
+          "t": "Why standest thou afar off, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? "
+        },
+        {
+          "add": "why"
+        },
+        {
+          "t": " hidest thou "
+        },
+        {
+          "add": "thyself"
+        },
+        {
+          "t": " in times of trouble? "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.",
+      "tokens": [
+        {
+          "t": "The wicked in "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " pride doth persecute the poor: let them be taken in the devices that they have imagined. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For the wicked boasteth of his heart’s desire, and blesseth the covetous, whom the LORD abhorreth.",
+      "tokens": [
+        {
+          "t": "For the wicked boasteth of his heart’s desire, and blesseth the covetous, "
+        },
+        {
+          "add": "whom"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " abhorreth. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.",
+      "tokens": [
+        {
+          "t": "The wicked, through the pride of his countenance, will not seek "
+        },
+        {
+          "add": "after God:"
+        },
+        {
+          "t": " God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " not in all his thoughts. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.",
+      "tokens": [
+        {
+          "t": "His ways are always grievous; thy judgments "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " far above out of his sight: "
+        },
+        {
+          "add": "as for"
+        },
+        {
+          "t": " all his enemies, he puffeth at them. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "He hath said in his heart, I shall not be moved: for I shall never be in adversity.",
+      "tokens": [
+        {
+          "t": "He hath said in his heart, I shall not be moved: for "
+        },
+        {
+          "add": "I shall"
+        },
+        {
+          "t": " never "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " in adversity. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.",
+      "tokens": [
+        {
+          "t": "His mouth is full of cursing and deceit and fraud: under his tongue "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " mischief and vanity. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.",
+      "tokens": [
+        {
+          "t": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.",
+      "tokens": [
+        {
+          "t": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "He croucheth, and humbleth himself, that the poor may fall by his strong ones.",
+      "tokens": [
+        {
+          "t": "He croucheth, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " humbleth himself, that the poor may fall by his strong ones. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see it.",
+      "tokens": [
+        {
+          "t": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Arise, O LORD; O God, lift up thine hand: forget not the humble.",
+      "tokens": [
+        {
+          "t": "Arise, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; O God, lift up thine hand: forget not the humble. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.",
+      "tokens": [
+        {
+          "t": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.",
+      "tokens": [
+        {
+          "t": "Thou hast seen "
+        },
+        {
+          "add": "it;"
+        },
+        {
+          "t": " for thou beholdest mischief and spite, to requite "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.",
+      "tokens": [
+        {
+          "t": "Break thou the arm of the wicked and the evil "
+        },
+        {
+          "add": "man:"
+        },
+        {
+          "t": " seek out his wickedness "
+        },
+        {
+          "add": "till"
+        },
+        {
+          "t": " thou find none. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "The LORD is King for ever and ever: the heathen are perished out of his land.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " King for ever and ever: the heathen are perished out of his land. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:",
+      "tokens": [
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear: "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress.",
+      "tokens": [
+        {
+          "t": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "The wicked…: Heb. In the pride of the wicked he doth persecute"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "heart’s: Heb. soul’s"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 3
+      },
+      "text": "blesseth…: or, the covetous blesseth himself, he abhorreth the LORD"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 4
+      },
+      "text": "God is…: or, all his thoughts are, There is no God"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 6
+      },
+      "text": "never: Heb. unto generation and generation"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 7
+      },
+      "text": "deceit: Heb. deceits"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 7
+      },
+      "text": "vanity: or, iniquity"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 8
+      },
+      "text": "are…: Heb. hide themselves"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 9
+      },
+      "text": "secretly: Heb. in the secret places"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 10
+      },
+      "text": "He…: Heb. He breaketh himself"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 10
+      },
+      "text": "by…: or, into his strong parts"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 12
+      },
+      "text": "humble: or, afflicted"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 14
+      },
+      "text": "committeth: Heb. leaveth"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 17
+      },
+      "text": "prepare: or, establish"
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 18
+      },
+      "text": "oppress: or, terrify"
+    }
+  ]
+}

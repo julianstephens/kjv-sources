@@ -7,184 +7,196 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.",
       "tokens": [
         {
-          "t": "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness."
+          "t": "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "¶ And it shall come to pass in that day, saith the LORD of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.",
       "tokens": [
         {
-          "t": "¶ And it shall come to pass in that day, saith the"
+          "t": "¶ And it shall come to pass in that day, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts,"
+          "t": " of hosts, "
         },
         {
           "add": "that"
         },
         {
-          "t": "I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land."
+          "t": " I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the LORD: and his father and his mother that begat him shall thrust him through when he prophesieth.",
       "tokens": [
         {
-          "t": "And it shall come to pass,"
+          "t": "And it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the"
+          "t": " when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and his father and his mother that begat him shall thrust him through when he prophesieth."
+          "t": ": and his father and his mother that begat him shall thrust him through when he prophesieth. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:",
       "tokens": [
         {
-          "t": "And it shall come to pass in that day,"
+          "t": "And it shall come to pass in that day, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:"
+          "t": " the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "But he shall say, I am no prophet, I am an husbandman; for man taught me to keep cattle from my youth.",
       "tokens": [
         {
-          "t": "But he shall say, I"
+          "t": "But he shall say, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "no prophet, I"
+          "t": " no prophet, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "an husbandman; for man taught me to keep cattle from my youth."
+          "t": " an husbandman; for man taught me to keep cattle from my youth. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And one shall say unto him, What are these wounds in thine hands? Then he shall answer, Those with which I was wounded in the house of my friends.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "one"
         },
         {
-          "t": "shall say unto him, What"
+          "t": " shall say unto him, What "
         },
         {
           "add": "are"
         },
         {
-          "t": "these wounds in thine hands? Then he shall answer,"
+          "t": " these wounds in thine hands? Then he shall answer, "
         },
         {
           "add": "Those"
         },
         {
-          "t": "with which I was wounded"
+          "t": " with which I was wounded "
         },
         {
           "add": "in"
         },
         {
-          "t": "the house of my friends."
+          "t": " the house of my friends. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ Awake, O sword, against my shepherd, and against the man that is my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.",
       "tokens": [
         {
-          "t": "¶ Awake, O sword, against my shepherd, and against the man"
+          "t": "¶ Awake, O sword, against my shepherd, and against the man "
         },
         {
           "add": "that is"
         },
         {
-          "t": "my fellow, saith the"
+          "t": " my fellow, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones."
+          "t": " of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And it shall come to pass, that in all the land, saith the LORD, two parts therein shall be cut off and die; but the third shall be left therein.",
       "tokens": [
         {
-          "t": "And it shall come to pass,"
+          "t": "And it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "in all the land, saith the"
+          "t": " in all the land, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", two parts therein shall be cut off"
+          "t": ", two parts therein shall be cut off "
         },
         {
           "add": "and"
         },
         {
-          "t": "die; but the third shall be left therein."
+          "t": " die; but the third shall be left therein. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God.",
       "tokens": [
         {
-          "t": "And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It"
+          "t": "And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It "
         },
         {
           "add": "is"
         },
         {
-          "t": "my people: and they shall say, The"
+          "t": " my people: and they shall say, The "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "my God."
+          "t": " my God. "
         }
       ]
     }

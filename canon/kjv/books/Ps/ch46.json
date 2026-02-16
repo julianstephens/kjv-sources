@@ -1,0 +1,232 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 46,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "God is our refuge and strength, a very present help in trouble.",
+      "tokens": [
+        {
+          "t": "God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " our refuge and strength, a very present help in trouble. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;",
+      "tokens": [
+        {
+          "t": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea; "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.",
+      "tokens": [
+        {
+          "add": "Though"
+        },
+        {
+          "t": " the waters thereof roar "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " be troubled, "
+        },
+        {
+          "add": "though"
+        },
+        {
+          "t": " the mountains shake with the swelling thereof. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High.",
+      "tokens": [
+        {
+          "add": "There is"
+        },
+        {
+          "t": " a river, the streams whereof shall make glad the city of God, the holy "
+        },
+        {
+          "add": "place"
+        },
+        {
+          "t": " of the tabernacles of the most High. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "God is in the midst of her; she shall not be moved: God shall help her, and that right early.",
+      "tokens": [
+        {
+          "t": "God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in the midst of her; she shall not be moved: God shall help her, "
+        },
+        {
+          "add": "and that"
+        },
+        {
+          "t": " right early. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.",
+      "tokens": [
+        {
+          "t": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " of hosts "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " with us; the God of Jacob "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " our refuge. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Come, behold the works of the LORD, what desolations he hath made in the earth.",
+      "tokens": [
+        {
+          "t": "Come, behold the works of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", what desolations he hath made in the earth. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.",
+      "tokens": [
+        {
+          "t": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.",
+      "tokens": [
+        {
+          "t": "Be still, and know that I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " God: I will be exalted among the heathen, I will be exalted in the earth. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "The LORD of hosts is with us; the God of Jacob is our refuge. Selah.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " of hosts "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " with us; the God of Jacob "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " our refuge. Selah. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "for: or, of"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "midst…: Heb. heart of the seas"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "and…: Heb. when the morning appeareth"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "our…: Heb. an high place for us"
+    }
+  ]
+}

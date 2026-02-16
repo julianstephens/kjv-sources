@@ -7,321 +7,349 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Hear my prayer, O LORD, and let my cry come unto thee.",
       "tokens": [
         {
-          "t": "Hear my prayer, O"
+          "t": "Hear my prayer, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and let my cry come unto thee."
+          "t": ", and let my cry come unto thee. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily.",
       "tokens": [
         {
-          "t": "Hide not thy face from me in the day"
+          "t": "Hide not thy face from me in the day "
         },
         {
           "add": "when"
         },
         {
-          "t": "I am in trouble; incline thine ear unto me: in the day"
+          "t": " I am in trouble; incline thine ear unto me: in the day "
         },
         {
           "add": "when"
         },
         {
-          "t": "I call answer me speedily."
+          "t": " I call answer me speedily. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For my days are consumed like smoke, and my bones are burned as an hearth.",
       "tokens": [
         {
-          "t": "For my days are consumed like smoke, and my bones are burned as an hearth."
+          "t": "For my days are consumed like smoke, and my bones are burned as an hearth. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "My heart is smitten, and withered like grass; so that I forget to eat my bread.",
       "tokens": [
         {
-          "t": "My heart is smitten, and withered like grass; so that I forget to eat my bread."
+          "t": "My heart is smitten, and withered like grass; so that I forget to eat my bread. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "By reason of the voice of my groaning my bones cleave to my skin.",
       "tokens": [
         {
-          "t": "By reason of the voice of my groaning my bones cleave to my skin."
+          "t": "By reason of the voice of my groaning my bones cleave to my skin. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "I am like a pelican of the wilderness: I am like an owl of the desert.",
       "tokens": [
         {
-          "t": "I am like a pelican of the wilderness: I am like an owl of the desert."
+          "t": "I am like a pelican of the wilderness: I am like an owl of the desert. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "I watch, and am as a sparrow alone upon the house top.",
       "tokens": [
         {
-          "t": "I watch, and am as a sparrow alone upon the house top."
+          "t": "I watch, and am as a sparrow alone upon the house top. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Mine enemies reproach me all the day; and they that are mad against me are sworn against me.",
       "tokens": [
         {
-          "t": "Mine enemies reproach me all the day;"
+          "t": "Mine enemies reproach me all the day; "
         },
         {
           "add": "and"
         },
         {
-          "t": "they that are mad against me are sworn against me."
+          "t": " they that are mad against me are sworn against me. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For I have eaten ashes like bread, and mingled my drink with weeping,",
       "tokens": [
         {
-          "t": "For I have eaten ashes like bread, and mingled my drink with weeping,"
+          "t": "For I have eaten ashes like bread, and mingled my drink with weeping, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.",
       "tokens": [
         {
-          "t": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down."
+          "t": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "My days are like a shadow that declineth; and I am withered like grass.",
       "tokens": [
         {
-          "t": "My days"
+          "t": "My days "
         },
         {
           "add": "are"
         },
         {
-          "t": "like a shadow that declineth; and I am withered like grass."
+          "t": " like a shadow that declineth; and I am withered like grass. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations.",
       "tokens": [
         {
-          "t": "But thou, O"
+          "t": "But thou, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", shalt endure for ever; and thy remembrance unto all generations."
+          "t": ", shalt endure for ever; and thy remembrance unto all generations. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come.",
       "tokens": [
         {
-          "t": "Thou shalt arise,"
+          "t": "Thou shalt arise, "
         },
         {
           "add": "and"
         },
         {
-          "t": "have mercy upon Zion: for the time to favour her, yea, the set time, is come."
+          "t": " have mercy upon Zion: for the time to favour her, yea, the set time, is come. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For thy servants take pleasure in her stones, and favour the dust thereof.",
       "tokens": [
         {
-          "t": "For thy servants take pleasure in her stones, and favour the dust thereof."
+          "t": "For thy servants take pleasure in her stones, and favour the dust thereof. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory.",
       "tokens": [
         {
-          "t": "So the heathen shall fear the name of the"
+          "t": "So the heathen shall fear the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and all the kings of the earth thy glory."
+          "t": ", and all the kings of the earth thy glory. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "When the LORD shall build up Zion, he shall appear in his glory.",
       "tokens": [
         {
-          "t": "When the"
+          "t": "When the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall build up Zion, he shall appear in his glory."
+          "t": " shall build up Zion, he shall appear in his glory. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He will regard the prayer of the destitute, and not despise their prayer.",
       "tokens": [
         {
-          "t": "He will regard the prayer of the destitute, and not despise their prayer."
+          "t": "He will regard the prayer of the destitute, and not despise their prayer. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "This shall be written for the generation to come: and the people which shall be created shall praise the LORD.",
       "tokens": [
         {
-          "t": "This shall be written for the generation to come: and the people which shall be created shall praise the"
+          "t": "This shall be written for the generation to come: and the people which shall be created shall praise the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;",
       "tokens": [
         {
-          "t": "For he hath looked down from the height of his sanctuary; from heaven did the"
+          "t": "For he hath looked down from the height of his sanctuary; from heaven did the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "behold the earth;"
+          "t": " behold the earth; "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "To hear the groaning of the prisoner; to loose those that are appointed to death;",
       "tokens": [
         {
-          "t": "To hear the groaning of the prisoner; to loose those that are appointed to death;"
+          "t": "To hear the groaning of the prisoner; to loose those that are appointed to death; "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "To declare the name of the LORD in Zion, and his praise in Jerusalem;",
       "tokens": [
         {
-          "t": "To declare the name of the"
+          "t": "To declare the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in Zion, and his praise in Jerusalem;"
+          "t": " in Zion, and his praise in Jerusalem; "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "When the people are gathered together, and the kingdoms, to serve the LORD.",
       "tokens": [
         {
-          "t": "When the people are gathered together, and the kingdoms, to serve the"
+          "t": "When the people are gathered together, and the kingdoms, to serve the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "He weakened my strength in the way; he shortened my days.",
       "tokens": [
         {
-          "t": "He weakened my strength in the way; he shortened my days."
+          "t": "He weakened my strength in the way; he shortened my days. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "I said, O my God, take me not away in the midst of my days: thy years are throughout all generations.",
       "tokens": [
         {
-          "t": "I said, O my God, take me not away in the midst of my days: thy years"
+          "t": "I said, O my God, take me not away in the midst of my days: thy years "
         },
         {
           "add": "are"
         },
         {
-          "t": "throughout all generations."
+          "t": " throughout all generations. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.",
       "tokens": [
         {
-          "t": "Of old hast thou laid the foundation of the earth: and the heavens"
+          "t": "Of old hast thou laid the foundation of the earth: and the heavens "
         },
         {
           "add": "are"
         },
         {
-          "t": "the work of thy hands."
+          "t": " the work of thy hands. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
       "tokens": [
         {
-          "t": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:"
+          "t": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "But thou art the same, and thy years shall have no end.",
       "tokens": [
         {
-          "t": "But thou"
+          "t": "But thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "the same, and thy years shall have no end."
+          "t": " the same, and thy years shall have no end. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "The children of thy servants shall continue, and their seed shall be established before thee.",
       "tokens": [
         {
-          "t": "The children of thy servants shall continue, and their seed shall be established before thee."
+          "t": "The children of thy servants shall continue, and their seed shall be established before thee. "
         }
       ]
     }

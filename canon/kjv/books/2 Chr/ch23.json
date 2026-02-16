@@ -7,319 +7,340 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.",
       "tokens": [
         {
-          "t": "And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him."
+          "t": "And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem.",
       "tokens": [
         {
-          "t": "And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem."
+          "t": "And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the LORD hath said of the sons of David.",
       "tokens": [
         {
-          "t": "And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the"
+          "t": "And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath said of the sons of David."
+          "t": " hath said of the sons of David. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "This is the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, shall be porters of the doors;",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites,"
+          "t": " the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "porters of the doors;"
+          "t": " porters of the doors; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And a third part shall be at the king’s house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the LORD.",
       "tokens": [
         {
-          "t": "And a third part"
+          "t": "And a third part "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "at the king’s house; and a third part at the gate of the foundation: and all the people"
+          "t": " at the king’s house; and a third part at the gate of the foundation: and all the people "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "in the courts of the house of the"
+          "t": " in the courts of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall go in, for they are holy: but all the people shall keep the watch of the LORD.",
       "tokens": [
         {
-          "t": "But let none come into the house of the"
+          "t": "But let none come into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", save the priests, and they that minister of the Levites; they shall go in, for they"
+          "t": ", save the priests, and they that minister of the Levites; they shall go in, for they "
         },
         {
           "add": "are"
         },
         {
-          "t": "holy: but all the people shall keep the watch of the"
+          "t": " holy: but all the people shall keep the watch of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever else cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out.",
       "tokens": [
         {
-          "t": "And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever"
+          "t": "And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever "
         },
         {
           "add": "else"
         },
         {
-          "t": "cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out."
+          "t": " cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses.",
       "tokens": [
         {
-          "t": "So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go"
+          "t": "So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go "
         },
         {
           "add": "out"
         },
         {
-          "t": "on the sabbath: for Jehoiada the priest dismissed not the courses."
+          "t": " on the sabbath: for Jehoiada the priest dismissed not the courses. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that had been king David’s, which were in the house of God.",
       "tokens": [
         {
-          "t": "Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that"
+          "t": "Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that "
         },
         {
           "add": "had been"
         },
         {
-          "t": "king David’s, which"
+          "t": " king David’s, which "
         },
         {
           "add": "were"
         },
         {
-          "t": "in the house of God."
+          "t": " in the house of God. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about.",
       "tokens": [
         {
-          "t": "And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about."
+          "t": "And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Then they brought out the king’s son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.",
       "tokens": [
         {
-          "t": "Then they brought out the king’s son, and put upon him the crown, and"
+          "t": "Then they brought out the king’s son, and put upon him the crown, and "
         },
         {
           "add": "gave him"
         },
         {
-          "t": "the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king."
+          "t": " the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD:",
       "tokens": [
         {
-          "t": "¶ Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the"
+          "t": "¶ Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.",
       "tokens": [
         {
-          "t": "And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason."
+          "t": "And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth of the ranges: and whoso followeth her, let him be slain with the sword. For the priest said, Slay her not in the house of the LORD.",
       "tokens": [
         {
-          "t": "Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth of the ranges: and whoso followeth her, let him be slain with the sword. For the priest said, Slay her not in the house of the"
+          "t": "Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth of the ranges: and whoso followeth her, let him be slain with the sword. For the priest said, Slay her not in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "So they laid hands on her; and when she was come to the entering of the horse gate by the king’s house, they slew her there.",
       "tokens": [
         {
-          "t": "So they laid hands on her; and when she was come to the entering of the horse gate by the king’s house, they slew her there."
+          "t": "So they laid hands on her; and when she was come to the entering of the horse gate by the king’s house, they slew her there. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD’s people.",
       "tokens": [
         {
-          "t": "¶ And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the"
+          "t": "¶ And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "people."
+          "t": " people. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars.",
       "tokens": [
         {
-          "t": "Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars."
+          "t": "Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.",
       "tokens": [
         {
-          "t": "Also Jehoiada appointed the offices of the house of the"
+          "t": "Also Jehoiada appointed the offices of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "by the hand of the priests the Levites, whom David had distributed in the house of the"
+          "t": " by the hand of the priests the Levites, whom David had distributed in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to offer the burnt offerings of the"
+          "t": ", to offer the burnt offerings of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", as"
+          "t": ", as "
         },
         {
           "add": "it is"
         },
         {
-          "t": "written in the law of Moses, with rejoicing and with singing,"
+          "t": " written in the law of Moses, with rejoicing and with singing, "
         },
         {
           "add": "as it was ordained"
         },
         {
-          "t": "by David."
+          "t": " by David. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And he set the porters at the gates of the house of the LORD, that none which was unclean in any thing should enter in.",
       "tokens": [
         {
-          "t": "And he set the porters at the gates of the house of the"
+          "t": "And he set the porters at the gates of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that none"
+          "t": ", that none "
         },
         {
           "add": "which was"
         },
         {
-          "t": "unclean in any thing should enter in."
+          "t": " unclean in any thing should enter in. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom.",
       "tokens": [
         {
-          "t": "And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the"
+          "t": "And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom."
+          "t": ": and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And all the people of the land rejoiced: and the city was quiet, after that they had slain Athaliah with the sword.",
       "tokens": [
         {
-          "t": "And all the people of the land rejoiced: and the city was quiet, after that they had slain Athaliah with the sword."
+          "t": "And all the people of the land rejoiced: and the city was quiet, after that they had slain Athaliah with the sword. "
         }
       ]
     }

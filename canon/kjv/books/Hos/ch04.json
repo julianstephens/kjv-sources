@@ -7,237 +7,256 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.",
       "tokens": [
         {
-          "t": "Hear the word of the"
+          "t": "Hear the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", ye children of Israel: for the"
+          "t": ", ye children of Israel: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath a controversy with the inhabitants of the land, because"
+          "t": " hath a controversy with the inhabitants of the land, because "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no truth, nor mercy, nor knowledge of God in the land."
+          "t": " no truth, nor mercy, nor knowledge of God in the land. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.",
       "tokens": [
         {
-          "t": "By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood."
+          "t": "By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.",
       "tokens": [
         {
-          "t": "Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away."
+          "t": "Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest.",
       "tokens": [
         {
-          "t": "Yet let no man strive, nor reprove another: for thy people"
+          "t": "Yet let no man strive, nor reprove another: for thy people "
         },
         {
           "add": "are"
         },
         {
-          "t": "as they that strive with the priest."
+          "t": " as they that strive with the priest. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.",
       "tokens": [
         {
-          "t": "Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother."
+          "t": "Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.",
       "tokens": [
         {
-          "t": "¶ My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children."
+          "t": "¶ My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "As they were increased, so they sinned against me: therefore will I change their glory into shame.",
       "tokens": [
         {
-          "t": "As they were increased, so they sinned against me:"
+          "t": "As they were increased, so they sinned against me: "
         },
         {
           "add": "therefore"
         },
         {
-          "t": "will I change their glory into shame."
+          "t": " will I change their glory into shame. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "They eat up the sin of my people, and they set their heart on their iniquity.",
       "tokens": [
         {
-          "t": "They eat up the sin of my people, and they set their heart on their iniquity."
+          "t": "They eat up the sin of my people, and they set their heart on their iniquity. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings.",
       "tokens": [
         {
-          "t": "And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings."
+          "t": "And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD.",
       "tokens": [
         {
-          "t": "For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the"
+          "t": "For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Whoredom and wine and new wine take away the heart.",
       "tokens": [
         {
-          "t": "Whoredom and wine and new wine take away the heart."
+          "t": "Whoredom and wine and new wine take away the heart. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God.",
       "tokens": [
         {
-          "t": "¶ My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused"
+          "t": "¶ My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused "
         },
         {
           "add": "them"
         },
         {
-          "t": "to err, and they have gone a whoring from under their God."
+          "t": " to err, and they have gone a whoring from under their God. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery.",
       "tokens": [
         {
-          "t": "They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof"
+          "t": "They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof "
         },
         {
           "add": "is"
         },
         {
-          "t": "good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery."
+          "t": " good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.",
       "tokens": [
         {
-          "t": "I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people"
+          "t": "I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people "
         },
         {
           "add": "that"
         },
         {
-          "t": "doth not understand shall fall."
+          "t": " doth not understand shall fall. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The LORD liveth.",
       "tokens": [
         {
-          "t": "¶ Though thou, Israel, play the harlot,"
+          "t": "¶ Though thou, Israel, play the harlot, "
         },
         {
           "add": "yet"
         },
         {
-          "t": "let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The"
+          "t": " let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth."
+          "t": " liveth. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.",
       "tokens": [
         {
-          "t": "For Israel slideth back as a backsliding heifer: now the"
+          "t": "For Israel slideth back as a backsliding heifer: now the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will feed them as a lamb in a large place."
+          "t": " will feed them as a lamb in a large place. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Ephraim is joined to idols: let him alone.",
       "tokens": [
         {
-          "t": "Ephraim"
+          "t": "Ephraim "
         },
         {
           "add": "is"
         },
         {
-          "t": "joined to idols: let him alone."
+          "t": " joined to idols: let him alone. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give ye.",
       "tokens": [
         {
-          "t": "Their drink is sour: they have committed whoredom continually: her rulers"
+          "t": "Their drink is sour: they have committed whoredom continually: her rulers "
         },
         {
           "add": "with"
         },
         {
-          "t": "shame do love, Give ye."
+          "t": " shame do love, Give ye. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.",
       "tokens": [
         {
-          "t": "The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices."
+          "t": "The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices. "
         }
       ]
     }

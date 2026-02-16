@@ -7,329 +7,361 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the whole earth was of one language, and of one speech.",
       "tokens": [
         {
-          "t": "And the whole earth was of one language, and of one speech."
+          "t": "And the whole earth was of one language, and of one speech. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.",
       "tokens": [
         {
-          "t": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there."
+          "t": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.",
       "tokens": [
         {
-          "t": "And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter."
+          "t": "And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.",
       "tokens": [
         {
-          "t": "And they said, Go to, let us build us a city and a tower, whose top"
+          "t": "And they said, Go to, let us build us a city and a tower, whose top "
         },
         {
           "add": "may reach"
         },
         {
-          "t": "unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth."
+          "t": " unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the LORD came down to see the city and the tower, which the children of men builded.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came down to see the city and the tower, which the children of men builded."
+          "t": " came down to see the city and the tower, which the children of men builded. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the LORD said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said, Behold, the people"
+          "t": " said, Behold, the people "
         },
         {
           "add": "is"
         },
         {
-          "t": "one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
+          "t": " one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Go to, let us go down, and there confound their language, that they may not understand one another’s speech.",
       "tokens": [
         {
-          "t": "Go to, let us go down, and there confound their language, that they may not understand one another’s speech."
+          "t": "Go to, let us go down, and there confound their language, that they may not understand one another’s speech. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.",
       "tokens": [
         {
-          "t": "So the"
+          "t": "So the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "scattered them abroad from thence upon the face of all the earth: and they left off to build the city."
+          "t": " scattered them abroad from thence upon the face of all the earth: and they left off to build the city. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.",
       "tokens": [
         {
-          "t": "Therefore is the name of it called Babel; because the"
+          "t": "Therefore is the name of it called Babel; because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "did there confound the language of all the earth: and from thence did the"
+          "t": " did there confound the language of all the earth: and from thence did the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "scatter them abroad upon the face of all the earth."
+          "t": " scatter them abroad upon the face of all the earth. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:",
       "tokens": [
         {
-          "t": "¶ These"
+          "t": "¶ These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the generations of Shem: Shem"
+          "t": " the generations of Shem: Shem "
         },
         {
           "add": "was"
         },
         {
-          "t": "an hundred years old, and begat Arphaxad two years after the flood:"
+          "t": " an hundred years old, and begat Arphaxad two years after the flood: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters.",
       "tokens": [
         {
-          "t": "And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters."
+          "t": "And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Arphaxad lived five and thirty years, and begat Salah:",
       "tokens": [
         {
-          "t": "And Arphaxad lived five and thirty years, and begat Salah:"
+          "t": "And Arphaxad lived five and thirty years, and begat Salah: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.",
       "tokens": [
         {
-          "t": "And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters."
+          "t": "And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Salah lived thirty years, and begat Eber:",
       "tokens": [
         {
-          "t": "And Salah lived thirty years, and begat Eber:"
+          "t": "And Salah lived thirty years, and begat Eber: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters.",
       "tokens": [
         {
-          "t": "And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters."
+          "t": "And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Eber lived four and thirty years, and begat Peleg:",
       "tokens": [
         {
-          "t": "And Eber lived four and thirty years, and begat Peleg:"
+          "t": "And Eber lived four and thirty years, and begat Peleg: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters.",
       "tokens": [
         {
-          "t": "And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters."
+          "t": "And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Peleg lived thirty years, and begat Reu:",
       "tokens": [
         {
-          "t": "And Peleg lived thirty years, and begat Reu:"
+          "t": "And Peleg lived thirty years, and begat Reu: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters.",
       "tokens": [
         {
-          "t": "And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters."
+          "t": "And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Reu lived two and thirty years, and begat Serug:",
       "tokens": [
         {
-          "t": "And Reu lived two and thirty years, and begat Serug:"
+          "t": "And Reu lived two and thirty years, and begat Serug: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters.",
       "tokens": [
         {
-          "t": "And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters."
+          "t": "And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Serug lived thirty years, and begat Nahor:",
       "tokens": [
         {
-          "t": "And Serug lived thirty years, and begat Nahor:"
+          "t": "And Serug lived thirty years, and begat Nahor: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And Serug lived after he begat Nahor two hundred years, and begat sons and daughters.",
       "tokens": [
         {
-          "t": "And Serug lived after he begat Nahor two hundred years, and begat sons and daughters."
+          "t": "And Serug lived after he begat Nahor two hundred years, and begat sons and daughters. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Nahor lived nine and twenty years, and begat Terah:",
       "tokens": [
         {
-          "t": "And Nahor lived nine and twenty years, and begat Terah:"
+          "t": "And Nahor lived nine and twenty years, and begat Terah: "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters.",
       "tokens": [
         {
-          "t": "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters."
+          "t": "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And Terah lived seventy years, and begat Abram, Nahor, and Haran.",
       "tokens": [
         {
-          "t": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+          "t": "And Terah lived seventy years, and begat Abram, Nahor, and Haran. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.",
       "tokens": [
         {
-          "t": "¶ Now these"
+          "t": "¶ Now these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot."
+          "t": " the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees.",
       "tokens": [
         {
-          "t": "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees."
+          "t": "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Abram and Nahor took them wives: the name of Abram’s wife was Sarai; and the name of Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.",
       "tokens": [
         {
-          "t": "And Abram and Nahor took them wives: the name of Abram’s wife"
+          "t": "And Abram and Nahor took them wives: the name of Abram’s wife "
         },
         {
           "add": "was"
         },
         {
-          "t": "Sarai; and the name of Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah."
+          "t": " Sarai; and the name of Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "But Sarai was barren; she had no child.",
       "tokens": [
         {
-          "t": "But Sarai was barren; she"
+          "t": "But Sarai was barren; she "
         },
         {
           "add": "had"
         },
         {
-          "t": "no child."
+          "t": " no child. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.",
       "tokens": [
         {
-          "t": "And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there."
+          "t": "And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And the days of Terah were two hundred and five years: and Terah died in Haran.",
       "tokens": [
         {
-          "t": "And the days of Terah were two hundred and five years: and Terah died in Haran."
+          "t": "And the days of Terah were two hundred and five years: and Terah died in Haran. "
         }
       ]
     }

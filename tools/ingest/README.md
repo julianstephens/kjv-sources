@@ -5,7 +5,7 @@ The ingest tool processes raw HTML files from the KJV Bible and converts them in
 ## Usage
 
 ```bash
-go run ./tools/ingest -book=ABBR [-verbose]
+go run ./tools/ingest [OPTIONS]
 ```
 
 ### Examples
@@ -13,26 +13,36 @@ go run ./tools/ingest -book=ABBR [-verbose]
 Process a single book:
 
 ```bash
-go run ./tools/ingest -book=PRO
-go run ./tools/ingest -book=MAT
+go run ./tools/ingest --book=PRO
+go run ./tools/ingest --book=MAT
 ```
 
 Process all books:
 
 ```bash
-go run ./tools/ingest -book=all
+go run ./tools/ingest --book=all
 ```
 
 Process all books with verbose logging to see detailed errors:
 
 ```bash
-go run ./tools/ingest -book=all -verbose
+go run ./tools/ingest --book=all --verbose
+```
+
+Generate manifest while processing:
+
+```bash
+go run ./tools/ingest --book=all --manifest
 ```
 
 ### Options
 
-- `-book` (required): Book abbreviation (e.g., GEN, PRO, MAT) or 'all' to process all books
-- `-verbose` (optional): Enable verbose logging to see detailed information about errors and processing
+- `--book` (default: "all"): Book abbreviation (e.g., GEN, PRO, MAT) or 'all' to process all books
+- `--raw-dir` (default: "raw"): Directory containing raw HTML chapter files
+- `--output-dir` (default: "canon/kjv"): Directory to write processed output files
+- `--work` (default: "KJV"): The work identifier
+- `--verbose` (default: false): Enable verbose logging to see detailed information about errors and processing
+- `--manifest` (default: false): Generate SHA256 manifest of raw files
 
 ## Supported Books
 
@@ -64,6 +74,7 @@ Each chapter is output as a JSON file with the following structure:
   "verses": [
     {
       "v": 1,
+      "plain": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
       "tokens": [
         { "t": "The" },
         { "t": "book" },
@@ -82,15 +93,40 @@ Each chapter is output as a JSON file with the following structure:
 }
 ```
 
-### Schema Version
+### Fields
 
-The schema field (`schema: 1`) is included for future compatibility and versioning of the output format.
+- `schema`: Schema version (1) for future compatibility
+- `work`: The work identifier (e.g., "KJV")
+- `osis`: Open Scripture Information Standard identifier
+- `abbr`: Book abbreviation
+- `chapter`: Chapter number
+- `verses`: Array of verse objects
+  - `v`: Verse number
+  - `plain`: Raw verse text (allows validation of parsed tokens)
+  - `tokens`: Tokenized verse content with optional markup
+    - `t`: Regular text
+    - `add`: Added words (not in original)
+    - `nd`: Divine names
+- `footnotes`: Array of footnote objects (omitted if empty)
+  - `id`: Footnote identifier
+  - `mark`: Footnote marker symbol
+  - `at.v`: Verse number the footnote references
+  - `text`: Footnote text
 
 ## Files
 
-- `main.go` - Entry point and command-line handling
+- `main.go` - Entry point and command-line handling (uses Kong framework)
 - `processor.go` - Main processing orchestration
-- `parser.go` - HTML parsing logic
+- `parser.go` - HTML parsing logic to extract verses, tokens, and footnotes
 - `validator.go` - Validation rules and checks
 - `metadata.go` - Metadata loading and book information
-- `types.go` - Type definitions for data structures
+- `processor_test.go` - Unit tests for processor functionality
+
+## Shared Types
+
+Type definitions are shared across all tools in the `tools/types` package:
+
+- `Token` - A single token in verse (text, added word, divine name)
+- `Verse` - A verse with number, plain text, and tokenized content
+- `Chapter` - A complete chapter with metadata, verses, and footnotes
+- `Footnote` - A biblical annotation/reference

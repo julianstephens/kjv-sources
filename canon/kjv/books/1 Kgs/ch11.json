@@ -7,585 +7,628 @@
   "verses": [
     {
       "v": 1,
+      "plain": "But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;",
       "tokens": [
         {
-          "t": "But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians,"
+          "t": "But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Hittites;"
+          "t": " Hittites; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Of the nations concerning which the LORD said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods: Solomon clave unto these in love.",
       "tokens": [
         {
-          "t": "Of the nations"
+          "t": "Of the nations "
         },
         {
           "add": "concerning"
         },
         {
-          "t": "which the"
+          "t": " which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you:"
+          "t": " said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: "
         },
         {
           "add": "for"
         },
         {
-          "t": "surely they will turn away your heart after their gods: Solomon clave unto these in love."
+          "t": " surely they will turn away your heart after their gods: Solomon clave unto these in love. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.",
       "tokens": [
         {
-          "t": "And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart."
+          "t": "And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the LORD his God, as was the heart of David his father.",
       "tokens": [
         {
-          "t": "For it came to pass, when Solomon was old,"
+          "t": "For it came to pass, when Solomon was old, "
         },
         {
           "add": "that"
         },
         {
-          "t": "his wives turned away his heart after other gods: and his heart was not perfect with the"
+          "t": " his wives turned away his heart after other gods: and his heart was not perfect with the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God, as"
+          "t": " his God, as "
         },
         {
           "add": "was"
         },
         {
-          "t": "the heart of David his father."
+          "t": " the heart of David his father. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.",
       "tokens": [
         {
-          "t": "For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites."
+          "t": "For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Solomon did evil in the sight of the LORD, and went not fully after the LORD, as did David his father.",
       "tokens": [
         {
-          "t": "And Solomon did evil in the sight of the"
+          "t": "And Solomon did evil in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and went not fully after the"
+          "t": ", and went not fully after the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", as"
+          "t": ", as "
         },
         {
           "add": "did"
         },
         {
-          "t": "David his father."
+          "t": " David his father. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Then did Solomon build an high place for Chemosh, the abomination of Moab, in the hill that is before Jerusalem, and for Molech, the abomination of the children of Ammon.",
       "tokens": [
         {
-          "t": "Then did Solomon build an high place for Chemosh, the abomination of Moab, in the hill that"
+          "t": "Then did Solomon build an high place for Chemosh, the abomination of Moab, in the hill that "
         },
         {
           "add": "is"
         },
         {
-          "t": "before Jerusalem, and for Molech, the abomination of the children of Ammon."
+          "t": " before Jerusalem, and for Molech, the abomination of the children of Ammon. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods.",
       "tokens": [
         {
-          "t": "And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods."
+          "t": "And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And the LORD was angry with Solomon, because his heart was turned from the LORD God of Israel, which had appeared unto him twice,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was angry with Solomon, because his heart was turned from the"
+          "t": " was angry with Solomon, because his heart was turned from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, which had appeared unto him twice,"
+          "t": " God of Israel, which had appeared unto him twice, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the LORD commanded.",
       "tokens": [
         {
-          "t": "And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the"
+          "t": "And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded."
+          "t": " commanded. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Wherefore the LORD said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant.",
       "tokens": [
         {
-          "t": "Wherefore the"
+          "t": "Wherefore the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant."
+          "t": " said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Notwithstanding in thy days I will not do it for David thy father’s sake: but I will rend it out of the hand of thy son.",
       "tokens": [
         {
-          "t": "Notwithstanding in thy days I will not do it for David thy father’s sake:"
+          "t": "Notwithstanding in thy days I will not do it for David thy father’s sake: "
         },
         {
           "add": "but"
         },
         {
-          "t": "I will rend it out of the hand of thy son."
+          "t": " I will rend it out of the hand of thy son. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Howbeit I will not rend away all the kingdom; but will give one tribe to thy son for David my servant’s sake, and for Jerusalem’s sake which I have chosen.",
       "tokens": [
         {
-          "t": "Howbeit I will not rend away all the kingdom;"
+          "t": "Howbeit I will not rend away all the kingdom; "
         },
         {
           "add": "but"
         },
         {
-          "t": "will give one tribe to thy son for David my servant’s sake, and for Jerusalem’s sake which I have chosen."
+          "t": " will give one tribe to thy son for David my servant’s sake, and for Jerusalem’s sake which I have chosen. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And the LORD stirred up an adversary unto Solomon, Hadad the Edomite: he was of the king’s seed in Edom.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "stirred up an adversary unto Solomon, Hadad the Edomite: he"
+          "t": " stirred up an adversary unto Solomon, Hadad the Edomite: he "
         },
         {
           "add": "was"
         },
         {
-          "t": "of the king’s seed in Edom."
+          "t": " of the king’s seed in Edom. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, after he had smitten every male in Edom;",
       "tokens": [
         {
-          "t": "For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, after he had smitten every male in Edom;"
+          "t": "For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, after he had smitten every male in Edom; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "(For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)",
       "tokens": [
         {
-          "t": "(For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)"
+          "t": "(For six months did Joab remain there with all Israel, until he had cut off every male in Edom:) "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "That Hadad fled, he and certain Edomites of his father’s servants with him, to go into Egypt; Hadad being yet a little child.",
       "tokens": [
         {
-          "t": "That Hadad fled, he and certain Edomites of his father’s servants with him, to go into Egypt; Hadad"
+          "t": "That Hadad fled, he and certain Edomites of his father’s servants with him, to go into Egypt; Hadad "
         },
         {
           "add": "being"
         },
         {
-          "t": "yet a little child."
+          "t": " yet a little child. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land.",
       "tokens": [
         {
-          "t": "And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land."
+          "t": "And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.",
       "tokens": [
         {
-          "t": "And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen."
+          "t": "And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh’s house: and Genubath was in Pharaoh’s household among the sons of Pharaoh.",
       "tokens": [
         {
-          "t": "And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh’s house: and Genubath was in Pharaoh’s household among the sons of Pharaoh."
+          "t": "And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh’s house: and Genubath was in Pharaoh’s household among the sons of Pharaoh. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.",
       "tokens": [
         {
-          "t": "And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country."
+          "t": "And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit let me go in any wise.",
       "tokens": [
         {
-          "t": "Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit let me go in any wise."
+          "t": "Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit let me go in any wise. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ And God stirred him up another adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:",
       "tokens": [
         {
-          "t": "¶ And God stirred him up"
+          "t": "¶ And God stirred him up "
         },
         {
           "add": "another"
         },
         {
-          "t": "adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:"
+          "t": " adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And he gathered men unto him, and became captain over a band, when David slew them of Zobah: and they went to Damascus, and dwelt therein, and reigned in Damascus.",
       "tokens": [
         {
-          "t": "And he gathered men unto him, and became captain over a band, when David slew them"
+          "t": "And he gathered men unto him, and became captain over a band, when David slew them "
         },
         {
           "add": "of Zobah:"
         },
         {
-          "t": "and they went to Damascus, and dwelt therein, and reigned in Damascus."
+          "t": " and they went to Damascus, and dwelt therein, and reigned in Damascus. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad did: and he abhorred Israel, and reigned over Syria.",
       "tokens": [
         {
-          "t": "And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad"
+          "t": "And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad "
         },
         {
           "add": "did:"
         },
         {
-          "t": "and he abhorred Israel, and reigned over Syria."
+          "t": " and he abhorred Israel, and reigned over Syria. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon’s servant, whose mother’s name was Zeruah, a widow woman, even he lifted up his hand against the king.",
       "tokens": [
         {
-          "t": "¶ And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon’s servant, whose mother’s name"
+          "t": "¶ And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon’s servant, whose mother’s name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Zeruah, a widow woman, even he lifted up"
+          "t": " Zeruah, a widow woman, even he lifted up "
         },
         {
           "add": "his"
         },
         {
-          "t": "hand against the king."
+          "t": " hand against the king. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And this was the cause that he lifted up his hand against the king: Solomon built Millo, and repaired the breaches of the city of David his father.",
       "tokens": [
         {
-          "t": "And this"
+          "t": "And this "
         },
         {
           "add": "was"
         },
         {
-          "t": "the cause that he lifted up"
+          "t": " the cause that he lifted up "
         },
         {
           "add": "his"
         },
         {
-          "t": "hand against the king: Solomon built Millo,"
+          "t": " hand against the king: Solomon built Millo, "
         },
         {
           "add": "and"
         },
         {
-          "t": "repaired the breaches of the city of David his father."
+          "t": " repaired the breaches of the city of David his father. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And the man Jeroboam was a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.",
       "tokens": [
         {
-          "t": "And the man Jeroboam"
+          "t": "And the man Jeroboam "
         },
         {
           "add": "was"
         },
         {
-          "t": "a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph."
+          "t": " a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two were alone in the field:",
       "tokens": [
         {
-          "t": "And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two"
+          "t": "And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two "
         },
         {
           "add": "were"
         },
         {
-          "t": "alone in the field:"
+          "t": " alone in the field: "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And Ahijah caught the new garment that was on him, and rent it in twelve pieces:",
       "tokens": [
         {
-          "t": "And Ahijah caught the new garment that"
+          "t": "And Ahijah caught the new garment that "
         },
         {
           "add": "was"
         },
         {
-          "t": "on him, and rent it"
+          "t": " on him, and rent it "
         },
         {
           "add": "in"
         },
         {
-          "t": "twelve pieces:"
+          "t": " twelve pieces: "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And he said to Jeroboam, Take thee ten pieces: for thus saith the LORD, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:",
       "tokens": [
         {
-          "t": "And he said to Jeroboam, Take thee ten pieces: for thus saith the"
+          "t": "And he said to Jeroboam, Take thee ten pieces: for thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:"
+          "t": ", the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee: "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "(But he shall have one tribe for my servant David’s sake, and for Jerusalem’s sake, the city which I have chosen out of all the tribes of Israel:)",
       "tokens": [
         {
-          "t": "(But he shall have one tribe for my servant David’s sake, and for Jerusalem’s sake, the city which I have chosen out of all the tribes of Israel:)"
+          "t": "(But he shall have one tribe for my servant David’s sake, and for Jerusalem’s sake, the city which I have chosen out of all the tribes of Israel:) "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do that which is right in mine eyes, and to keep my statutes and my judgments, as did David his father.",
       "tokens": [
         {
-          "t": "Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do"
+          "t": "Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "right in mine eyes, and"
+          "t": " right in mine eyes, and "
         },
         {
           "add": "to keep"
         },
         {
-          "t": "my statutes and my judgments, as"
+          "t": " my statutes and my judgments, as "
         },
         {
           "add": "did"
         },
         {
-          "t": "David his father."
+          "t": " David his father. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant’s sake, whom I chose, because he kept my commandments and my statutes:",
       "tokens": [
         {
-          "t": "Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant’s sake, whom I chose, because he kept my commandments and my statutes:"
+          "t": "Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant’s sake, whom I chose, because he kept my commandments and my statutes: "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "But I will take the kingdom out of his son’s hand, and will give it unto thee, even ten tribes.",
       "tokens": [
         {
-          "t": "But I will take the kingdom out of his son’s hand, and will give it unto thee,"
+          "t": "But I will take the kingdom out of his son’s hand, and will give it unto thee, "
         },
         {
           "add": "even"
         },
         {
-          "t": "ten tribes."
+          "t": " ten tribes. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there.",
       "tokens": [
         {
-          "t": "And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there."
+          "t": "And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And I will take thee, and thou shalt reign according to all that thy soul desireth, and shalt be king over Israel.",
       "tokens": [
         {
-          "t": "And I will take thee, and thou shalt reign according to all that thy soul desireth, and shalt be king over Israel."
+          "t": "And I will take thee, and thou shalt reign according to all that thy soul desireth, and shalt be king over Israel. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do that is right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee.",
       "tokens": [
         {
-          "t": "And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do"
+          "t": "And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do "
         },
         {
           "add": "that is"
         },
         {
-          "t": "right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee."
+          "t": " right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And I will for this afflict the seed of David, but not for ever.",
       "tokens": [
         {
-          "t": "And I will for this afflict the seed of David, but not for ever."
+          "t": "And I will for this afflict the seed of David, but not for ever. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon.",
       "tokens": [
         {
-          "t": "Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon."
+          "t": "Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "¶ And the rest of the acts of Solomon, and all that he did, and his wisdom, are they not written in the book of the acts of Solomon?",
       "tokens": [
         {
-          "t": "¶ And the rest of the acts of Solomon, and all that he did, and his wisdom,"
+          "t": "¶ And the rest of the acts of Solomon, and all that he did, and his wisdom, "
         },
         {
           "add": "are"
         },
         {
-          "t": "they not written in the book of the acts of Solomon?"
+          "t": " they not written in the book of the acts of Solomon? "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And the time that Solomon reigned in Jerusalem over all Israel was forty years.",
       "tokens": [
         {
-          "t": "And the time that Solomon reigned in Jerusalem over all Israel"
+          "t": "And the time that Solomon reigned in Jerusalem over all Israel "
         },
         {
           "add": "was"
         },
         {
-          "t": "forty years."
+          "t": " forty years. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.",
       "tokens": [
         {
-          "t": "And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead."
+          "t": "And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead. "
         }
       ]
     }

@@ -7,388 +7,421 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,",
       "tokens": [
         {
-          "t": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,"
+          "t": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "That I have great heaviness and continual sorrow in my heart.",
       "tokens": [
         {
-          "t": "That I have great heaviness and continual sorrow in my heart."
+          "t": "That I have great heaviness and continual sorrow in my heart. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:",
       "tokens": [
         {
-          "t": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:"
+          "t": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;",
       "tokens": [
         {
-          "t": "Who are Israelites; to whom"
+          "t": "Who are Israelites; to whom "
         },
         {
           "add": "pertaineth"
         },
         {
-          "t": "the adoption, and the glory, and the covenants, and the giving of the law, and the service"
+          "t": " the adoption, and the glory, and the covenants, and the giving of the law, and the service "
         },
         {
           "add": "of God"
         },
         {
-          "t": ", and the promises;"
+          "t": ", and the promises; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.",
       "tokens": [
         {
-          "t": "Whose"
+          "t": "Whose "
         },
         {
           "add": "are"
         },
         {
-          "t": "the fathers, and of whom as concerning the flesh Christ"
+          "t": " the fathers, and of whom as concerning the flesh Christ "
         },
         {
           "add": "came"
         },
         {
-          "t": ", who is over all, God blessed for ever. Amen."
+          "t": ", who is over all, God blessed for ever. Amen. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:",
       "tokens": [
         {
-          "t": "Not as though the word of God hath taken none effect. For they"
+          "t": "Not as though the word of God hath taken none effect. For they "
         },
         {
           "add": "are"
         },
         {
-          "t": "not all Israel, which are of Israel:"
+          "t": " not all Israel, which are of Israel: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called.",
       "tokens": [
         {
-          "t": "Neither, because they are the seed of Abraham,"
+          "t": "Neither, because they are the seed of Abraham, "
         },
         {
           "add": "are they"
         },
         {
-          "t": "all children: but, In Isaac shall thy seed be called."
+          "t": " all children: but, In Isaac shall thy seed be called. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.",
       "tokens": [
         {
-          "t": "That is, They which are the children of the flesh, these"
+          "t": "That is, They which are the children of the flesh, these "
         },
         {
           "add": "are"
         },
         {
-          "t": "not the children of God: but the children of the promise are counted for the seed."
+          "t": " not the children of God: but the children of the promise are counted for the seed. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For this is the word of promise, At this time will I come, and Sara shall have a son.",
       "tokens": [
         {
-          "t": "For this"
+          "t": "For this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the word of promise, At this time will I come, and Sara shall have a son."
+          "t": " the word of promise, At this time will I come, and Sara shall have a son. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And not only this; but when Rebecca also had conceived by one, even by our father Isaac;",
       "tokens": [
         {
-          "t": "And not only"
+          "t": "And not only "
         },
         {
           "add": "this"
         },
         {
-          "t": "; but when Rebecca also had conceived by one,"
+          "t": "; but when Rebecca also had conceived by one, "
         },
         {
           "add": "even"
         },
         {
-          "t": "by our father Isaac;"
+          "t": " by our father Isaac; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)",
       "tokens": [
         {
-          "t": "(For"
+          "t": "(For "
         },
         {
           "add": "the children"
         },
         {
-          "t": "being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)"
+          "t": " being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "It was said unto her, The elder shall serve the younger.",
       "tokens": [
         {
-          "t": "It was said unto her, The elder shall serve the younger."
+          "t": "It was said unto her, The elder shall serve the younger. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "As it is written, Jacob have I loved, but Esau have I hated.",
       "tokens": [
         {
-          "t": "As it is written, Jacob have I loved, but Esau have I hated."
+          "t": "As it is written, Jacob have I loved, but Esau have I hated. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "What shall we say then? Is there unrighteousness with God? God forbid.",
       "tokens": [
         {
-          "t": "What shall we say then?"
+          "t": "What shall we say then? "
         },
         {
           "add": "Is there"
         },
         {
-          "t": "unrighteousness with God? God forbid."
+          "t": " unrighteousness with God? God forbid. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.",
       "tokens": [
         {
-          "t": "For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion."
+          "t": "For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.",
       "tokens": [
         {
-          "t": "So then"
+          "t": "So then "
         },
         {
           "add": "it is"
         },
         {
-          "t": "not of him that willeth, nor of him that runneth, but of God that sheweth mercy."
+          "t": " not of him that willeth, nor of him that runneth, but of God that sheweth mercy. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.",
       "tokens": [
         {
-          "t": "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth."
+          "t": "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.",
       "tokens": [
         {
-          "t": "Therefore hath he mercy on whom he will"
+          "t": "Therefore hath he mercy on whom he will "
         },
         {
           "add": "have mercy"
         },
         {
-          "t": ", and whom he will he hardeneth."
+          "t": ", and whom he will he hardeneth. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?",
       "tokens": [
         {
-          "t": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?"
+          "t": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?",
       "tokens": [
         {
-          "t": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed"
+          "t": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed "
         },
         {
           "add": "it"
         },
         {
-          "t": ", Why hast thou made me thus?"
+          "t": ", Why hast thou made me thus? "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?",
       "tokens": [
         {
-          "t": "Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?"
+          "t": "Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:",
       "tokens": [
         {
           "add": "What"
         },
         {
-          "t": "if God, willing to shew"
+          "t": " if God, willing to shew "
         },
         {
           "add": "his"
         },
         {
-          "t": "wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:"
+          "t": " wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,",
       "tokens": [
         {
-          "t": "And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,"
+          "t": "And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory, "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Even us, whom he hath called, not of the Jews only, but also of the Gentiles?",
       "tokens": [
         {
-          "t": "Even us, whom he hath called, not of the Jews only, but also of the Gentiles?"
+          "t": "Even us, whom he hath called, not of the Jews only, but also of the Gentiles? "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.",
       "tokens": [
         {
-          "t": "As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved."
+          "t": "As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.",
       "tokens": [
         {
-          "t": "And it shall come to pass,"
+          "t": "And it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "in the place where it was said unto them, Ye"
+          "t": " in the place where it was said unto them, Ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "not my people; there shall they be called the children of the living God."
+          "t": " not my people; there shall they be called the children of the living God. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:",
       "tokens": [
         {
-          "t": "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:"
+          "t": "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved: "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth.",
       "tokens": [
         {
-          "t": "For he will finish the work, and cut"
+          "t": "For he will finish the work, and cut "
         },
         {
           "add": "it"
         },
         {
-          "t": "short in righteousness: because a short work will the Lord make upon the earth."
+          "t": " short in righteousness: because a short work will the Lord make upon the earth. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.",
       "tokens": [
         {
-          "t": "And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha."
+          "t": "And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.",
       "tokens": [
         {
-          "t": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith."
+          "t": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.",
       "tokens": [
         {
-          "t": "But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness."
+          "t": "But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;",
       "tokens": [
         {
-          "t": "Wherefore? Because"
+          "t": "Wherefore? Because "
         },
         {
           "add": "they sought it"
         },
         {
-          "t": "not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;"
+          "t": " not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.",
       "tokens": [
         {
-          "t": "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed."
+          "t": "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. "
         }
       ]
     }

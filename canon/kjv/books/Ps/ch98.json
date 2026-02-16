@@ -1,0 +1,150 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 98,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+      "tokens": [
+        {
+          "t": "O sing unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.",
+      "tokens": [
+        {
+          "t": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.",
+      "tokens": [
+        {
+          "t": "Make a joyful noise unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", all the earth: make a loud noise, and rejoice, and sing praise. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Sing unto the LORD with the harp; with the harp, and the voice of a psalm.",
+      "tokens": [
+        {
+          "t": "Sing unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " with the harp; with the harp, and the voice of a psalm. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "With trumpets and sound of cornet make a joyful noise before the LORD, the King.",
+      "tokens": [
+        {
+          "t": "With trumpets and sound of cornet make a joyful noise before the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", the King. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.",
+      "tokens": [
+        {
+          "t": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Let the floods clap their hands: let the hills be joyful together",
+      "tokens": [
+        {
+          "t": "Let the floods clap "
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": " hands: let the hills be joyful together "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.",
+      "tokens": [
+        {
+          "t": "Before the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "openly…: or, revealed"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 7
+      },
+      "text": "the fulness…: or, all it containeth"
+    }
+  ]
+}

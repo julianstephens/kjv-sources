@@ -7,338 +7,367 @@
   "verses": [
     {
       "v": 1,
+      "plain": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?",
       "tokens": [
         {
-          "t": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?"
+          "t": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?",
       "tokens": [
         {
-          "t": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?"
+          "t": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?",
       "tokens": [
         {
-          "t": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?"
+          "t": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Have ye suffered so many things in vain? if it be yet in vain.",
       "tokens": [
         {
-          "t": "Have ye suffered so many things in vain? if"
+          "t": "Have ye suffered so many things in vain? if "
         },
         {
           "add": "it be"
         },
         {
-          "t": "yet in vain."
+          "t": " yet in vain. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?",
       "tokens": [
         {
-          "t": "He therefore that ministereth to you the Spirit, and worketh miracles among you,"
+          "t": "He therefore that ministereth to you the Spirit, and worketh miracles among you, "
         },
         {
           "add": "doeth he it"
         },
         {
-          "t": "by the works of the law, or by the hearing of faith?"
+          "t": " by the works of the law, or by the hearing of faith? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Even as Abraham believed God, and it was accounted to him for righteousness.",
       "tokens": [
         {
-          "t": "Even as Abraham believed God, and it was accounted to him for righteousness."
+          "t": "Even as Abraham believed God, and it was accounted to him for righteousness. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Know ye therefore that they which are of faith, the same are the children of Abraham.",
       "tokens": [
         {
-          "t": "Know ye therefore that they which are of faith, the same are the children of Abraham."
+          "t": "Know ye therefore that they which are of faith, the same are the children of Abraham. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.",
       "tokens": [
         {
-          "t": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham,"
+          "t": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", In thee shall all nations be blessed."
+          "t": ", In thee shall all nations be blessed. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "So then they which be of faith are blessed with faithful Abraham.",
       "tokens": [
         {
-          "t": "So then they which be of faith are blessed with faithful Abraham."
+          "t": "So then they which be of faith are blessed with faithful Abraham. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.",
       "tokens": [
         {
-          "t": "For as many as are of the works of the law are under the curse: for it is written, Cursed"
+          "t": "For as many as are of the works of the law are under the curse: for it is written, Cursed "
         },
         {
           "add": "is"
         },
         {
-          "t": "every one that continueth not in all things which are written in the book of the law to do them."
+          "t": " every one that continueth not in all things which are written in the book of the law to do them. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.",
       "tokens": [
         {
-          "t": "But that no man is justified by the law in the sight of God,"
+          "t": "But that no man is justified by the law in the sight of God, "
         },
         {
           "add": "it is"
         },
         {
-          "t": "evident: for, The just shall live by faith."
+          "t": " evident: for, The just shall live by faith. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the law is not of faith: but, The man that doeth them shall live in them.",
       "tokens": [
         {
-          "t": "And the law is not of faith: but, The man that doeth them shall live in them."
+          "t": "And the law is not of faith: but, The man that doeth them shall live in them. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:",
       "tokens": [
         {
-          "t": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed"
+          "t": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed "
         },
         {
           "add": "is"
         },
         {
-          "t": "every one that hangeth on a tree:"
+          "t": " every one that hangeth on a tree: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.",
       "tokens": [
         {
-          "t": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith."
+          "t": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Brethren, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.",
       "tokens": [
         {
-          "t": "Brethren, I speak after the manner of men; Though"
+          "t": "Brethren, I speak after the manner of men; Though "
         },
         {
           "add": "it be"
         },
         {
-          "t": "but a man’s covenant, yet"
+          "t": " but a man’s covenant, yet "
         },
         {
           "add": "if it be"
         },
         {
-          "t": "confirmed, no man disannulleth, or addeth thereto."
+          "t": " confirmed, no man disannulleth, or addeth thereto. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.",
       "tokens": [
         {
-          "t": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ."
+          "t": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.",
       "tokens": [
         {
-          "t": "And this I say,"
+          "t": "And this I say, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect."
+          "t": " the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.",
       "tokens": [
         {
-          "t": "For if the inheritance"
+          "t": "For if the inheritance "
         },
         {
           "add": "be"
         },
         {
-          "t": "of the law,"
+          "t": " of the law, "
         },
         {
           "add": "it is"
         },
         {
-          "t": "no more of promise: but God gave"
+          "t": " no more of promise: but God gave "
         },
         {
           "add": "it"
         },
         {
-          "t": "to Abraham by promise."
+          "t": " to Abraham by promise. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.",
       "tokens": [
         {
-          "t": "Wherefore then"
+          "t": "Wherefore then "
         },
         {
           "add": "serveth"
         },
         {
-          "t": "the law? It was added because of transgressions, till the seed should come to whom the promise was made;"
+          "t": " the law? It was added because of transgressions, till the seed should come to whom the promise was made; "
         },
         {
           "add": "and it was"
         },
         {
-          "t": "ordained by angels in the hand of a mediator."
+          "t": " ordained by angels in the hand of a mediator. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Now a mediator is not a mediator of one, but God is one.",
       "tokens": [
         {
-          "t": "Now a mediator is not"
+          "t": "Now a mediator is not "
         },
         {
           "add": "a mediator"
         },
         {
-          "t": "of one, but God is one."
+          "t": " of one, but God is one. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.",
       "tokens": [
         {
           "add": "Is"
         },
         {
-          "t": "the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law."
+          "t": " the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.",
       "tokens": [
         {
-          "t": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe."
+          "t": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.",
       "tokens": [
         {
-          "t": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed."
+          "t": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.",
       "tokens": [
         {
-          "t": "Wherefore the law was our schoolmaster"
+          "t": "Wherefore the law was our schoolmaster "
         },
         {
           "add": "to bring us"
         },
         {
-          "t": "unto Christ, that we might be justified by faith."
+          "t": " unto Christ, that we might be justified by faith. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But after that faith is come, we are no longer under a schoolmaster.",
       "tokens": [
         {
-          "t": "But after that faith is come, we are no longer under a schoolmaster."
+          "t": "But after that faith is come, we are no longer under a schoolmaster. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "For ye are all the children of God by faith in Christ Jesus.",
       "tokens": [
         {
-          "t": "For ye are all the children of God by faith in Christ Jesus."
+          "t": "For ye are all the children of God by faith in Christ Jesus. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "For as many of you as have been baptized into Christ have put on Christ.",
       "tokens": [
         {
-          "t": "For as many of you as have been baptized into Christ have put on Christ."
+          "t": "For as many of you as have been baptized into Christ have put on Christ. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.",
       "tokens": [
         {
-          "t": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus."
+          "t": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to the promise.",
       "tokens": [
         {
-          "t": "And if ye"
+          "t": "And if ye "
         },
         {
           "add": "be"
         },
         {
-          "t": "Christ’s, then are ye Abraham’s seed, and heirs according to the promise."
+          "t": " Christ’s, then are ye Abraham’s seed, and heirs according to the promise. "
         }
       ]
     }

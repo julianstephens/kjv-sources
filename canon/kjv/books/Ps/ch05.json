@@ -1,0 +1,285 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 5,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Give ear to my words, O LORD, consider my meditation.",
+      "tokens": [
+        {
+          "t": "Give ear to my words, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", consider my meditation. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
+      "tokens": [
+        {
+          "t": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.",
+      "tokens": [
+        {
+          "t": "My voice shalt thou hear in the morning, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; in the morning will I direct "
+        },
+        {
+          "add": "my prayer"
+        },
+        {
+          "t": " unto thee, and will look up. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.",
+      "tokens": [
+        {
+          "t": "For thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " not a God that hath pleasure in wickedness: neither shall evil dwell with thee. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.",
+      "tokens": [
+        {
+          "t": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.",
+      "tokens": [
+        {
+          "t": "Thou shalt destroy them that speak leasing: the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will abhor the bloody and deceitful man. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.",
+      "tokens": [
+        {
+          "t": "But as for me, I will come "
+        },
+        {
+          "add": "into"
+        },
+        {
+          "t": " thy house in the multitude of thy mercy: "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " in thy fear will I worship toward thy holy temple. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Lead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face.",
+      "tokens": [
+        {
+          "t": "Lead me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", in thy righteousness because of mine enemies; make thy way straight before my face. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.",
+      "tokens": [
+        {
+          "t": "For "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " no faithfulness in their mouth; their inward part "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " very wickedness; their throat "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " an open sepulchre; they flatter with their tongue. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.",
+      "tokens": [
+        {
+          "t": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.",
+      "tokens": [
+        {
+          "t": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield.",
+      "tokens": [
+        {
+          "t": "For thou, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", wilt bless the righteous; with favour wilt thou compass him as "
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": " a shield. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 5
+      },
+      "text": "in…: Heb. before thine eyes"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "bloody…: Heb. man of bloods and deceit"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 7
+      },
+      "text": "thy holy…: Heb. the temple of thy holiness"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 8
+      },
+      "text": "mine…: Heb. those which observe me"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "faithfulness: or, stedfastness"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 9
+      },
+      "text": "their mouth: Heb. his mouth, that is, the mouth of any of them"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 9
+      },
+      "text": "very…: Heb. wickednesses"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 10
+      },
+      "text": "Destroy…: or, Make them guilty"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 10
+      },
+      "text": "by…: or, from their counsels"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 11
+      },
+      "text": "defendest…: Heb. coverest over, or, protectest them"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 12
+      },
+      "text": "compass: Heb. crown"
+    }
+  ]
+}

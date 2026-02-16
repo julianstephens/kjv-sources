@@ -7,520 +7,556 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The preparations of the heart in man, and the answer of the tongue, is from the LORD.",
       "tokens": [
         {
-          "t": "The preparations of the heart in man, and the answer of the tongue,"
+          "t": "The preparations of the heart in man, and the answer of the tongue, "
         },
         {
           "add": "is"
         },
         {
-          "t": "from the"
+          "t": " from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "All the ways of a man are clean in his own eyes; but the LORD weigheth the spirits.",
       "tokens": [
         {
-          "t": "All the ways of a man"
+          "t": "All the ways of a man "
         },
         {
           "add": "are"
         },
         {
-          "t": "clean in his own eyes; but the"
+          "t": " clean in his own eyes; but the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "weigheth the spirits."
+          "t": " weigheth the spirits. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Commit thy works unto the LORD, and thy thoughts shall be established.",
       "tokens": [
         {
-          "t": "Commit thy works unto the"
+          "t": "Commit thy works unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and thy thoughts shall be established."
+          "t": ", and thy thoughts shall be established. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The LORD hath made all things for himself: yea, even the wicked for the day of evil.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath made all"
+          "t": " hath made all "
         },
         {
           "add": "things"
         },
         {
-          "t": "for himself: yea, even the wicked for the day of evil."
+          "t": " for himself: yea, even the wicked for the day of evil. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Every one that is proud in heart is an abomination to the LORD: though hand join in hand, he shall not be unpunished.",
       "tokens": [
         {
-          "t": "Every one"
+          "t": "Every one "
         },
         {
           "add": "that is"
         },
         {
-          "t": "proud in heart"
+          "t": " proud in heart "
         },
         {
           "add": "is"
         },
         {
-          "t": "an abomination to the"
+          "t": " an abomination to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         },
         {
           "add": "though"
         },
         {
-          "t": "hand"
+          "t": " hand "
         },
         {
           "add": "join"
         },
         {
-          "t": "in hand, he shall not be unpunished."
+          "t": " in hand, he shall not be unpunished. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "By mercy and truth iniquity is purged: and by the fear of the LORD men depart from evil.",
       "tokens": [
         {
-          "t": "By mercy and truth iniquity is purged: and by the fear of the"
+          "t": "By mercy and truth iniquity is purged: and by the fear of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "men"
         },
         {
-          "t": "depart from evil."
+          "t": " depart from evil. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "When a man’s ways please the LORD, he maketh even his enemies to be at peace with him.",
       "tokens": [
         {
-          "t": "When a man’s ways please the"
+          "t": "When a man’s ways please the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", he maketh even his enemies to be at peace with him."
+          "t": ", he maketh even his enemies to be at peace with him. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Better is a little with righteousness than great revenues without right.",
       "tokens": [
         {
-          "t": "Better"
+          "t": "Better "
         },
         {
           "add": "is"
         },
         {
-          "t": "a little with righteousness than great revenues without right."
+          "t": " a little with righteousness than great revenues without right. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "A man’s heart deviseth his way: but the LORD directeth his steps.",
       "tokens": [
         {
-          "t": "A man’s heart deviseth his way: but the"
+          "t": "A man’s heart deviseth his way: but the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "directeth his steps."
+          "t": " directeth his steps. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "A divine sentence is in the lips of the king: his mouth transgresseth not in judgment.",
       "tokens": [
         {
-          "t": "A divine sentence"
+          "t": "A divine sentence "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the lips of the king: his mouth transgresseth not in judgment."
+          "t": " in the lips of the king: his mouth transgresseth not in judgment. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "A just weight and balance are the LORD’s: all the weights of the bag are his work.",
       "tokens": [
         {
-          "t": "A just weight and balance"
+          "t": "A just weight and balance "
         },
         {
           "add": "are"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": ": all the weights of the bag"
+          "t": ": all the weights of the bag "
         },
         {
           "add": "are"
         },
         {
-          "t": "his work."
+          "t": " his work. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "It is an abomination to kings to commit wickedness: for the throne is established by righteousness.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "an abomination to kings to commit wickedness: for the throne is established by righteousness."
+          "t": " an abomination to kings to commit wickedness: for the throne is established by righteousness. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Righteous lips are the delight of kings; and they love him that speaketh right.",
       "tokens": [
         {
-          "t": "Righteous lips"
+          "t": "Righteous lips "
         },
         {
           "add": "are"
         },
         {
-          "t": "the delight of kings; and they love him that speaketh right."
+          "t": " the delight of kings; and they love him that speaketh right. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The wrath of a king is as messengers of death: but a wise man will pacify it.",
       "tokens": [
         {
-          "t": "The wrath of a king"
+          "t": "The wrath of a king "
         },
         {
           "add": "is as"
         },
         {
-          "t": "messengers of death: but a wise man will pacify it."
+          "t": " messengers of death: but a wise man will pacify it. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "In the light of the king’s countenance is life; and his favour is as a cloud of the latter rain.",
       "tokens": [
         {
-          "t": "In the light of the king’s countenance"
+          "t": "In the light of the king’s countenance "
         },
         {
           "add": "is"
         },
         {
-          "t": "life; and his favour"
+          "t": " life; and his favour "
         },
         {
           "add": "is"
         },
         {
-          "t": "as a cloud of the latter rain."
+          "t": " as a cloud of the latter rain. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!",
       "tokens": [
         {
-          "t": "How much better"
+          "t": "How much better "
         },
         {
           "add": "is it"
         },
         {
-          "t": "to get wisdom than gold! and to get understanding rather to be chosen than silver!"
+          "t": " to get wisdom than gold! and to get understanding rather to be chosen than silver! "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul.",
       "tokens": [
         {
-          "t": "The highway of the upright"
+          "t": "The highway of the upright "
         },
         {
           "add": "is"
         },
         {
-          "t": "to depart from evil: he that keepeth his way preserveth his soul."
+          "t": " to depart from evil: he that keepeth his way preserveth his soul. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Pride goeth before destruction, and an haughty spirit before a fall.",
       "tokens": [
         {
-          "t": "Pride"
+          "t": "Pride "
         },
         {
           "add": "goeth"
         },
         {
-          "t": "before destruction, and an haughty spirit before a fall."
+          "t": " before destruction, and an haughty spirit before a fall. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Better it is to be of an humble spirit with the lowly, than to divide the spoil with the proud.",
       "tokens": [
         {
-          "t": "Better"
+          "t": "Better "
         },
         {
           "add": "it is to be"
         },
         {
-          "t": "of an humble spirit with the lowly, than to divide the spoil with the proud."
+          "t": " of an humble spirit with the lowly, than to divide the spoil with the proud. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he.",
       "tokens": [
         {
-          "t": "He that handleth a matter wisely shall find good: and whoso trusteth in the"
+          "t": "He that handleth a matter wisely shall find good: and whoso trusteth in the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", happy"
+          "t": ", happy "
         },
         {
           "add": "is"
         },
         {
-          "t": "he."
+          "t": " he. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.",
       "tokens": [
         {
-          "t": "The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning."
+          "t": "The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Understanding is a wellspring of life unto him that hath it: but the instruction of fools is folly.",
       "tokens": [
         {
-          "t": "Understanding"
+          "t": "Understanding "
         },
         {
           "add": "is"
         },
         {
-          "t": "a wellspring of life unto him that hath it: but the instruction of fools"
+          "t": " a wellspring of life unto him that hath it: but the instruction of fools "
         },
         {
           "add": "is"
         },
         {
-          "t": "folly."
+          "t": " folly. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The heart of the wise teacheth his mouth, and addeth learning to his lips.",
       "tokens": [
         {
-          "t": "The heart of the wise teacheth his mouth, and addeth learning to his lips."
+          "t": "The heart of the wise teacheth his mouth, and addeth learning to his lips. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.",
       "tokens": [
         {
-          "t": "Pleasant words"
+          "t": "Pleasant words "
         },
         {
           "add": "are as"
         },
         {
-          "t": "an honeycomb, sweet to the soul, and health to the bones."
+          "t": " an honeycomb, sweet to the soul, and health to the bones. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "There is a way that seemeth right unto a man, but the end thereof are the ways of death.",
       "tokens": [
         {
-          "t": "There is a way that seemeth right unto a man, but the end thereof"
+          "t": "There is a way that seemeth right unto a man, but the end thereof "
         },
         {
           "add": "are"
         },
         {
-          "t": "the ways of death."
+          "t": " the ways of death. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "He that laboureth laboureth for himself; for his mouth craveth it of him.",
       "tokens": [
         {
-          "t": "He that laboureth laboureth for himself; for his mouth craveth it of him."
+          "t": "He that laboureth laboureth for himself; for his mouth craveth it of him. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "An ungodly man diggeth up evil: and in his lips there is as a burning fire.",
       "tokens": [
         {
-          "t": "An ungodly man diggeth up evil: and in his lips"
+          "t": "An ungodly man diggeth up evil: and in his lips "
         },
         {
           "add": "there is"
         },
         {
-          "t": "as a burning fire."
+          "t": " as a burning fire. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "A froward man soweth strife: and a whisperer separateth chief friends.",
       "tokens": [
         {
-          "t": "A froward man soweth strife: and a whisperer separateth chief friends."
+          "t": "A froward man soweth strife: and a whisperer separateth chief friends. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "A violent man enticeth his neighbour, and leadeth him into the way that is not good.",
       "tokens": [
         {
-          "t": "A violent man enticeth his neighbour, and leadeth him into the way"
+          "t": "A violent man enticeth his neighbour, and leadeth him into the way "
         },
         {
           "add": "that is"
         },
         {
-          "t": "not good."
+          "t": " not good. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass.",
       "tokens": [
         {
-          "t": "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass."
+          "t": "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "The hoary head is a crown of glory, if it be found in the way of righteousness.",
       "tokens": [
         {
-          "t": "The hoary head"
+          "t": "The hoary head "
         },
         {
           "add": "is"
         },
         {
-          "t": "a crown of glory,"
+          "t": " a crown of glory, "
         },
         {
           "add": "if"
         },
         {
-          "t": "it be found in the way of righteousness."
+          "t": " it be found in the way of righteousness. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.",
       "tokens": [
         {
           "add": "He that is"
         },
         {
-          "t": "slow to anger"
+          "t": " slow to anger "
         },
         {
           "add": "is"
         },
         {
-          "t": "better than the mighty; and he that ruleth his spirit than he that taketh a city."
+          "t": " better than the mighty; and he that ruleth his spirit than he that taketh a city. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "The lot is cast into the lap; but the whole disposing thereof is of the LORD.",
       "tokens": [
         {
-          "t": "The lot is cast into the lap; but the whole disposing thereof"
+          "t": "The lot is cast into the lap; but the whole disposing thereof "
         },
         {
           "add": "is"
         },
         {
-          "t": "of the"
+          "t": " of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

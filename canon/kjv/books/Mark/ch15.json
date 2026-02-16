@@ -7,488 +7,550 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.",
       "tokens": [
         {
-          "t": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried"
+          "t": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried "
         },
         {
           "add": "him"
         },
         {
-          "t": "away, and delivered"
+          "t": " away, and delivered "
         },
         {
           "add": "him"
         },
         {
-          "t": "to Pilate."
+          "t": " to Pilate. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it.",
       "tokens": [
         {
-          "t": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him,"
+          "t": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, "
+        },
+        {
+          "t": "Thou sayest "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the chief priests accused him of many things: but he answered nothing.",
       "tokens": [
         {
-          "t": "And the chief priests accused him of many things: but he answered nothing."
+          "t": "And the chief priests accused him of many things: but he answered nothing. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee.",
       "tokens": [
         {
-          "t": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee."
+          "t": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "But Jesus yet answered nothing; so that Pilate marvelled.",
       "tokens": [
         {
-          "t": "But Jesus yet answered nothing; so that Pilate marvelled."
+          "t": "But Jesus yet answered nothing; so that Pilate marvelled. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Now at that feast he released unto them one prisoner, whomsoever they desired.",
       "tokens": [
         {
-          "t": "Now at"
+          "t": "Now at "
         },
         {
           "add": "that"
         },
         {
-          "t": "feast he released unto them one prisoner, whomsoever they desired."
+          "t": " feast he released unto them one prisoner, whomsoever they desired. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And there was one named Barabbas, which lay bound with them that had made insurrection with him, who had committed murder in the insurrection.",
       "tokens": [
         {
-          "t": "And there was"
+          "t": "And there was "
         },
         {
           "add": "one"
         },
         {
-          "t": "named Barabbas,"
+          "t": " named Barabbas, "
         },
         {
           "add": "which lay"
         },
         {
-          "t": "bound with them that had made insurrection with him, who had committed murder in the insurrection."
+          "t": " bound with them that had made insurrection with him, who had committed murder in the insurrection. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the multitude crying aloud began to desire him to do as he had ever done unto them.",
       "tokens": [
         {
-          "t": "And the multitude crying aloud began to desire"
+          "t": "And the multitude crying aloud began to desire "
         },
         {
           "add": "him to do"
         },
         {
-          "t": "as he had ever done unto them."
+          "t": " as he had ever done unto them. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?",
       "tokens": [
         {
-          "t": "But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?"
+          "t": "But Pilate answered them, saying, Will ye that I release unto you the King of the Jews? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For he knew that the chief priests had delivered him for envy.",
       "tokens": [
         {
-          "t": "For he knew that the chief priests had delivered him for envy."
+          "t": "For he knew that the chief priests had delivered him for envy. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "But the chief priests moved the people, that he should rather release Barabbas unto them.",
       "tokens": [
         {
-          "t": "But the chief priests moved the people, that he should rather release Barabbas unto them."
+          "t": "But the chief priests moved the people, that he should rather release Barabbas unto them. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Pilate answered and said again unto them, What will ye then that I shall do unto him whom ye call the King of the Jews?",
       "tokens": [
         {
-          "t": "And Pilate answered and said again unto them, What will ye then that I shall do"
+          "t": "And Pilate answered and said again unto them, What will ye then that I shall do "
         },
         {
           "add": "unto him"
         },
         {
-          "t": "whom ye call the King of the Jews?"
+          "t": " whom ye call the King of the Jews? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And they cried out again, Crucify him.",
       "tokens": [
         {
-          "t": "And they cried out again, Crucify him."
+          "t": "And they cried out again, Crucify him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him.",
       "tokens": [
         {
-          "t": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him."
+          "t": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged him, to be crucified.",
       "tokens": [
         {
-          "t": "¶ And"
+          "t": "¶ And "
         },
         {
           "add": "so"
         },
         {
-          "t": "Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged"
+          "t": " Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged "
         },
         {
           "add": "him"
         },
         {
-          "t": ", to be crucified."
+          "t": ", to be crucified. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the soldiers led him away into the hall, called Prætorium; and they call together the whole band.",
       "tokens": [
         {
-          "t": "And the soldiers led him away into the hall, called Prætorium; and they call together the whole band."
+          "t": "And the soldiers led him away into the hall, called Prætorium; and they call together the whole band. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And they clothed him with purple, and platted a crown of thorns, and put it about his head,",
       "tokens": [
         {
-          "t": "And they clothed him with purple, and platted a crown of thorns, and put it about his"
+          "t": "And they clothed him with purple, and platted a crown of thorns, and put it about his "
         },
         {
           "add": "head"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And began to salute him, Hail, King of the Jews!",
       "tokens": [
         {
-          "t": "And began to salute him, Hail, King of the Jews!"
+          "t": "And began to salute him, Hail, King of the Jews! "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him.",
       "tokens": [
         {
-          "t": "And they smote him on the head with a reed, and did spit upon him, and bowing"
+          "t": "And they smote him on the head with a reed, and did spit upon him, and bowing "
         },
         {
           "add": "their"
         },
         {
-          "t": "knees worshipped him."
+          "t": " knees worshipped him. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.",
       "tokens": [
         {
-          "t": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him."
+          "t": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.",
       "tokens": [
         {
-          "t": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross."
+          "t": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.",
       "tokens": [
         {
-          "t": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull."
+          "t": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And they gave him to drink wine mingled with myrrh: but he received it not.",
       "tokens": [
         {
-          "t": "And they gave him to drink wine mingled with myrrh: but he received"
+          "t": "And they gave him to drink wine mingled with myrrh: but he received "
         },
         {
           "add": "it"
         },
         {
-          "t": "not."
+          "t": " not. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.",
       "tokens": [
         {
-          "t": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take."
+          "t": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And it was the third hour, and they crucified him.",
       "tokens": [
         {
-          "t": "And it was the third hour, and they crucified him."
+          "t": "And it was the third hour, and they crucified him. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And the superscription of his accusation was written over, THE KING OF THE JEWS.",
       "tokens": [
         {
-          "t": "And the superscription of his accusation was written over, THE KING OF THE JEWS."
+          "t": "And the superscription of his accusation was written over, THE KING OF THE JEWS. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And with him they crucify two thieves; the one on his right hand, and the other on his left.",
       "tokens": [
         {
-          "t": "And with him they crucify two thieves; the one on his right hand, and the other on his left."
+          "t": "And with him they crucify two thieves; the one on his right hand, and the other on his left. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors.",
       "tokens": [
         {
-          "t": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors."
+          "t": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,",
       "tokens": [
         {
-          "t": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest"
+          "t": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest "
         },
         {
           "add": "it"
         },
         {
-          "t": "in three days,"
+          "t": " in three days, "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Save thyself, and come down from the cross.",
       "tokens": [
         {
-          "t": "Save thyself, and come down from the cross."
+          "t": "Save thyself, and come down from the cross. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.",
       "tokens": [
         {
-          "t": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save."
+          "t": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.",
       "tokens": [
         {
-          "t": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him."
+          "t": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour.",
       "tokens": [
         {
-          "t": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour."
+          "t": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?",
       "tokens": [
         {
-          "t": "which is, being interpreted, My God, my God, why hast thou forsaken me?"
+          "t": "And at the ninth hour Jesus cried with a loud voice, saying, "
         },
         {
-          "t": "And at the ninth hour Jesus cried with a loud voice, saying, which is, being interpreted, My God, my God, why hast thou forsaken me?"
+          "t": "Eloi, Eloi, lama sabachthani?"
+        },
+        {
+          "t": " which is, being interpreted, My God, my God, why hast thou forsaken me? "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And some of them that stood by, when they heard it, said, Behold, he calleth Elias.",
       "tokens": [
         {
-          "t": "And some of them that stood by, when they heard"
+          "t": "And some of them that stood by, when they heard "
         },
         {
           "add": "it"
         },
         {
-          "t": ", said, Behold, he calleth Elias."
+          "t": ", said, Behold, he calleth Elias. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.",
       "tokens": [
         {
-          "t": "And one ran and filled a spunge full of vinegar, and put"
+          "t": "And one ran and filled a spunge full of vinegar, and put "
         },
         {
           "add": "it"
         },
         {
-          "t": "on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down."
+          "t": " on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And Jesus cried with a loud voice, and gave up the ghost.",
       "tokens": [
         {
-          "t": "And Jesus cried with a loud voice, and gave up the ghost."
+          "t": "And Jesus cried with a loud voice, and gave up the ghost. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And the veil of the temple was rent in twain from the top to the bottom.",
       "tokens": [
         {
-          "t": "And the veil of the temple was rent in twain from the top to the bottom."
+          "t": "And the veil of the temple was rent in twain from the top to the bottom. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "¶ And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.",
       "tokens": [
         {
-          "t": "¶ And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God."
+          "t": "¶ And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;",
       "tokens": [
         {
-          "t": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;"
+          "t": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome; "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem.",
       "tokens": [
         {
-          "t": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem."
+          "t": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "¶ And now when the even was come, because it was the preparation, that is, the day before the sabbath,",
       "tokens": [
         {
-          "t": "¶ And now when the even was come, because it was the preparation, that is, the day before the sabbath,"
+          "t": "¶ And now when the even was come, because it was the preparation, that is, the day before the sabbath, "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.",
       "tokens": [
         {
-          "t": "Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus."
+          "t": "Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And Pilate marvelled if he were already dead: and calling unto him the centurion, he asked him whether he had been any while dead.",
       "tokens": [
         {
-          "t": "And Pilate marvelled if he were already dead: and calling"
+          "t": "And Pilate marvelled if he were already dead: and calling "
         },
         {
           "add": "unto him"
         },
         {
-          "t": "the centurion, he asked him whether he had been any while dead."
+          "t": " the centurion, he asked him whether he had been any while dead. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "And when he knew it of the centurion, he gave the body to Joseph.",
       "tokens": [
         {
-          "t": "And when he knew"
+          "t": "And when he knew "
         },
         {
           "add": "it"
         },
         {
-          "t": "of the centurion, he gave the body to Joseph."
+          "t": " of the centurion, he gave the body to Joseph. "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre.",
       "tokens": [
         {
-          "t": "And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre."
+          "t": "And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre. "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "And Mary Magdalene and Mary the mother of Joses beheld where he was laid.",
       "tokens": [
         {
-          "t": "And Mary Magdalene and Mary"
+          "t": "And Mary Magdalene and Mary "
         },
         {
           "add": "the mother"
         },
         {
-          "t": "of Joses beheld where he was laid."
+          "t": " of Joses beheld where he was laid. "
         }
       ]
     }

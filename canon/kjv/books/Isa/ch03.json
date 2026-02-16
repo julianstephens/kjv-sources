@@ -7,395 +7,421 @@
   "verses": [
     {
       "v": 1,
+      "plain": "For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,",
       "tokens": [
         {
-          "t": "For, behold, the Lord, the"
+          "t": "For, behold, the Lord, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,"
+          "t": " of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,",
       "tokens": [
         {
-          "t": "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,"
+          "t": "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator.",
       "tokens": [
         {
-          "t": "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator."
+          "t": "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And I will give children to be their princes, and babes shall rule over them.",
       "tokens": [
         {
-          "t": "And I will give children"
+          "t": "And I will give children "
         },
         {
           "add": "to be"
         },
         {
-          "t": "their princes, and babes shall rule over them."
+          "t": " their princes, and babes shall rule over them. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.",
       "tokens": [
         {
-          "t": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable."
+          "t": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand:",
       "tokens": [
         {
-          "t": "When a man shall take hold of his brother of the house of his father,"
+          "t": "When a man shall take hold of his brother of the house of his father, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Thou hast clothing, be thou our ruler, and"
+          "t": ", Thou hast clothing, be thou our ruler, and "
         },
         {
           "add": "let"
         },
         {
-          "t": "this ruin"
+          "t": " this ruin "
         },
         {
           "add": "be"
         },
         {
-          "t": "under thy hand:"
+          "t": " under thy hand: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people.",
       "tokens": [
         {
-          "t": "In that day shall he swear, saying, I will not be an healer; for in my house"
+          "t": "In that day shall he swear, saying, I will not be an healer; for in my house "
         },
         {
           "add": "is"
         },
         {
-          "t": "neither bread nor clothing: make me not a ruler of the people."
+          "t": " neither bread nor clothing: make me not a ruler of the people. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the LORD, to provoke the eyes of his glory.",
       "tokens": [
         {
-          "t": "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings"
+          "t": "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings "
         },
         {
           "add": "are"
         },
         {
-          "t": "against the"
+          "t": " against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to provoke the eyes of his glory."
+          "t": ", to provoke the eyes of his glory. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves.",
       "tokens": [
         {
-          "t": "¶ The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide"
+          "t": "¶ The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide "
         },
         {
           "add": "it"
         },
         {
-          "t": "not. Woe unto their soul! for they have rewarded evil unto themselves."
+          "t": " not. Woe unto their soul! for they have rewarded evil unto themselves. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings.",
       "tokens": [
         {
-          "t": "Say ye to the righteous, that"
+          "t": "Say ye to the righteous, that "
         },
         {
           "add": "it shall be"
         },
         {
-          "t": "well"
+          "t": " well "
         },
         {
           "add": "with him:"
         },
         {
-          "t": "for they shall eat the fruit of their doings."
+          "t": " for they shall eat the fruit of their doings. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him.",
       "tokens": [
         {
-          "t": "Woe unto the wicked!"
+          "t": "Woe unto the wicked! "
         },
         {
           "add": "it shall be"
         },
         {
-          "t": "ill"
+          "t": " ill "
         },
         {
           "add": "with him:"
         },
         {
-          "t": "for the reward of his hands shall be given him."
+          "t": " for the reward of his hands shall be given him. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.",
       "tokens": [
         {
-          "t": "¶"
+          "t": "¶ "
         },
         {
           "add": "As for"
         },
         {
-          "t": "my people, children"
+          "t": " my people, children "
         },
         {
           "add": "are"
         },
         {
-          "t": "their oppressors, and women rule over them. O my people, they which lead thee cause"
+          "t": " their oppressors, and women rule over them. O my people, they which lead thee cause "
         },
         {
           "add": "thee"
         },
         {
-          "t": "to err, and destroy the way of thy paths."
+          "t": " to err, and destroy the way of thy paths. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The LORD standeth up to plead, and standeth to judge the people.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "standeth up to plead, and standeth to judge the people."
+          "t": " standeth up to plead, and standeth to judge the people. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor"
+          "t": " will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor "
         },
         {
           "add": "is"
         },
         {
-          "t": "in your houses."
+          "t": " in your houses. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts.",
       "tokens": [
         {
-          "t": "What mean ye"
+          "t": "What mean ye "
         },
         {
           "add": "that"
         },
         {
-          "t": "ye beat my people to pieces, and grind the faces of the poor? saith the Lord"
+          "t": " ye beat my people to pieces, and grind the faces of the poor? saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "of hosts."
+          "t": " of hosts. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:",
       "tokens": [
         {
-          "t": "¶ Moreover the"
+          "t": "¶ Moreover the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing"
+          "t": " saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing "
         },
         {
           "add": "as"
         },
         {
-          "t": "they go, and making a tinkling with their feet:"
+          "t": " they go, and making a tinkling with their feet: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts.",
       "tokens": [
         {
-          "t": "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the"
+          "t": "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will discover their secret parts."
+          "t": " will discover their secret parts. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,",
       "tokens": [
         {
-          "t": "In that day the Lord will take away the bravery of"
+          "t": "In that day the Lord will take away the bravery of "
         },
         {
           "add": "their"
         },
         {
-          "t": "tinkling ornaments"
+          "t": " tinkling ornaments "
         },
         {
           "add": "about their feet"
         },
         {
-          "t": ", and"
+          "t": ", and "
         },
         {
           "add": "their"
         },
         {
-          "t": "cauls, and"
+          "t": " cauls, and "
         },
         {
           "add": "their"
         },
         {
-          "t": "round tires like the moon,"
+          "t": " round tires like the moon, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The chains, and the bracelets, and the mufflers,",
       "tokens": [
         {
-          "t": "The chains, and the bracelets, and the mufflers,"
+          "t": "The chains, and the bracelets, and the mufflers, "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,",
       "tokens": [
         {
-          "t": "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,"
+          "t": "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "The rings, and nose jewels,",
       "tokens": [
         {
-          "t": "The rings, and nose jewels,"
+          "t": "The rings, and nose jewels, "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,",
       "tokens": [
         {
-          "t": "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,"
+          "t": "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins, "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The glasses, and the fine linen, and the hoods, and the vails.",
       "tokens": [
         {
-          "t": "The glasses, and the fine linen, and the hoods, and the vails."
+          "t": "The glasses, and the fine linen, and the hoods, and the vails. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty.",
       "tokens": [
         {
-          "t": "And it shall come to pass,"
+          "t": "And it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth;"
+          "t": " instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; "
         },
         {
           "add": "and"
         },
         {
-          "t": "burning instead of beauty."
+          "t": " burning instead of beauty. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Thy men shall fall by the sword, and thy mighty in the war.",
       "tokens": [
         {
-          "t": "Thy men shall fall by the sword, and thy mighty in the war."
+          "t": "Thy men shall fall by the sword, and thy mighty in the war. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And her gates shall lament and mourn; and she being desolate shall sit upon the ground.",
       "tokens": [
         {
-          "t": "And her gates shall lament and mourn; and she"
+          "t": "And her gates shall lament and mourn; and she "
         },
         {
           "add": "being"
         },
         {
-          "t": "desolate shall sit upon the ground."
+          "t": " desolate shall sit upon the ground. "
         }
       ]
     }

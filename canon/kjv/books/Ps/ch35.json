@@ -1,0 +1,564 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 35,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Plead my cause, O LORD, with them that strive with me: fight against them that fight against me.",
+      "tokens": [
+        {
+          "t": "Plead "
+        },
+        {
+          "add": "my cause"
+        },
+        {
+          "t": ", O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", with them that strive with me: fight against them that fight against me. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Take hold of shield and buckler, and stand up for mine help.",
+      "tokens": [
+        {
+          "t": "Take hold of shield and buckler, and stand up for mine help. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Draw out also the spear, and stop the way against them that persecute me: say unto my soul, I am thy salvation.",
+      "tokens": [
+        {
+          "t": "Draw out also the spear, and stop "
+        },
+        {
+          "add": "the way"
+        },
+        {
+          "t": " against them that persecute me: say unto my soul, I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " thy salvation. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.",
+      "tokens": [
+        {
+          "t": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Let them be as chaff before the wind: and let the angel of the LORD chase them.",
+      "tokens": [
+        {
+          "t": "Let them be as chaff before the wind: and let the angel of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " chase "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Let their way be dark and slippery: and let the angel of the LORD persecute them.",
+      "tokens": [
+        {
+          "t": "Let their way be dark and slippery: and let the angel of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " persecute them. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "For without cause have they hid for me their net in a pit, which without cause they have digged for my soul.",
+      "tokens": [
+        {
+          "t": "For without cause have they hid for me their net "
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": " a pit, "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " without cause they have digged for my soul. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.",
+      "tokens": [
+        {
+          "t": "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "And my soul shall be joyful in the LORD: it shall rejoice in his salvation.",
+      "tokens": [
+        {
+          "t": "And my soul shall be joyful in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": it shall rejoice in his salvation. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "All my bones shall say, LORD, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?",
+      "tokens": [
+        {
+          "t": "All my bones shall say, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", who "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him? "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "False witnesses did rise up; they laid to my charge things that I knew not.",
+      "tokens": [
+        {
+          "t": "False witnesses did rise up; they laid to my charge "
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": " that I knew not. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "They rewarded me evil for good to the spoiling of my soul.",
+      "tokens": [
+        {
+          "t": "They rewarded me evil for good "
+        },
+        {
+          "add": "to"
+        },
+        {
+          "t": " the spoiling of my soul. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.",
+      "tokens": [
+        {
+          "t": "But as for me, when they were sick, my clothing "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "I behaved myself as though he had been my friend or brother: I bowed down heavily, as one that mourneth for his mother.",
+      "tokens": [
+        {
+          "t": "I behaved myself as though "
+        },
+        {
+          "add": "he had been"
+        },
+        {
+          "t": " my friend "
+        },
+        {
+          "add": "or"
+        },
+        {
+          "t": " brother: I bowed down heavily, as one that mourneth "
+        },
+        {
+          "add": "for his"
+        },
+        {
+          "t": " mother. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "But in mine adversity they rejoiced, and gathered themselves together: yea, the abjects gathered themselves together against me, and I knew it not; they did tear me, and ceased not:",
+      "tokens": [
+        {
+          "t": "But in mine adversity they rejoiced, and gathered themselves together: "
+        },
+        {
+          "add": "yea"
+        },
+        {
+          "t": ", the abjects gathered themselves together against me, and I knew "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " not; they did tear "
+        },
+        {
+          "add": "me"
+        },
+        {
+          "t": ", and ceased not: "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "With hypocritical mockers in feasts, they gnashed upon me with their teeth.",
+      "tokens": [
+        {
+          "t": "With hypocritical mockers in feasts, they gnashed upon me with their teeth. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.",
+      "tokens": [
+        {
+          "t": "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "I will give thee thanks in the great congregation: I will praise thee among much people.",
+      "tokens": [
+        {
+          "t": "I will give thee thanks in the great congregation: I will praise thee among much people. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause.",
+      "tokens": [
+        {
+          "t": "Let not them that are mine enemies wrongfully rejoice over me: "
+        },
+        {
+          "add": "neither"
+        },
+        {
+          "t": " let them wink with the eye that hate me without a cause. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "For they speak not peace: but they devise deceitful matters against them that are quiet in the land.",
+      "tokens": [
+        {
+          "t": "For they speak not peace: but they devise deceitful matters against "
+        },
+        {
+          "add": "them that are"
+        },
+        {
+          "t": " quiet in the land. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "Yea, they opened their mouth wide against me, and said, Aha, aha, our eye hath seen it.",
+      "tokens": [
+        {
+          "t": "Yea, they opened their mouth wide against me, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " said, Aha, aha, our eye hath seen "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "This thou hast seen, O LORD: keep not silence: O Lord, be not far from me.",
+      "tokens": [
+        {
+          "add": "This"
+        },
+        {
+          "t": " thou hast seen, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": keep not silence: O Lord, be not far from me. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "Stir up thyself, and awake to my judgment, even unto my cause, my God and my Lord.",
+      "tokens": [
+        {
+          "t": "Stir up thyself, and awake to my judgment, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " unto my cause, my God and my Lord. "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me.",
+      "tokens": [
+        {
+          "t": "Judge me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " my God, according to thy righteousness; and let them not rejoice over me. "
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "plain": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.",
+      "tokens": [
+        {
+          "t": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up. "
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "plain": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify themselves against me.",
+      "tokens": [
+        {
+          "t": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify "
+        },
+        {
+          "add": "themselves"
+        },
+        {
+          "t": " against me. "
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "plain": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant.",
+      "tokens": [
+        {
+          "t": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " be magnified, which hath pleasure in the prosperity of his servant. "
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "plain": "And my tongue shall speak of thy righteousness and of thy praise all the day long.",
+      "tokens": [
+        {
+          "t": "And my tongue shall speak of thy righteousness "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " of thy praise all the day long. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 6
+      },
+      "text": "dark…: Heb. darkness and slipperiness"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 8
+      },
+      "text": "at…: Heb. which he knoweth not of"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 11
+      },
+      "text": "False…: Heb. Witnesses of wrong"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 11
+      },
+      "text": "they…: Heb. they asked me"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 12
+      },
+      "text": "spoiling: Heb. depriving"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 13
+      },
+      "text": "humbled: or, afflicted"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 14
+      },
+      "text": "behaved myself: Heb. walked"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 14
+      },
+      "text": "as though…: Heb. as a friend, as a brother to me"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 15
+      },
+      "text": "adversity: Heb. halting"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 17
+      },
+      "text": "darling: Heb. only one"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 18
+      },
+      "text": "much: Heb. strong"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 19
+      },
+      "text": "wrongfully: Heb. falsely"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 25
+      },
+      "text": "Ah…: Heb. Ah, ah, our soul"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 27
+      },
+      "text": "righteous…: Heb. righteousness"
+    }
+  ]
+}

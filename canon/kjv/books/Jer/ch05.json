@@ -7,513 +7,544 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be any that executeth judgment, that seeketh the truth; and I will pardon it.",
       "tokens": [
         {
-          "t": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be"
+          "t": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be "
         },
         {
           "add": "any"
         },
         {
-          "t": "that executeth judgment, that seeketh the truth; and I will pardon it."
+          "t": " that executeth judgment, that seeketh the truth; and I will pardon it. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And though they say, The LORD liveth; surely they swear falsely.",
       "tokens": [
         {
-          "t": "And though they say, The"
+          "t": "And though they say, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth; surely they swear falsely."
+          "t": " liveth; surely they swear falsely. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "O LORD, are not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.",
       "tokens": [
         {
-          "t": "O"
+          "t": "O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "are"
         },
         {
-          "t": "not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them,"
+          "t": " not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, "
         },
         {
           "add": "but"
         },
         {
-          "t": "they have refused to receive correction: they have made their faces harder than a rock; they have refused to return."
+          "t": " they have refused to receive correction: they have made their faces harder than a rock; they have refused to return. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Therefore I said, Surely these are poor; they are foolish: for they know not the way of the LORD, nor the judgment of their God.",
       "tokens": [
         {
-          "t": "Therefore I said, Surely these"
+          "t": "Therefore I said, Surely these "
         },
         {
           "add": "are"
         },
         {
-          "t": "poor; they are foolish: for they know not the way of the"
+          "t": " poor; they are foolish: for they know not the way of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "nor"
         },
         {
-          "t": "the judgment of their God."
+          "t": " the judgment of their God. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "I will get me unto the great men, and will speak unto them; for they have known the way of the LORD, and the judgment of their God: but these have altogether broken the yoke, and burst the bonds.",
       "tokens": [
         {
-          "t": "I will get me unto the great men, and will speak unto them; for they have known the way of the"
+          "t": "I will get me unto the great men, and will speak unto them; for they have known the way of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "and"
         },
         {
-          "t": "the judgment of their God: but these have altogether broken the yoke,"
+          "t": " the judgment of their God: but these have altogether broken the yoke, "
         },
         {
           "add": "and"
         },
         {
-          "t": "burst the bonds."
+          "t": " burst the bonds. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Wherefore a lion out of the forest shall slay them, and a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, and their backslidings are increased.",
       "tokens": [
         {
-          "t": "Wherefore a lion out of the forest shall slay them,"
+          "t": "Wherefore a lion out of the forest shall slay them, "
         },
         {
           "add": "and"
         },
         {
-          "t": "a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many,"
+          "t": " a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, "
         },
         {
           "add": "and"
         },
         {
-          "t": "their backslidings are increased."
+          "t": " their backslidings are increased. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ How shall I pardon thee for this? thy children have forsaken me, and sworn by them that are no gods: when I had fed them to the full, they then committed adultery, and assembled themselves by troops in the harlots’ houses.",
       "tokens": [
         {
-          "t": "¶ How shall I pardon thee for this? thy children have forsaken me, and sworn by"
+          "t": "¶ How shall I pardon thee for this? thy children have forsaken me, and sworn by "
         },
         {
           "add": "them that are"
         },
         {
-          "t": "no gods: when I had fed them to the full, they then committed adultery, and assembled themselves by troops in the harlots’ houses."
+          "t": " no gods: when I had fed them to the full, they then committed adultery, and assembled themselves by troops in the harlots’ houses. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "They were as fed horses in the morning: every one neighed after his neighbour’s wife.",
       "tokens": [
         {
-          "t": "They were"
+          "t": "They were "
         },
         {
           "add": "as"
         },
         {
-          "t": "fed horses in the morning: every one neighed after his neighbour’s wife."
+          "t": " fed horses in the morning: every one neighed after his neighbour’s wife. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Shall I not visit for these things? saith the LORD: and shall not my soul be avenged on such a nation as this?",
       "tokens": [
         {
-          "t": "Shall I not visit for these"
+          "t": "Shall I not visit for these "
         },
         {
           "add": "things"
         },
         {
-          "t": "? saith the"
+          "t": "? saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and shall not my soul be avenged on such a nation as this?"
+          "t": ": and shall not my soul be avenged on such a nation as this? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they are not the LORD’s.",
       "tokens": [
         {
-          "t": "¶ Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they"
+          "t": "¶ Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they "
         },
         {
           "add": "are"
         },
         {
-          "t": "not the"
+          "t": " not the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For the house of Israel and the house of Judah have dealt very treacherously against me, saith the LORD.",
       "tokens": [
         {
-          "t": "For the house of Israel and the house of Judah have dealt very treacherously against me, saith the"
+          "t": "For the house of Israel and the house of Judah have dealt very treacherously against me, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "They have belied the LORD, and said, It is not he; neither shall evil come upon us; neither shall we see sword nor famine:",
       "tokens": [
         {
-          "t": "They have belied the"
+          "t": "They have belied the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said,"
+          "t": ", and said, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "not he; neither shall evil come upon us; neither shall we see sword nor famine:"
+          "t": " not he; neither shall evil come upon us; neither shall we see sword nor famine: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the prophets shall become wind, and the word is not in them: thus shall it be done unto them.",
       "tokens": [
         {
-          "t": "And the prophets shall become wind, and the word"
+          "t": "And the prophets shall become wind, and the word "
         },
         {
           "add": "is"
         },
         {
-          "t": "not in them: thus shall it be done unto them."
+          "t": " not in them: thus shall it be done unto them. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.",
       "tokens": [
         {
-          "t": "Wherefore thus saith the"
+          "t": "Wherefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them."
+          "t": " God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Lo, I will bring a nation upon you from far, O house of Israel, saith the LORD: it is a mighty nation, it is an ancient nation, a nation whose language thou knowest not, neither understandest what they say.",
       "tokens": [
         {
-          "t": "Lo, I will bring a nation upon you from far, O house of Israel, saith the"
+          "t": "Lo, I will bring a nation upon you from far, O house of Israel, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": it"
+          "t": ": it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a mighty nation, it"
+          "t": " a mighty nation, it "
         },
         {
           "add": "is"
         },
         {
-          "t": "an ancient nation, a nation whose language thou knowest not, neither understandest what they say."
+          "t": " an ancient nation, a nation whose language thou knowest not, neither understandest what they say. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Their quiver is as an open sepulchre, they are all mighty men.",
       "tokens": [
         {
-          "t": "Their quiver"
+          "t": "Their quiver "
         },
         {
           "add": "is"
         },
         {
-          "t": "as an open sepulchre, they"
+          "t": " as an open sepulchre, they "
         },
         {
           "add": "are"
         },
         {
-          "t": "all mighty men."
+          "t": " all mighty men. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And they shall eat up thine harvest, and thy bread, which thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword.",
       "tokens": [
         {
-          "t": "And they shall eat up thine harvest, and thy bread,"
+          "t": "And they shall eat up thine harvest, and thy bread, "
         },
         {
           "add": "which"
         },
         {
-          "t": "thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword."
+          "t": " thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Nevertheless in those days, saith the LORD, I will not make a full end with you.",
       "tokens": [
         {
-          "t": "Nevertheless in those days, saith the"
+          "t": "Nevertheless in those days, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I will not make a full end with you."
+          "t": ", I will not make a full end with you. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And it shall come to pass, when ye shall say, Wherefore doeth the LORD our God all these things unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land that is not yours.",
       "tokens": [
         {
-          "t": "¶ And it shall come to pass, when ye shall say, Wherefore doeth the"
+          "t": "¶ And it shall come to pass, when ye shall say, Wherefore doeth the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God all these"
+          "t": " our God all these "
         },
         {
           "add": "things"
         },
         {
-          "t": "unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land"
+          "t": " unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land "
         },
         {
           "add": "that is"
         },
         {
-          "t": "not yours."
+          "t": " not yours. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Declare this in the house of Jacob, and publish it in Judah, saying,",
       "tokens": [
         {
-          "t": "Declare this in the house of Jacob, and publish it in Judah, saying,"
+          "t": "Declare this in the house of Jacob, and publish it in Judah, saying, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not:",
       "tokens": [
         {
-          "t": "Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not:"
+          "t": "Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Fear ye not me? saith the LORD: will ye not tremble at my presence, which have placed the sand for the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?",
       "tokens": [
         {
-          "t": "Fear ye not me? saith the"
+          "t": "Fear ye not me? saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": will ye not tremble at my presence, which have placed the sand"
+          "t": ": will ye not tremble at my presence, which have placed the sand "
         },
         {
           "add": "for"
         },
         {
-          "t": "the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?"
+          "t": " the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it? "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But this people hath a revolting and a rebellious heart; they are revolted and gone.",
       "tokens": [
         {
-          "t": "But this people hath a revolting and a rebellious heart; they are revolted and gone."
+          "t": "But this people hath a revolting and a rebellious heart; they are revolted and gone. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Neither say they in their heart, Let us now fear the LORD our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest.",
       "tokens": [
         {
-          "t": "Neither say they in their heart, Let us now fear the"
+          "t": "Neither say they in their heart, Let us now fear the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest."
+          "t": " our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ Your iniquities have turned away these things, and your sins have withholden good things from you.",
       "tokens": [
         {
-          "t": "¶ Your iniquities have turned away these"
+          "t": "¶ Your iniquities have turned away these "
         },
         {
           "add": "things"
         },
         {
-          "t": ", and your sins have withholden good"
+          "t": ", and your sins have withholden good "
         },
         {
           "add": "things"
         },
         {
-          "t": "from you."
+          "t": " from you. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "For among my people are found wicked men: they lay wait, as he that setteth snares; they set a trap, they catch men.",
       "tokens": [
         {
-          "t": "For among my people are found wicked"
+          "t": "For among my people are found wicked "
         },
         {
           "add": "men:"
         },
         {
-          "t": "they lay wait, as he that setteth snares; they set a trap, they catch men."
+          "t": " they lay wait, as he that setteth snares; they set a trap, they catch men. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "As a cage is full of birds, so are their houses full of deceit: therefore they are become great, and waxen rich.",
       "tokens": [
         {
-          "t": "As a cage is full of birds, so"
+          "t": "As a cage is full of birds, so "
         },
         {
           "add": "are"
         },
         {
-          "t": "their houses full of deceit: therefore they are become great, and waxen rich."
+          "t": " their houses full of deceit: therefore they are become great, and waxen rich. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge.",
       "tokens": [
         {
-          "t": "They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge."
+          "t": "They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Shall I not visit for these things? saith the LORD: shall not my soul be avenged on such a nation as this?",
       "tokens": [
         {
-          "t": "Shall I not visit for these"
+          "t": "Shall I not visit for these "
         },
         {
           "add": "things"
         },
         {
-          "t": "? saith the"
+          "t": "? saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": shall not my soul be avenged on such a nation as this?"
+          "t": ": shall not my soul be avenged on such a nation as this? "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "¶ A wonderful and horrible thing is committed in the land;",
       "tokens": [
         {
-          "t": "¶ A wonderful and horrible thing is committed in the land;"
+          "t": "¶ A wonderful and horrible thing is committed in the land; "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "The prophets prophesy falsely, and the priests bear rule by their means; and my people love to have it so: and what will ye do in the end thereof?",
       "tokens": [
         {
-          "t": "The prophets prophesy falsely, and the priests bear rule by their means; and my people love"
+          "t": "The prophets prophesy falsely, and the priests bear rule by their means; and my people love "
         },
         {
           "add": "to have it"
         },
         {
-          "t": "so: and what will ye do in the end thereof?"
+          "t": " so: and what will ye do in the end thereof? "
         }
       ]
     }

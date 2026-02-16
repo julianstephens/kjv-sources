@@ -7,338 +7,367 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word which came to Jeremiah from the LORD, saying,",
       "tokens": [
         {
-          "t": "The word which came to Jeremiah from the"
+          "t": "The word which came to Jeremiah from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", saying,"
+          "t": ", saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Arise, and go down to the potter’s house, and there I will cause thee to hear my words.",
       "tokens": [
         {
-          "t": "Arise, and go down to the potter’s house, and there I will cause thee to hear my words."
+          "t": "Arise, and go down to the potter’s house, and there I will cause thee to hear my words. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Then I went down to the potter’s house, and, behold, he wrought a work on the wheels.",
       "tokens": [
         {
-          "t": "Then I went down to the potter’s house, and, behold, he wrought a work on the wheels."
+          "t": "Then I went down to the potter’s house, and, behold, he wrought a work on the wheels. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make it.",
       "tokens": [
         {
-          "t": "And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make"
+          "t": "And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then the word of the LORD came to me, saying,",
       "tokens": [
         {
-          "t": "Then the word of the"
+          "t": "Then the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came to me, saying,"
+          "t": " came to me, saying, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter’s hand, so are ye in mine hand, O house of Israel.",
       "tokens": [
         {
-          "t": "O house of Israel, cannot I do with you as this potter? saith the"
+          "t": "O house of Israel, cannot I do with you as this potter? saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". Behold, as the clay"
+          "t": ". Behold, as the clay "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the potter’s hand, so"
+          "t": " in the potter’s hand, so "
         },
         {
           "add": "are"
         },
         {
-          "t": "ye in mine hand, O house of Israel."
+          "t": " ye in mine hand, O house of Israel. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "At what instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy it;",
       "tokens": [
         {
           "add": "At what"
         },
         {
-          "t": "instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy"
+          "t": " instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy "
         },
         {
           "add": "it;"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them.",
       "tokens": [
         {
-          "t": "If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them."
+          "t": "If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And at what instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant it;",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "at what"
         },
         {
-          "t": "instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant"
+          "t": " instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant "
         },
         {
           "add": "it;"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them.",
       "tokens": [
         {
-          "t": "If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them."
+          "t": "If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the LORD; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good.",
       "tokens": [
         {
-          "t": "¶ Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the"
+          "t": "¶ Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good."
+          "t": "; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And they said, There is no hope: but we will walk after our own devices, and we will every one do the imagination of his evil heart.",
       "tokens": [
         {
-          "t": "And they said, There is no hope: but we will walk after our own devices, and we will every one do the imagination of his evil heart."
+          "t": "And they said, There is no hope: but we will walk after our own devices, and we will every one do the imagination of his evil heart. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Therefore thus saith the LORD; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing.",
       "tokens": [
         {
-          "t": "Therefore thus saith the"
+          "t": "Therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing."
+          "t": "; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Will a man leave the snow of Lebanon which cometh from the rock of the field? or shall the cold flowing waters that come from another place be forsaken?",
       "tokens": [
         {
-          "t": "Will"
+          "t": "Will "
         },
         {
           "add": "a man"
         },
         {
-          "t": "leave the snow of Lebanon"
+          "t": " leave the snow of Lebanon "
         },
         {
           "add": "which cometh"
         },
         {
-          "t": "from the rock of the field?"
+          "t": " from the rock of the field? "
         },
         {
           "add": "or"
         },
         {
-          "t": "shall the cold flowing waters that come from another place be forsaken?"
+          "t": " shall the cold flowing waters that come from another place be forsaken? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways from the ancient paths, to walk in paths, in a way not cast up;",
       "tokens": [
         {
-          "t": "Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways"
+          "t": "Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways "
         },
         {
           "add": "from"
         },
         {
-          "t": "the ancient paths, to walk in paths,"
+          "t": " the ancient paths, to walk in paths, "
         },
         {
           "add": "in"
         },
         {
-          "t": "a way not cast up;"
+          "t": " a way not cast up; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "To make their land desolate, and a perpetual hissing; every one that passeth thereby shall be astonished, and wag his head.",
       "tokens": [
         {
-          "t": "To make their land desolate,"
+          "t": "To make their land desolate, "
         },
         {
           "add": "and"
         },
         {
-          "t": "a perpetual hissing; every one that passeth thereby shall be astonished, and wag his head."
+          "t": " a perpetual hissing; every one that passeth thereby shall be astonished, and wag his head. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity.",
       "tokens": [
         {
-          "t": "I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity."
+          "t": "I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words.",
       "tokens": [
         {
-          "t": "¶ Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words."
+          "t": "¶ Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Give heed to me, O LORD, and hearken to the voice of them that contend with me.",
       "tokens": [
         {
-          "t": "Give heed to me, O"
+          "t": "Give heed to me, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and hearken to the voice of them that contend with me."
+          "t": ", and hearken to the voice of them that contend with me. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Shall evil be recompensed for good? for they have digged a pit for my soul. Remember that I stood before thee to speak good for them, and to turn away thy wrath from them.",
       "tokens": [
         {
-          "t": "Shall evil be recompensed for good? for they have digged a pit for my soul. Remember that I stood before thee to speak good for them,"
+          "t": "Shall evil be recompensed for good? for they have digged a pit for my soul. Remember that I stood before thee to speak good for them, "
         },
         {
           "add": "and"
         },
         {
-          "t": "to turn away thy wrath from them."
+          "t": " to turn away thy wrath from them. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Therefore deliver up their children to the famine, and pour out their blood by the force of the sword; and let their wives be bereaved of their children, and be widows; and let their men be put to death; let their young men be slain by the sword in battle.",
       "tokens": [
         {
-          "t": "Therefore deliver up their children to the famine, and pour out their"
+          "t": "Therefore deliver up their children to the famine, and pour out their "
         },
         {
           "add": "blood"
         },
         {
-          "t": "by the force of the sword; and let their wives be bereaved of their children, and"
+          "t": " by the force of the sword; and let their wives be bereaved of their children, and "
         },
         {
           "add": "be"
         },
         {
-          "t": "widows; and let their men be put to death;"
+          "t": " widows; and let their men be put to death; "
         },
         {
           "add": "let"
         },
         {
-          "t": "their young men"
+          "t": " their young men "
         },
         {
           "add": "be"
         },
         {
-          "t": "slain by the sword in battle."
+          "t": " slain by the sword in battle. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet.",
       "tokens": [
         {
-          "t": "Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet."
+          "t": "Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Yet, LORD, thou knowest all their counsel against me to slay me: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal thus with them in the time of thine anger.",
       "tokens": [
         {
-          "t": "Yet,"
+          "t": "Yet, "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", thou knowest all their counsel against me to slay"
+          "t": ", thou knowest all their counsel against me to slay "
         },
         {
           "add": "me:"
         },
         {
-          "t": "forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal"
+          "t": " forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal "
         },
         {
           "add": "thus"
         },
         {
-          "t": "with them in the time of thine anger."
+          "t": " with them in the time of thine anger. "
         }
       ]
     }

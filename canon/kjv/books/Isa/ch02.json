@@ -7,303 +7,325 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.",
       "tokens": [
         {
-          "t": "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem."
+          "t": "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And it shall come to pass in the last days, that the mountain of the LORD’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
       "tokens": [
         {
-          "t": "And it shall come to pass in the last days,"
+          "t": "And it shall come to pass in the last days, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the mountain of the"
+          "t": " the mountain of the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it."
+          "t": " house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.",
       "tokens": [
         {
-          "t": "And many people shall go and say, Come ye, and let us go up to the mountain of the"
+          "t": "And many people shall go and say, Come ye, and let us go up to the mountain of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the"
+          "t": ", to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "from Jerusalem."
+          "t": " from Jerusalem. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.",
       "tokens": [
         {
-          "t": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more."
+          "t": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "O house of Jacob, come ye, and let us walk in the light of the LORD.",
       "tokens": [
         {
-          "t": "O house of Jacob, come ye, and let us walk in the light of the"
+          "t": "O house of Jacob, come ye, and let us walk in the light of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.",
       "tokens": [
         {
-          "t": "¶ Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and"
+          "t": "¶ Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and "
         },
         {
           "add": "are"
         },
         {
-          "t": "soothsayers like the Philistines, and they please themselves in the children of strangers."
+          "t": " soothsayers like the Philistines, and they please themselves in the children of strangers. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots:",
       "tokens": [
         {
-          "t": "Their land also is full of silver and gold, neither"
+          "t": "Their land also is full of silver and gold, neither "
         },
         {
           "add": "is there any"
         },
         {
-          "t": "end of their treasures; their land is also full of horses, neither"
+          "t": " end of their treasures; their land is also full of horses, neither "
         },
         {
           "add": "is there any"
         },
         {
-          "t": "end of their chariots:"
+          "t": " end of their chariots: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:",
       "tokens": [
         {
-          "t": "Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:"
+          "t": "Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.",
       "tokens": [
         {
-          "t": "And the mean man boweth down, and the great man humbleth himself: therefore forgive them not."
+          "t": "And the mean man boweth down, and the great man humbleth himself: therefore forgive them not. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.",
       "tokens": [
         {
-          "t": "¶ Enter into the rock, and hide thee in the dust, for fear of the"
+          "t": "¶ Enter into the rock, and hide thee in the dust, for fear of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and for the glory of his majesty."
+          "t": ", and for the glory of his majesty. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.",
       "tokens": [
         {
-          "t": "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the"
+          "t": "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "alone shall be exalted in that day."
+          "t": " alone shall be exalted in that day. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "For the day of the LORD of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:",
       "tokens": [
         {
-          "t": "For the day of the"
+          "t": "For the day of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts"
+          "t": " of hosts "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "upon every"
+          "t": " upon every "
         },
         {
           "add": "one that is"
         },
         {
-          "t": "proud and lofty, and upon every"
+          "t": " proud and lofty, and upon every "
         },
         {
           "add": "one that is"
         },
         {
-          "t": "lifted up; and he shall be brought low:"
+          "t": " lifted up; and he shall be brought low: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,",
       "tokens": [
         {
-          "t": "And upon all the cedars of Lebanon,"
+          "t": "And upon all the cedars of Lebanon, "
         },
         {
           "add": "that are"
         },
         {
-          "t": "high and lifted up, and upon all the oaks of Bashan,"
+          "t": " high and lifted up, and upon all the oaks of Bashan, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And upon all the high mountains, and upon all the hills that are lifted up,",
       "tokens": [
         {
-          "t": "And upon all the high mountains, and upon all the hills"
+          "t": "And upon all the high mountains, and upon all the hills "
         },
         {
           "add": "that are"
         },
         {
-          "t": "lifted up,"
+          "t": " lifted up, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And upon every high tower, and upon every fenced wall,",
       "tokens": [
         {
-          "t": "And upon every high tower, and upon every fenced wall,"
+          "t": "And upon every high tower, and upon every fenced wall, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And upon all the ships of Tarshish, and upon all pleasant pictures.",
       "tokens": [
         {
-          "t": "And upon all the ships of Tarshish, and upon all pleasant pictures."
+          "t": "And upon all the ships of Tarshish, and upon all pleasant pictures. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.",
       "tokens": [
         {
-          "t": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the"
+          "t": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "alone shall be exalted in that day."
+          "t": " alone shall be exalted in that day. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the idols he shall utterly abolish.",
       "tokens": [
         {
-          "t": "And the idols he shall utterly abolish."
+          "t": "And the idols he shall utterly abolish. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
       "tokens": [
         {
-          "t": "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the"
+          "t": "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and for the glory of his majesty, when he ariseth to shake terribly the earth."
+          "t": ", and for the glory of his majesty, when he ariseth to shake terribly the earth. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "In that day a man shall cast his idols of silver, and his idols of gold, which they made each one for himself to worship, to the moles and to the bats;",
       "tokens": [
         {
-          "t": "In that day a man shall cast his idols of silver, and his idols of gold, which they made"
+          "t": "In that day a man shall cast his idols of silver, and his idols of gold, which they made "
         },
         {
           "add": "each one"
         },
         {
-          "t": "for himself to worship, to the moles and to the bats;"
+          "t": " for himself to worship, to the moles and to the bats; "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
       "tokens": [
         {
-          "t": "To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the"
+          "t": "To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and for the glory of his majesty, when he ariseth to shake terribly the earth."
+          "t": ", and for the glory of his majesty, when he ariseth to shake terribly the earth. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of?",
       "tokens": [
         {
-          "t": "Cease ye from man, whose breath"
+          "t": "Cease ye from man, whose breath "
         },
         {
           "add": "is"
         },
         {
-          "t": "in his nostrils: for wherein is he to be accounted of?"
+          "t": " in his nostrils: for wherein is he to be accounted of? "
         }
       ]
     }

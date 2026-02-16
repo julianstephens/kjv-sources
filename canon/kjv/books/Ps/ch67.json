@@ -1,0 +1,119 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 67,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "God be merciful unto us, and bless us; and cause his face to shine upon us; Selah.",
+      "tokens": [
+        {
+          "t": "God be merciful unto us, and bless us; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " cause his face to shine upon us; Selah. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "That thy way may be known upon earth, thy saving health among all nations.",
+      "tokens": [
+        {
+          "t": "That thy way may be known upon earth, thy saving health among all nations. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Let the people praise thee, O God; let all the people praise thee.",
+      "tokens": [
+        {
+          "t": "Let the people praise thee, O God; let all the people praise thee. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.",
+      "tokens": [
+        {
+          "t": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Let the people praise thee, O God; let all the people praise thee.",
+      "tokens": [
+        {
+          "t": "Let the people praise thee, O God; let all the people praise thee. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Then shall the earth yield her increase; and God, even our own God, shall bless us.",
+      "tokens": [
+        {
+          "add": "Then"
+        },
+        {
+          "t": " shall the earth yield her increase; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " God, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " our own God, shall bless us. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "God shall bless us; and all the ends of the earth shall fear him.",
+      "tokens": [
+        {
+          "t": "God shall bless us; and all the ends of the earth shall fear him. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "chief…: or, overseer"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "upon: Heb. with"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "govern: Heb. lead"
+    }
+  ]
+}

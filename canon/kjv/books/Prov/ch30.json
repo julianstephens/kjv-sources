@@ -7,535 +7,568 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The words of Agur the son of Jakeh, even the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,",
       "tokens": [
         {
-          "t": "The words of Agur the son of Jakeh,"
+          "t": "The words of Agur the son of Jakeh, "
         },
         {
           "add": "even"
         },
         {
-          "t": "the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,"
+          "t": " the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Surely I am more brutish than any man, and have not the understanding of a man.",
       "tokens": [
         {
-          "t": "Surely I"
+          "t": "Surely I "
         },
         {
           "add": "am"
         },
         {
-          "t": "more brutish than"
+          "t": " more brutish than "
         },
         {
           "add": "any"
         },
         {
-          "t": "man, and have not the understanding of a man."
+          "t": " man, and have not the understanding of a man. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I neither learned wisdom, nor have the knowledge of the holy.",
       "tokens": [
         {
-          "t": "I neither learned wisdom, nor have the knowledge of the holy."
+          "t": "I neither learned wisdom, nor have the knowledge of the holy. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son’s name, if thou canst tell?",
       "tokens": [
         {
-          "t": "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what"
+          "t": "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what "
         },
         {
           "add": "is"
         },
         {
-          "t": "his name, and what"
+          "t": " his name, and what "
         },
         {
           "add": "is"
         },
         {
-          "t": "his son’s name, if thou canst tell?"
+          "t": " his son’s name, if thou canst tell? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Every word of God is pure: he is a shield unto them that put their trust in him.",
       "tokens": [
         {
-          "t": "Every word of God"
+          "t": "Every word of God "
         },
         {
           "add": "is"
         },
         {
-          "t": "pure: he"
+          "t": " pure: he "
         },
         {
           "add": "is"
         },
         {
-          "t": "a shield unto them that put their trust in him."
+          "t": " a shield unto them that put their trust in him. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Add thou not unto his words, lest he reprove thee, and thou be found a liar.",
       "tokens": [
         {
-          "t": "Add thou not unto his words, lest he reprove thee, and thou be found a liar."
+          "t": "Add thou not unto his words, lest he reprove thee, and thou be found a liar. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Two things have I required of thee; deny me them not before I die:",
       "tokens": [
         {
-          "t": "Two"
+          "t": "Two "
         },
         {
           "add": "things"
         },
         {
-          "t": "have I required of thee; deny me"
+          "t": " have I required of thee; deny me "
         },
         {
           "add": "them"
         },
         {
-          "t": "not before I die:"
+          "t": " not before I die: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:",
       "tokens": [
         {
-          "t": "Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:"
+          "t": "Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Lest I be full, and deny thee, and say, Who is the LORD? or lest I be poor, and steal, and take the name of my God in vain.",
       "tokens": [
         {
-          "t": "Lest I be full, and deny"
+          "t": "Lest I be full, and deny "
         },
         {
           "add": "thee"
         },
         {
-          "t": ", and say, Who"
+          "t": ", and say, Who "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "? or lest I be poor, and steal, and take the name of my God"
+          "t": "? or lest I be poor, and steal, and take the name of my God "
         },
         {
           "add": "in vain"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.",
       "tokens": [
         {
-          "t": "Accuse not a servant unto his master, lest he curse thee, and thou be found guilty."
+          "t": "Accuse not a servant unto his master, lest he curse thee, and thou be found guilty. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "There is a generation that curseth their father, and doth not bless their mother.",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "a generation"
+          "t": " a generation "
         },
         {
           "add": "that"
         },
         {
-          "t": "curseth their father, and doth not bless their mother."
+          "t": " curseth their father, and doth not bless their mother. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "a generation"
+          "t": " a generation "
         },
         {
           "add": "that are"
         },
         {
-          "t": "pure in their own eyes, and"
+          "t": " pure in their own eyes, and "
         },
         {
           "add": "yet"
         },
         {
-          "t": "is not washed from their filthiness."
+          "t": " is not washed from their filthiness. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "There is a generation, O how lofty are their eyes! and their eyelids are lifted up.",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "a generation, O how lofty are their eyes! and their eyelids are lifted up."
+          "t": " a generation, O how lofty are their eyes! and their eyelids are lifted up. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men.",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "a generation, whose teeth"
+          "t": " a generation, whose teeth "
         },
         {
           "add": "are as"
         },
         {
-          "t": "swords, and their jaw teeth"
+          "t": " swords, and their jaw teeth "
         },
         {
           "add": "as"
         },
         {
-          "t": "knives, to devour the poor from off the earth, and the needy from"
+          "t": " knives, to devour the poor from off the earth, and the needy from "
         },
         {
           "add": "among"
         },
         {
-          "t": "men."
+          "t": " men. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:",
       "tokens": [
         {
-          "t": "The horseleach hath two daughters,"
+          "t": "The horseleach hath two daughters, "
         },
         {
           "add": "crying"
         },
         {
-          "t": ", Give, give. There are three"
+          "t": ", Give, give. There are three "
         },
         {
           "add": "things that"
         },
         {
-          "t": "are never satisfied,"
+          "t": " are never satisfied, "
         },
         {
           "add": "yea"
         },
         {
-          "t": ", four"
+          "t": ", four "
         },
         {
           "add": "things"
         },
         {
-          "t": "say not,"
+          "t": " say not, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "enough:"
+          "t": " enough: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough.",
       "tokens": [
         {
-          "t": "The grave; and the barren womb; the earth"
+          "t": "The grave; and the barren womb; the earth "
         },
         {
           "add": "that"
         },
         {
-          "t": "is not filled with water; and the fire"
+          "t": " is not filled with water; and the fire "
         },
         {
           "add": "that"
         },
         {
-          "t": "saith not,"
+          "t": " saith not, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "enough."
+          "t": " enough. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.",
       "tokens": [
         {
-          "t": "The eye"
+          "t": "The eye "
         },
         {
           "add": "that"
         },
         {
-          "t": "mocketh at"
+          "t": " mocketh at "
         },
         {
           "add": "his"
         },
         {
-          "t": "father, and despiseth to obey"
+          "t": " father, and despiseth to obey "
         },
         {
           "add": "his"
         },
         {
-          "t": "mother, the ravens of the valley shall pick it out, and the young eagles shall eat it."
+          "t": " mother, the ravens of the valley shall pick it out, and the young eagles shall eat it. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "There be three things which are too wonderful for me, yea, four which I know not:",
       "tokens": [
         {
-          "t": "There be three"
+          "t": "There be three "
         },
         {
           "add": "things which"
         },
         {
-          "t": "are too wonderful for me, yea, four which I know not:"
+          "t": " are too wonderful for me, yea, four which I know not: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.",
       "tokens": [
         {
-          "t": "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid."
+          "t": "The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.",
       "tokens": [
         {
-          "t": "Such"
+          "t": "Such "
         },
         {
           "add": "is"
         },
         {
-          "t": "the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness."
+          "t": " the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For three things the earth is disquieted, and for four which it cannot bear:",
       "tokens": [
         {
-          "t": "For three"
+          "t": "For three "
         },
         {
           "add": "things"
         },
         {
-          "t": "the earth is disquieted, and for four"
+          "t": " the earth is disquieted, and for four "
         },
         {
           "add": "which"
         },
         {
-          "t": "it cannot bear:"
+          "t": " it cannot bear: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "For a servant when he reigneth; and a fool when he is filled with meat;",
       "tokens": [
         {
-          "t": "For a servant when he reigneth; and a fool when he is filled with meat;"
+          "t": "For a servant when he reigneth; and a fool when he is filled with meat; "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For an odious woman when she is married; and an handmaid that is heir to her mistress.",
       "tokens": [
         {
-          "t": "For an odious"
+          "t": "For an odious "
         },
         {
           "add": "woman"
         },
         {
-          "t": "when she is married; and an handmaid that is heir to her mistress."
+          "t": " when she is married; and an handmaid that is heir to her mistress. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "There be four things which are little upon the earth, but they are exceeding wise:",
       "tokens": [
         {
-          "t": "There be four"
+          "t": "There be four "
         },
         {
           "add": "things which are"
         },
         {
-          "t": "little upon the earth, but they"
+          "t": " little upon the earth, but they "
         },
         {
           "add": "are"
         },
         {
-          "t": "exceeding wise:"
+          "t": " exceeding wise: "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "The ants are a people not strong, yet they prepare their meat in the summer;",
       "tokens": [
         {
-          "t": "The ants"
+          "t": "The ants "
         },
         {
           "add": "are"
         },
         {
-          "t": "a people not strong, yet they prepare their meat in the summer;"
+          "t": " a people not strong, yet they prepare their meat in the summer; "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "The conies are but a feeble folk, yet make they their houses in the rocks;",
       "tokens": [
         {
-          "t": "The conies"
+          "t": "The conies "
         },
         {
           "add": "are but"
         },
         {
-          "t": "a feeble folk, yet make they their houses in the rocks;"
+          "t": " a feeble folk, yet make they their houses in the rocks; "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "The locusts have no king, yet go they forth all of them by bands;",
       "tokens": [
         {
-          "t": "The locusts have no king, yet go they forth all of them by bands;"
+          "t": "The locusts have no king, yet go they forth all of them by bands; "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "The spider taketh hold with her hands, and is in kings’ palaces.",
       "tokens": [
         {
-          "t": "The spider taketh hold with her hands, and is in kings’ palaces."
+          "t": "The spider taketh hold with her hands, and is in kings’ palaces. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "There be three things which go well, yea, four are comely in going:",
       "tokens": [
         {
-          "t": "There be three"
+          "t": "There be three "
         },
         {
           "add": "things"
         },
         {
-          "t": "which go well, yea, four are comely in going:"
+          "t": " which go well, yea, four are comely in going: "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "A lion which is strongest among beasts, and turneth not away for any;",
       "tokens": [
         {
-          "t": "A lion"
+          "t": "A lion "
         },
         {
           "add": "which is"
         },
         {
-          "t": "strongest among beasts, and turneth not away for any;"
+          "t": " strongest among beasts, and turneth not away for any; "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "A greyhound; an he goat also; and a king, against whom there is no rising up.",
       "tokens": [
         {
-          "t": "A greyhound; an he goat also; and a king, against whom"
+          "t": "A greyhound; an he goat also; and a king, against whom "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no rising up."
+          "t": " no rising up. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "If thou hast done foolishly in lifting up thyself, or if thou hast thought evil, lay thine hand upon thy mouth.",
       "tokens": [
         {
-          "t": "If thou hast done foolishly in lifting up thyself, or if thou hast thought evil,"
+          "t": "If thou hast done foolishly in lifting up thyself, or if thou hast thought evil, "
         },
         {
           "add": "lay"
         },
         {
-          "t": "thine hand upon thy mouth."
+          "t": " thine hand upon thy mouth. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.",
       "tokens": [
         {
-          "t": "Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife."
+          "t": "Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife. "
         }
       ]
     }

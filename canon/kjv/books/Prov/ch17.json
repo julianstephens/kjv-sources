@@ -7,405 +7,433 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.",
       "tokens": [
         {
-          "t": "Better"
+          "t": "Better "
         },
         {
           "add": "is"
         },
         {
-          "t": "a dry morsel, and quietness therewith, than an house full of sacrifices"
+          "t": " a dry morsel, and quietness therewith, than an house full of sacrifices "
         },
         {
           "add": "with"
         },
         {
-          "t": "strife."
+          "t": " strife. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren.",
       "tokens": [
         {
-          "t": "A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren."
+          "t": "A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The fining pot is for silver, and the furnace for gold: but the LORD trieth the hearts.",
       "tokens": [
         {
-          "t": "The fining pot"
+          "t": "The fining pot "
         },
         {
           "add": "is"
         },
         {
-          "t": "for silver, and the furnace for gold: but the"
+          "t": " for silver, and the furnace for gold: but the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "trieth the hearts."
+          "t": " trieth the hearts. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "A wicked doer giveth heed to false lips; and a liar giveth ear to a naughty tongue.",
       "tokens": [
         {
-          "t": "A wicked doer giveth heed to false lips;"
+          "t": "A wicked doer giveth heed to false lips; "
         },
         {
           "add": "and"
         },
         {
-          "t": "a liar giveth ear to a naughty tongue."
+          "t": " a liar giveth ear to a naughty tongue. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Whoso mocketh the poor reproacheth his Maker: and he that is glad at calamities shall not be unpunished.",
       "tokens": [
         {
-          "t": "Whoso mocketh the poor reproacheth his Maker:"
+          "t": "Whoso mocketh the poor reproacheth his Maker: "
         },
         {
           "add": "and"
         },
         {
-          "t": "he that is glad at calamities shall not be unpunished."
+          "t": " he that is glad at calamities shall not be unpunished. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Children’s children are the crown of old men; and the glory of children are their fathers.",
       "tokens": [
         {
-          "t": "Children’s children"
+          "t": "Children’s children "
         },
         {
           "add": "are"
         },
         {
-          "t": "the crown of old men; and the glory of children"
+          "t": " the crown of old men; and the glory of children "
         },
         {
           "add": "are"
         },
         {
-          "t": "their fathers."
+          "t": " their fathers. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Excellent speech becometh not a fool: much less do lying lips a prince.",
       "tokens": [
         {
-          "t": "Excellent speech becometh not a fool: much less do lying lips a prince."
+          "t": "Excellent speech becometh not a fool: much less do lying lips a prince. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.",
       "tokens": [
         {
-          "t": "A gift"
+          "t": "A gift "
         },
         {
           "add": "is as"
         },
         {
-          "t": "a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth."
+          "t": " a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.",
       "tokens": [
         {
-          "t": "He that covereth a transgression seeketh love; but he that repeateth a matter separateth"
+          "t": "He that covereth a transgression seeketh love; but he that repeateth a matter separateth "
         },
         {
           "add": "very"
         },
         {
-          "t": "friends."
+          "t": " friends. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "A reproof entereth more into a wise man than an hundred stripes into a fool.",
       "tokens": [
         {
-          "t": "A reproof entereth more into a wise man than an hundred stripes into a fool."
+          "t": "A reproof entereth more into a wise man than an hundred stripes into a fool. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.",
       "tokens": [
         {
-          "t": "An evil"
+          "t": "An evil "
         },
         {
           "add": "man"
         },
         {
-          "t": "seeketh only rebellion: therefore a cruel messenger shall be sent against him."
+          "t": " seeketh only rebellion: therefore a cruel messenger shall be sent against him. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Let a bear robbed of her whelps meet a man, rather than a fool in his folly.",
       "tokens": [
         {
-          "t": "Let a bear robbed of her whelps meet a man, rather than a fool in his folly."
+          "t": "Let a bear robbed of her whelps meet a man, rather than a fool in his folly. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Whoso rewardeth evil for good, evil shall not depart from his house.",
       "tokens": [
         {
-          "t": "Whoso rewardeth evil for good, evil shall not depart from his house."
+          "t": "Whoso rewardeth evil for good, evil shall not depart from his house. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.",
       "tokens": [
         {
-          "t": "The beginning of strife"
+          "t": "The beginning of strife "
         },
         {
           "add": "is as"
         },
         {
-          "t": "when one letteth out water: therefore leave off contention, before it be meddled with."
+          "t": " when one letteth out water: therefore leave off contention, before it be meddled with. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.",
       "tokens": [
         {
-          "t": "He that justifieth the wicked, and he that condemneth the just, even they both"
+          "t": "He that justifieth the wicked, and he that condemneth the just, even they both "
         },
         {
           "add": "are"
         },
         {
-          "t": "abomination to the"
+          "t": " abomination to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Wherefore is there a price in the hand of a fool to get wisdom, seeing he hath no heart to it?",
       "tokens": [
         {
-          "t": "Wherefore"
+          "t": "Wherefore "
         },
         {
           "add": "is there"
         },
         {
-          "t": "a price in the hand of a fool to get wisdom, seeing"
+          "t": " a price in the hand of a fool to get wisdom, seeing "
         },
         {
           "add": "he hath"
         },
         {
-          "t": "no heart"
+          "t": " no heart "
         },
         {
           "add": "to it"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "A friend loveth at all times, and a brother is born for adversity.",
       "tokens": [
         {
-          "t": "A friend loveth at all times, and a brother is born for adversity."
+          "t": "A friend loveth at all times, and a brother is born for adversity. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "A man void of understanding striketh hands, and becometh surety in the presence of his friend.",
       "tokens": [
         {
-          "t": "A man void of understanding striketh hands,"
+          "t": "A man void of understanding striketh hands, "
         },
         {
           "add": "and"
         },
         {
-          "t": "becometh surety in the presence of his friend."
+          "t": " becometh surety in the presence of his friend. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He loveth transgression that loveth strife: and he that exalteth his gate seeketh destruction.",
       "tokens": [
         {
-          "t": "He loveth transgression that loveth strife:"
+          "t": "He loveth transgression that loveth strife: "
         },
         {
           "add": "and"
         },
         {
-          "t": "he that exalteth his gate seeketh destruction."
+          "t": " he that exalteth his gate seeketh destruction. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.",
       "tokens": [
         {
-          "t": "He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief."
+          "t": "He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "He that begetteth a fool doeth it to his sorrow: and the father of a fool hath no joy.",
       "tokens": [
         {
-          "t": "He that begetteth a fool"
+          "t": "He that begetteth a fool "
         },
         {
           "add": "doeth it"
         },
         {
-          "t": "to his sorrow: and the father of a fool hath no joy."
+          "t": " to his sorrow: and the father of a fool hath no joy. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "A merry heart doeth good like a medicine: but a broken spirit drieth the bones.",
       "tokens": [
         {
-          "t": "A merry heart doeth good"
+          "t": "A merry heart doeth good "
         },
         {
           "add": "like"
         },
         {
-          "t": "a medicine: but a broken spirit drieth the bones."
+          "t": " a medicine: but a broken spirit drieth the bones. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "A wicked man taketh a gift out of the bosom to pervert the ways of judgment.",
       "tokens": [
         {
-          "t": "A wicked"
+          "t": "A wicked "
         },
         {
           "add": "man"
         },
         {
-          "t": "taketh a gift out of the bosom to pervert the ways of judgment."
+          "t": " taketh a gift out of the bosom to pervert the ways of judgment. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Wisdom is before him that hath understanding; but the eyes of a fool are in the ends of the earth.",
       "tokens": [
         {
-          "t": "Wisdom"
+          "t": "Wisdom "
         },
         {
           "add": "is"
         },
         {
-          "t": "before him that hath understanding; but the eyes of a fool"
+          "t": " before him that hath understanding; but the eyes of a fool "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the ends of the earth."
+          "t": " in the ends of the earth. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "A foolish son is a grief to his father, and bitterness to her that bare him.",
       "tokens": [
         {
-          "t": "A foolish son"
+          "t": "A foolish son "
         },
         {
           "add": "is"
         },
         {
-          "t": "a grief to his father, and bitterness to her that bare him."
+          "t": " a grief to his father, and bitterness to her that bare him. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Also to punish the just is not good, nor to strike princes for equity.",
       "tokens": [
         {
-          "t": "Also to punish the just"
+          "t": "Also to punish the just "
         },
         {
           "add": "is"
         },
         {
-          "t": "not good,"
+          "t": " not good, "
         },
         {
           "add": "nor"
         },
         {
-          "t": "to strike princes for equity."
+          "t": " to strike princes for equity. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.",
       "tokens": [
         {
-          "t": "He that hath knowledge spareth his words:"
+          "t": "He that hath knowledge spareth his words: "
         },
         {
           "add": "and"
         },
         {
-          "t": "a man of understanding is of an excellent spirit."
+          "t": " a man of understanding is of an excellent spirit. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.",
       "tokens": [
         {
-          "t": "Even a fool, when he holdeth his peace, is counted wise:"
+          "t": "Even a fool, when he holdeth his peace, is counted wise: "
         },
         {
           "add": "and"
         },
         {
-          "t": "he that shutteth his lips"
+          "t": " he that shutteth his lips "
         },
         {
           "add": "is esteemed"
         },
         {
-          "t": "a man of understanding."
+          "t": " a man of understanding. "
         }
       ]
     }

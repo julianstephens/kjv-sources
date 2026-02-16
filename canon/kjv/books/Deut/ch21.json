@@ -7,374 +7,400 @@
   "verses": [
     {
       "v": 1,
+      "plain": "If one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:",
       "tokens": [
         {
-          "t": "If"
+          "t": "If "
         },
         {
           "add": "one"
         },
         {
-          "t": "be found slain in the land which the"
+          "t": " be found slain in the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee to possess it, lying in the field,"
+          "t": " thy God giveth thee to possess it, lying in the field, "
         },
         {
           "add": "and"
         },
         {
-          "t": "it be not known who hath slain him:"
+          "t": " it be not known who hath slain him: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Then thy elders and thy judges shall come forth, and they shall measure unto the cities which are round about him that is slain:",
       "tokens": [
         {
-          "t": "Then thy elders and thy judges shall come forth, and they shall measure unto the cities which"
+          "t": "Then thy elders and thy judges shall come forth, and they shall measure unto the cities which "
         },
         {
           "add": "are"
         },
         {
-          "t": "round about him that is slain:"
+          "t": " round about him that is slain: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And it shall be, that the city which is next unto the slain man, even the elders of that city shall take an heifer, which hath not been wrought with, and which hath not drawn in the yoke;",
       "tokens": [
         {
-          "t": "And it shall be,"
+          "t": "And it shall be, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the city"
+          "t": " the city "
         },
         {
           "add": "which is"
         },
         {
-          "t": "next unto the slain man, even the elders of that city shall take an heifer, which hath not been wrought with,"
+          "t": " next unto the slain man, even the elders of that city shall take an heifer, which hath not been wrought with, "
         },
         {
           "add": "and"
         },
         {
-          "t": "which hath not drawn in the yoke;"
+          "t": " which hath not drawn in the yoke; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:",
       "tokens": [
         {
-          "t": "And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:"
+          "t": "And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the priests the sons of Levi shall come near; for them the LORD thy God hath chosen to minister unto him, and to bless in the name of the LORD; and by their word shall every controversy and every stroke be tried:",
       "tokens": [
         {
-          "t": "And the priests the sons of Levi shall come near; for them the"
+          "t": "And the priests the sons of Levi shall come near; for them the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath chosen to minister unto him, and to bless in the name of the"
+          "t": " thy God hath chosen to minister unto him, and to bless in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and by their word shall every controversy and every stroke be"
+          "t": "; and by their word shall every controversy and every stroke be "
         },
         {
           "add": "tried:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And all the elders of that city, that are next unto the slain man, shall wash their hands over the heifer that is beheaded in the valley:",
       "tokens": [
         {
-          "t": "And all the elders of that city,"
+          "t": "And all the elders of that city, "
         },
         {
           "add": "that are"
         },
         {
-          "t": "next unto the slain"
+          "t": " next unto the slain "
         },
         {
           "add": "man"
         },
         {
-          "t": ", shall wash their hands over the heifer that is beheaded in the valley:"
+          "t": ", shall wash their hands over the heifer that is beheaded in the valley: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen it.",
       "tokens": [
         {
-          "t": "And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen"
+          "t": "And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Be merciful, O LORD, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them.",
       "tokens": [
         {
-          "t": "Be merciful, O"
+          "t": "Be merciful, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them."
+          "t": ", unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "So shalt thou put away the guilt of innocent blood from among you, when thou shalt do that which is right in the sight of the LORD.",
       "tokens": [
         {
-          "t": "So shalt thou put away the"
+          "t": "So shalt thou put away the "
         },
         {
           "add": "guilt of"
         },
         {
-          "t": "innocent blood from among you, when thou shalt do"
+          "t": " innocent blood from among you, when thou shalt do "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "right in the sight of the"
+          "t": " right in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ When thou goest forth to war against thine enemies, and the LORD thy God hath delivered them into thine hands, and thou hast taken them captive,",
       "tokens": [
         {
-          "t": "¶ When thou goest forth to war against thine enemies, and the"
+          "t": "¶ When thou goest forth to war against thine enemies, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath delivered them into thine hands, and thou hast taken them captive,"
+          "t": " thy God hath delivered them into thine hands, and thou hast taken them captive, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;",
       "tokens": [
         {
-          "t": "And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;"
+          "t": "And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;",
       "tokens": [
         {
-          "t": "Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;"
+          "t": "Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife.",
       "tokens": [
         {
-          "t": "And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife."
+          "t": "And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her.",
       "tokens": [
         {
-          "t": "And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her."
+          "t": "And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ If a man have two wives, one beloved, and another hated, and they have born him children, both the beloved and the hated; and if the firstborn son be hers that was hated:",
       "tokens": [
         {
-          "t": "¶ If a man have two wives, one beloved, and another hated, and they have born him children,"
+          "t": "¶ If a man have two wives, one beloved, and another hated, and they have born him children, "
         },
         {
           "add": "both"
         },
         {
-          "t": "the beloved and the hated; and"
+          "t": " the beloved and the hated; and "
         },
         {
           "add": "if"
         },
         {
-          "t": "the firstborn son be hers that was hated:"
+          "t": " the firstborn son be hers that was hated: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:",
       "tokens": [
         {
-          "t": "Then it shall be, when he maketh his sons to inherit"
+          "t": "Then it shall be, when he maketh his sons to inherit "
         },
         {
           "add": "that"
         },
         {
-          "t": "which he hath,"
+          "t": " which he hath, "
         },
         {
           "add": "that"
         },
         {
-          "t": "he may not make the son of the beloved firstborn before the son of the hated,"
+          "t": " he may not make the son of the beloved firstborn before the son of the hated, "
         },
         {
           "add": "which is indeed"
         },
         {
-          "t": "the firstborn:"
+          "t": " the firstborn: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "But he shall acknowledge the son of the hated for the firstborn, by giving him a double portion of all that he hath: for he is the beginning of his strength; the right of the firstborn is his.",
       "tokens": [
         {
-          "t": "But he shall acknowledge the son of the hated"
+          "t": "But he shall acknowledge the son of the hated "
         },
         {
           "add": "for"
         },
         {
-          "t": "the firstborn, by giving him a double portion of all that he hath: for he"
+          "t": " the firstborn, by giving him a double portion of all that he hath: for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "the beginning of his strength; the right of the firstborn"
+          "t": " the beginning of his strength; the right of the firstborn "
         },
         {
           "add": "is"
         },
         {
-          "t": "his."
+          "t": " his. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them:",
       "tokens": [
         {
-          "t": "¶ If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and"
+          "t": "¶ If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and "
         },
         {
           "add": "that"
         },
         {
-          "t": ", when they have chastened him, will not hearken unto them:"
+          "t": ", when they have chastened him, will not hearken unto them: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;",
       "tokens": [
         {
-          "t": "Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;"
+          "t": "Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place; "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard.",
       "tokens": [
         {
-          "t": "And they shall say unto the elders of his city, This our son"
+          "t": "And they shall say unto the elders of his city, This our son "
         },
         {
           "add": "is"
         },
         {
-          "t": "stubborn and rebellious, he will not obey our voice;"
+          "t": " stubborn and rebellious, he will not obey our voice; "
         },
         {
           "add": "he is"
         },
         {
-          "t": "a glutton, and a drunkard."
+          "t": " a glutton, and a drunkard. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.",
       "tokens": [
         {
-          "t": "And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear."
+          "t": "And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:",
       "tokens": [
         {
-          "t": "¶ And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:"
+          "t": "¶ And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee for an inheritance.",
       "tokens": [
         {
-          "t": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged"
+          "t": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged "
         },
         {
           "add": "is"
         },
         {
-          "t": "accursed of God;) that thy land be not defiled, which the"
+          "t": " accursed of God;) that thy land be not defiled, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee"
+          "t": " thy God giveth thee "
         },
         {
           "add": "for"
         },
         {
-          "t": "an inheritance."
+          "t": " an inheritance. "
         }
       ]
     }

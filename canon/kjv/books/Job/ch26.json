@@ -7,173 +7,187 @@
   "verses": [
     {
       "v": 1,
+      "plain": "But Job answered and said,",
       "tokens": [
         {
-          "t": "But Job answered and said,"
+          "t": "But Job answered and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "How hast thou helped him that is without power? how savest thou the arm that hath no strength?",
       "tokens": [
         {
-          "t": "How hast thou helped"
+          "t": "How hast thou helped "
         },
         {
           "add": "him that is"
         },
         {
-          "t": "without power?"
+          "t": " without power? "
         },
         {
           "add": "how"
         },
         {
-          "t": "savest thou the arm"
+          "t": " savest thou the arm "
         },
         {
           "add": "that hath"
         },
         {
-          "t": "no strength?"
+          "t": " no strength? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "How hast thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is?",
       "tokens": [
         {
-          "t": "How hast thou counselled"
+          "t": "How hast thou counselled "
         },
         {
           "add": "him that hath"
         },
         {
-          "t": "no wisdom? and"
+          "t": " no wisdom? and "
         },
         {
           "add": "how"
         },
         {
-          "t": "hast thou plentifully declared the thing as it is?"
+          "t": " hast thou plentifully declared the thing as it is? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "To whom hast thou uttered words? and whose spirit came from thee?",
       "tokens": [
         {
-          "t": "To whom hast thou uttered words? and whose spirit came from thee?"
+          "t": "To whom hast thou uttered words? and whose spirit came from thee? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Dead things are formed from under the waters, and the inhabitants thereof.",
       "tokens": [
         {
-          "t": "Dead"
+          "t": "Dead "
         },
         {
           "add": "things"
         },
         {
-          "t": "are formed from under the waters, and the inhabitants thereof."
+          "t": " are formed from under the waters, and the inhabitants thereof. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Hell is naked before him, and destruction hath no covering.",
       "tokens": [
         {
-          "t": "Hell"
+          "t": "Hell "
         },
         {
           "add": "is"
         },
         {
-          "t": "naked before him, and destruction hath no covering."
+          "t": " naked before him, and destruction hath no covering. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "He stretcheth out the north over the empty place, and hangeth the earth upon nothing.",
       "tokens": [
         {
-          "t": "He stretcheth out the north over the empty place,"
+          "t": "He stretcheth out the north over the empty place, "
         },
         {
           "add": "and"
         },
         {
-          "t": "hangeth the earth upon nothing."
+          "t": " hangeth the earth upon nothing. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them.",
       "tokens": [
         {
-          "t": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them."
+          "t": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He holdeth back the face of his throne, and spreadeth his cloud upon it.",
       "tokens": [
         {
-          "t": "He holdeth back the face of his throne,"
+          "t": "He holdeth back the face of his throne, "
         },
         {
           "add": "and"
         },
         {
-          "t": "spreadeth his cloud upon it."
+          "t": " spreadeth his cloud upon it. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "He hath compassed the waters with bounds, until the day and night come to an end.",
       "tokens": [
         {
-          "t": "He hath compassed the waters with bounds, until the day and night come to an end."
+          "t": "He hath compassed the waters with bounds, until the day and night come to an end. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The pillars of heaven tremble and are astonished at his reproof.",
       "tokens": [
         {
-          "t": "The pillars of heaven tremble and are astonished at his reproof."
+          "t": "The pillars of heaven tremble and are astonished at his reproof. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "He divideth the sea with his power, and by his understanding he smiteth through the proud.",
       "tokens": [
         {
-          "t": "He divideth the sea with his power, and by his understanding he smiteth through the proud."
+          "t": "He divideth the sea with his power, and by his understanding he smiteth through the proud. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.",
       "tokens": [
         {
-          "t": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent."
+          "t": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?",
       "tokens": [
         {
-          "t": "Lo, these"
+          "t": "Lo, these "
         },
         {
           "add": "are"
         },
         {
-          "t": "parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?"
+          "t": " parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand? "
         }
       ]
     }

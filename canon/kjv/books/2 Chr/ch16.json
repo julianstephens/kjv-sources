@@ -7,212 +7,226 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.",
       "tokens": [
         {
-          "t": "In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah."
+          "t": "In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king’s house, and sent to Ben-hadad king of Syria, that dwelt at Damascus, saying,",
       "tokens": [
         {
-          "t": "Then Asa brought out silver and gold out of the treasures of the house of the"
+          "t": "Then Asa brought out silver and gold out of the treasures of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "and of the king’s house, and sent to Ben-hadad king of Syria, that dwelt at Damascus, saying,"
+          "t": " and of the king’s house, and sent to Ben-hadad king of Syria, that dwelt at Damascus, saying, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "There is a league between me and thee, as there was between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me.",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "a league between me and thee, as"
+          "t": " a league between me and thee, as "
         },
         {
           "add": "there was"
         },
         {
-          "t": "between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me."
+          "t": " between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Ben-hadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abel-maim, and all the store cities of Naphtali.",
       "tokens": [
         {
-          "t": "And Ben-hadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abel-maim, and all the store cities of Naphtali."
+          "t": "And Ben-hadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abel-maim, and all the store cities of Naphtali. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And it came to pass, when Baasha heard it, that he left off building of Ramah, and let his work cease.",
       "tokens": [
         {
-          "t": "And it came to pass, when Baasha heard"
+          "t": "And it came to pass, when Baasha heard "
         },
         {
           "add": "it"
         },
         {
-          "t": ", that he left off building of Ramah, and let his work cease."
+          "t": ", that he left off building of Ramah, and let his work cease. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah.",
       "tokens": [
         {
-          "t": "Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah."
+          "t": "Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the LORD thy God, therefore is the host of the king of Syria escaped out of thine hand.",
       "tokens": [
         {
-          "t": "¶ And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the"
+          "t": "¶ And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, therefore is the host of the king of Syria escaped out of thine hand."
+          "t": " thy God, therefore is the host of the king of Syria escaped out of thine hand. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the LORD, he delivered them into thine hand.",
       "tokens": [
         {
-          "t": "Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the"
+          "t": "Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", he delivered them into thine hand."
+          "t": ", he delivered them into thine hand. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For the eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.",
       "tokens": [
         {
-          "t": "For the eyes of the"
+          "t": "For the eyes of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "run to and fro throughout the whole earth, to shew himself strong in the behalf of"
+          "t": " run to and fro throughout the whole earth, to shew himself strong in the behalf of "
         },
         {
           "add": "them"
         },
         {
-          "t": "whose heart"
+          "t": " whose heart "
         },
         {
           "add": "is"
         },
         {
-          "t": "perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars."
+          "t": " perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then Asa was wroth with the seer, and put him in a prison house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time.",
       "tokens": [
         {
-          "t": "Then Asa was wroth with the seer, and put him in a prison house; for"
+          "t": "Then Asa was wroth with the seer, and put him in a prison house; for "
         },
         {
           "add": "he was"
         },
         {
-          "t": "in a rage with him because of this"
+          "t": " in a rage with him because of this "
         },
         {
           "add": "thing"
         },
         {
-          "t": ". And Asa oppressed"
+          "t": ". And Asa oppressed "
         },
         {
           "add": "some"
         },
         {
-          "t": "of the people the same time."
+          "t": " of the people the same time. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel.",
       "tokens": [
         {
-          "t": "¶ And, behold, the acts of Asa, first and last, lo, they"
+          "t": "¶ And, behold, the acts of Asa, first and last, lo, they "
         },
         {
           "add": "are"
         },
         {
-          "t": "written in the book of the kings of Judah and Israel."
+          "t": " written in the book of the kings of Judah and Israel. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the LORD, but to the physicians.",
       "tokens": [
         {
-          "t": "And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease"
+          "t": "And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease "
         },
         {
           "add": "was"
         },
         {
-          "t": "exceeding"
+          "t": " exceeding "
         },
         {
           "add": "great:"
         },
         {
-          "t": "yet in his disease he sought not to the"
+          "t": " yet in his disease he sought not to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", but to the physicians."
+          "t": ", but to the physicians. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ And Asa slept with his fathers, and died in the one and fortieth year of his reign.",
       "tokens": [
         {
-          "t": "¶ And Asa slept with his fathers, and died in the one and fortieth year of his reign."
+          "t": "¶ And Asa slept with his fathers, and died in the one and fortieth year of his reign. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries’ art: and they made a very great burning for him.",
       "tokens": [
         {
-          "t": "And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds"
+          "t": "And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds "
         },
         {
           "add": "of spices"
         },
         {
-          "t": "prepared by the apothecaries’ art: and they made a very great burning for him."
+          "t": " prepared by the apothecaries’ art: and they made a very great burning for him. "
         }
       ]
     }

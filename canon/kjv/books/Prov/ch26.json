@@ -7,411 +7,439 @@
   "verses": [
     {
       "v": 1,
+      "plain": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool.",
       "tokens": [
         {
-          "t": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool."
+          "t": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come.",
       "tokens": [
         {
-          "t": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come."
+          "t": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "A whip for the horse, a bridle for the ass, and a rod for the fool’s back.",
       "tokens": [
         {
-          "t": "A whip for the horse, a bridle for the ass, and a rod for the fool’s back."
+          "t": "A whip for the horse, a bridle for the ass, and a rod for the fool’s back. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Answer not a fool according to his folly, lest thou also be like unto him.",
       "tokens": [
         {
-          "t": "Answer not a fool according to his folly, lest thou also be like unto him."
+          "t": "Answer not a fool according to his folly, lest thou also be like unto him. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Answer a fool according to his folly, lest he be wise in his own conceit.",
       "tokens": [
         {
-          "t": "Answer a fool according to his folly, lest he be wise in his own conceit."
+          "t": "Answer a fool according to his folly, lest he be wise in his own conceit. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "He that sendeth a message by the hand of a fool cutteth off the feet, and drinketh damage.",
       "tokens": [
         {
-          "t": "He that sendeth a message by the hand of a fool cutteth off the feet,"
+          "t": "He that sendeth a message by the hand of a fool cutteth off the feet, "
         },
         {
           "add": "and"
         },
         {
-          "t": "drinketh damage."
+          "t": " drinketh damage. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The legs of the lame are not equal: so is a parable in the mouth of fools.",
       "tokens": [
         {
-          "t": "The legs of the lame are not equal: so"
+          "t": "The legs of the lame are not equal: so "
         },
         {
           "add": "is"
         },
         {
-          "t": "a parable in the mouth of fools."
+          "t": " a parable in the mouth of fools. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "As he that bindeth a stone in a sling, so is he that giveth honour to a fool.",
       "tokens": [
         {
-          "t": "As he that bindeth a stone in a sling, so"
+          "t": "As he that bindeth a stone in a sling, so "
         },
         {
           "add": "is"
         },
         {
-          "t": "he that giveth honour to a fool."
+          "t": " he that giveth honour to a fool. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "As a thorn goeth up into the hand of a drunkard, so is a parable in the mouth of fools.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "a thorn goeth up into the hand of a drunkard, so"
+          "t": " a thorn goeth up into the hand of a drunkard, so "
         },
         {
           "add": "is"
         },
         {
-          "t": "a parable in the mouth of fools."
+          "t": " a parable in the mouth of fools. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The great God that formed all things both rewardeth the fool, and rewardeth transgressors.",
       "tokens": [
         {
-          "t": "The great"
+          "t": "The great "
         },
         {
           "add": "God"
         },
         {
-          "t": "that formed all"
+          "t": " that formed all "
         },
         {
           "add": "things"
         },
         {
-          "t": "both rewardeth the fool, and rewardeth transgressors."
+          "t": " both rewardeth the fool, and rewardeth transgressors. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "As a dog returneth to his vomit, so a fool returneth to his folly.",
       "tokens": [
         {
-          "t": "As a dog returneth to his vomit,"
+          "t": "As a dog returneth to his vomit, "
         },
         {
           "add": "so"
         },
         {
-          "t": "a fool returneth to his folly."
+          "t": " a fool returneth to his folly. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Seest thou a man wise in his own conceit? there is more hope of a fool than of him.",
       "tokens": [
         {
-          "t": "Seest thou a man wise in his own conceit?"
+          "t": "Seest thou a man wise in his own conceit? "
         },
         {
           "add": "there is"
         },
         {
-          "t": "more hope of a fool than of him."
+          "t": " more hope of a fool than of him. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The slothful man saith, There is a lion in the way; a lion is in the streets.",
       "tokens": [
         {
-          "t": "The slothful"
+          "t": "The slothful "
         },
         {
           "add": "man"
         },
         {
-          "t": "saith,"
+          "t": " saith, "
         },
         {
           "add": "There is"
         },
         {
-          "t": "a lion in the way; a lion"
+          "t": " a lion in the way; a lion "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the streets."
+          "t": " in the streets. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "As the door turneth upon his hinges, so doth the slothful upon his bed.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "the door turneth upon his hinges, so"
+          "t": " the door turneth upon his hinges, so "
         },
         {
           "add": "doth"
         },
         {
-          "t": "the slothful upon his bed."
+          "t": " the slothful upon his bed. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The slothful hideth his hand in his bosom; it grieveth him to bring it again to his mouth.",
       "tokens": [
         {
-          "t": "The slothful hideth his hand in"
+          "t": "The slothful hideth his hand in "
         },
         {
           "add": "his"
         },
         {
-          "t": "bosom; it grieveth him to bring it again to his mouth."
+          "t": " bosom; it grieveth him to bring it again to his mouth. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The sluggard is wiser in his own conceit than seven men that can render a reason.",
       "tokens": [
         {
-          "t": "The sluggard"
+          "t": "The sluggard "
         },
         {
           "add": "is"
         },
         {
-          "t": "wiser in his own conceit than seven men that can render a reason."
+          "t": " wiser in his own conceit than seven men that can render a reason. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears.",
       "tokens": [
         {
-          "t": "He that passeth by,"
+          "t": "He that passeth by, "
         },
         {
           "add": "and"
         },
         {
-          "t": "meddleth with strife"
+          "t": " meddleth with strife "
         },
         {
           "add": "belonging"
         },
         {
-          "t": "not to him,"
+          "t": " not to him, "
         },
         {
           "add": "is like"
         },
         {
-          "t": "one that taketh a dog by the ears."
+          "t": " one that taketh a dog by the ears. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "As a mad man who casteth firebrands, arrows, and death,",
       "tokens": [
         {
-          "t": "As a mad"
+          "t": "As a mad "
         },
         {
           "add": "man"
         },
         {
-          "t": "who casteth firebrands, arrows, and death,"
+          "t": " who casteth firebrands, arrows, and death, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "So is the man that deceiveth his neighbour, and saith, Am not I in sport?",
       "tokens": [
         {
-          "t": "So"
+          "t": "So "
         },
         {
           "add": "is"
         },
         {
-          "t": "the man"
+          "t": " the man "
         },
         {
           "add": "that"
         },
         {
-          "t": "deceiveth his neighbour, and saith, Am not I in sport?"
+          "t": " deceiveth his neighbour, and saith, Am not I in sport? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.",
       "tokens": [
         {
-          "t": "Where no wood is,"
+          "t": "Where no wood is, "
         },
         {
           "add": "there"
         },
         {
-          "t": "the fire goeth out: so where"
+          "t": " the fire goeth out: so where "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no talebearer, the strife ceaseth."
+          "t": " no talebearer, the strife ceaseth. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "coals"
+          "t": " coals "
         },
         {
           "add": "are"
         },
         {
-          "t": "to burning coals, and wood to fire; so"
+          "t": " to burning coals, and wood to fire; so "
         },
         {
           "add": "is"
         },
         {
-          "t": "a contentious man to kindle strife."
+          "t": " a contentious man to kindle strife. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.",
       "tokens": [
         {
-          "t": "The words of a talebearer"
+          "t": "The words of a talebearer "
         },
         {
           "add": "are"
         },
         {
-          "t": "as wounds, and they go down into the innermost parts of the belly."
+          "t": " as wounds, and they go down into the innermost parts of the belly. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Burning lips and a wicked heart are like a potsherd covered with silver dross.",
       "tokens": [
         {
-          "t": "Burning lips and a wicked heart"
+          "t": "Burning lips and a wicked heart "
         },
         {
           "add": "are like"
         },
         {
-          "t": "a potsherd covered with silver dross."
+          "t": " a potsherd covered with silver dross. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "He that hateth dissembleth with his lips, and layeth up deceit within him;",
       "tokens": [
         {
-          "t": "He that hateth dissembleth with his lips, and layeth up deceit within him;"
+          "t": "He that hateth dissembleth with his lips, and layeth up deceit within him; "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "When he speaketh fair, believe him not: for there are seven abominations in his heart.",
       "tokens": [
         {
-          "t": "When he speaketh fair, believe him not: for"
+          "t": "When he speaketh fair, believe him not: for "
         },
         {
           "add": "there are"
         },
         {
-          "t": "seven abominations in his heart."
+          "t": " seven abominations in his heart. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Whose hatred is covered by deceit, his wickedness shall be shewed before the whole congregation.",
       "tokens": [
         {
           "add": "Whose"
         },
         {
-          "t": "hatred is covered by deceit, his wickedness shall be shewed before the"
+          "t": " hatred is covered by deceit, his wickedness shall be shewed before the "
         },
         {
           "add": "whole"
         },
         {
-          "t": "congregation."
+          "t": " congregation. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.",
       "tokens": [
         {
-          "t": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him."
+          "t": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "A lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin.",
       "tokens": [
         {
-          "t": "A lying tongue hateth"
+          "t": "A lying tongue hateth "
         },
         {
           "add": "those that are"
         },
         {
-          "t": "afflicted by it; and a flattering mouth worketh ruin."
+          "t": " afflicted by it; and a flattering mouth worketh ruin. "
         }
       ]
     }

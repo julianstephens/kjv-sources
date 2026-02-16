@@ -7,387 +7,418 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In the beginning God created the heaven and the earth.",
       "tokens": [
         {
-          "t": "In the beginning God created the heaven and the earth."
+          "t": "In the beginning God created the heaven and the earth. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
       "tokens": [
         {
-          "t": "And the earth was without form, and void; and darkness"
+          "t": "And the earth was without form, and void; and darkness "
         },
         {
           "add": "was"
         },
         {
-          "t": "upon the face of the deep. And the Spirit of God moved upon the face of the waters."
+          "t": " upon the face of the deep. And the Spirit of God moved upon the face of the waters. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And God said, Let there be light: and there was light.",
       "tokens": [
         {
-          "t": "And God said, Let there be light: and there was light."
+          "t": "And God said, Let there be light: and there was light. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And God saw the light, that it was good: and God divided the light from the darkness.",
       "tokens": [
         {
-          "t": "And God saw the light, that"
+          "t": "And God saw the light, that "
         },
         {
           "add": "it was"
         },
         {
-          "t": "good: and God divided the light from the darkness."
+          "t": " good: and God divided the light from the darkness. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
       "tokens": [
         {
-          "t": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."
+          "t": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.",
       "tokens": [
         {
-          "t": "¶ And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters."
+          "t": "¶ And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.",
       "tokens": [
         {
-          "t": "And God made the firmament, and divided the waters which"
+          "t": "And God made the firmament, and divided the waters which "
         },
         {
           "add": "were"
         },
         {
-          "t": "under the firmament from the waters which"
+          "t": " under the firmament from the waters which "
         },
         {
           "add": "were"
         },
         {
-          "t": "above the firmament: and it was so."
+          "t": " above the firmament: and it was so. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And God called the firmament Heaven. And the evening and the morning were the second day.",
       "tokens": [
         {
-          "t": "And God called the firmament Heaven. And the evening and the morning were the second day."
+          "t": "And God called the firmament Heaven. And the evening and the morning were the second day. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.",
       "tokens": [
         {
-          "t": "¶ And God said, Let the waters under the heaven be gathered together unto one place, and let the dry"
+          "t": "¶ And God said, Let the waters under the heaven be gathered together unto one place, and let the dry "
         },
         {
           "add": "land"
         },
         {
-          "t": "appear: and it was so."
+          "t": " appear: and it was so. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.",
       "tokens": [
         {
-          "t": "And God called the dry"
+          "t": "And God called the dry "
         },
         {
           "add": "land"
         },
         {
-          "t": "Earth; and the gathering together of the waters called he Seas: and God saw that"
+          "t": " Earth; and the gathering together of the waters called he Seas: and God saw that "
         },
         {
           "add": "it was"
         },
         {
-          "t": "good."
+          "t": " good. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.",
       "tokens": [
         {
-          "t": "And God said, Let the earth bring forth grass, the herb yielding seed,"
+          "t": "And God said, Let the earth bring forth grass, the herb yielding seed, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the fruit tree yielding fruit after his kind, whose seed"
+          "t": " the fruit tree yielding fruit after his kind, whose seed "
         },
         {
           "add": "is"
         },
         {
-          "t": "in itself, upon the earth: and it was so."
+          "t": " in itself, upon the earth: and it was so. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.",
       "tokens": [
         {
-          "t": "And the earth brought forth grass,"
+          "t": "And the earth brought forth grass, "
         },
         {
           "add": "and"
         },
         {
-          "t": "herb yielding seed after his kind, and the tree yielding fruit, whose seed"
+          "t": " herb yielding seed after his kind, and the tree yielding fruit, whose seed "
         },
         {
           "add": "was"
         },
         {
-          "t": "in itself, after his kind: and God saw that"
+          "t": " in itself, after his kind: and God saw that "
         },
         {
           "add": "it was"
         },
         {
-          "t": "good."
+          "t": " good. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the evening and the morning were the third day.",
       "tokens": [
         {
-          "t": "And the evening and the morning were the third day."
+          "t": "And the evening and the morning were the third day. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:",
       "tokens": [
         {
-          "t": "¶ And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:"
+          "t": "¶ And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.",
       "tokens": [
         {
-          "t": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so."
+          "t": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.",
       "tokens": [
         {
-          "t": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night:"
+          "t": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: "
         },
         {
           "add": "he made"
         },
         {
-          "t": "the stars also."
+          "t": " the stars also. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And God set them in the firmament of the heaven to give light upon the earth,",
       "tokens": [
         {
-          "t": "And God set them in the firmament of the heaven to give light upon the earth,"
+          "t": "And God set them in the firmament of the heaven to give light upon the earth, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.",
       "tokens": [
         {
-          "t": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that"
+          "t": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that "
         },
         {
           "add": "it was"
         },
         {
-          "t": "good."
+          "t": " good. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And the evening and the morning were the fourth day.",
       "tokens": [
         {
-          "t": "And the evening and the morning were the fourth day."
+          "t": "And the evening and the morning were the fourth day. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.",
       "tokens": [
         {
-          "t": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl"
+          "t": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl "
         },
         {
           "add": "that"
         },
         {
-          "t": "may fly above the earth in the open firmament of heaven."
+          "t": " may fly above the earth in the open firmament of heaven. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.",
       "tokens": [
         {
-          "t": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that"
+          "t": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that "
         },
         {
           "add": "it was"
         },
         {
-          "t": "good."
+          "t": " good. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.",
       "tokens": [
         {
-          "t": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth."
+          "t": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And the evening and the morning were the fifth day.",
       "tokens": [
         {
-          "t": "And the evening and the morning were the fifth day."
+          "t": "And the evening and the morning were the fifth day. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
       "tokens": [
         {
-          "t": "¶ And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so."
+          "t": "¶ And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.",
       "tokens": [
         {
-          "t": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that"
+          "t": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that "
         },
         {
           "add": "it was"
         },
         {
-          "t": "good."
+          "t": " good. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
       "tokens": [
         {
-          "t": "¶ And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
+          "t": "¶ And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "So God created man in his own image, in the image of God created he him; male and female created he them.",
       "tokens": [
         {
-          "t": "So God created man in his"
+          "t": "So God created man in his "
         },
         {
           "add": "own"
         },
         {
-          "t": "image, in the image of God created he him; male and female created he them."
+          "t": " image, in the image of God created he him; male and female created he them. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
       "tokens": [
         {
-          "t": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth."
+          "t": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.",
       "tokens": [
         {
-          "t": "¶ And God said, Behold, I have given you every herb bearing seed, which"
+          "t": "¶ And God said, Behold, I have given you every herb bearing seed, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the face of all the earth, and every tree, in the which"
+          "t": " upon the face of all the earth, and every tree, in the which "
         },
         {
           "add": "is"
         },
         {
-          "t": "the fruit of a tree yielding seed; to you it shall be for meat."
+          "t": " the fruit of a tree yielding seed; to you it shall be for meat. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.",
       "tokens": [
         {
-          "t": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein"
+          "t": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein "
         },
         {
           "add": "there is"
         },
         {
-          "t": "life,"
+          "t": " life, "
         },
         {
           "add": "I have given"
         },
         {
-          "t": "every green herb for meat: and it was so."
+          "t": " every green herb for meat: and it was so. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.",
       "tokens": [
         {
-          "t": "And God saw every thing that he had made, and, behold,"
+          "t": "And God saw every thing that he had made, and, behold, "
         },
         {
           "add": "it was"
         },
         {
-          "t": "very good. And the evening and the morning were the sixth day."
+          "t": " very good. And the evening and the morning were the sixth day. "
         }
       ]
     }

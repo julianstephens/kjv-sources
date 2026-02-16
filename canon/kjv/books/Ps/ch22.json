@@ -1,0 +1,548 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 22,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?",
+      "tokens": [
+        {
+          "t": "My God, my God, why hast thou forsaken me? "
+        },
+        {
+          "add": "why art thou so"
+        },
+        {
+          "t": " far from helping me, "
+        },
+        {
+          "add": "and from"
+        },
+        {
+          "t": " the words of my roaring? "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.",
+      "tokens": [
+        {
+          "t": "O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "But thou art holy, O thou that inhabitest the praises of Israel.",
+      "tokens": [
+        {
+          "t": "But thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " holy, "
+        },
+        {
+          "add": "O thou"
+        },
+        {
+          "t": " that inhabitest the praises of Israel. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Our fathers trusted in thee: they trusted, and thou didst deliver them.",
+      "tokens": [
+        {
+          "t": "Our fathers trusted in thee: they trusted, and thou didst deliver them. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "They cried unto thee, and were delivered: they trusted in thee, and were not confounded.",
+      "tokens": [
+        {
+          "t": "They cried unto thee, and were delivered: they trusted in thee, and were not confounded. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "But I am a worm, and no man; a reproach of men, and despised of the people.",
+      "tokens": [
+        {
+          "t": "But I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " a worm, and no man; a reproach of men, and despised of the people. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,",
+      "tokens": [
+        {
+          "t": "All they that see me laugh me to scorn: they shoot out the lip, they shake the head, "
+        },
+        {
+          "add": "saying"
+        },
+        {
+          "t": ", "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him.",
+      "tokens": [
+        {
+          "t": "He trusted on the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " he would deliver him: let him deliver him, seeing he delighted in him. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts.",
+      "tokens": [
+        {
+          "t": "But thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " he that took me out of the womb: thou didst make me hope "
+        },
+        {
+          "add": "when I was"
+        },
+        {
+          "t": " upon my mother’s breasts. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "I was cast upon thee from the womb: thou art my God from my mother’s belly.",
+      "tokens": [
+        {
+          "t": "I was cast upon thee from the womb: thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " my God from my mother’s belly. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Be not far from me; for trouble is near; for there is none to help.",
+      "tokens": [
+        {
+          "t": "Be not far from me; for trouble "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " near; for "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " none to help. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Many bulls have compassed me: strong bulls of Bashan have beset me round.",
+      "tokens": [
+        {
+          "t": "Many bulls have compassed me: strong "
+        },
+        {
+          "add": "bulls"
+        },
+        {
+          "t": " of Bashan have beset me round. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "They gaped upon me with their mouths, as a ravening and a roaring lion.",
+      "tokens": [
+        {
+          "t": "They gaped upon me "
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": " their mouths, "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " a ravening and a roaring lion. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.",
+      "tokens": [
+        {
+          "t": "I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.",
+      "tokens": [
+        {
+          "t": "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.",
+      "tokens": [
+        {
+          "t": "For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "I may tell all my bones: they look and stare upon me.",
+      "tokens": [
+        {
+          "t": "I may tell all my bones: they look "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " stare upon me. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "They part my garments among them, and cast lots upon my vesture.",
+      "tokens": [
+        {
+          "t": "They part my garments among them, and cast lots upon my vesture. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "But be not thou far from me, O LORD: O my strength, haste thee to help me.",
+      "tokens": [
+        {
+          "t": "But be not thou far from me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": O my strength, haste thee to help me. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "Deliver my soul from the sword; my darling from the power of the dog.",
+      "tokens": [
+        {
+          "t": "Deliver my soul from the sword; my darling from the power of the dog. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.",
+      "tokens": [
+        {
+          "t": "Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.",
+      "tokens": [
+        {
+          "t": "I will declare thy name unto my brethren: in the midst of the congregation will I praise thee. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.",
+      "tokens": [
+        {
+          "t": "Ye that fear the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel. "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.",
+      "tokens": [
+        {
+          "t": "For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard. "
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "plain": "My praise shall be of thee in the great congregation: I will pay my vows before them that fear him.",
+      "tokens": [
+        {
+          "t": "My praise "
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": " of thee in the great congregation: I will pay my vows before them that fear him. "
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "plain": "The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever.",
+      "tokens": [
+        {
+          "t": "The meek shall eat and be satisfied: they shall praise the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " that seek him: your heart shall live for ever. "
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "plain": "All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee.",
+      "tokens": [
+        {
+          "t": "All the ends of the world shall remember and turn unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": and all the kindreds of the nations shall worship before thee. "
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "plain": "For the kingdom is the LORD’s: and he is the governor among the nations.",
+      "tokens": [
+        {
+          "t": "For the kingdom "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD’s"
+        },
+        {
+          "t": ": and he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the governor among the nations. "
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "plain": "All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.",
+      "tokens": [
+        {
+          "t": "All "
+        },
+        {
+          "add": "they that be"
+        },
+        {
+          "t": " fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul. "
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "plain": "A seed shall serve him; it shall be accounted to the Lord for a generation.",
+      "tokens": [
+        {
+          "t": "A seed shall serve him; it shall be accounted to the Lord for a generation. "
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "plain": "They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.",
+      "tokens": [
+        {
+          "t": "They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done "
+        },
+        {
+          "add": "this"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Aijeleth…: or, the hind of the morning"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "helping…: Heb. my salvation"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 2
+      },
+      "text": "am…: Heb. there is no silence to me"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 7
+      },
+      "text": "shoot…: Heb. open"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 8
+      },
+      "text": "He trusted…: Heb. He rolled himself on"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 8
+      },
+      "text": "seeing…: or, if he delight in"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 9
+      },
+      "text": "didst…: or, kept me in safety"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 11
+      },
+      "text": "none…: Heb. not a helper"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 13
+      },
+      "text": "gaped…: Heb. opened their mouths against me"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 14
+      },
+      "text": "out of…: or, sundered"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 20
+      },
+      "text": "my darling: Heb. my only one"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 20
+      },
+      "text": "power: Heb. hand"
+    }
+  ]
+}

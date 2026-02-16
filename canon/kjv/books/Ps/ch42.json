@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 42,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "As the hart panteth after the water brooks, so panteth my soul after thee, O God.",
+      "tokens": [
+        {
+          "t": "As the hart panteth after the water brooks, so panteth my soul after thee, O God. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "My soul thirsteth for God, for the living God: when shall I come and appear before God?",
+      "tokens": [
+        {
+          "t": "My soul thirsteth for God, for the living God: when shall I come and appear before God? "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "My tears have been my meat day and night, while they continually say unto me, Where is thy God?",
+      "tokens": [
+        {
+          "t": "My tears have been my meat day and night, while they continually say unto me, Where "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thy God? "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.",
+      "tokens": [
+        {
+          "t": "When I remember these "
+        },
+        {
+          "add": "things"
+        },
+        {
+          "t": ", I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.",
+      "tokens": [
+        {
+          "t": "Why art thou cast down, O my soul? and "
+        },
+        {
+          "add": "why"
+        },
+        {
+          "t": " art thou disquieted in me? hope thou in God: for I shall yet praise him "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " the help of his countenance. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.",
+      "tokens": [
+        {
+          "t": "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.",
+      "tokens": [
+        {
+          "t": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Yet the LORD will command his lovingkindness in the daytime, and in the night his song shall be with me, and my prayer unto the God of my life.",
+      "tokens": [
+        {
+          "add": "Yet"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will command his lovingkindness in the daytime, and in the night his song "
+        },
+        {
+          "add": "shall be"
+        },
+        {
+          "t": " with me, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " my prayer unto the God of my life. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?",
+      "tokens": [
+        {
+          "t": "I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy? "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?",
+      "tokens": [
+        {
+          "add": "As"
+        },
+        {
+          "t": " with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thy God? "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+      "tokens": [
+        {
+          "t": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, "
+        },
+        {
+          "add": "who is"
+        },
+        {
+          "t": " the health of my countenance, and my God. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Maschil…: or, A Psalm giving instruction of the sons, etc"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "panteth: Heb. brayeth"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "cast: Heb. bowed"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 5
+      },
+      "text": "praise: or, give thanks"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 5
+      },
+      "text": "for the…: or, his presence is salvation"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 6
+      },
+      "text": "the hill…: or, the little hill"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 10
+      },
+      "text": "sword: or, killing"
+    }
+  ]
+}

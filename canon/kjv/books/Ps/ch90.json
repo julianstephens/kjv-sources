@@ -1,0 +1,342 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 90,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Lord, thou hast been our dwelling place in all generations.",
+      "tokens": [
+        {
+          "t": "Lord, thou hast been our dwelling place in all generations. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.",
+      "tokens": [
+        {
+          "t": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " God. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Thou turnest man to destruction; and sayest, Return, ye children of men.",
+      "tokens": [
+        {
+          "t": "Thou turnest man to destruction; and sayest, Return, ye children of men. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.",
+      "tokens": [
+        {
+          "t": "For a thousand years in thy sight "
+        },
+        {
+          "add": "are but"
+        },
+        {
+          "t": " as yesterday when it is past, and "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " a watch in the night. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.",
+      "tokens": [
+        {
+          "t": "Thou carriest them away as with a flood; they are "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " a sleep: in the morning "
+        },
+        {
+          "add": "they are"
+        },
+        {
+          "t": " like grass "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " groweth up. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.",
+      "tokens": [
+        {
+          "t": "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "For we are consumed by thine anger, and by thy wrath are we troubled.",
+      "tokens": [
+        {
+          "t": "For we are consumed by thine anger, and by thy wrath are we troubled. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Thou hast set our iniquities before thee, our secret sins in the light of thy countenance.",
+      "tokens": [
+        {
+          "t": "Thou hast set our iniquities before thee, our secret "
+        },
+        {
+          "add": "sins"
+        },
+        {
+          "t": " in the light of thy countenance. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "For all our days are passed away in thy wrath: we spend our years as a tale that is told.",
+      "tokens": [
+        {
+          "t": "For all our days are passed away in thy wrath: we spend our years as a tale "
+        },
+        {
+          "add": "that is told"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.",
+      "tokens": [
+        {
+          "t": "The days of our years "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " threescore years and ten; and if by reason of strength "
+        },
+        {
+          "add": "they be"
+        },
+        {
+          "t": " fourscore years, yet "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " their strength labour and sorrow; for it is soon cut off, and we fly away. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Who knoweth the power of thine anger? even according to thy fear, so is thy wrath.",
+      "tokens": [
+        {
+          "t": "Who knoweth the power of thine anger? even according to thy fear, "
+        },
+        {
+          "add": "so is"
+        },
+        {
+          "t": " thy wrath. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "So teach us to number our days, that we may apply our hearts unto wisdom.",
+      "tokens": [
+        {
+          "t": "So teach "
+        },
+        {
+          "add": "us"
+        },
+        {
+          "t": " to number our days, that we may apply "
+        },
+        {
+          "add": "our"
+        },
+        {
+          "t": " hearts unto wisdom. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Return, O LORD, how long? and let it repent thee concerning thy servants.",
+      "tokens": [
+        {
+          "t": "Return, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", how long? and let it repent thee concerning thy servants. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "O satisfy us early with thy mercy; that we may rejoice and be glad all our days.",
+      "tokens": [
+        {
+          "t": "O satisfy us early with thy mercy; that we may rejoice and be glad all our days. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.",
+      "tokens": [
+        {
+          "t": "Make us glad according to the days "
+        },
+        {
+          "add": "wherein"
+        },
+        {
+          "t": " thou hast afflicted us, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " the years "
+        },
+        {
+          "add": "wherein"
+        },
+        {
+          "t": " we have seen evil. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "Let thy work appear unto thy servants, and thy glory unto their children.",
+      "tokens": [
+        {
+          "t": "Let thy work appear unto thy servants, and thy glory unto their children. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
+      "tokens": [
+        {
+          "t": "And let the beauty of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "A Prayer…: or, A Prayer, being a Psalm of Moses"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "in…: Heb. in generation and generation"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "when…: or, when he hath passed them"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 5
+      },
+      "text": "groweth…: or, is changed"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "passed…: Heb. turned away"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 9
+      },
+      "text": "as a…: or, as a meditation"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 10
+      },
+      "text": "The days…: Heb. As for the days of our years, in them are seventy years"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 12
+      },
+      "text": "apply: Heb. cause to come"
+    }
+  ]
+}

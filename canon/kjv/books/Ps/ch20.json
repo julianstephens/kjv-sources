@@ -1,0 +1,182 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 20,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " hear thee in the day of trouble; the name of the God of Jacob defend thee; "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Send thee help from the sanctuary, and strengthen thee out of Zion;",
+      "tokens": [
+        {
+          "t": "Send thee help from the sanctuary, and strengthen thee out of Zion; "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
+      "tokens": [
+        {
+          "t": "Remember all thy offerings, and accept thy burnt sacrifice; Selah. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Grant thee according to thine own heart, and fulfil all thy counsel.",
+      "tokens": [
+        {
+          "t": "Grant thee according to thine own heart, and fulfil all thy counsel. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions.",
+      "tokens": [
+        {
+          "t": "We will rejoice in thy salvation, and in the name of our God we will set up "
+        },
+        {
+          "add": "our"
+        },
+        {
+          "t": " banners: the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " fulfil all thy petitions. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.",
+      "tokens": [
+        {
+          "t": "Now know I that the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God.",
+      "tokens": [
+        {
+          "t": "Some "
+        },
+        {
+          "add": "trust"
+        },
+        {
+          "t": " in chariots, and some in horses: but we will remember the name of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " our God. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "They are brought down and fallen: but we are risen, and stand upright.",
+      "tokens": [
+        {
+          "t": "They are brought down and fallen: but we are risen, and stand upright. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Save, LORD: let the king hear us when we call.",
+      "tokens": [
+        {
+          "t": "Save, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": let the king hear us when we call. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "defend…: Heb. set thee on an high place"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "thee help: Heb. thy help"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 2
+      },
+      "text": "strengthen: Heb. support"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 3
+      },
+      "text": "accept: Heb. turn to ashes: or, make fat"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 6
+      },
+      "text": "his holy…: Heb. the heaven of his holiness"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 6
+      },
+      "text": "with…: Heb. by the strength of the salvation of"
+    }
+  ]
+}

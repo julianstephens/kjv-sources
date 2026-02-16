@@ -7,554 +7,592 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.",
       "tokens": [
         {
-          "t": "Then the"
+          "t": "Then the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the"
+          "t": " said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of the Hebrews, Let my people go, that they may serve me."
+          "t": " God of the Hebrews, Let my people go, that they may serve me. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "For if thou refuse to let them go, and wilt hold them still,",
       "tokens": [
         {
-          "t": "For if thou refuse to let"
+          "t": "For if thou refuse to let "
         },
         {
           "add": "them"
         },
         {
-          "t": "go, and wilt hold them still,"
+          "t": " go, and wilt hold them still, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Behold, the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain.",
       "tokens": [
         {
-          "t": "Behold, the hand of the"
+          "t": "Behold, the hand of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "is upon thy cattle which"
+          "t": " is upon thy cattle which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep:"
+          "t": " in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: "
         },
         {
           "add": "there shall be"
         },
         {
-          "t": "a very grievous murrain."
+          "t": " a very grievous murrain. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all that is the children’s of Israel.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all"
+          "t": " shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all "
         },
         {
           "add": "that is"
         },
         {
-          "t": "the children’s of Israel."
+          "t": " the children’s of Israel. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "appointed a set time, saying, To morrow the"
+          "t": " appointed a set time, saying, To morrow the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall do this thing in the land."
+          "t": " shall do this thing in the land. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one."
+          "t": " did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go.",
       "tokens": [
         {
-          "t": "And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go."
+          "t": "And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh."
+          "t": " said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt.",
       "tokens": [
         {
-          "t": "And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth"
+          "t": "And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth "
         },
         {
           "add": "with"
         },
         {
-          "t": "blains upon man, and upon beast, throughout all the land of Egypt."
+          "t": " blains upon man, and upon beast, throughout all the land of Egypt. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast.",
       "tokens": [
         {
-          "t": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth"
+          "t": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth "
         },
         {
           "add": "with"
         },
         {
-          "t": "blains upon man, and upon beast."
+          "t": " blains upon man, and upon beast. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.",
       "tokens": [
         {
-          "t": "And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians."
+          "t": "And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hardened the heart of Pharaoh, and he hearkened not unto them; as the"
+          "t": " hardened the heart of Pharaoh, and he hearkened not unto them; as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had spoken unto Moses."
+          "t": " had spoken unto Moses. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the"
+          "t": " said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of the Hebrews, Let my people go, that they may serve me."
+          "t": " God of the Hebrews, Let my people go, that they may serve me. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that there is none like me in all the earth.",
       "tokens": [
         {
-          "t": "For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that"
+          "t": "For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none like me in all the earth."
+          "t": " none like me in all the earth. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.",
       "tokens": [
         {
-          "t": "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth."
+          "t": "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth.",
       "tokens": [
         {
-          "t": "And in very deed for this"
+          "t": "And in very deed for this "
         },
         {
           "add": "cause"
         },
         {
-          "t": "have I raised thee up, for to shew"
+          "t": " have I raised thee up, for to shew "
         },
         {
           "add": "in"
         },
         {
-          "t": "thee my power; and that my name may be declared throughout all the earth."
+          "t": " thee my power; and that my name may be declared throughout all the earth. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "As yet exaltest thou thyself against my people, that thou wilt not let them go?",
       "tokens": [
         {
-          "t": "As yet exaltest thou thyself against my people, that thou wilt not let them go?"
+          "t": "As yet exaltest thou thyself against my people, that thou wilt not let them go? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.",
       "tokens": [
         {
-          "t": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now."
+          "t": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.",
       "tokens": [
         {
-          "t": "Send therefore now,"
+          "t": "Send therefore now, "
         },
         {
           "add": "and"
         },
         {
-          "t": "gather thy cattle, and all that thou hast in the field;"
+          "t": " gather thy cattle, and all that thou hast in the field; "
         },
         {
           "add": "for upon"
         },
         {
-          "t": "every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die."
+          "t": " every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:",
       "tokens": [
         {
-          "t": "He that feared the word of the"
+          "t": "He that feared the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "among the servants of Pharaoh made his servants and his cattle flee into the houses:"
+          "t": " among the servants of Pharaoh made his servants and his cattle flee into the houses: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he that regarded not the word of the LORD left his servants and his cattle in the field.",
       "tokens": [
         {
-          "t": "And he that regarded not the word of the"
+          "t": "And he that regarded not the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "left his servants and his cattle in the field."
+          "t": " left his servants and his cattle in the field. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt."
+          "t": " said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And Moses stretched forth his rod toward heaven: and the LORD sent thunder and hail, and the fire ran along upon the ground; and the LORD rained hail upon the land of Egypt.",
       "tokens": [
         {
-          "t": "And Moses stretched forth his rod toward heaven: and the"
+          "t": "And Moses stretched forth his rod toward heaven: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sent thunder and hail, and the fire ran along upon the ground; and the"
+          "t": " sent thunder and hail, and the fire ran along upon the ground; and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "rained hail upon the land of Egypt."
+          "t": " rained hail upon the land of Egypt. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.",
       "tokens": [
         {
-          "t": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation."
+          "t": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.",
       "tokens": [
         {
-          "t": "And the hail smote throughout all the land of Egypt all that"
+          "t": "And the hail smote throughout all the land of Egypt all that "
         },
         {
           "add": "was"
         },
         {
-          "t": "in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field."
+          "t": " in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Only in the land of Goshen, where the children of Israel were, was there no hail.",
       "tokens": [
         {
-          "t": "Only in the land of Goshen, where the children of Israel"
+          "t": "Only in the land of Goshen, where the children of Israel "
         },
         {
           "add": "were"
         },
         {
-          "t": ", was there no hail."
+          "t": ", was there no hail. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked.",
       "tokens": [
         {
-          "t": "¶ And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the"
+          "t": "¶ And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "righteous, and I and my people"
+          "t": " righteous, and I and my people "
         },
         {
           "add": "are"
         },
         {
-          "t": "wicked."
+          "t": " wicked. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Intreat the LORD (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and ye shall stay no longer.",
       "tokens": [
         {
-          "t": "Intreat the"
+          "t": "Intreat the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "(for"
+          "t": " (for "
         },
         {
           "add": "it is"
         },
         {
-          "t": "enough) that there be no"
+          "t": " enough) that there be no "
         },
         {
           "add": "more"
         },
         {
-          "t": "mighty thunderings and hail; and I will let you go, and ye shall stay no longer."
+          "t": " mighty thunderings and hail; and I will let you go, and ye shall stay no longer. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the LORD’s.",
       "tokens": [
         {
-          "t": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the"
+          "t": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ";"
+          "t": "; "
         },
         {
           "add": "and"
         },
         {
-          "t": "the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth"
+          "t": " the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "But as for thee and thy servants, I know that ye will not yet fear the LORD God.",
       "tokens": [
         {
-          "t": "But as for thee and thy servants, I know that ye will not yet fear the"
+          "t": "But as for thee and thy servants, I know that ye will not yet fear the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God."
+          "t": " God. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled.",
       "tokens": [
         {
-          "t": "And the flax and the barley was smitten: for the barley"
+          "t": "And the flax and the barley was smitten: for the barley "
         },
         {
           "add": "was"
         },
         {
-          "t": "in the ear, and the flax"
+          "t": " in the ear, and the flax "
         },
         {
           "add": "was"
         },
         {
-          "t": "bolled."
+          "t": " bolled. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "But the wheat and the rie were not smitten: for they were not grown up.",
       "tokens": [
         {
-          "t": "But the wheat and the rie were not smitten: for they"
+          "t": "But the wheat and the rie were not smitten: for they "
         },
         {
           "add": "were"
         },
         {
-          "t": "not grown up."
+          "t": " not grown up. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth.",
       "tokens": [
         {
-          "t": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the"
+          "t": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and the thunders and hail ceased, and the rain was not poured upon the earth."
+          "t": ": and the thunders and hail ceased, and the rain was not poured upon the earth. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.",
       "tokens": [
         {
-          "t": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants."
+          "t": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.",
       "tokens": [
         {
-          "t": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the"
+          "t": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had spoken by Moses."
+          "t": " had spoken by Moses. "
         }
       ]
     }

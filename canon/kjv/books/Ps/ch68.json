@@ -1,0 +1,789 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 68,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
+      "tokens": [
+        {
+          "t": "Let God arise, let his enemies be scattered: let them also that hate him flee before him. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "As smoke is driven away, so drive them away: as wax melteth before the fire, so let the wicked perish at the presence of God.",
+      "tokens": [
+        {
+          "t": "As smoke is driven away, "
+        },
+        {
+          "add": "so"
+        },
+        {
+          "t": " drive "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " away: as wax melteth before the fire, "
+        },
+        {
+          "add": "so"
+        },
+        {
+          "t": " let the wicked perish at the presence of God. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.",
+      "tokens": [
+        {
+          "t": "But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name Jah, and rejoice before him.",
+      "tokens": [
+        {
+          "t": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name "
+        },
+        {
+          "nd": "Jah"
+        },
+        {
+          "t": ", and rejoice before him. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "A father of the fatherless, and a judge of the widows, is God in his holy habitation.",
+      "tokens": [
+        {
+          "t": "A father of the fatherless, and a judge of the widows, "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " God in his holy habitation. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land.",
+      "tokens": [
+        {
+          "t": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry "
+        },
+        {
+          "add": "land"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:",
+      "tokens": [
+        {
+          "t": "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah: "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "The earth shook, the heavens also dropped at the presence of God: even Sinai itself was moved at the presence of God, the God of Israel.",
+      "tokens": [
+        {
+          "t": "The earth shook, the heavens also dropped at the presence of God: "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " Sinai itself "
+        },
+        {
+          "add": "was moved"
+        },
+        {
+          "t": " at the presence of God, the God of Israel. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.",
+      "tokens": [
+        {
+          "t": "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.",
+      "tokens": [
+        {
+          "t": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "The Lord gave the word: great was the company of those that published it.",
+      "tokens": [
+        {
+          "t": "The Lord gave the word: great "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " the company of those that published "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Kings of armies did flee apace: and she that tarried at home divided the spoil.",
+      "tokens": [
+        {
+          "t": "Kings of armies did flee apace: and she that tarried at home divided the spoil. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Though ye have lien among the pots, yet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold.",
+      "tokens": [
+        {
+          "t": "Though ye have lien among the pots, "
+        },
+        {
+          "add": "yet shall ye be as"
+        },
+        {
+          "t": " the wings of a dove covered with silver, and her feathers with yellow gold. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "When the Almighty scattered kings in it, it was white as snow in Salmon.",
+      "tokens": [
+        {
+          "t": "When the Almighty scattered kings in it, it was "
+        },
+        {
+          "add": "white"
+        },
+        {
+          "t": " as snow in Salmon. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "The hill of God is as the hill of Bashan; an high hill as the hill of Bashan.",
+      "tokens": [
+        {
+          "t": "The hill of God "
+        },
+        {
+          "add": "is as"
+        },
+        {
+          "t": " the hill of Bashan; an high hill "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " the hill of Bashan. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the LORD will dwell in it for ever.",
+      "tokens": [
+        {
+          "t": "Why leap ye, ye high hills? "
+        },
+        {
+          "add": "this is"
+        },
+        {
+          "t": " the hill "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " God desireth to dwell in; yea, the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " will dwell "
+        },
+        {
+          "add": "in it"
+        },
+        {
+          "t": " for ever. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "The chariots of God are twenty thousand, even thousands of angels: the Lord is among them, as in Sinai, in the holy place.",
+      "tokens": [
+        {
+          "t": "The chariots of God "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " twenty thousand, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " thousands of angels: the Lord "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " among them, "
+        },
+        {
+          "add": "as in"
+        },
+        {
+          "t": " Sinai, in the holy "
+        },
+        {
+          "add": "place"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, for the rebellious also, that the LORD God might dwell among them.",
+      "tokens": [
+        {
+          "t": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, "
+        },
+        {
+          "add": "for"
+        },
+        {
+          "t": " the rebellious also, that the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God might dwell "
+        },
+        {
+          "add": "among them"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah.",
+      "tokens": [
+        {
+          "t": "Blessed "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " the Lord, "
+        },
+        {
+          "add": "who"
+        },
+        {
+          "t": " daily loadeth us "
+        },
+        {
+          "add": "with benefits, even"
+        },
+        {
+          "t": " the God of our salvation. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "He that is our God is the God of salvation; and unto GOD the Lord belong the issues from death.",
+      "tokens": [
+        {
+          "add": "He that is"
+        },
+        {
+          "t": " our God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the God of salvation; and unto "
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": " the Lord "
+        },
+        {
+          "add": "belong"
+        },
+        {
+          "t": " the issues from death. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "But God shall wound the head of his enemies, and the hairy scalp of such an one as goeth on still in his trespasses.",
+      "tokens": [
+        {
+          "t": "But God shall wound the head of his enemies, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " the hairy scalp of such an one as goeth on still in his trespasses. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "The Lord said, I will bring again from Bashan, I will bring my people again from the depths of the sea:",
+      "tokens": [
+        {
+          "t": "The Lord said, I will bring again from Bashan, I will bring "
+        },
+        {
+          "add": "my people"
+        },
+        {
+          "t": " again from the depths of the sea: "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "That thy foot may be dipped in the blood of thine enemies, and the tongue of thy dogs in the same.",
+      "tokens": [
+        {
+          "t": "That thy foot may be dipped in the blood of "
+        },
+        {
+          "add": "thine"
+        },
+        {
+          "t": " enemies, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " the tongue of thy dogs in the same. "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "They have seen thy goings, O God; even the goings of my God, my King, in the sanctuary.",
+      "tokens": [
+        {
+          "t": "They have seen thy goings, O God; "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " the goings of my God, my King, in the sanctuary. "
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "plain": "The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels.",
+      "tokens": [
+        {
+          "t": "The singers went before, the players on instruments "
+        },
+        {
+          "add": "followed"
+        },
+        {
+          "t": " after; among "
+        },
+        {
+          "add": "them were"
+        },
+        {
+          "t": " the damsels playing with timbrels. "
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "plain": "Bless ye God in the congregations, even the Lord, from the fountain of Israel.",
+      "tokens": [
+        {
+          "t": "Bless ye God in the congregations, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " the Lord, from the fountain of Israel. "
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "plain": "There is little Benjamin with their ruler, the princes of Judah and their council, the princes of Zebulun, and the princes of Naphtali.",
+      "tokens": [
+        {
+          "t": "There "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " little Benjamin "
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": " their ruler, the princes of Judah "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " their council, the princes of Zebulun, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " the princes of Naphtali. "
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "plain": "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.",
+      "tokens": [
+        {
+          "t": "Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us. "
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "plain": "Because of thy temple at Jerusalem shall kings bring presents unto thee.",
+      "tokens": [
+        {
+          "t": "Because of thy temple at Jerusalem shall kings bring presents unto thee. "
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "plain": "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, till every one submit himself with pieces of silver: scatter thou the people that delight in war.",
+      "tokens": [
+        {
+          "t": "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, "
+        },
+        {
+          "add": "till every one"
+        },
+        {
+          "t": " submit himself with pieces of silver: scatter thou the people "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " delight in war. "
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "plain": "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.",
+      "tokens": [
+        {
+          "t": "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God. "
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "plain": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
+      "tokens": [
+        {
+          "t": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah: "
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "plain": "To him that rideth upon the heavens of heavens, which were of old; lo, he doth send out his voice, and that a mighty voice.",
+      "tokens": [
+        {
+          "t": "To him that rideth upon the heavens of heavens, "
+        },
+        {
+          "add": "which were"
+        },
+        {
+          "t": " of old; lo, he doth send out his voice, "
+        },
+        {
+          "add": "and that"
+        },
+        {
+          "t": " a mighty voice. "
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "plain": "Ascribe ye strength unto God: his excellency is over Israel, and his strength is in the clouds.",
+      "tokens": [
+        {
+          "t": "Ascribe ye strength unto God: his excellency "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " over Israel, and his strength "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in the clouds. "
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "plain": "O God, thou art terrible out of thy holy places: the God of Israel is he that giveth strength and power unto his people. Blessed be God.",
+      "tokens": [
+        {
+          "t": "O God, "
+        },
+        {
+          "add": "thou art"
+        },
+        {
+          "t": " terrible out of thy holy places: the God of Israel "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " he that giveth strength and power unto "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " people. Blessed "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " God. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "before…: Heb. from his face"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "exceedingly…: Heb. rejoice with gladness"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "in families: Heb. in a house"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 9
+      },
+      "text": "send: Heb. shake out"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "confirm: Heb. confirm it"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 11
+      },
+      "text": "company: Heb. army"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 12
+      },
+      "text": "did…: Heb. did flee, did flee"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 14
+      },
+      "text": "in it…: or, for her, she"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 17
+      },
+      "text": "even…: or, even many thousands"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 18
+      },
+      "text": "for men: Heb. in the man"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 23
+      },
+      "text": "dipped: or, red"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 26
+      },
+      "text": "from…: or, ye that are of the fountain of Israel"
+    },
+    {
+      "id": "FN13",
+      "mark": "*",
+      "at": {
+        "v": 27
+      },
+      "text": "and their…: or, with their company"
+    },
+    {
+      "id": "FN14",
+      "mark": "†",
+      "at": {
+        "v": 30
+      },
+      "text": "the company…: or, the beasts of the reeds"
+    },
+    {
+      "id": "FN15",
+      "mark": "‡",
+      "at": {
+        "v": 30
+      },
+      "text": "scatter…: or, he scattereth"
+    },
+    {
+      "id": "FN16",
+      "mark": "§",
+      "at": {
+        "v": 33
+      },
+      "text": "send…: Heb. give"
+    },
+    {
+      "id": "FN17",
+      "mark": "**",
+      "at": {
+        "v": 34
+      },
+      "text": "clouds: or, heavens"
+    }
+  ]
+}

@@ -7,291 +7,313 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth-lehem-judah went to sojourn in the country of Moab, he, and his wife, and his two sons.",
       "tokens": [
         {
-          "t": "Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth-lehem-judah went to sojourn in the country of Moab, he, and his wife, and his two sons."
+          "t": "Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth-lehem-judah went to sojourn in the country of Moab, he, and his wife, and his two sons. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and continued there.",
       "tokens": [
         {
-          "t": "And the name of the man"
+          "t": "And the name of the man "
         },
         {
           "add": "was"
         },
         {
-          "t": "Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and continued there."
+          "t": " Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and continued there. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Elimelech Naomi’s husband died; and she was left, and her two sons.",
       "tokens": [
         {
-          "t": "And Elimelech Naomi’s husband died; and she was left, and her two sons."
+          "t": "And Elimelech Naomi’s husband died; and she was left, and her two sons. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.",
       "tokens": [
         {
-          "t": "And they took them wives of the women of Moab; the name of the one"
+          "t": "And they took them wives of the women of Moab; the name of the one "
         },
         {
           "add": "was"
         },
         {
-          "t": "Orpah, and the name of the other Ruth: and they dwelled there about ten years."
+          "t": " Orpah, and the name of the other Ruth: and they dwelled there about ten years. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.",
       "tokens": [
         {
-          "t": "And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband."
+          "t": "And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread.",
       "tokens": [
         {
-          "t": "¶ Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the"
+          "t": "¶ Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had visited his people in giving them bread."
+          "t": " had visited his people in giving them bread. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.",
       "tokens": [
         {
-          "t": "Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah."
+          "t": "Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Naomi said unto her two daughters in law, Go, return each to her mother’s house: the LORD deal kindly with you, as ye have dealt with the dead, and with me.",
       "tokens": [
         {
-          "t": "And Naomi said unto her two daughters in law, Go, return each to her mother’s house: the"
+          "t": "And Naomi said unto her two daughters in law, Go, return each to her mother’s house: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "deal kindly with you, as ye have dealt with the dead, and with me."
+          "t": " deal kindly with you, as ye have dealt with the dead, and with me. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The LORD grant you that ye may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "grant you that ye may find rest, each"
+          "t": " grant you that ye may find rest, each "
         },
         {
           "add": "of you"
         },
         {
-          "t": "in the house of her husband. Then she kissed them; and they lifted up their voice, and wept."
+          "t": " in the house of her husband. Then she kissed them; and they lifted up their voice, and wept. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And they said unto her, Surely we will return with thee unto thy people.",
       "tokens": [
         {
-          "t": "And they said unto her, Surely we will return with thee unto thy people."
+          "t": "And they said unto her, Surely we will return with thee unto thy people. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Naomi said, Turn again, my daughters: why will ye go with me? are there yet any more sons in my womb, that they may be your husbands?",
       "tokens": [
         {
-          "t": "And Naomi said, Turn again, my daughters: why will ye go with me?"
+          "t": "And Naomi said, Turn again, my daughters: why will ye go with me? "
         },
         {
           "add": "are"
         },
         {
-          "t": "there yet"
+          "t": " there yet "
         },
         {
           "add": "any more"
         },
         {
-          "t": "sons in my womb, that they may be your husbands?"
+          "t": " sons in my womb, that they may be your husbands? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Turn again, my daughters, go your way; for I am too old to have an husband. If I should say, I have hope, if I should have an husband also to night, and should also bear sons;",
       "tokens": [
         {
-          "t": "Turn again, my daughters, go"
+          "t": "Turn again, my daughters, go "
         },
         {
           "add": "your way;"
         },
         {
-          "t": "for I am too old to have an husband. If I should say, I have hope,"
+          "t": " for I am too old to have an husband. If I should say, I have hope, "
         },
         {
           "add": "if"
         },
         {
-          "t": "I should have an husband also to night, and should also bear sons;"
+          "t": " I should have an husband also to night, and should also bear sons; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the LORD is gone out against me.",
       "tokens": [
         {
-          "t": "Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the"
+          "t": "Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "is gone out against me."
+          "t": " is gone out against me. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.",
       "tokens": [
         {
-          "t": "And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her."
+          "t": "And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law.",
       "tokens": [
         {
-          "t": "And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law."
+          "t": "And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:",
       "tokens": [
         {
-          "t": "And Ruth said, Intreat me not to leave thee,"
+          "t": "And Ruth said, Intreat me not to leave thee, "
         },
         {
           "add": "or"
         },
         {
-          "t": "to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people"
+          "t": " to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "my people, and thy God my God:"
+          "t": " my people, and thy God my God: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, if ought but death part thee and me.",
       "tokens": [
         {
-          "t": "Where thou diest, will I die, and there will I be buried: the"
+          "t": "Where thou diest, will I die, and there will I be buried: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "do so to me, and more also,"
+          "t": " do so to me, and more also, "
         },
         {
           "add": "if ought"
         },
         {
-          "t": "but death part thee and me."
+          "t": " but death part thee and me. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "When she saw that she was stedfastly minded to go with her, then she left speaking unto her.",
       "tokens": [
         {
-          "t": "When she saw that she was stedfastly minded to go with her, then she left speaking unto her."
+          "t": "When she saw that she was stedfastly minded to go with her, then she left speaking unto her. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ So they two went until they came to Beth-lehem. And it came to pass, when they were come to Beth-lehem, that all the city was moved about them, and they said, Is this Naomi?",
       "tokens": [
         {
-          "t": "¶ So they two went until they came to Beth-lehem. And it came to pass, when they were come to Beth-lehem, that all the city was moved about them, and they said,"
+          "t": "¶ So they two went until they came to Beth-lehem. And it came to pass, when they were come to Beth-lehem, that all the city was moved about them, and they said, "
         },
         {
           "add": "Is"
         },
         {
-          "t": "this Naomi?"
+          "t": " this Naomi? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.",
       "tokens": [
         {
-          "t": "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me."
+          "t": "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "I went out full, and the LORD hath brought me home again empty: why then call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?",
       "tokens": [
         {
-          "t": "I went out full, and the"
+          "t": "I went out full, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath brought me home again empty: why"
+          "t": " hath brought me home again empty: why "
         },
         {
           "add": "then"
         },
         {
-          "t": "call ye me Naomi, seeing the"
+          "t": " call ye me Naomi, seeing the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath testified against me, and the Almighty hath afflicted me?"
+          "t": " hath testified against me, and the Almighty hath afflicted me? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Beth-lehem in the beginning of barley harvest.",
       "tokens": [
         {
-          "t": "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Beth-lehem in the beginning of barley harvest."
+          "t": "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Beth-lehem in the beginning of barley harvest. "
         }
       ]
     }

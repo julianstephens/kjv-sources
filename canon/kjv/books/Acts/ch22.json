@@ -7,307 +7,367 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Men, brethren, and fathers, hear ye my defence which I make now unto you.",
       "tokens": [
         {
-          "t": "Men, brethren, and fathers, hear ye my defence"
+          "t": "Men, brethren, and fathers, hear ye my defence "
         },
         {
           "add": "which I make"
         },
         {
-          "t": "now unto you."
+          "t": " now unto you. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "(And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)",
       "tokens": [
         {
-          "t": "(And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)"
+          "t": "(And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,) "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.",
       "tokens": [
         {
-          "t": "I am verily a man"
+          "t": "I am verily a man "
         },
         {
           "add": "which am"
         },
         {
-          "t": "a Jew, born in Tarsus,"
+          "t": " a Jew, born in Tarsus, "
         },
         {
           "add": "a city"
         },
         {
-          "t": "in Cilicia, yet brought up in this city at the feet of Gamaliel,"
+          "t": " in Cilicia, yet brought up in this city at the feet of Gamaliel, "
         },
         {
           "add": "and"
         },
         {
-          "t": "taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day."
+          "t": " taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And I persecuted this way unto the death, binding and delivering into prisons both men and women.",
       "tokens": [
         {
-          "t": "And I persecuted this way unto the death, binding and delivering into prisons both men and women."
+          "t": "And I persecuted this way unto the death, binding and delivering into prisons both men and women. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.",
       "tokens": [
         {
-          "t": "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished."
+          "t": "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me.",
       "tokens": [
         {
-          "t": "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me."
+          "t": "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?",
       "tokens": [
         {
-          "t": "And I fell unto the ground, and heard a voice saying unto me,"
+          "t": "And I fell unto the ground, and heard a voice saying unto me, "
+        },
+        {
+          "t": "Saul, Saul, why persecutest thou me?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest.",
       "tokens": [
         {
-          "t": "And I answered, Who art thou, Lord? And he said unto me,"
+          "t": "And I answered, Who art thou, Lord? And he said unto me, "
+        },
+        {
+          "t": "I am Jesus of Nazareth, whom thou persecutest."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.",
       "tokens": [
         {
-          "t": "And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me."
+          "t": "And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And I said, What shall I do, Lord? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.",
       "tokens": [
         {
-          "t": "And I said, What shall I do, Lord? And the Lord said unto me,"
+          "t": "And I said, What shall I do, Lord? And the Lord said unto me, "
+        },
+        {
+          "t": "Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus.",
       "tokens": [
         {
-          "t": "And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus."
+          "t": "And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there,",
       "tokens": [
         {
-          "t": "And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt"
+          "t": "And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt "
         },
         {
           "add": "there"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him.",
       "tokens": [
         {
-          "t": "Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him."
+          "t": "Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth.",
       "tokens": [
         {
-          "t": "And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth."
+          "t": "And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For thou shalt be his witness unto all men of what thou hast seen and heard.",
       "tokens": [
         {
-          "t": "For thou shalt be his witness unto all men of what thou hast seen and heard."
+          "t": "For thou shalt be his witness unto all men of what thou hast seen and heard. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord.",
       "tokens": [
         {
-          "t": "And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord."
+          "t": "And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;",
       "tokens": [
         {
-          "t": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;"
+          "t": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance; "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.",
       "tokens": [
         {
-          "t": "And saw him saying unto me,"
+          "t": "And saw him saying unto me, "
+        },
+        {
+          "t": "Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:",
       "tokens": [
         {
-          "t": "And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:"
+          "t": "And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.",
       "tokens": [
         {
-          "t": "And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him."
+          "t": "And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he said unto me, Depart: for I will send thee far hence unto the Gentiles.",
       "tokens": [
         {
-          "t": "And he said unto me,"
+          "t": "And he said unto me, "
+        },
+        {
+          "t": "Depart: for I will send thee far hence unto the Gentiles."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And they gave him audience unto this word, and then lifted up their voices, and said, Away with such a fellow from the earth: for it is not fit that he should live.",
       "tokens": [
         {
-          "t": "And they gave him audience unto this word, and"
+          "t": "And they gave him audience unto this word, and "
         },
         {
           "add": "then"
         },
         {
-          "t": "lifted up their voices, and said, Away with such a"
+          "t": " lifted up their voices, and said, Away with such a "
         },
         {
           "add": "fellow"
         },
         {
-          "t": "from the earth: for it is not fit that he should live."
+          "t": " from the earth: for it is not fit that he should live. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And as they cried out, and cast off their clothes, and threw dust into the air,",
       "tokens": [
         {
-          "t": "And as they cried out, and cast off"
+          "t": "And as they cried out, and cast off "
         },
         {
           "add": "their"
         },
         {
-          "t": "clothes, and threw dust into the air,"
+          "t": " clothes, and threw dust into the air, "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him.",
       "tokens": [
         {
-          "t": "The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him."
+          "t": "The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?",
       "tokens": [
         {
-          "t": "And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?"
+          "t": "And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned? "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "When the centurion heard that, he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman.",
       "tokens": [
         {
-          "t": "When the centurion heard"
+          "t": "When the centurion heard "
         },
         {
           "add": "that"
         },
         {
-          "t": ", he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman."
+          "t": ", he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea.",
       "tokens": [
         {
-          "t": "Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea."
+          "t": "Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was free born.",
       "tokens": [
         {
-          "t": "And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was"
+          "t": "And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was "
         },
         {
           "add": "free"
         },
         {
-          "t": "born."
+          "t": " born. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.",
       "tokens": [
         {
-          "t": "Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him."
+          "t": "Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.",
       "tokens": [
         {
-          "t": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from"
+          "t": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from "
         },
         {
           "add": "his"
         },
         {
-          "t": "bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them."
+          "t": " bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them. "
         }
       ]
     }

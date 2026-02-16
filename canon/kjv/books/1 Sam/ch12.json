@@ -7,489 +7,517 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you.",
       "tokens": [
         {
-          "t": "And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you."
+          "t": "And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons are with you: and I have walked before you from my childhood unto this day.",
       "tokens": [
         {
-          "t": "And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons"
+          "t": "And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons "
         },
         {
           "add": "are"
         },
         {
-          "t": "with you: and I have walked before you from my childhood unto this day."
+          "t": " with you: and I have walked before you from my childhood unto this day. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Behold, here I am: witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you.",
       "tokens": [
         {
-          "t": "Behold, here I"
+          "t": "Behold, here I "
         },
         {
           "add": "am:"
         },
         {
-          "t": "witness against me before the"
+          "t": " witness against me before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received"
+          "t": ", and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received "
         },
         {
           "add": "any"
         },
         {
-          "t": "bribe to blind mine eyes therewith? and I will restore it you."
+          "t": " bribe to blind mine eyes therewith? and I will restore it you. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand.",
       "tokens": [
         {
-          "t": "And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand."
+          "t": "And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And he said unto them, The LORD is witness against you, and his anointed is witness this day, that ye have not found ought in my hand. And they answered, He is witness.",
       "tokens": [
         {
-          "t": "And he said unto them, The"
+          "t": "And he said unto them, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "add": "is"
-        },
-        {
-          "t": "witness against you, and his anointed"
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "witness this day, that ye have not found ought in my hand. And they answered,"
+          "t": " witness against you, and his anointed "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " witness this day, that ye have not found ought in my hand. And they answered, "
         },
         {
           "add": "He is"
         },
         {
-          "t": "witness."
+          "t": " witness. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And Samuel said unto the people, It is the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt.",
       "tokens": [
         {
-          "t": "¶ And Samuel said unto the people,"
+          "t": "¶ And Samuel said unto the people, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt."
+          "t": " that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Now therefore stand still, that I may reason with you before the LORD of all the righteous acts of the LORD, which he did to you and to your fathers.",
       "tokens": [
         {
-          "t": "Now therefore stand still, that I may reason with you before the"
+          "t": "Now therefore stand still, that I may reason with you before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of all the righteous acts of the"
+          "t": " of all the righteous acts of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which he did to you and to your fathers."
+          "t": ", which he did to you and to your fathers. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.",
       "tokens": [
         {
-          "t": "When Jacob was come into Egypt, and your fathers cried unto the"
+          "t": "When Jacob was come into Egypt, and your fathers cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", then the"
+          "t": ", then the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place."
+          "t": " sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.",
       "tokens": [
         {
-          "t": "And when they forgat the"
+          "t": "And when they forgat the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them."
+          "t": " their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And they cried unto the LORD, and said, We have sinned, because we have forsaken the LORD, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee.",
       "tokens": [
         {
-          "t": "And they cried unto the"
+          "t": "And they cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said, We have sinned, because we have forsaken the"
+          "t": ", and said, We have sinned, because we have forsaken the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee."
+          "t": ", and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe."
+          "t": " sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the LORD your God was your king.",
       "tokens": [
         {
-          "t": "And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the"
+          "t": "And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God"
+          "t": " your God "
         },
         {
           "add": "was"
         },
         {
-          "t": "your king."
+          "t": " your king. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Now therefore behold the king whom ye have chosen, and whom ye have desired! and, behold, the LORD hath set a king over you.",
       "tokens": [
         {
-          "t": "Now therefore behold the king whom ye have chosen,"
+          "t": "Now therefore behold the king whom ye have chosen, "
         },
         {
           "add": "and"
         },
         {
-          "t": "whom ye have desired! and, behold, the"
+          "t": " whom ye have desired! and, behold, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath set a king over you."
+          "t": " hath set a king over you. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "If ye will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both ye and also the king that reigneth over you continue following the LORD your God:",
       "tokens": [
         {
-          "t": "If ye will fear the"
+          "t": "If ye will fear the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and serve him, and obey his voice, and not rebel against the commandment of the"
+          "t": ", and serve him, and obey his voice, and not rebel against the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", then shall both ye and also the king that reigneth over you continue following the"
+          "t": ", then shall both ye and also the king that reigneth over you continue following the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God:"
+          "t": " your God: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But if ye will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as it was against your fathers.",
       "tokens": [
         {
-          "t": "But if ye will not obey the voice of the"
+          "t": "But if ye will not obey the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", but rebel against the commandment of the"
+          "t": ", but rebel against the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", then shall the hand of the"
+          "t": ", then shall the hand of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "be against you, as"
+          "t": " be against you, as "
         },
         {
           "add": "it was"
         },
         {
-          "t": "against your fathers."
+          "t": " against your fathers. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Now therefore stand and see this great thing, which the LORD will do before your eyes.",
       "tokens": [
         {
-          "t": "¶ Now therefore stand and see this great thing, which the"
+          "t": "¶ Now therefore stand and see this great thing, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will do before your eyes."
+          "t": " will do before your eyes. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Is it not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that ye may perceive and see that your wickedness is great, which ye have done in the sight of the LORD, in asking you a king.",
       "tokens": [
         {
           "add": "Is it"
         },
         {
-          "t": "not wheat harvest to day? I will call unto the"
+          "t": " not wheat harvest to day? I will call unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and he shall send thunder and rain; that ye may perceive and see that your wickedness"
+          "t": ", and he shall send thunder and rain; that ye may perceive and see that your wickedness "
         },
         {
           "add": "is"
         },
         {
-          "t": "great, which ye have done in the sight of the"
+          "t": " great, which ye have done in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", in asking you a king."
+          "t": ", in asking you a king. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "So Samuel called unto the LORD; and the LORD sent thunder and rain that day: and all the people greatly feared the LORD and Samuel.",
       "tokens": [
         {
-          "t": "So Samuel called unto the"
+          "t": "So Samuel called unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and the"
+          "t": "; and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "sent thunder and rain that day: and all the people greatly feared the"
+          "t": " sent thunder and rain that day: and all the people greatly feared the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "and Samuel."
+          "t": " and Samuel. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And all the people said unto Samuel, Pray for thy servants unto the LORD thy God, that we die not: for we have added unto all our sins this evil, to ask us a king.",
       "tokens": [
         {
-          "t": "And all the people said unto Samuel, Pray for thy servants unto the"
+          "t": "And all the people said unto Samuel, Pray for thy servants unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, that we die not: for we have added unto all our sins"
+          "t": " thy God, that we die not: for we have added unto all our sins "
         },
         {
           "add": "this"
         },
         {
-          "t": "evil, to ask us a king."
+          "t": " evil, to ask us a king. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart;",
       "tokens": [
         {
-          "t": "¶ And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the"
+          "t": "¶ And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", but serve the"
+          "t": ", but serve the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "with all your heart;"
+          "t": " with all your heart; "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And turn ye not aside: for then should ye go after vain things, which cannot profit nor deliver; for they are vain.",
       "tokens": [
         {
-          "t": "And turn ye not aside: for"
+          "t": "And turn ye not aside: for "
         },
         {
           "add": "then should ye go"
         },
         {
-          "t": "after vain"
+          "t": " after vain "
         },
         {
           "add": "things"
         },
         {
-          "t": ", which cannot profit nor deliver; for they"
+          "t": ", which cannot profit nor deliver; for they "
         },
         {
           "add": "are"
         },
         {
-          "t": "vain."
+          "t": " vain. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "For the LORD will not forsake his people for his great name’s sake: because it hath pleased the LORD to make you his people.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will not forsake his people for his great name’s sake: because it hath pleased the"
+          "t": " will not forsake his people for his great name’s sake: because it hath pleased the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to make you his people."
+          "t": " to make you his people. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Moreover as for me, God forbid that I should sin against the LORD in ceasing to pray for you: but I will teach you the good and the right way:",
       "tokens": [
         {
-          "t": "Moreover as for me, God forbid that I should sin against the"
+          "t": "Moreover as for me, God forbid that I should sin against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in ceasing to pray for you: but I will teach you the good and the right way:"
+          "t": " in ceasing to pray for you: but I will teach you the good and the right way: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Only fear the LORD, and serve him in truth with all your heart: for consider how great things he hath done for you.",
       "tokens": [
         {
-          "t": "Only fear the"
+          "t": "Only fear the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and serve him in truth with all your heart: for consider how great"
+          "t": ", and serve him in truth with all your heart: for consider how great "
         },
         {
           "add": "things"
         },
         {
-          "t": "he hath done for you."
+          "t": " he hath done for you. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But if ye shall still do wickedly, ye shall be consumed, both ye and your king.",
       "tokens": [
         {
-          "t": "But if ye shall still do wickedly, ye shall be consumed, both ye and your king."
+          "t": "But if ye shall still do wickedly, ye shall be consumed, both ye and your king. "
         }
       ]
     }

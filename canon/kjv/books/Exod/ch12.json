@@ -7,751 +7,802 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses and Aaron in the land of Egypt, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses and Aaron in the land of Egypt, saying,"
+          "t": " spake unto Moses and Aaron in the land of Egypt, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "This month shall be unto you the beginning of months: it shall be the first month of the year to you.",
       "tokens": [
         {
-          "t": "This month"
+          "t": "This month "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "unto you the beginning of months: it"
+          "t": " unto you the beginning of months: it "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the first month of the year to you."
+          "t": " the first month of the year to you. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house:",
       "tokens": [
         {
-          "t": "¶ Speak ye unto all the congregation of Israel, saying, In the tenth"
+          "t": "¶ Speak ye unto all the congregation of Israel, saying, In the tenth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of this month they shall take to them every man a lamb, according to the house of"
+          "t": " of this month they shall take to them every man a lamb, according to the house of "
         },
         {
           "add": "their"
         },
         {
-          "t": "fathers, a lamb for an house:"
+          "t": " fathers, a lamb for an house: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb.",
       "tokens": [
         {
-          "t": "And if the household be too little for the lamb, let him and his neighbour next unto his house take"
+          "t": "And if the household be too little for the lamb, let him and his neighbour next unto his house take "
         },
         {
           "add": "it"
         },
         {
-          "t": "according to the number of the souls; every man according to his eating shall make your count for the lamb."
+          "t": " according to the number of the souls; every man according to his eating shall make your count for the lamb. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:",
       "tokens": [
         {
-          "t": "Your lamb shall be without blemish, a male of the first year: ye shall take"
+          "t": "Your lamb shall be without blemish, a male of the first year: ye shall take "
         },
         {
           "add": "it"
         },
         {
-          "t": "out from the sheep, or from the goats:"
+          "t": " out from the sheep, or from the goats: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.",
       "tokens": [
         {
-          "t": "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening."
+          "t": "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it.",
       "tokens": [
         {
-          "t": "And they shall take of the blood, and strike"
+          "t": "And they shall take of the blood, and strike "
         },
         {
           "add": "it"
         },
         {
-          "t": "on the two side posts and on the upper door post of the houses, wherein they shall eat it."
+          "t": " on the two side posts and on the upper door post of the houses, wherein they shall eat it. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it.",
       "tokens": [
         {
-          "t": "And they shall eat the flesh in that night, roast with fire, and unleavened bread;"
+          "t": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; "
         },
         {
           "add": "and"
         },
         {
-          "t": "with bitter"
+          "t": " with bitter "
         },
         {
           "add": "herbs"
         },
         {
-          "t": "they shall eat it."
+          "t": " they shall eat it. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof.",
       "tokens": [
         {
-          "t": "Eat not of it raw, nor sodden at all with water, but roast"
+          "t": "Eat not of it raw, nor sodden at all with water, but roast "
         },
         {
           "add": "with"
         },
         {
-          "t": "fire; his head with his legs, and with the purtenance thereof."
+          "t": " fire; his head with his legs, and with the purtenance thereof. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.",
       "tokens": [
         {
-          "t": "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire."
+          "t": "And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the LORD’s passover.",
       "tokens": [
         {
-          "t": "¶ And thus shall ye eat it;"
+          "t": "¶ And thus shall ye eat it; "
         },
         {
           "add": "with"
         },
         {
-          "t": "your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it"
+          "t": " your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "passover."
+          "t": " passover. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the LORD.",
       "tokens": [
         {
-          "t": "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I"
+          "t": "For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.",
       "tokens": [
         {
-          "t": "And the blood shall be to you for a token upon the houses where ye"
+          "t": "And the blood shall be to you for a token upon the houses where ye "
         },
         {
           "add": "are:"
         },
         {
-          "t": "and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy"
+          "t": " and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy "
         },
         {
           "add": "you"
         },
         {
-          "t": ", when I smite the land of Egypt."
+          "t": ", when I smite the land of Egypt. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever.",
       "tokens": [
         {
-          "t": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the"
+          "t": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "throughout your generations; ye shall keep it a feast by an ordinance for ever."
+          "t": " throughout your generations; ye shall keep it a feast by an ordinance for ever. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.",
       "tokens": [
         {
-          "t": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel."
+          "t": "Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you.",
       "tokens": [
         {
-          "t": "And in the first day"
+          "t": "And in the first day "
         },
         {
           "add": "there shall be"
         },
         {
-          "t": "an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save"
+          "t": " an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save "
         },
         {
           "add": "that"
         },
         {
-          "t": "which every man must eat, that only may be done of you."
+          "t": " which every man must eat, that only may be done of you. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And ye shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever.",
       "tokens": [
         {
-          "t": "And ye shall observe"
+          "t": "And ye shall observe "
         },
         {
           "add": "the feast of"
         },
         {
-          "t": "unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever."
+          "t": " unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ In the first month, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.",
       "tokens": [
         {
-          "t": "¶ In the first"
+          "t": "¶ In the first "
         },
         {
           "add": "month"
         },
         {
-          "t": ", on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even."
+          "t": ", on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land.",
       "tokens": [
         {
-          "t": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land."
+          "t": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.",
       "tokens": [
         {
-          "t": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread."
+          "t": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.",
       "tokens": [
         {
-          "t": "¶ Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover."
+          "t": "¶ Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning.",
       "tokens": [
         {
-          "t": "And ye shall take a bunch of hyssop, and dip"
+          "t": "And ye shall take a bunch of hyssop, and dip "
         },
         {
           "add": "it"
         },
         {
-          "t": "in the blood that"
+          "t": " in the blood that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the bason, and strike the lintel and the two side posts with the blood that"
+          "t": " in the bason, and strike the lintel and the two side posts with the blood that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the bason; and none of you shall go out at the door of his house until the morning."
+          "t": " in the bason; and none of you shall go out at the door of his house until the morning. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the"
+          "t": " will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will pass over the door, and will not suffer the destroyer to come in unto your houses to smite"
+          "t": " will pass over the door, and will not suffer the destroyer to come in unto your houses to smite "
         },
         {
           "add": "you"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And ye shall observe this thing for an ordinance to thee and to thy sons for ever.",
       "tokens": [
         {
-          "t": "And ye shall observe this thing for an ordinance to thee and to thy sons for ever."
+          "t": "And ye shall observe this thing for an ordinance to thee and to thy sons for ever. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And it shall come to pass, when ye be come to the land which the LORD will give you, according as he hath promised, that ye shall keep this service.",
       "tokens": [
         {
-          "t": "And it shall come to pass, when ye be come to the land which the"
+          "t": "And it shall come to pass, when ye be come to the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will give you, according as he hath promised, that ye shall keep this service."
+          "t": " will give you, according as he hath promised, that ye shall keep this service. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And it shall come to pass, when your children shall say unto you, What mean ye by this service?",
       "tokens": [
         {
-          "t": "And it shall come to pass, when your children shall say unto you, What mean ye by this service?"
+          "t": "And it shall come to pass, when your children shall say unto you, What mean ye by this service? "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "That ye shall say, It is the sacrifice of the LORD’s passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.",
       "tokens": [
         {
-          "t": "That ye shall say, It"
+          "t": "That ye shall say, It "
         },
         {
           "add": "is"
         },
         {
-          "t": "the sacrifice of the"
+          "t": " the sacrifice of the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped."
+          "t": " passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And the children of Israel went away, and did as the LORD had commanded Moses and Aaron, so did they.",
       "tokens": [
         {
-          "t": "And the children of Israel went away, and did as the"
+          "t": "And the children of Israel went away, and did as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had commanded Moses and Aaron, so did they."
+          "t": " had commanded Moses and Aaron, so did they. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle.",
       "tokens": [
         {
-          "t": "¶ And it came to pass, that at midnight the"
+          "t": "¶ And it came to pass, that at midnight the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that"
+          "t": " smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that "
         },
         {
           "add": "was"
         },
         {
-          "t": "in the dungeon; and all the firstborn of cattle."
+          "t": " in the dungeon; and all the firstborn of cattle. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.",
       "tokens": [
         {
-          "t": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for"
+          "t": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for "
         },
         {
           "add": "there was"
         },
         {
-          "t": "not a house where"
+          "t": " not a house where "
         },
         {
           "add": "there was"
         },
         {
-          "t": "not one dead."
+          "t": " not one dead. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "¶ And he called for Moses and Aaron by night, and said, Rise up, and get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said.",
       "tokens": [
         {
-          "t": "¶ And he called for Moses and Aaron by night, and said, Rise up,"
+          "t": "¶ And he called for Moses and Aaron by night, and said, Rise up, "
         },
         {
           "add": "and"
         },
         {
-          "t": "get you forth from among my people, both ye and the children of Israel; and go, serve the"
+          "t": " get you forth from among my people, both ye and the children of Israel; and go, serve the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", as ye have said."
+          "t": ", as ye have said. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Also take your flocks and your herds, as ye have said, and be gone; and bless me also.",
       "tokens": [
         {
-          "t": "Also take your flocks and your herds, as ye have said, and be gone; and bless me also."
+          "t": "Also take your flocks and your herds, as ye have said, and be gone; and bless me also. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men.",
       "tokens": [
         {
-          "t": "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We"
+          "t": "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We "
         },
         {
           "add": "be"
         },
         {
-          "t": "all dead"
+          "t": " all dead "
         },
         {
           "add": "men"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.",
       "tokens": [
         {
-          "t": "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders."
+          "t": "And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:",
       "tokens": [
         {
-          "t": "And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:"
+          "t": "And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment: "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And the LORD gave the people favour in the sight of the Egyptians, so that they lent unto them such things as they required. And they spoiled the Egyptians.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "gave the people favour in the sight of the Egyptians, so that they lent unto them"
+          "t": " gave the people favour in the sight of the Egyptians, so that they lent unto them "
         },
         {
           "add": "such things as they required"
         },
         {
-          "t": ". And they spoiled the Egyptians."
+          "t": ". And they spoiled the Egyptians. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "¶ And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children.",
       "tokens": [
         {
-          "t": "¶ And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot"
+          "t": "¶ And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot "
         },
         {
           "add": "that were"
         },
         {
-          "t": "men, beside children."
+          "t": " men, beside children. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And a mixed multitude went up also with them; and flocks, and herds, even very much cattle.",
       "tokens": [
         {
-          "t": "And a mixed multitude went up also with them; and flocks, and herds,"
+          "t": "And a mixed multitude went up also with them; and flocks, and herds, "
         },
         {
           "add": "even"
         },
         {
-          "t": "very much cattle."
+          "t": " very much cattle. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.",
       "tokens": [
         {
-          "t": "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual."
+          "t": "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "¶ Now the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years.",
       "tokens": [
         {
-          "t": "¶ Now the sojourning of the children of Israel, who dwelt in Egypt,"
+          "t": "¶ Now the sojourning of the children of Israel, who dwelt in Egypt, "
         },
         {
           "add": "was"
         },
         {
-          "t": "four hundred and thirty years."
+          "t": " four hundred and thirty years. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt.",
       "tokens": [
         {
-          "t": "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the"
+          "t": "And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "went out from the land of Egypt."
+          "t": " went out from the land of Egypt. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "It is a night to be much observed unto the LORD for bringing them out from the land of Egypt: this is that night of the LORD to be observed of all the children of Israel in their generations.",
       "tokens": [
         {
-          "t": "It"
+          "t": "It "
         },
         {
           "add": "is"
         },
         {
-          "t": "a night to be much observed unto the"
+          "t": " a night to be much observed unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for bringing them out from the land of Egypt: this"
+          "t": " for bringing them out from the land of Egypt: this "
         },
         {
           "add": "is"
         },
         {
-          "t": "that night of the"
+          "t": " that night of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to be observed of all the children of Israel in their generations."
+          "t": " to be observed of all the children of Israel in their generations. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "¶ And the LORD said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses and Aaron, This"
+          "t": " said unto Moses and Aaron, This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the ordinance of the passover: There shall no stranger eat thereof:"
+          "t": " the ordinance of the passover: There shall no stranger eat thereof: "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "But every man’s servant that is bought for money, when thou hast circumcised him, then shall he eat thereof.",
       "tokens": [
         {
-          "t": "But every man’s servant that is bought for money, when thou hast circumcised him, then shall he eat thereof."
+          "t": "But every man’s servant that is bought for money, when thou hast circumcised him, then shall he eat thereof. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "A foreigner and an hired servant shall not eat thereof.",
       "tokens": [
         {
-          "t": "A foreigner and an hired servant shall not eat thereof."
+          "t": "A foreigner and an hired servant shall not eat thereof. "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof.",
       "tokens": [
         {
-          "t": "In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof."
+          "t": "In one house shall it be eaten; thou shalt not carry forth ought of the flesh abroad out of the house; neither shall ye break a bone thereof. "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "All the congregation of Israel shall keep it.",
       "tokens": [
         {
-          "t": "All the congregation of Israel shall keep it."
+          "t": "All the congregation of Israel shall keep it. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.",
       "tokens": [
         {
-          "t": "And when a stranger shall sojourn with thee, and will keep the passover to the"
+          "t": "And when a stranger shall sojourn with thee, and will keep the passover to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof."
+          "t": ", let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof. "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you.",
       "tokens": [
         {
-          "t": "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you."
+          "t": "One law shall be to him that is homeborn, and unto the stranger that sojourneth among you. "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so did they.",
       "tokens": [
         {
-          "t": "Thus did all the children of Israel; as the"
+          "t": "Thus did all the children of Israel; as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded Moses and Aaron, so did they."
+          "t": " commanded Moses and Aaron, so did they. "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "And it came to pass the selfsame day, that the LORD did bring the children of Israel out of the land of Egypt by their armies.",
       "tokens": [
         {
-          "t": "And it came to pass the selfsame day,"
+          "t": "And it came to pass the selfsame day, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "did bring the children of Israel out of the land of Egypt by their armies."
+          "t": " did bring the children of Israel out of the land of Egypt by their armies. "
         }
       ]
     }

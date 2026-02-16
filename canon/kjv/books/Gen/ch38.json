@@ -7,439 +7,469 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.",
       "tokens": [
         {
-          "t": "And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name"
+          "t": "And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Hirah."
+          "t": " Hirah. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her.",
       "tokens": [
         {
-          "t": "And Judah saw there a daughter of a certain Canaanite, whose name"
+          "t": "And Judah saw there a daughter of a certain Canaanite, whose name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Shuah; and he took her, and went in unto her."
+          "t": " Shuah; and he took her, and went in unto her. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And she conceived, and bare a son; and he called his name Er.",
       "tokens": [
         {
-          "t": "And she conceived, and bare a son; and he called his name Er."
+          "t": "And she conceived, and bare a son; and he called his name Er. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And she conceived again, and bare a son; and she called his name Onan.",
       "tokens": [
         {
-          "t": "And she conceived again, and bare a son; and she called his name Onan."
+          "t": "And she conceived again, and bare a son; and she called his name Onan. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him.",
       "tokens": [
         {
-          "t": "And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him."
+          "t": "And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Judah took a wife for Er his firstborn, whose name was Tamar.",
       "tokens": [
         {
-          "t": "And Judah took a wife for Er his firstborn, whose name"
+          "t": "And Judah took a wife for Er his firstborn, whose name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Tamar."
+          "t": " Tamar. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Er, Judah’s firstborn, was wicked in the sight of the LORD; and the LORD slew him.",
       "tokens": [
         {
-          "t": "And Er, Judah’s firstborn, was wicked in the sight of the"
+          "t": "And Er, Judah’s firstborn, was wicked in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and the"
+          "t": "; and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "slew him."
+          "t": " slew him. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise up seed to thy brother.",
       "tokens": [
         {
-          "t": "And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise up seed to thy brother."
+          "t": "And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise up seed to thy brother. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled it on the ground, lest that he should give seed to his brother.",
       "tokens": [
         {
-          "t": "And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled"
+          "t": "And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled "
         },
         {
           "add": "it"
         },
         {
-          "t": "on the ground, lest that he should give seed to his brother."
+          "t": " on the ground, lest that he should give seed to his brother. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the thing which he did displeased the LORD: wherefore he slew him also.",
       "tokens": [
         {
-          "t": "And the thing which he did displeased the"
+          "t": "And the thing which he did displeased the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": wherefore he slew him also."
+          "t": ": wherefore he slew him also. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did. And Tamar went and dwelt in her father’s house.",
       "tokens": [
         {
-          "t": "Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren"
+          "t": "Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren "
         },
         {
           "add": "did"
         },
         {
-          "t": ". And Tamar went and dwelt in her father’s house."
+          "t": ". And Tamar went and dwelt in her father’s house. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.",
       "tokens": [
         {
-          "t": "¶ And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite."
+          "t": "¶ And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.",
       "tokens": [
         {
-          "t": "And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep."
+          "t": "And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.",
       "tokens": [
         {
-          "t": "And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which"
+          "t": "And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife."
+          "t": " by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "When Judah saw her, he thought her to be an harlot; because she had covered her face.",
       "tokens": [
         {
-          "t": "When Judah saw her, he thought her"
+          "t": "When Judah saw her, he thought her "
         },
         {
           "add": "to be"
         },
         {
-          "t": "an harlot; because she had covered her face."
+          "t": " an harlot; because she had covered her face. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she was his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me?",
       "tokens": [
         {
-          "t": "And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she"
+          "t": "And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she "
         },
         {
           "add": "was"
         },
         {
-          "t": "his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me?"
+          "t": " his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it?",
       "tokens": [
         {
-          "t": "And he said, I will send"
+          "t": "And he said, I will send "
         },
         {
           "add": "thee"
         },
         {
-          "t": "a kid from the flock. And she said, Wilt thou give"
+          "t": " a kid from the flock. And she said, Wilt thou give "
         },
         {
           "add": "me"
         },
         {
-          "t": "a pledge, till thou send"
+          "t": " a pledge, till thou send "
         },
         {
           "add": "it"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that is in thine hand. And he gave it her, and came in unto her, and she conceived by him.",
       "tokens": [
         {
-          "t": "And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that"
+          "t": "And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in thine hand. And he gave"
+          "t": " in thine hand. And he gave "
         },
         {
           "add": "it"
         },
         {
-          "t": "her, and came in unto her, and she conceived by him."
+          "t": " her, and came in unto her, and she conceived by him. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood.",
       "tokens": [
         {
-          "t": "And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood."
+          "t": "And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Judah sent the kid by the hand of his friend the Adullamite, to receive his pledge from the woman’s hand: but he found her not.",
       "tokens": [
         {
-          "t": "And Judah sent the kid by the hand of his friend the Adullamite, to receive"
+          "t": "And Judah sent the kid by the hand of his friend the Adullamite, to receive "
         },
         {
           "add": "his"
         },
         {
-          "t": "pledge from the woman’s hand: but he found her not."
+          "t": " pledge from the woman’s hand: but he found her not. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Then he asked the men of that place, saying, Where is the harlot, that was openly by the way side? And they said, There was no harlot in this place.",
       "tokens": [
         {
-          "t": "Then he asked the men of that place, saying, Where"
+          "t": "Then he asked the men of that place, saying, Where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the harlot, that"
+          "t": " the harlot, that "
         },
         {
           "add": "was"
         },
         {
-          "t": "openly by the way side? And they said, There was no harlot in this"
+          "t": " openly by the way side? And they said, There was no harlot in this "
         },
         {
           "add": "place"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And he returned to Judah, and said, I cannot find her; and also the men of the place said, that there was no harlot in this place.",
       "tokens": [
         {
-          "t": "And he returned to Judah, and said, I cannot find her; and also the men of the place said,"
+          "t": "And he returned to Judah, and said, I cannot find her; and also the men of the place said, "
         },
         {
           "add": "that"
         },
         {
-          "t": "there was no harlot in this"
+          "t": " there was no harlot in this "
         },
         {
           "add": "place"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And Judah said, Let her take it to her, lest we be shamed: behold, I sent this kid, and thou hast not found her.",
       "tokens": [
         {
-          "t": "And Judah said, Let her take"
+          "t": "And Judah said, Let her take "
         },
         {
           "add": "it"
         },
         {
-          "t": "to her, lest we be shamed: behold, I sent this kid, and thou hast not found her."
+          "t": " to her, lest we be shamed: behold, I sent this kid, and thou hast not found her. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she is with child by whoredom. And Judah said, Bring her forth, and let her be burnt.",
       "tokens": [
         {
-          "t": "¶ And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she"
+          "t": "¶ And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she "
         },
         {
           "add": "is"
         },
         {
-          "t": "with child by whoredom. And Judah said, Bring her forth, and let her be burnt."
+          "t": " with child by whoredom. And Judah said, Bring her forth, and let her be burnt. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "When she was brought forth, she sent to her father in law, saying, By the man, whose these are, am I with child: and she said, Discern, I pray thee, whose are these, the signet, and bracelets, and staff.",
       "tokens": [
         {
-          "t": "When she"
+          "t": "When she "
         },
         {
           "add": "was"
         },
         {
-          "t": "brought forth, she sent to her father in law, saying, By the man, whose these"
+          "t": " brought forth, she sent to her father in law, saying, By the man, whose these "
         },
         {
           "add": "are, am"
         },
         {
-          "t": "I with child: and she said, Discern, I pray thee, whose"
+          "t": " I with child: and she said, Discern, I pray thee, whose "
         },
         {
           "add": "are"
         },
         {
-          "t": "these, the signet, and bracelets, and staff."
+          "t": " these, the signet, and bracelets, and staff. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And Judah acknowledged them, and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more.",
       "tokens": [
         {
-          "t": "And Judah acknowledged"
+          "t": "And Judah acknowledged "
         },
         {
           "add": "them"
         },
         {
-          "t": ", and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more."
+          "t": ", and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And it came to pass in the time of her travail, that, behold, twins were in her womb.",
       "tokens": [
         {
-          "t": "¶ And it came to pass in the time of her travail, that, behold, twins"
+          "t": "¶ And it came to pass in the time of her travail, that, behold, twins "
         },
         {
           "add": "were"
         },
         {
-          "t": "in her womb."
+          "t": " in her womb. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And it came to pass, when she travailed, that the one put out his hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first.",
       "tokens": [
         {
-          "t": "And it came to pass, when she travailed, that"
+          "t": "And it came to pass, when she travailed, that "
         },
         {
           "add": "the one"
         },
         {
-          "t": "put out"
+          "t": " put out "
         },
         {
           "add": "his"
         },
         {
-          "t": "hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first."
+          "t": " hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? this breach be upon thee: therefore his name was called Pharez.",
       "tokens": [
         {
-          "t": "And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth?"
+          "t": "And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? "
         },
         {
           "add": "this"
         },
         {
-          "t": "breach"
+          "t": " breach "
         },
         {
           "add": "be"
         },
         {
-          "t": "upon thee: therefore his name was called Pharez."
+          "t": " upon thee: therefore his name was called Pharez. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.",
       "tokens": [
         {
-          "t": "And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah."
+          "t": "And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah. "
         }
       ]
     }

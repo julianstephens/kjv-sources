@@ -7,491 +7,526 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Jacob went on his journey, and came into the land of the people of the east.",
       "tokens": [
         {
-          "t": "Then Jacob went on his journey, and came into the land of the people of the east."
+          "t": "Then Jacob went on his journey, and came into the land of the people of the east. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And he looked, and behold a well in the field, and, lo, there were three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone was upon the well’s mouth.",
       "tokens": [
         {
-          "t": "And he looked, and behold a well in the field, and, lo, there"
+          "t": "And he looked, and behold a well in the field, and, lo, there "
         },
         {
           "add": "were"
         },
         {
-          "t": "three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone"
+          "t": " three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone "
         },
         {
           "add": "was"
         },
         {
-          "t": "upon the well’s mouth."
+          "t": " upon the well’s mouth. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And thither were all the flocks gathered: and they rolled the stone from the well’s mouth, and watered the sheep, and put the stone again upon the well’s mouth in his place.",
       "tokens": [
         {
-          "t": "And thither were all the flocks gathered: and they rolled the stone from the well’s mouth, and watered the sheep, and put the stone again upon the well’s mouth in his place."
+          "t": "And thither were all the flocks gathered: and they rolled the stone from the well’s mouth, and watered the sheep, and put the stone again upon the well’s mouth in his place. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Jacob said unto them, My brethren, whence be ye? And they said, Of Haran are we.",
       "tokens": [
         {
-          "t": "And Jacob said unto them, My brethren, whence"
+          "t": "And Jacob said unto them, My brethren, whence "
         },
         {
           "add": "be"
         },
         {
-          "t": "ye? And they said, Of Haran"
+          "t": " ye? And they said, Of Haran "
         },
         {
           "add": "are"
         },
         {
-          "t": "we."
+          "t": " we. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And he said unto them, Know ye Laban the son of Nahor? And they said, We know him.",
       "tokens": [
         {
-          "t": "And he said unto them, Know ye Laban the son of Nahor? And they said, We know"
+          "t": "And he said unto them, Know ye Laban the son of Nahor? And they said, We know "
         },
         {
           "add": "him"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he said unto them, Is he well? And they said, He is well: and, behold, Rachel his daughter cometh with the sheep.",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
         },
         {
           "add": "Is"
         },
         {
-          "t": "he well? And they said,"
+          "t": " he well? And they said, "
         },
         {
           "add": "He is"
         },
         {
-          "t": "well: and, behold, Rachel his daughter cometh with the sheep."
+          "t": " well: and, behold, Rachel his daughter cometh with the sheep. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water ye the sheep, and go and feed them.",
       "tokens": [
         {
-          "t": "And he said, Lo,"
+          "t": "And he said, Lo, "
         },
         {
           "add": "it is"
         },
         {
-          "t": "yet high day, neither"
+          "t": " yet high day, neither "
         },
         {
           "add": "is it"
         },
         {
-          "t": "time that the cattle should be gathered together: water ye the sheep, and go"
+          "t": " time that the cattle should be gathered together: water ye the sheep, and go "
         },
         {
           "add": "and"
         },
         {
-          "t": "feed"
+          "t": " feed "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And they said, We cannot, until all the flocks be gathered together, and till they roll the stone from the well’s mouth; then we water the sheep.",
       "tokens": [
         {
-          "t": "And they said, We cannot, until all the flocks be gathered together, and"
+          "t": "And they said, We cannot, until all the flocks be gathered together, and "
         },
         {
           "add": "till"
         },
         {
-          "t": "they roll the stone from the well’s mouth; then we water the sheep."
+          "t": " they roll the stone from the well’s mouth; then we water the sheep. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And while he yet spake with them, Rachel came with her father’s sheep: for she kept them.",
       "tokens": [
         {
-          "t": "¶ And while he yet spake with them, Rachel came with her father’s sheep: for she kept them."
+          "t": "¶ And while he yet spake with them, Rachel came with her father’s sheep: for she kept them. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother.",
       "tokens": [
         {
-          "t": "And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother."
+          "t": "And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Jacob kissed Rachel, and lifted up his voice, and wept.",
       "tokens": [
         {
-          "t": "And Jacob kissed Rachel, and lifted up his voice, and wept."
+          "t": "And Jacob kissed Rachel, and lifted up his voice, and wept. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Jacob told Rachel that he was her father’s brother, and that he was Rebekah’s son: and she ran and told her father.",
       "tokens": [
         {
-          "t": "And Jacob told Rachel that he"
+          "t": "And Jacob told Rachel that he "
         },
         {
           "add": "was"
         },
         {
-          "t": "her father’s brother, and that he"
+          "t": " her father’s brother, and that he "
         },
         {
           "add": "was"
         },
         {
-          "t": "Rebekah’s son: and she ran and told her father."
+          "t": " Rebekah’s son: and she ran and told her father. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And it came to pass, when Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things.",
       "tokens": [
         {
-          "t": "And it came to pass, when Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things."
+          "t": "And it came to pass, when Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Laban said to him, Surely thou art my bone and my flesh. And he abode with him the space of a month.",
       "tokens": [
         {
-          "t": "And Laban said to him, Surely thou"
+          "t": "And Laban said to him, Surely thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "my bone and my flesh. And he abode with him the space of a month."
+          "t": " my bone and my flesh. And he abode with him the space of a month. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And Laban said unto Jacob, Because thou art my brother, shouldest thou therefore serve me for nought? tell me, what shall thy wages be?",
       "tokens": [
         {
-          "t": "¶ And Laban said unto Jacob, Because thou"
+          "t": "¶ And Laban said unto Jacob, Because thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "my brother, shouldest thou therefore serve me for nought? tell me, what"
+          "t": " my brother, shouldest thou therefore serve me for nought? tell me, what "
         },
         {
           "add": "shall"
         },
         {
-          "t": "thy wages"
+          "t": " thy wages "
         },
         {
           "add": "be"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel.",
       "tokens": [
         {
-          "t": "And Laban had two daughters: the name of the elder"
+          "t": "And Laban had two daughters: the name of the elder "
         },
         {
           "add": "was"
         },
         {
-          "t": "Leah, and the name of the younger"
+          "t": " Leah, and the name of the younger "
         },
         {
           "add": "was"
         },
         {
-          "t": "Rachel."
+          "t": " Rachel. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Leah was tender eyed; but Rachel was beautiful and well favoured.",
       "tokens": [
         {
-          "t": "Leah"
+          "t": "Leah "
         },
         {
           "add": "was"
         },
         {
-          "t": "tender eyed; but Rachel was beautiful and well favoured."
+          "t": " tender eyed; but Rachel was beautiful and well favoured. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter.",
       "tokens": [
         {
-          "t": "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter."
+          "t": "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Laban said, It is better that I give her to thee, than that I should give her to another man: abide with me.",
       "tokens": [
         {
-          "t": "And Laban said,"
+          "t": "And Laban said, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "better that I give her to thee, than that I should give her to another man: abide with me."
+          "t": " better that I give her to thee, than that I should give her to another man: abide with me. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her.",
       "tokens": [
         {
-          "t": "And Jacob served seven years for Rachel; and they seemed unto him"
+          "t": "And Jacob served seven years for Rachel; and they seemed unto him "
         },
         {
           "add": "but"
         },
         {
-          "t": "a few days, for the love he had to her."
+          "t": " a few days, for the love he had to her. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ And Jacob said unto Laban, Give me my wife, for my days are fulfilled, that I may go in unto her.",
       "tokens": [
         {
-          "t": "¶ And Jacob said unto Laban, Give"
+          "t": "¶ And Jacob said unto Laban, Give "
         },
         {
           "add": "me"
         },
         {
-          "t": "my wife, for my days are fulfilled, that I may go in unto her."
+          "t": " my wife, for my days are fulfilled, that I may go in unto her. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Laban gathered together all the men of the place, and made a feast.",
       "tokens": [
         {
-          "t": "And Laban gathered together all the men of the place, and made a feast."
+          "t": "And Laban gathered together all the men of the place, and made a feast. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her.",
       "tokens": [
         {
-          "t": "And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her."
+          "t": "And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Laban gave unto his daughter Leah Zilpah his maid for an handmaid.",
       "tokens": [
         {
-          "t": "And Laban gave unto his daughter Leah Zilpah his maid"
+          "t": "And Laban gave unto his daughter Leah Zilpah his maid "
         },
         {
           "add": "for"
         },
         {
-          "t": "an handmaid."
+          "t": " an handmaid. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And it came to pass, that in the morning, behold, it was Leah: and he said to Laban, What is this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?",
       "tokens": [
         {
-          "t": "And it came to pass, that in the morning, behold, it"
+          "t": "And it came to pass, that in the morning, behold, it "
         },
         {
           "add": "was"
         },
         {
-          "t": "Leah: and he said to Laban, What"
+          "t": " Leah: and he said to Laban, What "
         },
         {
           "add": "is"
         },
         {
-          "t": "this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?"
+          "t": " this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me? "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And Laban said, It must not be so done in our country, to give the younger before the firstborn.",
       "tokens": [
         {
-          "t": "And Laban said, It must not be so done in our country, to give the younger before the firstborn."
+          "t": "And Laban said, It must not be so done in our country, to give the younger before the firstborn. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.",
       "tokens": [
         {
-          "t": "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years."
+          "t": "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.",
       "tokens": [
         {
-          "t": "And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also."
+          "t": "And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid.",
       "tokens": [
         {
-          "t": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid."
+          "t": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years.",
       "tokens": [
         {
-          "t": "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years."
+          "t": "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "¶ And when the LORD saw that Leah was hated, he opened her womb: but Rachel was barren.",
       "tokens": [
         {
-          "t": "¶ And when the"
+          "t": "¶ And when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "saw that Leah"
+          "t": " saw that Leah "
         },
         {
           "add": "was"
         },
         {
-          "t": "hated, he opened her womb: but Rachel"
+          "t": " hated, he opened her womb: but Rachel "
         },
         {
           "add": "was"
         },
         {
-          "t": "barren."
+          "t": " barren. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the LORD hath looked upon my affliction; now therefore my husband will love me.",
       "tokens": [
         {
-          "t": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the"
+          "t": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath looked upon my affliction; now therefore my husband will love me."
+          "t": " hath looked upon my affliction; now therefore my husband will love me. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And she conceived again, and bare a son; and said, Because the LORD hath heard that I was hated, he hath therefore given me this son also: and she called his name Simeon.",
       "tokens": [
         {
-          "t": "And she conceived again, and bare a son; and said, Because the"
+          "t": "And she conceived again, and bare a son; and said, Because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath heard that I"
+          "t": " hath heard that I "
         },
         {
           "add": "was"
         },
         {
-          "t": "hated, he hath therefore given me this"
+          "t": " hated, he hath therefore given me this "
         },
         {
           "add": "son"
         },
         {
-          "t": "also: and she called his name Simeon."
+          "t": " also: and she called his name Simeon. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi.",
       "tokens": [
         {
-          "t": "And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi."
+          "t": "And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing.",
       "tokens": [
         {
-          "t": "And she conceived again, and bare a son: and she said, Now will I praise the"
+          "t": "And she conceived again, and bare a son: and she said, Now will I praise the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": therefore she called his name Judah; and left bearing."
+          "t": ": therefore she called his name Judah; and left bearing. "
         }
       ]
     }

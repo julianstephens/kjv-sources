@@ -7,326 +7,349 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Woe to her that is filthy and polluted, to the oppressing city!",
       "tokens": [
         {
-          "t": "Woe to her that is filthy and polluted, to the oppressing city!"
+          "t": "Woe to her that is filthy and polluted, to the oppressing city! "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God.",
       "tokens": [
         {
-          "t": "She obeyed not the voice; she received not correction; she trusted not in the"
+          "t": "She obeyed not the voice; she received not correction; she trusted not in the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; she drew not near to her God."
+          "t": "; she drew not near to her God. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow.",
       "tokens": [
         {
-          "t": "Her princes within her"
+          "t": "Her princes within her "
         },
         {
           "add": "are"
         },
         {
-          "t": "roaring lions; her judges"
+          "t": " roaring lions; her judges "
         },
         {
           "add": "are"
         },
         {
-          "t": "evening wolves; they gnaw not the bones till the morrow."
+          "t": " evening wolves; they gnaw not the bones till the morrow. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.",
       "tokens": [
         {
-          "t": "Her prophets"
+          "t": "Her prophets "
         },
         {
           "add": "are"
         },
         {
-          "t": "light"
+          "t": " light "
         },
         {
           "add": "and"
         },
         {
-          "t": "treacherous persons: her priests have polluted the sanctuary, they have done violence to the law."
+          "t": " treacherous persons: her priests have polluted the sanctuary, they have done violence to the law. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The just LORD is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame.",
       "tokens": [
         {
-          "t": "The just"
+          "t": "The just "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame."
+          "t": " in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant.",
       "tokens": [
         {
-          "t": "I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant."
+          "t": "I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings.",
       "tokens": [
         {
-          "t": "I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early,"
+          "t": "I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, "
         },
         {
           "add": "and"
         },
         {
-          "t": "corrupted all their doings."
+          "t": " corrupted all their doings. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ Therefore wait ye upon me, saith the LORD, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.",
       "tokens": [
         {
-          "t": "¶ Therefore wait ye upon me, saith the"
+          "t": "¶ Therefore wait ye upon me, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", until the day that I rise up to the prey: for my determination"
+          "t": ", until the day that I rise up to the prey: for my determination "
         },
         {
           "add": "is"
         },
         {
-          "t": "to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation,"
+          "t": " to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, "
         },
         {
           "add": "even"
         },
         {
-          "t": "all my fierce anger: for all the earth shall be devoured with the fire of my jealousy."
+          "t": " all my fierce anger: for all the earth shall be devoured with the fire of my jealousy. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent.",
       "tokens": [
         {
-          "t": "For then will I turn to the people a pure language, that they may all call upon the name of the"
+          "t": "For then will I turn to the people a pure language, that they may all call upon the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to serve him with one consent."
+          "t": ", to serve him with one consent. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.",
       "tokens": [
         {
-          "t": "From beyond the rivers of Ethiopia my suppliants,"
+          "t": "From beyond the rivers of Ethiopia my suppliants, "
         },
         {
           "add": "even"
         },
         {
-          "t": "the daughter of my dispersed, shall bring mine offering."
+          "t": " the daughter of my dispersed, shall bring mine offering. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.",
       "tokens": [
         {
-          "t": "In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain."
+          "t": "In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the LORD.",
       "tokens": [
         {
-          "t": "I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the"
+          "t": "I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid.",
       "tokens": [
         {
-          "t": "The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make"
+          "t": "The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make "
         },
         {
           "add": "them"
         },
         {
-          "t": "afraid."
+          "t": " afraid. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.",
       "tokens": [
         {
-          "t": "¶ Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem."
+          "t": "¶ Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The LORD hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the LORD, is in the midst of thee: thou shalt not see evil any more.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath taken away thy judgments, he hath cast out thine enemy: the king of Israel,"
+          "t": " hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, "
         },
         {
           "add": "even"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the midst of thee: thou shalt not see evil any more."
+          "t": " in the midst of thee: thou shalt not see evil any more. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack.",
       "tokens": [
         {
-          "t": "In that day it shall be said to Jerusalem, Fear thou not:"
+          "t": "In that day it shall be said to Jerusalem, Fear thou not: "
         },
         {
           "add": "and to"
         },
         {
-          "t": "Zion, Let not thine hands be slack."
+          "t": " Zion, Let not thine hands be slack. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God in the midst of thee"
+          "t": " thy God in the midst of thee "
         },
         {
           "add": "is"
         },
         {
-          "t": "mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
+          "t": " mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden.",
       "tokens": [
         {
-          "t": "I will gather"
+          "t": "I will gather "
         },
         {
           "add": "them that are"
         },
         {
-          "t": "sorrowful for the solemn assembly,"
+          "t": " sorrowful for the solemn assembly, "
         },
         {
           "add": "who"
         },
         {
-          "t": "are of thee,"
+          "t": " are of thee, "
         },
         {
           "add": "to whom"
         },
         {
-          "t": "the reproach of it"
+          "t": " the reproach of it "
         },
         {
           "add": "was"
         },
         {
-          "t": "a burden."
+          "t": " a burden. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.",
       "tokens": [
         {
-          "t": "Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame."
+          "t": "Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD.",
       "tokens": [
         {
-          "t": "At that time will I bring you"
+          "t": "At that time will I bring you "
         },
         {
           "add": "again"
         },
         {
-          "t": ", even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the"
+          "t": ", even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

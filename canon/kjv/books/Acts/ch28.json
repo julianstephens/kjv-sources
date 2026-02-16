@@ -7,339 +7,370 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And when they were escaped, then they knew that the island was called Melita.",
       "tokens": [
         {
-          "t": "And when they were escaped, then they knew that the island was called Melita."
+          "t": "And when they were escaped, then they knew that the island was called Melita. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.",
       "tokens": [
         {
-          "t": "And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold."
+          "t": "And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And when Paul had gathered a bundle of sticks, and laid them on the fire, there came a viper out of the heat, and fastened on his hand.",
       "tokens": [
         {
-          "t": "And when Paul had gathered a bundle of sticks, and laid"
+          "t": "And when Paul had gathered a bundle of sticks, and laid "
         },
         {
           "add": "them"
         },
         {
-          "t": "on the fire, there came a viper out of the heat, and fastened on his hand."
+          "t": " on the fire, there came a viper out of the heat, and fastened on his hand. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.",
       "tokens": [
         {
-          "t": "And when the barbarians saw the"
+          "t": "And when the barbarians saw the "
         },
         {
           "add": "venomous"
         },
         {
-          "t": "beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live."
+          "t": " beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And he shook off the beast into the fire, and felt no harm.",
       "tokens": [
         {
-          "t": "And he shook off the beast into the fire, and felt no harm."
+          "t": "And he shook off the beast into the fire, and felt no harm. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.",
       "tokens": [
         {
-          "t": "Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god."
+          "t": "Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously.",
       "tokens": [
         {
-          "t": "In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously."
+          "t": "In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.",
       "tokens": [
         {
-          "t": "And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him."
+          "t": "And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "So when this was done, others also, which had diseases in the island, came, and were healed:",
       "tokens": [
         {
-          "t": "So when this was done, others also, which had diseases in the island, came, and were healed:"
+          "t": "So when this was done, others also, which had diseases in the island, came, and were healed: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Who also honoured us with many honours; and when we departed, they laded us with such things as were necessary.",
       "tokens": [
         {
-          "t": "Who also honoured us with many honours; and when we departed, they laded"
+          "t": "Who also honoured us with many honours; and when we departed, they laded "
         },
         {
           "add": "us"
         },
         {
-          "t": "with such things as were necessary."
+          "t": " with such things as were necessary. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.",
       "tokens": [
         {
-          "t": "And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux."
+          "t": "And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And landing at Syracuse, we tarried there three days.",
       "tokens": [
         {
-          "t": "And landing at Syracuse, we tarried"
+          "t": "And landing at Syracuse, we tarried "
         },
         {
           "add": "there"
         },
         {
-          "t": "three days."
+          "t": " three days. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:",
       "tokens": [
         {
-          "t": "And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:"
+          "t": "And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome.",
       "tokens": [
         {
-          "t": "Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome."
+          "t": "Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.",
       "tokens": [
         {
-          "t": "And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage."
+          "t": "And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.",
       "tokens": [
         {
-          "t": "And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him."
+          "t": "And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men and brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.",
       "tokens": [
         {
-          "t": "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men"
+          "t": "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men "
         },
         {
           "add": "and"
         },
         {
-          "t": "brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans."
+          "t": " brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Who, when they had examined me, would have let me go, because there was no cause of death in me.",
       "tokens": [
         {
-          "t": "Who, when they had examined me, would have let"
+          "t": "Who, when they had examined me, would have let "
         },
         {
           "add": "me"
         },
         {
-          "t": "go, because there was no cause of death in me."
+          "t": " go, because there was no cause of death in me. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "But when the Jews spake against it, I was constrained to appeal unto Cæsar; not that I had ought to accuse my nation of.",
       "tokens": [
         {
-          "t": "But when the Jews spake against"
+          "t": "But when the Jews spake against "
         },
         {
           "add": "it"
         },
         {
-          "t": ", I was constrained to appeal unto Cæsar; not that I had ought to accuse my nation of."
+          "t": ", I was constrained to appeal unto Cæsar; not that I had ought to accuse my nation of. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "For this cause therefore have I called for you, to see you, and to speak with you: because that for the hope of Israel I am bound with this chain.",
       "tokens": [
         {
-          "t": "For this cause therefore have I called for you, to see"
+          "t": "For this cause therefore have I called for you, to see "
         },
         {
           "add": "you"
         },
         {
-          "t": ", and to speak with"
+          "t": ", and to speak with "
         },
         {
           "add": "you"
         },
         {
-          "t": ": because that for the hope of Israel I am bound with this chain."
+          "t": ": because that for the hope of Israel I am bound with this chain. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And they said unto him, We neither received letters out of Judæa concerning thee, neither any of the brethren that came shewed or spake any harm of thee.",
       "tokens": [
         {
-          "t": "And they said unto him, We neither received letters out of Judæa concerning thee, neither any of the brethren that came shewed or spake any harm of thee."
+          "t": "And they said unto him, We neither received letters out of Judæa concerning thee, neither any of the brethren that came shewed or spake any harm of thee. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against.",
       "tokens": [
         {
-          "t": "But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against."
+          "t": "But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.",
       "tokens": [
         {
-          "t": "And when they had appointed him a day, there came many to him into"
+          "t": "And when they had appointed him a day, there came many to him into "
         },
         {
           "add": "his"
         },
         {
-          "t": "lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and"
+          "t": " lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and "
         },
         {
           "add": "out of"
         },
         {
-          "t": "the prophets, from morning till evening."
+          "t": " the prophets, from morning till evening. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And some believed the things which were spoken, and some believed not.",
       "tokens": [
         {
-          "t": "And some believed the things which were spoken, and some believed not."
+          "t": "And some believed the things which were spoken, and some believed not. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,",
       "tokens": [
         {
-          "t": "And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,"
+          "t": "And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers, "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive:",
       "tokens": [
         {
-          "t": "Saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive:"
+          "t": "Saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.",
       "tokens": [
         {
-          "t": "For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with"
+          "t": "For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with "
         },
         {
           "add": "their"
         },
         {
-          "t": "eyes, and hear with"
+          "t": " eyes, and hear with "
         },
         {
           "add": "their"
         },
         {
-          "t": "ears, and understand with"
+          "t": " ears, and understand with "
         },
         {
           "add": "their"
         },
         {
-          "t": "heart, and should be converted, and I should heal them."
+          "t": " heart, and should be converted, and I should heal them. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and that they will hear it.",
       "tokens": [
         {
-          "t": "Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and"
+          "t": "Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "they will hear it."
+          "t": " they will hear it. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And when he had said these words, the Jews departed, and had great reasoning among themselves.",
       "tokens": [
         {
-          "t": "And when he had said these words, the Jews departed, and had great reasoning among themselves."
+          "t": "And when he had said these words, the Jews departed, and had great reasoning among themselves. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And Paul dwelt two whole years in his own hired house, and received all that came in unto him,",
       "tokens": [
         {
-          "t": "And Paul dwelt two whole years in his own hired house, and received all that came in unto him,"
+          "t": "And Paul dwelt two whole years in his own hired house, and received all that came in unto him, "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.",
       "tokens": [
         {
-          "t": "Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him."
+          "t": "Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him. "
         }
       ]
     }

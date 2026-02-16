@@ -7,292 +7,319 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.",
       "tokens": [
         {
-          "t": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold,"
+          "t": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, "
         },
         {
           "add": "here"
         },
         {
-          "t": "I"
+          "t": " I "
         },
         {
           "add": "am"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.",
       "tokens": [
         {
-          "t": "And he said, Take now thy son, thine only"
+          "t": "And he said, Take now thy son, thine only "
         },
         {
           "add": "son"
         },
         {
-          "t": "Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of."
+          "t": " Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.",
       "tokens": [
         {
-          "t": "¶ And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him."
+          "t": "¶ And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then on the third day Abraham lifted up his eyes, and saw the place afar off.",
       "tokens": [
         {
-          "t": "Then on the third day Abraham lifted up his eyes, and saw the place afar off."
+          "t": "Then on the third day Abraham lifted up his eyes, and saw the place afar off. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.",
       "tokens": [
         {
-          "t": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you."
+          "t": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.",
       "tokens": [
         {
-          "t": "And Abraham took the wood of the burnt offering, and laid"
+          "t": "And Abraham took the wood of the burnt offering, and laid "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together."
+          "t": " upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?",
       "tokens": [
         {
-          "t": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here"
+          "t": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here "
         },
         {
           "add": "am"
         },
         {
-          "t": "I, my son. And he said, Behold the fire and the wood: but where"
+          "t": " I, my son. And he said, Behold the fire and the wood: but where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the lamb for a burnt offering?"
+          "t": " the lamb for a burnt offering? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.",
       "tokens": [
         {
-          "t": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together."
+          "t": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.",
       "tokens": [
         {
-          "t": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood."
+          "t": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Abraham stretched forth his hand, and took the knife to slay his son.",
       "tokens": [
         {
-          "t": "And Abraham stretched forth his hand, and took the knife to slay his son."
+          "t": "And Abraham stretched forth his hand, and took the knife to slay his son. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.",
       "tokens": [
         {
-          "t": "And the angel of the"
+          "t": "And the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "called unto him out of heaven, and said, Abraham, Abraham: and he said, Here"
+          "t": " called unto him out of heaven, and said, Abraham, Abraham: and he said, Here "
         },
         {
           "add": "am"
         },
         {
-          "t": "I."
+          "t": " I. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.",
       "tokens": [
         {
-          "t": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only"
+          "t": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only "
         },
         {
           "add": "son"
         },
         {
-          "t": "from me."
+          "t": " from me. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
       "tokens": [
         {
-          "t": "And Abraham lifted up his eyes, and looked, and behold behind"
+          "t": "And Abraham lifted up his eyes, and looked, and behold behind "
         },
         {
           "add": "him"
         },
         {
-          "t": "a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son."
+          "t": " a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen.",
       "tokens": [
         {
-          "t": "And Abraham called the name of that place Jehovah-jireh: as it is said"
+          "t": "And Abraham called the name of that place Jehovah-jireh: as it is said "
         },
         {
           "add": "to"
         },
         {
-          "t": "this day, In the mount of the"
+          "t": " this day, In the mount of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "it shall be seen."
+          "t": " it shall be seen. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And the angel of the LORD called unto Abraham out of heaven the second time,",
       "tokens": [
         {
-          "t": "¶ And the angel of the"
+          "t": "¶ And the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "called unto Abraham out of heaven the second time,"
+          "t": " called unto Abraham out of heaven the second time, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:",
       "tokens": [
         {
-          "t": "And said, By myself have I sworn, saith the"
+          "t": "And said, By myself have I sworn, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", for because thou hast done this thing, and hast not withheld thy son, thine only"
+          "t": ", for because thou hast done this thing, and hast not withheld thy son, thine only "
         },
         {
           "add": "son:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;",
       "tokens": [
         {
-          "t": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which"
+          "t": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the sea shore; and thy seed shall possess the gate of his enemies;"
+          "t": " upon the sea shore; and thy seed shall possess the gate of his enemies; "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.",
       "tokens": [
         {
-          "t": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice."
+          "t": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "So Abraham returned unto his young men, and they rose up and went together to Beer-sheba; and Abraham dwelt at Beer-sheba.",
       "tokens": [
         {
-          "t": "So Abraham returned unto his young men, and they rose up and went together to Beer-sheba; and Abraham dwelt at Beer-sheba."
+          "t": "So Abraham returned unto his young men, and they rose up and went together to Beer-sheba; and Abraham dwelt at Beer-sheba. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;",
       "tokens": [
         {
-          "t": "¶ And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;"
+          "t": "¶ And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor; "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,",
       "tokens": [
         {
-          "t": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,"
+          "t": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram, "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.",
       "tokens": [
         {
-          "t": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel."
+          "t": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother.",
       "tokens": [
         {
-          "t": "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother."
+          "t": "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.",
       "tokens": [
         {
-          "t": "And his concubine, whose name"
+          "t": "And his concubine, whose name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah."
+          "t": " Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah. "
         }
       ]
     }

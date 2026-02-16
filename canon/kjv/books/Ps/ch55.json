@@ -1,0 +1,447 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 55,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Give ear to my prayer, O God; and hide not thyself from my supplication.",
+      "tokens": [
+        {
+          "t": "Give ear to my prayer, O God; and hide not thyself from my supplication. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Attend unto me, and hear me: I mourn in my complaint, and make a noise;",
+      "tokens": [
+        {
+          "t": "Attend unto me, and hear me: I mourn in my complaint, and make a noise; "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.",
+      "tokens": [
+        {
+          "t": "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "My heart is sore pained within me: and the terrors of death are fallen upon me.",
+      "tokens": [
+        {
+          "t": "My heart is sore pained within me: and the terrors of death are fallen upon me. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Fearfulness and trembling are come upon me, and horror hath overwhelmed me.",
+      "tokens": [
+        {
+          "t": "Fearfulness and trembling are come upon me, and horror hath overwhelmed me. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "And I said, Oh that I had wings like a dove! for then would I fly away, and be at rest.",
+      "tokens": [
+        {
+          "t": "And I said, Oh that I had wings like a dove! "
+        },
+        {
+          "add": "for then"
+        },
+        {
+          "t": " would I fly away, and be at rest. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Lo, then would I wander far off, and remain in the wilderness. Selah.",
+      "tokens": [
+        {
+          "t": "Lo, "
+        },
+        {
+          "add": "then"
+        },
+        {
+          "t": " would I wander far off, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " remain in the wilderness. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "I would hasten my escape from the windy storm and tempest.",
+      "tokens": [
+        {
+          "t": "I would hasten my escape from the windy storm "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " tempest. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city.",
+      "tokens": [
+        {
+          "t": "Destroy, O Lord, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " divide their tongues: for I have seen violence and strife in the city. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it.",
+      "tokens": [
+        {
+          "t": "Day and night they go about it upon the walls thereof: mischief also and sorrow "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " in the midst of it. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Wickedness is in the midst thereof: deceit and guile depart not from her streets.",
+      "tokens": [
+        {
+          "t": "Wickedness "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in the midst thereof: deceit and guile depart not from her streets. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "For it was not an enemy that reproached me; then I could have borne it: neither was it he that hated me that did magnify himself against me; then I would have hid myself from him:",
+      "tokens": [
+        {
+          "t": "For "
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": " not an enemy "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " reproached me; then I could have borne "
+        },
+        {
+          "add": "it:"
+        },
+        {
+          "t": " neither "
+        },
+        {
+          "add": "was it"
+        },
+        {
+          "t": " he that hated me "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " did magnify "
+        },
+        {
+          "add": "himself"
+        },
+        {
+          "t": " against me; then I would have hid myself from him: "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "But it was thou, a man mine equal, my guide, and mine acquaintance.",
+      "tokens": [
+        {
+          "t": "But "
+        },
+        {
+          "add": "it was"
+        },
+        {
+          "t": " thou, a man mine equal, my guide, and mine acquaintance. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "We took sweet counsel together, and walked unto the house of God in company.",
+      "tokens": [
+        {
+          "t": "We took sweet counsel together, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " walked unto the house of God in company. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them.",
+      "tokens": [
+        {
+          "t": "Let death seize upon them, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " let them go down quick into hell: for wickedness "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in their dwellings, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " among them. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "As for me, I will call upon God; and the LORD shall save me.",
+      "tokens": [
+        {
+          "t": "As for me, I will call upon God; and the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " shall save me. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.",
+      "tokens": [
+        {
+          "t": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "He hath delivered my soul in peace from the battle that was against me: for there were many with me.",
+      "tokens": [
+        {
+          "t": "He hath delivered my soul in peace from the battle "
+        },
+        {
+          "add": "that was"
+        },
+        {
+          "t": " against me: for there were many with me. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.",
+      "tokens": [
+        {
+          "t": "God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "He hath put forth his hands against such as be at peace with him: he hath broken his covenant.",
+      "tokens": [
+        {
+          "t": "He hath put forth his hands against such as be at peace with him: he hath broken his covenant. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.",
+      "tokens": [
+        {
+          "add": "The words"
+        },
+        {
+          "t": " of his mouth were smoother than butter, but war "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " in his heart: his words were softer than oil, yet "
+        },
+        {
+          "add": "were"
+        },
+        {
+          "t": " they drawn swords. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+      "tokens": [
+        {
+          "t": "Cast thy burden upon the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and he shall sustain thee: he shall never suffer the righteous to be moved. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee.",
+      "tokens": [
+        {
+          "t": "But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "chief…: or, overseer"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "Maschil: or, of instruction"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "overwhelmed: Heb. covered"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 13
+      },
+      "text": "mine equal: Heb. according to my rank"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 14
+      },
+      "text": "We…: Heb. Who sweetened counsel"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 15
+      },
+      "text": "hell: or, the grave"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 19
+      },
+      "text": "Because…: or, With whom also there be no changes, yet they"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 20
+      },
+      "text": "broken: Heb. profaned"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 22
+      },
+      "text": "burden: or, gift"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 23
+      },
+      "text": "bloody…: Heb. men of bloods and deceit"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 23
+      },
+      "text": "shall…: Heb. shall not half their days"
+    }
+  ]
+}

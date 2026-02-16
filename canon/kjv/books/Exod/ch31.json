@@ -7,253 +7,271 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:",
       "tokens": [
         {
-          "t": "See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:"
+          "t": "See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,",
       "tokens": [
         {
-          "t": "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,"
+          "t": "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship, "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "To devise cunning works, to work in gold, and in silver, and in brass,",
       "tokens": [
         {
-          "t": "To devise cunning works, to work in gold, and in silver, and in brass,"
+          "t": "To devise cunning works, to work in gold, and in silver, and in brass, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And in cutting of stones, to set them, and in carving of timber, to work in all manner of workmanship.",
       "tokens": [
         {
-          "t": "And in cutting of stones, to set"
+          "t": "And in cutting of stones, to set "
         },
         {
           "add": "them"
         },
         {
-          "t": ", and in carving of timber, to work in all manner of workmanship."
+          "t": ", and in carving of timber, to work in all manner of workmanship. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee;",
       "tokens": [
         {
-          "t": "And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee;"
+          "t": "And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that is thereupon, and all the furniture of the tabernacle,",
       "tokens": [
         {
-          "t": "The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that"
+          "t": "The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that "
         },
         {
           "add": "is"
         },
         {
-          "t": "thereupon, and all the furniture of the tabernacle,"
+          "t": " thereupon, and all the furniture of the tabernacle, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,",
       "tokens": [
         {
-          "t": "And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,"
+          "t": "And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the altar of burnt offering with all his furniture, and the laver and his foot,",
       "tokens": [
         {
-          "t": "And the altar of burnt offering with all his furniture, and the laver and his foot,"
+          "t": "And the altar of burnt offering with all his furniture, and the laver and his foot, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office,",
       "tokens": [
         {
-          "t": "And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office,"
+          "t": "And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the anointing oil, and sweet incense for the holy place: according to all that I have commanded thee shall they do.",
       "tokens": [
         {
-          "t": "And the anointing oil, and sweet incense for the holy"
+          "t": "And the anointing oil, and sweet incense for the holy "
         },
         {
           "add": "place:"
         },
         {
-          "t": "according to all that I have commanded thee shall they do."
+          "t": " according to all that I have commanded thee shall they do. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it is a sign between me and you throughout your generations; that ye may know that I am the LORD that doth sanctify you.",
       "tokens": [
         {
-          "t": "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it"
+          "t": "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a sign between me and you throughout your generations; that"
+          "t": " a sign between me and you throughout your generations; that "
         },
         {
           "add": "ye"
         },
         {
-          "t": "may know that I"
+          "t": " may know that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that doth sanctify you."
+          "t": " that doth sanctify you. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Ye shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth any work therein, that soul shall be cut off from among his people.",
       "tokens": [
         {
-          "t": "Ye shall keep the sabbath therefore; for it"
+          "t": "Ye shall keep the sabbath therefore; for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth"
+          "t": " holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth "
         },
         {
           "add": "any"
         },
         {
-          "t": "work therein, that soul shall be cut off from among his people."
+          "t": " work therein, that soul shall be cut off from among his people. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Six days may work be done; but in the seventh is the sabbath of rest, holy to the LORD: whosoever doeth any work in the sabbath day, he shall surely be put to death.",
       "tokens": [
         {
-          "t": "Six days may work be done; but in the seventh"
+          "t": "Six days may work be done; but in the seventh "
         },
         {
           "add": "is"
         },
         {
-          "t": "the sabbath of rest, holy to the"
+          "t": " the sabbath of rest, holy to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": whosoever doeth"
+          "t": ": whosoever doeth "
         },
         {
           "add": "any"
         },
         {
-          "t": "work in the sabbath day, he shall surely be put to death."
+          "t": " work in the sabbath day, he shall surely be put to death. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant.",
       "tokens": [
         {
-          "t": "Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations,"
+          "t": "Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, "
         },
         {
           "add": "for"
         },
         {
-          "t": "a perpetual covenant."
+          "t": " a perpetual covenant. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "It is a sign between me and the children of Israel for ever: for in six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.",
       "tokens": [
         {
-          "t": "It"
+          "t": "It "
         },
         {
           "add": "is"
         },
         {
-          "t": "a sign between me and the children of Israel for ever: for"
+          "t": " a sign between me and the children of Israel for ever: for "
         },
         {
           "add": "in"
         },
         {
-          "t": "six days the"
+          "t": " six days the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "made heaven and earth, and on the seventh day he rested, and was refreshed."
+          "t": " made heaven and earth, and on the seventh day he rested, and was refreshed. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God.",
       "tokens": [
         {
-          "t": "¶ And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God."
+          "t": "¶ And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God. "
         }
       ]
     }

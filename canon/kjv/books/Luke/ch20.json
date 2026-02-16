@@ -7,371 +7,621 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,",
       "tokens": [
         {
-          "t": "And it came to pass,"
+          "t": "And it came to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon"
+          "t": " on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon "
         },
         {
           "add": "him"
         },
         {
-          "t": "with the elders,"
+          "t": " with the elders, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?",
       "tokens": [
         {
-          "t": "And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?"
+          "t": "And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he answered and said unto them, I will also ask you one thing; and answer me:",
       "tokens": [
         {
-          "t": "And he answered and said unto them,"
+          "t": "And he answered and said unto them, "
+        },
+        {
+          "t": "I will also ask you one thing; and answer me:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "The baptism of John, was it from heaven, or of men?",
+      "tokens": [
+        {
+          "t": "The baptism of John, was it from heaven, or of men?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
+      "plain": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?",
       "tokens": [
         {
-          "t": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?"
+          "t": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.",
       "tokens": [
         {
-          "t": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet."
+          "t": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And they answered, that they could not tell whence it was.",
       "tokens": [
         {
-          "t": "And they answered, that they could not tell whence"
+          "t": "And they answered, that they could not tell whence "
         },
         {
           "add": "it was"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Jesus said unto them, Neither tell I you by what authority I do these things.",
       "tokens": [
         {
-          "t": "And Jesus said unto them,"
+          "t": "And Jesus said unto them, "
+        },
+        {
+          "t": "Neither tell I you by what authority I do these things."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.",
       "tokens": [
         {
-          "t": "Then began he to speak to the people this parable;"
+          "t": "Then began he to speak to the people this parable; "
+        },
+        {
+          "t": "A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.",
+      "tokens": [
+        {
+          "t": "And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " away empty."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty.",
+      "tokens": [
+        {
+          "t": "And again he sent another servant: and they beat him also, and entreated "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " shamefully, and sent "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " away empty."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "And again he sent a third: and they wounded him also, and cast him out.",
+      "tokens": [
+        {
+          "t": "And again he sent a third: and they wounded him also, and cast "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " out."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence him when they see him.",
+      "tokens": [
+        {
+          "t": "Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " when they see him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours.",
+      "tokens": [
+        {
+          "t": "But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "So they cast him out of the vineyard, and killed him. What therefore shall the lord of the vineyard do unto them?",
+      "tokens": [
+        {
+          "t": "So they cast him out of the vineyard, and killed "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": ". What therefore shall the lord of the vineyard do unto them?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
+      "plain": "He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard it, they said, God forbid.",
       "tokens": [
         {
-          "t": "And when they heard"
+          "t": "He shall come and destroy these husbandmen, and shall give the vineyard to others."
+        },
+        {
+          "t": " And when they heard "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they said, God forbid."
-        },
-        {
-          "t": "And when they heard"
-        },
-        {
-          "add": "it"
-        },
-        {
-          "t": ", they said, God forbid."
+          "t": ", they said, God forbid. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?",
       "tokens": [
         {
-          "t": "And he beheld them, and said,"
+          "t": "And he beheld them, and said, "
+        },
+        {
+          "t": "What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.",
+      "tokens": [
+        {
+          "t": "Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
+      "plain": "¶ And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.",
       "tokens": [
         {
-          "t": "¶ And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them."
+          "t": "¶ And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.",
       "tokens": [
         {
-          "t": "And they watched"
+          "t": "And they watched "
         },
         {
           "add": "him"
         },
         {
-          "t": ", and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor."
+          "t": ", and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:",
       "tokens": [
         {
-          "t": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person"
+          "t": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person "
         },
         {
           "add": "of any"
         },
         {
-          "t": ", but teachest the way of God truly:"
+          "t": ", but teachest the way of God truly: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Is it lawful for us to give tribute unto Cæsar, or no?",
       "tokens": [
         {
-          "t": "Is it lawful for us to give tribute unto Cæsar, or no?"
+          "t": "Is it lawful for us to give tribute unto Cæsar, or no? "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But he perceived their craftiness, and said unto them, Why tempt ye me?",
       "tokens": [
         {
-          "t": "But he perceived their craftiness, and said unto them,"
+          "t": "But he perceived their craftiness, and said unto them, "
+        },
+        {
+          "t": "Why tempt ye me?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Shew me a penny. Whose image and superscription hath it? They answered and said, Cæsar’s.",
       "tokens": [
         {
-          "t": "They answered and said, Cæsar’s."
+          "t": "Shew me a penny. Whose image and superscription hath it?"
         },
         {
-          "t": "They answered and said, Cæsar’s."
+          "t": " They answered and said, Cæsar’s. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And he said unto them, Render therefore unto Cæsar the things which be Cæsar’s, and unto God the things which be God’s.",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "Render therefore unto Cæsar the things which be Cæsar’s, and unto God the things which be God’s."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace.",
       "tokens": [
         {
-          "t": "And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace."
+          "t": "And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ Then came to him certain of the Sadducees, which deny that there is any resurrection; and they asked him,",
       "tokens": [
         {
-          "t": "¶ Then came to"
+          "t": "¶ Then came to "
         },
         {
           "add": "him"
         },
         {
-          "t": "certain of the Sadducees, which deny that there is any resurrection; and they asked him,"
+          "t": " certain of the Sadducees, which deny that there is any resurrection; and they asked him, "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother.",
       "tokens": [
         {
-          "t": "Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother."
+          "t": "Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "There were therefore seven brethren: and the first took a wife, and died without children.",
       "tokens": [
         {
-          "t": "There were therefore seven brethren: and the first took a wife, and died without children."
+          "t": "There were therefore seven brethren: and the first took a wife, and died without children. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And the second took her to wife, and he died childless.",
       "tokens": [
         {
-          "t": "And the second took her to wife, and he died childless."
+          "t": "And the second took her to wife, and he died childless. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And the third took her; and in like manner the seven also: and they left no children, and died.",
       "tokens": [
         {
-          "t": "And the third took her; and in like manner the seven also: and they left no children, and died."
+          "t": "And the third took her; and in like manner the seven also: and they left no children, and died. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Last of all the woman died also.",
       "tokens": [
         {
-          "t": "Last of all the woman died also."
+          "t": "Last of all the woman died also. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Therefore in the resurrection whose wife of them is she? for seven had her to wife.",
       "tokens": [
         {
-          "t": "Therefore in the resurrection whose wife of them is she? for seven had her to wife."
+          "t": "Therefore in the resurrection whose wife of them is she? for seven had her to wife. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And Jesus answering said unto them, The children of this world marry, and are given in marriage:",
       "tokens": [
         {
-          "t": "And Jesus answering said unto them,"
+          "t": "And Jesus answering said unto them, "
+        },
+        {
+          "t": "The children of this world marry, and are given in marriage:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 35,
-      "tokens": null
+      "plain": "But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:",
+      "tokens": [
+        {
+          "t": "But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 36,
-      "tokens": null
+      "plain": "Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.",
+      "tokens": [
+        {
+          "t": "Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 37,
-      "tokens": null
+      "plain": "Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.",
+      "tokens": [
+        {
+          "t": "Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 38,
-      "tokens": null
+      "plain": "For he is not a God of the dead, but of the living: for all live unto him.",
+      "tokens": [
+        {
+          "t": "For he is not a God of the dead, but of the living: for all live unto him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 39,
+      "plain": "¶ Then certain of the scribes answering said, Master, thou hast well said.",
       "tokens": [
         {
-          "t": "¶ Then certain of the scribes answering said, Master, thou hast well said."
+          "t": "¶ Then certain of the scribes answering said, Master, thou hast well said. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And after that they durst not ask him any question at all.",
       "tokens": [
         {
-          "t": "And after that they durst not ask him any"
+          "t": "And after that they durst not ask him any "
         },
         {
           "add": "question at all"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And he said unto them, How say they that Christ is David’s son?",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "How say they that Christ is David’s son?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 42,
-      "tokens": null
+      "plain": "And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,",
+      "tokens": [
+        {
+          "t": "And David himself saith in the book of Psalms, The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " said unto my Lord, Sit thou on my right hand,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 43,
-      "tokens": null
+      "plain": "Till I make thine enemies thy footstool.",
+      "tokens": [
+        {
+          "t": "Till I make thine enemies thy footstool."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 44,
-      "tokens": null
+      "plain": "David therefore calleth him Lord, how is he then his son?",
+      "tokens": [
+        {
+          "t": "David therefore calleth him Lord, how is he then his son?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 45,
+      "plain": "¶ Then in the audience of all the people he said unto his disciples,",
       "tokens": [
         {
-          "t": "¶ Then in the audience of all the people he said unto his disciples,"
+          "t": "¶ Then in the audience of all the people he said unto his disciples, "
         }
       ]
     },
     {
       "v": 46,
-      "tokens": null
+      "plain": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;",
+      "tokens": [
+        {
+          "t": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 47,
-      "tokens": null
+      "plain": "Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation.",
+      "tokens": [
+        {
+          "t": "Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

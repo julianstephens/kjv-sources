@@ -7,113 +7,124 @@
   "verses": [
     {
       "v": 1,
+      "plain": "They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.",
       "tokens": [
         {
-          "t": "They that trust in the"
+          "t": "They that trust in the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "shall be"
         },
         {
-          "t": "as mount Zion,"
+          "t": " as mount Zion, "
         },
         {
           "add": "which"
         },
         {
-          "t": "cannot be removed,"
+          "t": " cannot be removed, "
         },
         {
           "add": "but"
         },
         {
-          "t": "abideth for ever."
+          "t": " abideth for ever. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "As the mountains are round about Jerusalem, so the LORD is round about his people from henceforth even for ever.",
       "tokens": [
         {
-          "t": "As the mountains"
+          "t": "As the mountains "
         },
         {
           "add": "are"
         },
         {
-          "t": "round about Jerusalem, so the"
+          "t": " round about Jerusalem, so the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "round about his people from henceforth even for ever."
+          "t": " round about his people from henceforth even for ever. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
       "tokens": [
         {
-          "t": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity."
+          "t": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Do good, O LORD, unto those that be good, and to them that are upright in their hearts.",
       "tokens": [
         {
-          "t": "Do good, O"
+          "t": "Do good, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", unto"
+          "t": ", unto "
         },
         {
           "add": "those that be"
         },
         {
-          "t": "good, and"
+          "t": " good, and "
         },
         {
           "add": "to them that are"
         },
         {
-          "t": "upright in their hearts."
+          "t": " upright in their hearts. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: but peace shall be upon Israel.",
       "tokens": [
         {
-          "t": "As for such as turn aside unto their crooked ways, the"
+          "t": "As for such as turn aside unto their crooked ways, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall lead them forth with the workers of iniquity:"
+          "t": " shall lead them forth with the workers of iniquity: "
         },
         {
           "add": "but"
         },
         {
-          "t": "peace"
+          "t": " peace "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "upon Israel."
+          "t": " upon Israel. "
         }
       ]
     }

@@ -7,470 +7,502 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies;",
       "tokens": [
         {
-          "t": "And it came to pass, when the king sat in his house, and the"
+          "t": "And it came to pass, when the king sat in his house, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had given him rest round about from all his enemies;"
+          "t": " had given him rest round about from all his enemies; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains.",
       "tokens": [
         {
-          "t": "That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains."
+          "t": "That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Nathan said to the king, Go, do all that is in thine heart; for the LORD is with thee.",
       "tokens": [
         {
-          "t": "And Nathan said to the king, Go, do all that"
+          "t": "And Nathan said to the king, Go, do all that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in thine heart; for the"
+          "t": " in thine heart; for the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "with thee."
+          "t": " with thee. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And it came to pass that night, that the word of the LORD came unto Nathan, saying,",
       "tokens": [
         {
-          "t": "¶ And it came to pass that night, that the word of the"
+          "t": "¶ And it came to pass that night, that the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto Nathan, saying,"
+          "t": " came unto Nathan, saying, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Go and tell my servant David, Thus saith the LORD, Shalt thou build me an house for me to dwell in?",
       "tokens": [
         {
-          "t": "Go and tell my servant David, Thus saith the"
+          "t": "Go and tell my servant David, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Shalt thou build me an house for me to dwell in?"
+          "t": ", Shalt thou build me an house for me to dwell in? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Whereas I have not dwelt in any house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.",
       "tokens": [
         {
-          "t": "Whereas I have not dwelt in"
+          "t": "Whereas I have not dwelt in "
         },
         {
           "add": "any"
         },
         {
-          "t": "house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle."
+          "t": " house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "In all the places wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?",
       "tokens": [
         {
-          "t": "In all"
+          "t": "In all "
         },
         {
           "add": "the places"
         },
         {
-          "t": "wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?"
+          "t": " wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Now therefore so shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:",
       "tokens": [
         {
-          "t": "Now therefore so shalt thou say unto my servant David, Thus saith the"
+          "t": "Now therefore so shalt thou say unto my servant David, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:"
+          "t": " of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And I was with thee whithersoever thou wentest, and have cut off all thine enemies out of thy sight, and have made thee a great name, like unto the name of the great men that are in the earth.",
       "tokens": [
         {
-          "t": "And I was with thee whithersoever thou wentest, and have cut off all thine enemies out of thy sight, and have made thee a great name, like unto the name of the great"
+          "t": "And I was with thee whithersoever thou wentest, and have cut off all thine enemies out of thy sight, and have made thee a great name, like unto the name of the great "
         },
         {
           "add": "men"
         },
         {
-          "t": "that"
+          "t": " that "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the earth."
+          "t": " in the earth. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime,",
       "tokens": [
         {
-          "t": "Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime,"
+          "t": "Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And as since the time that I commanded judges to be over my people Israel, and have caused thee to rest from all thine enemies. Also the LORD telleth thee that he will make thee an house.",
       "tokens": [
         {
-          "t": "And as since the time that I commanded judges"
+          "t": "And as since the time that I commanded judges "
         },
         {
           "add": "to be"
         },
         {
-          "t": "over my people Israel, and have caused thee to rest from all thine enemies. Also the"
+          "t": " over my people Israel, and have caused thee to rest from all thine enemies. Also the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "telleth thee that he will make thee an house."
+          "t": " telleth thee that he will make thee an house. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom.",
       "tokens": [
         {
-          "t": "¶ And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom."
+          "t": "¶ And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "He shall build an house for my name, and I will stablish the throne of his kingdom for ever.",
       "tokens": [
         {
-          "t": "He shall build an house for my name, and I will stablish the throne of his kingdom for ever."
+          "t": "He shall build an house for my name, and I will stablish the throne of his kingdom for ever. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:",
       "tokens": [
         {
-          "t": "I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:"
+          "t": "I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But my mercy shall not depart away from him, as I took it from Saul, whom I put away before thee.",
       "tokens": [
         {
-          "t": "But my mercy shall not depart away from him, as I took"
+          "t": "But my mercy shall not depart away from him, as I took "
         },
         {
           "add": "it"
         },
         {
-          "t": "from Saul, whom I put away before thee."
+          "t": " from Saul, whom I put away before thee. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.",
       "tokens": [
         {
-          "t": "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever."
+          "t": "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "According to all these words, and according to all this vision, so did Nathan speak unto David.",
       "tokens": [
         {
-          "t": "According to all these words, and according to all this vision, so did Nathan speak unto David."
+          "t": "According to all these words, and according to all this vision, so did Nathan speak unto David. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ Then went king David in, and sat before the LORD, and he said, Who am I, O Lord GOD? and what is my house, that thou hast brought me hitherto?",
       "tokens": [
         {
-          "t": "¶ Then went king David in, and sat before the"
+          "t": "¶ Then went king David in, and sat before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and he said, Who"
+          "t": ", and he said, Who "
         },
         {
           "add": "am"
         },
         {
-          "t": "I, O Lord"
+          "t": " I, O Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "? and what"
+          "t": "? and what "
         },
         {
           "add": "is"
         },
         {
-          "t": "my house, that thou hast brought me hitherto?"
+          "t": " my house, that thou hast brought me hitherto? "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And this was yet a small thing in thy sight, O Lord GOD; but thou hast spoken also of thy servant’s house for a great while to come. And is this the manner of man, O Lord GOD?",
       "tokens": [
         {
-          "t": "And this was yet a small thing in thy sight, O Lord"
+          "t": "And this was yet a small thing in thy sight, O Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; but thou hast spoken also of thy servant’s house for a great while to come. And"
+          "t": "; but thou hast spoken also of thy servant’s house for a great while to come. And "
         },
         {
           "add": "is"
         },
         {
-          "t": "this the manner of man, O Lord"
+          "t": " this the manner of man, O Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And what can David say more unto thee? for thou, Lord GOD, knowest thy servant.",
       "tokens": [
         {
-          "t": "And what can David say more unto thee? for thou, Lord"
+          "t": "And what can David say more unto thee? for thou, Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ", knowest thy servant."
+          "t": ", knowest thy servant. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For thy word’s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know them.",
       "tokens": [
         {
-          "t": "For thy word’s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know"
+          "t": "For thy word’s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Wherefore thou art great, O LORD God: for there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears.",
       "tokens": [
         {
-          "t": "Wherefore thou art great, O"
+          "t": "Wherefore thou art great, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God: for"
+          "t": " God: for "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none like thee, neither"
+          "t": " none like thee, neither "
         },
         {
           "add": "is there any"
         },
         {
-          "t": "God beside thee, according to all that we have heard with our ears."
+          "t": " God beside thee, according to all that we have heard with our ears. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And what one nation in the earth is like thy people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt, from the nations and their gods?",
       "tokens": [
         {
-          "t": "And what one nation in the earth"
+          "t": "And what one nation in the earth "
         },
         {
           "add": "is"
         },
         {
-          "t": "like thy people,"
+          "t": " like thy people, "
         },
         {
           "add": "even"
         },
         {
-          "t": "like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt,"
+          "t": " like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt, "
         },
         {
           "add": "from"
         },
         {
-          "t": "the nations and their gods?"
+          "t": " the nations and their gods? "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "For thou hast confirmed to thyself thy people Israel to be a people unto thee for ever: and thou, LORD, art become their God.",
       "tokens": [
         {
-          "t": "For thou hast confirmed to thyself thy people Israel"
+          "t": "For thou hast confirmed to thyself thy people Israel "
         },
         {
           "add": "to be"
         },
         {
-          "t": "a people unto thee for ever: and thou,"
+          "t": " a people unto thee for ever: and thou, "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", art become their God."
+          "t": ", art become their God. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And now, O LORD God, the word that thou hast spoken concerning thy servant, and concerning his house, establish it for ever, and do as thou hast said.",
       "tokens": [
         {
-          "t": "And now, O"
+          "t": "And now, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God, the word that thou hast spoken concerning thy servant, and concerning his house, establish"
+          "t": " God, the word that thou hast spoken concerning thy servant, and concerning his house, establish "
         },
         {
           "add": "it"
         },
         {
-          "t": "for ever, and do as thou hast said."
+          "t": " for ever, and do as thou hast said. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And let thy name be magnified for ever, saying, The LORD of hosts is the God over Israel: and let the house of thy servant David be established before thee.",
       "tokens": [
         {
-          "t": "And let thy name be magnified for ever, saying, The"
+          "t": "And let thy name be magnified for ever, saying, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts"
+          "t": " of hosts "
         },
         {
           "add": "is"
         },
         {
-          "t": "the God over Israel: and let the house of thy servant David be established before thee."
+          "t": " the God over Israel: and let the house of thy servant David be established before thee. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "For thou, O LORD of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee.",
       "tokens": [
         {
-          "t": "For thou, O"
+          "t": "For thou, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee."
+          "t": " of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And now, O Lord GOD, thou art that God, and thy words be true, and thou hast promised this goodness unto thy servant:",
       "tokens": [
         {
-          "t": "And now, O Lord"
+          "t": "And now, O Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ", thou"
+          "t": ", thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "that God, and thy words be true, and thou hast promised this goodness unto thy servant:"
+          "t": " that God, and thy words be true, and thou hast promised this goodness unto thy servant: "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord GOD, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever.",
       "tokens": [
         {
-          "t": "Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord"
+          "t": "Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ", hast spoken"
+          "t": ", hast spoken "
         },
         {
           "add": "it:"
         },
         {
-          "t": "and with thy blessing let the house of thy servant be blessed for ever."
+          "t": " and with thy blessing let the house of thy servant be blessed for ever. "
         }
       ]
     }

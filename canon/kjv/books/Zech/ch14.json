@@ -7,355 +7,376 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee.",
       "tokens": [
         {
-          "t": "Behold, the day of the"
+          "t": "Behold, the day of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "cometh, and thy spoil shall be divided in the midst of thee."
+          "t": " cometh, and thy spoil shall be divided in the midst of thee. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city.",
       "tokens": [
         {
-          "t": "For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city."
+          "t": "For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle.",
       "tokens": [
         {
-          "t": "Then shall the"
+          "t": "Then shall the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "go forth, and fight against those nations, as when he fought in the day of battle."
+          "t": " go forth, and fight against those nations, as when he fought in the day of battle. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, and there shall be a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.",
       "tokens": [
         {
-          "t": "¶ And his feet shall stand in that day upon the mount of Olives, which"
+          "t": "¶ And his feet shall stand in that day upon the mount of Olives, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west,"
+          "t": " before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, "
         },
         {
           "add": "and there shall be"
         },
         {
-          "t": "a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south."
+          "t": " a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And ye shall flee to the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the LORD my God shall come, and all the saints with thee.",
       "tokens": [
         {
-          "t": "And ye shall flee"
+          "t": "And ye shall flee "
         },
         {
           "add": "to"
         },
         {
-          "t": "the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the"
+          "t": " the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "my God shall come,"
+          "t": " my God shall come, "
         },
         {
           "add": "and"
         },
         {
-          "t": "all the saints with thee."
+          "t": " all the saints with thee. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And it shall come to pass in that day, that the light shall not be clear, nor dark:",
       "tokens": [
         {
-          "t": "And it shall come to pass in that day,"
+          "t": "And it shall come to pass in that day, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the light shall not be clear,"
+          "t": " the light shall not be clear, "
         },
         {
           "add": "nor"
         },
         {
-          "t": "dark:"
+          "t": " dark: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But it shall be one day which shall be known to the LORD, not day, nor night: but it shall come to pass, that at evening time it shall be light.",
       "tokens": [
         {
-          "t": "But it shall be one day which shall be known to the"
+          "t": "But it shall be one day which shall be known to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", not day, nor night: but it shall come to pass,"
+          "t": ", not day, nor night: but it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "at evening time it shall be light."
+          "t": " at evening time it shall be light. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And it shall be in that day, that living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be.",
       "tokens": [
         {
-          "t": "And it shall be in that day,"
+          "t": "And it shall be in that day, "
         },
         {
           "add": "that"
         },
         {
-          "t": "living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be."
+          "t": " living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the LORD shall be king over all the earth: in that day shall there be one LORD, and his name one.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall be king over all the earth: in that day shall there be one"
+          "t": " shall be king over all the earth: in that day shall there be one "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and his name one."
+          "t": ", and his name one. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and from the tower of Hananeel unto the king’s winepresses.",
       "tokens": [
         {
-          "t": "All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and"
+          "t": "All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and "
         },
         {
           "add": "from"
         },
         {
-          "t": "the tower of Hananeel unto the king’s winepresses."
+          "t": " the tower of Hananeel unto the king’s winepresses. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And men shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "men"
         },
         {
-          "t": "shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited."
+          "t": " shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And this shall be the plague wherewith the LORD will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.",
       "tokens": [
         {
-          "t": "¶ And this shall be the plague wherewith the"
+          "t": "¶ And this shall be the plague wherewith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth."
+          "t": " will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And it shall come to pass in that day, that a great tumult from the LORD shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour.",
       "tokens": [
         {
-          "t": "And it shall come to pass in that day,"
+          "t": "And it shall come to pass in that day, "
         },
         {
           "add": "that"
         },
         {
-          "t": "a great tumult from the"
+          "t": " a great tumult from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour."
+          "t": " shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance.",
       "tokens": [
         {
-          "t": "And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance."
+          "t": "And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague.",
       "tokens": [
         {
-          "t": "And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague."
+          "t": "And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles.",
       "tokens": [
         {
-          "t": "¶ And it shall come to pass,"
+          "t": "¶ And it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the"
+          "t": " every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, and to keep the feast of tabernacles."
+          "t": " of hosts, and to keep the feast of tabernacles. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And it shall be, that whoso will not come up of all the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain.",
       "tokens": [
         {
-          "t": "And it shall be,"
+          "t": "And it shall be, "
         },
         {
           "add": "that"
         },
         {
-          "t": "whoso will not come up of"
+          "t": " whoso will not come up of "
         },
         {
           "add": "all"
         },
         {
-          "t": "the families of the earth unto Jerusalem to worship the King, the"
+          "t": " the families of the earth unto Jerusalem to worship the King, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, even upon them shall be no rain."
+          "t": " of hosts, even upon them shall be no rain. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And if the family of Egypt go not up, and come not, that have no rain; there shall be the plague, wherewith the LORD will smite the heathen that come not up to keep the feast of tabernacles.",
       "tokens": [
         {
-          "t": "And if the family of Egypt go not up, and come not, that"
+          "t": "And if the family of Egypt go not up, and come not, that "
         },
         {
           "add": "have"
         },
         {
-          "t": "no"
+          "t": " no "
         },
         {
           "add": "rain;"
         },
         {
-          "t": "there shall be the plague, wherewith the"
+          "t": " there shall be the plague, wherewith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will smite the heathen that come not up to keep the feast of tabernacles."
+          "t": " will smite the heathen that come not up to keep the feast of tabernacles. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles.",
       "tokens": [
         {
-          "t": "This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles."
+          "t": "This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD; and the pots in the LORD’s house shall be like the bowls before the altar.",
       "tokens": [
         {
-          "t": "¶ In that day shall there be upon the bells of the horses, HOLINESS UNTO THE"
+          "t": "¶ In that day shall there be upon the bells of the horses, HOLINESS UNTO THE "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and the pots in the"
+          "t": "; and the pots in the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "house shall be like the bowls before the altar."
+          "t": " house shall be like the bowls before the altar. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts.",
       "tokens": [
         {
-          "t": "Yea, every pot in Jerusalem and in Judah shall be holiness unto the"
+          "t": "Yea, every pot in Jerusalem and in Judah shall be holiness unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the"
+          "t": " of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts."
+          "t": " of hosts. "
         }
       ]
     }

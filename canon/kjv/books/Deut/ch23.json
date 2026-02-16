@@ -7,339 +7,364 @@
   "verses": [
     {
       "v": 1,
+      "plain": "He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the LORD.",
       "tokens": [
         {
-          "t": "He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the"
+          "t": "He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "A bastard shall not enter into the congregation of the LORD; even to his tenth generation shall he not enter into the congregation of the LORD.",
       "tokens": [
         {
-          "t": "A bastard shall not enter into the congregation of the"
+          "t": "A bastard shall not enter into the congregation of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; even to his tenth generation shall he not enter into the congregation of the"
+          "t": "; even to his tenth generation shall he not enter into the congregation of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "An Ammonite or Moabite shall not enter into the congregation of the LORD; even to their tenth generation shall they not enter into the congregation of the LORD for ever:",
       "tokens": [
         {
-          "t": "An Ammonite or Moabite shall not enter into the congregation of the"
+          "t": "An Ammonite or Moabite shall not enter into the congregation of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; even to their tenth generation shall they not enter into the congregation of the"
+          "t": "; even to their tenth generation shall they not enter into the congregation of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for ever:"
+          "t": " for ever: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Because they met you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee.",
       "tokens": [
         {
-          "t": "Because they met you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee."
+          "t": "Because they met you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Nevertheless the LORD thy God would not hearken unto Balaam; but the LORD thy God turned the curse into a blessing unto thee, because the LORD thy God loved thee.",
       "tokens": [
         {
-          "t": "Nevertheless the"
+          "t": "Nevertheless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God would not hearken unto Balaam; but the"
+          "t": " thy God would not hearken unto Balaam; but the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God turned the curse into a blessing unto thee, because the"
+          "t": " thy God turned the curse into a blessing unto thee, because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God loved thee."
+          "t": " thy God loved thee. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Thou shalt not seek their peace nor their prosperity all thy days for ever.",
       "tokens": [
         {
-          "t": "Thou shalt not seek their peace nor their prosperity all thy days for ever."
+          "t": "Thou shalt not seek their peace nor their prosperity all thy days for ever. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not abhor an Edomite; for he"
+          "t": "¶ Thou shalt not abhor an Edomite; for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land."
+          "t": " thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The children that are begotten of them shall enter into the congregation of the LORD in their third generation.",
       "tokens": [
         {
-          "t": "The children that are begotten of them shall enter into the congregation of the"
+          "t": "The children that are begotten of them shall enter into the congregation of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in their third generation."
+          "t": " in their third generation. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ When the host goeth forth against thine enemies, then keep thee from every wicked thing.",
       "tokens": [
         {
-          "t": "¶ When the host goeth forth against thine enemies, then keep thee from every wicked thing."
+          "t": "¶ When the host goeth forth against thine enemies, then keep thee from every wicked thing. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ If there be among you any man, that is not clean by reason of uncleanness that chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp:",
       "tokens": [
         {
-          "t": "¶ If there be among you any man, that is not clean by reason of uncleanness that chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp:"
+          "t": "¶ If there be among you any man, that is not clean by reason of uncleanness that chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "But it shall be, when evening cometh on, he shall wash himself with water: and when the sun is down, he shall come into the camp again.",
       "tokens": [
         {
-          "t": "But it shall be, when evening cometh on, he shall wash"
+          "t": "But it shall be, when evening cometh on, he shall wash "
         },
         {
           "add": "himself"
         },
         {
-          "t": "with water: and when the sun is down, he shall come into the camp"
+          "t": " with water: and when the sun is down, he shall come into the camp "
         },
         {
           "add": "again"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Thou shalt have a place also without the camp, whither thou shalt go forth abroad:",
       "tokens": [
         {
-          "t": "¶ Thou shalt have a place also without the camp, whither thou shalt go forth abroad:"
+          "t": "¶ Thou shalt have a place also without the camp, whither thou shalt go forth abroad: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:",
       "tokens": [
         {
-          "t": "And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:"
+          "t": "And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For the LORD thy God walketh in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy: that he see no unclean thing in thee, and turn away from thee.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God walketh in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy: that he see no unclean thing in thee, and turn away from thee."
+          "t": " thy God walketh in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy: that he see no unclean thing in thee, and turn away from thee. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ Thou shalt not deliver unto his master the servant which is escaped from his master unto thee:",
       "tokens": [
         {
-          "t": "¶ Thou shalt not deliver unto his master the servant which is escaped from his master unto thee:"
+          "t": "¶ Thou shalt not deliver unto his master the servant which is escaped from his master unto thee: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "He shall dwell with thee, even among you, in that place which he shall choose in one of thy gates, where it liketh him best: thou shalt not oppress him.",
       "tokens": [
         {
-          "t": "He shall dwell with thee,"
+          "t": "He shall dwell with thee, "
         },
         {
           "add": "even"
         },
         {
-          "t": "among you, in that place which he shall choose in one of thy gates, where it liketh him best: thou shalt not oppress him."
+          "t": " among you, in that place which he shall choose in one of thy gates, where it liketh him best: thou shalt not oppress him. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ There shall be no whore of the daughters of Israel, nor a sodomite of the sons of Israel.",
       "tokens": [
         {
-          "t": "¶ There shall be no whore of the daughters of Israel, nor a sodomite of the sons of Israel."
+          "t": "¶ There shall be no whore of the daughters of Israel, nor a sodomite of the sons of Israel. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Thou shalt not bring the hire of a whore, or the price of a dog, into the house of the LORD thy God for any vow: for even both these are abomination unto the LORD thy God.",
       "tokens": [
         {
-          "t": "Thou shalt not bring the hire of a whore, or the price of a dog, into the house of the"
+          "t": "Thou shalt not bring the hire of a whore, or the price of a dog, into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God for any vow: for even both these"
+          "t": " thy God for any vow: for even both these "
         },
         {
           "add": "are"
         },
         {
-          "t": "abomination unto the"
+          "t": " abomination unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God."
+          "t": " thy God. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:",
       "tokens": [
         {
-          "t": "¶ Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:"
+          "t": "¶ Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the LORD thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.",
       "tokens": [
         {
-          "t": "Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the"
+          "t": "Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it."
+          "t": " thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ When thou shalt vow a vow unto the LORD thy God, thou shalt not slack to pay it: for the LORD thy God will surely require it of thee; and it would be sin in thee.",
       "tokens": [
         {
-          "t": "¶ When thou shalt vow a vow unto the"
+          "t": "¶ When thou shalt vow a vow unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, thou shalt not slack to pay it: for the"
+          "t": " thy God, thou shalt not slack to pay it: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God will surely require it of thee; and it would be sin in thee."
+          "t": " thy God will surely require it of thee; and it would be sin in thee. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But if thou shalt forbear to vow, it shall be no sin in thee.",
       "tokens": [
         {
-          "t": "But if thou shalt forbear to vow, it shall be no sin in thee."
+          "t": "But if thou shalt forbear to vow, it shall be no sin in thee. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "That which is gone out of thy lips thou shalt keep and perform; even a freewill offering, according as thou hast vowed unto the LORD thy God, which thou hast promised with thy mouth.",
       "tokens": [
         {
-          "t": "That which is gone out of thy lips thou shalt keep and perform;"
+          "t": "That which is gone out of thy lips thou shalt keep and perform; "
         },
         {
           "add": "even"
         },
         {
-          "t": "a freewill offering, according as thou hast vowed unto the"
+          "t": " a freewill offering, according as thou hast vowed unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, which thou hast promised with thy mouth."
+          "t": " thy God, which thou hast promised with thy mouth. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ When thou comest into thy neighbour’s vineyard, then thou mayest eat grapes thy fill at thine own pleasure; but thou shalt not put any in thy vessel.",
       "tokens": [
         {
-          "t": "¶ When thou comest into thy neighbour’s vineyard, then thou mayest eat grapes thy fill at thine own pleasure; but thou shalt not put"
+          "t": "¶ When thou comest into thy neighbour’s vineyard, then thou mayest eat grapes thy fill at thine own pleasure; but thou shalt not put "
         },
         {
           "add": "any"
         },
         {
-          "t": "in thy vessel."
+          "t": " in thy vessel. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "When thou comest into the standing corn of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour’s standing corn.",
       "tokens": [
         {
-          "t": "When thou comest into the standing corn of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour’s standing corn."
+          "t": "When thou comest into the standing corn of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour’s standing corn. "
         }
       ]
     }

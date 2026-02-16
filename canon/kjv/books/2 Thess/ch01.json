@@ -7,118 +7,130 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:",
       "tokens": [
         {
-          "t": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+          "t": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ.",
       "tokens": [
         {
-          "t": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ."
+          "t": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;",
       "tokens": [
         {
-          "t": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;"
+          "t": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:",
       "tokens": [
         {
-          "t": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:"
+          "t": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:",
       "tokens": [
         {
           "add": "Which is"
         },
         {
-          "t": "a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:"
+          "t": " a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;",
       "tokens": [
         {
-          "t": "Seeing"
+          "t": "Seeing "
         },
         {
           "add": "it is"
         },
         {
-          "t": "a righteous thing with God to recompense tribulation to them that trouble you;"
+          "t": " a righteous thing with God to recompense tribulation to them that trouble you; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,",
       "tokens": [
         {
-          "t": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,"
+          "t": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:",
       "tokens": [
         {
-          "t": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:"
+          "t": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;",
       "tokens": [
         {
-          "t": "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;"
+          "t": "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.",
       "tokens": [
         {
-          "t": "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day."
+          "t": "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:",
       "tokens": [
         {
-          "t": "Wherefore also we pray always for you, that our God would count you worthy of"
+          "t": "Wherefore also we pray always for you, that our God would count you worthy of "
         },
         {
           "add": "this"
         },
         {
-          "t": "calling, and fulfil all the good pleasure of"
+          "t": " calling, and fulfil all the good pleasure of "
         },
         {
           "add": "his"
         },
         {
-          "t": "goodness, and the work of faith with power:"
+          "t": " goodness, and the work of faith with power: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.",
       "tokens": [
         {
-          "t": "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ."
+          "t": "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ. "
         }
       ]
     }

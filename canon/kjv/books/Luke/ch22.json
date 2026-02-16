@@ -7,541 +7,916 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now the feast of unleavened bread drew nigh, which is called the Passover.",
       "tokens": [
         {
-          "t": "Now the feast of unleavened bread drew nigh, which is called the Passover."
+          "t": "Now the feast of unleavened bread drew nigh, which is called the Passover. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the chief priests and scribes sought how they might kill him; for they feared the people.",
       "tokens": [
         {
-          "t": "And the chief priests and scribes sought how they might kill him; for they feared the people."
+          "t": "And the chief priests and scribes sought how they might kill him; for they feared the people. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.",
       "tokens": [
         {
-          "t": "¶ Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve."
+          "t": "¶ Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them.",
       "tokens": [
         {
-          "t": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them."
+          "t": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And they were glad, and covenanted to give him money.",
       "tokens": [
         {
-          "t": "And they were glad, and covenanted to give him money."
+          "t": "And they were glad, and covenanted to give him money. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude.",
       "tokens": [
         {
-          "t": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude."
+          "t": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ Then came the day of unleavened bread, when the passover must be killed.",
       "tokens": [
         {
-          "t": "¶ Then came the day of unleavened bread, when the passover must be killed."
+          "t": "¶ Then came the day of unleavened bread, when the passover must be killed. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.",
       "tokens": [
         {
-          "t": "And he sent Peter and John, saying,"
+          "t": "And he sent Peter and John, saying, "
+        },
+        {
+          "t": "Go and prepare us the passover, that we may eat."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And they said unto him, Where wilt thou that we prepare?",
       "tokens": [
         {
-          "t": "And they said unto him, Where wilt thou that we prepare?"
+          "t": "And they said unto him, Where wilt thou that we prepare? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?",
+      "tokens": [
+        {
+          "t": "And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "And he shall shew you a large upper room furnished: there make ready.",
+      "tokens": [
+        {
+          "t": "And he shall shew you a large upper room furnished: there make ready."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
+      "plain": "And they went, and found as he had said unto them: and they made ready the passover.",
       "tokens": [
         {
-          "t": "And they went, and found as he had said unto them: and they made ready the passover."
+          "t": "And they went, and found as he had said unto them: and they made ready the passover. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And when the hour was come, he sat down, and the twelve apostles with him.",
       "tokens": [
         {
-          "t": "And when the hour was come, he sat down, and the twelve apostles with him."
+          "t": "And when the hour was come, he sat down, and the twelve apostles with him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And he said unto them, With desire I have desired to eat this passover with you before I suffer:",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "With desire I have desired to eat this passover with you before I suffer:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 16,
-      "tokens": null
-    },
-    {
-      "v": 17,
+      "plain": "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.",
       "tokens": [
         {
-          "t": "And he took the cup, and gave thanks, and said,"
+          "t": "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
-      "v": 18,
-      "tokens": null
-    },
-    {
-      "v": 19,
+      "v": 17,
+      "plain": "And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:",
       "tokens": [
         {
-          "t": "¶ And he took bread, and gave thanks, and brake"
+          "t": "And he took the cup, and gave thanks, and said, "
+        },
+        {
+          "t": "Take this, and divide "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and gave unto them, saying,"
+          "t": " among yourselves:"
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.",
+      "tokens": [
+        {
+          "t": "For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "¶ And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.",
+      "tokens": [
+        {
+          "t": "¶ And he took bread, and gave thanks, and brake "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", and gave unto them, saying, "
+        },
+        {
+          "t": "This is my body which is given for you: this do in remembrance of me."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.",
       "tokens": [
         {
-          "t": "Likewise also the cup after supper, saying,"
+          "t": "Likewise also the cup after supper, saying, "
+        },
+        {
+          "t": "This cup "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the new testament in my blood, which is shed for you."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "¶ But, behold, the hand of him that betrayeth me is with me on the table.",
+      "tokens": [
+        {
+          "t": "¶ But, behold, the hand of him that betrayeth me "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " with me on the table."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!",
+      "tokens": [
+        {
+          "t": "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
+      "plain": "And they began to enquire among themselves, which of them it was that should do this thing.",
       "tokens": [
         {
-          "t": "And they began to enquire among themselves, which of them it was that should do this thing."
+          "t": "And they began to enquire among themselves, which of them it was that should do this thing. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ And there was also a strife among them, which of them should be accounted the greatest.",
       "tokens": [
         {
-          "t": "¶ And there was also a strife among them, which of them should be accounted the greatest."
+          "t": "¶ And there was also a strife among them, which of them should be accounted the greatest. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "But ye shall not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve.",
+      "tokens": [
+        {
+          "t": "But ye "
+        },
+        {
+          "add": "shall"
+        },
+        {
+          "t": " not "
+        },
+        {
+          "add": "be"
+        },
+        {
+          "t": " so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth.",
+      "tokens": [
+        {
+          "t": "For whether "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " greater, he that sitteth at meat, or he that serveth? "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " not he that sitteth at meat? but I am among you as he that serveth."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "Ye are they which have continued with me in my temptations.",
+      "tokens": [
+        {
+          "t": "Ye are they which have continued with me in my temptations."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "And I appoint unto you a kingdom, as my Father hath appointed unto me;",
+      "tokens": [
+        {
+          "t": "And I appoint unto you a kingdom, as my Father hath appointed unto me;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.",
+      "tokens": [
+        {
+          "t": "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
+      "plain": "¶ And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:",
       "tokens": [
         {
-          "t": "¶ And the Lord said,"
+          "t": "¶ And the Lord said, "
+        },
+        {
+          "t": "Simon, Simon, behold, Satan hath desired "
+        },
+        {
+          "add": "to have"
+        },
+        {
+          "t": " you, that he may sift "
+        },
+        {
+          "add": "you"
+        },
+        {
+          "t": " as wheat:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.",
+      "tokens": [
+        {
+          "t": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
+      "plain": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death.",
       "tokens": [
         {
-          "t": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death."
+          "t": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.",
       "tokens": [
         {
-          "t": "And he said,"
+          "t": "And he said, "
+        },
+        {
+          "t": "I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing.",
       "tokens": [
         {
-          "t": "And they said, Nothing."
+          "t": "And he said unto them, "
         },
         {
-          "t": "And he said unto them, And they said, Nothing."
+          "t": "When I sent you without purse, and scrip, and shoes, lacked ye any thing?"
+        },
+        {
+          "t": " And they said, Nothing. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Then said he unto them, But now, he that hath a purse, let him take it, and likewise his scrip: and he that hath no sword, let him sell his garment, and buy one.",
       "tokens": [
         {
-          "t": "Then said he unto them,"
+          "t": "Then said he unto them, "
+        },
+        {
+          "t": "But now, he that hath a purse, let him take "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", and likewise "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " scrip: and he that hath no sword, let him sell his garment, and buy one."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 37,
-      "tokens": null
+      "plain": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.",
+      "tokens": [
+        {
+          "t": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 38,
+      "plain": "And they said, Lord, behold, here are two swords. And he said unto them, It is enough.",
       "tokens": [
         {
-          "t": "And they said, Lord, behold, here"
+          "t": "And they said, Lord, behold, here "
         },
         {
           "add": "are"
         },
         {
-          "t": "two swords. And he said unto them,"
+          "t": " two swords. And he said unto them, "
+        },
+        {
+          "t": "It is enough."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "¶ And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.",
       "tokens": [
         {
-          "t": "¶ And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him."
+          "t": "¶ And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And when he was at the place, he said unto them, Pray that ye enter not into temptation.",
       "tokens": [
         {
-          "t": "And when he was at the place, he said unto them,"
+          "t": "And when he was at the place, he said unto them, "
+        },
+        {
+          "t": "Pray that ye enter not into temptation."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed,",
       "tokens": [
         {
-          "t": "And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed,"
+          "t": "And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed, "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.",
       "tokens": [
         {
-          "t": "Saying,"
+          "t": "Saying, "
+        },
+        {
+          "t": "Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "And there appeared an angel unto him from heaven, strengthening him.",
       "tokens": [
         {
-          "t": "And there appeared an angel unto him from heaven, strengthening him."
+          "t": "And there appeared an angel unto him from heaven, strengthening him. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.",
       "tokens": [
         {
-          "t": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground."
+          "t": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,",
       "tokens": [
         {
-          "t": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,"
+          "t": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow, "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.",
       "tokens": [
         {
-          "t": "And said unto them,"
+          "t": "And said unto them, "
+        },
+        {
+          "t": "Why sleep ye? rise and pray, lest ye enter into temptation."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "¶ And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him.",
       "tokens": [
         {
-          "t": "¶ And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him."
+          "t": "¶ And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?",
       "tokens": [
         {
-          "t": "But Jesus said unto him,"
+          "t": "But Jesus said unto him, "
+        },
+        {
+          "t": "Judas, betrayest thou the Son of man with a kiss?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?",
       "tokens": [
         {
-          "t": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?"
+          "t": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword? "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "¶ And one of them smote the servant of the high priest, and cut off his right ear.",
       "tokens": [
         {
-          "t": "¶ And one of them smote the servant of the high priest, and cut off his right ear."
+          "t": "¶ And one of them smote the servant of the high priest, and cut off his right ear. "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him.",
       "tokens": [
         {
-          "t": "And he touched his ear, and healed him."
+          "t": "And Jesus answered and said, "
         },
         {
-          "t": "And Jesus answered and said, And he touched his ear, and healed him."
+          "t": "Suffer ye thus far."
+        },
+        {
+          "t": " And he touched his ear, and healed him. "
         }
       ]
     },
     {
       "v": 52,
+      "plain": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves?",
       "tokens": [
         {
-          "t": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him,"
+          "t": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, "
+        },
+        {
+          "t": "Be ye come out, as against a thief, with swords and staves?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 53,
-      "tokens": null
+      "plain": "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.",
+      "tokens": [
+        {
+          "t": "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 54,
+      "plain": "¶ Then took they him, and led him, and brought him into the high priest’s house. And Peter followed afar off.",
       "tokens": [
         {
-          "t": "¶ Then took they him, and led"
+          "t": "¶ Then took they him, and led "
         },
         {
           "add": "him"
         },
         {
-          "t": ", and brought him into the high priest’s house. And Peter followed afar off."
+          "t": ", and brought him into the high priest’s house. And Peter followed afar off. "
         }
       ]
     },
     {
       "v": 55,
+      "plain": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.",
       "tokens": [
         {
-          "t": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them."
+          "t": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them. "
         }
       ]
     },
     {
       "v": 56,
+      "plain": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.",
       "tokens": [
         {
-          "t": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him."
+          "t": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him. "
         }
       ]
     },
     {
       "v": 57,
+      "plain": "And he denied him, saying, Woman, I know him not.",
       "tokens": [
         {
-          "t": "And he denied him, saying, Woman, I know him not."
+          "t": "And he denied him, saying, Woman, I know him not. "
         }
       ]
     },
     {
       "v": 58,
+      "plain": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not.",
       "tokens": [
         {
-          "t": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not."
+          "t": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not. "
         }
       ]
     },
     {
       "v": 59,
+      "plain": "And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilæan.",
       "tokens": [
         {
-          "t": "And about the space of one hour after another confidently affirmed, saying, Of a truth this"
+          "t": "And about the space of one hour after another confidently affirmed, saying, Of a truth this "
         },
         {
           "add": "fellow"
         },
         {
-          "t": "also was with him: for he is a Galilæan."
+          "t": " also was with him: for he is a Galilæan. "
         }
       ]
     },
     {
       "v": 60,
+      "plain": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.",
       "tokens": [
         {
-          "t": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew."
+          "t": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew. "
         }
       ]
     },
     {
       "v": 61,
+      "plain": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice.",
       "tokens": [
         {
-          "t": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice."
+          "t": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice. "
         }
       ]
     },
     {
       "v": 62,
+      "plain": "And Peter went out, and wept bitterly.",
       "tokens": [
         {
-          "t": "And Peter went out, and wept bitterly."
+          "t": "And Peter went out, and wept bitterly. "
         }
       ]
     },
     {
       "v": 63,
+      "plain": "¶ And the men that held Jesus mocked him, and smote him.",
       "tokens": [
         {
-          "t": "¶ And the men that held Jesus mocked him, and smote"
+          "t": "¶ And the men that held Jesus mocked him, and smote "
         },
         {
           "add": "him"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 64,
+      "plain": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?",
       "tokens": [
         {
-          "t": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?"
+          "t": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee? "
         }
       ]
     },
     {
       "v": 65,
+      "plain": "And many other things blasphemously spake they against him.",
       "tokens": [
         {
-          "t": "And many other things blasphemously spake they against him."
+          "t": "And many other things blasphemously spake they against him. "
         }
       ]
     },
     {
       "v": 66,
+      "plain": "¶ And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,",
       "tokens": [
         {
-          "t": "¶ And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,"
+          "t": "¶ And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying, "
         }
       ]
     },
     {
       "v": 67,
+      "plain": "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:",
       "tokens": [
         {
-          "t": "Art thou the Christ? tell us. And he said unto them,"
+          "t": "Art thou the Christ? tell us. And he said unto them, "
+        },
+        {
+          "t": "If I tell you, ye will not believe:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 68,
-      "tokens": null
+      "plain": "And if I also ask you, ye will not answer me, nor let me go.",
+      "tokens": [
+        {
+          "t": "And if I also ask "
+        },
+        {
+          "add": "you"
+        },
+        {
+          "t": ", ye will not answer me, nor let "
+        },
+        {
+          "add": "me"
+        },
+        {
+          "t": " go."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 69,
-      "tokens": null
+      "plain": "Hereafter shall the Son of man sit on the right hand of the power of God.",
+      "tokens": [
+        {
+          "t": "Hereafter shall the Son of man sit on the right hand of the power of God."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 70,
+      "plain": "Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am.",
       "tokens": [
         {
-          "t": "Then said they all, Art thou then the Son of God? And he said unto them,"
+          "t": "Then said they all, Art thou then the Son of God? And he said unto them, "
+        },
+        {
+          "t": "Ye say that I am."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 71,
+      "plain": "And they said, What need we any further witness? for we ourselves have heard of his own mouth.",
       "tokens": [
         {
-          "t": "And they said, What need we any further witness? for we ourselves have heard of his own mouth."
+          "t": "And they said, What need we any further witness? for we ourselves have heard of his own mouth. "
         }
       ]
     }

@@ -7,612 +7,649 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation.",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons"
+          "t": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "for the"
+          "t": " for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "by thy estimation."
+          "t": " by thy estimation. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary.",
       "tokens": [
         {
-          "t": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary."
+          "t": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And if it be a female, then thy estimation shall be thirty shekels.",
       "tokens": [
         {
-          "t": "And if it"
+          "t": "And if it "
         },
         {
           "add": "be"
         },
         {
-          "t": "a female, then thy estimation shall be thirty shekels."
+          "t": " a female, then thy estimation shall be thirty shekels. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels.",
       "tokens": [
         {
-          "t": "And if"
+          "t": "And if "
         },
         {
           "add": "it be"
         },
         {
-          "t": "from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels."
+          "t": " from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And if it be from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation shall be three shekels of silver.",
       "tokens": [
         {
-          "t": "And if"
+          "t": "And if "
         },
         {
           "add": "it be"
         },
         {
-          "t": "from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation"
+          "t": " from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "three shekels of silver."
+          "t": " three shekels of silver. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And if it be from sixty years old and above; if it be a male, then thy estimation shall be fifteen shekels, and for the female ten shekels.",
       "tokens": [
         {
-          "t": "And if"
+          "t": "And if "
         },
         {
           "add": "it be"
         },
         {
-          "t": "from sixty years old and above; if"
+          "t": " from sixty years old and above; if "
         },
         {
           "add": "it be"
         },
         {
-          "t": "a male, then thy estimation shall be fifteen shekels, and for the female ten shekels."
+          "t": " a male, then thy estimation shall be fifteen shekels, and for the female ten shekels. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him.",
       "tokens": [
         {
-          "t": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him."
+          "t": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy.",
       "tokens": [
         {
-          "t": "And if"
+          "t": "And if "
         },
         {
           "add": "it be"
         },
         {
-          "t": "a beast, whereof men bring an offering unto the"
+          "t": " a beast, whereof men bring an offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", all that"
+          "t": ", all that "
         },
         {
           "add": "any man"
         },
         {
-          "t": "giveth of such unto the"
+          "t": " giveth of such unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall be holy."
+          "t": " shall be holy. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.",
       "tokens": [
         {
-          "t": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy."
+          "t": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:",
       "tokens": [
         {
-          "t": "And if"
+          "t": "And if "
         },
         {
           "add": "it be"
         },
         {
-          "t": "any unclean beast, of which they do not offer a sacrifice unto the"
+          "t": " any unclean beast, of which they do not offer a sacrifice unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", then he shall present the beast before the priest:"
+          "t": ", then he shall present the beast before the priest: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be.",
       "tokens": [
         {
-          "t": "And the priest shall value it, whether it be good or bad: as thou valuest it,"
+          "t": "And the priest shall value it, whether it be good or bad: as thou valuest it, "
         },
         {
           "add": "who art"
         },
         {
-          "t": "the priest, so shall it be."
+          "t": " the priest, so shall it be. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation.",
       "tokens": [
         {
-          "t": "But if he will at all redeem it, then he shall add a fifth"
+          "t": "But if he will at all redeem it, then he shall add a fifth "
         },
         {
           "add": "part"
         },
         {
-          "t": "thereof unto thy estimation."
+          "t": " thereof unto thy estimation. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And when a man shall sanctify his house to be holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.",
       "tokens": [
         {
-          "t": "¶ And when a man shall sanctify his house"
+          "t": "¶ And when a man shall sanctify his house "
         },
         {
           "add": "to be"
         },
         {
-          "t": "holy unto the"
+          "t": " holy unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand."
+          "t": ", then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his.",
       "tokens": [
         {
-          "t": "And if he that sanctified it will redeem his house, then he shall add the fifth"
+          "t": "And if he that sanctified it will redeem his house, then he shall add the fifth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of the money of thy estimation unto it, and it shall be his."
+          "t": " of the money of thy estimation unto it, and it shall be his. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And if a man shall sanctify unto the LORD some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver.",
       "tokens": [
         {
-          "t": "And if a man shall sanctify unto the"
+          "t": "And if a man shall sanctify unto the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "some part"
         },
         {
-          "t": "of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed"
+          "t": " of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed "
         },
         {
           "add": "shall be valued"
         },
         {
-          "t": "at fifty shekels of silver."
+          "t": " at fifty shekels of silver. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand.",
       "tokens": [
         {
-          "t": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand."
+          "t": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation.",
       "tokens": [
         {
-          "t": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation."
+          "t": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him.",
       "tokens": [
         {
-          "t": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth"
+          "t": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of the money of thy estimation unto it, and it shall be assured to him."
+          "t": " of the money of thy estimation unto it, and it shall be assured to him. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.",
       "tokens": [
         {
-          "t": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more."
+          "t": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "But the field, when it goeth out in the jubile, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest’s.",
       "tokens": [
         {
-          "t": "But the field, when it goeth out in the jubile, shall be holy unto the"
+          "t": "But the field, when it goeth out in the jubile, shall be holy unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", as a field devoted; the possession thereof shall be the priest’s."
+          "t": ", as a field devoted; the possession thereof shall be the priest’s. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And if a man sanctify unto the LORD a field which he hath bought, which is not of the fields of his possession;",
       "tokens": [
         {
-          "t": "And if"
+          "t": "And if "
         },
         {
           "add": "a man"
         },
         {
-          "t": "sanctify unto the"
+          "t": " sanctify unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "a field which he hath bought, which"
+          "t": " a field which he hath bought, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "not of the fields of his possession;"
+          "t": " not of the fields of his possession; "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the LORD.",
       "tokens": [
         {
-          "t": "Then the priest shall reckon unto him the worth of thy estimation,"
+          "t": "Then the priest shall reckon unto him the worth of thy estimation, "
         },
         {
           "add": "even"
         },
         {
-          "t": "unto the year of the jubile: and he shall give thine estimation in that day,"
+          "t": " unto the year of the jubile: and he shall give thine estimation in that day, "
         },
         {
           "add": "as"
         },
         {
-          "t": "a holy thing unto the"
+          "t": " a holy thing unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "In the year of the jubile the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong.",
       "tokens": [
         {
-          "t": "In the year of the jubile the field shall return unto him of whom it was bought,"
+          "t": "In the year of the jubile the field shall return unto him of whom it was bought, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to him to whom the possession of the land"
+          "t": " to him to whom the possession of the land "
         },
         {
           "add": "did belong"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.",
       "tokens": [
         {
-          "t": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel."
+          "t": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ Only the firstling of the beasts, which should be the LORD’s firstling, no man shall sanctify it; whether it be ox, or sheep: it is the LORD’s.",
       "tokens": [
         {
-          "t": "¶ Only the firstling of the beasts, which should be the"
+          "t": "¶ Only the firstling of the beasts, which should be the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "firstling, no man shall sanctify it; whether"
+          "t": " firstling, no man shall sanctify it; whether "
         },
         {
           "add": "it be"
         },
         {
-          "t": "ox, or sheep: it"
+          "t": " ox, or sheep: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation.",
       "tokens": [
         {
-          "t": "And if"
+          "t": "And if "
         },
         {
           "add": "it be"
         },
         {
-          "t": "of an unclean beast, then he shall redeem"
+          "t": " of an unclean beast, then he shall redeem "
         },
         {
           "add": "it"
         },
         {
-          "t": "according to thine estimation, and shall add a fifth"
+          "t": " according to thine estimation, and shall add a fifth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation."
+          "t": " of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the LORD.",
       "tokens": [
         {
-          "t": "Notwithstanding no devoted thing, that a man shall devote unto the"
+          "t": "Notwithstanding no devoted thing, that a man shall devote unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of all that he hath,"
+          "t": " of all that he hath, "
         },
         {
           "add": "both"
         },
         {
-          "t": "of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing"
+          "t": " of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing "
         },
         {
           "add": "is"
         },
         {
-          "t": "most holy unto the"
+          "t": " most holy unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death.",
       "tokens": [
         {
-          "t": "None devoted, which shall be devoted of men, shall be redeemed;"
+          "t": "None devoted, which shall be devoted of men, shall be redeemed; "
         },
         {
           "add": "but"
         },
         {
-          "t": "shall surely be put to death."
+          "t": " shall surely be put to death. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD’s: it is holy unto the LORD.",
       "tokens": [
         {
-          "t": "And all the tithe of the land,"
+          "t": "And all the tithe of the land, "
         },
         {
           "add": "whether"
         },
         {
-          "t": "of the seed of the land,"
+          "t": " of the seed of the land, "
         },
         {
           "add": "or"
         },
         {
-          "t": "of the fruit of the tree,"
+          "t": " of the fruit of the tree, "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": ":"
+          "t": ": "
         },
         {
           "add": "it is"
         },
         {
-          "t": "holy unto the"
+          "t": " holy unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof.",
       "tokens": [
         {
-          "t": "And if a man will at all redeem"
+          "t": "And if a man will at all redeem "
         },
         {
           "add": "ought"
         },
         {
-          "t": "of his tithes, he shall add thereto the fifth"
+          "t": " of his tithes, he shall add thereto the fifth "
         },
         {
           "add": "part"
         },
         {
-          "t": "thereof."
+          "t": " thereof. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD.",
       "tokens": [
         {
-          "t": "And concerning the tithe of the herd, or of the flock,"
+          "t": "And concerning the tithe of the herd, or of the flock, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of whatsoever passeth under the rod, the tenth shall be holy unto the"
+          "t": " of whatsoever passeth under the rod, the tenth shall be holy unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.",
       "tokens": [
         {
-          "t": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed."
+          "t": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the commandments, which the"
+          "t": " the commandments, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded Moses for the children of Israel in mount Sinai."
+          "t": " commanded Moses for the children of Israel in mount Sinai. "
         }
       ]
     }

@@ -7,257 +7,379 @@
   "verses": [
     {
       "v": 1,
+      "plain": "After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.",
       "tokens": [
         {
-          "t": "After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he"
+          "t": "After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he "
         },
         {
           "add": "himself"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples.",
       "tokens": [
         {
-          "t": "There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the"
+          "t": "There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the "
         },
         {
           "add": "sons"
         },
         {
-          "t": "of Zebedee, and two other of his disciples."
+          "t": " of Zebedee, and two other of his disciples. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing.",
       "tokens": [
         {
-          "t": "Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing."
+          "t": "Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.",
       "tokens": [
         {
-          "t": "But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus."
+          "t": "But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then Jesus saith unto them, Children, have ye any meat? They answered him, No.",
       "tokens": [
         {
-          "t": "They answered him, No."
+          "t": "Then Jesus saith unto them, "
         },
         {
-          "t": "Then Jesus saith unto them, They answered him, No."
+          "t": "Children, have ye any meat?"
+        },
+        {
+          "t": " They answered him, No. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes.",
       "tokens": [
         {
-          "t": "They cast therefore, and now they were not able to draw it for the multitude of fishes."
+          "t": "And he said unto them, "
         },
         {
-          "t": "And he said unto them, They cast therefore, and now they were not able to draw it for the multitude of fishes."
+          "t": "Cast the net on the right side of the ship, and ye shall find."
+        },
+        {
+          "t": " They cast therefore, and now they were not able to draw it for the multitude of fishes. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt his fisher’s coat unto him, (for he was naked,) and did cast himself into the sea.",
       "tokens": [
         {
-          "t": "Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt"
+          "t": "Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt "
         },
         {
           "add": "his"
         },
         {
-          "t": "fisher’s coat"
+          "t": " fisher’s coat "
         },
         {
           "add": "unto him"
         },
         {
-          "t": ", (for he was naked,) and did cast himself into the sea."
+          "t": ", (for he was naked,) and did cast himself into the sea. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the other disciples came in a little ship; (for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes.",
       "tokens": [
         {
-          "t": "And the other disciples came in a little ship; (for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes."
+          "t": "And the other disciples came in a little ship; (for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread.",
       "tokens": [
         {
-          "t": "As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread."
+          "t": "As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Jesus saith unto them, Bring of the fish which ye have now caught.",
       "tokens": [
         {
-          "t": "Jesus saith unto them,"
+          "t": "Jesus saith unto them, "
+        },
+        {
+          "t": "Bring of the fish which ye have now caught."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken.",
       "tokens": [
         {
-          "t": "Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken."
+          "t": "Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Jesus saith unto them, Come and dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord.",
       "tokens": [
         {
-          "t": "And none of the disciples durst ask him, Who art thou? knowing that it was the Lord."
+          "t": "Jesus saith unto them, "
         },
         {
-          "t": "Jesus saith unto them, And none of the disciples durst ask him, Who art thou? knowing that it was the Lord."
+          "t": "Come "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " dine."
+        },
+        {
+          "t": " And none of the disciples durst ask him, Who art thou? knowing that it was the Lord. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Jesus then cometh, and taketh bread, and giveth them, and fish likewise.",
       "tokens": [
         {
-          "t": "Jesus then cometh, and taketh bread, and giveth them, and fish likewise."
+          "t": "Jesus then cometh, and taketh bread, and giveth them, and fish likewise. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead.",
       "tokens": [
         {
-          "t": "This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead."
+          "t": "This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.",
       "tokens": [
         {
-          "t": "He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him,"
+          "t": "¶ So when they had dined, Jesus saith to Simon Peter, "
         },
         {
-          "t": "¶ So when they had dined, Jesus saith to Simon Peter, He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him,"
+          "t": "Simon, "
+        },
+        {
+          "add": "son"
+        },
+        {
+          "t": " of Jonas, lovest thou me more than these?"
+        },
+        {
+          "t": " He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, "
+        },
+        {
+          "t": "Feed my lambs."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.",
       "tokens": [
         {
-          "t": "He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him,"
+          "t": "He saith to him again the second time, "
         },
         {
-          "t": "He saith to him again the second time, He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him,"
+          "t": "Simon, "
+        },
+        {
+          "add": "son"
+        },
+        {
+          "t": " of Jonas, lovest thou me?"
+        },
+        {
+          "t": " He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, "
+        },
+        {
+          "t": "Feed my sheep."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.",
       "tokens": [
         {
-          "t": "Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him,"
+          "t": "He saith unto him the third time, "
         },
         {
-          "t": "He saith unto him the third time, Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him,"
+          "t": "Simon, "
+        },
+        {
+          "add": "son"
+        },
+        {
+          "t": " of Jonas, lovest thou me?"
+        },
+        {
+          "t": " Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, "
+        },
+        {
+          "t": "Feed my sheep."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.",
+      "tokens": [
+        {
+          "t": "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry "
+        },
+        {
+          "add": "thee"
+        },
+        {
+          "t": " whither thou wouldest not."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
+      "plain": "This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.",
       "tokens": [
         {
-          "t": "This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him,"
+          "t": "This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, "
+        },
+        {
+          "t": "Follow me."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?",
       "tokens": [
         {
-          "t": "Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?"
+          "t": "Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee? "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Peter seeing him saith to Jesus, Lord, and what shall this man do?",
       "tokens": [
         {
-          "t": "Peter seeing him saith to Jesus, Lord, and what"
+          "t": "Peter seeing him saith to Jesus, Lord, and what "
         },
         {
           "add": "shall"
         },
         {
-          "t": "this man"
+          "t": " this man "
         },
         {
           "add": "do"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me.",
       "tokens": [
         {
-          "t": "Jesus saith unto him,"
-        }
-      ]
-    },
-    {
-      "v": 23,
-      "tokens": [
+          "t": "Jesus saith unto him, "
+        },
         {
-          "t": "Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what"
+          "t": "If I will that he tarry till I come, what "
         },
         {
           "add": "is that"
         },
         {
-          "t": "to thee?"
+          "t": " to thee? follow thou me."
+        },
+        {
+          "t": " "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?",
+      "tokens": [
+        {
+          "t": "Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what "
+        },
+        {
+          "add": "is that"
+        },
+        {
+          "t": " to thee? "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.",
       "tokens": [
         {
-          "t": "This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true."
+          "t": "This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.",
       "tokens": [
         {
-          "t": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen."
+          "t": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen. "
         }
       ]
     }

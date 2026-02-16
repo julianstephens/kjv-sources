@@ -7,134 +7,145 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I will praise thee with my whole heart: before the gods will I sing praise unto thee.",
       "tokens": [
         {
-          "t": "I will praise thee with my whole heart: before the gods will I sing praise unto thee."
+          "t": "I will praise thee with my whole heart: before the gods will I sing praise unto thee. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.",
       "tokens": [
         {
-          "t": "I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name."
+          "t": "I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul.",
       "tokens": [
         {
-          "t": "In the day when I cried thou answeredst me,"
+          "t": "In the day when I cried thou answeredst me, "
         },
         {
           "add": "and"
         },
         {
-          "t": "strengthenedst me"
+          "t": " strengthenedst me "
         },
         {
           "add": "with"
         },
         {
-          "t": "strength in my soul."
+          "t": " strength in my soul. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "All the kings of the earth shall praise thee, O LORD, when they hear the words of thy mouth.",
       "tokens": [
         {
-          "t": "All the kings of the earth shall praise thee, O"
+          "t": "All the kings of the earth shall praise thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", when they hear the words of thy mouth."
+          "t": ", when they hear the words of thy mouth. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Yea, they shall sing in the ways of the LORD: for great is the glory of the LORD.",
       "tokens": [
         {
-          "t": "Yea, they shall sing in the ways of the"
+          "t": "Yea, they shall sing in the ways of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for great"
+          "t": ": for great "
         },
         {
           "add": "is"
         },
         {
-          "t": "the glory of the"
+          "t": " the glory of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Though the LORD be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.",
       "tokens": [
         {
-          "t": "Though the"
+          "t": "Though the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "be"
         },
         {
-          "t": "high, yet hath he respect unto the lowly: but the proud he knoweth afar off."
+          "t": " high, yet hath he respect unto the lowly: but the proud he knoweth afar off. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.",
       "tokens": [
         {
-          "t": "Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me."
+          "t": "Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever: forsake not the works of thine own hands.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will perfect"
+          "t": " will perfect "
         },
         {
           "add": "that which"
         },
         {
-          "t": "concerneth me: thy mercy, O"
+          "t": " concerneth me: thy mercy, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever: forsake not the works of thine own hands."
+          "t": " for ever: forsake not the works of thine own hands. "
         }
       ]
     }

@@ -7,322 +7,352 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?",
       "tokens": [
         {
-          "t": "Knowest thou the time when the wild goats of the rock bring forth?"
+          "t": "Knowest thou the time when the wild goats of the rock bring forth? "
         },
         {
           "add": "or"
         },
         {
-          "t": "canst thou mark when the hinds do calve?"
+          "t": " canst thou mark when the hinds do calve? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Canst thou number the months that they fulfil? or knowest thou the time when they bring forth?",
       "tokens": [
         {
-          "t": "Canst thou number the months"
+          "t": "Canst thou number the months "
         },
         {
           "add": "that"
         },
         {
-          "t": "they fulfil? or knowest thou the time when they bring forth?"
+          "t": " they fulfil? or knowest thou the time when they bring forth? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "They bow themselves, they bring forth their young ones, they cast out their sorrows.",
       "tokens": [
         {
-          "t": "They bow themselves, they bring forth their young ones, they cast out their sorrows."
+          "t": "They bow themselves, they bring forth their young ones, they cast out their sorrows. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.",
       "tokens": [
         {
-          "t": "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them."
+          "t": "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?",
       "tokens": [
         {
-          "t": "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?"
+          "t": "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Whose house I have made the wilderness, and the barren land his dwellings.",
       "tokens": [
         {
-          "t": "Whose house I have made the wilderness, and the barren land his dwellings."
+          "t": "Whose house I have made the wilderness, and the barren land his dwellings. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "He scorneth the multitude of the city, neither regardeth he the crying of the driver.",
       "tokens": [
         {
-          "t": "He scorneth the multitude of the city, neither regardeth he the crying of the driver."
+          "t": "He scorneth the multitude of the city, neither regardeth he the crying of the driver. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The range of the mountains is his pasture, and he searcheth after every green thing.",
       "tokens": [
         {
-          "t": "The range of the mountains"
+          "t": "The range of the mountains "
         },
         {
           "add": "is"
         },
         {
-          "t": "his pasture, and he searcheth after every green thing."
+          "t": " his pasture, and he searcheth after every green thing. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Will the unicorn be willing to serve thee, or abide by thy crib?",
       "tokens": [
         {
-          "t": "Will the unicorn be willing to serve thee, or abide by thy crib?"
+          "t": "Will the unicorn be willing to serve thee, or abide by thy crib? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?",
       "tokens": [
         {
-          "t": "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?"
+          "t": "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Wilt thou trust him, because his strength is great? or wilt thou leave thy labour to him?",
       "tokens": [
         {
-          "t": "Wilt thou trust him, because his strength"
+          "t": "Wilt thou trust him, because his strength "
         },
         {
           "add": "is"
         },
         {
-          "t": "great? or wilt thou leave thy labour to him?"
+          "t": " great? or wilt thou leave thy labour to him? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?",
       "tokens": [
         {
-          "t": "Wilt thou believe him, that he will bring home thy seed, and gather"
+          "t": "Wilt thou believe him, that he will bring home thy seed, and gather "
         },
         {
           "add": "it into"
         },
         {
-          "t": "thy barn?"
+          "t": " thy barn? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?",
       "tokens": [
         {
           "add": "Gavest thou"
         },
         {
-          "t": "the goodly wings unto the peacocks? or wings and feathers unto the ostrich?"
+          "t": " the goodly wings unto the peacocks? or wings and feathers unto the ostrich? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Which leaveth her eggs in the earth, and warmeth them in dust,",
       "tokens": [
         {
-          "t": "Which leaveth her eggs in the earth, and warmeth them in dust,"
+          "t": "Which leaveth her eggs in the earth, and warmeth them in dust, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And forgetteth that the foot may crush them, or that the wild beast may break them.",
       "tokens": [
         {
-          "t": "And forgetteth that the foot may crush them, or that the wild beast may break them."
+          "t": "And forgetteth that the foot may crush them, or that the wild beast may break them. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "She is hardened against her young ones, as though they were not hers: her labour is in vain without fear;",
       "tokens": [
         {
-          "t": "She is hardened against her young ones, as though"
+          "t": "She is hardened against her young ones, as though "
         },
         {
           "add": "they were"
         },
         {
-          "t": "not hers: her labour is in vain without fear;"
+          "t": " not hers: her labour is in vain without fear; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Because God hath deprived her of wisdom, neither hath he imparted to her understanding.",
       "tokens": [
         {
-          "t": "Because God hath deprived her of wisdom, neither hath he imparted to her understanding."
+          "t": "Because God hath deprived her of wisdom, neither hath he imparted to her understanding. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "What time she lifteth up herself on high, she scorneth the horse and his rider.",
       "tokens": [
         {
-          "t": "What time she lifteth up herself on high, she scorneth the horse and his rider."
+          "t": "What time she lifteth up herself on high, she scorneth the horse and his rider. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Hast thou given the horse strength? hast thou clothed his neck with thunder?",
       "tokens": [
         {
-          "t": "Hast thou given the horse strength? hast thou clothed his neck with thunder?"
+          "t": "Hast thou given the horse strength? hast thou clothed his neck with thunder? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible.",
       "tokens": [
         {
-          "t": "Canst thou make him afraid as a grasshopper? the glory of his nostrils"
+          "t": "Canst thou make him afraid as a grasshopper? the glory of his nostrils "
         },
         {
           "add": "is"
         },
         {
-          "t": "terrible."
+          "t": " terrible. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men.",
       "tokens": [
         {
-          "t": "He paweth in the valley, and rejoiceth in"
+          "t": "He paweth in the valley, and rejoiceth in "
         },
         {
           "add": "his"
         },
         {
-          "t": "strength: he goeth on to meet the armed men."
+          "t": " strength: he goeth on to meet the armed men. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "He mocketh at fear, and is not affrighted; neither turneth he back from the sword.",
       "tokens": [
         {
-          "t": "He mocketh at fear, and is not affrighted; neither turneth he back from the sword."
+          "t": "He mocketh at fear, and is not affrighted; neither turneth he back from the sword. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The quiver rattleth against him, the glittering spear and the shield.",
       "tokens": [
         {
-          "t": "The quiver rattleth against him, the glittering spear and the shield."
+          "t": "The quiver rattleth against him, the glittering spear and the shield. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet.",
       "tokens": [
         {
-          "t": "He swalloweth the ground with fierceness and rage: neither believeth he that"
+          "t": "He swalloweth the ground with fierceness and rage: neither believeth he that "
         },
         {
           "add": "it is"
         },
         {
-          "t": "the sound of the trumpet."
+          "t": " the sound of the trumpet. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.",
       "tokens": [
         {
-          "t": "He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting."
+          "t": "He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Doth the hawk fly by thy wisdom, and stretch her wings toward the south?",
       "tokens": [
         {
-          "t": "Doth the hawk fly by thy wisdom,"
+          "t": "Doth the hawk fly by thy wisdom, "
         },
         {
           "add": "and"
         },
         {
-          "t": "stretch her wings toward the south?"
+          "t": " stretch her wings toward the south? "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Doth the eagle mount up at thy command, and make her nest on high?",
       "tokens": [
         {
-          "t": "Doth the eagle mount up at thy command, and make her nest on high?"
+          "t": "Doth the eagle mount up at thy command, and make her nest on high? "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.",
       "tokens": [
         {
-          "t": "She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place."
+          "t": "She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "From thence she seeketh the prey, and her eyes behold afar off.",
       "tokens": [
         {
-          "t": "From thence she seeketh the prey,"
+          "t": "From thence she seeketh the prey, "
         },
         {
           "add": "and"
         },
         {
-          "t": "her eyes behold afar off."
+          "t": " her eyes behold afar off. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Her young ones also suck up blood: and where the slain are, there is she.",
       "tokens": [
         {
-          "t": "Her young ones also suck up blood: and where the slain"
+          "t": "Her young ones also suck up blood: and where the slain "
         },
         {
           "add": "are"
         },
         {
-          "t": ", there"
+          "t": ", there "
         },
         {
           "add": "is"
         },
         {
-          "t": "she."
+          "t": " she. "
         }
       ]
     }

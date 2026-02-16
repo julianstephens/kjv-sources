@@ -7,371 +7,484 @@
   "verses": [
     {
       "v": 1,
+      "plain": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.",
       "tokens": [
         {
-          "t": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples."
+          "t": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.",
       "tokens": [
         {
-          "t": "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples."
+          "t": "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.",
       "tokens": [
         {
-          "t": "Judas then, having received a band"
+          "t": "Judas then, having received a band "
         },
         {
           "add": "of men"
         },
         {
-          "t": "and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons."
+          "t": " and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?",
       "tokens": [
         {
-          "t": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them,"
+          "t": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, "
+        },
+        {
+          "t": "Whom seek ye?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them.",
       "tokens": [
         {
-          "t": "And Judas also, which betrayed him, stood with them."
+          "t": "They answered him, Jesus of Nazareth. Jesus saith unto them, "
         },
         {
-          "t": "They answered him, Jesus of Nazareth. Jesus saith unto them, And Judas also, which betrayed him, stood with them."
-        }
-      ]
-    },
-    {
-      "v": 6,
-      "tokens": [
-        {
-          "t": "As soon then as he had said unto them, I am"
+          "t": "I am "
         },
         {
           "add": "he"
         },
         {
-          "t": ", they went backward, and fell to the ground."
+          "t": "."
+        },
+        {
+          "t": " And Judas also, which betrayed him, stood with them. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "As soon then as he had said unto them, I am he, they went backward, and fell to the ground.",
+      "tokens": [
+        {
+          "t": "As soon then as he had said unto them, I am "
+        },
+        {
+          "add": "he"
+        },
+        {
+          "t": ", they went backward, and fell to the ground. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.",
       "tokens": [
         {
-          "t": "And they said, Jesus of Nazareth."
+          "t": "Then asked he them again, "
         },
         {
-          "t": "Then asked he them again, And they said, Jesus of Nazareth."
+          "t": "Whom seek ye?"
+        },
+        {
+          "t": " And they said, Jesus of Nazareth. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Jesus answered, I have told you that I am he: if therefore ye seek me, let these go their way:",
       "tokens": [
         {
-          "t": "Jesus answered,"
+          "t": "Jesus answered, "
+        },
+        {
+          "t": "I have told you that I am "
+        },
+        {
+          "add": "he"
+        },
+        {
+          "t": ": if therefore ye seek me, let these go their way:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.",
       "tokens": [
         {
-          "t": "That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none."
+          "t": "That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus.",
       "tokens": [
         {
-          "t": "Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus."
+          "t": "Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?",
       "tokens": [
         {
-          "t": "Then said Jesus unto Peter,"
+          "t": "Then said Jesus unto Peter, "
+        },
+        {
+          "t": "Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Then the band and the captain and officers of the Jews took Jesus, and bound him,",
       "tokens": [
         {
-          "t": "Then the band and the captain and officers of the Jews took Jesus, and bound him,"
+          "t": "Then the band and the captain and officers of the Jews took Jesus, and bound him, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.",
       "tokens": [
         {
-          "t": "And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year."
+          "t": "And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.",
       "tokens": [
         {
-          "t": "Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people."
+          "t": "Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And Simon Peter followed Jesus, and so did another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.",
       "tokens": [
         {
-          "t": "¶ And Simon Peter followed Jesus, and"
+          "t": "¶ And Simon Peter followed Jesus, and "
         },
         {
           "add": "so did"
         },
         {
-          "t": "another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest."
+          "t": " another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter.",
       "tokens": [
         {
-          "t": "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter."
+          "t": "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Then saith the damsel that kept the door unto Peter, Art not thou also one of this man’s disciples? He saith, I am not.",
       "tokens": [
         {
-          "t": "Then saith the damsel that kept the door unto Peter, Art not thou also"
+          "t": "Then saith the damsel that kept the door unto Peter, Art not thou also "
         },
         {
           "add": "one"
         },
         {
-          "t": "of this man’s disciples? He saith, I am not."
+          "t": " of this man’s disciples? He saith, I am not. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.",
       "tokens": [
         {
-          "t": "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself."
+          "t": "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ The high priest then asked Jesus of his disciples, and of his doctrine.",
       "tokens": [
         {
-          "t": "¶ The high priest then asked Jesus of his disciples, and of his doctrine."
+          "t": "¶ The high priest then asked Jesus of his disciples, and of his doctrine. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.",
       "tokens": [
         {
-          "t": "Jesus answered him,"
+          "t": "Jesus answered him, "
+        },
+        {
+          "t": "I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.",
+      "tokens": [
+        {
+          "t": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
+      "plain": "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?",
       "tokens": [
         {
-          "t": "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?"
+          "t": "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so? "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?",
       "tokens": [
         {
-          "t": "Jesus answered him,"
+          "t": "Jesus answered him, "
+        },
+        {
+          "t": "If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Now Annas had sent him bound unto Caiaphas the high priest.",
       "tokens": [
         {
-          "t": "Now Annas had sent him bound unto Caiaphas the high priest."
+          "t": "Now Annas had sent him bound unto Caiaphas the high priest. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not.",
       "tokens": [
         {
-          "t": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also"
+          "t": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also "
         },
         {
           "add": "one"
         },
         {
-          "t": "of his disciples? He denied"
+          "t": " of his disciples? He denied "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and said, I am not."
+          "t": ", and said, I am not. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "One of the servants of the high priest, being his kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?",
       "tokens": [
         {
-          "t": "One of the servants of the high priest, being"
+          "t": "One of the servants of the high priest, being "
         },
         {
           "add": "his"
         },
         {
-          "t": "kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?"
+          "t": " kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him? "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Peter then denied again: and immediately the cock crew.",
       "tokens": [
         {
-          "t": "Peter then denied again: and immediately the cock crew."
+          "t": "Peter then denied again: and immediately the cock crew. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.",
       "tokens": [
         {
-          "t": "¶ Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover."
+          "t": "¶ Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Pilate then went out unto them, and said, What accusation bring ye against this man?",
       "tokens": [
         {
-          "t": "Pilate then went out unto them, and said, What accusation bring ye against this man?"
+          "t": "Pilate then went out unto them, and said, What accusation bring ye against this man? "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.",
       "tokens": [
         {
-          "t": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee."
+          "t": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:",
       "tokens": [
         {
-          "t": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:"
+          "t": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death: "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.",
       "tokens": [
         {
-          "t": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die."
+          "t": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?",
       "tokens": [
         {
-          "t": "Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?"
+          "t": "Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews? "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?",
       "tokens": [
         {
-          "t": "Jesus answered him,"
+          "t": "Jesus answered him, "
+        },
+        {
+          "t": "Sayest thou this thing of thyself, or did others tell it thee of me?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?",
       "tokens": [
         {
-          "t": "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?"
+          "t": "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done? "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.",
       "tokens": [
         {
-          "t": "Jesus answered,"
+          "t": "Jesus answered, "
+        },
+        {
+          "t": "My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.",
       "tokens": [
         {
-          "t": "Pilate therefore said unto him, Art thou a king then? Jesus answered,"
+          "t": "Pilate therefore said unto him, Art thou a king then? Jesus answered, "
+        },
+        {
+          "t": "Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.",
       "tokens": [
         {
-          "t": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault"
+          "t": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault "
         },
         {
           "add": "at all"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?",
       "tokens": [
         {
-          "t": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?"
+          "t": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews? "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.",
       "tokens": [
         {
-          "t": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber."
+          "t": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber. "
         }
       ]
     }

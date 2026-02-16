@@ -7,467 +7,502 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them.",
       "tokens": [
         {
-          "t": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These"
+          "t": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the words which the"
+          "t": " the words which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath commanded, that"
+          "t": " hath commanded, that "
         },
         {
           "add": "ye"
         },
         {
-          "t": "should do them."
+          "t": " should do them. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.",
       "tokens": [
         {
-          "t": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the"
+          "t": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": whosoever doeth work therein shall be put to death."
+          "t": ": whosoever doeth work therein shall be put to death. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Ye shall kindle no fire throughout your habitations upon the sabbath day.",
       "tokens": [
         {
-          "t": "Ye shall kindle no fire throughout your habitations upon the sabbath day."
+          "t": "Ye shall kindle no fire throughout your habitations upon the sabbath day. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which the LORD commanded, saying,",
       "tokens": [
         {
-          "t": "¶ And Moses spake unto all the congregation of the children of Israel, saying, This"
+          "t": "¶ And Moses spake unto all the congregation of the children of Israel, saying, This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the thing which the"
+          "t": " the thing which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded, saying,"
+          "t": " commanded, saying, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Take ye from among you an offering unto the LORD: whosoever is of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,",
       "tokens": [
         {
-          "t": "Take ye from among you an offering unto the"
+          "t": "Take ye from among you an offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": whosoever"
+          "t": ": whosoever "
         },
         {
           "add": "is"
         },
         {
-          "t": "of a willing heart, let him bring it, an offering of the"
+          "t": " of a willing heart, let him bring it, an offering of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; gold, and silver, and brass,"
+          "t": "; gold, and silver, and brass, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And blue, and purple, and scarlet, and fine linen, and goats’ hair,",
       "tokens": [
         {
-          "t": "And blue, and purple, and scarlet, and fine linen, and goats’"
+          "t": "And blue, and purple, and scarlet, and fine linen, and goats’ "
         },
         {
           "add": "hair"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And rams’ skins dyed red, and badgers’ skins, and shittim wood,",
       "tokens": [
         {
-          "t": "And rams’ skins dyed red, and badgers’ skins, and shittim wood,"
+          "t": "And rams’ skins dyed red, and badgers’ skins, and shittim wood, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And oil for the light, and spices for anointing oil, and for the sweet incense,",
       "tokens": [
         {
-          "t": "And oil for the light, and spices for anointing oil, and for the sweet incense,"
+          "t": "And oil for the light, and spices for anointing oil, and for the sweet incense, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And onyx stones, and stones to be set for the ephod, and for the breastplate.",
       "tokens": [
         {
-          "t": "And onyx stones, and stones to be set for the ephod, and for the breastplate."
+          "t": "And onyx stones, and stones to be set for the ephod, and for the breastplate. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And every wise hearted among you shall come, and make all that the LORD hath commanded;",
       "tokens": [
         {
-          "t": "And every wise hearted among you shall come, and make all that the"
+          "t": "And every wise hearted among you shall come, and make all that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath commanded;"
+          "t": " hath commanded; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,",
       "tokens": [
         {
-          "t": "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,"
+          "t": "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The ark, and the staves thereof, with the mercy seat, and the vail of the covering,",
       "tokens": [
         {
-          "t": "The ark, and the staves thereof,"
+          "t": "The ark, and the staves thereof, "
         },
         {
           "add": "with"
         },
         {
-          "t": "the mercy seat, and the vail of the covering,"
+          "t": " the mercy seat, and the vail of the covering, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The table, and his staves, and all his vessels, and the shewbread,",
       "tokens": [
         {
-          "t": "The table, and his staves, and all his vessels, and the shewbread,"
+          "t": "The table, and his staves, and all his vessels, and the shewbread, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,",
       "tokens": [
         {
-          "t": "The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,"
+          "t": "The candlestick also for the light, and his furniture, and his lamps, with the oil for the light, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,",
       "tokens": [
         {
-          "t": "And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,"
+          "t": "And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot,",
       "tokens": [
         {
-          "t": "The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot,"
+          "t": "The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot, "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "The hangings of the court, his pillars, and their sockets, and the hanging for the door of the court,",
       "tokens": [
         {
-          "t": "The hangings of the court, his pillars, and their sockets, and the hanging for the door of the court,"
+          "t": "The hangings of the court, his pillars, and their sockets, and the hanging for the door of the court, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "The pins of the tabernacle, and the pins of the court, and their cords,",
       "tokens": [
         {
-          "t": "The pins of the tabernacle, and the pins of the court, and their cords,"
+          "t": "The pins of the tabernacle, and the pins of the court, and their cords, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The cloths of service, to do service in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.",
       "tokens": [
         {
-          "t": "The cloths of service, to do service in the holy"
+          "t": "The cloths of service, to do service in the holy "
         },
         {
           "add": "place"
         },
         {
-          "t": ", the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office."
+          "t": ", the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And all the congregation of the children of Israel departed from the presence of Moses.",
       "tokens": [
         {
-          "t": "¶ And all the congregation of the children of Israel departed from the presence of Moses."
+          "t": "¶ And all the congregation of the children of Israel departed from the presence of Moses. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the LORD’s offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.",
       "tokens": [
         {
-          "t": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing,"
+          "t": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, "
         },
         {
           "add": "and"
         },
         {
-          "t": "they brought the"
+          "t": " they brought the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments."
+          "t": " offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold unto the LORD.",
       "tokens": [
         {
-          "t": "And they came, both men and women, as many as were willing hearted,"
+          "t": "And they came, both men and women, as many as were willing hearted, "
         },
         {
           "add": "and"
         },
         {
-          "t": "brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered"
+          "t": " brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered "
         },
         {
           "add": "offered"
         },
         {
-          "t": "an offering of gold unto the"
+          "t": " an offering of gold unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ hair, and red skins of rams, and badgers’ skins, brought them.",
       "tokens": [
         {
-          "t": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’"
+          "t": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ "
         },
         {
           "add": "hair"
         },
         {
-          "t": ", and red skins of rams, and badgers’ skins, brought"
+          "t": ", and red skins of rams, and badgers’ skins, brought "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Every one that did offer an offering of silver and brass brought the LORD’s offering: and every man, with whom was found shittim wood for any work of the service, brought it.",
       "tokens": [
         {
-          "t": "Every one that did offer an offering of silver and brass brought the"
+          "t": "Every one that did offer an offering of silver and brass brought the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "offering: and every man, with whom was found shittim wood for any work of the service, brought"
+          "t": " offering: and every man, with whom was found shittim wood for any work of the service, brought "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And all the women that were wise hearted did spin with their hands, and brought that which they had spun, both of blue, and of purple, and of scarlet, and of fine linen.",
       "tokens": [
         {
-          "t": "And all the women that were wise hearted did spin with their hands, and brought that which they had spun,"
+          "t": "And all the women that were wise hearted did spin with their hands, and brought that which they had spun, "
         },
         {
           "add": "both"
         },
         {
-          "t": "of blue, and of purple,"
+          "t": " of blue, and of purple, "
         },
         {
           "add": "and"
         },
         {
-          "t": "of scarlet, and of fine linen."
+          "t": " of scarlet, and of fine linen. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And all the women whose heart stirred them up in wisdom spun goats’ hair.",
       "tokens": [
         {
-          "t": "And all the women whose heart stirred them up in wisdom spun goats’"
+          "t": "And all the women whose heart stirred them up in wisdom spun goats’ "
         },
         {
           "add": "hair"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;",
       "tokens": [
         {
-          "t": "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;"
+          "t": "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate; "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And spice, and oil for the light, and for the anointing oil, and for the sweet incense.",
       "tokens": [
         {
-          "t": "And spice, and oil for the light, and for the anointing oil, and for the sweet incense."
+          "t": "And spice, and oil for the light, and for the anointing oil, and for the sweet incense. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.",
       "tokens": [
         {
-          "t": "The children of Israel brought a willing offering unto the"
+          "t": "The children of Israel brought a willing offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", every man and woman, whose heart made them willing to bring for all manner of work, which the"
+          "t": ", every man and woman, whose heart made them willing to bring for all manner of work, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had commanded to be made by the hand of Moses."
+          "t": " had commanded to be made by the hand of Moses. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "¶ And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;",
       "tokens": [
         {
-          "t": "¶ And Moses said unto the children of Israel, See, the"
+          "t": "¶ And Moses said unto the children of Israel, See, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;"
+          "t": " hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah; "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;",
       "tokens": [
         {
-          "t": "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;"
+          "t": "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship; "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And to devise curious works, to work in gold, and in silver, and in brass,",
       "tokens": [
         {
-          "t": "And to devise curious works, to work in gold, and in silver, and in brass,"
+          "t": "And to devise curious works, to work in gold, and in silver, and in brass, "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And in the cutting of stones, to set them, and in carving of wood, to make any manner of cunning work.",
       "tokens": [
         {
-          "t": "And in the cutting of stones, to set"
+          "t": "And in the cutting of stones, to set "
         },
         {
           "add": "them"
         },
         {
-          "t": ", and in carving of wood, to make any manner of cunning work."
+          "t": ", and in carving of wood, to make any manner of cunning work. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan.",
       "tokens": [
         {
-          "t": "And he hath put in his heart that he may teach,"
+          "t": "And he hath put in his heart that he may teach, "
         },
         {
           "add": "both"
         },
         {
-          "t": "he, and Aholiab, the son of Ahisamach, of the tribe of Dan."
+          "t": " he, and Aholiab, the son of Ahisamach, of the tribe of Dan. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work.",
       "tokens": [
         {
-          "t": "Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver,"
+          "t": "Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of them that do any work, and of those that devise cunning work."
+          "t": " of them that do any work, and of those that devise cunning work. "
         }
       ]
     }

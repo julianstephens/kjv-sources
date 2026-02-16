@@ -1,0 +1,590 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 69,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Save me, O God; for the waters are come in unto my soul.",
+      "tokens": [
+        {
+          "t": "Save me, O God; for the waters are come in unto "
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": " soul. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "I sink in deep mire, where there is no standing: I am come into deep waters, where the floods overflow me.",
+      "tokens": [
+        {
+          "t": "I sink in deep mire, where "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " no standing: I am come into deep waters, where the floods overflow me. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God.",
+      "tokens": [
+        {
+          "t": "I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "They that hate me without a cause are more than the hairs of mine head: they that would destroy me, being mine enemies wrongfully, are mighty: then I restored that which I took not away.",
+      "tokens": [
+        {
+          "t": "They that hate me without a cause are more than the hairs of mine head: they that would destroy me, "
+        },
+        {
+          "add": "being"
+        },
+        {
+          "t": " mine enemies wrongfully, are mighty: then I restored "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " which I took not away. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "O God, thou knowest my foolishness; and my sins are not hid from thee.",
+      "tokens": [
+        {
+          "t": "O God, thou knowest my foolishness; and my sins are not hid from thee. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Let not them that wait on thee, O Lord GOD of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.",
+      "tokens": [
+        {
+          "t": "Let not them that wait on thee, O Lord "
+        },
+        {
+          "nd": "GOD"
+        },
+        {
+          "t": " of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Because for thy sake I have borne reproach; shame hath covered my face.",
+      "tokens": [
+        {
+          "t": "Because for thy sake I have borne reproach; shame hath covered my face. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "I am become a stranger unto my brethren, and an alien unto my mother’s children.",
+      "tokens": [
+        {
+          "t": "I am become a stranger unto my brethren, and an alien unto my mother’s children. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.",
+      "tokens": [
+        {
+          "t": "For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "When I wept, and chastened my soul with fasting, that was to my reproach.",
+      "tokens": [
+        {
+          "t": "When I wept, "
+        },
+        {
+          "add": "and chastened"
+        },
+        {
+          "t": " my soul with fasting, that was to my reproach. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "I made sackcloth also my garment; and I became a proverb to them.",
+      "tokens": [
+        {
+          "t": "I made sackcloth also my garment; and I became a proverb to them. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "They that sit in the gate speak against me; and I was the song of the drunkards.",
+      "tokens": [
+        {
+          "t": "They that sit in the gate speak against me; and I "
+        },
+        {
+          "add": "was"
+        },
+        {
+          "t": " the song of the drunkards. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "But as for me, my prayer is unto thee, O LORD, in an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.",
+      "tokens": [
+        {
+          "t": "But as for me, my prayer "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " unto thee, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", "
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": " an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.",
+      "tokens": [
+        {
+          "t": "Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.",
+      "tokens": [
+        {
+          "t": "Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "Hear me, O LORD; for thy lovingkindness is good: turn unto me according to the multitude of thy tender mercies.",
+      "tokens": [
+        {
+          "t": "Hear me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for thy lovingkindness "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " good: turn unto me according to the multitude of thy tender mercies. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "And hide not thy face from thy servant; for I am in trouble: hear me speedily.",
+      "tokens": [
+        {
+          "t": "And hide not thy face from thy servant; for I am in trouble: hear me speedily. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "Draw nigh unto my soul, and redeem it: deliver me because of mine enemies.",
+      "tokens": [
+        {
+          "t": "Draw nigh unto my soul, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " redeem it: deliver me because of mine enemies. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee.",
+      "tokens": [
+        {
+          "t": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " all before thee. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "Reproach hath broken my heart; and I am full of heaviness: and I looked for some to take pity, but there was none; and for comforters, but I found none.",
+      "tokens": [
+        {
+          "t": "Reproach hath broken my heart; and I am full of heaviness: and I looked "
+        },
+        {
+          "add": "for some"
+        },
+        {
+          "t": " to take pity, but "
+        },
+        {
+          "add": "there was"
+        },
+        {
+          "t": " none; and for comforters, but I found none. "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.",
+      "tokens": [
+        {
+          "t": "They gave me also gall for my meat; and in my thirst they gave me vinegar to drink. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "Let their table become a snare before them: and that which should have been for their welfare, let it become a trap.",
+      "tokens": [
+        {
+          "t": "Let their table become a snare before them: and "
+        },
+        {
+          "add": "that which should have been"
+        },
+        {
+          "t": " for "
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": " welfare, "
+        },
+        {
+          "add": "let it become"
+        },
+        {
+          "t": " a trap. "
+        }
+      ]
+    },
+    {
+      "v": 23,
+      "plain": "Let their eyes be darkened, that they see not; and make their loins continually to shake.",
+      "tokens": [
+        {
+          "t": "Let their eyes be darkened, that they see not; and make their loins continually to shake. "
+        }
+      ]
+    },
+    {
+      "v": 24,
+      "plain": "Pour out thine indignation upon them, and let thy wrathful anger take hold of them.",
+      "tokens": [
+        {
+          "t": "Pour out thine indignation upon them, and let thy wrathful anger take hold of them. "
+        }
+      ]
+    },
+    {
+      "v": 25,
+      "plain": "Let their habitation be desolate; and let none dwell in their tents.",
+      "tokens": [
+        {
+          "t": "Let their habitation be desolate; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " let none dwell in their tents. "
+        }
+      ]
+    },
+    {
+      "v": 26,
+      "plain": "For they persecute him whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.",
+      "tokens": [
+        {
+          "t": "For they persecute "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " whom thou hast smitten; and they talk to the grief of those whom thou hast wounded. "
+        }
+      ]
+    },
+    {
+      "v": 27,
+      "plain": "Add iniquity unto their iniquity: and let them not come into thy righteousness.",
+      "tokens": [
+        {
+          "t": "Add iniquity unto their iniquity: and let them not come into thy righteousness. "
+        }
+      ]
+    },
+    {
+      "v": 28,
+      "plain": "Let them be blotted out of the book of the living, and not be written with the righteous.",
+      "tokens": [
+        {
+          "t": "Let them be blotted out of the book of the living, and not be written with the righteous. "
+        }
+      ]
+    },
+    {
+      "v": 29,
+      "plain": "But I am poor and sorrowful: let thy salvation, O God, set me up on high.",
+      "tokens": [
+        {
+          "t": "But I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " poor and sorrowful: let thy salvation, O God, set me up on high. "
+        }
+      ]
+    },
+    {
+      "v": 30,
+      "plain": "I will praise the name of God with a song, and will magnify him with thanksgiving.",
+      "tokens": [
+        {
+          "t": "I will praise the name of God with a song, and will magnify him with thanksgiving. "
+        }
+      ]
+    },
+    {
+      "v": 31,
+      "plain": "This also shall please the LORD better than an ox or bullock that hath horns and hoofs.",
+      "tokens": [
+        {
+          "add": "This"
+        },
+        {
+          "t": " also shall please the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " better than an ox "
+        },
+        {
+          "add": "or"
+        },
+        {
+          "t": " bullock that hath horns and hoofs. "
+        }
+      ]
+    },
+    {
+      "v": 32,
+      "plain": "The humble shall see this, and be glad: and your heart shall live that seek God.",
+      "tokens": [
+        {
+          "t": "The humble shall see "
+        },
+        {
+          "add": "this, and"
+        },
+        {
+          "t": " be glad: and your heart shall live that seek God. "
+        }
+      ]
+    },
+    {
+      "v": 33,
+      "plain": "For the LORD heareth the poor, and despiseth not his prisoners.",
+      "tokens": [
+        {
+          "t": "For the "
+        },
+        {
+          "nd": " LORD"
+        },
+        {
+          "t": " heareth the poor, and despiseth not his prisoners. "
+        }
+      ]
+    },
+    {
+      "v": 34,
+      "plain": "Let the heaven and earth praise him, the seas, and every thing that moveth therein.",
+      "tokens": [
+        {
+          "t": "Let the heaven and earth praise him, the seas, and every thing that moveth therein. "
+        }
+      ]
+    },
+    {
+      "v": 35,
+      "plain": "For God will save Zion, and will build the cities of Judah: that they may dwell there, and have it in possession.",
+      "tokens": [
+        {
+          "t": "For God will save Zion, and will build the cities of Judah: that they may dwell there, and have it in possession. "
+        }
+      ]
+    },
+    {
+      "v": 36,
+      "plain": "The seed also of his servants shall inherit it: and they that love his name shall dwell therein.",
+      "tokens": [
+        {
+          "t": "The seed also of his servants shall inherit it: and they that love his name shall dwell therein. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "deep mire: Heb. the mire of depth"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "deep waters: Heb. depth of waters"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 5
+      },
+      "text": "sins: Heb. guiltiness"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 12
+      },
+      "text": "drunkards: Heb. drinkers of strong drink"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 17
+      },
+      "text": "hear…: Heb. make haste to hear me"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 20
+      },
+      "text": "to take…: Heb. to lament with me"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 25
+      },
+      "text": "their habitation: Heb. their palace"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 25
+      },
+      "text": "let none…: Heb. let there not be a dweller"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 26
+      },
+      "text": "those…: Heb. thy wounded"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 27
+      },
+      "text": "iniquity unto…: or, punishment of iniquity, etc"
+    },
+    {
+      "id": "FN11",
+      "mark": "‡‡‡",
+      "at": {
+        "v": 32
+      },
+      "text": "humble: or, meek"
+    },
+    {
+      "id": "FN12",
+      "mark": "§§§",
+      "at": {
+        "v": 34
+      },
+      "text": "moveth: Heb. creepeth"
+    }
+  ]
+}

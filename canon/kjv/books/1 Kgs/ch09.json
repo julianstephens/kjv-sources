@@ -7,149 +7,160 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass, when Solomon had finished the building of the house of the LORD, and the king’s house, and all Solomon’s desire which he was pleased to do,",
       "tokens": [
         {
-          "t": "And it came to pass, when Solomon had finished the building of the house of the"
+          "t": "And it came to pass, when Solomon had finished the building of the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the king’s house, and all Solomon’s desire which he was pleased to do,"
+          "t": ", and the king’s house, and all Solomon’s desire which he was pleased to do, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "That the LORD appeared to Solomon the second time, as he had appeared unto him at Gibeon.",
       "tokens": [
         {
-          "t": "That the"
+          "t": "That the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "appeared to Solomon the second time, as he had appeared unto him at Gibeon."
+          "t": " appeared to Solomon the second time, as he had appeared unto him at Gibeon. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the LORD said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually."
+          "t": " said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, and wilt keep my statutes and my judgments:",
       "tokens": [
         {
-          "t": "And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee,"
+          "t": "And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, "
         },
         {
           "add": "and"
         },
         {
-          "t": "wilt keep my statutes and my judgments:"
+          "t": " wilt keep my statutes and my judgments: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel.",
       "tokens": [
         {
-          "t": "Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel."
+          "t": "Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But if ye shall at all turn from following me, ye or your children, and will not keep my commandments and my statutes which I have set before you, but go and serve other gods, and worship them:",
       "tokens": [
         {
           "add": "But"
         },
         {
-          "t": "if ye shall at all turn from following me, ye or your children, and will not keep my commandments"
+          "t": " if ye shall at all turn from following me, ye or your children, and will not keep my commandments "
         },
         {
           "add": "and"
         },
         {
-          "t": "my statutes which I have set before you, but go and serve other gods, and worship them:"
+          "t": " my statutes which I have set before you, but go and serve other gods, and worship them: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:",
       "tokens": [
         {
-          "t": "Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:"
+          "t": "Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And at this house, which is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the LORD done thus unto this land, and to this house?",
       "tokens": [
         {
-          "t": "And at this house,"
+          "t": "And at this house, "
         },
         {
           "add": "which"
         },
         {
-          "t": "is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the"
+          "t": " is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "done thus unto this land, and to this house?"
+          "t": " done thus unto this land, and to this house? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And they shall answer, Because they forsook the LORD their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore hath the LORD brought upon them all this evil.",
       "tokens": [
         {
-          "t": "And they shall answer, Because they forsook the"
+          "t": "And they shall answer, Because they forsook the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore hath the"
+          "t": " their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "brought upon them all this evil."
+          "t": " brought upon them all this evil. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the LORD, and the king’s house,",
       "tokens": [
         {
-          "t": "¶ And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the"
+          "t": "¶ And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the king’s house,"
+          "t": ", and the king’s house, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "(Now Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee.",
       "tokens": [
         {
           "t": "("
@@ -158,239 +169,256 @@
           "add": "Now"
         },
         {
-          "t": "Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee."
+          "t": " Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not.",
       "tokens": [
         {
-          "t": "And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not."
+          "t": "And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he said, What cities are these which thou hast given me, my brother? And he called them the land of Cabul unto this day.",
       "tokens": [
         {
-          "t": "And he said, What cities"
+          "t": "And he said, What cities "
         },
         {
           "add": "are"
         },
         {
-          "t": "these which thou hast given me, my brother? And he called them the land of Cabul unto this day."
+          "t": " these which thou hast given me, my brother? And he called them the land of Cabul unto this day. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Hiram sent to the king sixscore talents of gold.",
       "tokens": [
         {
-          "t": "And Hiram sent to the king sixscore talents of gold."
+          "t": "And Hiram sent to the king sixscore talents of gold. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And this is the reason of the levy which king Solomon raised; for to build the house of the LORD, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer.",
       "tokens": [
         {
-          "t": "¶ And this"
+          "t": "¶ And this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the reason of the levy which king Solomon raised; for to build the house of the"
+          "t": " the reason of the levy which king Solomon raised; for to build the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer."
+          "t": ", and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "For Pharaoh king of Egypt had gone up, and taken Gezer, and burnt it with fire, and slain the Canaanites that dwelt in the city, and given it for a present unto his daughter, Solomon’s wife.",
       "tokens": [
         {
           "add": "For"
         },
         {
-          "t": "Pharaoh king of Egypt had gone up, and taken Gezer, and burnt it with fire, and slain the Canaanites that dwelt in the city, and given it"
+          "t": " Pharaoh king of Egypt had gone up, and taken Gezer, and burnt it with fire, and slain the Canaanites that dwelt in the city, and given it "
         },
         {
           "add": "for"
         },
         {
-          "t": "a present unto his daughter, Solomon’s wife."
+          "t": " a present unto his daughter, Solomon’s wife. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Solomon built Gezer, and Beth-horon the nether,",
       "tokens": [
         {
-          "t": "And Solomon built Gezer, and Beth-horon the nether,"
+          "t": "And Solomon built Gezer, and Beth-horon the nether, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Baalath, and Tadmor in the wilderness, in the land,",
       "tokens": [
         {
-          "t": "And Baalath, and Tadmor in the wilderness, in the land,"
+          "t": "And Baalath, and Tadmor in the wilderness, in the land, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And all the cities of store that Solomon had, and cities for his chariots, and cities for his horsemen, and that which Solomon desired to build in Jerusalem, and in Lebanon, and in all the land of his dominion.",
       "tokens": [
         {
-          "t": "And all the cities of store that Solomon had, and cities for his chariots, and cities for his horsemen, and that which Solomon desired to build in Jerusalem, and in Lebanon, and in all the land of his dominion."
+          "t": "And all the cities of store that Solomon had, and cities for his chariots, and cities for his horsemen, and that which Solomon desired to build in Jerusalem, and in Lebanon, and in all the land of his dominion. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And all the people that were left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which were not of the children of Israel,",
       "tokens": [
         {
           "add": "And"
         },
         {
-          "t": "all the people"
+          "t": " all the people "
         },
         {
           "add": "that were"
         },
         {
-          "t": "left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which"
+          "t": " left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which "
         },
         {
           "add": "were"
         },
         {
-          "t": "not of the children of Israel,"
+          "t": " not of the children of Israel, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day.",
       "tokens": [
         {
-          "t": "Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day."
+          "t": "Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But of the children of Israel did Solomon make no bondmen: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.",
       "tokens": [
         {
-          "t": "But of the children of Israel did Solomon make no bondmen: but they"
+          "t": "But of the children of Israel did Solomon make no bondmen: but they "
         },
         {
           "add": "were"
         },
         {
-          "t": "men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen."
+          "t": " men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "These were the chief of the officers that were over Solomon’s work, five hundred and fifty, which bare rule over the people that wrought in the work.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "were"
         },
         {
-          "t": "the chief of the officers that"
+          "t": " the chief of the officers that "
         },
         {
           "add": "were"
         },
         {
-          "t": "over Solomon’s work, five hundred and fifty, which bare rule over the people that wrought in the work."
+          "t": " over Solomon’s work, five hundred and fifty, which bare rule over the people that wrought in the work. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ But Pharaoh’s daughter came up out of the city of David unto her house which Solomon had built for her: then did he build Millo.",
       "tokens": [
         {
-          "t": "¶ But Pharaoh’s daughter came up out of the city of David unto her house which"
+          "t": "¶ But Pharaoh’s daughter came up out of the city of David unto her house which "
         },
         {
           "add": "Solomon"
         },
         {
-          "t": "had built for her: then did he build Millo."
+          "t": " had built for her: then did he build Millo. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the LORD, and he burnt incense upon the altar that was before the LORD. So he finished the house.",
       "tokens": [
         {
-          "t": "¶ And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the"
+          "t": "¶ And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and he burnt incense upon the altar that"
+          "t": ", and he burnt incense upon the altar that "
         },
         {
           "add": "was"
         },
         {
-          "t": "before the"
+          "t": " before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". So he finished the house."
+          "t": ". So he finished the house. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ And king Solomon made a navy of ships in Ezion-geber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.",
       "tokens": [
         {
-          "t": "¶ And king Solomon made a navy of ships in Ezion-geber, which"
+          "t": "¶ And king Solomon made a navy of ships in Ezion-geber, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "beside Eloth, on the shore of the Red sea, in the land of Edom."
+          "t": " beside Eloth, on the shore of the Red sea, in the land of Edom. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon.",
       "tokens": [
         {
-          "t": "And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon."
+          "t": "And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to king Solomon.",
       "tokens": [
         {
-          "t": "And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought"
+          "t": "And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought "
         },
         {
           "add": "it"
         },
         {
-          "t": "to king Solomon."
+          "t": " to king Solomon. "
         }
       ]
     }

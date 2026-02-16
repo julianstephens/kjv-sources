@@ -7,225 +7,241 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Elihu spake moreover, and said,",
       "tokens": [
         {
-          "t": "Elihu spake moreover, and said,"
+          "t": "Elihu spake moreover, and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thinkest thou this to be right, that thou saidst, My righteousness is more than God’s?",
       "tokens": [
         {
-          "t": "Thinkest thou this to be right,"
+          "t": "Thinkest thou this to be right, "
         },
         {
           "add": "that"
         },
         {
-          "t": "thou saidst, My righteousness"
+          "t": " thou saidst, My righteousness "
         },
         {
           "add": "is"
         },
         {
-          "t": "more than God’s?"
+          "t": " more than God’s? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For thou saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?",
       "tokens": [
         {
-          "t": "For thou saidst, What advantage will it be unto thee?"
+          "t": "For thou saidst, What advantage will it be unto thee? "
         },
         {
           "add": "and"
         },
         {
-          "t": ", What profit shall I have,"
+          "t": ", What profit shall I have, "
         },
         {
           "add": "if I be cleansed"
         },
         {
-          "t": "from my sin?"
+          "t": " from my sin? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "I will answer thee, and thy companions with thee.",
       "tokens": [
         {
-          "t": "I will answer thee, and thy companions with thee."
+          "t": "I will answer thee, and thy companions with thee. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Look unto the heavens, and see; and behold the clouds which are higher than thou.",
       "tokens": [
         {
-          "t": "Look unto the heavens, and see; and behold the clouds"
+          "t": "Look unto the heavens, and see; and behold the clouds "
         },
         {
           "add": "which"
         },
         {
-          "t": "are higher than thou."
+          "t": " are higher than thou. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "If thou sinnest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?",
       "tokens": [
         {
-          "t": "If thou sinnest, what doest thou against him? or"
+          "t": "If thou sinnest, what doest thou against him? or "
         },
         {
           "add": "if"
         },
         {
-          "t": "thy transgressions be multiplied, what doest thou unto him?"
+          "t": " thy transgressions be multiplied, what doest thou unto him? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "If thou be righteous, what givest thou him? or what receiveth he of thine hand?",
       "tokens": [
         {
-          "t": "If thou be righteous, what givest thou him? or what receiveth he of thine hand?"
+          "t": "If thou be righteous, what givest thou him? or what receiveth he of thine hand? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Thy wickedness may hurt a man as thou art; and thy righteousness may profit the son of man.",
       "tokens": [
         {
-          "t": "Thy wickedness"
+          "t": "Thy wickedness "
         },
         {
           "add": "may hurt"
         },
         {
-          "t": "a man as thou"
+          "t": " a man as thou "
         },
         {
           "add": "art;"
         },
         {
-          "t": "and thy righteousness"
+          "t": " and thy righteousness "
         },
         {
           "add": "may profit"
         },
         {
-          "t": "the son of man."
+          "t": " the son of man. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty.",
       "tokens": [
         {
-          "t": "By reason of the multitude of oppressions they make"
+          "t": "By reason of the multitude of oppressions they make "
         },
         {
           "add": "the oppressed"
         },
         {
-          "t": "to cry: they cry out by reason of the arm of the mighty."
+          "t": " to cry: they cry out by reason of the arm of the mighty. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "But none saith, Where is God my maker, who giveth songs in the night;",
       "tokens": [
         {
-          "t": "But none saith, Where"
+          "t": "But none saith, Where "
         },
         {
           "add": "is"
         },
         {
-          "t": "God my maker, who giveth songs in the night;"
+          "t": " God my maker, who giveth songs in the night; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?",
       "tokens": [
         {
-          "t": "Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?"
+          "t": "Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "There they cry, but none giveth answer, because of the pride of evil men.",
       "tokens": [
         {
-          "t": "There they cry, but none giveth answer, because of the pride of evil men."
+          "t": "There they cry, but none giveth answer, because of the pride of evil men. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Surely God will not hear vanity, neither will the Almighty regard it.",
       "tokens": [
         {
-          "t": "Surely God will not hear vanity, neither will the Almighty regard it."
+          "t": "Surely God will not hear vanity, neither will the Almighty regard it. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.",
       "tokens": [
         {
-          "t": "Although thou sayest thou shalt not see him,"
+          "t": "Although thou sayest thou shalt not see him, "
         },
         {
           "add": "yet"
         },
         {
-          "t": "judgment"
+          "t": " judgment "
         },
         {
           "add": "is"
         },
         {
-          "t": "before him; therefore trust thou in him."
+          "t": " before him; therefore trust thou in him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:",
       "tokens": [
         {
-          "t": "But now, because"
+          "t": "But now, because "
         },
         {
           "add": "it is"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "so"
         },
         {
-          "t": ", he hath visited in his anger; yet he knoweth"
+          "t": ", he hath visited in his anger; yet he knoweth "
         },
         {
           "add": "it"
         },
         {
-          "t": "not in great extremity:"
+          "t": " not in great extremity: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Therefore doth Job open his mouth in vain; he multiplieth words without knowledge.",
       "tokens": [
         {
-          "t": "Therefore doth Job open his mouth in vain; he multiplieth words without knowledge."
+          "t": "Therefore doth Job open his mouth in vain; he multiplieth words without knowledge. "
         }
       ]
     }

@@ -7,353 +7,379 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And God spake all these words, saying,",
       "tokens": [
         {
-          "t": "And God spake all these words, saying,"
+          "t": "And God spake all these words, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.",
       "tokens": [
         {
-          "t": "I"
+          "t": "I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+          "t": " thy God, which have brought thee out of the land of Egypt, out of the house of bondage. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Thou shalt have no other gods before me.",
       "tokens": [
         {
-          "t": "Thou shalt have no other gods before me."
+          "t": "Thou shalt have no other gods before me. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:",
       "tokens": [
         {
-          "t": "Thou shalt not make unto thee any graven image, or any likeness"
+          "t": "Thou shalt not make unto thee any graven image, or any likeness "
         },
         {
           "add": "of any thing"
         },
         {
-          "t": "that"
+          "t": " that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in heaven above, or that"
+          "t": " in heaven above, or that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the earth beneath, or that"
+          "t": " in the earth beneath, or that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the water under the earth:"
+          "t": " in the water under the earth: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;",
       "tokens": [
         {
-          "t": "Thou shalt not bow down thyself to them, nor serve them: for I the"
+          "t": "Thou shalt not bow down thyself to them, nor serve them: for I the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God"
+          "t": " thy God "
         },
         {
           "add": "am"
         },
         {
-          "t": "a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth"
+          "t": " a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth "
         },
         {
           "add": "generation"
         },
         {
-          "t": "of them that hate me;"
+          "t": " of them that hate me; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And shewing mercy unto thousands of them that love me, and keep my commandments.",
       "tokens": [
         {
-          "t": "And shewing mercy unto thousands of them that love me, and keep my commandments."
+          "t": "And shewing mercy unto thousands of them that love me, and keep my commandments. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.",
       "tokens": [
         {
-          "t": "Thou shalt not take the name of the"
+          "t": "Thou shalt not take the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God in vain; for the"
+          "t": " thy God in vain; for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will not hold him guiltless that taketh his name in vain."
+          "t": " will not hold him guiltless that taketh his name in vain. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Remember the sabbath day, to keep it holy.",
       "tokens": [
         {
-          "t": "Remember the sabbath day, to keep it holy."
+          "t": "Remember the sabbath day, to keep it holy. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Six days shalt thou labour, and do all thy work:",
       "tokens": [
         {
-          "t": "Six days shalt thou labour, and do all thy work:"
+          "t": "Six days shalt thou labour, and do all thy work: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:",
       "tokens": [
         {
-          "t": "But the seventh day"
+          "t": "But the seventh day "
         },
         {
           "add": "is"
         },
         {
-          "t": "the sabbath of the"
+          "t": " the sabbath of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God:"
+          "t": " thy God: "
         },
         {
           "add": "in it"
         },
         {
-          "t": "thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that"
+          "t": " thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that "
         },
         {
           "add": "is"
         },
         {
-          "t": "within thy gates:"
+          "t": " within thy gates: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
       "tokens": [
         {
-          "t": "For"
+          "t": "For "
         },
         {
           "add": "in"
         },
         {
-          "t": "six days the"
+          "t": " six days the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "made heaven and earth, the sea, and all that in them"
+          "t": " made heaven and earth, the sea, and all that in them "
         },
         {
           "add": "is"
         },
         {
-          "t": ", and rested the seventh day: wherefore the"
+          "t": ", and rested the seventh day: wherefore the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "blessed the sabbath day, and hallowed it."
+          "t": " blessed the sabbath day, and hallowed it. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.",
       "tokens": [
         {
-          "t": "¶ Honour thy father and thy mother: that thy days may be long upon the land which the"
+          "t": "¶ Honour thy father and thy mother: that thy days may be long upon the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee."
+          "t": " thy God giveth thee. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thou shalt not kill.",
       "tokens": [
         {
-          "t": "Thou shalt not kill."
+          "t": "Thou shalt not kill. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Thou shalt not commit adultery.",
       "tokens": [
         {
-          "t": "Thou shalt not commit adultery."
+          "t": "Thou shalt not commit adultery. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Thou shalt not steal.",
       "tokens": [
         {
-          "t": "Thou shalt not steal."
+          "t": "Thou shalt not steal. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Thou shalt not bear false witness against thy neighbour.",
       "tokens": [
         {
-          "t": "Thou shalt not bear false witness against thy neighbour."
+          "t": "Thou shalt not bear false witness against thy neighbour. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.",
       "tokens": [
         {
-          "t": "Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that"
+          "t": "Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy neighbour’s."
+          "t": " thy neighbour’s. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.",
       "tokens": [
         {
-          "t": "¶ And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw"
+          "t": "¶ And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they removed, and stood afar off."
+          "t": ", they removed, and stood afar off. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.",
       "tokens": [
         {
-          "t": "And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die."
+          "t": "And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.",
       "tokens": [
         {
-          "t": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not."
+          "t": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And the people stood afar off, and Moses drew near unto the thick darkness where God was.",
       "tokens": [
         {
-          "t": "And the people stood afar off, and Moses drew near unto the thick darkness where God"
+          "t": "And the people stood afar off, and Moses drew near unto the thick darkness where God "
         },
         {
           "add": "was"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And the LORD said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven."
+          "t": " said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.",
       "tokens": [
         {
-          "t": "Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold."
+          "t": "Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.",
       "tokens": [
         {
-          "t": "¶ An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee."
+          "t": "¶ An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.",
       "tokens": [
         {
-          "t": "And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it."
+          "t": "And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.",
       "tokens": [
         {
-          "t": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon."
+          "t": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon. "
         }
       ]
     }

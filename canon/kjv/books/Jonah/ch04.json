@@ -7,167 +7,178 @@
   "verses": [
     {
       "v": 1,
+      "plain": "But it displeased Jonah exceedingly, and he was very angry.",
       "tokens": [
         {
-          "t": "But it displeased Jonah exceedingly, and he was very angry."
+          "t": "But it displeased Jonah exceedingly, and he was very angry. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.",
       "tokens": [
         {
-          "t": "And he prayed unto the"
+          "t": "And he prayed unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said, I pray thee, O"
+          "t": ", and said, I pray thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "was"
         },
         {
-          "t": "not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou"
+          "t": " not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil."
+          "t": " a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live.",
       "tokens": [
         {
-          "t": "Therefore now, O"
+          "t": "Therefore now, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", take, I beseech thee, my life from me; for"
+          "t": ", take, I beseech thee, my life from me; for "
         },
         {
           "add": "it is"
         },
         {
-          "t": "better for me to die than to live."
+          "t": " better for me to die than to live. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ Then said the LORD, Doest thou well to be angry?",
       "tokens": [
         {
-          "t": "¶ Then said the"
+          "t": "¶ Then said the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Doest thou well to be angry?"
+          "t": ", Doest thou well to be angry? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.",
       "tokens": [
         {
-          "t": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city."
+          "t": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God prepared a gourd, and made"
+          "t": " God prepared a gourd, and made "
         },
         {
           "add": "it"
         },
         {
-          "t": "to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd."
+          "t": " to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.",
       "tokens": [
         {
-          "t": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered."
+          "t": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.",
       "tokens": [
         {
-          "t": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said,"
+          "t": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, "
         },
         {
           "add": "It is"
         },
         {
-          "t": "better for me to die than to live."
+          "t": " better for me to die than to live. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.",
       "tokens": [
         {
-          "t": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry,"
+          "t": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, "
         },
         {
           "add": "even"
         },
         {
-          "t": "unto death."
+          "t": " unto death. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:",
       "tokens": [
         {
-          "t": "Then said the"
+          "t": "Then said the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:"
+          "t": ", Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?",
       "tokens": [
         {
-          "t": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and"
+          "t": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and "
         },
         {
           "add": "also"
         },
         {
-          "t": "much cattle?"
+          "t": " much cattle? "
         }
       ]
     }

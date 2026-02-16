@@ -7,303 +7,328 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Job answered and said,",
       "tokens": [
         {
-          "t": "And Job answered and said,"
+          "t": "And Job answered and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "No doubt but ye are the people, and wisdom shall die with you.",
       "tokens": [
         {
-          "t": "No doubt but ye"
+          "t": "No doubt but ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "the people, and wisdom shall die with you."
+          "t": " the people, and wisdom shall die with you. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?",
       "tokens": [
         {
-          "t": "But I have understanding as well as you; I"
+          "t": "But I have understanding as well as you; I "
         },
         {
           "add": "am"
         },
         {
-          "t": "not inferior to you: yea, who knoweth not such things as these?"
+          "t": " not inferior to you: yea, who knoweth not such things as these? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "I am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn.",
       "tokens": [
         {
-          "t": "I am"
+          "t": "I am "
         },
         {
           "add": "as"
         },
         {
-          "t": "one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright"
+          "t": " one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright "
         },
         {
           "add": "man is"
         },
         {
-          "t": "laughed to scorn."
+          "t": " laughed to scorn. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.",
       "tokens": [
         {
-          "t": "He that is ready to slip with"
+          "t": "He that is ready to slip with "
         },
         {
           "add": "his"
         },
         {
-          "t": "feet"
+          "t": " feet "
         },
         {
           "add": "is as"
         },
         {
-          "t": "a lamp despised in the thought of him that is at ease."
+          "t": " a lamp despised in the thought of him that is at ease. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly.",
       "tokens": [
         {
-          "t": "The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth"
+          "t": "The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth "
         },
         {
           "add": "abundantly"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:",
       "tokens": [
         {
-          "t": "But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:"
+          "t": "But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.",
       "tokens": [
         {
-          "t": "Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee."
+          "t": "Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Who knoweth not in all these that the hand of the LORD hath wrought this?",
       "tokens": [
         {
-          "t": "Who knoweth not in all these that the hand of the"
+          "t": "Who knoweth not in all these that the hand of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath wrought this?"
+          "t": " hath wrought this? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "In whose hand is the soul of every living thing, and the breath of all mankind.",
       "tokens": [
         {
-          "t": "In whose hand"
+          "t": "In whose hand "
         },
         {
           "add": "is"
         },
         {
-          "t": "the soul of every living thing, and the breath of all mankind."
+          "t": " the soul of every living thing, and the breath of all mankind. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Doth not the ear try words? and the mouth taste his meat?",
       "tokens": [
         {
-          "t": "Doth not the ear try words? and the mouth taste his meat?"
+          "t": "Doth not the ear try words? and the mouth taste his meat? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "With the ancient is wisdom; and in length of days understanding.",
       "tokens": [
         {
-          "t": "With the ancient"
+          "t": "With the ancient "
         },
         {
           "add": "is"
         },
         {
-          "t": "wisdom; and in length of days understanding."
+          "t": " wisdom; and in length of days understanding. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "With him is wisdom and strength, he hath counsel and understanding.",
       "tokens": [
         {
-          "t": "With him"
+          "t": "With him "
         },
         {
           "add": "is"
         },
         {
-          "t": "wisdom and strength, he hath counsel and understanding."
+          "t": " wisdom and strength, he hath counsel and understanding. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening.",
       "tokens": [
         {
-          "t": "Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening."
+          "t": "Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.",
       "tokens": [
         {
-          "t": "Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth."
+          "t": "Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "With him is strength and wisdom: the deceived and the deceiver are his.",
       "tokens": [
         {
-          "t": "With him"
+          "t": "With him "
         },
         {
           "add": "is"
         },
         {
-          "t": "strength and wisdom: the deceived and the deceiver"
+          "t": " strength and wisdom: the deceived and the deceiver "
         },
         {
           "add": "are"
         },
         {
-          "t": "his."
+          "t": " his. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "He leadeth counsellors away spoiled, and maketh the judges fools.",
       "tokens": [
         {
-          "t": "He leadeth counsellors away spoiled, and maketh the judges fools."
+          "t": "He leadeth counsellors away spoiled, and maketh the judges fools. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "He looseth the bond of kings, and girdeth their loins with a girdle.",
       "tokens": [
         {
-          "t": "He looseth the bond of kings, and girdeth their loins with a girdle."
+          "t": "He looseth the bond of kings, and girdeth their loins with a girdle. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He leadeth princes away spoiled, and overthroweth the mighty.",
       "tokens": [
         {
-          "t": "He leadeth princes away spoiled, and overthroweth the mighty."
+          "t": "He leadeth princes away spoiled, and overthroweth the mighty. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "He removeth away the speech of the trusty, and taketh away the understanding of the aged.",
       "tokens": [
         {
-          "t": "He removeth away the speech of the trusty, and taketh away the understanding of the aged."
+          "t": "He removeth away the speech of the trusty, and taketh away the understanding of the aged. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "He poureth contempt upon princes, and weakeneth the strength of the mighty.",
       "tokens": [
         {
-          "t": "He poureth contempt upon princes, and weakeneth the strength of the mighty."
+          "t": "He poureth contempt upon princes, and weakeneth the strength of the mighty. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "He discovereth deep things out of darkness, and bringeth out to light the shadow of death.",
       "tokens": [
         {
-          "t": "He discovereth deep things out of darkness, and bringeth out to light the shadow of death."
+          "t": "He discovereth deep things out of darkness, and bringeth out to light the shadow of death. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again.",
       "tokens": [
         {
-          "t": "He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them"
+          "t": "He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them "
         },
         {
           "add": "again"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness where there is no way.",
       "tokens": [
         {
-          "t": "He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness"
+          "t": "He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness "
         },
         {
           "add": "where there is"
         },
         {
-          "t": "no way."
+          "t": " no way. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "They grope in the dark without light, and he maketh them to stagger like a drunken man.",
       "tokens": [
         {
-          "t": "They grope in the dark without light, and he maketh them to stagger like"
+          "t": "They grope in the dark without light, and he maketh them to stagger like "
         },
         {
           "add": "a"
         },
         {
-          "t": "drunken"
+          "t": " drunken "
         },
         {
           "add": "man"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

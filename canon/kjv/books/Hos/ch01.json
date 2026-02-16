@@ -7,197 +7,208 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
       "tokens": [
         {
-          "t": "The word of the"
+          "t": "The word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz,"
+          "t": " that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel."
+          "t": " Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD.",
       "tokens": [
         {
-          "t": "The beginning of the word of the"
+          "t": "The beginning of the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "by Hosea. And the"
+          "t": " by Hosea. And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom,"
+          "t": " said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, "
         },
         {
           "add": "departing"
         },
         {
-          "t": "from the"
+          "t": " from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.",
       "tokens": [
         {
-          "t": "So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son."
+          "t": "So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto him, Call his name Jezreel; for yet a little"
+          "t": " said unto him, Call his name Jezreel; for yet a little "
         },
         {
           "add": "while"
         },
         {
-          "t": ", and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel."
+          "t": ", and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.",
       "tokens": [
         {
-          "t": "And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel."
+          "t": "And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And she conceived again, and bare a daughter. And God said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.",
       "tokens": [
         {
-          "t": "¶ And she conceived again, and bare a daughter. And"
+          "t": "¶ And she conceived again, and bare a daughter. And "
         },
         {
           "add": "God"
         },
         {
-          "t": "said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away."
+          "t": " said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.",
       "tokens": [
         {
-          "t": "But I will have mercy upon the house of Judah, and will save them by the"
+          "t": "But I will have mercy upon the house of Judah, and will save them by the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen."
+          "t": " their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ Now when she had weaned Lo-ruhamah, she conceived, and bare a son.",
       "tokens": [
         {
-          "t": "¶ Now when she had weaned Lo-ruhamah, she conceived, and bare a son."
+          "t": "¶ Now when she had weaned Lo-ruhamah, she conceived, and bare a son. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Then said God, Call his name Lo-ammi: for ye are not my people, and I will not be your God.",
       "tokens": [
         {
-          "t": "Then said"
+          "t": "Then said "
         },
         {
           "add": "God"
         },
         {
-          "t": ", Call his name Lo-ammi: for ye"
+          "t": ", Call his name Lo-ammi: for ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "not my people, and I will not be your"
+          "t": " not my people, and I will not be your "
         },
         {
           "add": "God"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.",
       "tokens": [
         {
-          "t": "¶ Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass,"
+          "t": "¶ Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "in the place where it was said unto them, Ye"
+          "t": " in the place where it was said unto them, Ye "
         },
         {
           "add": "are"
         },
         {
-          "t": "not my people,"
+          "t": " not my people, "
         },
         {
           "add": "there"
         },
         {
-          "t": "it shall be said unto them,"
+          "t": " it shall be said unto them, "
         },
         {
           "add": "Ye are"
         },
         {
-          "t": "the sons of the living God."
+          "t": " the sons of the living God. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.",
       "tokens": [
         {
-          "t": "Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great"
+          "t": "Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the day of Jezreel."
+          "t": " the day of Jezreel. "
         }
       ]
     }

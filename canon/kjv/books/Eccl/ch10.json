@@ -7,263 +7,283 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.",
       "tokens": [
         {
-          "t": "Dead flies cause the ointment of the apothecary to send forth a stinking savour:"
+          "t": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: "
         },
         {
           "add": "so doth"
         },
         {
-          "t": "a little folly him that is in reputation for wisdom"
+          "t": " a little folly him that is in reputation for wisdom "
         },
         {
           "add": "and"
         },
         {
-          "t": "honour."
+          "t": " honour. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "A wise man’s heart is at his right hand; but a fool’s heart at his left.",
       "tokens": [
         {
-          "t": "A wise man’s heart"
+          "t": "A wise man’s heart "
         },
         {
           "add": "is"
         },
         {
-          "t": "at his right hand; but a fool’s heart at his left."
+          "t": " at his right hand; but a fool’s heart at his left. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.",
       "tokens": [
         {
-          "t": "Yea also, when he that is a fool walketh by the way, his wisdom faileth"
+          "t": "Yea also, when he that is a fool walketh by the way, his wisdom faileth "
         },
         {
           "add": "him"
         },
         {
-          "t": ", and he saith to every one"
+          "t": ", and he saith to every one "
         },
         {
           "add": "that"
         },
         {
-          "t": "he"
+          "t": " he "
         },
         {
           "add": "is"
         },
         {
-          "t": "a fool."
+          "t": " a fool. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.",
       "tokens": [
         {
-          "t": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences."
+          "t": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:",
       "tokens": [
         {
-          "t": "There is an evil"
+          "t": "There is an evil "
         },
         {
           "add": "which"
         },
         {
-          "t": "I have seen under the sun, as an error"
+          "t": " I have seen under the sun, as an error "
         },
         {
           "add": "which"
         },
         {
-          "t": "proceedeth from the ruler:"
+          "t": " proceedeth from the ruler: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Folly is set in great dignity, and the rich sit in low place.",
       "tokens": [
         {
-          "t": "Folly is set in great dignity, and the rich sit in low place."
+          "t": "Folly is set in great dignity, and the rich sit in low place. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "I have seen servants upon horses, and princes walking as servants upon the earth.",
       "tokens": [
         {
-          "t": "I have seen servants upon horses, and princes walking as servants upon the earth."
+          "t": "I have seen servants upon horses, and princes walking as servants upon the earth. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.",
       "tokens": [
         {
-          "t": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him."
+          "t": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby.",
       "tokens": [
         {
-          "t": "Whoso removeth stones shall be hurt therewith;"
+          "t": "Whoso removeth stones shall be hurt therewith; "
         },
         {
           "add": "and"
         },
         {
-          "t": "he that cleaveth wood shall be endangered thereby."
+          "t": " he that cleaveth wood shall be endangered thereby. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.",
       "tokens": [
         {
-          "t": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom"
+          "t": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom "
         },
         {
           "add": "is"
         },
         {
-          "t": "profitable to direct."
+          "t": " profitable to direct. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Surely the serpent will bite without enchantment; and a babbler is no better.",
       "tokens": [
         {
-          "t": "Surely the serpent will bite without enchantment; and a babbler is no better."
+          "t": "Surely the serpent will bite without enchantment; and a babbler is no better. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The words of a wise man’s mouth are gracious; but the lips of a fool will swallow up himself.",
       "tokens": [
         {
-          "t": "The words of a wise man’s mouth"
+          "t": "The words of a wise man’s mouth "
         },
         {
           "add": "are"
         },
         {
-          "t": "gracious; but the lips of a fool will swallow up himself."
+          "t": " gracious; but the lips of a fool will swallow up himself. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.",
       "tokens": [
         {
-          "t": "The beginning of the words of his mouth"
+          "t": "The beginning of the words of his mouth "
         },
         {
           "add": "is"
         },
         {
-          "t": "foolishness: and the end of his talk"
+          "t": " foolishness: and the end of his talk "
         },
         {
           "add": "is"
         },
         {
-          "t": "mischievous madness."
+          "t": " mischievous madness. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?",
       "tokens": [
         {
-          "t": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?"
+          "t": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.",
       "tokens": [
         {
-          "t": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city."
+          "t": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!",
       "tokens": [
         {
-          "t": "¶ Woe to thee, O land, when thy king"
+          "t": "¶ Woe to thee, O land, when thy king "
         },
         {
           "add": "is"
         },
         {
-          "t": "a child, and thy princes eat in the morning!"
+          "t": " a child, and thy princes eat in the morning! "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "art"
         },
         {
-          "t": "thou, O land, when thy king"
+          "t": " thou, O land, when thy king "
         },
         {
           "add": "is"
         },
         {
-          "t": "the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!"
+          "t": " the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness! "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
       "tokens": [
         {
-          "t": "¶ By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through."
+          "t": "¶ By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ A feast is made for laughter, and wine maketh merry: but money answereth all things.",
       "tokens": [
         {
-          "t": "¶ A feast is made for laughter, and wine maketh merry: but money answereth all"
+          "t": "¶ A feast is made for laughter, and wine maketh merry: but money answereth all "
         },
         {
           "add": "things"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
       "tokens": [
         {
-          "t": "¶ Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter."
+          "t": "¶ Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter. "
         }
       ]
     }

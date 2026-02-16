@@ -7,241 +7,256 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.",
       "tokens": [
         {
-          "t": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment"
+          "t": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment "
         },
         {
           "add": "is"
         },
         {
-          "t": "toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor."
+          "t": " toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the revolters are profound to make slaughter, though I have been a rebuker of them all.",
       "tokens": [
         {
-          "t": "And the revolters are profound to make slaughter, though I"
+          "t": "And the revolters are profound to make slaughter, though I "
         },
         {
           "add": "have been"
         },
         {
-          "t": "a rebuker of them all."
+          "t": " a rebuker of them all. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled.",
       "tokens": [
         {
-          "t": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom,"
+          "t": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Israel is defiled."
+          "t": " Israel is defiled. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD.",
       "tokens": [
         {
-          "t": "They will not frame their doings to turn unto their God: for the spirit of whoredoms"
+          "t": "They will not frame their doings to turn unto their God: for the spirit of whoredoms "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the midst of them, and they have not known the"
+          "t": " in the midst of them, and they have not known the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.",
       "tokens": [
         {
-          "t": "And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them."
+          "t": "And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he hath withdrawn himself from them.",
       "tokens": [
         {
-          "t": "They shall go with their flocks and with their herds to seek the"
+          "t": "They shall go with their flocks and with their herds to seek the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; but they shall not find"
+          "t": "; but they shall not find "
         },
         {
           "add": "him;"
         },
         {
-          "t": "he hath withdrawn himself from them."
+          "t": " he hath withdrawn himself from them. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions.",
       "tokens": [
         {
-          "t": "They have dealt treacherously against the"
+          "t": "They have dealt treacherously against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for they have begotten strange children: now shall a month devour them with their portions."
+          "t": ": for they have begotten strange children: now shall a month devour them with their portions. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Beth-aven, after thee, O Benjamin.",
       "tokens": [
         {
-          "t": "Blow ye the cornet in Gibeah,"
+          "t": "Blow ye the cornet in Gibeah, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the trumpet in Ramah: cry aloud"
+          "t": " the trumpet in Ramah: cry aloud "
         },
         {
           "add": "at"
         },
         {
-          "t": "Beth-aven, after thee, O Benjamin."
+          "t": " Beth-aven, after thee, O Benjamin. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.",
       "tokens": [
         {
-          "t": "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be."
+          "t": "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water.",
       "tokens": [
         {
-          "t": "The princes of Judah were like them that remove the bound:"
+          "t": "The princes of Judah were like them that remove the bound: "
         },
         {
           "add": "therefore"
         },
         {
-          "t": "I will pour out my wrath upon them like water."
+          "t": " I will pour out my wrath upon them like water. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment.",
       "tokens": [
         {
-          "t": "Ephraim"
+          "t": "Ephraim "
         },
         {
           "add": "is"
         },
         {
-          "t": "oppressed"
+          "t": " oppressed "
         },
         {
           "add": "and"
         },
         {
-          "t": "broken in judgment, because he willingly walked after the commandment."
+          "t": " broken in judgment, because he willingly walked after the commandment. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness.",
       "tokens": [
         {
-          "t": "Therefore"
+          "t": "Therefore "
         },
         {
           "add": "will"
         },
         {
-          "t": "I"
+          "t": " I "
         },
         {
           "add": "be"
         },
         {
-          "t": "unto Ephraim as a moth, and to the house of Judah as rottenness."
+          "t": " unto Ephraim as a moth, and to the house of Judah as rottenness. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.",
       "tokens": [
         {
-          "t": "When Ephraim saw his sickness, and Judah"
+          "t": "When Ephraim saw his sickness, and Judah "
         },
         {
           "add": "saw"
         },
         {
-          "t": "his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound."
+          "t": " his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him.",
       "tokens": [
         {
-          "t": "For I"
+          "t": "For I "
         },
         {
           "add": "will be"
         },
         {
-          "t": "unto Ephraim as a lion, and as a young lion to the house of Judah: I,"
+          "t": " unto Ephraim as a lion, and as a young lion to the house of Judah: I, "
         },
         {
           "add": "even"
         },
         {
-          "t": "I, will tear and go away; I will take away, and none shall rescue"
+          "t": " I, will tear and go away; I will take away, and none shall rescue "
         },
         {
           "add": "him"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.",
       "tokens": [
         {
-          "t": "¶ I will go"
+          "t": "¶ I will go "
         },
         {
           "add": "and"
         },
         {
-          "t": "return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early."
+          "t": " return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early. "
         }
       ]
     }

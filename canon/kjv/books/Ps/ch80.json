@@ -1,0 +1,277 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 80,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.",
+      "tokens": [
+        {
+          "t": "Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest "
+        },
+        {
+          "add": "between"
+        },
+        {
+          "t": " the cherubims, shine forth. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Before Ephraim and Benjamin and Manasseh stir up thy strength, and come and save us.",
+      "tokens": [
+        {
+          "t": "Before Ephraim and Benjamin and Manasseh stir up thy strength, and come "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " save us. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Turn us again, O God, and cause thy face to shine; and we shall be saved.",
+      "tokens": [
+        {
+          "t": "Turn us again, O God, and cause thy face to shine; and we shall be saved. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "O LORD God of hosts, how long wilt thou be angry against the prayer of thy people?",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God of hosts, how long wilt thou be angry against the prayer of thy people? "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Thou feedest them with the bread of tears; and givest them tears to drink in great measure.",
+      "tokens": [
+        {
+          "t": "Thou feedest them with the bread of tears; and givest them tears to drink in great measure. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.",
+      "tokens": [
+        {
+          "t": "Thou makest us a strife unto our neighbours: and our enemies laugh among themselves. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved.",
+      "tokens": [
+        {
+          "t": "Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Thou hast brought a vine out of Egypt: thou hast cast out the heathen, and planted it.",
+      "tokens": [
+        {
+          "t": "Thou hast brought a vine out of Egypt: thou hast cast out the heathen, and planted it. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Thou preparedst room before it, and didst cause it to take deep root, and it filled the land.",
+      "tokens": [
+        {
+          "t": "Thou preparedst "
+        },
+        {
+          "add": "room"
+        },
+        {
+          "t": " before it, and didst cause it to take deep root, and it filled the land. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "The hills were covered with the shadow of it, and the boughs thereof were like the goodly cedars.",
+      "tokens": [
+        {
+          "t": "The hills were covered with the shadow of it, and the boughs thereof "
+        },
+        {
+          "add": "were like"
+        },
+        {
+          "t": " the goodly cedars. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "She sent out her boughs unto the sea, and her branches unto the river.",
+      "tokens": [
+        {
+          "t": "She sent out her boughs unto the sea, and her branches unto the river. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Why hast thou then broken down her hedges, so that all they which pass by the way do pluck her?",
+      "tokens": [
+        {
+          "t": "Why hast thou "
+        },
+        {
+          "add": "then"
+        },
+        {
+          "t": " broken down her hedges, so that all they which pass by the way do pluck her? "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "The boar out of the wood doth waste it, and the wild beast of the field doth devour it.",
+      "tokens": [
+        {
+          "t": "The boar out of the wood doth waste it, and the wild beast of the field doth devour it. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Return, we beseech thee, O God of hosts: look down from heaven, and behold, and visit this vine;",
+      "tokens": [
+        {
+          "t": "Return, we beseech thee, O God of hosts: look down from heaven, and behold, and visit this vine; "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "And the vineyard which thy right hand hath planted, and the branch that thou madest strong for thyself.",
+      "tokens": [
+        {
+          "t": "And the vineyard which thy right hand hath planted, and the branch "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " thou madest strong for thyself. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "It is burned with fire, it is cut down: they perish at the rebuke of thy countenance.",
+      "tokens": [
+        {
+          "add": "It is"
+        },
+        {
+          "t": " burned with fire, "
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": " cut down: they perish at the rebuke of thy countenance. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "Let thy hand be upon the man of thy right hand, upon the son of man whom thou madest strong for thyself.",
+      "tokens": [
+        {
+          "t": "Let thy hand be upon the man of thy right hand, upon the son of man "
+        },
+        {
+          "add": "whom"
+        },
+        {
+          "t": " thou madest strong for thyself. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "So will not we go back from thee: quicken us, and we will call upon thy name.",
+      "tokens": [
+        {
+          "t": "So will not we go back from thee: quicken us, and we will call upon thy name. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Turn us again, O LORD God of hosts, cause thy face to shine; and we shall be saved.",
+      "tokens": [
+        {
+          "t": "Turn us again, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " God of hosts, cause thy face to shine; and we shall be saved. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "of: or, for"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "come…: Heb. come for salvation to us"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "be…: Heb. smoke"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 10
+      },
+      "text": "goodly…: Heb. cedars of God"
+    }
+  ]
+}

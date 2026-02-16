@@ -7,413 +7,448 @@
   "verses": [
     {
       "v": 1,
+      "plain": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold.",
       "tokens": [
         {
-          "t": "A"
+          "t": "A "
         },
         {
           "add": "good"
         },
         {
-          "t": "name"
+          "t": " name "
         },
         {
           "add": "is"
         },
         {
-          "t": "rather to be chosen than great riches,"
+          "t": " rather to be chosen than great riches, "
         },
         {
           "add": "and"
         },
         {
-          "t": "loving favour rather than silver and gold."
+          "t": " loving favour rather than silver and gold. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The rich and poor meet together: the LORD is the maker of them all.",
       "tokens": [
         {
-          "t": "The rich and poor meet together: the"
+          "t": "The rich and poor meet together: the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "the maker of them all."
+          "t": " the maker of them all. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.",
       "tokens": [
         {
-          "t": "A prudent"
+          "t": "A prudent "
         },
         {
           "add": "man"
         },
         {
-          "t": "foreseeth the evil, and hideth himself: but the simple pass on, and are punished."
+          "t": " foreseeth the evil, and hideth himself: but the simple pass on, and are punished. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "By humility and the fear of the LORD are riches, and honour, and life.",
       "tokens": [
         {
-          "t": "By humility"
+          "t": "By humility "
         },
         {
           "add": "and"
         },
         {
-          "t": "the fear of the"
+          "t": " the fear of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "are"
         },
         {
-          "t": "riches, and honour, and life."
+          "t": " riches, and honour, and life. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Thorns and snares are in the way of the froward: he that doth keep his soul shall be far from them.",
       "tokens": [
         {
-          "t": "Thorns"
+          "t": "Thorns "
         },
         {
           "add": "and"
         },
         {
-          "t": "snares"
+          "t": " snares "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the way of the froward: he that doth keep his soul shall be far from them."
+          "t": " in the way of the froward: he that doth keep his soul shall be far from them. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
       "tokens": [
         {
-          "t": "Train up a child in the way he should go: and when he is old, he will not depart from it."
+          "t": "Train up a child in the way he should go: and when he is old, he will not depart from it. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The rich ruleth over the poor, and the borrower is servant to the lender.",
       "tokens": [
         {
-          "t": "The rich ruleth over the poor, and the borrower"
+          "t": "The rich ruleth over the poor, and the borrower "
         },
         {
           "add": "is"
         },
         {
-          "t": "servant to the lender."
+          "t": " servant to the lender. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.",
       "tokens": [
         {
-          "t": "He that soweth iniquity shall reap vanity: and the rod of his anger shall fail."
+          "t": "He that soweth iniquity shall reap vanity: and the rod of his anger shall fail. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.",
       "tokens": [
         {
-          "t": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor."
+          "t": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease.",
       "tokens": [
         {
-          "t": "Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease."
+          "t": "Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "He that loveth pureness of heart, for the grace of his lips the king shall be his friend.",
       "tokens": [
         {
-          "t": "He that loveth pureness of heart,"
+          "t": "He that loveth pureness of heart, "
         },
         {
           "add": "for"
         },
         {
-          "t": "the grace of his lips the king"
+          "t": " the grace of his lips the king "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "his friend."
+          "t": " his friend. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor.",
       "tokens": [
         {
-          "t": "The eyes of the"
+          "t": "The eyes of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "preserve knowledge, and he overthroweth the words of the transgressor."
+          "t": " preserve knowledge, and he overthroweth the words of the transgressor. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The slothful man saith, There is a lion without, I shall be slain in the streets.",
       "tokens": [
         {
-          "t": "The slothful"
+          "t": "The slothful "
         },
         {
           "add": "man"
         },
         {
-          "t": "saith,"
+          "t": " saith, "
         },
         {
           "add": "There is"
         },
         {
-          "t": "a lion without, I shall be slain in the streets."
+          "t": " a lion without, I shall be slain in the streets. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.",
       "tokens": [
         {
-          "t": "The mouth of strange women"
+          "t": "The mouth of strange women "
         },
         {
           "add": "is"
         },
         {
-          "t": "a deep pit: he that is abhorred of the"
+          "t": " a deep pit: he that is abhorred of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall fall therein."
+          "t": " shall fall therein. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.",
       "tokens": [
         {
-          "t": "Foolishness"
+          "t": "Foolishness "
         },
         {
           "add": "is"
         },
         {
-          "t": "bound in the heart of a child;"
+          "t": " bound in the heart of a child; "
         },
         {
           "add": "but"
         },
         {
-          "t": "the rod of correction shall drive it far from him."
+          "t": " the rod of correction shall drive it far from him. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.",
       "tokens": [
         {
-          "t": "He that oppresseth the poor to increase his"
+          "t": "He that oppresseth the poor to increase his "
         },
         {
           "add": "riches, and"
         },
         {
-          "t": "he that giveth to the rich,"
+          "t": " he that giveth to the rich, "
         },
         {
           "add": "shall"
         },
         {
-          "t": "surely"
+          "t": " surely "
         },
         {
           "add": "come"
         },
         {
-          "t": "to want."
+          "t": " to want. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.",
       "tokens": [
         {
-          "t": "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge."
+          "t": "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.",
       "tokens": [
         {
-          "t": "For"
+          "t": "For "
         },
         {
           "add": "it is"
         },
         {
-          "t": "a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips."
+          "t": " a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "That thy trust may be in the LORD, I have made known to thee this day, even to thee.",
       "tokens": [
         {
-          "t": "That thy trust may be in the"
+          "t": "That thy trust may be in the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I have made known to thee this day, even to thee."
+          "t": ", I have made known to thee this day, even to thee. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Have not I written to thee excellent things in counsels and knowledge,",
       "tokens": [
         {
-          "t": "Have not I written to thee excellent things in counsels and knowledge,"
+          "t": "Have not I written to thee excellent things in counsels and knowledge, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?",
       "tokens": [
         {
-          "t": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?"
+          "t": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Rob not the poor, because he is poor: neither oppress the afflicted in the gate:",
       "tokens": [
         {
-          "t": "Rob not the poor, because he"
+          "t": "Rob not the poor, because he "
         },
         {
           "add": "is"
         },
         {
-          "t": "poor: neither oppress the afflicted in the gate:"
+          "t": " poor: neither oppress the afflicted in the gate: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For the LORD will plead their cause, and spoil the soul of those that spoiled them.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will plead their cause, and spoil the soul of those that spoiled them."
+          "t": " will plead their cause, and spoil the soul of those that spoiled them. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Make no friendship with an angry man; and with a furious man thou shalt not go:",
       "tokens": [
         {
-          "t": "Make no friendship with an angry man; and with a furious man thou shalt not go:"
+          "t": "Make no friendship with an angry man; and with a furious man thou shalt not go: "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Lest thou learn his ways, and get a snare to thy soul.",
       "tokens": [
         {
-          "t": "Lest thou learn his ways, and get a snare to thy soul."
+          "t": "Lest thou learn his ways, and get a snare to thy soul. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Be not thou one of them that strike hands, or of them that are sureties for debts.",
       "tokens": [
         {
-          "t": "Be not thou"
+          "t": "Be not thou "
         },
         {
           "add": "one"
         },
         {
-          "t": "of them that strike hands,"
+          "t": " of them that strike hands, "
         },
         {
           "add": "or"
         },
         {
-          "t": "of them that are sureties for debts."
+          "t": " of them that are sureties for debts. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "If thou hast nothing to pay, why should he take away thy bed from under thee?",
       "tokens": [
         {
-          "t": "If thou hast nothing to pay, why should he take away thy bed from under thee?"
+          "t": "If thou hast nothing to pay, why should he take away thy bed from under thee? "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Remove not the ancient landmark, which thy fathers have set.",
       "tokens": [
         {
-          "t": "Remove not the ancient landmark, which thy fathers have set."
+          "t": "Remove not the ancient landmark, which thy fathers have set. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.",
       "tokens": [
         {
-          "t": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean"
+          "t": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean "
         },
         {
           "add": "men"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

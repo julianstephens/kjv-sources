@@ -7,437 +7,469 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, that this word came unto Jeremiah from the LORD, saying,",
       "tokens": [
         {
-          "t": "And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah,"
+          "t": "And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, "
         },
         {
           "add": "that"
         },
         {
-          "t": "this word came unto Jeremiah from the"
+          "t": " this word came unto Jeremiah from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", saying,"
+          "t": ", saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Take thee a roll of a book, and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spake unto thee, from the days of Josiah, even unto this day.",
       "tokens": [
         {
-          "t": "Take thee a roll of a book, and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spake unto thee, from the days of Josiah, even unto this day."
+          "t": "Take thee a roll of a book, and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spake unto thee, from the days of Josiah, even unto this day. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "It may be that the house of Judah will hear all the evil which I purpose to do unto them; that they may return every man from his evil way; that I may forgive their iniquity and their sin.",
       "tokens": [
         {
-          "t": "It may be that the house of Judah will hear all the evil which I purpose to do unto them; that they may return every man from his evil way; that I may forgive their iniquity and their sin."
+          "t": "It may be that the house of Judah will hear all the evil which I purpose to do unto them; that they may return every man from his evil way; that I may forgive their iniquity and their sin. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then Jeremiah called Baruch the son of Neriah: and Baruch wrote from the mouth of Jeremiah all the words of the LORD, which he had spoken unto him, upon a roll of a book.",
       "tokens": [
         {
-          "t": "Then Jeremiah called Baruch the son of Neriah: and Baruch wrote from the mouth of Jeremiah all the words of the"
+          "t": "Then Jeremiah called Baruch the son of Neriah: and Baruch wrote from the mouth of Jeremiah all the words of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which he had spoken unto him, upon a roll of a book."
+          "t": ", which he had spoken unto him, upon a roll of a book. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Jeremiah commanded Baruch, saying, I am shut up; I cannot go into the house of the LORD:",
       "tokens": [
         {
-          "t": "And Jeremiah commanded Baruch, saying, I"
+          "t": "And Jeremiah commanded Baruch, saying, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "shut up; I cannot go into the house of the"
+          "t": " shut up; I cannot go into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the LORD in the ears of the people in the LORD’s house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities.",
       "tokens": [
         {
-          "t": "Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the"
+          "t": "Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in the ears of the people in the"
+          "t": " in the ears of the people in the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities."
+          "t": " house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "It may be they will present their supplication before the LORD, and will return every one from his evil way: for great is the anger and the fury that the LORD hath pronounced against this people.",
       "tokens": [
         {
-          "t": "It may be they will present their supplication before the"
+          "t": "It may be they will present their supplication before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and will return every one from his evil way: for great"
+          "t": ", and will return every one from his evil way: for great "
         },
         {
           "add": "is"
         },
         {
-          "t": "the anger and the fury that the"
+          "t": " the anger and the fury that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath pronounced against this people."
+          "t": " hath pronounced against this people. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of the LORD in the LORD’s house.",
       "tokens": [
         {
-          "t": "And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of the"
+          "t": "And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in the"
+          "t": " in the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "house."
+          "t": " house. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And it came to pass in the fifth year of Jehoiakim the son of Josiah king of Judah, in the ninth month, that they proclaimed a fast before the LORD to all the people in Jerusalem, and to all the people that came from the cities of Judah unto Jerusalem.",
       "tokens": [
         {
-          "t": "And it came to pass in the fifth year of Jehoiakim the son of Josiah king of Judah, in the ninth month,"
+          "t": "And it came to pass in the fifth year of Jehoiakim the son of Josiah king of Judah, in the ninth month, "
         },
         {
           "add": "that"
         },
         {
-          "t": "they proclaimed a fast before the"
+          "t": " they proclaimed a fast before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "to all the people in Jerusalem, and to all the people that came from the cities of Judah unto Jerusalem."
+          "t": " to all the people in Jerusalem, and to all the people that came from the cities of Judah unto Jerusalem. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then read Baruch in the book the words of Jeremiah in the house of the LORD, in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of the LORD’s house, in the ears of all the people.",
       "tokens": [
         {
-          "t": "Then read Baruch in the book the words of Jeremiah in the house of the"
+          "t": "Then read Baruch in the book the words of Jeremiah in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of the"
+          "t": ", in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "house, in the ears of all the people."
+          "t": " house, in the ears of all the people. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the LORD,",
       "tokens": [
         {
-          "t": "¶ When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the"
+          "t": "¶ When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Then he went down into the king’s house, into the scribe’s chamber: and, lo, all the princes sat there, even Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.",
       "tokens": [
         {
-          "t": "Then he went down into the king’s house, into the scribe’s chamber: and, lo, all the princes sat there,"
+          "t": "Then he went down into the king’s house, into the scribe’s chamber: and, lo, all the princes sat there, "
         },
         {
           "add": "even"
         },
         {
-          "t": "Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes."
+          "t": " Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people.",
       "tokens": [
         {
-          "t": "Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people."
+          "t": "Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Therefore all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah, the son of Cushi, unto Baruch, saying, Take in thine hand the roll wherein thou hast read in the ears of the people, and come. So Baruch the son of Neriah took the roll in his hand, and came unto them.",
       "tokens": [
         {
-          "t": "Therefore all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah, the son of Cushi, unto Baruch, saying, Take in thine hand the roll wherein thou hast read in the ears of the people, and come. So Baruch the son of Neriah took the roll in his hand, and came unto them."
+          "t": "Therefore all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah, the son of Cushi, unto Baruch, saying, Take in thine hand the roll wherein thou hast read in the ears of the people, and come. So Baruch the son of Neriah took the roll in his hand, and came unto them. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And they said unto him, Sit down now, and read it in our ears. So Baruch read it in their ears.",
       "tokens": [
         {
-          "t": "And they said unto him, Sit down now, and read it in our ears. So Baruch read"
+          "t": "And they said unto him, Sit down now, and read it in our ears. So Baruch read "
         },
         {
           "add": "it"
         },
         {
-          "t": "in their ears."
+          "t": " in their ears. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Now it came to pass, when they had heard all the words, they were afraid both one and other, and said unto Baruch, We will surely tell the king of all these words.",
       "tokens": [
         {
-          "t": "Now it came to pass, when they had heard all the words, they were afraid both one and other, and said unto Baruch, We will surely tell the king of all these words."
+          "t": "Now it came to pass, when they had heard all the words, they were afraid both one and other, and said unto Baruch, We will surely tell the king of all these words. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth?",
       "tokens": [
         {
-          "t": "And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth?"
+          "t": "And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Then Baruch answered them, He pronounced all these words unto me with his mouth, and I wrote them with ink in the book.",
       "tokens": [
         {
-          "t": "Then Baruch answered them, He pronounced all these words unto me with his mouth, and I wrote"
+          "t": "Then Baruch answered them, He pronounced all these words unto me with his mouth, and I wrote "
         },
         {
           "add": "them"
         },
         {
-          "t": "with ink in the book."
+          "t": " with ink in the book. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Then said the princes unto Baruch, Go, hide thee, thou and Jeremiah; and let no man know where ye be.",
       "tokens": [
         {
-          "t": "Then said the princes unto Baruch, Go, hide thee, thou and Jeremiah; and let no man know where ye be."
+          "t": "Then said the princes unto Baruch, Go, hide thee, thou and Jeremiah; and let no man know where ye be. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king.",
       "tokens": [
         {
-          "t": "¶ And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king."
+          "t": "¶ And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "So the king sent Jehudi to fetch the roll: and he took it out of Elishama the scribe’s chamber. And Jehudi read it in the ears of the king, and in the ears of all the princes which stood beside the king.",
       "tokens": [
         {
-          "t": "So the king sent Jehudi to fetch the roll: and he took it out of Elishama the scribe’s chamber. And Jehudi read it in the ears of the king, and in the ears of all the princes which stood beside the king."
+          "t": "So the king sent Jehudi to fetch the roll: and he took it out of Elishama the scribe’s chamber. And Jehudi read it in the ears of the king, and in the ears of all the princes which stood beside the king. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Now the king sat in the winterhouse in the ninth month: and there was a fire on the hearth burning before him.",
       "tokens": [
         {
-          "t": "Now the king sat in the winterhouse in the ninth month: and"
+          "t": "Now the king sat in the winterhouse in the ninth month: and "
         },
         {
           "add": "there was a fire"
         },
         {
-          "t": "on the hearth burning before him."
+          "t": " on the hearth burning before him. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And it came to pass, that when Jehudi had read three or four leaves, he cut it with the penknife, and cast it into the fire that was on the hearth, until all the roll was consumed in the fire that was on the hearth.",
       "tokens": [
         {
-          "t": "And it came to pass,"
+          "t": "And it came to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "when Jehudi had read three or four leaves, he cut it with the penknife, and cast"
+          "t": " when Jehudi had read three or four leaves, he cut it with the penknife, and cast "
         },
         {
           "add": "it"
         },
         {
-          "t": "into the fire that"
+          "t": " into the fire that "
         },
         {
           "add": "was"
         },
         {
-          "t": "on the hearth, until all the roll was consumed in the fire that"
+          "t": " on the hearth, until all the roll was consumed in the fire that "
         },
         {
           "add": "was"
         },
         {
-          "t": "on the hearth."
+          "t": " on the hearth. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Yet they were not afraid, nor rent their garments, neither the king, nor any of his servants that heard all these words.",
       "tokens": [
         {
-          "t": "Yet they were not afraid, nor rent their garments,"
+          "t": "Yet they were not afraid, nor rent their garments, "
         },
         {
           "add": "neither"
         },
         {
-          "t": "the king, nor any of his servants that heard all these words."
+          "t": " the king, nor any of his servants that heard all these words. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them.",
       "tokens": [
         {
-          "t": "Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them."
+          "t": "Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "But the king commanded Jerahmeel the son of Hammelech, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet: but the LORD hid them.",
       "tokens": [
         {
-          "t": "But the king commanded Jerahmeel the son of Hammelech, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet: but the"
+          "t": "But the king commanded Jerahmeel the son of Hammelech, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet: but the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hid them."
+          "t": " hid them. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ Then the word of the LORD came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,",
       "tokens": [
         {
-          "t": "¶ Then the word of the"
+          "t": "¶ Then the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,"
+          "t": " came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying, "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Take thee again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah hath burned.",
       "tokens": [
         {
-          "t": "Take thee again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah hath burned."
+          "t": "Take thee again another roll, and write in it all the former words that were in the first roll, which Jehoiakim the king of Judah hath burned. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And thou shalt say to Jehoiakim king of Judah, Thus saith the LORD; Thou hast burned this roll, saying, Why hast thou written therein, saying, The king of Babylon shall certainly come and destroy this land, and shall cause to cease from thence man and beast?",
       "tokens": [
         {
-          "t": "And thou shalt say to Jehoiakim king of Judah, Thus saith the"
+          "t": "And thou shalt say to Jehoiakim king of Judah, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; Thou hast burned this roll, saying, Why hast thou written therein, saying, The king of Babylon shall certainly come and destroy this land, and shall cause to cease from thence man and beast?"
+          "t": "; Thou hast burned this roll, saying, Why hast thou written therein, saying, The king of Babylon shall certainly come and destroy this land, and shall cause to cease from thence man and beast? "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Therefore thus saith the LORD of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost.",
       "tokens": [
         {
-          "t": "Therefore thus saith the"
+          "t": "Therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost."
+          "t": " of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And I will punish him and his seed and his servants for their iniquity; and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah, all the evil that I have pronounced against them; but they hearkened not.",
       "tokens": [
         {
-          "t": "And I will punish him and his seed and his servants for their iniquity; and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah, all the evil that I have pronounced against them; but they hearkened not."
+          "t": "And I will punish him and his seed and his servants for their iniquity; and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah, all the evil that I have pronounced against them; but they hearkened not. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "¶ Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and there were added besides unto them many like words.",
       "tokens": [
         {
-          "t": "¶ Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and there were added besides unto them many like words."
+          "t": "¶ Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and there were added besides unto them many like words. "
         }
       ]
     }

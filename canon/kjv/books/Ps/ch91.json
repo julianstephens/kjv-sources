@@ -1,0 +1,272 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 91,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.",
+      "tokens": [
+        {
+          "t": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.",
+      "tokens": [
+        {
+          "t": "I will say of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", "
+        },
+        {
+          "add": "He is"
+        },
+        {
+          "t": " my refuge and my fortress: my God; in him will I trust. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.",
+      "tokens": [
+        {
+          "t": "Surely he shall deliver thee from the snare of the fowler, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " from the noisome pestilence. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.",
+      "tokens": [
+        {
+          "t": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth "
+        },
+        {
+          "add": "shall be thy"
+        },
+        {
+          "t": " shield and buckler. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;",
+      "tokens": [
+        {
+          "t": "Thou shalt not be afraid for the terror by night; "
+        },
+        {
+          "add": "nor"
+        },
+        {
+          "t": " for the arrow "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " flieth by day; "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.",
+      "tokens": [
+        {
+          "add": "Nor"
+        },
+        {
+          "t": " for the pestilence "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " walketh in darkness; "
+        },
+        {
+          "add": "nor"
+        },
+        {
+          "t": " for the destruction "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " wasteth at noonday. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.",
+      "tokens": [
+        {
+          "t": "A thousand shall fall at thy side, and ten thousand at thy right hand; "
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": " it shall not come nigh thee. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Only with thine eyes shalt thou behold and see the reward of the wicked.",
+      "tokens": [
+        {
+          "t": "Only with thine eyes shalt thou behold and see the reward of the wicked. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Because thou hast made the LORD, which is my refuge, even the most High, thy habitation;",
+      "tokens": [
+        {
+          "t": "Because thou hast made the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", "
+        },
+        {
+          "add": "which is"
+        },
+        {
+          "t": " my refuge, "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " the most High, thy habitation; "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "There shall no evil befall thee, neither shall any plague come nigh thy dwelling.",
+      "tokens": [
+        {
+          "t": "There shall no evil befall thee, neither shall any plague come nigh thy dwelling. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "For he shall give his angels charge over thee, to keep thee in all thy ways.",
+      "tokens": [
+        {
+          "t": "For he shall give his angels charge over thee, to keep thee in all thy ways. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "They shall bear thee up in their hands, lest thou dash thy foot against a stone.",
+      "tokens": [
+        {
+          "t": "They shall bear thee up in "
+        },
+        {
+          "add": "their"
+        },
+        {
+          "t": " hands, lest thou dash thy foot against a stone. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.",
+      "tokens": [
+        {
+          "t": "Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.",
+      "tokens": [
+        {
+          "t": "Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.",
+      "tokens": [
+        {
+          "t": "He shall call upon me, and I will answer him: I "
+        },
+        {
+          "add": "will be"
+        },
+        {
+          "t": " with him in trouble; I will deliver him, and honour him. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "With long life will I satisfy him, and shew him my salvation.",
+      "tokens": [
+        {
+          "t": "With long life will I satisfy him, and shew him my salvation. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "abide: Heb. lodge"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 13
+      },
+      "text": "adder: or, asp"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 16
+      },
+      "text": "long…: Heb. length of days"
+    }
+  ]
+}

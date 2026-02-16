@@ -7,568 +7,658 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And he went out from thence, and came into his own country; and his disciples follow him.",
       "tokens": [
         {
-          "t": "And he went out from thence, and came into his own country; and his disciples follow him."
+          "t": "And he went out from thence, and came into his own country; and his disciples follow him. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?",
       "tokens": [
         {
-          "t": "And when the sabbath day was come, he began to teach in the synagogue: and many hearing"
+          "t": "And when the sabbath day was come, he began to teach in the synagogue: and many hearing "
         },
         {
           "add": "him"
         },
         {
-          "t": "were astonished, saying, From whence hath this"
+          "t": " were astonished, saying, From whence hath this "
         },
         {
           "add": "man"
         },
         {
-          "t": "these things? and what wisdom"
+          "t": " these things? and what wisdom "
         },
         {
           "add": "is"
         },
         {
-          "t": "this which is given unto him, that even such mighty works are wrought by his hands?"
+          "t": " this which is given unto him, that even such mighty works are wrought by his hands? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.",
       "tokens": [
         {
-          "t": "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him."
+          "t": "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.",
       "tokens": [
         {
-          "t": "But Jesus said unto them,"
+          "t": "But Jesus said unto them, "
+        },
+        {
+          "t": "A prophet is not without honour, but in his own country, and among his own kin, and in his own house."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.",
       "tokens": [
         {
-          "t": "And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed"
+          "t": "And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he marvelled because of their unbelief. And he went round about the villages, teaching.",
       "tokens": [
         {
-          "t": "And he marvelled because of their unbelief. And he went round about the villages, teaching."
+          "t": "And he marvelled because of their unbelief. And he went round about the villages, teaching. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;",
       "tokens": [
         {
-          "t": "¶ And he called"
+          "t": "¶ And he called "
         },
         {
           "add": "unto him"
         },
         {
-          "t": "the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;"
+          "t": " the twelve, and began to send them forth by two and two; and gave them power over unclean spirits; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And commanded them that they should take nothing for their journey, save a staff only; no scrip, no bread, no money in their purse:",
       "tokens": [
         {
-          "t": "And commanded them that they should take nothing for"
+          "t": "And commanded them that they should take nothing for "
         },
         {
           "add": "their"
         },
         {
-          "t": "journey, save a staff only; no scrip, no bread, no money in"
+          "t": " journey, save a staff only; no scrip, no bread, no money in "
         },
         {
           "add": "their"
         },
         {
-          "t": "purse:"
+          "t": " purse: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "But be shod with sandals; and not put on two coats.",
       "tokens": [
         {
-          "t": "But"
+          "t": "But "
         },
         {
           "add": "be"
         },
         {
-          "t": "shod with sandals; and not put on two coats."
+          "t": " shod with sandals; and not put on two coats. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "In what place soever ye enter into an house, there abide till ye depart from that place."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.",
+      "tokens": [
+        {
+          "t": "And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
+      "plain": "And they went out, and preached that men should repent.",
       "tokens": [
         {
-          "t": "And they went out, and preached that men should repent."
+          "t": "And they went out, and preached that men should repent. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And they cast out many devils, and anointed with oil many that were sick, and healed them.",
       "tokens": [
         {
-          "t": "And they cast out many devils, and anointed with oil many that were sick, and healed"
+          "t": "And they cast out many devils, and anointed with oil many that were sick, and healed "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And king Herod heard of him; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.",
       "tokens": [
         {
-          "t": "And king Herod heard"
+          "t": "And king Herod heard "
         },
         {
           "add": "of him"
         },
         {
-          "t": "; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him."
+          "t": "; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.",
       "tokens": [
         {
-          "t": "Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets."
+          "t": "Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "But when Herod heard thereof, he said, It is John, whom I beheaded: he is risen from the dead.",
       "tokens": [
         {
-          "t": "But when Herod heard"
+          "t": "But when Herod heard "
         },
         {
           "add": "thereof"
         },
         {
-          "t": ", he said, It is John, whom I beheaded: he is risen from the dead."
+          "t": ", he said, It is John, whom I beheaded: he is risen from the dead. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias’ sake, his brother Philip’s wife: for he had married her.",
       "tokens": [
         {
-          "t": "For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias’ sake, his brother Philip’s wife: for he had married her."
+          "t": "For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias’ sake, his brother Philip’s wife: for he had married her. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For John had said unto Herod, It is not lawful for thee to have thy brother’s wife.",
       "tokens": [
         {
-          "t": "For John had said unto Herod, It is not lawful for thee to have thy brother’s wife."
+          "t": "For John had said unto Herod, It is not lawful for thee to have thy brother’s wife. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Therefore Herodias had a quarrel against him, and would have killed him; but she could not:",
       "tokens": [
         {
-          "t": "Therefore Herodias had a quarrel against him, and would have killed him; but she could not:"
+          "t": "Therefore Herodias had a quarrel against him, and would have killed him; but she could not: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly.",
       "tokens": [
         {
-          "t": "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly."
+          "t": "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief estates of Galilee;",
       "tokens": [
         {
-          "t": "And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief"
+          "t": "And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief "
         },
         {
           "add": "estates"
         },
         {
-          "t": "of Galilee;"
+          "t": " of Galilee; "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give it thee.",
       "tokens": [
         {
-          "t": "And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give"
+          "t": "And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give "
         },
         {
           "add": "it"
         },
         {
-          "t": "thee."
+          "t": " thee. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom.",
       "tokens": [
         {
-          "t": "And he sware unto her, Whatsoever thou shalt ask of me, I will give"
+          "t": "And he sware unto her, Whatsoever thou shalt ask of me, I will give "
         },
         {
           "add": "it"
         },
         {
-          "t": "thee, unto the half of my kingdom."
+          "t": " thee, unto the half of my kingdom. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist.",
       "tokens": [
         {
-          "t": "And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist."
+          "t": "And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist.",
       "tokens": [
         {
-          "t": "And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist."
+          "t": "And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And the king was exceeding sorry; yet for his oath’s sake, and for their sakes which sat with him, he would not reject her.",
       "tokens": [
         {
-          "t": "And the king was exceeding sorry;"
+          "t": "And the king was exceeding sorry; "
         },
         {
           "add": "yet"
         },
         {
-          "t": "for his oath’s sake, and for their sakes which sat with him, he would not reject her."
+          "t": " for his oath’s sake, and for their sakes which sat with him, he would not reject her. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,",
       "tokens": [
         {
-          "t": "And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,"
+          "t": "And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison, "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother.",
       "tokens": [
         {
-          "t": "And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother."
+          "t": "And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And when his disciples heard of it, they came and took up his corpse, and laid it in a tomb.",
       "tokens": [
         {
-          "t": "And when his disciples heard"
+          "t": "And when his disciples heard "
         },
         {
           "add": "of it"
         },
         {
-          "t": ", they came and took up his corpse, and laid it in a tomb."
+          "t": ", they came and took up his corpse, and laid it in a tomb. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.",
       "tokens": [
         {
-          "t": "And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught."
+          "t": "And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.",
       "tokens": [
         {
-          "t": "for there were many coming and going, and they had no leisure so much as to eat."
+          "t": "And he said unto them, "
         },
         {
-          "t": "And he said unto them, for there were many coming and going, and they had no leisure so much as to eat."
+          "t": "Come ye yourselves apart into a desert place, and rest a while:"
+        },
+        {
+          "t": " for there were many coming and going, and they had no leisure so much as to eat. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And they departed into a desert place by ship privately.",
       "tokens": [
         {
-          "t": "And they departed into a desert place by ship privately."
+          "t": "And they departed into a desert place by ship privately. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.",
       "tokens": [
         {
-          "t": "And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him."
+          "t": "And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.",
       "tokens": [
         {
-          "t": "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things."
+          "t": "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time is far passed:",
       "tokens": [
         {
-          "t": "And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time"
+          "t": "And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time "
         },
         {
           "add": "is"
         },
         {
-          "t": "far passed:"
+          "t": " far passed: "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat.",
       "tokens": [
         {
-          "t": "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat."
+          "t": "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?",
       "tokens": [
         {
-          "t": "And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?"
+          "t": "He answered and said unto them, "
         },
         {
-          "t": "He answered and said unto them, And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?"
+          "t": "Give ye them to eat."
+        },
+        {
+          "t": " And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat? "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "He saith unto them, How many loaves have ye? go and see. And when they knew, they say, Five, and two fishes.",
       "tokens": [
         {
-          "t": "And when they knew, they say, Five, and two fishes."
+          "t": "He saith unto them, "
         },
         {
-          "t": "He saith unto them, And when they knew, they say, Five, and two fishes."
+          "t": "How many loaves have ye? go and see."
+        },
+        {
+          "t": " And when they knew, they say, Five, and two fishes. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And he commanded them to make all sit down by companies upon the green grass.",
       "tokens": [
         {
-          "t": "And he commanded them to make all sit down by companies upon the green grass."
+          "t": "And he commanded them to make all sit down by companies upon the green grass. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And they sat down in ranks, by hundreds, and by fifties.",
       "tokens": [
         {
-          "t": "And they sat down in ranks, by hundreds, and by fifties."
+          "t": "And they sat down in ranks, by hundreds, and by fifties. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave them to his disciples to set before them; and the two fishes divided he among them all.",
       "tokens": [
         {
-          "t": "And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave"
+          "t": "And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave "
         },
         {
           "add": "them"
         },
         {
-          "t": "to his disciples to set before them; and the two fishes divided he among them all."
+          "t": " to his disciples to set before them; and the two fishes divided he among them all. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And they did all eat, and were filled.",
       "tokens": [
         {
-          "t": "And they did all eat, and were filled."
+          "t": "And they did all eat, and were filled. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "And they took up twelve baskets full of the fragments, and of the fishes.",
       "tokens": [
         {
-          "t": "And they took up twelve baskets full of the fragments, and of the fishes."
+          "t": "And they took up twelve baskets full of the fragments, and of the fishes. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And they that did eat of the loaves were about five thousand men.",
       "tokens": [
         {
-          "t": "And they that did eat of the loaves were about five thousand men."
+          "t": "And they that did eat of the loaves were about five thousand men. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.",
       "tokens": [
         {
-          "t": "And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people."
+          "t": "And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people. "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "And when he had sent them away, he departed into a mountain to pray.",
       "tokens": [
         {
-          "t": "And when he had sent them away, he departed into a mountain to pray."
+          "t": "And when he had sent them away, he departed into a mountain to pray. "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "And when even was come, the ship was in the midst of the sea, and he alone on the land.",
       "tokens": [
         {
-          "t": "And when even was come, the ship was in the midst of the sea, and he alone on the land."
+          "t": "And when even was come, the ship was in the midst of the sea, and he alone on the land. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.",
       "tokens": [
         {
-          "t": "And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them."
+          "t": "And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them. "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out:",
       "tokens": [
         {
-          "t": "But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out:"
+          "t": "But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out: "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer: it is I; be not afraid.",
       "tokens": [
         {
-          "t": "For they all saw him, and were troubled. And immediately he talked with them, and saith unto them,"
+          "t": "For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, "
+        },
+        {
+          "t": "Be of good cheer: it is I; be not afraid."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "And he went up unto them into the ship; and the wind ceased: and they were sore amazed in themselves beyond measure, and wondered.",
       "tokens": [
         {
-          "t": "And he went up unto them into the ship; and the wind ceased: and they were sore amazed in themselves beyond measure, and wondered."
+          "t": "And he went up unto them into the ship; and the wind ceased: and they were sore amazed in themselves beyond measure, and wondered. "
         }
       ]
     },
     {
       "v": 52,
+      "plain": "For they considered not the miracle of the loaves: for their heart was hardened.",
       "tokens": [
         {
-          "t": "For they considered not"
+          "t": "For they considered not "
         },
         {
           "add": "the miracle"
         },
         {
-          "t": "of the loaves: for their heart was hardened."
+          "t": " of the loaves: for their heart was hardened. "
         }
       ]
     },
     {
       "v": 53,
+      "plain": "And when they had passed over, they came into the land of Gennesaret, and drew to the shore.",
       "tokens": [
         {
-          "t": "And when they had passed over, they came into the land of Gennesaret, and drew to the shore."
+          "t": "And when they had passed over, they came into the land of Gennesaret, and drew to the shore. "
         }
       ]
     },
     {
       "v": 54,
+      "plain": "And when they were come out of the ship, straightway they knew him,",
       "tokens": [
         {
-          "t": "And when they were come out of the ship, straightway they knew him,"
+          "t": "And when they were come out of the ship, straightway they knew him, "
         }
       ]
     },
     {
       "v": 55,
+      "plain": "And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was.",
       "tokens": [
         {
-          "t": "And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was."
+          "t": "And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was. "
         }
       ]
     },
     {
       "v": 56,
+      "plain": "And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole.",
       "tokens": [
         {
-          "t": "And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole."
+          "t": "And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole. "
         }
       ]
     }

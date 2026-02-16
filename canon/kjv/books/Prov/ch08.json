@@ -7,442 +7,481 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Doth not wisdom cry? and understanding put forth her voice?",
       "tokens": [
         {
-          "t": "Doth not wisdom cry? and understanding put forth her voice?"
+          "t": "Doth not wisdom cry? and understanding put forth her voice? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "She standeth in the top of high places, by the way in the places of the paths.",
       "tokens": [
         {
-          "t": "She standeth in the top of high places, by the way in the places of the paths."
+          "t": "She standeth in the top of high places, by the way in the places of the paths. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "She crieth at the gates, at the entry of the city, at the coming in at the doors.",
       "tokens": [
         {
-          "t": "She crieth at the gates, at the entry of the city, at the coming in at the doors."
+          "t": "She crieth at the gates, at the entry of the city, at the coming in at the doors. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Unto you, O men, I call; and my voice is to the sons of man.",
       "tokens": [
         {
-          "t": "Unto you, O men, I call; and my voice"
+          "t": "Unto you, O men, I call; and my voice "
         },
         {
           "add": "is"
         },
         {
-          "t": "to the sons of man."
+          "t": " to the sons of man. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.",
       "tokens": [
         {
-          "t": "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart."
+          "t": "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Hear; for I will speak of excellent things; and the opening of my lips shall be right things.",
       "tokens": [
         {
-          "t": "Hear; for I will speak of excellent things; and the opening of my lips"
+          "t": "Hear; for I will speak of excellent things; and the opening of my lips "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "right things."
+          "t": " right things. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "For my mouth shall speak truth; and wickedness is an abomination to my lips.",
       "tokens": [
         {
-          "t": "For my mouth shall speak truth; and wickedness"
+          "t": "For my mouth shall speak truth; and wickedness "
         },
         {
           "add": "is"
         },
         {
-          "t": "an abomination to my lips."
+          "t": " an abomination to my lips. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "All the words of my mouth are in righteousness; there is nothing froward or perverse in them.",
       "tokens": [
         {
-          "t": "All the words of my mouth"
+          "t": "All the words of my mouth "
         },
         {
           "add": "are"
         },
         {
-          "t": "in righteousness;"
+          "t": " in righteousness; "
         },
         {
           "add": "there is"
         },
         {
-          "t": "nothing froward or perverse in them."
+          "t": " nothing froward or perverse in them. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "They are all plain to him that understandeth, and right to them that find knowledge.",
       "tokens": [
         {
-          "t": "They"
+          "t": "They "
         },
         {
           "add": "are"
         },
         {
-          "t": "all plain to him that understandeth, and right to them that find knowledge."
+          "t": " all plain to him that understandeth, and right to them that find knowledge. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Receive my instruction, and not silver; and knowledge rather than choice gold.",
       "tokens": [
         {
-          "t": "Receive my instruction, and not silver; and knowledge rather than choice gold."
+          "t": "Receive my instruction, and not silver; and knowledge rather than choice gold. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.",
       "tokens": [
         {
-          "t": "For wisdom"
+          "t": "For wisdom "
         },
         {
           "add": "is"
         },
         {
-          "t": "better than rubies; and all the things that may be desired are not to be compared to it."
+          "t": " better than rubies; and all the things that may be desired are not to be compared to it. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "I wisdom dwell with prudence, and find out knowledge of witty inventions.",
       "tokens": [
         {
-          "t": "I wisdom dwell with prudence, and find out knowledge of witty inventions."
+          "t": "I wisdom dwell with prudence, and find out knowledge of witty inventions. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.",
       "tokens": [
         {
-          "t": "The fear of the"
+          "t": "The fear of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate."
+          "t": " to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Counsel is mine, and sound wisdom: I am understanding; I have strength.",
       "tokens": [
         {
-          "t": "Counsel"
+          "t": "Counsel "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine, and sound wisdom: I"
+          "t": " mine, and sound wisdom: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "understanding; I have strength."
+          "t": " understanding; I have strength. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "By me kings reign, and princes decree justice.",
       "tokens": [
         {
-          "t": "By me kings reign, and princes decree justice."
+          "t": "By me kings reign, and princes decree justice. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "By me princes rule, and nobles, even all the judges of the earth.",
       "tokens": [
         {
-          "t": "By me princes rule, and nobles,"
+          "t": "By me princes rule, and nobles, "
         },
         {
           "add": "even"
         },
         {
-          "t": "all the judges of the earth."
+          "t": " all the judges of the earth. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "I love them that love me; and those that seek me early shall find me.",
       "tokens": [
         {
-          "t": "I love them that love me; and those that seek me early shall find me."
+          "t": "I love them that love me; and those that seek me early shall find me. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Riches and honour are with me; yea, durable riches and righteousness.",
       "tokens": [
         {
-          "t": "Riches and honour"
+          "t": "Riches and honour "
         },
         {
           "add": "are"
         },
         {
-          "t": "with me;"
+          "t": " with me; "
         },
         {
           "add": "yea"
         },
         {
-          "t": ", durable riches and righteousness."
+          "t": ", durable riches and righteousness. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.",
       "tokens": [
         {
-          "t": "My fruit"
+          "t": "My fruit "
         },
         {
           "add": "is"
         },
         {
-          "t": "better than gold, yea, than fine gold; and my revenue than choice silver."
+          "t": " better than gold, yea, than fine gold; and my revenue than choice silver. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "I lead in the way of righteousness, in the midst of the paths of judgment:",
       "tokens": [
         {
-          "t": "I lead in the way of righteousness, in the midst of the paths of judgment:"
+          "t": "I lead in the way of righteousness, in the midst of the paths of judgment: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "That I may cause those that love me to inherit substance; and I will fill their treasures.",
       "tokens": [
         {
-          "t": "That I may cause those that love me to inherit substance; and I will fill their treasures."
+          "t": "That I may cause those that love me to inherit substance; and I will fill their treasures. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The LORD possessed me in the beginning of his way, before his works of old.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "possessed me in the beginning of his way, before his works of old."
+          "t": " possessed me in the beginning of his way, before his works of old. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "I was set up from everlasting, from the beginning, or ever the earth was.",
       "tokens": [
         {
-          "t": "I was set up from everlasting, from the beginning, or ever the earth was."
+          "t": "I was set up from everlasting, from the beginning, or ever the earth was. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "When there were no depths, I was brought forth; when there were no fountains abounding with water.",
       "tokens": [
         {
-          "t": "When"
+          "t": "When "
         },
         {
           "add": "there were"
         },
         {
-          "t": "no depths, I was brought forth; when"
+          "t": " no depths, I was brought forth; when "
         },
         {
           "add": "there were"
         },
         {
-          "t": "no fountains abounding with water."
+          "t": " no fountains abounding with water. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Before the mountains were settled, before the hills was I brought forth:",
       "tokens": [
         {
-          "t": "Before the mountains were settled, before the hills was I brought forth:"
+          "t": "Before the mountains were settled, before the hills was I brought forth: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.",
       "tokens": [
         {
-          "t": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world."
+          "t": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "When he prepared the heavens, I was there: when he set a compass upon the face of the depth:",
       "tokens": [
         {
-          "t": "When he prepared the heavens, I"
+          "t": "When he prepared the heavens, I "
         },
         {
           "add": "was"
         },
         {
-          "t": "there: when he set a compass upon the face of the depth:"
+          "t": " there: when he set a compass upon the face of the depth: "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "When he established the clouds above: when he strengthened the fountains of the deep:",
       "tokens": [
         {
-          "t": "When he established the clouds above: when he strengthened the fountains of the deep:"
+          "t": "When he established the clouds above: when he strengthened the fountains of the deep: "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:",
       "tokens": [
         {
-          "t": "When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:"
+          "t": "When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth: "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;",
       "tokens": [
         {
-          "t": "Then I was by him,"
+          "t": "Then I was by him, "
         },
         {
           "add": "as"
         },
         {
-          "t": "one brought up"
+          "t": " one brought up "
         },
         {
           "add": "with him:"
         },
         {
-          "t": "and I was daily"
+          "t": " and I was daily "
         },
         {
           "add": "his"
         },
         {
-          "t": "delight, rejoicing always before him;"
+          "t": " delight, rejoicing always before him; "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Rejoicing in the habitable part of his earth; and my delights were with the sons of men.",
       "tokens": [
         {
-          "t": "Rejoicing in the habitable part of his earth; and my delights"
+          "t": "Rejoicing in the habitable part of his earth; and my delights "
         },
         {
           "add": "were"
         },
         {
-          "t": "with the sons of men."
+          "t": " with the sons of men. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.",
       "tokens": [
         {
-          "t": "Now therefore hearken unto me, O ye children: for blessed"
+          "t": "Now therefore hearken unto me, O ye children: for blessed "
         },
         {
           "add": "are they that"
         },
         {
-          "t": "keep my ways."
+          "t": " keep my ways. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Hear instruction, and be wise, and refuse it not.",
       "tokens": [
         {
-          "t": "Hear instruction, and be wise, and refuse it not."
+          "t": "Hear instruction, and be wise, and refuse it not. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors.",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "is"
         },
         {
-          "t": "the man that heareth me, watching daily at my gates, waiting at the posts of my doors."
+          "t": " the man that heareth me, watching daily at my gates, waiting at the posts of my doors. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "For whoso findeth me findeth life, and shall obtain favour of the LORD.",
       "tokens": [
         {
-          "t": "For whoso findeth me findeth life, and shall obtain favour of the"
+          "t": "For whoso findeth me findeth life, and shall obtain favour of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "But he that sinneth against me wrongeth his own soul: all they that hate me love death.",
       "tokens": [
         {
-          "t": "But he that sinneth against me wrongeth his own soul: all they that hate me love death."
+          "t": "But he that sinneth against me wrongeth his own soul: all they that hate me love death. "
         }
       ]
     }

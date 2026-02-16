@@ -7,325 +7,346 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live.",
       "tokens": [
         {
-          "t": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the"
+          "t": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", Set thine house in order; for thou shalt die, and not live."
+          "t": ", Set thine house in order; for thou shalt die, and not live. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Then he turned his face to the wall, and prayed unto the LORD, saying,",
       "tokens": [
         {
-          "t": "Then he turned his face to the wall, and prayed unto the"
+          "t": "Then he turned his face to the wall, and prayed unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", saying,"
+          "t": ", saying, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I beseech thee, O LORD, remember now how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore.",
       "tokens": [
         {
-          "t": "I beseech thee, O"
+          "t": "I beseech thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", remember now how I have walked before thee in truth and with a perfect heart, and have done"
+          "t": ", remember now how I have walked before thee in truth and with a perfect heart, and have done "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "good in thy sight. And Hezekiah wept sore."
+          "t": " good in thy sight. And Hezekiah wept sore. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And it came to pass, afore Isaiah was gone out into the middle court, that the word of the LORD came to him, saying,",
       "tokens": [
         {
-          "t": "And it came to pass, afore Isaiah was gone out into the middle court, that the word of the"
+          "t": "And it came to pass, afore Isaiah was gone out into the middle court, that the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came to him, saying,"
+          "t": " came to him, saying, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD.",
       "tokens": [
         {
-          "t": "Turn again, and tell Hezekiah the captain of my people, Thus saith the"
+          "t": "Turn again, and tell Hezekiah the captain of my people, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the"
+          "t": ", the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake.",
       "tokens": [
         {
-          "t": "And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake."
+          "t": "And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Isaiah said, Take a lump of figs. And they took and laid it on the boil, and he recovered.",
       "tokens": [
         {
-          "t": "And Isaiah said, Take a lump of figs. And they took and laid"
+          "t": "And Isaiah said, Take a lump of figs. And they took and laid "
         },
         {
           "add": "it"
         },
         {
-          "t": "on the boil, and he recovered."
+          "t": " on the boil, and he recovered. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And Hezekiah said unto Isaiah, What shall be the sign that the LORD will heal me, and that I shall go up into the house of the LORD the third day?",
       "tokens": [
         {
-          "t": "¶ And Hezekiah said unto Isaiah, What"
+          "t": "¶ And Hezekiah said unto Isaiah, What "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the sign that the"
+          "t": " the sign that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will heal me, and that I shall go up into the house of the"
+          "t": " will heal me, and that I shall go up into the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "the third day?"
+          "t": " the third day? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And Isaiah said, This sign shalt thou have of the LORD, that the LORD will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?",
       "tokens": [
         {
-          "t": "And Isaiah said, This sign shalt thou have of the"
+          "t": "And Isaiah said, This sign shalt thou have of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that the"
+          "t": ", that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?"
+          "t": " will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Hezekiah answered, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees.",
       "tokens": [
         {
-          "t": "And Hezekiah answered, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees."
+          "t": "And Hezekiah answered, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz.",
       "tokens": [
         {
-          "t": "And Isaiah the prophet cried unto the"
+          "t": "And Isaiah the prophet cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz."
+          "t": ": and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ At that time Berodach-baladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick.",
       "tokens": [
         {
-          "t": "¶ At that time Berodach-baladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick."
+          "t": "¶ At that time Berodach-baladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.",
       "tokens": [
         {
-          "t": "And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and"
+          "t": "And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and "
         },
         {
           "add": "all"
         },
         {
-          "t": "the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not."
+          "t": " the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country, even from Babylon.",
       "tokens": [
         {
-          "t": "¶ Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country,"
+          "t": "¶ Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country, "
         },
         {
           "add": "even"
         },
         {
-          "t": "from Babylon."
+          "t": " from Babylon. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And he said, What have they seen in thine house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not shewed them.",
       "tokens": [
         {
-          "t": "And he said, What have they seen in thine house? And Hezekiah answered, All"
+          "t": "And he said, What have they seen in thine house? And Hezekiah answered, All "
         },
         {
           "add": "the things"
         },
         {
-          "t": "that"
+          "t": " that "
         },
         {
           "add": "are"
         },
         {
-          "t": "in mine house have they seen: there is nothing among my treasures that I have not shewed them."
+          "t": " in mine house have they seen: there is nothing among my treasures that I have not shewed them. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Isaiah said unto Hezekiah, Hear the word of the LORD.",
       "tokens": [
         {
-          "t": "And Isaiah said unto Hezekiah, Hear the word of the"
+          "t": "And Isaiah said unto Hezekiah, Hear the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD.",
       "tokens": [
         {
-          "t": "Behold, the days come, that all that"
+          "t": "Behold, the days come, that all that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the"
+          "t": " in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.",
       "tokens": [
         {
-          "t": "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon."
+          "t": "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Then said Hezekiah unto Isaiah, Good is the word of the LORD which thou hast spoken. And he said, Is it not good, if peace and truth be in my days?",
       "tokens": [
         {
-          "t": "Then said Hezekiah unto Isaiah, Good"
+          "t": "Then said Hezekiah unto Isaiah, Good "
         },
         {
           "add": "is"
         },
         {
-          "t": "the word of the"
+          "t": " the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "which thou hast spoken. And he said,"
+          "t": " which thou hast spoken. And he said, "
         },
         {
           "add": "Is it"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "good"
         },
         {
-          "t": ", if peace and truth be in my days?"
+          "t": ", if peace and truth be in my days? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And the rest of the acts of Hezekiah, and all his might, and how he made a pool, and a conduit, and brought water into the city, are they not written in the book of the chronicles of the kings of Judah?",
       "tokens": [
         {
-          "t": "¶ And the rest of the acts of Hezekiah, and all his might, and how he made a pool, and a conduit, and brought water into the city,"
+          "t": "¶ And the rest of the acts of Hezekiah, and all his might, and how he made a pool, and a conduit, and brought water into the city, "
         },
         {
           "add": "are"
         },
         {
-          "t": "they not written in the book of the chronicles of the kings of Judah?"
+          "t": " they not written in the book of the chronicles of the kings of Judah? "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead.",
       "tokens": [
         {
-          "t": "And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead."
+          "t": "And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead. "
         }
       ]
     }

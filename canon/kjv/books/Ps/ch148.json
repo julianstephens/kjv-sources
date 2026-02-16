@@ -7,167 +7,181 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.",
       "tokens": [
         {
-          "t": "Praise ye the"
+          "t": "Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". Praise ye the"
+          "t": ". Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "from the heavens: praise him in the heights."
+          "t": " from the heavens: praise him in the heights. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Praise ye him, all his angels: praise ye him, all his hosts.",
       "tokens": [
         {
-          "t": "Praise ye him, all his angels: praise ye him, all his hosts."
+          "t": "Praise ye him, all his angels: praise ye him, all his hosts. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Praise ye him, sun and moon: praise him, all ye stars of light.",
       "tokens": [
         {
-          "t": "Praise ye him, sun and moon: praise him, all ye stars of light."
+          "t": "Praise ye him, sun and moon: praise him, all ye stars of light. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Praise him, ye heavens of heavens, and ye waters that be above the heavens.",
       "tokens": [
         {
-          "t": "Praise him, ye heavens of heavens, and ye waters that"
+          "t": "Praise him, ye heavens of heavens, and ye waters that "
         },
         {
           "add": "be"
         },
         {
-          "t": "above the heavens."
+          "t": " above the heavens. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Let them praise the name of the LORD: for he commanded, and they were created.",
       "tokens": [
         {
-          "t": "Let them praise the name of the"
+          "t": "Let them praise the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for he commanded, and they were created."
+          "t": ": for he commanded, and they were created. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass.",
       "tokens": [
         {
-          "t": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass."
+          "t": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Praise the LORD from the earth, ye dragons, and all deeps:",
       "tokens": [
         {
-          "t": "Praise the"
+          "t": "Praise the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "from the earth, ye dragons, and all deeps:"
+          "t": " from the earth, ye dragons, and all deeps: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word:",
       "tokens": [
         {
-          "t": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word:"
+          "t": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Mountains, and all hills; fruitful trees, and all cedars:",
       "tokens": [
         {
-          "t": "Mountains, and all hills; fruitful trees, and all cedars:"
+          "t": "Mountains, and all hills; fruitful trees, and all cedars: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Beasts, and all cattle; creeping things, and flying fowl:",
       "tokens": [
         {
-          "t": "Beasts, and all cattle; creeping things, and flying fowl:"
+          "t": "Beasts, and all cattle; creeping things, and flying fowl: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Kings of the earth, and all people; princes, and all judges of the earth:",
       "tokens": [
         {
-          "t": "Kings of the earth, and all people; princes, and all judges of the earth:"
+          "t": "Kings of the earth, and all people; princes, and all judges of the earth: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Both young men, and maidens; old men, and children:",
       "tokens": [
         {
-          "t": "Both young men, and maidens; old men, and children:"
+          "t": "Both young men, and maidens; old men, and children: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Let them praise the name of the LORD: for his name alone is excellent; his glory is above the earth and heaven.",
       "tokens": [
         {
-          "t": "Let them praise the name of the"
+          "t": "Let them praise the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for his name alone is excellent; his glory"
+          "t": ": for his name alone is excellent; his glory "
         },
         {
           "add": "is"
         },
         {
-          "t": "above the earth and heaven."
+          "t": " above the earth and heaven. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the LORD.",
       "tokens": [
         {
-          "t": "He also exalteth the horn of his people, the praise of all his saints;"
+          "t": "He also exalteth the horn of his people, the praise of all his saints; "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the children of Israel, a people near unto him. Praise ye the"
+          "t": " of the children of Israel, a people near unto him. Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

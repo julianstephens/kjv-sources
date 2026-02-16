@@ -7,253 +7,271 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:",
       "tokens": [
         {
-          "t": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence"
+          "t": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence "
         },
         {
           "add": "am"
         },
         {
-          "t": "base among you, but being absent am bold toward you:"
+          "t": " base among you, but being absent am bold toward you: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.",
       "tokens": [
         {
-          "t": "But I beseech"
+          "t": "But I beseech "
         },
         {
           "add": "you"
         },
         {
-          "t": ", that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh."
+          "t": ", that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For though we walk in the flesh, we do not war after the flesh:",
       "tokens": [
         {
-          "t": "For though we walk in the flesh, we do not war after the flesh:"
+          "t": "For though we walk in the flesh, we do not war after the flesh: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)",
       "tokens": [
         {
-          "t": "(For the weapons of our warfare"
+          "t": "(For the weapons of our warfare "
         },
         {
           "add": "are"
         },
         {
-          "t": "not carnal, but mighty through God to the pulling down of strong holds;)"
+          "t": " not carnal, but mighty through God to the pulling down of strong holds;) "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;",
       "tokens": [
         {
-          "t": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;"
+          "t": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And having in a readiness to revenge all disobedience, when your obedience is fulfilled.",
       "tokens": [
         {
-          "t": "And having in a readiness to revenge all disobedience, when your obedience is fulfilled."
+          "t": "And having in a readiness to revenge all disobedience, when your obedience is fulfilled. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he is Christ’s, even so are we Christ’s.",
       "tokens": [
         {
-          "t": "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he"
+          "t": "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he "
         },
         {
           "add": "is"
         },
         {
-          "t": "Christ’s, even so"
+          "t": " Christ’s, even so "
         },
         {
           "add": "are"
         },
         {
-          "t": "we Christ’s."
+          "t": " we Christ’s. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:",
       "tokens": [
         {
-          "t": "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:"
+          "t": "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "That I may not seem as if I would terrify you by letters.",
       "tokens": [
         {
-          "t": "That I may not seem as if I would terrify you by letters."
+          "t": "That I may not seem as if I would terrify you by letters. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.",
       "tokens": [
         {
-          "t": "For"
+          "t": "For "
         },
         {
           "add": "his"
         },
         {
-          "t": "letters, say they,"
+          "t": " letters, say they, "
         },
         {
           "add": "are"
         },
         {
-          "t": "weighty and powerful; but"
+          "t": " weighty and powerful; but "
         },
         {
           "add": "his"
         },
         {
-          "t": "bodily presence"
+          "t": " bodily presence "
         },
         {
           "add": "is"
         },
         {
-          "t": "weak, and"
+          "t": " weak, and "
         },
         {
           "add": "his"
         },
         {
-          "t": "speech contemptible."
+          "t": " speech contemptible. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.",
       "tokens": [
         {
-          "t": "Let such an one think this, that, such as we are in word by letters when we are absent, such"
+          "t": "Let such an one think this, that, such as we are in word by letters when we are absent, such "
         },
         {
           "add": "will we be"
         },
         {
-          "t": "also in deed when we are present."
+          "t": " also in deed when we are present. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.",
       "tokens": [
         {
-          "t": "For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise."
+          "t": "For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "But we will not boast of things without our measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you.",
       "tokens": [
         {
-          "t": "But we will not boast of things without"
+          "t": "But we will not boast of things without "
         },
         {
           "add": "our"
         },
         {
-          "t": "measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you."
+          "t": " measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:",
       "tokens": [
         {
-          "t": "For we stretch not ourselves beyond"
+          "t": "For we stretch not ourselves beyond "
         },
         {
           "add": "our measure"
         },
         {
-          "t": ", as though we reached not unto you: for we are come as far as to you also in"
+          "t": ", as though we reached not unto you: for we are come as far as to you also in "
         },
         {
           "add": "preaching"
         },
         {
-          "t": "the gospel of Christ:"
+          "t": " the gospel of Christ: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Not boasting of things without our measure, that is, of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,",
       "tokens": [
         {
-          "t": "Not boasting of things without"
+          "t": "Not boasting of things without "
         },
         {
           "add": "our"
         },
         {
-          "t": "measure,"
+          "t": " measure, "
         },
         {
           "add": "that is"
         },
         {
-          "t": ", of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,"
+          "t": ", of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "To preach the gospel in the regions beyond you, and not to boast in another man’s line of things made ready to our hand.",
       "tokens": [
         {
-          "t": "To preach the gospel in the"
+          "t": "To preach the gospel in the "
         },
         {
           "add": "regions"
         },
         {
-          "t": "beyond you,"
+          "t": " beyond you, "
         },
         {
           "add": "and"
         },
         {
-          "t": "not to boast in another man’s line of things made ready to our hand."
+          "t": " not to boast in another man’s line of things made ready to our hand. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "But he that glorieth, let him glory in the Lord.",
       "tokens": [
         {
-          "t": "But he that glorieth, let him glory in the Lord."
+          "t": "But he that glorieth, let him glory in the Lord. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For not he that commendeth himself is approved, but whom the Lord commendeth.",
       "tokens": [
         {
-          "t": "For not he that commendeth himself is approved, but whom the Lord commendeth."
+          "t": "For not he that commendeth himself is approved, but whom the Lord commendeth. "
         }
       ]
     }

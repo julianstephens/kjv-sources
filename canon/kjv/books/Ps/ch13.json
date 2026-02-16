@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 13,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?",
+      "tokens": [
+        {
+          "t": "How long wilt thou forget me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "? for ever? how long wilt thou hide thy face from me? "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+      "tokens": [
+        {
+          "t": "How long shall I take counsel in my soul, "
+        },
+        {
+          "add": "having"
+        },
+        {
+          "t": " sorrow in my heart daily? how long shall mine enemy be exalted over me? "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Consider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;",
+      "tokens": [
+        {
+          "t": "Consider "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " hear me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " my God: lighten mine eyes, lest I sleep the "
+        },
+        {
+          "add": "sleep of"
+        },
+        {
+          "t": " death; "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.",
+      "tokens": [
+        {
+          "t": "Lest mine enemy say, I have prevailed against him; "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " those that trouble me rejoice when I am moved. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
+      "tokens": [
+        {
+          "t": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "I will sing unto the LORD, because he hath dealt bountifully with me.",
+      "tokens": [
+        {
+          "t": "I will sing unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", because he hath dealt bountifully with me. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "chief…: or, overseer"
+    }
+  ]
+}

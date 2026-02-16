@@ -7,117 +7,127 @@
   "verses": [
     {
       "v": 1,
+      "plain": "So the king and Haman came to banquet with Esther the queen.",
       "tokens": [
         {
-          "t": "So the king and Haman came to banquet with Esther the queen."
+          "t": "So the king and Haman came to banquet with Esther the queen. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the king said again unto Esther on the second day at the banquet of wine, What is thy petition, queen Esther? and it shall be granted thee: and what is thy request? and it shall be performed, even to the half of the kingdom.",
       "tokens": [
         {
-          "t": "And the king said again unto Esther on the second day at the banquet of wine, What"
+          "t": "And the king said again unto Esther on the second day at the banquet of wine, What "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy petition, queen Esther? and it shall be granted thee: and what"
+          "t": " thy petition, queen Esther? and it shall be granted thee: and what "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy request? and it shall be performed,"
+          "t": " thy request? and it shall be performed, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to the half of the kingdom."
+          "t": " to the half of the kingdom. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:",
       "tokens": [
         {
-          "t": "Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:"
+          "t": "Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king’s damage.",
       "tokens": [
         {
-          "t": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king’s damage."
+          "t": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king’s damage. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?",
       "tokens": [
         {
-          "t": "¶ Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?"
+          "t": "¶ Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen.",
       "tokens": [
         {
-          "t": "And Esther said, The adversary and enemy"
+          "t": "And Esther said, The adversary and enemy "
         },
         {
           "add": "is"
         },
         {
-          "t": "this wicked Haman. Then Haman was afraid before the king and the queen."
+          "t": " this wicked Haman. Then Haman was afraid before the king and the queen. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.",
       "tokens": [
         {
-          "t": "¶ And the king arising from the banquet of wine in his wrath"
+          "t": "¶ And the king arising from the banquet of wine in his wrath "
         },
         {
           "add": "went"
         },
         {
-          "t": "into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king."
+          "t": " into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of the king’s mouth, they covered Haman’s face.",
       "tokens": [
         {
-          "t": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther"
+          "t": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther "
         },
         {
           "add": "was"
         },
         {
-          "t": ". Then said the king, Will he force the queen also before me in the house? As the word went out of the king’s mouth, they covered Haman’s face."
+          "t": ". Then said the king, Will he force the queen also before me in the house? As the word went out of the king’s mouth, they covered Haman’s face. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon.",
       "tokens": [
         {
-          "t": "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon."
+          "t": "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king’s wrath pacified.",
       "tokens": [
         {
-          "t": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king’s wrath pacified."
+          "t": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king’s wrath pacified. "
         }
       ]
     }

@@ -7,448 +7,478 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,",
       "tokens": [
         {
-          "t": "The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,"
+          "t": "The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thus saith the LORD of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein,",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they"
+          "t": " of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they "
         },
         {
           "add": "are"
         },
         {
-          "t": "a desolation, and no man dwelleth therein,"
+          "t": " a desolation, and no man dwelleth therein, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, and to serve other gods, whom they knew not, neither they, ye, nor your fathers.",
       "tokens": [
         {
-          "t": "Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense,"
+          "t": "Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, "
         },
         {
           "add": "and"
         },
         {
-          "t": "to serve other gods, whom they knew not,"
+          "t": " to serve other gods, whom they knew not, "
         },
         {
           "add": "neither"
         },
         {
-          "t": "they, ye, nor your fathers."
+          "t": " they, ye, nor your fathers. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Howbeit I sent unto you all my servants the prophets, rising early and sending them, saying, Oh, do not this abominable thing that I hate.",
       "tokens": [
         {
-          "t": "Howbeit I sent unto you all my servants the prophets, rising early and sending"
+          "t": "Howbeit I sent unto you all my servants the prophets, rising early and sending "
         },
         {
           "add": "them"
         },
         {
-          "t": ", saying, Oh, do not this abominable thing that I hate."
+          "t": ", saying, Oh, do not this abominable thing that I hate. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods.",
       "tokens": [
         {
-          "t": "But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods."
+          "t": "But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted and desolate, as at this day.",
       "tokens": [
         {
-          "t": "Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted"
+          "t": "Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted "
         },
         {
           "add": "and"
         },
         {
-          "t": "desolate, as at this day."
+          "t": " desolate, as at this day. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Therefore now thus saith the LORD, the God of hosts, the God of Israel; Wherefore commit ye this great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain;",
       "tokens": [
         {
-          "t": "Therefore now thus saith the"
+          "t": "Therefore now thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the God of hosts, the God of Israel; Wherefore commit ye"
+          "t": ", the God of hosts, the God of Israel; Wherefore commit ye "
         },
         {
           "add": "this"
         },
         {
-          "t": "great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain;"
+          "t": " great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?",
       "tokens": [
         {
-          "t": "In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?"
+          "t": "In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?",
       "tokens": [
         {
-          "t": "Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?"
+          "t": "Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "They are not humbled even unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers.",
       "tokens": [
         {
-          "t": "They are not humbled"
+          "t": "They are not humbled "
         },
         {
           "add": "even"
         },
         {
-          "t": "unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers."
+          "t": " unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.",
       "tokens": [
         {
-          "t": "¶ Therefore thus saith the"
+          "t": "¶ Therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah."
+          "t": " of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, and an astonishment, and a curse, and a reproach.",
       "tokens": [
         {
-          "t": "And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed,"
+          "t": "And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, "
         },
         {
           "add": "and"
         },
         {
-          "t": "fall in the land of Egypt; they shall"
+          "t": " fall in the land of Egypt; they shall "
         },
         {
           "add": "even"
         },
         {
-          "t": "be consumed by the sword"
+          "t": " be consumed by the sword "
         },
         {
           "add": "and"
         },
         {
-          "t": "by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration,"
+          "t": " by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, "
         },
         {
           "add": "and"
         },
         {
-          "t": "an astonishment, and a curse, and a reproach."
+          "t": " an astonishment, and a curse, and a reproach. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem, by the sword, by the famine, and by the pestilence:",
       "tokens": [
         {
-          "t": "For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem, by the sword, by the famine, and by the pestilence:"
+          "t": "For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem, by the sword, by the famine, and by the pestilence: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "So that none of the remnant of Judah, which are gone into the land of Egypt to sojourn there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape.",
       "tokens": [
         {
-          "t": "So that none of the remnant of Judah, which are gone into the land of Egypt to sojourn there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape."
+          "t": "So that none of the remnant of Judah, which are gone into the land of Egypt to sojourn there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,",
       "tokens": [
         {
-          "t": "¶ Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,"
+          "t": "¶ Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "As for the word that thou hast spoken unto us in the name of the LORD, we will not hearken unto thee.",
       "tokens": [
         {
           "add": "As for"
         },
         {
-          "t": "the word that thou hast spoken unto us in the name of the"
+          "t": " the word that thou hast spoken unto us in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", we will not hearken unto thee."
+          "t": ", we will not hearken unto thee. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for then had we plenty of victuals, and were well, and saw no evil.",
       "tokens": [
         {
-          "t": "But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for"
+          "t": "But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for "
         },
         {
           "add": "then"
         },
         {
-          "t": "had we plenty of victuals, and were well, and saw no evil."
+          "t": " had we plenty of victuals, and were well, and saw no evil. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all things, and have been consumed by the sword and by the famine.",
       "tokens": [
         {
-          "t": "But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all"
+          "t": "But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all "
         },
         {
           "add": "things"
         },
         {
-          "t": ", and have been consumed by the sword and by the famine."
+          "t": ", and have been consumed by the sword and by the famine. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And when we burned incense to the queen of heaven, and poured out drink offerings unto her, did we make her cakes to worship her, and pour out drink offerings unto her, without our men?",
       "tokens": [
         {
-          "t": "And when we burned incense to the queen of heaven, and poured out drink offerings unto her, did we make her cakes to worship her, and pour out drink offerings unto her, without our men?"
+          "t": "And when we burned incense to the queen of heaven, and poured out drink offerings unto her, did we make her cakes to worship her, and pour out drink offerings unto her, without our men? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ Then Jeremiah said unto all the people, to the men, and to the women, and to all the people which had given him that answer, saying,",
       "tokens": [
         {
-          "t": "¶ Then Jeremiah said unto all the people, to the men, and to the women, and to all the people which had given him"
+          "t": "¶ Then Jeremiah said unto all the people, to the men, and to the women, and to all the people which had given him "
         },
         {
           "add": "that"
         },
         {
-          "t": "answer, saying,"
+          "t": " answer, saying, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "The incense that ye burned in the cities of Judah, and in the streets of Jerusalem, ye, and your fathers, your kings, and your princes, and the people of the land, did not the LORD remember them, and came it not into his mind?",
       "tokens": [
         {
-          "t": "The incense that ye burned in the cities of Judah, and in the streets of Jerusalem, ye, and your fathers, your kings, and your princes, and the people of the land, did not the"
+          "t": "The incense that ye burned in the cities of Judah, and in the streets of Jerusalem, ye, and your fathers, your kings, and your princes, and the people of the land, did not the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "remember them, and came it"
+          "t": " remember them, and came it "
         },
         {
           "add": "not"
         },
         {
-          "t": "into his mind?"
+          "t": " into his mind? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "So that the LORD could no longer bear, because of the evil of your doings, and because of the abominations which ye have committed; therefore is your land a desolation, and an astonishment, and a curse, without an inhabitant, as at this day.",
       "tokens": [
         {
-          "t": "So that the"
+          "t": "So that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "could no longer bear, because of the evil of your doings,"
+          "t": " could no longer bear, because of the evil of your doings, "
         },
         {
           "add": "and"
         },
         {
-          "t": "because of the abominations which ye have committed; therefore is your land a desolation, and an astonishment, and a curse, without an inhabitant, as at this day."
+          "t": " because of the abominations which ye have committed; therefore is your land a desolation, and an astonishment, and a curse, without an inhabitant, as at this day. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Because ye have burned incense, and because ye have sinned against the LORD, and have not obeyed the voice of the LORD, nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day.",
       "tokens": [
         {
-          "t": "Because ye have burned incense, and because ye have sinned against the"
+          "t": "Because ye have burned incense, and because ye have sinned against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and have not obeyed the voice of the"
+          "t": ", and have not obeyed the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day."
+          "t": ", nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the LORD, all Judah that are in the land of Egypt:",
       "tokens": [
         {
-          "t": "Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the"
+          "t": "Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", all Judah that"
+          "t": ", all Judah that "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the land of Egypt:"
+          "t": " in the land of Egypt: "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Thus saith the LORD of hosts, the God of Israel, saying; Ye and your wives have both spoken with your mouths, and fulfilled with your hand, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish your vows, and surely perform your vows.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel, saying; Ye and your wives have both spoken with your mouths, and fulfilled with your hand, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish your vows, and surely perform your vows."
+          "t": " of hosts, the God of Israel, saying; Ye and your wives have both spoken with your mouths, and fulfilled with your hand, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish your vows, and surely perform your vows. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Therefore hear ye the word of the LORD, all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the LORD, that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord GOD liveth.",
       "tokens": [
         {
-          "t": "Therefore hear ye the word of the"
+          "t": "Therefore hear ye the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the"
+          "t": ", all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord"
+          "t": ", that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "liveth."
+          "t": " liveth. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Behold, I will watch over them for evil, and not for good: and all the men of Judah that are in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them.",
       "tokens": [
         {
-          "t": "Behold, I will watch over them for evil, and not for good: and all the men of Judah that"
+          "t": "Behold, I will watch over them for evil, and not for good: and all the men of Judah that "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them."
+          "t": " in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs.",
       "tokens": [
         {
-          "t": "Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs."
+          "t": "Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ And this shall be a sign unto you, saith the LORD, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:",
       "tokens": [
         {
-          "t": "¶ And this"
+          "t": "¶ And this "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a sign unto you, saith the"
+          "t": " a sign unto you, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:"
+          "t": ", that I will punish you in this place, that ye may know that my words shall surely stand against you for evil: "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Thus saith the LORD; Behold, I will give Pharaoh-hophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; Behold, I will give Pharaoh-hophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life."
+          "t": "; Behold, I will give Pharaoh-hophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life. "
         }
       ]
     }

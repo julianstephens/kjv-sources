@@ -7,283 +7,298 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight:",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "my strength, which teacheth my hands to war,"
+          "t": " my strength, which teacheth my hands to war, "
         },
         {
           "add": "and"
         },
         {
-          "t": "my fingers to fight:"
+          "t": " my fingers to fight: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me.",
       "tokens": [
         {
-          "t": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and"
+          "t": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and "
         },
         {
           "add": "he"
         },
         {
-          "t": "in whom I trust; who subdueth my people under me."
+          "t": " in whom I trust; who subdueth my people under me. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "LORD, what is man, that thou takest knowledge of him! or the son of man, that thou makest account of him!",
       "tokens": [
         {
           "nd": "LORD"
         },
         {
-          "t": ", what"
+          "t": ", what "
         },
         {
           "add": "is"
         },
         {
-          "t": "man, that thou takest knowledge of him!"
+          "t": " man, that thou takest knowledge of him! "
         },
         {
           "add": "or"
         },
         {
-          "t": "the son of man, that thou makest account of him!"
+          "t": " the son of man, that thou makest account of him! "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Man is like to vanity: his days are as a shadow that passeth away.",
       "tokens": [
         {
-          "t": "Man is like to vanity: his days"
+          "t": "Man is like to vanity: his days "
         },
         {
           "add": "are"
         },
         {
-          "t": "as a shadow that passeth away."
+          "t": " as a shadow that passeth away. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke.",
       "tokens": [
         {
-          "t": "Bow thy heavens, O"
+          "t": "Bow thy heavens, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and come down: touch the mountains, and they shall smoke."
+          "t": ", and come down: touch the mountains, and they shall smoke. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them.",
       "tokens": [
         {
-          "t": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them."
+          "t": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;",
       "tokens": [
         {
-          "t": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;"
+          "t": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Whose mouth speaketh vanity, and their right hand is a right hand of falsehood.",
       "tokens": [
         {
-          "t": "Whose mouth speaketh vanity, and their right hand"
+          "t": "Whose mouth speaketh vanity, and their right hand "
         },
         {
           "add": "is"
         },
         {
-          "t": "a right hand of falsehood."
+          "t": " a right hand of falsehood. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "I will sing a new song unto thee, O God: upon a psaltery and an instrument of ten strings will I sing praises unto thee.",
       "tokens": [
         {
-          "t": "I will sing a new song unto thee, O God: upon a psaltery"
+          "t": "I will sing a new song unto thee, O God: upon a psaltery "
         },
         {
           "add": "and"
         },
         {
-          "t": "an instrument of ten strings will I sing praises unto thee."
+          "t": " an instrument of ten strings will I sing praises unto thee. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "It is he that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.",
       "tokens": [
         {
           "add": "It is he"
         },
         {
-          "t": "that giveth salvation unto kings: who delivereth David his servant from the hurtful sword."
+          "t": " that giveth salvation unto kings: who delivereth David his servant from the hurtful sword. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand is a right hand of falsehood:",
       "tokens": [
         {
-          "t": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand"
+          "t": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand "
         },
         {
           "add": "is"
         },
         {
-          "t": "a right hand of falsehood:"
+          "t": " a right hand of falsehood: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "That our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the similitude of a palace:",
       "tokens": [
         {
-          "t": "That our sons"
+          "t": "That our sons "
         },
         {
           "add": "may be"
         },
         {
-          "t": "as plants grown up in their youth;"
+          "t": " as plants grown up in their youth; "
         },
         {
           "add": "that"
         },
         {
-          "t": "our daughters"
+          "t": " our daughters "
         },
         {
           "add": "may be"
         },
         {
-          "t": "as corner stones, polished"
+          "t": " as corner stones, polished "
         },
         {
           "add": "after"
         },
         {
-          "t": "the similitude of a palace:"
+          "t": " the similitude of a palace: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:",
       "tokens": [
         {
           "add": "That"
         },
         {
-          "t": "our garners"
+          "t": " our garners "
         },
         {
           "add": "may be"
         },
         {
-          "t": "full, affording all manner of store:"
+          "t": " full, affording all manner of store: "
         },
         {
           "add": "that"
         },
         {
-          "t": "our sheep may bring forth thousands and ten thousands in our streets:"
+          "t": " our sheep may bring forth thousands and ten thousands in our streets: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets.",
       "tokens": [
         {
           "add": "That"
         },
         {
-          "t": "our oxen"
+          "t": " our oxen "
         },
         {
           "add": "may be"
         },
         {
-          "t": "strong to labour;"
+          "t": " strong to labour; "
         },
         {
           "add": "that there be"
         },
         {
-          "t": "no breaking in, nor going out; that"
+          "t": " no breaking in, nor going out; that "
         },
         {
           "add": "there be"
         },
         {
-          "t": "no complaining in our streets."
+          "t": " no complaining in our streets. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD.",
       "tokens": [
         {
-          "t": "Happy"
+          "t": "Happy "
         },
         {
           "add": "is that"
         },
         {
-          "t": "people, that is in such a case:"
+          "t": " people, that is in such a case: "
         },
         {
           "add": "yea"
         },
         {
-          "t": ", happy"
+          "t": ", happy "
         },
         {
           "add": "is that"
         },
         {
-          "t": "people, whose God"
+          "t": " people, whose God "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

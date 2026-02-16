@@ -7,389 +7,415 @@
   "verses": [
     {
       "v": 1,
+      "plain": "But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel.",
       "tokens": [
         {
-          "t": "But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the"
+          "t": "But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was kindled against the children of Israel."
+          "t": " was kindled against the children of Israel. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Joshua sent men from Jericho to Ai, which is beside Beth-aven, on the east side of Beth-el, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai.",
       "tokens": [
         {
-          "t": "And Joshua sent men from Jericho to Ai, which"
+          "t": "And Joshua sent men from Jericho to Ai, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "beside Beth-aven, on the east side of Beth-el, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai."
+          "t": " beside Beth-aven, on the east side of Beth-el, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; and make not all the people to labour thither; for they are but few.",
       "tokens": [
         {
-          "t": "And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai;"
+          "t": "And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; "
         },
         {
           "add": "and"
         },
         {
-          "t": "make not all the people to labour thither; for they"
+          "t": " make not all the people to labour thither; for they "
         },
         {
           "add": "are but"
         },
         {
-          "t": "few."
+          "t": " few. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "So there went up thither of the people about three thousand men: and they fled before the men of Ai.",
       "tokens": [
         {
-          "t": "So there went up thither of the people about three thousand men: and they fled before the men of Ai."
+          "t": "So there went up thither of the people about three thousand men: and they fled before the men of Ai. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the men of Ai smote of them about thirty and six men: for they chased them from before the gate even unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water.",
       "tokens": [
         {
-          "t": "And the men of Ai smote of them about thirty and six men: for they chased them"
+          "t": "And the men of Ai smote of them about thirty and six men: for they chased them "
         },
         {
           "add": "from"
         },
         {
-          "t": "before the gate"
+          "t": " before the gate "
         },
         {
           "add": "even"
         },
         {
-          "t": "unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water."
+          "t": " unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And Joshua rent his clothes, and fell to the earth upon his face before the ark of the LORD until the eventide, he and the elders of Israel, and put dust upon their heads.",
       "tokens": [
         {
-          "t": "¶ And Joshua rent his clothes, and fell to the earth upon his face before the ark of the"
+          "t": "¶ And Joshua rent his clothes, and fell to the earth upon his face before the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "until the eventide, he and the elders of Israel, and put dust upon their heads."
+          "t": " until the eventide, he and the elders of Israel, and put dust upon their heads. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Joshua said, Alas, O Lord GOD, wherefore hast thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan!",
       "tokens": [
         {
-          "t": "And Joshua said, Alas, O Lord"
+          "t": "And Joshua said, Alas, O Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": ", wherefore hast thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan!"
+          "t": ", wherefore hast thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan! "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "O Lord, what shall I say, when Israel turneth their backs before their enemies!",
       "tokens": [
         {
-          "t": "O Lord, what shall I say, when Israel turneth their backs before their enemies!"
+          "t": "O Lord, what shall I say, when Israel turneth their backs before their enemies! "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For the Canaanites and all the inhabitants of the land shall hear of it, and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name?",
       "tokens": [
         {
-          "t": "For the Canaanites and all the inhabitants of the land shall hear"
+          "t": "For the Canaanites and all the inhabitants of the land shall hear "
         },
         {
           "add": "of it"
         },
         {
-          "t": ", and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name?"
+          "t": ", and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And the LORD said unto Joshua, Get thee up; wherefore liest thou thus upon thy face?",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Joshua, Get thee up; wherefore liest thou thus upon thy face?"
+          "t": " said unto Joshua, Get thee up; wherefore liest thou thus upon thy face? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put it even among their own stuff.",
       "tokens": [
         {
-          "t": "Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put"
+          "t": "Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put "
         },
         {
           "add": "it"
         },
         {
-          "t": "even among their own stuff."
+          "t": " even among their own stuff. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Therefore the children of Israel could not stand before their enemies, but turned their backs before their enemies, because they were accursed: neither will I be with you any more, except ye destroy the accursed from among you.",
       "tokens": [
         {
-          "t": "Therefore the children of Israel could not stand before their enemies,"
+          "t": "Therefore the children of Israel could not stand before their enemies, "
         },
         {
           "add": "but"
         },
         {
-          "t": "turned"
+          "t": " turned "
         },
         {
           "add": "their"
         },
         {
-          "t": "backs before their enemies, because they were accursed: neither will I be with you any more, except ye destroy the accursed from among you."
+          "t": " backs before their enemies, because they were accursed: neither will I be with you any more, except ye destroy the accursed from among you. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the LORD God of Israel, There is an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among you.",
       "tokens": [
         {
-          "t": "Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the"
+          "t": "Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel,"
+          "t": " God of Israel, "
         },
         {
           "add": "There is"
         },
         {
-          "t": "an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among you."
+          "t": " an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among you. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "In the morning therefore ye shall be brought according to your tribes: and it shall be, that the tribe which the LORD taketh shall come according to the families thereof; and the family which the LORD shall take shall come by households; and the household which the LORD shall take shall come man by man.",
       "tokens": [
         {
-          "t": "In the morning therefore ye shall be brought according to your tribes: and it shall be,"
+          "t": "In the morning therefore ye shall be brought according to your tribes: and it shall be, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the tribe which the"
+          "t": " the tribe which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "taketh shall come according to the families"
+          "t": " taketh shall come according to the families "
         },
         {
           "add": "thereof;"
         },
         {
-          "t": "and the family which the"
+          "t": " and the family which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall take shall come by households; and the household which the"
+          "t": " shall take shall come by households; and the household which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall take shall come man by man."
+          "t": " shall take shall come man by man. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And it shall be, that he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the LORD, and because he hath wrought folly in Israel.",
       "tokens": [
         {
-          "t": "And it shall be,"
+          "t": "And it shall be, "
         },
         {
           "add": "that"
         },
         {
-          "t": "he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the"
+          "t": " he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and because he hath wrought folly in Israel."
+          "t": ", and because he hath wrought folly in Israel. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:",
       "tokens": [
         {
-          "t": "¶ So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:"
+          "t": "¶ So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And he brought the family of Judah; and he took the family of the Zarhites: and he brought the family of the Zarhites man by man; and Zabdi was taken:",
       "tokens": [
         {
-          "t": "And he brought the family of Judah; and he took the family of the Zarhites: and he brought the family of the Zarhites man by man; and Zabdi was taken:"
+          "t": "And he brought the family of Judah; and he took the family of the Zarhites: and he brought the family of the Zarhites man by man; and Zabdi was taken: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he brought his household man by man; and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was taken.",
       "tokens": [
         {
-          "t": "And he brought his household man by man; and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was taken."
+          "t": "And he brought his household man by man; and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was taken. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Joshua said unto Achan, My son, give, I pray thee, glory to the LORD God of Israel, and make confession unto him; and tell me now what thou hast done; hide it not from me.",
       "tokens": [
         {
-          "t": "And Joshua said unto Achan, My son, give, I pray thee, glory to the"
+          "t": "And Joshua said unto Achan, My son, give, I pray thee, glory to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, and make confession unto him; and tell me now what thou hast done; hide"
+          "t": " God of Israel, and make confession unto him; and tell me now what thou hast done; hide "
         },
         {
           "add": "it"
         },
         {
-          "t": "not from me."
+          "t": " not from me. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Achan answered Joshua, and said, Indeed I have sinned against the LORD God of Israel, and thus and thus have I done:",
       "tokens": [
         {
-          "t": "And Achan answered Joshua, and said, Indeed I have sinned against the"
+          "t": "And Achan answered Joshua, and said, Indeed I have sinned against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel, and thus and thus have I done:"
+          "t": " God of Israel, and thus and thus have I done: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.",
       "tokens": [
         {
-          "t": "When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they"
+          "t": "When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they "
         },
         {
           "add": "are"
         },
         {
-          "t": "hid in the earth in the midst of my tent, and the silver under it."
+          "t": " hid in the earth in the midst of my tent, and the silver under it. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ So Joshua sent messengers, and they ran unto the tent; and, behold, it was hid in his tent, and the silver under it.",
       "tokens": [
         {
-          "t": "¶ So Joshua sent messengers, and they ran unto the tent; and, behold,"
+          "t": "¶ So Joshua sent messengers, and they ran unto the tent; and, behold, "
         },
         {
           "add": "it was"
         },
         {
-          "t": "hid in his tent, and the silver under it."
+          "t": " hid in his tent, and the silver under it. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the LORD.",
       "tokens": [
         {
-          "t": "And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the"
+          "t": "And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor.",
       "tokens": [
         {
-          "t": "And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor."
+          "t": "And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Joshua said, Why hast thou troubled us? the LORD shall trouble thee this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones.",
       "tokens": [
         {
-          "t": "And Joshua said, Why hast thou troubled us? the"
+          "t": "And Joshua said, Why hast thou troubled us? the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall trouble thee this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones."
+          "t": " shall trouble thee this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And they raised over him a great heap of stones unto this day. So the LORD turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day.",
       "tokens": [
         {
-          "t": "And they raised over him a great heap of stones unto this day. So the"
+          "t": "And they raised over him a great heap of stones unto this day. So the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day."
+          "t": " turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day. "
         }
       ]
     }

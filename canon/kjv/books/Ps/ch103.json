@@ -7,318 +7,346 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
       "tokens": [
         {
-          "t": "Bless the"
+          "t": "Bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", O my soul: and all that is within me,"
+          "t": ", O my soul: and all that is within me, "
         },
         {
           "add": "bless"
         },
         {
-          "t": "his holy name."
+          "t": " his holy name. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Bless the LORD, O my soul, and forget not all his benefits:",
       "tokens": [
         {
-          "t": "Bless the"
+          "t": "Bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", O my soul, and forget not all his benefits:"
+          "t": ", O my soul, and forget not all his benefits: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Who forgiveth all thine iniquities; who healeth all thy diseases;",
       "tokens": [
         {
-          "t": "Who forgiveth all thine iniquities; who healeth all thy diseases;"
+          "t": "Who forgiveth all thine iniquities; who healeth all thy diseases; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;",
       "tokens": [
         {
-          "t": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;"
+          "t": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s.",
       "tokens": [
         {
-          "t": "Who satisfieth thy mouth with good"
+          "t": "Who satisfieth thy mouth with good "
         },
         {
           "add": "things; so that"
         },
         {
-          "t": "thy youth is renewed like the eagle’s."
+          "t": " thy youth is renewed like the eagle’s. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "The LORD executeth righteousness and judgment for all that are oppressed.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "executeth righteousness and judgment for all that are oppressed."
+          "t": " executeth righteousness and judgment for all that are oppressed. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "He made known his ways unto Moses, his acts unto the children of Israel.",
       "tokens": [
         {
-          "t": "He made known his ways unto Moses, his acts unto the children of Israel."
+          "t": "He made known his ways unto Moses, his acts unto the children of Israel. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The LORD is merciful and gracious, slow to anger, and plenteous in mercy.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "merciful and gracious, slow to anger, and plenteous in mercy."
+          "t": " merciful and gracious, slow to anger, and plenteous in mercy. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He will not always chide: neither will he keep his anger for ever.",
       "tokens": [
         {
-          "t": "He will not always chide: neither will he keep"
+          "t": "He will not always chide: neither will he keep "
         },
         {
           "add": "his anger"
         },
         {
-          "t": "for ever."
+          "t": " for ever. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities.",
       "tokens": [
         {
-          "t": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities."
+          "t": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For as the heaven is high above the earth, so great is his mercy toward them that fear him.",
       "tokens": [
         {
-          "t": "For as the heaven is high above the earth,"
+          "t": "For as the heaven is high above the earth, "
         },
         {
           "add": "so"
         },
         {
-          "t": "great is his mercy toward them that fear him."
+          "t": " great is his mercy toward them that fear him. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "As far as the east is from the west, so far hath he removed our transgressions from us.",
       "tokens": [
         {
-          "t": "As far as the east is from the west,"
+          "t": "As far as the east is from the west, "
         },
         {
           "add": "so"
         },
         {
-          "t": "far hath he removed our transgressions from us."
+          "t": " far hath he removed our transgressions from us. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Like as a father pitieth his children, so the LORD pitieth them that fear him.",
       "tokens": [
         {
-          "t": "Like as a father pitieth"
+          "t": "Like as a father pitieth "
         },
         {
           "add": "his"
         },
         {
-          "t": "children,"
+          "t": " children, "
         },
         {
           "add": "so"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "pitieth them that fear him."
+          "t": " pitieth them that fear him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For he knoweth our frame; he remembereth that we are dust.",
       "tokens": [
         {
-          "t": "For he knoweth our frame; he remembereth that we"
+          "t": "For he knoweth our frame; he remembereth that we "
         },
         {
           "add": "are"
         },
         {
-          "t": "dust."
+          "t": " dust. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "As for man, his days are as grass: as a flower of the field, so he flourisheth.",
       "tokens": [
         {
           "add": "As for"
         },
         {
-          "t": "man, his days"
+          "t": " man, his days "
         },
         {
           "add": "are"
         },
         {
-          "t": "as grass: as a flower of the field, so he flourisheth."
+          "t": " as grass: as a flower of the field, so he flourisheth. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "For the wind passeth over it, and it is gone; and the place thereof shall know it no more.",
       "tokens": [
         {
-          "t": "For the wind passeth over it, and it is gone; and the place thereof shall know it no more."
+          "t": "For the wind passeth over it, and it is gone; and the place thereof shall know it no more. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;",
       "tokens": [
         {
-          "t": "But the mercy of the"
+          "t": "But the mercy of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;"
+          "t": " from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children; "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "To such as keep his covenant, and to those that remember his commandments to do them.",
       "tokens": [
         {
-          "t": "To such as keep his covenant, and to those that remember his commandments to do them."
+          "t": "To such as keep his covenant, and to those that remember his commandments to do them. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath prepared his throne in the heavens; and his kingdom ruleth over all."
+          "t": " hath prepared his throne in the heavens; and his kingdom ruleth over all. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.",
       "tokens": [
         {
-          "t": "Bless the"
+          "t": "Bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word."
+          "t": ", ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure.",
       "tokens": [
         {
-          "t": "Bless ye the"
+          "t": "Bless ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", all"
+          "t": ", all "
         },
         {
           "add": "ye"
         },
         {
-          "t": "his hosts;"
+          "t": " his hosts; "
         },
         {
           "add": "ye"
         },
         {
-          "t": "ministers of his, that do his pleasure."
+          "t": " ministers of his, that do his pleasure. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.",
       "tokens": [
         {
-          "t": "Bless the"
+          "t": "Bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", all his works in all places of his dominion: bless the"
+          "t": ", all his works in all places of his dominion: bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", O my soul."
+          "t": ", O my soul. "
         }
       ]
     }

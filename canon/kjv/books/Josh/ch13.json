@@ -7,487 +7,520 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now Joshua was old and stricken in years; and the LORD said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.",
       "tokens": [
         {
-          "t": "Now Joshua was old"
+          "t": "Now Joshua was old "
         },
         {
           "add": "and"
         },
         {
-          "t": "stricken in years; and the"
+          "t": " stricken in years; and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto him, Thou art old"
+          "t": " said unto him, Thou art old "
         },
         {
           "add": "and"
         },
         {
-          "t": "stricken in years, and there remaineth yet very much land to be possessed."
+          "t": " stricken in years, and there remaineth yet very much land to be possessed. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "This is the land that yet remaineth: all the borders of the Philistines, and all Geshuri,",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the land that yet remaineth: all the borders of the Philistines, and all Geshuri,"
+          "t": " the land that yet remaineth: all the borders of the Philistines, and all Geshuri, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "From Sihor, which is before Egypt, even unto the borders of Ekron northward, which is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:",
       "tokens": [
         {
-          "t": "From Sihor, which"
+          "t": "From Sihor, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "before Egypt, even unto the borders of Ekron northward,"
+          "t": " before Egypt, even unto the borders of Ekron northward, "
         },
         {
           "add": "which"
         },
         {
-          "t": "is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:"
+          "t": " is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "From the south, all the land of the Canaanites, and Mearah that is beside the Sidonians, unto Aphek, to the borders of the Amorites:",
       "tokens": [
         {
-          "t": "From the south, all the land of the Canaanites, and Mearah that"
+          "t": "From the south, all the land of the Canaanites, and Mearah that "
         },
         {
           "add": "is"
         },
         {
-          "t": "beside the Sidonians, unto Aphek, to the borders of the Amorites:"
+          "t": " beside the Sidonians, unto Aphek, to the borders of the Amorites: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the land of the Giblites, and all Lebanon, toward the sunrising, from Baal-gad under mount Hermon unto the entering into Hamath.",
       "tokens": [
         {
-          "t": "And the land of the Giblites, and all Lebanon, toward the sunrising, from Baal-gad under mount Hermon unto the entering into Hamath."
+          "t": "And the land of the Giblites, and all Lebanon, toward the sunrising, from Baal-gad under mount Hermon unto the entering into Hamath. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "All the inhabitants of the hill country from Lebanon unto Misrephoth-maim, and all the Sidonians, them will I drive out from before the children of Israel: only divide thou it by lot unto the Israelites for an inheritance, as I have commanded thee.",
       "tokens": [
         {
-          "t": "All the inhabitants of the hill country from Lebanon unto Misrephoth-maim,"
+          "t": "All the inhabitants of the hill country from Lebanon unto Misrephoth-maim, "
         },
         {
           "add": "and"
         },
         {
-          "t": "all the Sidonians, them will I drive out from before the children of Israel: only divide thou it by lot unto the Israelites for an inheritance, as I have commanded thee."
+          "t": " all the Sidonians, them will I drive out from before the children of Israel: only divide thou it by lot unto the Israelites for an inheritance, as I have commanded thee. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,",
       "tokens": [
         {
-          "t": "Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,"
+          "t": "Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the LORD gave them;",
       "tokens": [
         {
-          "t": "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward,"
+          "t": "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, "
         },
         {
           "add": "even"
         },
         {
-          "t": "as Moses the servant of the"
+          "t": " as Moses the servant of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "gave them;"
+          "t": " gave them; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "From Aroer, that is upon the bank of the river Arnon, and the city that is in the midst of the river, and all the plain of Medeba unto Dibon;",
       "tokens": [
         {
-          "t": "From Aroer, that"
+          "t": "From Aroer, that "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the bank of the river Arnon, and the city that"
+          "t": " upon the bank of the river Arnon, and the city that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the midst of the river, and all the plain of Medeba unto Dibon;"
+          "t": " in the midst of the river, and all the plain of Medeba unto Dibon; "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;",
       "tokens": [
         {
-          "t": "And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;"
+          "t": "And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah;",
       "tokens": [
         {
-          "t": "And Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah;"
+          "t": "And Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out.",
       "tokens": [
         {
-          "t": "All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out."
+          "t": "All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day.",
       "tokens": [
         {
-          "t": "Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day."
+          "t": "Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Only unto the tribe of Levi he gave none inheritance; the sacrifices of the LORD God of Israel made by fire are their inheritance, as he said unto them.",
       "tokens": [
         {
-          "t": "Only unto the tribe of Levi he gave none inheritance; the sacrifices of the"
+          "t": "Only unto the tribe of Levi he gave none inheritance; the sacrifices of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel made by fire"
+          "t": " God of Israel made by fire "
         },
         {
           "add": "are"
         },
         {
-          "t": "their inheritance, as he said unto them."
+          "t": " their inheritance, as he said unto them. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And Moses gave unto the tribe of the children of Reuben inheritance according to their families.",
       "tokens": [
         {
-          "t": "¶ And Moses gave unto the tribe of the children of Reuben"
+          "t": "¶ And Moses gave unto the tribe of the children of Reuben "
         },
         {
           "add": "inheritance"
         },
         {
-          "t": "according to their families."
+          "t": " according to their families. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And their coast was from Aroer, that is on the bank of the river Arnon, and the city that is in the midst of the river, and all the plain by Medeba;",
       "tokens": [
         {
-          "t": "And their coast was from Aroer, that"
+          "t": "And their coast was from Aroer, that "
         },
         {
           "add": "is"
         },
         {
-          "t": "on the bank of the river Arnon, and the city that"
+          "t": " on the bank of the river Arnon, and the city that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the midst of the river, and all the plain by Medeba;"
+          "t": " in the midst of the river, and all the plain by Medeba; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Heshbon, and all her cities that are in the plain; Dibon, and Bamoth-baal, and Beth-baal-meon,",
       "tokens": [
         {
-          "t": "Heshbon, and all her cities that"
+          "t": "Heshbon, and all her cities that "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the plain; Dibon, and Bamoth-baal, and Beth-baal-meon,"
+          "t": " in the plain; Dibon, and Bamoth-baal, and Beth-baal-meon, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Jahazah, and Kedemoth, and Mephaath,",
       "tokens": [
         {
-          "t": "And Jahazah, and Kedemoth, and Mephaath,"
+          "t": "And Jahazah, and Kedemoth, and Mephaath, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Kirjathaim, and Sibmah, and Zareth-shahar in the mount of the valley,",
       "tokens": [
         {
-          "t": "And Kirjathaim, and Sibmah, and Zareth-shahar in the mount of the valley,"
+          "t": "And Kirjathaim, and Sibmah, and Zareth-shahar in the mount of the valley, "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Beth-peor, and Ashdoth-pisgah, and Beth-jeshimoth,",
       "tokens": [
         {
-          "t": "And Beth-peor, and Ashdoth-pisgah, and Beth-jeshimoth,"
+          "t": "And Beth-peor, and Ashdoth-pisgah, and Beth-jeshimoth, "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, which were dukes of Sihon, dwelling in the country.",
       "tokens": [
         {
-          "t": "And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba,"
+          "t": "And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, "
         },
         {
           "add": "which were"
         },
         {
-          "t": "dukes of Sihon, dwelling in the country."
+          "t": " dukes of Sihon, dwelling in the country. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.",
       "tokens": [
         {
-          "t": "¶ Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them."
+          "t": "¶ Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And the border of the children of Reuben was Jordan, and the border thereof. This was the inheritance of the children of Reuben after their families, the cities and the villages thereof.",
       "tokens": [
         {
-          "t": "And the border of the children of Reuben was Jordan, and the border"
+          "t": "And the border of the children of Reuben was Jordan, and the border "
         },
         {
           "add": "thereof"
         },
         {
-          "t": ". This"
+          "t": ". This "
         },
         {
           "add": "was"
         },
         {
-          "t": "the inheritance of the children of Reuben after their families, the cities and the villages thereof."
+          "t": " the inheritance of the children of Reuben after their families, the cities and the villages thereof. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Moses gave inheritance unto the tribe of Gad, even unto the children of Gad according to their families.",
       "tokens": [
         {
-          "t": "And Moses gave"
+          "t": "And Moses gave "
         },
         {
           "add": "inheritance"
         },
         {
-          "t": "unto the tribe of Gad,"
+          "t": " unto the tribe of Gad, "
         },
         {
           "add": "even"
         },
         {
-          "t": "unto the children of Gad according to their families."
+          "t": " unto the children of Gad according to their families. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that is before Rabbah;",
       "tokens": [
         {
-          "t": "And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that"
+          "t": "And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that "
         },
         {
           "add": "is"
         },
         {
-          "t": "before Rabbah;"
+          "t": " before Rabbah; "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And from Heshbon unto Ramath-mizpeh, and Betonim; and from Mahanaim unto the border of Debir;",
       "tokens": [
         {
-          "t": "And from Heshbon unto Ramath-mizpeh, and Betonim; and from Mahanaim unto the border of Debir;"
+          "t": "And from Heshbon unto Ramath-mizpeh, and Betonim; and from Mahanaim unto the border of Debir; "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And in the valley, Beth-aram, and Beth-nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and his border, even unto the edge of the sea of Chinnereth on the other side Jordan eastward.",
       "tokens": [
         {
-          "t": "And in the valley, Beth-aram, and Beth-nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and"
+          "t": "And in the valley, Beth-aram, and Beth-nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and "
         },
         {
           "add": "his"
         },
         {
-          "t": "border,"
+          "t": " border, "
         },
         {
           "add": "even"
         },
         {
-          "t": "unto the edge of the sea of Chinnereth on the other side Jordan eastward."
+          "t": " unto the edge of the sea of Chinnereth on the other side Jordan eastward. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "This is the inheritance of the children of Gad after their families, the cities, and their villages.",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the inheritance of the children of Gad after their families, the cities, and their villages."
+          "t": " the inheritance of the children of Gad after their families, the cities, and their villages. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "¶ And Moses gave inheritance unto the half tribe of Manasseh: and this was the possession of the half tribe of the children of Manasseh by their families.",
       "tokens": [
         {
-          "t": "¶ And Moses gave"
+          "t": "¶ And Moses gave "
         },
         {
           "add": "inheritance"
         },
         {
-          "t": "unto the half tribe of Manasseh: and"
+          "t": " unto the half tribe of Manasseh: and "
         },
         {
           "add": "this"
         },
         {
-          "t": "was"
+          "t": " was "
         },
         {
           "add": "the possession"
         },
         {
-          "t": "of the half tribe of the children of Manasseh by their families."
+          "t": " of the half tribe of the children of Manasseh by their families. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, threescore cities:",
       "tokens": [
         {
-          "t": "And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which"
+          "t": "And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which "
         },
         {
           "add": "are"
         },
         {
-          "t": "in Bashan, threescore cities:"
+          "t": " in Bashan, threescore cities: "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And half Gilead, and Ashtaroth, and Edrei, cities of the kingdom of Og in Bashan, were pertaining unto the children of Machir the son of Manasseh, even to the one half of the children of Machir by their families.",
       "tokens": [
         {
-          "t": "And half Gilead, and Ashtaroth, and Edrei, cities of the kingdom of Og in Bashan,"
+          "t": "And half Gilead, and Ashtaroth, and Edrei, cities of the kingdom of Og in Bashan, "
         },
         {
           "add": "were pertaining"
         },
         {
-          "t": "unto the children of Machir the son of Manasseh,"
+          "t": " unto the children of Machir the son of Manasseh, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to the one half of the children of Machir by their families."
+          "t": " to the one half of the children of Machir by their families. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "These are the countries which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are the countries"
         },
         {
-          "t": "which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward."
+          "t": " which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "But unto the tribe of Levi Moses gave not any inheritance: the LORD God of Israel was their inheritance, as he said unto them.",
       "tokens": [
         {
-          "t": "But unto the tribe of Levi Moses gave not"
+          "t": "But unto the tribe of Levi Moses gave not "
         },
         {
           "add": "any"
         },
         {
-          "t": "inheritance: the"
+          "t": " inheritance: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel"
+          "t": " God of Israel "
         },
         {
           "add": "was"
         },
         {
-          "t": "their inheritance, as he said unto them."
+          "t": " their inheritance, as he said unto them. "
         }
       ]
     }

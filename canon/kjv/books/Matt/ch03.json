@@ -7,158 +7,184 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In those days came John the Baptist, preaching in the wilderness of Judaea,",
       "tokens": [
         {
-          "t": "In those days came John the Baptist, preaching in the wilderness of Judaea,"
+          "t": "In those days came John the Baptist, preaching in the wilderness of Judaea, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And saying, Repent ye: for the kingdom of heaven is at hand.",
       "tokens": [
         {
-          "t": "And saying, Repent ye: for the kingdom of heaven is at hand."
+          "t": "And saying, Repent ye: for the kingdom of heaven is at hand. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
       "tokens": [
         {
-          "t": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+          "t": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.",
       "tokens": [
         {
-          "t": "And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey."
+          "t": "And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,",
       "tokens": [
         {
-          "t": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,"
+          "t": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And were baptized of him in Jordan, confessing their sins.",
       "tokens": [
         {
-          "t": "And were baptized of him in Jordan, confessing their sins."
+          "t": "And were baptized of him in Jordan, confessing their sins. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?",
       "tokens": [
         {
-          "t": "¶ But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?"
+          "t": "¶ But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Bring forth therefore fruits meet for repentance:",
       "tokens": [
         {
-          "t": "Bring forth therefore fruits meet for repentance:"
+          "t": "Bring forth therefore fruits meet for repentance: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham.",
       "tokens": [
         {
-          "t": "And think not to say within yourselves, We have Abraham to"
+          "t": "And think not to say within yourselves, We have Abraham to "
         },
         {
           "add": "our"
         },
         {
-          "t": "father: for I say unto you, that God is able of these stones to raise up children unto Abraham."
+          "t": " father: for I say unto you, that God is able of these stones to raise up children unto Abraham. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.",
       "tokens": [
         {
-          "t": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire."
+          "t": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:",
       "tokens": [
         {
-          "t": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and"
+          "t": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and "
         },
         {
           "add": "with"
         },
         {
-          "t": "fire:"
+          "t": " fire: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.",
       "tokens": [
         {
-          "t": "Whose fan"
+          "t": "Whose fan "
         },
         {
           "add": "is"
         },
         {
-          "t": "in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."
+          "t": " in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.",
       "tokens": [
         {
-          "t": "¶ Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him."
+          "t": "¶ Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?",
       "tokens": [
         {
-          "t": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?"
+          "t": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.",
       "tokens": [
         {
-          "t": "Then he suffered him."
+          "t": "And Jesus answering said unto him, "
         },
         {
-          "t": "And Jesus answering said unto him, Then he suffered him."
+          "t": "Suffer "
+        },
+        {
+          "add": " it to be so"
+        },
+        {
+          "t": " now: for thus it becometh us to fulfil all righteousness."
+        },
+        {
+          "t": " Then he suffered him. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:",
       "tokens": [
         {
-          "t": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:"
+          "t": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.",
       "tokens": [
         {
-          "t": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased."
+          "t": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased. "
         }
       ]
     }

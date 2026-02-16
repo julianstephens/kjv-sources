@@ -1,0 +1,34 @@
+version: "2"
+
+run:
+  timeout: 5m
+  tests: true
+
+linters:
+  enable:
+    - errcheck
+    - staticcheck
+    - ineffassign
+    - unused
+    - gosec
+    - govet
+  settings:
+    gosec:
+      excludes:
+        - G404
+    staticcheck:
+      checks:
+        - "-QF1008"
+
+formatters:
+  enable:
+    - goimports
+    - gofmt
+    - golines
+  settings:
+    golines:
+      max-len: 120
+
+issues:
+  max-issues-per-linter: 0
+  max-same-issues: 0

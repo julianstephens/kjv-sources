@@ -7,429 +7,457 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,",
       "tokens": [
         {
-          "t": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,"
+          "t": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The son of Shallum, the son of Zadok, the son of Ahitub,",
       "tokens": [
         {
-          "t": "The son of Shallum, the son of Zadok, the son of Ahitub,"
+          "t": "The son of Shallum, the son of Zadok, the son of Ahitub, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The son of Amariah, the son of Azariah, the son of Meraioth,",
       "tokens": [
         {
-          "t": "The son of Amariah, the son of Azariah, the son of Meraioth,"
+          "t": "The son of Amariah, the son of Azariah, the son of Meraioth, "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The son of Zerahiah, the son of Uzzi, the son of Bukki,",
       "tokens": [
         {
-          "t": "The son of Zerahiah, the son of Uzzi, the son of Bukki,"
+          "t": "The son of Zerahiah, the son of Uzzi, the son of Bukki, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:",
       "tokens": [
         {
-          "t": "The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:"
+          "t": "The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.",
       "tokens": [
         {
-          "t": "This Ezra went up from Babylon; and he"
+          "t": "This Ezra went up from Babylon; and he "
         },
         {
           "add": "was"
         },
         {
-          "t": "a ready scribe in the law of Moses, which the"
+          "t": " a ready scribe in the law of Moses, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel had given: and the king granted him all his request, according to the hand of the"
+          "t": " God of Israel had given: and the king granted him all his request, according to the hand of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God upon him."
+          "t": " his God upon him. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king.",
       "tokens": [
         {
-          "t": "And there went up"
+          "t": "And there went up "
         },
         {
           "add": "some"
         },
         {
-          "t": "of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king."
+          "t": " of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And he came to Jerusalem in the fifth month, which was in the seventh year of the king.",
       "tokens": [
         {
-          "t": "And he came to Jerusalem in the fifth month, which"
+          "t": "And he came to Jerusalem in the fifth month, which "
         },
         {
           "add": "was"
         },
         {
-          "t": "in the seventh year of the king."
+          "t": " in the seventh year of the king. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For upon the first day of the first month began he to go up from Babylon, and on the first day of the fifth month came he to Jerusalem, according to the good hand of his God upon him.",
       "tokens": [
         {
-          "t": "For upon the first"
+          "t": "For upon the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the first month began he to go up from Babylon, and on the first"
+          "t": " of the first month began he to go up from Babylon, and on the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the fifth month came he to Jerusalem, according to the good hand of his God upon him."
+          "t": " of the fifth month came he to Jerusalem, according to the good hand of his God upon him. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments.",
       "tokens": [
         {
-          "t": "For Ezra had prepared his heart to seek the law of the"
+          "t": "For Ezra had prepared his heart to seek the law of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and to do"
+          "t": ", and to do "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and to teach in Israel statutes and judgments."
+          "t": ", and to teach in Israel statutes and judgments. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Now this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of the LORD, and of his statutes to Israel.",
       "tokens": [
         {
-          "t": "¶ Now this"
+          "t": "¶ Now this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe,"
+          "t": " the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, "
         },
         {
           "add": "even"
         },
         {
-          "t": "a scribe of the words of the commandments of the"
+          "t": " a scribe of the words of the commandments of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and of his statutes to Israel."
+          "t": ", and of his statutes to Israel. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect peace, and at such a time.",
       "tokens": [
         {
-          "t": "Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect"
+          "t": "Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect "
         },
         {
           "add": "peace"
         },
         {
-          "t": ", and at such a time."
+          "t": ", and at such a time. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.",
       "tokens": [
         {
-          "t": "I make a decree, that all they of the people of Israel, and"
+          "t": "I make a decree, that all they of the people of Israel, and "
         },
         {
           "add": "of"
         },
         {
-          "t": "his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee."
+          "t": " his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Forasmuch as thou art sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of thy God which is in thine hand;",
       "tokens": [
         {
-          "t": "Forasmuch as thou art sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of thy God which"
+          "t": "Forasmuch as thou art sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of thy God which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in thine hand;"
+          "t": " in thine hand; "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation is in Jerusalem,",
       "tokens": [
         {
-          "t": "And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation"
+          "t": "And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Jerusalem,"
+          "t": " in Jerusalem, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem:",
       "tokens": [
         {
-          "t": "And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which"
+          "t": "And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Jerusalem:"
+          "t": " in Jerusalem: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "That thou mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which is in Jerusalem.",
       "tokens": [
         {
-          "t": "That thou mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which"
+          "t": "That thou mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Jerusalem."
+          "t": " in Jerusalem. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.",
       "tokens": [
         {
-          "t": "And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God."
+          "t": "And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The vessels also that are given thee for the service of the house of thy God, those deliver thou before the God of Jerusalem.",
       "tokens": [
         {
-          "t": "The vessels also that are given thee for the service of the house of thy God,"
+          "t": "The vessels also that are given thee for the service of the house of thy God, "
         },
         {
           "add": "those"
         },
         {
-          "t": "deliver thou before the God of Jerusalem."
+          "t": " deliver thou before the God of Jerusalem. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow it out of the king’s treasure house.",
       "tokens": [
         {
-          "t": "And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow"
+          "t": "And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow "
         },
         {
           "add": "it"
         },
         {
-          "t": "out of the king’s treasure house."
+          "t": " out of the king’s treasure house. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And I, even I Artaxerxes the king, do make a decree to all the treasurers which are beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, it be done speedily,",
       "tokens": [
         {
-          "t": "And I,"
+          "t": "And I, "
         },
         {
           "add": "even"
         },
         {
-          "t": "I Artaxerxes the king, do make a decree to all the treasurers which"
+          "t": " I Artaxerxes the king, do make a decree to all the treasurers which "
         },
         {
           "add": "are"
         },
         {
-          "t": "beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, it be done speedily,"
+          "t": " beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, it be done speedily, "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing how much.",
       "tokens": [
         {
-          "t": "Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing"
+          "t": "Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing "
         },
         {
           "add": "how much"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?",
       "tokens": [
         {
-          "t": "Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?"
+          "t": "Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons? "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.",
       "tokens": [
         {
-          "t": "Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them."
+          "t": "Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And thou, Ezra, after the wisdom of thy God, that is in thine hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of thy God; and teach ye them that know them not.",
       "tokens": [
         {
-          "t": "And thou, Ezra, after the wisdom of thy God, that"
+          "t": "And thou, Ezra, after the wisdom of thy God, that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in thine hand, set magistrates and judges, which may judge all the people that"
+          "t": " in thine hand, set magistrates and judges, which may judge all the people that "
         },
         {
           "add": "are"
         },
         {
-          "t": "beyond the river, all such as know the laws of thy God; and teach ye them that know"
+          "t": " beyond the river, all such as know the laws of thy God; and teach ye them that know "
         },
         {
           "add": "them"
         },
         {
-          "t": "not."
+          "t": " not. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.",
       "tokens": [
         {
-          "t": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether"
+          "t": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether "
         },
         {
           "add": "it be"
         },
         {
-          "t": "unto death, or to banishment, or to confiscation of goods, or to imprisonment."
+          "t": " unto death, or to banishment, or to confiscation of goods, or to imprisonment. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ Blessed be the LORD God of our fathers, which hath put such a thing as this in the king’s heart, to beautify the house of the LORD which is in Jerusalem:",
       "tokens": [
         {
-          "t": "¶ Blessed"
+          "t": "¶ Blessed "
         },
         {
           "add": "be"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of our fathers, which hath put"
+          "t": " God of our fathers, which hath put "
         },
         {
           "add": "such a thing"
         },
         {
-          "t": "as this in the king’s heart, to beautify the house of the"
+          "t": " as this in the king’s heart, to beautify the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "which"
+          "t": " which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Jerusalem:"
+          "t": " in Jerusalem: "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And hath extended mercy unto me before the king, and his counsellors, and before all the king’s mighty princes. And I was strengthened as the hand of the LORD my God was upon me, and I gathered together out of Israel chief men to go up with me.",
       "tokens": [
         {
-          "t": "And hath extended mercy unto me before the king, and his counsellors, and before all the king’s mighty princes. And I was strengthened as the hand of the"
+          "t": "And hath extended mercy unto me before the king, and his counsellors, and before all the king’s mighty princes. And I was strengthened as the hand of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "my God"
+          "t": " my God "
         },
         {
           "add": "was"
         },
         {
-          "t": "upon me, and I gathered together out of Israel chief men to go up with me."
+          "t": " upon me, and I gathered together out of Israel chief men to go up with me. "
         }
       ]
     }

@@ -1,0 +1,424 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 38,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", rebuke me not in thy wrath: neither chasten me in thy hot displeasure. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "For thine arrows stick fast in me, and thy hand presseth me sore.",
+      "tokens": [
+        {
+          "t": "For thine arrows stick fast in me, and thy hand presseth me sore. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "There is no soundness in my flesh because of thine anger; neither is there any rest in my bones because of my sin.",
+      "tokens": [
+        {
+          "add": "There is"
+        },
+        {
+          "t": " no soundness in my flesh because of thine anger; neither "
+        },
+        {
+          "add": "is there any"
+        },
+        {
+          "t": " rest in my bones because of my sin. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.",
+      "tokens": [
+        {
+          "t": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "My wounds stink and are corrupt because of my foolishness.",
+      "tokens": [
+        {
+          "t": "My wounds stink "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " are corrupt because of my foolishness. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "I am troubled; I am bowed down greatly; I go mourning all the day long.",
+      "tokens": [
+        {
+          "t": "I am troubled; I am bowed down greatly; I go mourning all the day long. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "For my loins are filled with a loathsome disease: and there is no soundness in my flesh.",
+      "tokens": [
+        {
+          "t": "For my loins are filled with a loathsome "
+        },
+        {
+          "add": "disease:"
+        },
+        {
+          "t": " and "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " no soundness in my flesh. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart.",
+      "tokens": [
+        {
+          "t": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Lord, all my desire is before thee; and my groaning is not hid from thee.",
+      "tokens": [
+        {
+          "t": "Lord, all my desire "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " before thee; and my groaning is not hid from thee. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.",
+      "tokens": [
+        {
+          "t": "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.",
+      "tokens": [
+        {
+          "t": "My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.",
+      "tokens": [
+        {
+          "t": "They also that seek after my life lay snares "
+        },
+        {
+          "add": "for me:"
+        },
+        {
+          "t": " and they that seek my hurt speak mischievous things, and imagine deceits all the day long. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "But I, as a deaf man, heard not; and I was as a dumb man that openeth not his mouth.",
+      "tokens": [
+        {
+          "t": "But I, as a deaf "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": ", heard not; and "
+        },
+        {
+          "add": "I was"
+        },
+        {
+          "t": " as a dumb man "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " openeth not his mouth. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "Thus I was as a man that heareth not, and in whose mouth are no reproofs.",
+      "tokens": [
+        {
+          "t": "Thus I was as a man that heareth not, and in whose mouth "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " no reproofs. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "For in thee, O LORD, do I hope: thou wilt hear, O Lord my God.",
+      "tokens": [
+        {
+          "t": "For in thee, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", do I hope: thou wilt hear, O Lord my God. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "For I said, Hear me, lest otherwise they should rejoice over me: when my foot slippeth, they magnify themselves against me.",
+      "tokens": [
+        {
+          "t": "For I said, "
+        },
+        {
+          "add": "Hear me"
+        },
+        {
+          "t": ", lest "
+        },
+        {
+          "add": "otherwise"
+        },
+        {
+          "t": " they should rejoice over me: when my foot slippeth, they magnify "
+        },
+        {
+          "add": "themselves"
+        },
+        {
+          "t": " against me. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "For I am ready to halt, and my sorrow is continually before me.",
+      "tokens": [
+        {
+          "t": "For I "
+        },
+        {
+          "add": "am"
+        },
+        {
+          "t": " ready to halt, and my sorrow "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " continually before me. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "For I will declare mine iniquity; I will be sorry for my sin.",
+      "tokens": [
+        {
+          "t": "For I will declare mine iniquity; I will be sorry for my sin. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied.",
+      "tokens": [
+        {
+          "t": "But mine enemies "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " lively, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " they are strong: and they that hate me wrongfully are multiplied. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "They also that render evil for good are mine adversaries; because I follow the thing that good is.",
+      "tokens": [
+        {
+          "t": "They also that render evil for good are mine adversaries; because I follow "
+        },
+        {
+          "add": "the thing that"
+        },
+        {
+          "t": " good "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 21,
+      "plain": "Forsake me not, O LORD: O my God, be not far from me.",
+      "tokens": [
+        {
+          "t": "Forsake me not, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": O my God, be not far from me. "
+        }
+      ]
+    },
+    {
+      "v": 22,
+      "plain": "Make haste to help me, O Lord my salvation.",
+      "tokens": [
+        {
+          "t": "Make haste to help me, O Lord my salvation. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 3
+      },
+      "text": "rest: Heb. peace, or, health"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "troubled: Heb. wried"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 10
+      },
+      "text": "is gone…: Heb. is not with me"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 11
+      },
+      "text": "sore: Heb. stroke"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 11
+      },
+      "text": "my kinsmen: or, my neighbours"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 15
+      },
+      "text": "in…: or, thee do I wait for"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 15
+      },
+      "text": "hear: or, answer"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 17
+      },
+      "text": "to halt: Heb. for halting"
+    },
+    {
+      "id": "FN9",
+      "mark": "***",
+      "at": {
+        "v": 19
+      },
+      "text": "are lively…: Heb. being living, are strong"
+    },
+    {
+      "id": "FN10",
+      "mark": "†††",
+      "at": {
+        "v": 22
+      },
+      "text": "to…: Heb. for my help"
+    }
+  ]
+}

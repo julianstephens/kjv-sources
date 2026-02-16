@@ -7,481 +7,553 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Pilate therefore took Jesus, and scourged him.",
       "tokens": [
         {
-          "t": "Then Pilate therefore took Jesus, and scourged"
+          "t": "Then Pilate therefore took Jesus, and scourged "
         },
         {
           "add": "him"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,",
       "tokens": [
         {
-          "t": "And the soldiers platted a crown of thorns, and put"
+          "t": "And the soldiers platted a crown of thorns, and put "
         },
         {
           "add": "it"
         },
         {
-          "t": "on his head, and they put on him a purple robe,"
+          "t": " on his head, and they put on him a purple robe, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And said, Hail, King of the Jews! and they smote him with their hands.",
       "tokens": [
         {
-          "t": "And said, Hail, King of the Jews! and they smote him with their hands."
+          "t": "And said, Hail, King of the Jews! and they smote him with their hands. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him.",
       "tokens": [
         {
-          "t": "Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him."
+          "t": "Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man!",
       "tokens": [
         {
-          "t": "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And"
+          "t": "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And "
         },
         {
           "add": "Pilate"
         },
         {
-          "t": "saith unto them, Behold the man!"
+          "t": " saith unto them, Behold the man! "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him.",
       "tokens": [
         {
-          "t": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify"
+          "t": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify "
         },
         {
           "add": "him"
         },
         {
-          "t": ", crucify"
+          "t": ", crucify "
         },
         {
           "add": "him"
         },
         {
-          "t": ". Pilate saith unto them, Take ye him, and crucify"
+          "t": ". Pilate saith unto them, Take ye him, and crucify "
         },
         {
           "add": "him"
         },
         {
-          "t": ": for I find no fault in him."
+          "t": ": for I find no fault in him. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.",
       "tokens": [
         {
-          "t": "The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God."
+          "t": "The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ When Pilate therefore heard that saying, he was the more afraid;",
       "tokens": [
         {
-          "t": "¶ When Pilate therefore heard that saying, he was the more afraid;"
+          "t": "¶ When Pilate therefore heard that saying, he was the more afraid; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.",
       "tokens": [
         {
-          "t": "And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer."
+          "t": "And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?",
       "tokens": [
         {
-          "t": "Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?"
+          "t": "Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.",
       "tokens": [
         {
-          "t": "Jesus answered,"
+          "t": "Jesus answered, "
+        },
+        {
+          "t": "Thou couldest have no power "
+        },
+        {
+          "add": "at all"
+        },
+        {
+          "t": " against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Cæsar’s friend: whosoever maketh himself a king speaketh against Cæsar.",
       "tokens": [
         {
-          "t": "And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Cæsar’s friend: whosoever maketh himself a king speaketh against Cæsar."
+          "t": "And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Cæsar’s friend: whosoever maketh himself a king speaketh against Cæsar. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.",
       "tokens": [
         {
-          "t": "¶ When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha."
+          "t": "¶ When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!",
       "tokens": [
         {
-          "t": "And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!"
+          "t": "And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King! "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But they cried out, Away with him, away with him, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Cæsar.",
       "tokens": [
         {
-          "t": "But they cried out, Away with"
+          "t": "But they cried out, Away with "
         },
         {
           "add": "him"
         },
         {
-          "t": ", away with"
+          "t": ", away with "
         },
         {
           "add": "him"
         },
         {
-          "t": ", crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Cæsar."
+          "t": ", crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Cæsar. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Then delivered he him therefore unto them to be crucified. And they took Jesus, and led him away.",
       "tokens": [
         {
-          "t": "Then delivered he him therefore unto them to be crucified. And they took Jesus, and led"
+          "t": "Then delivered he him therefore unto them to be crucified. And they took Jesus, and led "
         },
         {
           "add": "him"
         },
         {
-          "t": "away."
+          "t": " away. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:",
       "tokens": [
         {
-          "t": "And he bearing his cross went forth into a place called"
+          "t": "And he bearing his cross went forth into a place called "
         },
         {
           "add": "the place"
         },
         {
-          "t": "of a skull, which is called in the Hebrew Golgotha:"
+          "t": " of a skull, which is called in the Hebrew Golgotha: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Where they crucified him, and two other with him, on either side one, and Jesus in the midst.",
       "tokens": [
         {
-          "t": "Where they crucified him, and two other with him, on either side one, and Jesus in the midst."
+          "t": "Where they crucified him, and two other with him, on either side one, and Jesus in the midst. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And Pilate wrote a title, and put it on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS.",
       "tokens": [
         {
-          "t": "¶ And Pilate wrote a title, and put"
+          "t": "¶ And Pilate wrote a title, and put "
         },
         {
           "add": "it"
         },
         {
-          "t": "on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS."
+          "t": " on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, and Greek, and Latin.",
       "tokens": [
         {
-          "t": "This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew,"
+          "t": "This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Greek,"
+          "t": " Greek, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Latin."
+          "t": " Latin. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.",
       "tokens": [
         {
-          "t": "Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews."
+          "t": "Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Pilate answered, What I have written I have written.",
       "tokens": [
         {
-          "t": "Pilate answered, What I have written I have written."
+          "t": "Pilate answered, What I have written I have written. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout.",
       "tokens": [
         {
-          "t": "¶ Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also"
+          "t": "¶ Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also "
         },
         {
           "add": "his"
         },
         {
-          "t": "coat: now the coat was without seam, woven from the top throughout."
+          "t": " coat: now the coat was without seam, woven from the top throughout. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did.",
       "tokens": [
         {
-          "t": "They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did."
+          "t": "They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the wife of Cleophas, and Mary Magdalene.",
       "tokens": [
         {
-          "t": "¶ Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the"
+          "t": "¶ Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the "
         },
         {
           "add": "wife"
         },
         {
-          "t": "of Cleophas, and Mary Magdalene."
+          "t": " of Cleophas, and Mary Magdalene. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!",
       "tokens": [
         {
-          "t": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother,"
+          "t": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, "
+        },
+        {
+          "t": "Woman, behold thy son!"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home.",
       "tokens": [
         {
-          "t": "And from that hour that disciple took her unto his own"
+          "t": "Then saith he to the disciple, "
+        },
+        {
+          "t": "Behold thy mother!"
+        },
+        {
+          "t": " And from that hour that disciple took her unto his own "
         },
         {
           "add": "home."
         },
         {
-          "t": "Then saith he to the disciple, And from that hour that disciple took her unto his own"
-        },
-        {
-          "add": "home."
+          "t": " "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.",
       "tokens": [
         {
-          "t": "¶ After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith,"
+          "t": "¶ After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, "
+        },
+        {
+          "t": "I thirst."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth.",
       "tokens": [
         {
-          "t": "Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put"
+          "t": "Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon hyssop, and put"
+          "t": " upon hyssop, and put "
         },
         {
           "add": "it"
         },
         {
-          "t": "to his mouth."
+          "t": " to his mouth. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.",
       "tokens": [
         {
-          "t": "and he bowed his head, and gave up the ghost."
+          "t": "When Jesus therefore had received the vinegar, he said, "
         },
         {
-          "t": "When Jesus therefore had received the vinegar, he said, and he bowed his head, and gave up the ghost."
+          "t": "It is finished:"
+        },
+        {
+          "t": " and he bowed his head, and gave up the ghost. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and that they might be taken away.",
       "tokens": [
         {
-          "t": "The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and"
+          "t": "The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "they might be taken away."
+          "t": " they might be taken away. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.",
       "tokens": [
         {
-          "t": "Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him."
+          "t": "Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "But when they came to Jesus, and saw that he was dead already, they brake not his legs:",
       "tokens": [
         {
-          "t": "But when they came to Jesus, and saw that he was dead already, they brake not his legs:"
+          "t": "But when they came to Jesus, and saw that he was dead already, they brake not his legs: "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.",
       "tokens": [
         {
-          "t": "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water."
+          "t": "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And he that saw it bare record, and his record is true: and he knoweth that he saith true, that ye might believe.",
       "tokens": [
         {
-          "t": "And he that saw"
+          "t": "And he that saw "
         },
         {
           "add": "it"
         },
         {
-          "t": "bare record, and his record is true: and he knoweth that he saith true, that ye might believe."
+          "t": " bare record, and his record is true: and he knoweth that he saith true, that ye might believe. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.",
       "tokens": [
         {
-          "t": "For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken."
+          "t": "For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And again another scripture saith, They shall look on him whom they pierced.",
       "tokens": [
         {
-          "t": "And again another scripture saith, They shall look on him whom they pierced."
+          "t": "And again another scripture saith, They shall look on him whom they pierced. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "¶ And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus.",
       "tokens": [
         {
-          "t": "¶ And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave"
+          "t": "¶ And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave "
         },
         {
           "add": "him"
         },
         {
-          "t": "leave. He came therefore, and took the body of Jesus."
+          "t": " leave. He came therefore, and took the body of Jesus. "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound weight.",
       "tokens": [
         {
-          "t": "And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound"
+          "t": "And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound "
         },
         {
           "add": "weight"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.",
       "tokens": [
         {
-          "t": "Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury."
+          "t": "Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid.",
       "tokens": [
         {
-          "t": "Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid."
+          "t": "Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "There laid they Jesus therefore because of the Jews’ preparation day; for the sepulchre was nigh at hand.",
       "tokens": [
         {
-          "t": "There laid they Jesus therefore because of the Jews’ preparation"
+          "t": "There laid they Jesus therefore because of the Jews’ preparation "
         },
         {
           "add": "day"
         },
         {
-          "t": "; for the sepulchre was nigh at hand."
+          "t": "; for the sepulchre was nigh at hand. "
         }
       ]
     }

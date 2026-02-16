@@ -7,199 +7,211 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,",
       "tokens": [
         {
-          "t": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,"
+          "t": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!",
       "tokens": [
         {
-          "t": "As"
+          "t": "As "
         },
         {
           "add": "when"
         },
         {
-          "t": "the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries,"
+          "t": " the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the nations may tremble at thy presence!"
+          "t": " the nations may tremble at thy presence! "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "When thou didst terrible things which we looked not for, thou camest down, the mountains flowed down at thy presence.",
       "tokens": [
         {
-          "t": "When thou didst terrible things"
+          "t": "When thou didst terrible things "
         },
         {
           "add": "which"
         },
         {
-          "t": "we looked not for, thou camest down, the mountains flowed down at thy presence."
+          "t": " we looked not for, thou camest down, the mountains flowed down at thy presence. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For since the beginning of the world men have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, what he hath prepared for him that waiteth for him.",
       "tokens": [
         {
-          "t": "For since the beginning of the world"
+          "t": "For since the beginning of the world "
         },
         {
           "add": "men"
         },
         {
-          "t": "have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee,"
+          "t": " have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, "
         },
         {
           "add": "what"
         },
         {
-          "t": "he hath prepared for him that waiteth for him."
+          "t": " he hath prepared for him that waiteth for him. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.",
       "tokens": [
         {
-          "t": "Thou meetest him that rejoiceth and worketh righteousness,"
+          "t": "Thou meetest him that rejoiceth and worketh righteousness, "
         },
         {
           "add": "those that"
         },
         {
-          "t": "remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved."
+          "t": " remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.",
       "tokens": [
         {
-          "t": "But we are all as an unclean"
+          "t": "But we are all as an unclean "
         },
         {
           "add": "thing"
         },
         {
-          "t": ", and all our righteousnesses"
+          "t": ", and all our righteousnesses "
         },
         {
           "add": "are"
         },
         {
-          "t": "as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away."
+          "t": " as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And there is none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities."
+          "t": " none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.",
       "tokens": [
         {
-          "t": "But now, O"
+          "t": "But now, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", thou"
+          "t": ", thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "our father; we"
+          "t": " our father; we "
         },
         {
           "add": "are"
         },
         {
-          "t": "the clay, and thou our potter; and we all"
+          "t": " the clay, and thou our potter; and we all "
         },
         {
           "add": "are"
         },
         {
-          "t": "the work of thy hand."
+          "t": " the work of thy hand. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ Be not wroth very sore, O LORD, neither remember iniquity for ever: behold, see, we beseech thee, we are all thy people.",
       "tokens": [
         {
-          "t": "¶ Be not wroth very sore, O"
+          "t": "¶ Be not wroth very sore, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", neither remember iniquity for ever: behold, see, we beseech thee, we"
+          "t": ", neither remember iniquity for ever: behold, see, we beseech thee, we "
         },
         {
           "add": "are"
         },
         {
-          "t": "all thy people."
+          "t": " all thy people. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.",
       "tokens": [
         {
-          "t": "Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation."
+          "t": "Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.",
       "tokens": [
         {
-          "t": "Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste."
+          "t": "Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Wilt thou refrain thyself for these things, O LORD? wilt thou hold thy peace, and afflict us very sore?",
       "tokens": [
         {
-          "t": "Wilt thou refrain thyself for these"
+          "t": "Wilt thou refrain thyself for these "
         },
         {
           "add": "things"
         },
         {
-          "t": ", O"
+          "t": ", O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "? wilt thou hold thy peace, and afflict us very sore?"
+          "t": "? wilt thou hold thy peace, and afflict us very sore? "
         }
       ]
     }

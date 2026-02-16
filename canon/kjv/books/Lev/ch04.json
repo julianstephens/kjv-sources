@@ -7,542 +7,586 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD concerning things which ought not to be done, and shall do against any of them:",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the"
+          "t": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "concerning things"
         },
         {
-          "t": "which ought not to be done, and shall do against any of them:"
+          "t": " which ought not to be done, and shall do against any of them: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering.",
       "tokens": [
         {
-          "t": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the"
+          "t": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for a sin offering."
+          "t": " for a sin offering. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock’s head, and kill the bullock before the LORD.",
       "tokens": [
         {
-          "t": "And he shall bring the bullock unto the door of the tabernacle of the congregation before the"
+          "t": "And he shall bring the bullock unto the door of the tabernacle of the congregation before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and shall lay his hand upon the bullock’s head, and kill the bullock before the"
+          "t": "; and shall lay his hand upon the bullock’s head, and kill the bullock before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the priest that is anointed shall take of the bullock’s blood, and bring it to the tabernacle of the congregation:",
       "tokens": [
         {
-          "t": "And the priest that is anointed shall take of the bullock’s blood, and bring it to the tabernacle of the congregation:"
+          "t": "And the priest that is anointed shall take of the bullock’s blood, and bring it to the tabernacle of the congregation: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary.",
       "tokens": [
         {
-          "t": "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the"
+          "t": "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", before the vail of the sanctuary."
+          "t": ", before the vail of the sanctuary. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the priest shall put some of the blood upon the horns of the altar of sweet incense before the LORD, which is in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.",
       "tokens": [
         {
-          "t": "And the priest shall put"
+          "t": "And the priest shall put "
         },
         {
           "add": "some"
         },
         {
-          "t": "of the blood upon the horns of the altar of sweet incense before the"
+          "t": " of the blood upon the horns of the altar of sweet incense before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which"
+          "t": ", which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which"
+          "t": " in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which "
         },
         {
           "add": "is at"
         },
         {
-          "t": "the door of the tabernacle of the congregation."
+          "t": " the door of the tabernacle of the congregation. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that is upon the inwards,",
       "tokens": [
         {
-          "t": "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that"
+          "t": "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the inwards,"
+          "t": " upon the inwards, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away,",
       "tokens": [
         {
-          "t": "And the two kidneys, and the fat that"
+          "t": "And the two kidneys, and the fat that "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon them, which"
+          "t": " upon them, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "by the flanks, and the caul above the liver, with the kidneys, it shall he take away,"
+          "t": " by the flanks, and the caul above the liver, with the kidneys, it shall he take away, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering.",
       "tokens": [
         {
-          "t": "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering."
+          "t": "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,",
       "tokens": [
         {
-          "t": "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,"
+          "t": "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt.",
       "tokens": [
         {
-          "t": "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt."
+          "t": "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the LORD concerning things which should not be done, and are guilty;",
       "tokens": [
         {
-          "t": "¶ And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done"
+          "t": "¶ And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done "
         },
         {
           "add": "somewhat against"
         },
         {
-          "t": "any of the commandments of the"
+          "t": " any of the commandments of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "concerning things"
         },
         {
-          "t": "which should not be done, and are guilty;"
+          "t": " which should not be done, and are guilty; "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation.",
       "tokens": [
         {
-          "t": "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation."
+          "t": "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the elders of the congregation shall lay their hands upon the head of the bullock before the LORD: and the bullock shall be killed before the LORD.",
       "tokens": [
         {
-          "t": "And the elders of the congregation shall lay their hands upon the head of the bullock before the"
+          "t": "And the elders of the congregation shall lay their hands upon the head of the bullock before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and the bullock shall be killed before the"
+          "t": ": and the bullock shall be killed before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the priest that is anointed shall bring of the bullock’s blood to the tabernacle of the congregation:",
       "tokens": [
         {
-          "t": "And the priest that is anointed shall bring of the bullock’s blood to the tabernacle of the congregation:"
+          "t": "And the priest that is anointed shall bring of the bullock’s blood to the tabernacle of the congregation: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the priest shall dip his finger in some of the blood, and sprinkle it seven times before the LORD, even before the vail.",
       "tokens": [
         {
-          "t": "And the priest shall dip his finger"
+          "t": "And the priest shall dip his finger "
         },
         {
           "add": "in some"
         },
         {
-          "t": "of the blood, and sprinkle"
+          "t": " of the blood, and sprinkle "
         },
         {
           "add": "it"
         },
         {
-          "t": "seven times before the"
+          "t": " seven times before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "even"
         },
         {
-          "t": "before the vail."
+          "t": " before the vail. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he shall put some of the blood upon the horns of the altar which is before the LORD, that is in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.",
       "tokens": [
         {
-          "t": "And he shall put"
+          "t": "And he shall put "
         },
         {
           "add": "some"
         },
         {
-          "t": "of the blood upon the horns of the altar which"
+          "t": " of the blood upon the horns of the altar which "
         },
         {
           "add": "is"
         },
         {
-          "t": "before the"
+          "t": " before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", that"
+          "t": ", that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which"
+          "t": " in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which "
         },
         {
           "add": "is at"
         },
         {
-          "t": "the door of the tabernacle of the congregation."
+          "t": " the door of the tabernacle of the congregation. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And he shall take all his fat from him, and burn it upon the altar.",
       "tokens": [
         {
-          "t": "And he shall take all his fat from him, and burn"
+          "t": "And he shall take all his fat from him, and burn "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon the altar."
+          "t": " upon the altar. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them.",
       "tokens": [
         {
-          "t": "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them."
+          "t": "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it is a sin offering for the congregation.",
       "tokens": [
         {
-          "t": "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it"
+          "t": "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a sin offering for the congregation."
+          "t": " a sin offering for the congregation. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ When a ruler hath sinned, and done somewhat through ignorance against any of the commandments of the LORD his God concerning things which should not be done, and is guilty;",
       "tokens": [
         {
-          "t": "¶ When a ruler hath sinned, and done"
+          "t": "¶ When a ruler hath sinned, and done "
         },
         {
           "add": "somewhat"
         },
         {
-          "t": "through ignorance"
+          "t": " through ignorance "
         },
         {
           "add": "against"
         },
         {
-          "t": "any of the commandments of the"
+          "t": " any of the commandments of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God"
+          "t": " his God "
         },
         {
           "add": "concerning things"
         },
         {
-          "t": "which should not be done, and is guilty;"
+          "t": " which should not be done, and is guilty; "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:",
       "tokens": [
         {
-          "t": "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:"
+          "t": "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD: it is a sin offering.",
       "tokens": [
         {
-          "t": "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the"
+          "t": "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": it"
+          "t": ": it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a sin offering."
+          "t": " a sin offering. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering.",
       "tokens": [
         {
-          "t": "And the priest shall take of the blood of the sin offering with his finger, and put"
+          "t": "And the priest shall take of the blood of the sin offering with his finger, and put "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering."
+          "t": " upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.",
       "tokens": [
         {
-          "t": "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him."
+          "t": "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the LORD concerning things which ought not to be done, and be guilty;",
       "tokens": [
         {
-          "t": "¶ And if any one of the common people sin through ignorance, while he doeth"
+          "t": "¶ And if any one of the common people sin through ignorance, while he doeth "
         },
         {
           "add": "somewhat against"
         },
         {
-          "t": "any of the commandments of the"
+          "t": " any of the commandments of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "concerning things"
         },
         {
-          "t": "which ought not to be done, and be guilty;"
+          "t": " which ought not to be done, and be guilty; "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.",
       "tokens": [
         {
-          "t": "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned."
+          "t": "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering.",
       "tokens": [
         {
-          "t": "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering."
+          "t": "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And the priest shall take of the blood thereof with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar.",
       "tokens": [
         {
-          "t": "And the priest shall take of the blood thereof with his finger, and put"
+          "t": "And the priest shall take of the blood thereof with his finger, and put "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar."
+          "t": " upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn it upon the altar for a sweet savour unto the LORD; and the priest shall make an atonement for him, and it shall be forgiven him.",
       "tokens": [
         {
-          "t": "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn"
+          "t": "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon the altar for a sweet savour unto the"
+          "t": " upon the altar for a sweet savour unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and the priest shall make an atonement for him, and it shall be forgiven him."
+          "t": "; and the priest shall make an atonement for him, and it shall be forgiven him. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And if he bring a lamb for a sin offering, he shall bring it a female without blemish.",
       "tokens": [
         {
-          "t": "And if he bring a lamb for a sin offering, he shall bring it a female without blemish."
+          "t": "And if he bring a lamb for a sin offering, he shall bring it a female without blemish. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.",
       "tokens": [
         {
-          "t": "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering."
+          "t": "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:",
       "tokens": [
         {
-          "t": "And the priest shall take of the blood of the sin offering with his finger, and put"
+          "t": "And the priest shall take of the blood of the sin offering with his finger, and put "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:"
+          "t": " upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar: "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him.",
       "tokens": [
         {
-          "t": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the"
+          "t": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him."
+          "t": ": and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him. "
         }
       ]
     }

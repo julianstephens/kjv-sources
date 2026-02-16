@@ -7,238 +7,259 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.",
       "tokens": [
         {
-          "t": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God,"
+          "t": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, "
         },
         {
           "add": "which is"
         },
         {
-          "t": "your reasonable service."
+          "t": " your reasonable service. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
       "tokens": [
         {
-          "t": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what"
+          "t": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what "
         },
         {
           "add": "is"
         },
         {
-          "t": "that good, and acceptable, and perfect, will of God."
+          "t": " that good, and acceptable, and perfect, will of God. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.",
       "tokens": [
         {
-          "t": "For I say, through the grace given unto me, to every man that is among you, not to think"
+          "t": "For I say, through the grace given unto me, to every man that is among you, not to think "
         },
         {
           "add": "of himself"
         },
         {
-          "t": "more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith."
+          "t": " more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For as we have many members in one body, and all members have not the same office:",
       "tokens": [
         {
-          "t": "For as we have many members in one body, and all members have not the same office:"
+          "t": "For as we have many members in one body, and all members have not the same office: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "So we, being many, are one body in Christ, and every one members one of another.",
       "tokens": [
         {
-          "t": "So we,"
+          "t": "So we, "
         },
         {
           "add": "being"
         },
         {
-          "t": "many, are one body in Christ, and every one members one of another."
+          "t": " many, are one body in Christ, and every one members one of another. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;",
       "tokens": [
         {
-          "t": "Having then gifts differing according to the grace that is given to us, whether prophecy,"
+          "t": "Having then gifts differing according to the grace that is given to us, whether prophecy, "
         },
         {
           "add": "let us prophesy"
         },
         {
-          "t": "according to the proportion of faith;"
+          "t": " according to the proportion of faith; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Or ministry, let us wait on our ministering: or he that teacheth, on teaching;",
       "tokens": [
         {
-          "t": "Or ministry,"
+          "t": "Or ministry, "
         },
         {
           "add": "let us wait"
         },
         {
-          "t": "on"
+          "t": " on "
         },
         {
           "add": "our"
         },
         {
-          "t": "ministering: or he that teacheth, on teaching;"
+          "t": " ministering: or he that teacheth, on teaching; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.",
       "tokens": [
         {
-          "t": "Or he that exhorteth, on exhortation: he that giveth,"
+          "t": "Or he that exhorteth, on exhortation: he that giveth, "
         },
         {
           "add": "let him do it"
         },
         {
-          "t": "with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness."
+          "t": " with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.",
       "tokens": [
         {
           "add": "Let"
         },
         {
-          "t": "love be without dissimulation. Abhor that which is evil; cleave to that which is good."
+          "t": " love be without dissimulation. Abhor that which is evil; cleave to that which is good. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Be kindly affectioned one to another with brotherly love; in honour preferring one another;",
       "tokens": [
         {
           "add": "Be"
         },
         {
-          "t": "kindly affectioned one to another with brotherly love; in honour preferring one another;"
+          "t": " kindly affectioned one to another with brotherly love; in honour preferring one another; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Not slothful in business; fervent in spirit; serving the Lord;",
       "tokens": [
         {
-          "t": "Not slothful in business; fervent in spirit; serving the Lord;"
+          "t": "Not slothful in business; fervent in spirit; serving the Lord; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
       "tokens": [
         {
-          "t": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;"
+          "t": "Rejoicing in hope; patient in tribulation; continuing instant in prayer; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Distributing to the necessity of saints; given to hospitality.",
       "tokens": [
         {
-          "t": "Distributing to the necessity of saints; given to hospitality."
+          "t": "Distributing to the necessity of saints; given to hospitality. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Bless them which persecute you: bless, and curse not.",
       "tokens": [
         {
-          "t": "Bless them which persecute you: bless, and curse not."
+          "t": "Bless them which persecute you: bless, and curse not. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Rejoice with them that do rejoice, and weep with them that weep.",
       "tokens": [
         {
-          "t": "Rejoice with them that do rejoice, and weep with them that weep."
+          "t": "Rejoice with them that do rejoice, and weep with them that weep. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.",
       "tokens": [
         {
           "add": "Be"
         },
         {
-          "t": "of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits."
+          "t": " of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Recompense to no man evil for evil. Provide things honest in the sight of all men.",
       "tokens": [
         {
-          "t": "Recompense to no man evil for evil. Provide things honest in the sight of all men."
+          "t": "Recompense to no man evil for evil. Provide things honest in the sight of all men. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "If it be possible, as much as lieth in you, live peaceably with all men.",
       "tokens": [
         {
-          "t": "If it be possible, as much as lieth in you, live peaceably with all men."
+          "t": "If it be possible, as much as lieth in you, live peaceably with all men. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.",
       "tokens": [
         {
-          "t": "Dearly beloved, avenge not yourselves, but"
+          "t": "Dearly beloved, avenge not yourselves, but "
         },
         {
           "add": "rather"
         },
         {
-          "t": "give place unto wrath: for it is written, Vengeance"
+          "t": " give place unto wrath: for it is written, Vengeance "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine; I will repay, saith the Lord."
+          "t": " mine; I will repay, saith the Lord. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.",
       "tokens": [
         {
-          "t": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head."
+          "t": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Be not overcome of evil, but overcome evil with good.",
       "tokens": [
         {
-          "t": "Be not overcome of evil, but overcome evil with good."
+          "t": "Be not overcome of evil, but overcome evil with good. "
         }
       ]
     }

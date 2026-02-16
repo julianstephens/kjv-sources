@@ -7,123 +7,130 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.",
       "tokens": [
         {
-          "t": "The word of the"
+          "t": "The word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza."
+          "t": " that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thus saith the LORD; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl."
+          "t": "; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "At the noise of the stamping of the hoofs of his strong horses, at the rushing of his chariots, and at the rumbling of his wheels, the fathers shall not look back to their children for feebleness of hands;",
       "tokens": [
         {
-          "t": "At the noise of the stamping of the hoofs of his strong"
+          "t": "At the noise of the stamping of the hoofs of his strong "
         },
         {
           "add": "horses"
         },
         {
-          "t": ", at the rushing of his chariots,"
+          "t": ", at the rushing of his chariots, "
         },
         {
           "add": "and at"
         },
         {
-          "t": "the rumbling of his wheels, the fathers shall not look back to"
+          "t": " the rumbling of his wheels, the fathers shall not look back to "
         },
         {
           "add": "their"
         },
         {
-          "t": "children for feebleness of hands;"
+          "t": " children for feebleness of hands; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Because of the day that cometh to spoil all the Philistines, and to cut off from Tyrus and Zidon every helper that remaineth: for the LORD will spoil the Philistines, the remnant of the country of Caphtor.",
       "tokens": [
         {
-          "t": "Because of the day that cometh to spoil all the Philistines,"
+          "t": "Because of the day that cometh to spoil all the Philistines, "
         },
         {
           "add": "and"
         },
         {
-          "t": "to cut off from Tyrus and Zidon every helper that remaineth: for the"
+          "t": " to cut off from Tyrus and Zidon every helper that remaineth: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will spoil the Philistines, the remnant of the country of Caphtor."
+          "t": " will spoil the Philistines, the remnant of the country of Caphtor. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Baldness is come upon Gaza; Ashkelon is cut off with the remnant of their valley: how long wilt thou cut thyself?",
       "tokens": [
         {
-          "t": "Baldness is come upon Gaza; Ashkelon is cut off"
+          "t": "Baldness is come upon Gaza; Ashkelon is cut off "
         },
         {
           "add": "with"
         },
         {
-          "t": "the remnant of their valley: how long wilt thou cut thyself?"
+          "t": " the remnant of their valley: how long wilt thou cut thyself? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "O thou sword of the LORD, how long will it be ere thou be quiet? put up thyself into thy scabbard, rest, and be still.",
       "tokens": [
         {
-          "t": "O thou sword of the"
+          "t": "O thou sword of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", how long"
+          "t": ", how long "
         },
         {
           "add": "will it be"
         },
         {
-          "t": "ere thou be quiet? put up thyself into thy scabbard, rest, and be still."
+          "t": " ere thou be quiet? put up thyself into thy scabbard, rest, and be still. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "How can it be quiet, seeing the LORD hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it.",
       "tokens": [
         {
-          "t": "How can it be quiet, seeing the"
+          "t": "How can it be quiet, seeing the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it."
+          "t": " hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it. "
         }
       ]
     }

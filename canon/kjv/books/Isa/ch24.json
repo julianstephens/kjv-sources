@@ -7,296 +7,319 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.",
       "tokens": [
         {
-          "t": "Behold, the"
+          "t": "Behold, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof."
+          "t": " maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.",
       "tokens": [
         {
-          "t": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him."
+          "t": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The land shall be utterly emptied, and utterly spoiled: for the LORD hath spoken this word.",
       "tokens": [
         {
-          "t": "The land shall be utterly emptied, and utterly spoiled: for the"
+          "t": "The land shall be utterly emptied, and utterly spoiled: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath spoken this word."
+          "t": " hath spoken this word. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The earth mourneth and fadeth away, the world languisheth and fadeth away, the haughty people of the earth do languish.",
       "tokens": [
         {
-          "t": "The earth mourneth"
+          "t": "The earth mourneth "
         },
         {
           "add": "and"
         },
         {
-          "t": "fadeth away, the world languisheth"
+          "t": " fadeth away, the world languisheth "
         },
         {
           "add": "and"
         },
         {
-          "t": "fadeth away, the haughty people of the earth do languish."
+          "t": " fadeth away, the haughty people of the earth do languish. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.",
       "tokens": [
         {
-          "t": "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant."
+          "t": "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left.",
       "tokens": [
         {
-          "t": "Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left."
+          "t": "Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The new wine mourneth, the vine languisheth, all the merryhearted do sigh.",
       "tokens": [
         {
-          "t": "The new wine mourneth, the vine languisheth, all the merryhearted do sigh."
+          "t": "The new wine mourneth, the vine languisheth, all the merryhearted do sigh. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth.",
       "tokens": [
         {
-          "t": "The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth."
+          "t": "The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "They shall not drink wine with a song; strong drink shall be bitter to them that drink it.",
       "tokens": [
         {
-          "t": "They shall not drink wine with a song; strong drink shall be bitter to them that drink it."
+          "t": "They shall not drink wine with a song; strong drink shall be bitter to them that drink it. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The city of confusion is broken down: every house is shut up, that no man may come in.",
       "tokens": [
         {
-          "t": "The city of confusion is broken down: every house is shut up, that no man may come in."
+          "t": "The city of confusion is broken down: every house is shut up, that no man may come in. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "There is a crying for wine in the streets; all joy is darkened, the mirth of the land is gone.",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "a crying for wine in the streets; all joy is darkened, the mirth of the land is gone."
+          "t": " a crying for wine in the streets; all joy is darkened, the mirth of the land is gone. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "In the city is left desolation, and the gate is smitten with destruction.",
       "tokens": [
         {
-          "t": "In the city is left desolation, and the gate is smitten with destruction."
+          "t": "In the city is left desolation, and the gate is smitten with destruction. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ When thus it shall be in the midst of the land among the people, there shall be as the shaking of an olive tree, and as the gleaning grapes when the vintage is done.",
       "tokens": [
         {
-          "t": "¶ When thus it shall be in the midst of the land among the people,"
+          "t": "¶ When thus it shall be in the midst of the land among the people, "
         },
         {
           "add": "there shall be"
         },
         {
-          "t": "as the shaking of an olive tree,"
+          "t": " as the shaking of an olive tree, "
         },
         {
           "add": "and"
         },
         {
-          "t": "as the gleaning grapes when the vintage is done."
+          "t": " as the gleaning grapes when the vintage is done. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea.",
       "tokens": [
         {
-          "t": "They shall lift up their voice, they shall sing for the majesty of the"
+          "t": "They shall lift up their voice, they shall sing for the majesty of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", they shall cry aloud from the sea."
+          "t": ", they shall cry aloud from the sea. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Wherefore glorify ye the LORD in the fires, even the name of the LORD God of Israel in the isles of the sea.",
       "tokens": [
         {
-          "t": "Wherefore glorify ye the"
+          "t": "Wherefore glorify ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in the fires,"
+          "t": " in the fires, "
         },
         {
           "add": "even"
         },
         {
-          "t": "the name of the"
+          "t": " the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel in the isles of the sea."
+          "t": " God of Israel in the isles of the sea. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.",
       "tokens": [
         {
-          "t": "¶ From the uttermost part of the earth have we heard songs,"
+          "t": "¶ From the uttermost part of the earth have we heard songs, "
         },
         {
           "add": "even"
         },
         {
-          "t": "glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously."
+          "t": " glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Fear, and the pit, and the snare, are upon thee, O inhabitant of the earth.",
       "tokens": [
         {
-          "t": "Fear, and the pit, and the snare,"
+          "t": "Fear, and the pit, and the snare, "
         },
         {
           "add": "are"
         },
         {
-          "t": "upon thee, O inhabitant of the earth."
+          "t": " upon thee, O inhabitant of the earth. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake.",
       "tokens": [
         {
-          "t": "And it shall come to pass,"
+          "t": "And it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake."
+          "t": " he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.",
       "tokens": [
         {
-          "t": "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly."
+          "t": "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.",
       "tokens": [
         {
-          "t": "The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again."
+          "t": "The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And it shall come to pass in that day, that the LORD shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.",
       "tokens": [
         {
-          "t": "And it shall come to pass in that day,"
+          "t": "And it shall come to pass in that day, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall punish the host of the high ones"
+          "t": " shall punish the host of the high ones "
         },
         {
           "add": "that are"
         },
         {
-          "t": "on high, and the kings of the earth upon the earth."
+          "t": " on high, and the kings of the earth upon the earth. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited.",
       "tokens": [
         {
-          "t": "And they shall be gathered together,"
+          "t": "And they shall be gathered together, "
         },
         {
           "add": "as"
         },
         {
-          "t": "prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited."
+          "t": " prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously.",
       "tokens": [
         {
-          "t": "Then the moon shall be confounded, and the sun ashamed, when the"
+          "t": "Then the moon shall be confounded, and the sun ashamed, when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously."
+          "t": " of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously. "
         }
       ]
     }

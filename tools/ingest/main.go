@@ -1,62 +1,75 @@
 package main
 
 import (
-	"flag"
 	"fmt"
 	"os"
 	"path/filepath"
+
+	"github.com/alecthomas/kong"
+
+	"github.com/julianstephens/kjv-sources/tools/util"
 )
 
+type IngestCLI struct {
+	RawDir    string `type:"existingdir" help:"Directory containing raw HTML chapter files"                                     default:"raw"`
+	OutputDir string `type:"existingdir" help:"Directory to write processed output files"                                       default:"canon/kjv"`
+	Book      string `help:"Book abbreviation to process (e.g. GEN, EXO, PRO) or 'all' to process all books" default:"all"`
+	Work      string `help:"The work identifier"                                                             default:"KJV"`
+	Manifest  bool   `help:"Generate SHA256 manifest of raw files"                                           default:"false"`
+	Verbose   bool   `help:"Enable verbose logging output"                                                   default:"false"`
+}
+
 func main() {
-	book := flag.String("book", "", "Book abbreviation (e.g. GEN, EXO, MAT) or 'all' to process all books")
-	verbose := flag.Bool("verbose", false, "Enable verbose logging output")
-	flag.Parse()
+	stop := make(chan bool)
+	kongCtx := kong.Parse(
+		&IngestCLI{},
+		kong.Name("kjv-ingest"),
+		kong.Description("KJV Ingest Tool"),
+		kong.ConfigureHelp(kong.HelpOptions{
+			Compact: true,
+		}),
+		kong.Bind(stop),
+	)
 
-	if *book == "" {
-		fmt.Println("Usage: go run ./tools/ingest -book=ABBR [-verbose]")
-		fmt.Println("Example: go run ./tools/ingest -book=PRO")
-		fmt.Println("         go run ./tools/ingest -book=all -verbose")
-		fmt.Println("\nBook abbreviations: GEN, EXO, LEV, NUM, DEU, JOS, JDG, RUT, 1SA, 2SA, 1KI, 2KI, 1CH, 2CH, EZR, NEH, EST, JOB, PSA, PRO, ECC, SNG, ISA, JER, LAM, EZK, DAN, HOS, JOL, AMO, OBA, JON, MIC, NAM, HAB, ZEP, HAG, ZEC, MAL, TOB, JDT, ESG, WIS, SIR, BAR, S3Y, SUS, BEL, 1MA, 2MA, 1ES, MAN, 2ES, MAT, MRK, LUK, JHN, ACT, ROM, 1CO, 2CO, GAL, EPH, PHP, COL, 1TH, 2TH, 1TI, 2TI, TIT, PHM, HEB, JAS, 1PE, 2PE, 1JN, 2JN, 3JN, JUD, REV")
+	go util.Spinner("Processing", stop)
+
+	if err := kongCtx.Run(); err != nil {
+		close(stop)
+		fmt.Printf("Error: %v\n", err)
 		os.Exit(1)
 	}
 
-	// Get current working directory
-	cwd, err := os.Getwd()
-	if err != nil {
-		fmt.Printf("Error: could not get working directory: %v\n", err)
-		os.Exit(1)
+	if _, ok := <-stop; ok {
+		close(stop)
 	}
+}
 
-	// Set up paths
-	indexDir := filepath.Join(cwd, "canon/kjv/index")
-	rawDir := filepath.Join(cwd, "raw/html")
-	outputDir := filepath.Join(cwd, "canon/kjv")
-
+func (c *IngestCLI) Run(stop chan bool) error {
+	indexDir := filepath.Join(c.OutputDir, "index")
 	// Create processor
-	processor, err := NewProcessor(indexDir, rawDir, outputDir, *verbose)
+	processor, err := NewProcessor(indexDir, c.RawDir, c.OutputDir, c.Work, c.Manifest, c.Verbose)
 	if err != nil {
-		fmt.Printf("Error: failed to initialize processor: %v\n", err)
-		os.Exit(1)
+		return fmt.Errorf("Error: failed to initialize processor: %v\n", err)
 	}
 
 	// Get list of books to process
 	var booksToProcess []string
-	if *book == "all" {
+	if c.Book == "all" {
 		// Load books from metadata
 		booksToProcess, err = processor.GetAllBookAbbreviations()
 		if err != nil {
-			fmt.Printf("Error: failed to get book list: %v\n", err)
-			os.Exit(1)
+			return fmt.Errorf("failed to load book metadata: %v", err)
 		}
 	} else {
-		booksToProcess = []string{*book}
+		booksToProcess = []string{c.Book}
 	}
 
 	// Process books
 	totalProcessed := 0
 	totalSkipped := 0
 	totalErrors := 0
-	var allResults []*ProcessResult
+	var allResults []*util.ProcessResult
+	combinedFileMap := make(util.FileMap)
 
 	for _, abbr := range booksToProcess {
 		result, err := processor.ProcessBook(abbr)
@@ -67,9 +80,15 @@ func main() {
 		totalProcessed += result.FilesProcessed
 		totalSkipped += result.FilesSkipped
 		totalErrors += len(result.Errors)
-		if *book != "all" {
+
+		// Accumulate filemap entries
+		for k, v := range result.FileMap {
+			combinedFileMap[k] = v
+		}
+
+		if c.Book != "all" {
 			processor.PrintResult(result)
-		} else if *verbose {
+		} else if c.Verbose {
 			// In verbose mode with -book=all, show results for books with errors
 			if len(result.Errors) > 0 {
 				processor.PrintResult(result)
@@ -78,15 +97,25 @@ func main() {
 		allResults = append(allResults, result)
 	}
 
+	// Write the combined filemap after all books are processed
+	if len(combinedFileMap) > 0 {
+		err := processor.WriteFileMap(combinedFileMap)
+		if err != nil {
+			fmt.Printf("Warning: failed to write filemap: %v\n", err)
+		}
+	}
+
+	close(stop)
+
 	// Print summary if processing all books
-	if *book == "all" {
-		fmt.Printf("\n========================================\n")
+	if c.Book == "all" {
+		fmt.Printf("\r\n========================================\n")
 		fmt.Printf("Total Files Processed: %d\n", totalProcessed)
 		fmt.Printf("Total Files Skipped: %d\n", totalSkipped)
 		fmt.Printf("Total Errors: %d\n", totalErrors)
 		fmt.Printf("========================================\n")
 
-		if *verbose && totalErrors > 0 {
+		if c.Verbose && totalErrors > 0 {
 			fmt.Printf("\nDetailed Error Report:\n")
 			for _, result := range allResults {
 				if len(result.Errors) > 0 {
@@ -104,7 +133,9 @@ func main() {
 		}
 
 		if totalErrors > 0 {
-			os.Exit(1)
+			return fmt.Errorf("processing completed with %d errors", totalErrors)
 		}
 	}
+
+	return nil
 }

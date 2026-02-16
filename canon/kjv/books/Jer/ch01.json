@@ -7,273 +7,292 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:",
       "tokens": [
         {
-          "t": "The words of Jeremiah the son of Hilkiah, of the priests that"
+          "t": "The words of Jeremiah the son of Hilkiah, of the priests that "
         },
         {
           "add": "were"
         },
         {
-          "t": "in Anathoth in the land of Benjamin:"
+          "t": " in Anathoth in the land of Benjamin: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.",
       "tokens": [
         {
-          "t": "To whom the word of the"
+          "t": "To whom the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign."
+          "t": " came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.",
       "tokens": [
         {
-          "t": "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month."
+          "t": "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then the word of the LORD came unto me, saying,",
       "tokens": [
         {
-          "t": "Then the word of the"
+          "t": "Then the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto me, saying,"
+          "t": " came unto me, saying, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.",
       "tokens": [
         {
-          "t": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee,"
+          "t": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, "
         },
         {
           "add": "and"
         },
         {
-          "t": "I ordained thee a prophet unto the nations."
+          "t": " I ordained thee a prophet unto the nations. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child.",
       "tokens": [
         {
-          "t": "Then said I, Ah, Lord"
+          "t": "Then said I, Ah, Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "! behold, I cannot speak: for I"
+          "t": "! behold, I cannot speak: for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "a child."
+          "t": " a child. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ But the LORD said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.",
       "tokens": [
         {
-          "t": "¶ But the"
+          "t": "¶ But the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto me, Say not, I"
+          "t": " said unto me, Say not, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak."
+          "t": " a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD.",
       "tokens": [
         {
-          "t": "Be not afraid of their faces: for I"
+          "t": "Be not afraid of their faces: for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "with thee to deliver thee, saith the"
+          "t": " with thee to deliver thee, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth.",
       "tokens": [
         {
-          "t": "Then the"
+          "t": "Then the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "put forth his hand, and touched my mouth. And the"
+          "t": " put forth his hand, and touched my mouth. And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto me, Behold, I have put my words in thy mouth."
+          "t": " said unto me, Behold, I have put my words in thy mouth. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant.",
       "tokens": [
         {
-          "t": "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant."
+          "t": "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.",
       "tokens": [
         {
-          "t": "¶ Moreover the word of the"
+          "t": "¶ Moreover the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree."
+          "t": " came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Then said the LORD unto me, Thou hast well seen: for I will hasten my word to perform it.",
       "tokens": [
         {
-          "t": "Then said the"
+          "t": "Then said the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto me, Thou hast well seen: for I will hasten my word to perform it."
+          "t": " unto me, Thou hast well seen: for I will hasten my word to perform it. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the word of the LORD came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north.",
       "tokens": [
         {
-          "t": "And the word of the"
+          "t": "And the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof"
+          "t": " came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof "
         },
         {
           "add": "is"
         },
         {
-          "t": "toward the north."
+          "t": " toward the north. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then the LORD said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land.",
       "tokens": [
         {
-          "t": "Then the"
+          "t": "Then the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land."
+          "t": " said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "For, lo, I will call all the families of the kingdoms of the north, saith the LORD; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.",
       "tokens": [
         {
-          "t": "For, lo, I will call all the families of the kingdoms of the north, saith the"
+          "t": "For, lo, I will call all the families of the kingdoms of the north, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah."
+          "t": "; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands.",
       "tokens": [
         {
-          "t": "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands."
+          "t": "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them.",
       "tokens": [
         {
-          "t": "¶ Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them."
+          "t": "¶ Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.",
       "tokens": [
         {
-          "t": "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land."
+          "t": "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee.",
       "tokens": [
         {
-          "t": "And they shall fight against thee; but they shall not prevail against thee; for I"
+          "t": "And they shall fight against thee; but they shall not prevail against thee; for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "with thee, saith the"
+          "t": " with thee, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to deliver thee."
+          "t": ", to deliver thee. "
         }
       ]
     }

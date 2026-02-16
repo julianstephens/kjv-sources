@@ -7,433 +7,463 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.",
       "tokens": [
         {
-          "t": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth"
+          "t": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month,"
+          "t": " of the month, "
         },
         {
           "add": "that"
         },
         {
-          "t": "Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about."
+          "t": " Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the city was besieged unto the eleventh year of king Zedekiah.",
       "tokens": [
         {
-          "t": "And the city was besieged unto the eleventh year of king Zedekiah."
+          "t": "And the city was besieged unto the eleventh year of king Zedekiah. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And on the ninth day of the fourth month the famine prevailed in the city, and there was no bread for the people of the land.",
       "tokens": [
         {
-          "t": "And on the ninth"
+          "t": "And on the ninth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the"
+          "t": " of the "
         },
         {
           "add": "fourth"
         },
         {
-          "t": "month the famine prevailed in the city, and there was no bread for the people of the land."
+          "t": " month the famine prevailed in the city, and there was no bread for the people of the land. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ And the city was broken up, and all the men of war fled by night by the way of the gate between two walls, which is by the king’s garden: (now the Chaldees were against the city round about:) and the king went the way toward the plain.",
       "tokens": [
         {
-          "t": "¶ And the city was broken up, and all the men of war"
+          "t": "¶ And the city was broken up, and all the men of war "
         },
         {
           "add": "fled"
         },
         {
-          "t": "by night by the way of the gate between two walls, which"
+          "t": " by night by the way of the gate between two walls, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "by the king’s garden: (now the Chaldees"
+          "t": " by the king’s garden: (now the Chaldees "
         },
         {
           "add": "were"
         },
         {
-          "t": "against the city round about:) and"
+          "t": " against the city round about:) and "
         },
         {
           "add": "the king"
         },
         {
-          "t": "went the way toward the plain."
+          "t": " went the way toward the plain. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him.",
       "tokens": [
         {
-          "t": "And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him."
+          "t": "And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.",
       "tokens": [
         {
-          "t": "So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him."
+          "t": "So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.",
       "tokens": [
         {
-          "t": "And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon."
+          "t": "And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And in the fifth month, on the seventh day of the month, which is the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzar-adan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:",
       "tokens": [
         {
-          "t": "¶ And in the fifth month, on the seventh"
+          "t": "¶ And in the fifth month, on the seventh "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month, which"
+          "t": " of the month, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzar-adan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:"
+          "t": " the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzar-adan, captain of the guard, a servant of the king of Babylon, unto Jerusalem: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And he burnt the house of the LORD, and the king’s house, and all the houses of Jerusalem, and every great man’s house burnt he with fire.",
       "tokens": [
         {
-          "t": "And he burnt the house of the"
+          "t": "And he burnt the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the king’s house, and all the houses of Jerusalem, and every great"
+          "t": ", and the king’s house, and all the houses of Jerusalem, and every great "
         },
         {
           "add": "man’s"
         },
         {
-          "t": "house burnt he with fire."
+          "t": " house burnt he with fire. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about.",
       "tokens": [
         {
-          "t": "And all the army of the Chaldees, that"
+          "t": "And all the army of the Chaldees, that "
         },
         {
           "add": "were with"
         },
         {
-          "t": "the captain of the guard, brake down the walls of Jerusalem round about."
+          "t": " the captain of the guard, brake down the walls of Jerusalem round about. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Now the rest of the people that were left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzar-adan the captain of the guard carry away.",
       "tokens": [
         {
-          "t": "Now the rest of the people"
+          "t": "Now the rest of the people "
         },
         {
           "add": "that were"
         },
         {
-          "t": "left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzar-adan the captain of the guard carry away."
+          "t": " left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzar-adan the captain of the guard carry away. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "But the captain of the guard left of the poor of the land to be vinedressers and husbandmen.",
       "tokens": [
         {
-          "t": "But the captain of the guard left of the poor of the land"
+          "t": "But the captain of the guard left of the poor of the land "
         },
         {
           "add": "to be"
         },
         {
-          "t": "vinedressers and husbandmen."
+          "t": " vinedressers and husbandmen. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the pillars of brass that were in the house of the LORD, and the bases, and the brasen sea that was in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon.",
       "tokens": [
         {
-          "t": "And the pillars of brass that"
+          "t": "And the pillars of brass that "
         },
         {
           "add": "were"
         },
         {
-          "t": "in the house of the"
+          "t": " in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the bases, and the brasen sea that"
+          "t": ", and the bases, and the brasen sea that "
         },
         {
           "add": "was"
         },
         {
-          "t": "in the house of the"
+          "t": " in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", did the Chaldees break in pieces, and carried the brass of them to Babylon."
+          "t": ", did the Chaldees break in pieces, and carried the brass of them to Babylon. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away.",
       "tokens": [
         {
-          "t": "And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away."
+          "t": "And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the firepans, and the bowls, and such things as were of gold, in gold, and of silver, in silver, the captain of the guard took away.",
       "tokens": [
         {
-          "t": "And the firepans, and the bowls,"
+          "t": "And the firepans, and the bowls, "
         },
         {
           "add": "and"
         },
         {
-          "t": "such things as"
+          "t": " such things as "
         },
         {
           "add": "were"
         },
         {
-          "t": "of gold,"
+          "t": " of gold, "
         },
         {
           "add": "in"
         },
         {
-          "t": "gold, and of silver,"
+          "t": " gold, and of silver, "
         },
         {
           "add": "in"
         },
         {
-          "t": "silver, the captain of the guard took away."
+          "t": " silver, the captain of the guard took away. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "The two pillars, one sea, and the bases which Solomon had made for the house of the LORD; the brass of all these vessels was without weight.",
       "tokens": [
         {
-          "t": "The two pillars, one sea, and the bases which Solomon had made for the house of the"
+          "t": "The two pillars, one sea, and the bases which Solomon had made for the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; the brass of all these vessels was without weight."
+          "t": "; the brass of all these vessels was without weight. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "The height of the one pillar was eighteen cubits, and the chapiter upon it was brass: and the height of the chapiter three cubits; and the wreathen work, and pomegranates upon the chapiter round about, all of brass: and like unto these had the second pillar with wreathen work.",
       "tokens": [
         {
-          "t": "The height of the one pillar"
+          "t": "The height of the one pillar "
         },
         {
           "add": "was"
         },
         {
-          "t": "eighteen cubits, and the chapiter upon it"
+          "t": " eighteen cubits, and the chapiter upon it "
         },
         {
           "add": "was"
         },
         {
-          "t": "brass: and the height of the chapiter three cubits; and the wreathen work, and pomegranates upon the chapiter round about, all of brass: and like unto these had the second pillar with wreathen work."
+          "t": " brass: and the height of the chapiter three cubits; and the wreathen work, and pomegranates upon the chapiter round about, all of brass: and like unto these had the second pillar with wreathen work. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:",
       "tokens": [
         {
-          "t": "¶ And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:"
+          "t": "¶ And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And out of the city he took an officer that was set over the men of war, and five men of them that were in the king’s presence, which were found in the city, and the principal scribe of the host, which mustered the people of the land, and threescore men of the people of the land that were found in the city:",
       "tokens": [
         {
-          "t": "And out of the city he took an officer that was set over the men of war, and five men of them that were in the king’s presence, which were found in the city, and the principal scribe of the host, which mustered the people of the land, and threescore men of the people of the land"
+          "t": "And out of the city he took an officer that was set over the men of war, and five men of them that were in the king’s presence, which were found in the city, and the principal scribe of the host, which mustered the people of the land, and threescore men of the people of the land "
         },
         {
           "add": "that were"
         },
         {
-          "t": "found in the city:"
+          "t": " found in the city: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Nebuzar-adan captain of the guard took these, and brought them to the king of Babylon to Riblah:",
       "tokens": [
         {
-          "t": "And Nebuzar-adan captain of the guard took these, and brought them to the king of Babylon to Riblah:"
+          "t": "And Nebuzar-adan captain of the guard took these, and brought them to the king of Babylon to Riblah: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And the king of Babylon smote them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land.",
       "tokens": [
         {
-          "t": "And the king of Babylon smote them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land."
+          "t": "And the king of Babylon smote them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And as for the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.",
       "tokens": [
         {
-          "t": "¶ And"
+          "t": "¶ And "
         },
         {
           "add": "as for"
         },
         {
-          "t": "the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler."
+          "t": " the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.",
       "tokens": [
         {
-          "t": "And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men."
+          "t": "And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you.",
       "tokens": [
         {
-          "t": "And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you."
+          "t": "And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah.",
       "tokens": [
         {
-          "t": "But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah."
+          "t": "But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.",
       "tokens": [
         {
-          "t": "And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees."
+          "t": "And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evil-merodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;",
       "tokens": [
         {
-          "t": "¶ And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth"
+          "t": "¶ And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the month,"
+          "t": " of the month, "
         },
         {
           "add": "that"
         },
         {
-          "t": "Evil-merodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;"
+          "t": " Evil-merodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison; "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;",
       "tokens": [
         {
-          "t": "And he spake kindly to him, and set his throne above the throne of the kings that"
+          "t": "And he spake kindly to him, and set his throne above the throne of the kings that "
         },
         {
           "add": "were"
         },
         {
-          "t": "with him in Babylon;"
+          "t": " with him in Babylon; "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And changed his prison garments: and he did eat bread continually before him all the days of his life.",
       "tokens": [
         {
-          "t": "And changed his prison garments: and he did eat bread continually before him all the days of his life."
+          "t": "And changed his prison garments: and he did eat bread continually before him all the days of his life. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.",
       "tokens": [
         {
-          "t": "And his allowance"
+          "t": "And his allowance "
         },
         {
           "add": "was"
         },
         {
-          "t": "a continual allowance given him of the king, a daily rate for every day, all the days of his life."
+          "t": " a continual allowance given him of the king, a daily rate for every day, all the days of his life. "
         }
       ]
     }

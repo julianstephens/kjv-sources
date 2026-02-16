@@ -1,0 +1,289 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 92,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O most High:",
+      "tokens": [
+        {
+          "add": "It is a"
+        },
+        {
+          "t": " good "
+        },
+        {
+          "add": "thing"
+        },
+        {
+          "t": " to give thanks unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and to sing praises unto thy name, O most High: "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "To shew forth thy lovingkindness in the morning, and thy faithfulness every night,",
+      "tokens": [
+        {
+          "t": "To shew forth thy lovingkindness in the morning, and thy faithfulness every night, "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound.",
+      "tokens": [
+        {
+          "t": "Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For thou, LORD, hast made me glad through thy work: I will triumph in the works of thy hands.",
+      "tokens": [
+        {
+          "t": "For thou, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", hast made me glad through thy work: I will triumph in the works of thy hands. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "O LORD, how great are thy works! and thy thoughts are very deep.",
+      "tokens": [
+        {
+          "t": "O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", how great are thy works! "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " thy thoughts are very deep. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "A brutish man knoweth not; neither doth a fool understand this.",
+      "tokens": [
+        {
+          "t": "A brutish man knoweth not; neither doth a fool understand this. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:",
+      "tokens": [
+        {
+          "t": "When the wicked spring as the grass, and when all the workers of iniquity do flourish; "
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": " that they shall be destroyed for ever: "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "But thou, LORD, art most high for evermore.",
+      "tokens": [
+        {
+          "t": "But thou, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", "
+        },
+        {
+          "add": "art most"
+        },
+        {
+          "t": " high for evermore. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.",
+      "tokens": [
+        {
+          "t": "For, lo, thine enemies, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "But my horn shalt thou exalt like the horn of an unicorn: I shall be anointed with fresh oil.",
+      "tokens": [
+        {
+          "t": "But my horn shalt thou exalt like "
+        },
+        {
+          "add": "the horn of"
+        },
+        {
+          "t": " an unicorn: I shall be anointed with fresh oil. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me.",
+      "tokens": [
+        {
+          "t": "Mine eye also shall see "
+        },
+        {
+          "add": "my desire"
+        },
+        {
+          "t": " on mine enemies, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " mine ears shall hear "
+        },
+        {
+          "add": "my desire"
+        },
+        {
+          "t": " of the wicked that rise up against me. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.",
+      "tokens": [
+        {
+          "t": "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Those that be planted in the house of the LORD shall flourish in the courts of our God.",
+      "tokens": [
+        {
+          "t": "Those that be planted in the house of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " shall flourish in the courts of our God. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "They shall still bring forth fruit in old age; they shall be fat and flourishing;",
+      "tokens": [
+        {
+          "t": "They shall still bring forth fruit in old age; they shall be fat and flourishing; "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "To shew that the LORD is upright: he is my rock, and there is no unrighteousness in him.",
+      "tokens": [
+        {
+          "t": "To shew that the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " upright: "
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": " my rock, and "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " no unrighteousness in him. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "every…: Heb. in the nights"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 3
+      },
+      "text": "the harp…: or, the solemn sound with the harp"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 3
+      },
+      "text": "a solemn…: Heb. Higgaion"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 14
+      },
+      "text": "flourishing: Heb. green"
+    }
+  ]
+}

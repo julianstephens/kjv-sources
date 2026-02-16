@@ -7,571 +7,604 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.",
       "tokens": [
         {
-          "t": "And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them."
+          "t": "And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The LORD our God made a covenant with us in Horeb.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God made a covenant with us in Horeb."
+          "t": " our God made a covenant with us in Horeb. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The LORD made not this covenant with our fathers, but with us, even us, who are all of us here alive this day.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "made not this covenant with our fathers, but with us,"
+          "t": " made not this covenant with our fathers, but with us, "
         },
         {
           "add": "even"
         },
         {
-          "t": "us, who"
+          "t": " us, who "
         },
         {
           "add": "are"
         },
         {
-          "t": "all of us here alive this day."
+          "t": " all of us here alive this day. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The LORD talked with you face to face in the mount out of the midst of the fire,",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "talked with you face to face in the mount out of the midst of the fire,"
+          "t": " talked with you face to face in the mount out of the midst of the fire, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "(I stood between the LORD and you at that time, to shew you the word of the LORD: for ye were afraid by reason of the fire, and went not up into the mount;) saying,",
       "tokens": [
         {
-          "t": "(I stood between the"
+          "t": "(I stood between the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "and you at that time, to shew you the word of the"
+          "t": " and you at that time, to shew you the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for ye were afraid by reason of the fire, and went not up into the mount;) saying,"
+          "t": ": for ye were afraid by reason of the fire, and went not up into the mount;) saying, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ I am the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage.",
       "tokens": [
         {
-          "t": "¶ I"
+          "t": "¶ I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, which brought thee out of the land of Egypt, from the house of bondage."
+          "t": " thy God, which brought thee out of the land of Egypt, from the house of bondage. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Thou shalt have none other gods before me.",
       "tokens": [
         {
-          "t": "Thou shalt have none other gods before me."
+          "t": "Thou shalt have none other gods before me. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Thou shalt not make thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the waters beneath the earth:",
       "tokens": [
         {
-          "t": "Thou shalt not make thee"
+          "t": "Thou shalt not make thee "
         },
         {
           "add": "any"
         },
         {
-          "t": "graven image,"
+          "t": " graven image, "
         },
         {
           "add": "or"
         },
         {
-          "t": "any likeness"
+          "t": " any likeness "
         },
         {
           "add": "of any thing"
         },
         {
-          "t": "that"
+          "t": " that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in heaven above, or that"
+          "t": " in heaven above, or that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the earth beneath, or that"
+          "t": " in the earth beneath, or that "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the waters beneath the earth:"
+          "t": " in the waters beneath the earth: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me,",
       "tokens": [
         {
-          "t": "Thou shalt not bow down thyself unto them, nor serve them: for I the"
+          "t": "Thou shalt not bow down thyself unto them, nor serve them: for I the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God"
+          "t": " thy God "
         },
         {
           "add": "am"
         },
         {
-          "t": "a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth"
+          "t": " a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth "
         },
         {
           "add": "generation"
         },
         {
-          "t": "of them that hate me,"
+          "t": " of them that hate me, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And shewing mercy unto thousands of them that love me and keep my commandments.",
       "tokens": [
         {
-          "t": "And shewing mercy unto thousands of them that love me and keep my commandments."
+          "t": "And shewing mercy unto thousands of them that love me and keep my commandments. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Thou shalt not take the name of the LORD thy God in vain: for the LORD will not hold him guiltless that taketh his name in vain.",
       "tokens": [
         {
-          "t": "Thou shalt not take the name of the"
+          "t": "Thou shalt not take the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God in vain: for the"
+          "t": " thy God in vain: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will not hold"
+          "t": " will not hold "
         },
         {
           "add": "him"
         },
         {
-          "t": "guiltless that taketh his name in vain."
+          "t": " guiltless that taketh his name in vain. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee.",
       "tokens": [
         {
-          "t": "Keep the sabbath day to sanctify it, as the"
+          "t": "Keep the sabbath day to sanctify it, as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath commanded thee."
+          "t": " thy God hath commanded thee. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Six days thou shalt labour, and do all thy work:",
       "tokens": [
         {
-          "t": "Six days thou shalt labour, and do all thy work:"
+          "t": "Six days thou shalt labour, and do all thy work: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy manservant and thy maidservant may rest as well as thou.",
       "tokens": [
         {
-          "t": "But the seventh day"
+          "t": "But the seventh day "
         },
         {
           "add": "is"
         },
         {
-          "t": "the sabbath of the"
+          "t": " the sabbath of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God:"
+          "t": " thy God: "
         },
         {
           "add": "in it"
         },
         {
-          "t": "thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that"
+          "t": " thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that "
         },
         {
           "add": "is"
         },
         {
-          "t": "within thy gates; that thy manservant and thy maidservant may rest as well as thou."
+          "t": " within thy gates; that thy manservant and thy maidservant may rest as well as thou. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And remember that thou wast a servant in the land of Egypt, and that the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day.",
       "tokens": [
         {
-          "t": "And remember that thou wast a servant in the land of Egypt, and"
+          "t": "And remember that thou wast a servant in the land of Egypt, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the"
+          "t": " thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God commanded thee to keep the sabbath day."
+          "t": " thy God commanded thee to keep the sabbath day. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Honour thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee.",
       "tokens": [
         {
-          "t": "¶ Honour thy father and thy mother, as the"
+          "t": "¶ Honour thy father and thy mother, as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the"
+          "t": " thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee."
+          "t": " thy God giveth thee. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Thou shalt not kill.",
       "tokens": [
         {
-          "t": "Thou shalt not kill."
+          "t": "Thou shalt not kill. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Neither shalt thou commit adultery.",
       "tokens": [
         {
-          "t": "Neither shalt thou commit adultery."
+          "t": "Neither shalt thou commit adultery. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Neither shalt thou steal.",
       "tokens": [
         {
-          "t": "Neither shalt thou steal."
+          "t": "Neither shalt thou steal. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Neither shalt thou bear false witness against thy neighbour.",
       "tokens": [
         {
-          "t": "Neither shalt thou bear false witness against thy neighbour."
+          "t": "Neither shalt thou bear false witness against thy neighbour. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is thy neighbour’s.",
       "tokens": [
         {
-          "t": "Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any"
+          "t": "Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any "
         },
         {
           "add": "thing"
         },
         {
-          "t": "that"
+          "t": " that "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy neighbour’s."
+          "t": " thy neighbour’s. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me.",
       "tokens": [
         {
-          "t": "¶ These words the"
+          "t": "¶ These words the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me."
+          "t": " spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, even all the heads of your tribes, and your elders;",
       "tokens": [
         {
-          "t": "And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me,"
+          "t": "And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, "
         },
         {
           "add": "even"
         },
         {
-          "t": "all the heads of your tribes, and your elders;"
+          "t": " all the heads of your tribes, and your elders; "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And ye said, Behold, the LORD our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth.",
       "tokens": [
         {
-          "t": "And ye said, Behold, the"
+          "t": "And ye said, Behold, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth."
+          "t": " our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die.",
       "tokens": [
         {
-          "t": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the"
+          "t": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God any more, then we shall die."
+          "t": " our God any more, then we shall die. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?",
       "tokens": [
         {
-          "t": "For who"
+          "t": "For who "
         },
         {
           "add": "is there of"
         },
         {
-          "t": "all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we"
+          "t": " all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we "
         },
         {
           "add": "have"
         },
         {
-          "t": ", and lived?"
+          "t": ", and lived? "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear it, and do it.",
       "tokens": [
         {
-          "t": "Go thou near, and hear all that the"
+          "t": "Go thou near, and hear all that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God shall say: and speak thou unto us all that the"
+          "t": " our God shall say: and speak thou unto us all that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God shall speak unto thee; and we will hear"
+          "t": " our God shall speak unto thee; and we will hear "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and do"
+          "t": ", and do "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And the LORD heard the voice of your words, when ye spake unto me; and the LORD said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "heard the voice of your words, when ye spake unto me; and the"
+          "t": " heard the voice of your words, when ye spake unto me; and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken."
+          "t": " said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!",
       "tokens": [
         {
-          "t": "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!"
+          "t": "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever! "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Go say to them, Get you into your tents again.",
       "tokens": [
         {
-          "t": "Go say to them, Get you into your tents again."
+          "t": "Go say to them, Get you into your tents again. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do them in the land which I give them to possess it.",
       "tokens": [
         {
-          "t": "But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do"
+          "t": "But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do "
         },
         {
           "add": "them"
         },
         {
-          "t": "in the land which I give them to possess it."
+          "t": " in the land which I give them to possess it. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Ye shall observe to do therefore as the LORD your God hath commanded you: ye shall not turn aside to the right hand or to the left.",
       "tokens": [
         {
-          "t": "Ye shall observe to do therefore as the"
+          "t": "Ye shall observe to do therefore as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God hath commanded you: ye shall not turn aside to the right hand or to the left."
+          "t": " your God hath commanded you: ye shall not turn aside to the right hand or to the left. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess.",
       "tokens": [
         {
-          "t": "Ye shall walk in all the ways which the"
+          "t": "Ye shall walk in all the ways which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God hath commanded you, that ye may live, and"
+          "t": " your God hath commanded you, that ye may live, and "
         },
         {
           "add": "that it may be"
         },
         {
-          "t": "well with you, and"
+          "t": " well with you, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "ye may prolong"
+          "t": " ye may prolong "
         },
         {
           "add": "your"
         },
         {
-          "t": "days in the land which ye shall possess."
+          "t": " days in the land which ye shall possess. "
         }
       ]
     }

@@ -7,195 +7,205 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Praise ye the LORD. Praise the LORD, O my soul.",
       "tokens": [
         {
-          "t": "Praise ye the"
+          "t": "Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". Praise the"
+          "t": ". Praise the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", O my soul."
+          "t": ", O my soul. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "While I live will I praise the LORD: I will sing praises unto my God while I have any being.",
       "tokens": [
         {
-          "t": "While I live will I praise the"
+          "t": "While I live will I praise the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": I will sing praises unto my God while I have any being."
+          "t": ": I will sing praises unto my God while I have any being. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Put not your trust in princes, nor in the son of man, in whom there is no help.",
       "tokens": [
         {
-          "t": "Put not your trust in princes,"
+          "t": "Put not your trust in princes, "
         },
         {
           "add": "nor"
         },
         {
-          "t": "in the son of man, in whom"
+          "t": " in the son of man, in whom "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no help."
+          "t": " no help. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.",
       "tokens": [
         {
-          "t": "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish."
+          "t": "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:",
       "tokens": [
         {
-          "t": "Happy"
+          "t": "Happy "
         },
         {
           "add": "is he"
         },
         {
-          "t": "that"
+          "t": " that "
         },
         {
           "add": "hath"
         },
         {
-          "t": "the God of Jacob for his help, whose hope"
+          "t": " the God of Jacob for his help, whose hope "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the"
+          "t": " in the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "his God:"
+          "t": " his God: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:",
       "tokens": [
         {
-          "t": "Which made heaven, and earth, the sea, and all that therein"
+          "t": "Which made heaven, and earth, the sea, and all that therein "
         },
         {
           "add": "is:"
         },
         {
-          "t": "which keepeth truth for ever:"
+          "t": " which keepeth truth for ever: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:",
       "tokens": [
         {
-          "t": "Which executeth judgment for the oppressed: which giveth food to the hungry. The"
+          "t": "Which executeth judgment for the oppressed: which giveth food to the hungry. The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "looseth the prisoners:"
+          "t": " looseth the prisoners: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "openeth"
+          "t": " openeth "
         },
         {
           "add": "the eyes of"
         },
         {
-          "t": "the blind: the"
+          "t": " the blind: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "raiseth them that are bowed down: the"
+          "t": " raiseth them that are bowed down: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "loveth the righteous:"
+          "t": " loveth the righteous: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down."
+          "t": " preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall reign for ever,"
+          "t": " shall reign for ever, "
         },
         {
           "add": "even"
         },
         {
-          "t": "thy God, O Zion, unto all generations. Praise ye the"
+          "t": " thy God, O Zion, unto all generations. Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

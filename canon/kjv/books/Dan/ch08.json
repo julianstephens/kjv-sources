@@ -7,439 +7,466 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In the third year of the reign of king Belshazzar a vision appeared unto me, even unto me Daniel, after that which appeared unto me at the first.",
       "tokens": [
         {
-          "t": "In the third year of the reign of king Belshazzar a vision appeared unto me,"
+          "t": "In the third year of the reign of king Belshazzar a vision appeared unto me, "
         },
         {
           "add": "even unto"
         },
         {
-          "t": "me Daniel, after that which appeared unto me at the first."
+          "t": " me Daniel, after that which appeared unto me at the first. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And I saw in a vision; and it came to pass, when I saw, that I was at Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai.",
       "tokens": [
         {
-          "t": "And I saw in a vision; and it came to pass, when I saw, that I"
+          "t": "And I saw in a vision; and it came to pass, when I saw, that I "
         },
         {
           "add": "was"
         },
         {
-          "t": "at Shushan"
+          "t": " at Shushan "
         },
         {
           "add": "in"
         },
         {
-          "t": "the palace, which"
+          "t": " the palace, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the province of Elam; and I saw in a vision, and I was by the river of Ulai."
+          "t": " in the province of Elam; and I saw in a vision, and I was by the river of Ulai. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.",
       "tokens": [
         {
-          "t": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had"
+          "t": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had "
         },
         {
           "add": "two"
         },
         {
-          "t": "horns: and the"
+          "t": " horns: and the "
         },
         {
           "add": "two"
         },
         {
-          "t": "horns"
+          "t": " horns "
         },
         {
           "add": "were"
         },
         {
-          "t": "high; but one"
+          "t": " high; but one "
         },
         {
           "add": "was"
         },
         {
-          "t": "higher than the other, and the higher came up last."
+          "t": " higher than the other, and the higher came up last. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great.",
       "tokens": [
         {
-          "t": "I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither"
+          "t": "I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither "
         },
         {
           "add": "was there any"
         },
         {
-          "t": "that could deliver out of his hand; but he did according to his will, and became great."
+          "t": " that could deliver out of his hand; but he did according to his will, and became great. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.",
       "tokens": [
         {
-          "t": "And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat"
+          "t": "And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat "
         },
         {
           "add": "had"
         },
         {
-          "t": "a notable horn between his eyes."
+          "t": " a notable horn between his eyes. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he came to the ram that had two horns, which I had seen standing before the river, and ran unto him in the fury of his power.",
       "tokens": [
         {
-          "t": "And he came to the ram that had"
+          "t": "And he came to the ram that had "
         },
         {
           "add": "two"
         },
         {
-          "t": "horns, which I had seen standing before the river, and ran unto him in the fury of his power."
+          "t": " horns, which I had seen standing before the river, and ran unto him in the fury of his power. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.",
       "tokens": [
         {
-          "t": "And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand."
+          "t": "And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.",
       "tokens": [
         {
-          "t": "Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven."
+          "t": "Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant land.",
       "tokens": [
         {
-          "t": "And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant"
+          "t": "And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant "
         },
         {
           "add": "land"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And it waxed great, even to the host of heaven; and it cast down some of the host and of the stars to the ground, and stamped upon them.",
       "tokens": [
         {
-          "t": "And it waxed great,"
+          "t": "And it waxed great, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to the host of heaven; and it cast down"
+          "t": " to the host of heaven; and it cast down "
         },
         {
           "add": "some"
         },
         {
-          "t": "of the host and of the stars to the ground, and stamped upon them."
+          "t": " of the host and of the stars to the ground, and stamped upon them. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Yea, he magnified himself even to the prince of the host, and by him the daily sacrifice was taken away, and the place of his sanctuary was cast down.",
       "tokens": [
         {
-          "t": "Yea, he magnified"
+          "t": "Yea, he magnified "
         },
         {
           "add": "himself"
         },
         {
-          "t": "even to the prince of the host, and by him the daily"
+          "t": " even to the prince of the host, and by him the daily "
         },
         {
           "add": "sacrifice"
         },
         {
-          "t": "was taken away, and the place of his sanctuary was cast down."
+          "t": " was taken away, and the place of his sanctuary was cast down. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And an host was given him against the daily sacrifice by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered.",
       "tokens": [
         {
-          "t": "And an host was given"
+          "t": "And an host was given "
         },
         {
           "add": "him"
         },
         {
-          "t": "against the daily"
+          "t": " against the daily "
         },
         {
           "add": "sacrifice"
         },
         {
-          "t": "by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered."
+          "t": " by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ Then I heard one saint speaking, and another saint said unto that certain saint which spake, How long shall be the vision concerning the daily sacrifice, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?",
       "tokens": [
         {
-          "t": "¶ Then I heard one saint speaking, and another saint said unto that certain"
+          "t": "¶ Then I heard one saint speaking, and another saint said unto that certain "
         },
         {
           "add": "saint"
         },
         {
-          "t": "which spake, How long"
+          "t": " which spake, How long "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the vision"
+          "t": " the vision "
         },
         {
           "add": "concerning"
         },
         {
-          "t": "the daily"
+          "t": " the daily "
         },
         {
           "add": "sacrifice"
         },
         {
-          "t": ", and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?"
+          "t": ", and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.",
       "tokens": [
         {
-          "t": "And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed."
+          "t": "And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.",
       "tokens": [
         {
-          "t": "¶ And it came to pass, when I,"
+          "t": "¶ And it came to pass, when I, "
         },
         {
           "add": "even"
         },
         {
-          "t": "I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man."
+          "t": " I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And I heard a man’s voice between the banks of Ulai, which called, and said, Gabriel, make this man to understand the vision.",
       "tokens": [
         {
-          "t": "And I heard a man’s voice between"
+          "t": "And I heard a man’s voice between "
         },
         {
           "add": "the banks of"
         },
         {
-          "t": "Ulai, which called, and said, Gabriel, make this"
+          "t": " Ulai, which called, and said, Gabriel, make this "
         },
         {
           "add": "man"
         },
         {
-          "t": "to understand the vision."
+          "t": " to understand the vision. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end shall be the vision.",
       "tokens": [
         {
-          "t": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end"
+          "t": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the vision."
+          "t": " the vision. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.",
       "tokens": [
         {
-          "t": "Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright."
+          "t": "Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end shall be.",
       "tokens": [
         {
-          "t": "And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end"
+          "t": "And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The ram which thou sawest having two horns are the kings of Media and Persia.",
       "tokens": [
         {
-          "t": "The ram which thou sawest having"
+          "t": "The ram which thou sawest having "
         },
         {
           "add": "two"
         },
         {
-          "t": "horns"
+          "t": " horns "
         },
         {
           "add": "are"
         },
         {
-          "t": "the kings of Media and Persia."
+          "t": " the kings of Media and Persia. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And the rough goat is the king of Grecia: and the great horn that is between his eyes is the first king.",
       "tokens": [
         {
-          "t": "And the rough goat"
+          "t": "And the rough goat "
         },
         {
           "add": "is"
         },
         {
-          "t": "the king of Grecia: and the great horn that"
+          "t": " the king of Grecia: and the great horn that "
         },
         {
           "add": "is"
         },
         {
-          "t": "between his eyes"
+          "t": " between his eyes "
         },
         {
           "add": "is"
         },
         {
-          "t": "the first king."
+          "t": " the first king. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.",
       "tokens": [
         {
-          "t": "Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power."
+          "t": "Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.",
       "tokens": [
         {
-          "t": "And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up."
+          "t": "And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.",
       "tokens": [
         {
-          "t": "And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people."
+          "t": "And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.",
       "tokens": [
         {
-          "t": "And through his policy also he shall cause craft to prosper in his hand; and he shall magnify"
+          "t": "And through his policy also he shall cause craft to prosper in his hand; and he shall magnify "
         },
         {
           "add": "himself"
         },
         {
-          "t": "in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand."
+          "t": " in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And the vision of the evening and the morning which was told is true: wherefore shut thou up the vision; for it shall be for many days.",
       "tokens": [
         {
-          "t": "And the vision of the evening and the morning which was told"
+          "t": "And the vision of the evening and the morning which was told "
         },
         {
           "add": "is"
         },
         {
-          "t": "true: wherefore shut thou up the vision; for it"
+          "t": " true: wherefore shut thou up the vision; for it "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "for many days."
+          "t": " for many days. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And I Daniel fainted, and was sick certain days; afterward I rose up, and did the king’s business; and I was astonished at the vision, but none understood it.",
       "tokens": [
         {
-          "t": "And I Daniel fainted, and was sick"
+          "t": "And I Daniel fainted, and was sick "
         },
         {
           "add": "certain"
         },
         {
-          "t": "days; afterward I rose up, and did the king’s business; and I was astonished at the vision, but none understood"
+          "t": " days; afterward I rose up, and did the king’s business; and I was astonished at the vision, but none understood "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

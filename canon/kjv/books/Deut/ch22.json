@@ -7,394 +7,424 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.",
       "tokens": [
         {
-          "t": "Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother."
+          "t": "Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again.",
       "tokens": [
         {
-          "t": "And if thy brother"
+          "t": "And if thy brother "
         },
         {
           "add": "be"
         },
         {
-          "t": "not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again."
+          "t": " not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother’s, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself.",
       "tokens": [
         {
-          "t": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother’s, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself."
+          "t": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother’s, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift"
+          "t": "¶ Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift "
         },
         {
           "add": "them"
         },
         {
-          "t": "up again."
+          "t": " up again. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so are abomination unto the LORD thy God.",
       "tokens": [
         {
-          "t": "¶ The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so"
+          "t": "¶ The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so "
         },
         {
           "add": "are"
         },
         {
-          "t": "abomination unto the"
+          "t": " abomination unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God."
+          "t": " thy God. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ If a bird’s nest chance to be before thee in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:",
       "tokens": [
         {
-          "t": "¶ If a bird’s nest chance to be before thee in the way in any tree, or on the ground,"
+          "t": "¶ If a bird’s nest chance to be before thee in the way in any tree, or on the ground, "
         },
         {
           "add": "whether they be"
         },
         {
-          "t": "young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:"
+          "t": " young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and that thou mayest prolong thy days.",
       "tokens": [
         {
           "add": "But"
         },
         {
-          "t": "thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and"
+          "t": " thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "thou mayest prolong"
+          "t": " thou mayest prolong "
         },
         {
           "add": "thy"
         },
         {
-          "t": "days."
+          "t": " days. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence.",
       "tokens": [
         {
-          "t": "¶ When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence."
+          "t": "¶ When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled."
+          "t": "¶ Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ Thou shalt not plow with an ox and an ass together.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not plow with an ox and an ass together."
+          "t": "¶ Thou shalt not plow with an ox and an ass together. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Thou shalt not wear a garment of divers sorts, as of woollen and linen together.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not wear a garment of divers sorts,"
+          "t": "¶ Thou shalt not wear a garment of divers sorts, "
         },
         {
           "add": "as"
         },
         {
-          "t": "of woollen and linen together."
+          "t": " of woollen and linen together. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself.",
       "tokens": [
         {
-          "t": "¶ Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest"
+          "t": "¶ Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest "
         },
         {
           "add": "thyself"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ If any man take a wife, and go in unto her, and hate her,",
       "tokens": [
         {
-          "t": "¶ If any man take a wife, and go in unto her, and hate her,"
+          "t": "¶ If any man take a wife, and go in unto her, and hate her, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:",
       "tokens": [
         {
-          "t": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:"
+          "t": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel’s virginity unto the elders of the city in the gate:",
       "tokens": [
         {
-          "t": "Then shall the father of the damsel, and her mother, take and bring forth"
+          "t": "Then shall the father of the damsel, and her mother, take and bring forth "
         },
         {
           "add": "the tokens of"
         },
         {
-          "t": "the damsel’s virginity unto the elders of the city in the gate:"
+          "t": " the damsel’s virginity unto the elders of the city in the gate: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;",
       "tokens": [
         {
-          "t": "And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;"
+          "t": "And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter’s virginity. And they shall spread the cloth before the elders of the city.",
       "tokens": [
         {
-          "t": "And, lo, he hath given occasions of speech"
+          "t": "And, lo, he hath given occasions of speech "
         },
         {
           "add": "against her"
         },
         {
-          "t": ", saying, I found not thy daughter a maid; and yet these"
+          "t": ", saying, I found not thy daughter a maid; and yet these "
         },
         {
           "add": "are the tokens of"
         },
         {
-          "t": "my daughter’s virginity. And they shall spread the cloth before the elders of the city."
+          "t": " my daughter’s virginity. And they shall spread the cloth before the elders of the city. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the elders of that city shall take that man and chastise him;",
       "tokens": [
         {
-          "t": "And the elders of that city shall take that man and chastise him;"
+          "t": "And the elders of that city shall take that man and chastise him; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.",
       "tokens": [
         {
-          "t": "And they shall amerce him in an hundred"
+          "t": "And they shall amerce him in an hundred "
         },
         {
           "add": "shekels"
         },
         {
-          "t": "of silver, and give"
+          "t": " of silver, and give "
         },
         {
           "add": "them"
         },
         {
-          "t": "unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days."
+          "t": " unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "But if this thing be true, and the tokens of virginity be not found for the damsel:",
       "tokens": [
         {
-          "t": "But if this thing be true,"
+          "t": "But if this thing be true, "
         },
         {
           "add": "and the tokens of"
         },
         {
-          "t": "virginity be not found for the damsel:"
+          "t": " virginity be not found for the damsel: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you.",
       "tokens": [
         {
-          "t": "Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you."
+          "t": "Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ If a man be found lying with a woman married to an husband, then they shall both of them die, both the man that lay with the woman, and the woman: so shalt thou put away evil from Israel.",
       "tokens": [
         {
-          "t": "¶ If a man be found lying with a woman married to an husband, then they shall both of them die,"
+          "t": "¶ If a man be found lying with a woman married to an husband, then they shall both of them die, "
         },
         {
           "add": "both"
         },
         {
-          "t": "the man that lay with the woman, and the woman: so shalt thou put away evil from Israel."
+          "t": " the man that lay with the woman, and the woman: so shalt thou put away evil from Israel. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ If a damsel that is a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;",
       "tokens": [
         {
-          "t": "¶ If a damsel"
+          "t": "¶ If a damsel "
         },
         {
           "add": "that is"
         },
         {
-          "t": "a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;"
+          "t": " a virgin be betrothed unto an husband, and a man find her in the city, and lie with her; "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you.",
       "tokens": [
         {
-          "t": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not,"
+          "t": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, "
         },
         {
           "add": "being"
         },
         {
-          "t": "in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you."
+          "t": " in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "¶ But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:",
       "tokens": [
         {
-          "t": "¶ But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:"
+          "t": "¶ But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death: for as when a man riseth against his neighbour, and slayeth him, even so is this matter:",
       "tokens": [
         {
-          "t": "But unto the damsel thou shalt do nothing;"
+          "t": "But unto the damsel thou shalt do nothing; "
         },
         {
           "add": "there is"
         },
         {
-          "t": "in the damsel no sin"
+          "t": " in the damsel no sin "
         },
         {
           "add": "worthy"
         },
         {
-          "t": "of death: for as when a man riseth against his neighbour, and slayeth him, even so"
+          "t": " of death: for as when a man riseth against his neighbour, and slayeth him, even so "
         },
         {
           "add": "is"
         },
         {
-          "t": "this matter:"
+          "t": " this matter: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "For he found her in the field, and the betrothed damsel cried, and there was none to save her.",
       "tokens": [
         {
-          "t": "For he found her in the field,"
+          "t": "For he found her in the field, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the betrothed damsel cried, and"
+          "t": " the betrothed damsel cried, and "
         },
         {
           "add": "there was"
         },
         {
-          "t": "none to save her."
+          "t": " none to save her. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ If a man find a damsel that is a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;",
       "tokens": [
         {
-          "t": "¶ If a man find a damsel"
+          "t": "¶ If a man find a damsel "
         },
         {
           "add": "that is"
         },
         {
-          "t": "a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;"
+          "t": " a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found; "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Then the man that lay with her shall give unto the damsel’s father fifty shekels of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days.",
       "tokens": [
         {
-          "t": "Then the man that lay with her shall give unto the damsel’s father fifty"
+          "t": "Then the man that lay with her shall give unto the damsel’s father fifty "
         },
         {
           "add": "shekels"
         },
         {
-          "t": "of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days."
+          "t": " of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "¶ A man shall not take his father’s wife, nor discover his father’s skirt.",
       "tokens": [
         {
-          "t": "¶ A man shall not take his father’s wife, nor discover his father’s skirt."
+          "t": "¶ A man shall not take his father’s wife, nor discover his father’s skirt. "
         }
       ]
     }

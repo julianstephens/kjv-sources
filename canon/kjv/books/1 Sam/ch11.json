@@ -7,205 +7,220 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Nahash the Ammonite came up, and encamped against Jabesh-gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.",
       "tokens": [
         {
-          "t": "Then Nahash the Ammonite came up, and encamped against Jabesh-gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee."
+          "t": "Then Nahash the Ammonite came up, and encamped against Jabesh-gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Nahash the Ammonite answered them, On this condition will I make a covenant with you, that I may thrust out all your right eyes, and lay it for a reproach upon all Israel.",
       "tokens": [
         {
-          "t": "And Nahash the Ammonite answered them, On this"
+          "t": "And Nahash the Ammonite answered them, On this "
         },
         {
           "add": "condition"
         },
         {
-          "t": "will I make"
+          "t": " will I make "
         },
         {
           "add": "a covenant"
         },
         {
-          "t": "with you, that I may thrust out all your right eyes, and lay it"
+          "t": " with you, that I may thrust out all your right eyes, and lay it "
         },
         {
           "add": "for"
         },
         {
-          "t": "a reproach upon all Israel."
+          "t": " a reproach upon all Israel. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if there be no man to save us, we will come out to thee.",
       "tokens": [
         {
-          "t": "And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if"
+          "t": "And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if "
         },
         {
           "add": "there be"
         },
         {
-          "t": "no man to save us, we will come out to thee."
+          "t": " no man to save us, we will come out to thee. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept.",
       "tokens": [
         {
-          "t": "¶ Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept."
+          "t": "¶ Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And, behold, Saul came after the herd out of the field; and Saul said, What aileth the people that they weep? And they told him the tidings of the men of Jabesh.",
       "tokens": [
         {
-          "t": "And, behold, Saul came after the herd out of the field; and Saul said, What"
+          "t": "And, behold, Saul came after the herd out of the field; and Saul said, What "
         },
         {
           "add": "aileth"
         },
         {
-          "t": "the people that they weep? And they told him the tidings of the men of Jabesh."
+          "t": " the people that they weep? And they told him the tidings of the men of Jabesh. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.",
       "tokens": [
         {
-          "t": "And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly."
+          "t": "And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And he took a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the LORD fell on the people, and they came out with one consent.",
       "tokens": [
         {
-          "t": "And he took a yoke of oxen, and hewed them in pieces, and sent"
+          "t": "And he took a yoke of oxen, and hewed them in pieces, and sent "
         },
         {
           "add": "them"
         },
         {
-          "t": "throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the"
+          "t": " throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "fell on the people, and they came out with one consent."
+          "t": " fell on the people, and they came out with one consent. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand.",
       "tokens": [
         {
-          "t": "And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand."
+          "t": "And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And they said unto the messengers that came, Thus shall ye say unto the men of Jabesh-gilead, To morrow, by that time the sun be hot, ye shall have help. And the messengers came and shewed it to the men of Jabesh; and they were glad.",
       "tokens": [
         {
-          "t": "And they said unto the messengers that came, Thus shall ye say unto the men of Jabesh-gilead, To morrow, by"
+          "t": "And they said unto the messengers that came, Thus shall ye say unto the men of Jabesh-gilead, To morrow, by "
         },
         {
           "add": "that time"
         },
         {
-          "t": "the sun be hot, ye shall have help. And the messengers came and shewed"
+          "t": " the sun be hot, ye shall have help. And the messengers came and shewed "
         },
         {
           "add": "it"
         },
         {
-          "t": "to the men of Jabesh; and they were glad."
+          "t": " to the men of Jabesh; and they were glad. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you.",
       "tokens": [
         {
-          "t": "Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you."
+          "t": "Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And it was so on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together.",
       "tokens": [
         {
-          "t": "And it was"
+          "t": "And it was "
         },
         {
           "add": "so"
         },
         {
-          "t": "on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together."
+          "t": " on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And the people said unto Samuel, Who is he that said, Shall Saul reign over us? bring the men, that we may put them to death.",
       "tokens": [
         {
-          "t": "¶ And the people said unto Samuel, Who"
+          "t": "¶ And the people said unto Samuel, Who "
         },
         {
           "add": "is"
         },
         {
-          "t": "he that said, Shall Saul reign over us? bring the men, that we may put them to death."
+          "t": " he that said, Shall Saul reign over us? bring the men, that we may put them to death. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Saul said, There shall not a man be put to death this day: for to day the LORD hath wrought salvation in Israel.",
       "tokens": [
         {
-          "t": "And Saul said, There shall not a man be put to death this day: for to day the"
+          "t": "And Saul said, There shall not a man be put to death this day: for to day the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath wrought salvation in Israel."
+          "t": " hath wrought salvation in Israel. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there.",
       "tokens": [
         {
-          "t": "Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there."
+          "t": "Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And all the people went to Gilgal; and there they made Saul king before the LORD in Gilgal; and there they sacrificed sacrifices of peace offerings before the LORD; and there Saul and all the men of Israel rejoiced greatly.",
       "tokens": [
         {
-          "t": "And all the people went to Gilgal; and there they made Saul king before the"
+          "t": "And all the people went to Gilgal; and there they made Saul king before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in Gilgal; and there they sacrificed sacrifices of peace offerings before the"
+          "t": " in Gilgal; and there they sacrificed sacrifices of peace offerings before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and there Saul and all the men of Israel rejoiced greatly."
+          "t": "; and there Saul and all the men of Israel rejoiced greatly. "
         }
       ]
     }

@@ -7,221 +7,235 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,",
       "tokens": [
         {
-          "t": "The word which came unto Jeremiah from the"
+          "t": "The word which came unto Jeremiah from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,"
+          "t": ", when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Enquire, I pray thee, of the LORD for us; for Nebuchadrezzar king of Babylon maketh war against us; if so be that the LORD will deal with us according to all his wondrous works, that he may go up from us.",
       "tokens": [
         {
-          "t": "Enquire, I pray thee, of the"
+          "t": "Enquire, I pray thee, of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for us; for Nebuchadrezzar king of Babylon maketh war against us; if so be that the"
+          "t": " for us; for Nebuchadrezzar king of Babylon maketh war against us; if so be that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will deal with us according to all his wondrous works, that he may go up from us."
+          "t": " will deal with us according to all his wondrous works, that he may go up from us. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ Then said Jeremiah unto them, Thus shall ye say to Zedekiah:",
       "tokens": [
         {
-          "t": "¶ Then said Jeremiah unto them, Thus shall ye say to Zedekiah:"
+          "t": "¶ Then said Jeremiah unto them, Thus shall ye say to Zedekiah: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Thus saith the LORD God of Israel; Behold, I will turn back the weapons of war that are in your hands, wherewith ye fight against the king of Babylon, and against the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel; Behold, I will turn back the weapons of war that"
+          "t": " God of Israel; Behold, I will turn back the weapons of war that "
         },
         {
           "add": "are"
         },
         {
-          "t": "in your hands, wherewith ye fight against the king of Babylon, and"
+          "t": " in your hands, wherewith ye fight against the king of Babylon, and "
         },
         {
           "add": "against"
         },
         {
-          "t": "the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city."
+          "t": " the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath.",
       "tokens": [
         {
-          "t": "And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath."
+          "t": "And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence.",
       "tokens": [
         {
-          "t": "And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence."
+          "t": "And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And afterward, saith the LORD, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy.",
       "tokens": [
         {
-          "t": "And afterward, saith the"
+          "t": "And afterward, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy."
+          "t": ", I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death.",
       "tokens": [
         {
-          "t": "¶ And unto this people thou shalt say, Thus saith the"
+          "t": "¶ And unto this people thou shalt say, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; Behold, I set before you the way of life, and the way of death."
+          "t": "; Behold, I set before you the way of life, and the way of death. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.",
       "tokens": [
         {
-          "t": "He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey."
+          "t": "He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For I have set my face against this city for evil, and not for good, saith the LORD: it shall be given into the hand of the king of Babylon, and he shall burn it with fire.",
       "tokens": [
         {
-          "t": "For I have set my face against this city for evil, and not for good, saith the"
+          "t": "For I have set my face against this city for evil, and not for good, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": it shall be given into the hand of the king of Babylon, and he shall burn it with fire."
+          "t": ": it shall be given into the hand of the king of Babylon, and he shall burn it with fire. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And touching the house of the king of Judah, say, Hear ye the word of the LORD;",
       "tokens": [
         {
-          "t": "¶ And touching the house of the king of Judah,"
+          "t": "¶ And touching the house of the king of Judah, "
         },
         {
           "add": "say"
         },
         {
-          "t": ", Hear ye the word of the"
+          "t": ", Hear ye the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ";"
+          "t": "; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "O house of David, thus saith the LORD; Execute judgment in the morning, and deliver him that is spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench it, because of the evil of your doings.",
       "tokens": [
         {
-          "t": "O house of David, thus saith the"
+          "t": "O house of David, thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; Execute judgment in the morning, and deliver"
+          "t": "; Execute judgment in the morning, and deliver "
         },
         {
           "add": "him that is"
         },
         {
-          "t": "spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench"
+          "t": " spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench "
         },
         {
           "add": "it"
         },
         {
-          "t": ", because of the evil of your doings."
+          "t": ", because of the evil of your doings. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Behold, I am against thee, O inhabitant of the valley, and rock of the plain, saith the LORD; which say, Who shall come down against us? or who shall enter into our habitations?",
       "tokens": [
         {
-          "t": "Behold, I"
+          "t": "Behold, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "against thee, O inhabitant of the valley,"
+          "t": " against thee, O inhabitant of the valley, "
         },
         {
           "add": "and"
         },
         {
-          "t": "rock of the plain, saith the"
+          "t": " rock of the plain, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; which say, Who shall come down against us? or who shall enter into our habitations?"
+          "t": "; which say, Who shall come down against us? or who shall enter into our habitations? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But I will punish you according to the fruit of your doings, saith the LORD: and I will kindle a fire in the forest thereof, and it shall devour all things round about it.",
       "tokens": [
         {
-          "t": "But I will punish you according to the fruit of your doings, saith the"
+          "t": "But I will punish you according to the fruit of your doings, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and I will kindle a fire in the forest thereof, and it shall devour all things round about it."
+          "t": ": and I will kindle a fire in the forest thereof, and it shall devour all things round about it. "
         }
       ]
     }

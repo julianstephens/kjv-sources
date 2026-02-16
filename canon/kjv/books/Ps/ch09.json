@@ -1,0 +1,347 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 9,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+      "tokens": [
+        {
+          "t": "I will praise "
+        },
+        {
+          "add": "thee"
+        },
+        {
+          "t": ", O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", with my whole heart; I will shew forth all thy marvellous works. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
+      "tokens": [
+        {
+          "t": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "When mine enemies are turned back, they shall fall and perish at thy presence.",
+      "tokens": [
+        {
+          "t": "When mine enemies are turned back, they shall fall and perish at thy presence. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
+      "tokens": [
+        {
+          "t": "For thou hast maintained my right and my cause; thou satest in the throne judging right. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
+      "tokens": [
+        {
+          "t": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
+      "tokens": [
+        {
+          "t": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "But the LORD shall endure for ever: he hath prepared his throne for judgment.",
+      "tokens": [
+        {
+          "t": "But the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " shall endure for ever: he hath prepared his throne for judgment. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+      "tokens": [
+        {
+          "t": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " also will be a refuge for the oppressed, a refuge in times of trouble. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.",
+      "tokens": [
+        {
+          "t": "And they that know thy name will put their trust in thee: for thou, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", hast not forsaken them that seek thee. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.",
+      "tokens": [
+        {
+          "t": "Sing praises to the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", which dwelleth in Zion: declare among the people his doings. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
+      "tokens": [
+        {
+          "t": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
+      "tokens": [
+        {
+          "t": "Have mercy upon me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; consider my trouble "
+        },
+        {
+          "add": "which I suffer"
+        },
+        {
+          "t": " of them that hate me, thou that liftest me up from the gates of death: "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
+      "tokens": [
+        {
+          "t": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation. "
+        }
+      ]
+    },
+    {
+      "v": 15,
+      "plain": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.",
+      "tokens": [
+        {
+          "t": "The heathen are sunk down in the pit "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " they made: in the net which they hid is their own foot taken. "
+        }
+      ]
+    },
+    {
+      "v": 16,
+      "plain": "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " is known "
+        },
+        {
+          "add": "by"
+        },
+        {
+          "t": " the judgment "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 17,
+      "plain": "The wicked shall be turned into hell, and all the nations that forget God.",
+      "tokens": [
+        {
+          "t": "The wicked shall be turned into hell, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " all the nations that forget God. "
+        }
+      ]
+    },
+    {
+      "v": 18,
+      "plain": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.",
+      "tokens": [
+        {
+          "t": "For the needy shall not alway be forgotten: the expectation of the poor shall "
+        },
+        {
+          "add": "not"
+        },
+        {
+          "t": " perish for ever. "
+        }
+      ]
+    },
+    {
+      "v": 19,
+      "plain": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight.",
+      "tokens": [
+        {
+          "t": "Arise, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; let not man prevail: let the heathen be judged in thy sight. "
+        }
+      ]
+    },
+    {
+      "v": 20,
+      "plain": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah.",
+      "tokens": [
+        {
+          "t": "Put them in fear, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " the nations may know themselves "
+        },
+        {
+          "add": "to be but"
+        },
+        {
+          "t": " men. Selah. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "maintained…: Heb. made my judgment"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "judging right: Heb. judging in righteousness"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "O thou…: or, The destructions of the enemy are come to a perpetual end: and their cities hast thou destroyed, etc"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 9
+      },
+      "text": "a refuge: Heb. an high place"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 12
+      },
+      "text": "humble: or, afflicted"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 16
+      },
+      "text": "Higgaion: that is, Meditation"
+    }
+  ]
+}

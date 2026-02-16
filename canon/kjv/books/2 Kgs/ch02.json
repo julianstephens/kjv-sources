@@ -7,411 +7,436 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.",
       "tokens": [
         {
-          "t": "And it came to pass, when the"
+          "t": "And it came to pass, when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal."
+          "t": " would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And Elijah said unto Elisha, Tarry here, I pray thee; for the LORD hath sent me to Beth-el. And Elisha said unto him, As the LORD liveth, and as thy soul liveth, I will not leave thee. So they went down to Beth-el.",
       "tokens": [
         {
-          "t": "And Elijah said unto Elisha, Tarry here, I pray thee; for the"
+          "t": "And Elijah said unto Elisha, Tarry here, I pray thee; for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath sent me to Beth-el. And Elisha said"
+          "t": " hath sent me to Beth-el. And Elisha said "
         },
         {
           "add": "unto him, As"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, and"
+          "t": " liveth, and "
         },
         {
           "add": "as"
         },
         {
-          "t": "thy soul liveth, I will not leave thee. So they went down to Beth-el."
+          "t": " thy soul liveth, I will not leave thee. So they went down to Beth-el. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the sons of the prophets that were at Beth-el came forth to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he said, Yea, I know it; hold ye your peace.",
       "tokens": [
         {
-          "t": "And the sons of the prophets that"
+          "t": "And the sons of the prophets that "
         },
         {
           "add": "were"
         },
         {
-          "t": "at Beth-el came forth to Elisha, and said unto him, Knowest thou that the"
+          "t": " at Beth-el came forth to Elisha, and said unto him, Knowest thou that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will take away thy master from thy head to day? And he said, Yea, I know"
+          "t": " will take away thy master from thy head to day? And he said, Yea, I know "
         },
         {
           "add": "it;"
         },
         {
-          "t": "hold ye your peace."
+          "t": " hold ye your peace. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Elijah said unto him, Elisha, tarry here, I pray thee; for the LORD hath sent me to Jericho. And he said, As the LORD liveth, and as thy soul liveth, I will not leave thee. So they came to Jericho.",
       "tokens": [
         {
-          "t": "And Elijah said unto him, Elisha, tarry here, I pray thee; for the"
+          "t": "And Elijah said unto him, Elisha, tarry here, I pray thee; for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath sent me to Jericho. And he said,"
+          "t": " hath sent me to Jericho. And he said, "
         },
         {
           "add": "As"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, and"
+          "t": " liveth, and "
         },
         {
           "add": "as"
         },
         {
-          "t": "thy soul liveth, I will not leave thee. So they came to Jericho."
+          "t": " thy soul liveth, I will not leave thee. So they came to Jericho. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the sons of the prophets that were at Jericho came to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he answered, Yea, I know it; hold ye your peace.",
       "tokens": [
         {
-          "t": "And the sons of the prophets that"
+          "t": "And the sons of the prophets that "
         },
         {
           "add": "were"
         },
         {
-          "t": "at Jericho came to Elisha, and said unto him, Knowest thou that the"
+          "t": " at Jericho came to Elisha, and said unto him, Knowest thou that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will take away thy master from thy head to day? And he answered, Yea, I know"
+          "t": " will take away thy master from thy head to day? And he answered, Yea, I know "
         },
         {
           "add": "it;"
         },
         {
-          "t": "hold ye your peace."
+          "t": " hold ye your peace. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And Elijah said unto him, Tarry, I pray thee, here; for the LORD hath sent me to Jordan. And he said, As the LORD liveth, and as thy soul liveth, I will not leave thee. And they two went on.",
       "tokens": [
         {
-          "t": "And Elijah said unto him, Tarry, I pray thee, here; for the"
+          "t": "And Elijah said unto him, Tarry, I pray thee, here; for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath sent me to Jordan. And he said,"
+          "t": " hath sent me to Jordan. And he said, "
         },
         {
           "add": "As"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "liveth, and"
+          "t": " liveth, and "
         },
         {
           "add": "as"
         },
         {
-          "t": "thy soul liveth, I will not leave thee. And they two went on."
+          "t": " thy soul liveth, I will not leave thee. And they two went on. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And fifty men of the sons of the prophets went, and stood to view afar off: and they two stood by Jordan.",
       "tokens": [
         {
-          "t": "And fifty men of the sons of the prophets went, and stood to view afar off: and they two stood by Jordan."
+          "t": "And fifty men of the sons of the prophets went, and stood to view afar off: and they two stood by Jordan. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Elijah took his mantle, and wrapped it together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground.",
       "tokens": [
         {
-          "t": "And Elijah took his mantle, and wrapped"
+          "t": "And Elijah took his mantle, and wrapped "
         },
         {
           "add": "it"
         },
         {
-          "t": "together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground."
+          "t": " together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.",
       "tokens": [
         {
-          "t": "¶ And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me."
+          "t": "¶ And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he said, Thou hast asked a hard thing: nevertheless, if thou see me when I am taken from thee, it shall be so unto thee; but if not, it shall not be so.",
       "tokens": [
         {
-          "t": "And he said, Thou hast asked a hard thing:"
+          "t": "And he said, Thou hast asked a hard thing: "
         },
         {
           "add": "nevertheless"
         },
         {
-          "t": ", if thou see me"
+          "t": ", if thou see me "
         },
         {
           "add": "when I am"
         },
         {
-          "t": "taken from thee, it shall be so unto thee; but if not, it shall not be"
+          "t": " taken from thee, it shall be so unto thee; but if not, it shall not be "
         },
         {
           "add": "so"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.",
       "tokens": [
         {
-          "t": "And it came to pass, as they still went on, and talked, that, behold,"
+          "t": "And it came to pass, as they still went on, and talked, that, behold, "
         },
         {
           "add": "there appeared"
         },
         {
-          "t": "a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven."
+          "t": " a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And Elisha saw it, and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.",
       "tokens": [
         {
-          "t": "¶ And Elisha saw"
+          "t": "¶ And Elisha saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces."
+          "t": ", and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan;",
       "tokens": [
         {
-          "t": "He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan;"
+          "t": "He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan; "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where is the LORD God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over.",
       "tokens": [
         {
-          "t": "And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where"
+          "t": "And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over."
+          "t": " God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And when the sons of the prophets which were to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.",
       "tokens": [
         {
-          "t": "And when the sons of the prophets which"
+          "t": "And when the sons of the prophets which "
         },
         {
           "add": "were"
         },
         {
-          "t": "to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him."
+          "t": " to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the LORD hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send.",
       "tokens": [
         {
-          "t": "¶ And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the"
+          "t": "¶ And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send."
+          "t": " hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.",
       "tokens": [
         {
-          "t": "And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not."
+          "t": "And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?",
       "tokens": [
         {
-          "t": "And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?"
+          "t": "And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not? "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren.",
       "tokens": [
         {
-          "t": "¶ And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city"
+          "t": "¶ And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city "
         },
         {
           "add": "is"
         },
         {
-          "t": "pleasant, as my lord seeth: but the water"
+          "t": " pleasant, as my lord seeth: but the water "
         },
         {
           "add": "is"
         },
         {
-          "t": "naught, and the ground barren."
+          "t": " naught, and the ground barren. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And he said, Bring me a new cruse, and put salt therein. And they brought it to him.",
       "tokens": [
         {
-          "t": "And he said, Bring me a new cruse, and put salt therein. And they brought"
+          "t": "And he said, Bring me a new cruse, and put salt therein. And they brought "
         },
         {
           "add": "it"
         },
         {
-          "t": "to him."
+          "t": " to him. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus saith the LORD, I have healed these waters; there shall not be from thence any more death or barren land.",
       "tokens": [
         {
-          "t": "And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus saith the"
+          "t": "And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I have healed these waters; there shall not be from thence any more death or barren"
+          "t": ", I have healed these waters; there shall not be from thence any more death or barren "
         },
         {
           "add": "land"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "So the waters were healed unto this day, according to the saying of Elisha which he spake.",
       "tokens": [
         {
-          "t": "So the waters were healed unto this day, according to the saying of Elisha which he spake."
+          "t": "So the waters were healed unto this day, according to the saying of Elisha which he spake. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ And he went up from thence unto Beth-el: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head.",
       "tokens": [
         {
-          "t": "¶ And he went up from thence unto Beth-el: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head."
+          "t": "¶ And he went up from thence unto Beth-el: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.",
       "tokens": [
         {
-          "t": "And he turned back, and looked on them, and cursed them in the name of the"
+          "t": "And he turned back, and looked on them, and cursed them in the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". And there came forth two she bears out of the wood, and tare forty and two children of them."
+          "t": ". And there came forth two she bears out of the wood, and tare forty and two children of them. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And he went from thence to mount Carmel, and from thence he returned to Samaria.",
       "tokens": [
         {
-          "t": "And he went from thence to mount Carmel, and from thence he returned to Samaria."
+          "t": "And he went from thence to mount Carmel, and from thence he returned to Samaria. "
         }
       ]
     }

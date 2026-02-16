@@ -7,475 +7,505 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.",
       "tokens": [
         {
-          "t": "Wine"
+          "t": "Wine "
         },
         {
           "add": "is"
         },
         {
-          "t": "a mocker, strong drink"
+          "t": " a mocker, strong drink "
         },
         {
           "add": "is"
         },
         {
-          "t": "raging: and whosoever is deceived thereby is not wise."
+          "t": " raging: and whosoever is deceived thereby is not wise. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The fear of a king is as the roaring of a lion: whoso provoketh him to anger sinneth against his own soul.",
       "tokens": [
         {
-          "t": "The fear of a king"
+          "t": "The fear of a king "
         },
         {
           "add": "is"
         },
         {
-          "t": "as the roaring of a lion:"
+          "t": " as the roaring of a lion: "
         },
         {
           "add": "whoso"
         },
         {
-          "t": "provoketh him to anger sinneth"
+          "t": " provoketh him to anger sinneth "
         },
         {
           "add": "against"
         },
         {
-          "t": "his own soul."
+          "t": " his own soul. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "It is an honour for a man to cease from strife: but every fool will be meddling.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "an honour for a man to cease from strife: but every fool will be meddling."
+          "t": " an honour for a man to cease from strife: but every fool will be meddling. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The sluggard will not plow by reason of the cold; therefore shall he beg in harvest, and have nothing.",
       "tokens": [
         {
-          "t": "The sluggard will not plow by reason of the cold;"
+          "t": "The sluggard will not plow by reason of the cold; "
         },
         {
           "add": "therefore"
         },
         {
-          "t": "shall he beg in harvest, and"
+          "t": " shall he beg in harvest, and "
         },
         {
           "add": "have"
         },
         {
-          "t": "nothing."
+          "t": " nothing. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Counsel in the heart of man is like deep water; but a man of understanding will draw it out.",
       "tokens": [
         {
-          "t": "Counsel in the heart of man"
+          "t": "Counsel in the heart of man "
         },
         {
           "add": "is like"
         },
         {
-          "t": "deep water; but a man of understanding will draw it out."
+          "t": " deep water; but a man of understanding will draw it out. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Most men will proclaim every one his own goodness: but a faithful man who can find?",
       "tokens": [
         {
-          "t": "Most men will proclaim every one his own goodness: but a faithful man who can find?"
+          "t": "Most men will proclaim every one his own goodness: but a faithful man who can find? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The just man walketh in his integrity: his children are blessed after him.",
       "tokens": [
         {
-          "t": "The just"
+          "t": "The just "
         },
         {
           "add": "man"
         },
         {
-          "t": "walketh in his integrity: his children"
+          "t": " walketh in his integrity: his children "
         },
         {
           "add": "are"
         },
         {
-          "t": "blessed after him."
+          "t": " blessed after him. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "A king that sitteth in the throne of judgment scattereth away all evil with his eyes.",
       "tokens": [
         {
-          "t": "A king that sitteth in the throne of judgment scattereth away all evil with his eyes."
+          "t": "A king that sitteth in the throne of judgment scattereth away all evil with his eyes. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Who can say, I have made my heart clean, I am pure from my sin?",
       "tokens": [
         {
-          "t": "Who can say, I have made my heart clean, I am pure from my sin?"
+          "t": "Who can say, I have made my heart clean, I am pure from my sin? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Divers weights, and divers measures, both of them are alike abomination to the LORD.",
       "tokens": [
         {
-          "t": "Divers weights,"
+          "t": "Divers weights, "
         },
         {
           "add": "and"
         },
         {
-          "t": "divers measures, both of them"
+          "t": " divers measures, both of them "
         },
         {
           "add": "are"
         },
         {
-          "t": "alike abomination to the"
+          "t": " alike abomination to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Even a child is known by his doings, whether his work be pure, and whether it be right.",
       "tokens": [
         {
-          "t": "Even a child is known by his doings, whether his work"
+          "t": "Even a child is known by his doings, whether his work "
         },
         {
           "add": "be"
         },
         {
-          "t": "pure, and whether"
+          "t": " pure, and whether "
         },
         {
           "add": "it be"
         },
         {
-          "t": "right."
+          "t": " right. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The hearing ear, and the seeing eye, the LORD hath made even both of them.",
       "tokens": [
         {
-          "t": "The hearing ear, and the seeing eye, the"
+          "t": "The hearing ear, and the seeing eye, the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath made even both of them."
+          "t": " hath made even both of them. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.",
       "tokens": [
         {
-          "t": "Love not sleep, lest thou come to poverty; open thine eyes,"
+          "t": "Love not sleep, lest thou come to poverty; open thine eyes, "
         },
         {
           "add": "and"
         },
         {
-          "t": "thou shalt be satisfied with bread."
+          "t": " thou shalt be satisfied with bread. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "naught,"
+          "t": " naught, "
         },
         {
           "add": "it is"
         },
         {
-          "t": "naught, saith the buyer: but when he is gone his way, then he boasteth."
+          "t": " naught, saith the buyer: but when he is gone his way, then he boasteth. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.",
       "tokens": [
         {
-          "t": "There is gold, and a multitude of rubies: but the lips of knowledge"
+          "t": "There is gold, and a multitude of rubies: but the lips of knowledge "
         },
         {
           "add": "are"
         },
         {
-          "t": "a precious jewel."
+          "t": " a precious jewel. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.",
       "tokens": [
         {
-          "t": "Take his garment that is surety"
+          "t": "Take his garment that is surety "
         },
         {
           "add": "for"
         },
         {
-          "t": "a stranger: and take a pledge of him for a strange woman."
+          "t": " a stranger: and take a pledge of him for a strange woman. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.",
       "tokens": [
         {
-          "t": "Bread of deceit"
+          "t": "Bread of deceit "
         },
         {
           "add": "is"
         },
         {
-          "t": "sweet to a man; but afterwards his mouth shall be filled with gravel."
+          "t": " sweet to a man; but afterwards his mouth shall be filled with gravel. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Every purpose is established by counsel: and with good advice make war.",
       "tokens": [
         {
           "add": "Every"
         },
         {
-          "t": "purpose is established by counsel: and with good advice make war."
+          "t": " purpose is established by counsel: and with good advice make war. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "He that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.",
       "tokens": [
         {
-          "t": "He that goeth about"
+          "t": "He that goeth about "
         },
         {
           "add": "as"
         },
         {
-          "t": "a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips."
+          "t": " a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.",
       "tokens": [
         {
-          "t": "Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness."
+          "t": "Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.",
       "tokens": [
         {
-          "t": "An inheritance"
+          "t": "An inheritance "
         },
         {
           "add": "may be"
         },
         {
-          "t": "gotten hastily at the beginning; but the end thereof shall not be blessed."
+          "t": " gotten hastily at the beginning; but the end thereof shall not be blessed. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Say not thou, I will recompense evil; but wait on the LORD, and he shall save thee.",
       "tokens": [
         {
-          "t": "Say not thou, I will recompense evil;"
+          "t": "Say not thou, I will recompense evil; "
         },
         {
           "add": "but"
         },
         {
-          "t": "wait on the"
+          "t": " wait on the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and he shall save thee."
+          "t": ", and he shall save thee. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Divers weights are an abomination unto the LORD; and a false balance is not good.",
       "tokens": [
         {
-          "t": "Divers weights"
+          "t": "Divers weights "
         },
         {
           "add": "are"
         },
         {
-          "t": "an abomination unto the"
+          "t": " an abomination unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and a false balance"
+          "t": "; and a false balance "
         },
         {
           "add": "is"
         },
         {
-          "t": "not good."
+          "t": " not good. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Man’s goings are of the LORD; how can a man then understand his own way?",
       "tokens": [
         {
-          "t": "Man’s goings"
+          "t": "Man’s goings "
         },
         {
           "add": "are"
         },
         {
-          "t": "of the"
+          "t": " of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; how can a man then understand his own way?"
+          "t": "; how can a man then understand his own way? "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "It is a snare to the man who devoureth that which is holy, and after vows to make enquiry.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "a snare to the man"
+          "t": " a snare to the man "
         },
         {
           "add": "who"
         },
         {
-          "t": "devoureth"
+          "t": " devoureth "
         },
         {
           "add": "that which is"
         },
         {
-          "t": "holy, and after vows to make enquiry."
+          "t": " holy, and after vows to make enquiry. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "A wise king scattereth the wicked, and bringeth the wheel over them.",
       "tokens": [
         {
-          "t": "A wise king scattereth the wicked, and bringeth the wheel over them."
+          "t": "A wise king scattereth the wicked, and bringeth the wheel over them. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "The spirit of man is the candle of the LORD, searching all the inward parts of the belly.",
       "tokens": [
         {
-          "t": "The spirit of man"
+          "t": "The spirit of man "
         },
         {
           "add": "is"
         },
         {
-          "t": "the candle of the"
+          "t": " the candle of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", searching all the inward parts of the belly."
+          "t": ", searching all the inward parts of the belly. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Mercy and truth preserve the king: and his throne is upholden by mercy.",
       "tokens": [
         {
-          "t": "Mercy and truth preserve the king: and his throne is upholden by mercy."
+          "t": "Mercy and truth preserve the king: and his throne is upholden by mercy. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "The glory of young men is their strength: and the beauty of old men is the gray head.",
       "tokens": [
         {
-          "t": "The glory of young men"
+          "t": "The glory of young men "
         },
         {
           "add": "is"
         },
         {
-          "t": "their strength: and the beauty of old men"
+          "t": " their strength: and the beauty of old men "
         },
         {
           "add": "is"
         },
         {
-          "t": "the gray head."
+          "t": " the gray head. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "The blueness of a wound cleanseth away evil: so do stripes the inward parts of the belly.",
       "tokens": [
         {
-          "t": "The blueness of a wound cleanseth away evil: so"
+          "t": "The blueness of a wound cleanseth away evil: so "
         },
         {
           "add": "do"
         },
         {
-          "t": "stripes the inward parts of the belly."
+          "t": " stripes the inward parts of the belly. "
         }
       ]
     }

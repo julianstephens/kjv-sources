@@ -7,444 +7,472 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years.",
       "tokens": [
         {
-          "t": "And the children of Israel did evil again in the sight of the"
+          "t": "And the children of Israel did evil again in the sight of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and the"
+          "t": "; and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "delivered them into the hand of the Philistines forty years."
+          "t": " delivered them into the hand of the Philistines forty years. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "¶ And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and bare not.",
       "tokens": [
         {
-          "t": "¶ And there was a certain man of Zorah, of the family of the Danites, whose name"
+          "t": "¶ And there was a certain man of Zorah, of the family of the Danites, whose name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Manoah; and his wife"
+          "t": " Manoah; and his wife "
         },
         {
           "add": "was"
         },
         {
-          "t": "barren, and bare not."
+          "t": " barren, and bare not. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the angel of the LORD appeared unto the woman, and said unto her, Behold now, thou art barren, and bearest not: but thou shalt conceive, and bear a son.",
       "tokens": [
         {
-          "t": "And the angel of the"
+          "t": "And the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "appeared unto the woman, and said unto her, Behold now, thou"
+          "t": " appeared unto the woman, and said unto her, Behold now, thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "barren, and bearest not: but thou shalt conceive, and bear a son."
+          "t": " barren, and bearest not: but thou shalt conceive, and bear a son. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean thing:",
       "tokens": [
         {
-          "t": "Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean"
+          "t": "Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean "
         },
         {
           "add": "thing:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For, lo, thou shalt conceive, and bear a son; and no razor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines.",
       "tokens": [
         {
-          "t": "For, lo, thou shalt conceive, and bear a son; and no razor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines."
+          "t": "For, lo, thou shalt conceive, and bear a son; and no razor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ Then the woman came and told her husband, saying, A man of God came unto me, and his countenance was like the countenance of an angel of God, very terrible: but I asked him not whence he was, neither told he me his name:",
       "tokens": [
         {
-          "t": "¶ Then the woman came and told her husband, saying, A man of God came unto me, and his countenance"
+          "t": "¶ Then the woman came and told her husband, saying, A man of God came unto me, and his countenance "
         },
         {
           "add": "was"
         },
         {
-          "t": "like the countenance of an angel of God, very terrible: but I asked him not whence he"
+          "t": " like the countenance of an angel of God, very terrible: but I asked him not whence he "
         },
         {
           "add": "was"
         },
         {
-          "t": ", neither told he me his name:"
+          "t": ", neither told he me his name: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But he said unto me, Behold, thou shalt conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean thing: for the child shall be a Nazarite to God from the womb to the day of his death.",
       "tokens": [
         {
-          "t": "But he said unto me, Behold, thou shalt conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean"
+          "t": "But he said unto me, Behold, thou shalt conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean "
         },
         {
           "add": "thing:"
         },
         {
-          "t": "for the child shall be a Nazarite to God from the womb to the day of his death."
+          "t": " for the child shall be a Nazarite to God from the womb to the day of his death. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ Then Manoah intreated the LORD, and said, O my Lord, let the man of God which thou didst send come again unto us, and teach us what we shall do unto the child that shall be born.",
       "tokens": [
         {
-          "t": "¶ Then Manoah intreated the"
+          "t": "¶ Then Manoah intreated the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and said, O my Lord, let the man of God which thou didst send come again unto us, and teach us what we shall do unto the child that shall be born."
+          "t": ", and said, O my Lord, let the man of God which thou didst send come again unto us, and teach us what we shall do unto the child that shall be born. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And God hearkened to the voice of Manoah; and the angel of God came again unto the woman as she sat in the field: but Manoah her husband was not with her.",
       "tokens": [
         {
-          "t": "And God hearkened to the voice of Manoah; and the angel of God came again unto the woman as she sat in the field: but Manoah her husband"
+          "t": "And God hearkened to the voice of Manoah; and the angel of God came again unto the woman as she sat in the field: but Manoah her husband "
         },
         {
           "add": "was"
         },
         {
-          "t": "not with her."
+          "t": " not with her. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the woman made haste, and ran, and shewed her husband, and said unto him, Behold, the man hath appeared unto me, that came unto me the other day.",
       "tokens": [
         {
-          "t": "And the woman made haste, and ran, and shewed her husband, and said unto him, Behold, the man hath appeared unto me, that came unto me the"
+          "t": "And the woman made haste, and ran, and shewed her husband, and said unto him, Behold, the man hath appeared unto me, that came unto me the "
         },
         {
           "add": "other"
         },
         {
-          "t": "day."
+          "t": " day. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Manoah arose, and went after his wife, and came to the man, and said unto him, Art thou the man that spakest unto the woman? And he said, I am.",
       "tokens": [
         {
-          "t": "And Manoah arose, and went after his wife, and came to the man, and said unto him,"
+          "t": "And Manoah arose, and went after his wife, and came to the man, and said unto him, "
         },
         {
           "add": "Art"
         },
         {
-          "t": "thou the man that spakest unto the woman? And he said, I"
+          "t": " thou the man that spakest unto the woman? And he said, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Manoah said, Now let thy words come to pass. How shall we order the child, and how shall we do unto him?",
       "tokens": [
         {
-          "t": "And Manoah said, Now let thy words come to pass. How shall we order the child, and"
+          "t": "And Manoah said, Now let thy words come to pass. How shall we order the child, and "
         },
         {
           "add": "how"
         },
         {
-          "t": "shall we do unto him?"
+          "t": " shall we do unto him? "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the angel of the LORD said unto Manoah, Of all that I said unto the woman let her beware.",
       "tokens": [
         {
-          "t": "And the angel of the"
+          "t": "And the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Manoah, Of all that I said unto the woman let her beware."
+          "t": " said unto Manoah, Of all that I said unto the woman let her beware. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "She may not eat of any thing that cometh of the vine, neither let her drink wine or strong drink, nor eat any unclean thing: all that I commanded her let her observe.",
       "tokens": [
         {
-          "t": "She may not eat of any"
+          "t": "She may not eat of any "
         },
         {
           "add": "thing"
         },
         {
-          "t": "that cometh of the vine, neither let her drink wine or strong drink, nor eat any unclean"
+          "t": " that cometh of the vine, neither let her drink wine or strong drink, nor eat any unclean "
         },
         {
           "add": "thing:"
         },
         {
-          "t": "all that I commanded her let her observe."
+          "t": " all that I commanded her let her observe. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And Manoah said unto the angel of the LORD, I pray thee, let us detain thee, until we shall have made ready a kid for thee.",
       "tokens": [
         {
-          "t": "¶ And Manoah said unto the angel of the"
+          "t": "¶ And Manoah said unto the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", I pray thee, let us detain thee, until we shall have made ready a kid for thee."
+          "t": ", I pray thee, let us detain thee, until we shall have made ready a kid for thee. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the angel of the LORD said unto Manoah, Though thou detain me, I will not eat of thy bread: and if thou wilt offer a burnt offering, thou must offer it unto the LORD. For Manoah knew not that he was an angel of the LORD.",
       "tokens": [
         {
-          "t": "And the angel of the"
+          "t": "And the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Manoah, Though thou detain me, I will not eat of thy bread: and if thou wilt offer a burnt offering, thou must offer it unto the"
+          "t": " said unto Manoah, Though thou detain me, I will not eat of thy bread: and if thou wilt offer a burnt offering, thou must offer it unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". For Manoah knew not that he"
+          "t": ". For Manoah knew not that he "
         },
         {
           "add": "was"
         },
         {
-          "t": "an angel of the"
+          "t": " an angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Manoah said unto the angel of the LORD, What is thy name, that when thy sayings come to pass we may do thee honour?",
       "tokens": [
         {
-          "t": "And Manoah said unto the angel of the"
+          "t": "And Manoah said unto the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", What"
+          "t": ", What "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy name, that when thy sayings come to pass we may do thee honour?"
+          "t": " thy name, that when thy sayings come to pass we may do thee honour? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the angel of the LORD said unto him, Why askest thou thus after my name, seeing it is secret?",
       "tokens": [
         {
-          "t": "And the angel of the"
+          "t": "And the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto him, Why askest thou thus after my name, seeing it"
+          "t": " said unto him, Why askest thou thus after my name, seeing it "
         },
         {
           "add": "is"
         },
         {
-          "t": "secret?"
+          "t": " secret? "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "So Manoah took a kid with a meat offering, and offered it upon a rock unto the LORD: and the angel did wondrously; and Manoah and his wife looked on.",
       "tokens": [
         {
-          "t": "So Manoah took a kid with a meat offering, and offered"
+          "t": "So Manoah took a kid with a meat offering, and offered "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon a rock unto the"
+          "t": " upon a rock unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and"
+          "t": ": and "
         },
         {
           "add": "the angel"
         },
         {
-          "t": "did wondrously; and Manoah and his wife looked on."
+          "t": " did wondrously; and Manoah and his wife looked on. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "For it came to pass, when the flame went up toward heaven from off the altar, that the angel of the LORD ascended in the flame of the altar. And Manoah and his wife looked on it, and fell on their faces to the ground.",
       "tokens": [
         {
-          "t": "For it came to pass, when the flame went up toward heaven from off the altar, that the angel of the"
+          "t": "For it came to pass, when the flame went up toward heaven from off the altar, that the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "ascended in the flame of the altar. And Manoah and his wife looked on"
+          "t": " ascended in the flame of the altar. And Manoah and his wife looked on "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and fell on their faces to the ground."
+          "t": ", and fell on their faces to the ground. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "But the angel of the LORD did no more appear to Manoah and to his wife. Then Manoah knew that he was an angel of the LORD.",
       "tokens": [
         {
-          "t": "But the angel of the"
+          "t": "But the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "did no more appear to Manoah and to his wife. Then Manoah knew that he"
+          "t": " did no more appear to Manoah and to his wife. Then Manoah knew that he "
         },
         {
           "add": "was"
         },
         {
-          "t": "an angel of the"
+          "t": " an angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Manoah said unto his wife, We shall surely die, because we have seen God.",
       "tokens": [
         {
-          "t": "And Manoah said unto his wife, We shall surely die, because we have seen God."
+          "t": "And Manoah said unto his wife, We shall surely die, because we have seen God. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "But his wife said unto him, If the LORD were pleased to kill us, he would not have received a burnt offering and a meat offering at our hands, neither would he have shewed us all these things, nor would as at this time have told us such things as these.",
       "tokens": [
         {
-          "t": "But his wife said unto him, If the"
+          "t": "But his wife said unto him, If the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "were pleased to kill us, he would not have received a burnt offering and a meat offering at our hands, neither would he have shewed us all these"
+          "t": " were pleased to kill us, he would not have received a burnt offering and a meat offering at our hands, neither would he have shewed us all these "
         },
         {
           "add": "things"
         },
         {
-          "t": ", nor would as at this time have told us"
+          "t": ", nor would as at this time have told us "
         },
         {
           "add": "such things"
         },
         {
-          "t": "as these."
+          "t": " as these. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ And the woman bare a son, and called his name Samson: and the child grew, and the LORD blessed him.",
       "tokens": [
         {
-          "t": "¶ And the woman bare a son, and called his name Samson: and the child grew, and the"
+          "t": "¶ And the woman bare a son, and called his name Samson: and the child grew, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "blessed him."
+          "t": " blessed him. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And the Spirit of the LORD began to move him at times in the camp of Dan between Zorah and Eshtaol.",
       "tokens": [
         {
-          "t": "And the Spirit of the"
+          "t": "And the Spirit of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "began to move him at times in the camp of Dan between Zorah and Eshtaol."
+          "t": " began to move him at times in the camp of Dan between Zorah and Eshtaol. "
         }
       ]
     }

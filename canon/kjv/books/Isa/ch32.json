@@ -7,215 +7,235 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Behold, a king shall reign in righteousness, and princes shall rule in judgment.",
       "tokens": [
         {
-          "t": "Behold, a king shall reign in righteousness, and princes shall rule in judgment."
+          "t": "Behold, a king shall reign in righteousness, and princes shall rule in judgment. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.",
       "tokens": [
         {
-          "t": "And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land."
+          "t": "And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.",
       "tokens": [
         {
-          "t": "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken."
+          "t": "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.",
       "tokens": [
         {
-          "t": "The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly."
+          "t": "The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The vile person shall be no more called liberal, nor the churl said to be bountiful.",
       "tokens": [
         {
-          "t": "The vile person shall be no more called liberal, nor the churl said"
+          "t": "The vile person shall be no more called liberal, nor the churl said "
         },
         {
           "add": "to be"
         },
         {
-          "t": "bountiful."
+          "t": " bountiful. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the LORD, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.",
       "tokens": [
         {
-          "t": "For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the"
+          "t": "For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail."
+          "t": ", to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.",
       "tokens": [
         {
-          "t": "The instruments also of the churl"
+          "t": "The instruments also of the churl "
         },
         {
           "add": "are"
         },
         {
-          "t": "evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right."
+          "t": " evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But the liberal deviseth liberal things; and by liberal things shall he stand.",
       "tokens": [
         {
-          "t": "But the liberal deviseth liberal things; and by liberal things shall he stand."
+          "t": "But the liberal deviseth liberal things; and by liberal things shall he stand. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.",
       "tokens": [
         {
-          "t": "¶ Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech."
+          "t": "¶ Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.",
       "tokens": [
         {
-          "t": "Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come."
+          "t": "Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird sackcloth upon your loins.",
       "tokens": [
         {
-          "t": "Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird"
+          "t": "Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird "
         },
         {
           "add": "sackcloth"
         },
         {
-          "t": "upon"
+          "t": " upon "
         },
         {
           "add": "your"
         },
         {
-          "t": "loins."
+          "t": " loins. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "They shall lament for the teats, for the pleasant fields, for the fruitful vine.",
       "tokens": [
         {
-          "t": "They shall lament for the teats, for the pleasant fields, for the fruitful vine."
+          "t": "They shall lament for the teats, for the pleasant fields, for the fruitful vine. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Upon the land of my people shall come up thorns and briers; yea, upon all the houses of joy in the joyous city:",
       "tokens": [
         {
-          "t": "Upon the land of my people shall come up thorns"
+          "t": "Upon the land of my people shall come up thorns "
         },
         {
           "add": "and"
         },
         {
-          "t": "briers; yea, upon all the houses of joy"
+          "t": " briers; yea, upon all the houses of joy "
         },
         {
           "add": "in"
         },
         {
-          "t": "the joyous city:"
+          "t": " the joyous city: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses, a pasture of flocks;",
       "tokens": [
         {
-          "t": "Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses, a pasture of flocks;"
+          "t": "Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses, a pasture of flocks; "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest.",
       "tokens": [
         {
-          "t": "Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest."
+          "t": "Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Then judgment shall dwell in the wilderness, and righteousness remain in the fruitful field.",
       "tokens": [
         {
-          "t": "Then judgment shall dwell in the wilderness, and righteousness remain in the fruitful field."
+          "t": "Then judgment shall dwell in the wilderness, and righteousness remain in the fruitful field. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever.",
       "tokens": [
         {
-          "t": "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever."
+          "t": "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;",
       "tokens": [
         {
-          "t": "And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;"
+          "t": "And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "When it shall hail, coming down on the forest; and the city shall be low in a low place.",
       "tokens": [
         {
-          "t": "When it shall hail, coming down on the forest; and the city shall be low in a low place."
+          "t": "When it shall hail, coming down on the forest; and the city shall be low in a low place. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass.",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "are"
         },
         {
-          "t": "ye that sow beside all waters, that send forth"
+          "t": " ye that sow beside all waters, that send forth "
         },
         {
           "add": "thither"
         },
         {
-          "t": "the feet of the ox and the ass."
+          "t": " the feet of the ox and the ass. "
         }
       ]
     }

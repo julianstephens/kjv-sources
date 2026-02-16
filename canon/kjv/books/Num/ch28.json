@@ -7,504 +7,541 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me, shall ye observe to offer unto me in their due season.",
       "tokens": [
         {
-          "t": "Command the children of Israel, and say unto them, My offering,"
+          "t": "Command the children of Israel, and say unto them, My offering, "
         },
         {
           "add": "and"
         },
         {
-          "t": "my bread for my sacrifices made by fire,"
+          "t": " my bread for my sacrifices made by fire, "
         },
         {
           "add": "for"
         },
         {
-          "t": "a sweet savour unto me, shall ye observe to offer unto me in their due season."
+          "t": " a sweet savour unto me, shall ye observe to offer unto me in their due season. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the LORD; two lambs of the first year without spot day by day, for a continual burnt offering.",
       "tokens": [
         {
-          "t": "And thou shalt say unto them, This"
+          "t": "And thou shalt say unto them, This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the offering made by fire which ye shall offer unto the"
+          "t": " the offering made by fire which ye shall offer unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; two lambs of the first year without spot day by day,"
+          "t": "; two lambs of the first year without spot day by day, "
         },
         {
           "add": "for"
         },
         {
-          "t": "a continual burnt offering."
+          "t": " a continual burnt offering. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;",
       "tokens": [
         {
-          "t": "The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;"
+          "t": "The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And a tenth part of an ephah of flour for a meat offering, mingled with the fourth part of an hin of beaten oil.",
       "tokens": [
         {
-          "t": "And a tenth"
+          "t": "And a tenth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of an ephah of flour for a meat offering, mingled with the fourth"
+          "t": " of an ephah of flour for a meat offering, mingled with the fourth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of an hin of beaten oil."
+          "t": " of an hin of beaten oil. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "It is a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the LORD.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the"
+          "t": " a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the drink offering thereof shall be the fourth part of an hin for the one lamb: in the holy place shalt thou cause the strong wine to be poured unto the LORD for a drink offering.",
       "tokens": [
         {
-          "t": "And the drink offering thereof"
+          "t": "And the drink offering thereof "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the fourth"
+          "t": " the fourth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of an hin for the one lamb: in the holy"
+          "t": " of an hin for the one lamb: in the holy "
         },
         {
           "add": "place"
         },
         {
-          "t": "shalt thou cause the strong wine to be poured unto the"
+          "t": " shalt thou cause the strong wine to be poured unto the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "for"
         },
         {
-          "t": "a drink offering."
+          "t": " a drink offering. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the other lamb shalt thou offer at even: as the meat offering of the morning, and as the drink offering thereof, thou shalt offer it, a sacrifice made by fire, of a sweet savour unto the LORD.",
       "tokens": [
         {
-          "t": "And the other lamb shalt thou offer at even: as the meat offering of the morning, and as the drink offering thereof, thou shalt offer"
+          "t": "And the other lamb shalt thou offer at even: as the meat offering of the morning, and as the drink offering thereof, thou shalt offer "
         },
         {
           "add": "it"
         },
         {
-          "t": ", a sacrifice made by fire, of a sweet savour unto the"
+          "t": ", a sacrifice made by fire, of a sweet savour unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour for a meat offering, mingled with oil, and the drink offering thereof:",
       "tokens": [
         {
-          "t": "¶ And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour"
+          "t": "¶ And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour "
         },
         {
           "add": "for"
         },
         {
-          "t": "a meat offering, mingled with oil, and the drink offering thereof:"
+          "t": " a meat offering, mingled with oil, and the drink offering thereof: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.",
       "tokens": [
         {
           "add": "This is"
         },
         {
-          "t": "the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering."
+          "t": " the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And in the beginnings of your months ye shall offer a burnt offering unto the LORD; two young bullocks, and one ram, seven lambs of the first year without spot;",
       "tokens": [
         {
-          "t": "¶ And in the beginnings of your months ye shall offer a burnt offering unto the"
+          "t": "¶ And in the beginnings of your months ye shall offer a burnt offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; two young bullocks, and one ram, seven lambs of the first year without spot;"
+          "t": "; two young bullocks, and one ram, seven lambs of the first year without spot; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And three tenth deals of flour for a meat offering, mingled with oil, for one bullock; and two tenth deals of flour for a meat offering, mingled with oil, for one ram;",
       "tokens": [
         {
-          "t": "And three tenth deals of flour"
+          "t": "And three tenth deals of flour "
         },
         {
           "add": "for"
         },
         {
-          "t": "a meat offering, mingled with oil, for one bullock; and two tenth deals of flour"
+          "t": " a meat offering, mingled with oil, for one bullock; and two tenth deals of flour "
         },
         {
           "add": "for"
         },
         {
-          "t": "a meat offering, mingled with oil, for one ram;"
+          "t": " a meat offering, mingled with oil, for one ram; "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And a several tenth deal of flour mingled with oil for a meat offering unto one lamb; for a burnt offering of a sweet savour, a sacrifice made by fire unto the LORD.",
       "tokens": [
         {
-          "t": "And a several tenth deal of flour mingled with oil"
+          "t": "And a several tenth deal of flour mingled with oil "
         },
         {
           "add": "for"
         },
         {
-          "t": "a meat offering unto one lamb;"
+          "t": " a meat offering unto one lamb; "
         },
         {
           "add": "for"
         },
         {
-          "t": "a burnt offering of a sweet savour, a sacrifice made by fire unto the"
+          "t": " a burnt offering of a sweet savour, a sacrifice made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And their drink offerings shall be half an hin of wine unto a bullock, and the third part of an hin unto a ram, and a fourth part of an hin unto a lamb: this is the burnt offering of every month throughout the months of the year.",
       "tokens": [
         {
-          "t": "And their drink offerings shall be half an hin of wine unto a bullock, and the third"
+          "t": "And their drink offerings shall be half an hin of wine unto a bullock, and the third "
         },
         {
           "add": "part"
         },
         {
-          "t": "of an hin unto a ram, and a fourth"
+          "t": " of an hin unto a ram, and a fourth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of an hin unto a lamb: this"
+          "t": " of an hin unto a lamb: this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the burnt offering of every month throughout the months of the year."
+          "t": " the burnt offering of every month throughout the months of the year. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And one kid of the goats for a sin offering unto the LORD shall be offered, beside the continual burnt offering, and his drink offering.",
       "tokens": [
         {
-          "t": "And one kid of the goats for a sin offering unto the"
+          "t": "And one kid of the goats for a sin offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall be offered, beside the continual burnt offering, and his drink offering."
+          "t": " shall be offered, beside the continual burnt offering, and his drink offering. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And in the fourteenth day of the first month is the passover of the LORD.",
       "tokens": [
         {
-          "t": "And in the fourteenth day of the first month"
+          "t": "And in the fourteenth day of the first month "
         },
         {
           "add": "is"
         },
         {
-          "t": "the passover of the"
+          "t": " the passover of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And in the fifteenth day of this month is the feast: seven days shall unleavened bread be eaten.",
       "tokens": [
         {
-          "t": "And in the fifteenth day of this month"
+          "t": "And in the fifteenth day of this month "
         },
         {
           "add": "is"
         },
         {
-          "t": "the feast: seven days shall unleavened bread be eaten."
+          "t": " the feast: seven days shall unleavened bread be eaten. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "In the first day shall be an holy convocation; ye shall do no manner of servile work therein:",
       "tokens": [
         {
-          "t": "In the first day"
+          "t": "In the first day "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "an holy convocation; ye shall do no manner of servile work"
+          "t": " an holy convocation; ye shall do no manner of servile work "
         },
         {
           "add": "therein:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "But ye shall offer a sacrifice made by fire for a burnt offering unto the LORD; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:",
       "tokens": [
         {
-          "t": "But ye shall offer a sacrifice made by fire"
+          "t": "But ye shall offer a sacrifice made by fire "
         },
         {
           "add": "for"
         },
         {
-          "t": "a burnt offering unto the"
+          "t": " a burnt offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:"
+          "t": "; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And their meat offering shall be of flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram;",
       "tokens": [
         {
-          "t": "And their meat offering"
+          "t": "And their meat offering "
         },
         {
           "add": "shall be of"
         },
         {
-          "t": "flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram;"
+          "t": " flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram; "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "A several tenth deal shalt thou offer for every lamb, throughout the seven lambs:",
       "tokens": [
         {
-          "t": "A several tenth deal shalt thou offer for every lamb, throughout the seven lambs:"
+          "t": "A several tenth deal shalt thou offer for every lamb, throughout the seven lambs: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And one goat for a sin offering, to make an atonement for you.",
       "tokens": [
         {
-          "t": "And one goat"
+          "t": "And one goat "
         },
         {
           "add": "for"
         },
         {
-          "t": "a sin offering, to make an atonement for you."
+          "t": " a sin offering, to make an atonement for you. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Ye shall offer these beside the burnt offering in the morning, which is for a continual burnt offering.",
       "tokens": [
         {
-          "t": "Ye shall offer these beside the burnt offering in the morning, which"
+          "t": "Ye shall offer these beside the burnt offering in the morning, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "for a continual burnt offering."
+          "t": " for a continual burnt offering. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the LORD: it shall be offered beside the continual burnt offering, and his drink offering.",
       "tokens": [
         {
-          "t": "After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the"
+          "t": "After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": it shall be offered beside the continual burnt offering, and his drink offering."
+          "t": ": it shall be offered beside the continual burnt offering, and his drink offering. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And on the seventh day ye shall have an holy convocation; ye shall do no servile work.",
       "tokens": [
         {
-          "t": "And on the seventh day ye shall have an holy convocation; ye shall do no servile work."
+          "t": "And on the seventh day ye shall have an holy convocation; ye shall do no servile work. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks be out, ye shall have an holy convocation; ye shall do no servile work:",
       "tokens": [
         {
-          "t": "¶ Also in the day of the firstfruits, when ye bring a new meat offering unto the"
+          "t": "¶ Also in the day of the firstfruits, when ye bring a new meat offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", after your weeks"
+          "t": ", after your weeks "
         },
         {
           "add": "be out"
         },
         {
-          "t": ", ye shall have an holy convocation; ye shall do no servile work:"
+          "t": ", ye shall have an holy convocation; ye shall do no servile work: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "But ye shall offer the burnt offering for a sweet savour unto the LORD; two young bullocks, one ram, seven lambs of the first year;",
       "tokens": [
         {
-          "t": "But ye shall offer the burnt offering for a sweet savour unto the"
+          "t": "But ye shall offer the burnt offering for a sweet savour unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; two young bullocks, one ram, seven lambs of the first year;"
+          "t": "; two young bullocks, one ram, seven lambs of the first year; "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And their meat offering of flour mingled with oil, three tenth deals unto one bullock, two tenth deals unto one ram,",
       "tokens": [
         {
-          "t": "And their meat offering of flour mingled with oil, three tenth deals unto one bullock, two tenth deals unto one ram,"
+          "t": "And their meat offering of flour mingled with oil, three tenth deals unto one bullock, two tenth deals unto one ram, "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "A several tenth deal unto one lamb, throughout the seven lambs;",
       "tokens": [
         {
-          "t": "A several tenth deal unto one lamb, throughout the seven lambs;"
+          "t": "A several tenth deal unto one lamb, throughout the seven lambs; "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And one kid of the goats, to make an atonement for you.",
       "tokens": [
         {
           "add": "And"
         },
         {
-          "t": "one kid of the goats, to make an atonement for you."
+          "t": " one kid of the goats, to make an atonement for you. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Ye shall offer them beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings.",
       "tokens": [
         {
-          "t": "Ye shall offer"
+          "t": "Ye shall offer "
         },
         {
           "add": "them"
         },
         {
-          "t": "beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings."
+          "t": " beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings. "
         }
       ]
     }

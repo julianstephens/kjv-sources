@@ -7,372 +7,397 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?",
       "tokens": [
         {
-          "t": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?"
+          "t": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Some remove the landmarks; they violently take away flocks, and feed thereof.",
       "tokens": [
         {
           "add": "Some"
         },
         {
-          "t": "remove the landmarks; they violently take away flocks, and feed"
+          "t": " remove the landmarks; they violently take away flocks, and feed "
         },
         {
           "add": "thereof"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge.",
       "tokens": [
         {
-          "t": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge."
+          "t": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "They turn the needy out of the way: the poor of the earth hide themselves together.",
       "tokens": [
         {
-          "t": "They turn the needy out of the way: the poor of the earth hide themselves together."
+          "t": "They turn the needy out of the way: the poor of the earth hide themselves together. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children.",
       "tokens": [
         {
-          "t": "Behold,"
+          "t": "Behold, "
         },
         {
           "add": "as"
         },
         {
-          "t": "wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness"
+          "t": " wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness "
         },
         {
           "add": "yieldeth"
         },
         {
-          "t": "food for them"
+          "t": " food for them "
         },
         {
           "add": "and"
         },
         {
-          "t": "for"
+          "t": " for "
         },
         {
           "add": "their"
         },
         {
-          "t": "children."
+          "t": " children. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "They reap every one his corn in the field: and they gather the vintage of the wicked.",
       "tokens": [
         {
-          "t": "They reap"
+          "t": "They reap "
         },
         {
           "add": "every one"
         },
         {
-          "t": "his corn in the field: and they gather the vintage of the wicked."
+          "t": " his corn in the field: and they gather the vintage of the wicked. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "They cause the naked to lodge without clothing, that they have no covering in the cold.",
       "tokens": [
         {
-          "t": "They cause the naked to lodge without clothing, that"
+          "t": "They cause the naked to lodge without clothing, that "
         },
         {
           "add": "they have"
         },
         {
-          "t": "no covering in the cold."
+          "t": " no covering in the cold. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "They are wet with the showers of the mountains, and embrace the rock for want of a shelter.",
       "tokens": [
         {
-          "t": "They are wet with the showers of the mountains, and embrace the rock for want of a shelter."
+          "t": "They are wet with the showers of the mountains, and embrace the rock for want of a shelter. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "They pluck the fatherless from the breast, and take a pledge of the poor.",
       "tokens": [
         {
-          "t": "They pluck the fatherless from the breast, and take a pledge of the poor."
+          "t": "They pluck the fatherless from the breast, and take a pledge of the poor. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "They cause him to go naked without clothing, and they take away the sheaf from the hungry;",
       "tokens": [
         {
-          "t": "They cause"
+          "t": "They cause "
         },
         {
           "add": "him"
         },
         {
-          "t": "to go naked without clothing, and they take away the sheaf"
+          "t": " to go naked without clothing, and they take away the sheaf "
         },
         {
           "add": "from"
         },
         {
-          "t": "the hungry;"
+          "t": " the hungry; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Which make oil within their walls, and tread their winepresses, and suffer thirst.",
       "tokens": [
         {
           "add": "Which"
         },
         {
-          "t": "make oil within their walls,"
+          "t": " make oil within their walls, "
         },
         {
           "add": "and"
         },
         {
-          "t": "tread"
+          "t": " tread "
         },
         {
           "add": "their"
         },
         {
-          "t": "winepresses, and suffer thirst."
+          "t": " winepresses, and suffer thirst. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly to them.",
       "tokens": [
         {
-          "t": "Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly"
+          "t": "Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly "
         },
         {
           "add": "to them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.",
       "tokens": [
         {
-          "t": "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof."
+          "t": "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The murderer rising with the light killeth the poor and needy, and in the night is as a thief.",
       "tokens": [
         {
-          "t": "The murderer rising with the light killeth the poor and needy, and in the night is as a thief."
+          "t": "The murderer rising with the light killeth the poor and needy, and in the night is as a thief. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.",
       "tokens": [
         {
-          "t": "The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth"
+          "t": "The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth "
         },
         {
           "add": "his"
         },
         {
-          "t": "face."
+          "t": " face. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.",
       "tokens": [
         {
-          "t": "In the dark they dig through houses,"
+          "t": "In the dark they dig through houses, "
         },
         {
           "add": "which"
         },
         {
-          "t": "they had marked for themselves in the daytime: they know not the light."
+          "t": " they had marked for themselves in the daytime: they know not the light. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "For the morning is to them even as the shadow of death: if one know them, they are in the terrors of the shadow of death.",
       "tokens": [
         {
-          "t": "For the morning"
+          "t": "For the morning "
         },
         {
           "add": "is"
         },
         {
-          "t": "to them even as the shadow of death: if"
+          "t": " to them even as the shadow of death: if "
         },
         {
           "add": "one"
         },
         {
-          "t": "know"
+          "t": " know "
         },
         {
           "add": "them, they are in"
         },
         {
-          "t": "the terrors of the shadow of death."
+          "t": " the terrors of the shadow of death. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "He is swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.",
       "tokens": [
         {
-          "t": "He"
+          "t": "He "
         },
         {
           "add": "is"
         },
         {
-          "t": "swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards."
+          "t": " swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Drought and heat consume the snow waters: so doth the grave those which have sinned.",
       "tokens": [
         {
-          "t": "Drought and heat consume the snow waters:"
+          "t": "Drought and heat consume the snow waters: "
         },
         {
           "add": "so doth"
         },
         {
-          "t": "the grave"
+          "t": " the grave "
         },
         {
           "add": "those which"
         },
         {
-          "t": "have sinned."
+          "t": " have sinned. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.",
       "tokens": [
         {
-          "t": "The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree."
+          "t": "The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "He evil entreateth the barren that beareth not: and doeth not good to the widow.",
       "tokens": [
         {
-          "t": "He evil entreateth the barren"
+          "t": "He evil entreateth the barren "
         },
         {
           "add": "that"
         },
         {
-          "t": "beareth not: and doeth not good to the widow."
+          "t": " beareth not: and doeth not good to the widow. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "He draweth also the mighty with his power: he riseth up, and no man is sure of life.",
       "tokens": [
         {
-          "t": "He draweth also the mighty with his power: he riseth up, and no"
+          "t": "He draweth also the mighty with his power: he riseth up, and no "
         },
         {
           "add": "man"
         },
         {
-          "t": "is sure of life."
+          "t": " is sure of life. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Though it be given him to be in safety, whereon he resteth; yet his eyes are upon their ways.",
       "tokens": [
         {
           "add": "Though"
         },
         {
-          "t": "it be given him"
+          "t": " it be given him "
         },
         {
           "add": "to be"
         },
         {
-          "t": "in safety, whereon he resteth; yet his eyes"
+          "t": " in safety, whereon he resteth; yet his eyes "
         },
         {
           "add": "are"
         },
         {
-          "t": "upon their ways."
+          "t": " upon their ways. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.",
       "tokens": [
         {
-          "t": "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all"
+          "t": "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all "
         },
         {
           "add": "other"
         },
         {
-          "t": ", and cut off as the tops of the ears of corn."
+          "t": ", and cut off as the tops of the ears of corn. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And if it be not so now, who will make me a liar, and make my speech nothing worth?",
       "tokens": [
         {
-          "t": "And if"
+          "t": "And if "
         },
         {
           "add": "it be"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "so"
         },
         {
-          "t": "now, who will make me a liar, and make my speech nothing worth?"
+          "t": " now, who will make me a liar, and make my speech nothing worth? "
         }
       ]
     }

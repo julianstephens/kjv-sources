@@ -7,494 +7,526 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;",
       "tokens": [
         {
-          "t": "Now these"
+          "t": "Now these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;"
+          "t": " the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "(After that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;)",
       "tokens": [
         {
-          "t": "(After that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;)"
+          "t": "(After that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;) "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "By the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon) saying,",
       "tokens": [
         {
-          "t": "By the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon) saying,"
+          "t": "By the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon) saying, "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Thus saith the LORD of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;"
+          "t": " of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Build ye houses, and dwell in them; and plant gardens, and eat the fruit of them;",
       "tokens": [
         {
-          "t": "Build ye houses, and dwell"
+          "t": "Build ye houses, and dwell "
         },
         {
           "add": "in them;"
         },
         {
-          "t": "and plant gardens, and eat the fruit of them;"
+          "t": " and plant gardens, and eat the fruit of them; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished.",
       "tokens": [
         {
-          "t": "Take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished."
+          "t": "Take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall ye have peace.",
       "tokens": [
         {
-          "t": "And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the"
+          "t": "And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for it: for in the peace thereof shall ye have peace."
+          "t": " for it: for in the peace thereof shall ye have peace. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ For thus saith the LORD of hosts, the God of Israel; Let not your prophets and your diviners, that be in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed.",
       "tokens": [
         {
-          "t": "¶ For thus saith the"
+          "t": "¶ For thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel; Let not your prophets and your diviners, that"
+          "t": " of hosts, the God of Israel; Let not your prophets and your diviners, that "
         },
         {
           "add": "be"
         },
         {
-          "t": "in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed."
+          "t": " in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For they prophesy falsely unto you in my name: I have not sent them, saith the LORD.",
       "tokens": [
         {
-          "t": "For they prophesy falsely unto you in my name: I have not sent them, saith the"
+          "t": "For they prophesy falsely unto you in my name: I have not sent them, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place.",
       "tokens": [
         {
-          "t": "¶ For thus saith the"
+          "t": "¶ For thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place."
+          "t": ", That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
       "tokens": [
         {
-          "t": "For I know the thoughts that I think toward you, saith the"
+          "t": "For I know the thoughts that I think toward you, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", thoughts of peace, and not of evil, to give you an expected end."
+          "t": ", thoughts of peace, and not of evil, to give you an expected end. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.",
       "tokens": [
         {
-          "t": "Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you."
+          "t": "Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
       "tokens": [
         {
-          "t": "And ye shall seek me, and find"
+          "t": "And ye shall seek me, and find "
         },
         {
           "add": "me"
         },
         {
-          "t": ", when ye shall search for me with all your heart."
+          "t": ", when ye shall search for me with all your heart. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the LORD; and I will bring you again into the place whence I caused you to be carried away captive.",
       "tokens": [
         {
-          "t": "And I will be found of you, saith the"
+          "t": "And I will be found of you, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the"
+          "t": ": and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and I will bring you again into the place whence I caused you to be carried away captive."
+          "t": "; and I will bring you again into the place whence I caused you to be carried away captive. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ Because ye have said, The LORD hath raised us up prophets in Babylon;",
       "tokens": [
         {
-          "t": "¶ Because ye have said, The"
+          "t": "¶ Because ye have said, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath raised us up prophets in Babylon;"
+          "t": " hath raised us up prophets in Babylon; "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Know that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, and of your brethren that are not gone forth with you into captivity;",
       "tokens": [
         {
           "add": "Know"
         },
         {
-          "t": "that thus saith the"
+          "t": " that thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city,"
+          "t": " of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, "
         },
         {
           "add": "and"
         },
         {
-          "t": "of your brethren that are not gone forth with you into captivity;"
+          "t": " of your brethren that are not gone forth with you into captivity; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Thus saith the LORD of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil.",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil."
+          "t": " of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them:",
       "tokens": [
         {
-          "t": "And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them:"
+          "t": "And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Because they have not hearkened to my words, saith the LORD, which I sent unto them by my servants the prophets, rising up early and sending them; but ye would not hear, saith the LORD.",
       "tokens": [
         {
-          "t": "Because they have not hearkened to my words, saith the"
+          "t": "Because they have not hearkened to my words, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which I sent unto them by my servants the prophets, rising up early and sending"
+          "t": ", which I sent unto them by my servants the prophets, rising up early and sending "
         },
         {
           "add": "them;"
         },
         {
-          "t": "but ye would not hear, saith the"
+          "t": " but ye would not hear, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ Hear ye therefore the word of the LORD, all ye of the captivity, whom I have sent from Jerusalem to Babylon:",
       "tokens": [
         {
-          "t": "¶ Hear ye therefore the word of the"
+          "t": "¶ Hear ye therefore the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", all ye of the captivity, whom I have sent from Jerusalem to Babylon:"
+          "t": ", all ye of the captivity, whom I have sent from Jerusalem to Babylon: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Thus saith the LORD of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes;",
       "tokens": [
         {
-          "t": "Thus saith the"
+          "t": "Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes;"
+          "t": " of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes; "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And of them shall be taken up a curse by all the captivity of Judah which are in Babylon, saying, The LORD make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;",
       "tokens": [
         {
-          "t": "And of them shall be taken up a curse by all the captivity of Judah which"
+          "t": "And of them shall be taken up a curse by all the captivity of Judah which "
         },
         {
           "add": "are"
         },
         {
-          "t": "in Babylon, saying, The"
+          "t": " in Babylon, saying, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;"
+          "t": " make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire; "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Because they have committed villany in Israel, and have committed adultery with their neighbours’ wives, and have spoken lying words in my name, which I have not commanded them; even I know, and am a witness, saith the LORD.",
       "tokens": [
         {
-          "t": "Because they have committed villany in Israel, and have committed adultery with their neighbours’ wives, and have spoken lying words in my name, which I have not commanded them; even I know, and"
+          "t": "Because they have committed villany in Israel, and have committed adultery with their neighbours’ wives, and have spoken lying words in my name, which I have not commanded them; even I know, and "
         },
         {
           "add": "am"
         },
         {
-          "t": "a witness, saith the"
+          "t": " a witness, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ Thus shalt thou also speak to Shemaiah the Nehelamite, saying,",
       "tokens": [
         {
-          "t": "¶"
+          "t": "¶ "
         },
         {
           "add": "Thus"
         },
         {
-          "t": "shalt thou also speak to Shemaiah the Nehelamite, saying,"
+          "t": " shalt thou also speak to Shemaiah the Nehelamite, saying, "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Thus speaketh the LORD of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that are at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,",
       "tokens": [
         {
-          "t": "Thus speaketh the"
+          "t": "Thus speaketh the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that"
+          "t": " of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that "
         },
         {
           "add": "are"
         },
         {
-          "t": "at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,"
+          "t": " at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying, "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "The LORD hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the LORD, for every man that is mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the"
+          "t": " hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", for every man"
+          "t": ", for every man "
         },
         {
           "add": "that is"
         },
         {
-          "t": "mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks."
+          "t": " mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you?",
       "tokens": [
         {
-          "t": "Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you?"
+          "t": "Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you? "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "For therefore he sent unto us in Babylon, saying, This captivity is long: build ye houses, and dwell in them; and plant gardens, and eat the fruit of them.",
       "tokens": [
         {
-          "t": "For therefore he sent unto us"
+          "t": "For therefore he sent unto us "
         },
         {
           "add": "in"
         },
         {
-          "t": "Babylon, saying, This"
+          "t": " Babylon, saying, This "
         },
         {
           "add": "captivity is"
         },
         {
-          "t": "long: build ye houses, and dwell"
+          "t": " long: build ye houses, and dwell "
         },
         {
           "add": "in them;"
         },
         {
-          "t": "and plant gardens, and eat the fruit of them."
+          "t": " and plant gardens, and eat the fruit of them. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Zephaniah the priest read this letter in the ears of Jeremiah the prophet.",
       "tokens": [
         {
-          "t": "And Zephaniah the priest read this letter in the ears of Jeremiah the prophet."
+          "t": "And Zephaniah the priest read this letter in the ears of Jeremiah the prophet. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "¶ Then came the word of the LORD unto Jeremiah, saying,",
       "tokens": [
         {
-          "t": "¶ Then came the word of the"
+          "t": "¶ Then came the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto Jeremiah, saying,"
+          "t": " unto Jeremiah, saying, "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Send to all them of the captivity, saying, Thus saith the LORD concerning Shemaiah the Nehelamite; Because that Shemaiah hath prophesied unto you, and I sent him not, and he caused you to trust in a lie:",
       "tokens": [
         {
-          "t": "Send to all them of the captivity, saying, Thus saith the"
+          "t": "Send to all them of the captivity, saying, Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "concerning Shemaiah the Nehelamite; Because that Shemaiah hath prophesied unto you, and I sent him not, and he caused you to trust in a lie:"
+          "t": " concerning Shemaiah the Nehelamite; Because that Shemaiah hath prophesied unto you, and I sent him not, and he caused you to trust in a lie: "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Therefore thus saith the LORD; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the LORD; because he hath taught rebellion against the LORD.",
       "tokens": [
         {
-          "t": "Therefore thus saith the"
+          "t": "Therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the"
+          "t": "; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; because he hath taught rebellion against the"
+          "t": "; because he hath taught rebellion against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

@@ -7,462 +7,490 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The word of the LORD which came to Jeremiah the prophet against the Gentiles;",
       "tokens": [
         {
-          "t": "The word of the"
+          "t": "The word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "which came to Jeremiah the prophet against the Gentiles;"
+          "t": " which came to Jeremiah the prophet against the Gentiles; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Against Egypt, against the army of Pharaoh-necho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.",
       "tokens": [
         {
-          "t": "Against Egypt, against the army of Pharaoh-necho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah."
+          "t": "Against Egypt, against the army of Pharaoh-necho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Order ye the buckler and shield, and draw near to battle.",
       "tokens": [
         {
-          "t": "Order ye the buckler and shield, and draw near to battle."
+          "t": "Order ye the buckler and shield, and draw near to battle. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Harness the horses; and get up, ye horsemen, and stand forth with your helmets; furbish the spears, and put on the brigandines.",
       "tokens": [
         {
-          "t": "Harness the horses; and get up, ye horsemen, and stand forth with"
+          "t": "Harness the horses; and get up, ye horsemen, and stand forth with "
         },
         {
           "add": "your"
         },
         {
-          "t": "helmets; furbish the spears,"
+          "t": " helmets; furbish the spears, "
         },
         {
           "add": "and"
         },
         {
-          "t": "put on the brigandines."
+          "t": " put on the brigandines. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Wherefore have I seen them dismayed and turned away back? and their mighty ones are beaten down, and are fled apace, and look not back: for fear was round about, saith the LORD.",
       "tokens": [
         {
-          "t": "Wherefore have I seen them dismayed"
+          "t": "Wherefore have I seen them dismayed "
         },
         {
           "add": "and"
         },
         {
-          "t": "turned away back? and their mighty ones are beaten down, and are fled apace, and look not back:"
+          "t": " turned away back? and their mighty ones are beaten down, and are fled apace, and look not back: "
         },
         {
           "add": "for"
         },
         {
-          "t": "fear"
+          "t": " fear "
         },
         {
           "add": "was"
         },
         {
-          "t": "round about, saith the"
+          "t": " round about, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates.",
       "tokens": [
         {
-          "t": "Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates."
+          "t": "Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Who is this that cometh up as a flood, whose waters are moved as the rivers?",
       "tokens": [
         {
-          "t": "Who"
+          "t": "Who "
         },
         {
           "add": "is"
         },
         {
-          "t": "this"
+          "t": " this "
         },
         {
           "add": "that"
         },
         {
-          "t": "cometh up as a flood, whose waters are moved as the rivers?"
+          "t": " cometh up as a flood, whose waters are moved as the rivers? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Egypt riseth up like a flood, and his waters are moved like the rivers; and he saith, I will go up, and will cover the earth; I will destroy the city and the inhabitants thereof.",
       "tokens": [
         {
-          "t": "Egypt riseth up like a flood, and"
+          "t": "Egypt riseth up like a flood, and "
         },
         {
           "add": "his"
         },
         {
-          "t": "waters are moved like the rivers; and he saith, I will go up,"
+          "t": " waters are moved like the rivers; and he saith, I will go up, "
         },
         {
           "add": "and"
         },
         {
-          "t": "will cover the earth; I will destroy the city and the inhabitants thereof."
+          "t": " will cover the earth; I will destroy the city and the inhabitants thereof. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Come up, ye horses; and rage, ye chariots; and let the mighty men come forth; the Ethiopians and the Libyans, that handle the shield; and the Lydians, that handle and bend the bow.",
       "tokens": [
         {
-          "t": "Come up, ye horses; and rage, ye chariots; and let the mighty men come forth; the Ethiopians and the Libyans, that handle the shield; and the Lydians, that handle"
+          "t": "Come up, ye horses; and rage, ye chariots; and let the mighty men come forth; the Ethiopians and the Libyans, that handle the shield; and the Lydians, that handle "
         },
         {
           "add": "and"
         },
         {
-          "t": "bend the bow."
+          "t": " bend the bow. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For this is the day of the Lord GOD of hosts, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour, and it shall be satiate and made drunk with their blood: for the Lord GOD of hosts hath a sacrifice in the north country by the river Euphrates.",
       "tokens": [
         {
-          "t": "For this"
+          "t": "For this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the day of the Lord"
+          "t": " the day of the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "of hosts, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour, and it shall be satiate and made drunk with their blood: for the Lord"
+          "t": " of hosts, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour, and it shall be satiate and made drunk with their blood: for the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "of hosts hath a sacrifice in the north country by the river Euphrates."
+          "t": " of hosts hath a sacrifice in the north country by the river Euphrates. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; for thou shalt not be cured.",
       "tokens": [
         {
-          "t": "Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines;"
+          "t": "Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; "
         },
         {
           "add": "for"
         },
         {
-          "t": "thou shalt not be cured."
+          "t": " thou shalt not be cured. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "The nations have heard of thy shame, and thy cry hath filled the land: for the mighty man hath stumbled against the mighty, and they are fallen both together.",
       "tokens": [
         {
-          "t": "The nations have heard of thy shame, and thy cry hath filled the land: for the mighty man hath stumbled against the mighty,"
+          "t": "The nations have heard of thy shame, and thy cry hath filled the land: for the mighty man hath stumbled against the mighty, "
         },
         {
           "add": "and"
         },
         {
-          "t": "they are fallen both together."
+          "t": " they are fallen both together. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ The word that the LORD spake to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come and smite the land of Egypt.",
       "tokens": [
         {
-          "t": "¶ The word that the"
+          "t": "¶ The word that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come"
+          "t": " spake to Jeremiah the prophet, how Nebuchadrezzar king of Babylon should come "
         },
         {
           "add": "and"
         },
         {
-          "t": "smite the land of Egypt."
+          "t": " smite the land of Egypt. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Declare ye in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes: say ye, Stand fast, and prepare thee; for the sword shall devour round about thee.",
       "tokens": [
         {
-          "t": "Declare ye in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes: say ye, Stand fast, and prepare thee; for the sword shall devour round about thee."
+          "t": "Declare ye in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes: say ye, Stand fast, and prepare thee; for the sword shall devour round about thee. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Why are thy valiant men swept away? they stood not, because the LORD did drive them.",
       "tokens": [
         {
-          "t": "Why are thy valiant"
+          "t": "Why are thy valiant "
         },
         {
           "add": "men"
         },
         {
-          "t": "swept away? they stood not, because the"
+          "t": " swept away? they stood not, because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "did drive them."
+          "t": " did drive them. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "He made many to fall, yea, one fell upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword.",
       "tokens": [
         {
-          "t": "He made many to fall, yea, one fell upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword."
+          "t": "He made many to fall, yea, one fell upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "They did cry there, Pharaoh king of Egypt is but a noise; he hath passed the time appointed.",
       "tokens": [
         {
-          "t": "They did cry there, Pharaoh king of Egypt"
+          "t": "They did cry there, Pharaoh king of Egypt "
         },
         {
           "add": "is but"
         },
         {
-          "t": "a noise; he hath passed the time appointed."
+          "t": " a noise; he hath passed the time appointed. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "As I live, saith the King, whose name is the LORD of hosts, Surely as Tabor is among the mountains, and as Carmel by the sea, so shall he come.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "I live, saith the King, whose name"
+          "t": " I live, saith the King, whose name "
         },
         {
           "add": "is"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, Surely as Tabor"
+          "t": " of hosts, Surely as Tabor "
         },
         {
           "add": "is"
         },
         {
-          "t": "among the mountains, and as Carmel by the sea,"
+          "t": " among the mountains, and as Carmel by the sea, "
         },
         {
           "add": "so"
         },
         {
-          "t": "shall he come."
+          "t": " shall he come. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "O thou daughter dwelling in Egypt, furnish thyself to go into captivity: for Noph shall be waste and desolate without an inhabitant.",
       "tokens": [
         {
-          "t": "O thou daughter dwelling in Egypt, furnish thyself to go into captivity: for Noph shall be waste and desolate without an inhabitant."
+          "t": "O thou daughter dwelling in Egypt, furnish thyself to go into captivity: for Noph shall be waste and desolate without an inhabitant. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Egypt is like a very fair heifer, but destruction cometh; it cometh out of the north.",
       "tokens": [
         {
-          "t": "Egypt"
+          "t": "Egypt "
         },
         {
           "add": "is like"
         },
         {
-          "t": "a very fair heifer,"
+          "t": " a very fair heifer, "
         },
         {
           "add": "but"
         },
         {
-          "t": "destruction cometh; it cometh out of the north."
+          "t": " destruction cometh; it cometh out of the north. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Also her hired men are in the midst of her like fatted bullocks; for they also are turned back, and are fled away together: they did not stand, because the day of their calamity was come upon them, and the time of their visitation.",
       "tokens": [
         {
-          "t": "Also her hired men"
+          "t": "Also her hired men "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the midst of her like fatted bullocks; for they also are turned back,"
+          "t": " in the midst of her like fatted bullocks; for they also are turned back, "
         },
         {
           "add": "and"
         },
         {
-          "t": "are fled away together: they did not stand, because the day of their calamity was come upon them,"
+          "t": " are fled away together: they did not stand, because the day of their calamity was come upon them, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the time of their visitation."
+          "t": " the time of their visitation. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The voice thereof shall go like a serpent; for they shall march with an army, and come against her with axes, as hewers of wood.",
       "tokens": [
         {
-          "t": "The voice thereof shall go like a serpent; for they shall march with an army, and come against her with axes, as hewers of wood."
+          "t": "The voice thereof shall go like a serpent; for they shall march with an army, and come against her with axes, as hewers of wood. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "They shall cut down her forest, saith the LORD, though it cannot be searched; because they are more than the grasshoppers, and are innumerable.",
       "tokens": [
         {
-          "t": "They shall cut down her forest, saith the"
+          "t": "They shall cut down her forest, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", though it cannot be searched; because they are more than the grasshoppers, and"
+          "t": ", though it cannot be searched; because they are more than the grasshoppers, and "
         },
         {
           "add": "are"
         },
         {
-          "t": "innumerable."
+          "t": " innumerable. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "The daughter of Egypt shall be confounded; she shall be delivered into the hand of the people of the north.",
       "tokens": [
         {
-          "t": "The daughter of Egypt shall be confounded; she shall be delivered into the hand of the people of the north."
+          "t": "The daughter of Egypt shall be confounded; she shall be delivered into the hand of the people of the north. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "The LORD of hosts, the God of Israel, saith; Behold, I will punish the multitude of No, and Pharaoh, and Egypt, with their gods, and their kings; even Pharaoh, and all them that trust in him:",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, the God of Israel, saith; Behold, I will punish the multitude of No, and Pharaoh, and Egypt, with their gods, and their kings; even Pharaoh, and"
+          "t": " of hosts, the God of Israel, saith; Behold, I will punish the multitude of No, and Pharaoh, and Egypt, with their gods, and their kings; even Pharaoh, and "
         },
         {
           "add": "all"
         },
         {
-          "t": "them that trust in him:"
+          "t": " them that trust in him: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And I will deliver them into the hand of those that seek their lives, and into the hand of Nebuchadrezzar king of Babylon, and into the hand of his servants: and afterward it shall be inhabited, as in the days of old, saith the LORD.",
       "tokens": [
         {
-          "t": "And I will deliver them into the hand of those that seek their lives, and into the hand of Nebuchadrezzar king of Babylon, and into the hand of his servants: and afterward it shall be inhabited, as in the days of old, saith the"
+          "t": "And I will deliver them into the hand of those that seek their lives, and into the hand of Nebuchadrezzar king of Babylon, and into the hand of his servants: and afterward it shall be inhabited, as in the days of old, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ But fear not thou, O my servant Jacob, and be not dismayed, O Israel: for, behold, I will save thee from afar off, and thy seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make him afraid.",
       "tokens": [
         {
-          "t": "¶ But fear not thou, O my servant Jacob, and be not dismayed, O Israel: for, behold, I will save thee from afar off, and thy seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make"
+          "t": "¶ But fear not thou, O my servant Jacob, and be not dismayed, O Israel: for, behold, I will save thee from afar off, and thy seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make "
         },
         {
           "add": "him"
         },
         {
-          "t": "afraid."
+          "t": " afraid. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Fear thou not, O Jacob my servant, saith the LORD: for I am with thee; for I will make a full end of all the nations whither I have driven thee: but I will not make a full end of thee, but correct thee in measure; yet will I not leave thee wholly unpunished.",
       "tokens": [
         {
-          "t": "Fear thou not, O Jacob my servant, saith the"
+          "t": "Fear thou not, O Jacob my servant, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for I"
+          "t": ": for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "with thee; for I will make a full end of all the nations whither I have driven thee: but I will not make a full end of thee, but correct thee in measure; yet will I not leave thee wholly unpunished."
+          "t": " with thee; for I will make a full end of all the nations whither I have driven thee: but I will not make a full end of thee, but correct thee in measure; yet will I not leave thee wholly unpunished. "
         }
       ]
     }

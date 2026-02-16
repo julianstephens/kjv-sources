@@ -7,321 +7,337 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
       "tokens": [
         {
-          "t": "I am come into my garden, my sister,"
+          "t": "I am come into my garden, my sister, "
         },
         {
           "add": "my"
         },
         {
-          "t": "spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved."
+          "t": " spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "¶ I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.",
       "tokens": [
         {
-          "t": "¶ I sleep, but my heart waketh:"
+          "t": "¶ I sleep, but my heart waketh: "
         },
         {
           "add": "it is"
         },
         {
-          "t": "the voice of my beloved that knocketh,"
+          "t": " the voice of my beloved that knocketh, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew,"
+          "t": ", Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, "
         },
         {
           "add": "and"
         },
         {
-          "t": "my locks with the drops of the night."
+          "t": " my locks with the drops of the night. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?",
       "tokens": [
         {
-          "t": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?"
+          "t": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "My beloved put in his hand by the hole of the door, and my bowels were moved for him.",
       "tokens": [
         {
-          "t": "My beloved put in his hand by the hole"
+          "t": "My beloved put in his hand by the hole "
         },
         {
           "add": "of the door"
         },
         {
-          "t": ", and my bowels were moved for him."
+          "t": ", and my bowels were moved for him. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.",
       "tokens": [
         {
-          "t": "I rose up to open to my beloved; and my hands dropped"
+          "t": "I rose up to open to my beloved; and my hands dropped "
         },
         {
           "add": "with"
         },
         {
-          "t": "myrrh, and my fingers"
+          "t": " myrrh, and my fingers "
         },
         {
           "add": "with"
         },
         {
-          "t": "sweet smelling myrrh, upon the handles of the lock."
+          "t": " sweet smelling myrrh, upon the handles of the lock. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.",
       "tokens": [
         {
-          "t": "I opened to my beloved; but my beloved had withdrawn himself,"
+          "t": "I opened to my beloved; but my beloved had withdrawn himself, "
         },
         {
           "add": "and"
         },
         {
-          "t": "was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer."
+          "t": " was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.",
       "tokens": [
         {
-          "t": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me."
+          "t": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I am sick of love.",
       "tokens": [
         {
-          "t": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I"
+          "t": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I "
         },
         {
           "add": "am"
         },
         {
-          "t": "sick of love."
+          "t": " sick of love. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?",
       "tokens": [
         {
-          "t": "¶ What"
+          "t": "¶ What "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy beloved more than"
+          "t": " thy beloved more than "
         },
         {
           "add": "another"
         },
         {
-          "t": "beloved, O thou fairest among women? what"
+          "t": " beloved, O thou fairest among women? what "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy beloved more than"
+          "t": " thy beloved more than "
         },
         {
           "add": "another"
         },
         {
-          "t": "beloved, that thou dost so charge us?"
+          "t": " beloved, that thou dost so charge us? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "My beloved is white and ruddy, the chiefest among ten thousand.",
       "tokens": [
         {
-          "t": "My beloved"
+          "t": "My beloved "
         },
         {
           "add": "is"
         },
         {
-          "t": "white and ruddy, the chiefest among ten thousand."
+          "t": " white and ruddy, the chiefest among ten thousand. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "His head is as the most fine gold, his locks are bushy, and black as a raven.",
       "tokens": [
         {
-          "t": "His head"
+          "t": "His head "
         },
         {
           "add": "is as"
         },
         {
-          "t": "the most fine gold, his locks"
+          "t": " the most fine gold, his locks "
         },
         {
           "add": "are"
         },
         {
-          "t": "bushy,"
+          "t": " bushy, "
         },
         {
           "add": "and"
         },
         {
-          "t": "black as a raven."
+          "t": " black as a raven. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set.",
       "tokens": [
         {
-          "t": "His eyes"
+          "t": "His eyes "
         },
         {
           "add": "are"
         },
         {
-          "t": "as"
+          "t": " as "
         },
         {
           "add": "the eyes"
         },
         {
-          "t": "of doves by the rivers of waters, washed with milk,"
+          "t": " of doves by the rivers of waters, washed with milk, "
         },
         {
           "add": "and"
         },
         {
-          "t": "fitly set."
+          "t": " fitly set. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh.",
       "tokens": [
         {
-          "t": "His cheeks"
+          "t": "His cheeks "
         },
         {
           "add": "are"
         },
         {
-          "t": "as a bed of spices,"
+          "t": " as a bed of spices, "
         },
         {
           "add": "as"
         },
         {
-          "t": "sweet flowers: his lips"
+          "t": " sweet flowers: his lips "
         },
         {
           "add": "like"
         },
         {
-          "t": "lilies, dropping sweet smelling myrrh."
+          "t": " lilies, dropping sweet smelling myrrh. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires.",
       "tokens": [
         {
-          "t": "His hands"
+          "t": "His hands "
         },
         {
           "add": "are as"
         },
         {
-          "t": "gold rings set with the beryl: his belly"
+          "t": " gold rings set with the beryl: his belly "
         },
         {
           "add": "is as"
         },
         {
-          "t": "bright ivory overlaid"
+          "t": " bright ivory overlaid "
         },
         {
           "add": "with"
         },
         {
-          "t": "sapphires."
+          "t": " sapphires. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.",
       "tokens": [
         {
-          "t": "His legs"
+          "t": "His legs "
         },
         {
           "add": "are as"
         },
         {
-          "t": "pillars of marble, set upon sockets of fine gold: his countenance"
+          "t": " pillars of marble, set upon sockets of fine gold: his countenance "
         },
         {
           "add": "is"
         },
         {
-          "t": "as Lebanon, excellent as the cedars."
+          "t": " as Lebanon, excellent as the cedars. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.",
       "tokens": [
         {
-          "t": "His mouth"
+          "t": "His mouth "
         },
         {
           "add": "is"
         },
         {
-          "t": "most sweet: yea, he"
+          "t": " most sweet: yea, he "
         },
         {
           "add": "is"
         },
         {
-          "t": "altogether lovely. This"
+          "t": " altogether lovely. This "
         },
         {
           "add": "is"
         },
         {
-          "t": "my beloved, and this"
+          "t": " my beloved, and this "
         },
         {
           "add": "is"
         },
         {
-          "t": "my friend, O daughters of Jerusalem."
+          "t": " my friend, O daughters of Jerusalem. "
         }
       ]
     }

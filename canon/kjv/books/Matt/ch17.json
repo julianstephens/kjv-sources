@@ -7,228 +7,324 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,",
       "tokens": [
         {
-          "t": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,"
+          "t": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.",
       "tokens": [
         {
-          "t": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light."
+          "t": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And, behold, there appeared unto them Moses and Elias talking with him.",
       "tokens": [
         {
-          "t": "And, behold, there appeared unto them Moses and Elias talking with him."
+          "t": "And, behold, there appeared unto them Moses and Elias talking with him. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias.",
       "tokens": [
         {
-          "t": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias."
+          "t": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.",
       "tokens": [
         {
-          "t": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him."
+          "t": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And when the disciples heard it, they fell on their face, and were sore afraid.",
       "tokens": [
         {
-          "t": "And when the disciples heard"
+          "t": "And when the disciples heard "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they fell on their face, and were sore afraid."
+          "t": ", they fell on their face, and were sore afraid. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Jesus came and touched them, and said, Arise, and be not afraid.",
       "tokens": [
         {
-          "t": "And Jesus came and touched them, and said,"
+          "t": "And Jesus came and touched them, and said, "
+        },
+        {
+          "t": "Arise, and be not afraid."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And when they had lifted up their eyes, they saw no man, save Jesus only.",
       "tokens": [
         {
-          "t": "And when they had lifted up their eyes, they saw no man, save Jesus only."
+          "t": "And when they had lifted up their eyes, they saw no man, save Jesus only. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead.",
       "tokens": [
         {
-          "t": "And as they came down from the mountain, Jesus charged them, saying,"
+          "t": "And as they came down from the mountain, Jesus charged them, saying, "
+        },
+        {
+          "t": "Tell the vision to no man, until the Son of man be risen again from the dead."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And his disciples asked him, saying, Why then say the scribes that Elias must first come?",
       "tokens": [
         {
-          "t": "And his disciples asked him, saying, Why then say the scribes that Elias must first come?"
+          "t": "And his disciples asked him, saying, Why then say the scribes that Elias must first come? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Jesus answered and said unto them, Elias truly shall first come, and restore all things.",
       "tokens": [
         {
-          "t": "And Jesus answered and said unto them,"
+          "t": "And Jesus answered and said unto them, "
+        },
+        {
+          "t": "Elias truly shall first come, and restore all things."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them.",
+      "tokens": [
+        {
+          "t": "But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
+      "plain": "Then the disciples understood that he spake unto them of John the Baptist.",
       "tokens": [
         {
-          "t": "Then the disciples understood that he spake unto them of John the Baptist."
+          "t": "Then the disciples understood that he spake unto them of John the Baptist. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying,",
       "tokens": [
         {
-          "t": "¶ And when they were come to the multitude, there came to him a"
+          "t": "¶ And when they were come to the multitude, there came to him a "
         },
         {
           "add": "certain"
         },
         {
-          "t": "man, kneeling down to him, and saying,"
+          "t": " man, kneeling down to him, and saying, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water.",
       "tokens": [
         {
-          "t": "Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water."
+          "t": "Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And I brought him to thy disciples, and they could not cure him.",
       "tokens": [
         {
-          "t": "And I brought him to thy disciples, and they could not cure him."
+          "t": "And I brought him to thy disciples, and they could not cure him. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.",
       "tokens": [
         {
-          "t": "Then Jesus answered and said,"
+          "t": "Then Jesus answered and said, "
+        },
+        {
+          "t": "O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.",
       "tokens": [
         {
-          "t": "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour."
+          "t": "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Then came the disciples to Jesus apart, and said, Why could not we cast him out?",
       "tokens": [
         {
-          "t": "Then came the disciples to Jesus apart, and said, Why could not we cast him out?"
+          "t": "Then came the disciples to Jesus apart, and said, Why could not we cast him out? "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.",
       "tokens": [
         {
-          "t": "And Jesus said unto them,"
+          "t": "And Jesus said unto them, "
+        },
+        {
+          "t": "Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "Howbeit this kind goeth not out but by prayer and fasting.",
+      "tokens": [
+        {
+          "t": "Howbeit this kind goeth not out but by prayer and fasting."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
+      "plain": "¶ And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:",
       "tokens": [
         {
-          "t": "¶ And while they abode in Galilee, Jesus said unto them,"
+          "t": "¶ And while they abode in Galilee, Jesus said unto them, "
+        },
+        {
+          "t": "The Son of man shall be betrayed into the hands of men:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry.",
       "tokens": [
         {
-          "t": "And they were exceeding sorry."
+          "t": "And they shall kill him, and the third day he shall be raised again."
         },
         {
-          "t": "And they were exceeding sorry."
+          "t": " And they were exceeding sorry. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?",
       "tokens": [
         {
-          "t": "¶ And when they were come to Capernaum, they that received tribute"
+          "t": "¶ And when they were come to Capernaum, they that received tribute "
         },
         {
           "add": "money"
         },
         {
-          "t": "came to Peter, and said, Doth not your master pay tribute?"
+          "t": " came to Peter, and said, Doth not your master pay tribute? "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?",
       "tokens": [
         {
-          "t": "He saith, Yes. And when he was come into the house, Jesus prevented him, saying,"
+          "t": "He saith, Yes. And when he was come into the house, Jesus prevented him, saying, "
+        },
+        {
+          "t": "What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.",
       "tokens": [
         {
-          "t": "Peter saith unto him, Of strangers. Jesus saith unto him,"
+          "t": "Peter saith unto him, Of strangers. Jesus saith unto him, "
+        },
+        {
+          "t": "Then are the children free."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.",
+      "tokens": [
+        {
+          "t": "Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

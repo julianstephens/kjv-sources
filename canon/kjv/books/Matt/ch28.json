@@ -7,181 +7,229 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.",
       "tokens": [
         {
-          "t": "In the end of the sabbath, as it began to dawn toward the first"
+          "t": "In the end of the sabbath, as it began to dawn toward the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the week, came Mary Magdalene and the other Mary to see the sepulchre."
+          "t": " of the week, came Mary Magdalene and the other Mary to see the sepulchre. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it.",
       "tokens": [
         {
-          "t": "And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it."
+          "t": "And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "His countenance was like lightning, and his raiment white as snow:",
       "tokens": [
         {
-          "t": "His countenance was like lightning, and his raiment white as snow:"
+          "t": "His countenance was like lightning, and his raiment white as snow: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And for fear of him the keepers did shake, and became as dead men.",
       "tokens": [
         {
-          "t": "And for fear of him the keepers did shake, and became as dead"
+          "t": "And for fear of him the keepers did shake, and became as dead "
         },
         {
           "add": "men"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.",
       "tokens": [
         {
-          "t": "And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified."
+          "t": "And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay.",
       "tokens": [
         {
-          "t": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay."
+          "t": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you.",
       "tokens": [
         {
-          "t": "And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you."
+          "t": "And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.",
       "tokens": [
         {
-          "t": "And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word."
+          "t": "And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him.",
       "tokens": [
         {
-          "t": "And they came and held him by the feet, and worshipped him."
+          "t": "¶ And as they went to tell his disciples, behold, Jesus met them, saying, "
         },
         {
-          "t": "¶ And as they went to tell his disciples, behold, Jesus met them, saying, And they came and held him by the feet, and worshipped him."
+          "t": "All hail."
+        },
+        {
+          "t": " And they came and held him by the feet, and worshipped him. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me.",
       "tokens": [
         {
-          "t": "Then said Jesus unto them,"
+          "t": "Then said Jesus unto them, "
+        },
+        {
+          "t": "Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done.",
       "tokens": [
         {
-          "t": "¶ Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done."
+          "t": "¶ Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,",
       "tokens": [
         {
-          "t": "And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,"
+          "t": "And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Saying, Say ye, His disciples came by night, and stole him away while we slept.",
       "tokens": [
         {
-          "t": "Saying, Say ye, His disciples came by night, and stole him"
+          "t": "Saying, Say ye, His disciples came by night, and stole him "
         },
         {
           "add": "away"
         },
         {
-          "t": "while we slept."
+          "t": " while we slept. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And if this come to the governor’s ears, we will persuade him, and secure you.",
       "tokens": [
         {
-          "t": "And if this come to the governor’s ears, we will persuade him, and secure you."
+          "t": "And if this come to the governor’s ears, we will persuade him, and secure you. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "So they took the money, and did as they were taught: and this saying is commonly reported among the Jews until this day.",
       "tokens": [
         {
-          "t": "So they took the money, and did as they were taught: and this saying is commonly reported among the Jews until this day."
+          "t": "So they took the money, and did as they were taught: and this saying is commonly reported among the Jews until this day. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them.",
       "tokens": [
         {
-          "t": "¶ Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them."
+          "t": "¶ Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And when they saw him, they worshipped him: but some doubted.",
       "tokens": [
         {
-          "t": "And when they saw him, they worshipped him: but some doubted."
+          "t": "And when they saw him, they worshipped him: but some doubted. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.",
       "tokens": [
         {
-          "t": "And Jesus came and spake unto them, saying,"
+          "t": "And Jesus came and spake unto them, saying, "
+        },
+        {
+          "t": "All power is given unto me in heaven and in earth."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "¶ Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:",
+      "tokens": [
+        {
+          "t": "¶ Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
+      "plain": "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
       "tokens": [
         {
-          "t": "Amen."
+          "t": "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, "
         },
         {
-          "t": "Amen."
+          "add": "even"
+        },
+        {
+          "t": " unto the end of the world."
+        },
+        {
+          "t": " Amen. "
         }
       ]
     }

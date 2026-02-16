@@ -7,399 +7,430 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.",
       "tokens": [
         {
-          "t": "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they"
+          "t": "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they "
         },
         {
           "add": "are"
         },
         {
-          "t": "in the land of Goshen."
+          "t": " in the land of Goshen. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And he took some of his brethren, even five men, and presented them unto Pharaoh.",
       "tokens": [
         {
-          "t": "And he took some of his brethren,"
+          "t": "And he took some of his brethren, "
         },
         {
           "add": "even"
         },
         {
-          "t": "five men, and presented them unto Pharaoh."
+          "t": " five men, and presented them unto Pharaoh. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and also our fathers.",
       "tokens": [
         {
-          "t": "And Pharaoh said unto his brethren, What"
+          "t": "And Pharaoh said unto his brethren, What "
         },
         {
           "add": "is"
         },
         {
-          "t": "your occupation? And they said unto Pharaoh, Thy servants"
+          "t": " your occupation? And they said unto Pharaoh, Thy servants "
         },
         {
           "add": "are"
         },
         {
-          "t": "shepherds, both we,"
+          "t": " shepherds, both we, "
         },
         {
           "add": "and"
         },
         {
-          "t": "also our fathers."
+          "t": " also our fathers. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.",
       "tokens": [
         {
-          "t": "They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine"
+          "t": "They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine "
         },
         {
           "add": "is"
         },
         {
-          "t": "sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen."
+          "t": " sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:",
       "tokens": [
         {
-          "t": "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:"
+          "t": "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "The land of Egypt is before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest any men of activity among them, then make them rulers over my cattle.",
       "tokens": [
         {
-          "t": "The land of Egypt"
+          "t": "The land of Egypt "
         },
         {
           "add": "is"
         },
         {
-          "t": "before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest"
+          "t": " before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest "
         },
         {
           "add": "any"
         },
         {
-          "t": "men of activity among them, then make them rulers over my cattle."
+          "t": " men of activity among them, then make them rulers over my cattle. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.",
       "tokens": [
         {
-          "t": "And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh."
+          "t": "And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Pharaoh said unto Jacob, How old art thou?",
       "tokens": [
         {
-          "t": "And Pharaoh said unto Jacob, How old"
+          "t": "And Pharaoh said unto Jacob, How old "
         },
         {
           "add": "art"
         },
         {
-          "t": "thou?"
+          "t": " thou? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.",
       "tokens": [
         {
-          "t": "And Jacob said unto Pharaoh, The days of the years of my pilgrimage"
+          "t": "And Jacob said unto Pharaoh, The days of the years of my pilgrimage "
         },
         {
           "add": "are"
         },
         {
-          "t": "an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage."
+          "t": " an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Jacob blessed Pharaoh, and went out from before Pharaoh.",
       "tokens": [
         {
-          "t": "And Jacob blessed Pharaoh, and went out from before Pharaoh."
+          "t": "And Jacob blessed Pharaoh, and went out from before Pharaoh. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.",
       "tokens": [
         {
-          "t": "¶ And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded."
+          "t": "¶ And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to their families.",
       "tokens": [
         {
-          "t": "And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to"
+          "t": "And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to "
         },
         {
           "add": "their"
         },
         {
-          "t": "families."
+          "t": " families. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine.",
       "tokens": [
         {
-          "t": "¶ And"
+          "t": "¶ And "
         },
         {
           "add": "there was"
         },
         {
-          "t": "no bread in all the land; for the famine"
+          "t": " no bread in all the land; for the famine "
         },
         {
           "add": "was"
         },
         {
-          "t": "very sore, so that the land of Egypt and"
+          "t": " very sore, so that the land of Egypt and "
         },
         {
           "add": "all"
         },
         {
-          "t": "the land of Canaan fainted by reason of the famine."
+          "t": " the land of Canaan fainted by reason of the famine. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh’s house.",
       "tokens": [
         {
-          "t": "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh’s house."
+          "t": "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh’s house. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.",
       "tokens": [
         {
-          "t": "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth."
+          "t": "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.",
       "tokens": [
         {
-          "t": "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail."
+          "t": "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And they brought their cattle unto Joseph: and Joseph gave them bread in exchange for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year.",
       "tokens": [
         {
-          "t": "And they brought their cattle unto Joseph: and Joseph gave them bread"
+          "t": "And they brought their cattle unto Joseph: and Joseph gave them bread "
         },
         {
           "add": "in exchange"
         },
         {
-          "t": "for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year."
+          "t": " for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "When that year was ended, they came unto him the second year, and said unto him, We will not hide it from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:",
       "tokens": [
         {
-          "t": "When that year was ended, they came unto him the second year, and said unto him, We will not hide"
+          "t": "When that year was ended, they came unto him the second year, and said unto him, We will not hide "
         },
         {
           "add": "it"
         },
         {
-          "t": "from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:"
+          "t": " from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate.",
       "tokens": [
         {
-          "t": "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give"
+          "t": "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give "
         },
         {
           "add": "us"
         },
         {
-          "t": "seed, that we may live, and not die, that the land be not desolate."
+          "t": " seed, that we may live, and not die, that the land be not desolate. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s.",
       "tokens": [
         {
-          "t": "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s."
+          "t": "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And as for the people, he removed them to cities from one end of the borders of Egypt even to the other end thereof.",
       "tokens": [
         {
-          "t": "And as for the people, he removed them to cities from"
+          "t": "And as for the people, he removed them to cities from "
         },
         {
           "add": "one"
         },
         {
-          "t": "end of the borders of Egypt even to the"
+          "t": " end of the borders of Egypt even to the "
         },
         {
           "add": "other"
         },
         {
-          "t": "end thereof."
+          "t": " end thereof. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Only the land of the priests bought he not; for the priests had a portion assigned them of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.",
       "tokens": [
         {
-          "t": "Only the land of the priests bought he not; for the priests had a portion"
+          "t": "Only the land of the priests bought he not; for the priests had a portion "
         },
         {
           "add": "assigned them"
         },
         {
-          "t": "of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands."
+          "t": " of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and ye shall sow the land.",
       "tokens": [
         {
-          "t": "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo,"
+          "t": "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, "
         },
         {
           "add": "here is"
         },
         {
-          "t": "seed for you, and ye shall sow the land."
+          "t": " seed for you, and ye shall sow the land. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.",
       "tokens": [
         {
-          "t": "And it shall come to pass in the increase, that ye shall give the fifth"
+          "t": "And it shall come to pass in the increase, that ye shall give the fifth "
         },
         {
           "add": "part"
         },
         {
-          "t": "unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones."
+          "t": " unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants.",
       "tokens": [
         {
-          "t": "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants."
+          "t": "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And Joseph made it a law over the land of Egypt unto this day, that Pharaoh should have the fifth part; except the land of the priests only, which became not Pharaoh’s.",
       "tokens": [
         {
-          "t": "And Joseph made it a law over the land of Egypt unto this day,"
+          "t": "And Joseph made it a law over the land of Egypt unto this day, "
         },
         {
           "add": "that"
         },
         {
-          "t": "Pharaoh should have the fifth"
+          "t": " Pharaoh should have the fifth "
         },
         {
           "add": "part;"
         },
         {
-          "t": "except the land of the priests only,"
+          "t": " except the land of the priests only, "
         },
         {
           "add": "which"
         },
         {
-          "t": "became not Pharaoh’s."
+          "t": " became not Pharaoh’s. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.",
       "tokens": [
         {
-          "t": "¶ And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly."
+          "t": "¶ And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.",
       "tokens": [
         {
-          "t": "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years."
+          "t": "And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:",
       "tokens": [
         {
-          "t": "And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:"
+          "t": "And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt: "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.",
       "tokens": [
         {
-          "t": "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said."
+          "t": "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head.",
       "tokens": [
         {
-          "t": "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head."
+          "t": "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head. "
         }
       ]
     }

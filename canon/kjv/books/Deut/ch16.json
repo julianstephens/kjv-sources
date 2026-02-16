@@ -7,387 +7,409 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Observe the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.",
       "tokens": [
         {
-          "t": "Observe the month of Abib, and keep the passover unto the"
+          "t": "Observe the month of Abib, and keep the passover unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God: for in the month of Abib the"
+          "t": " thy God: for in the month of Abib the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God brought thee forth out of Egypt by night."
+          "t": " thy God brought thee forth out of Egypt by night. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thou shalt therefore sacrifice the passover unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to place his name there.",
       "tokens": [
         {
-          "t": "Thou shalt therefore sacrifice the passover unto the"
+          "t": "Thou shalt therefore sacrifice the passover unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, of the flock and the herd, in the place which the"
+          "t": " thy God, of the flock and the herd, in the place which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall choose to place his name there."
+          "t": " shall choose to place his name there. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, even the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.",
       "tokens": [
         {
-          "t": "Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith,"
+          "t": "Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, "
         },
         {
           "add": "even"
         },
         {
-          "t": "the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life."
+          "t": " the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there any thing of the flesh, which thou sacrificedst the first day at even, remain all night until the morning.",
       "tokens": [
         {
-          "t": "And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there"
+          "t": "And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there "
         },
         {
           "add": "any thing"
         },
         {
-          "t": "of the flesh, which thou sacrificedst the first day at even, remain all night until the morning."
+          "t": " of the flesh, which thou sacrificedst the first day at even, remain all night until the morning. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Thou mayest not sacrifice the passover within any of thy gates, which the LORD thy God giveth thee:",
       "tokens": [
         {
-          "t": "Thou mayest not sacrifice the passover within any of thy gates, which the"
+          "t": "Thou mayest not sacrifice the passover within any of thy gates, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee:"
+          "t": " thy God giveth thee: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But at the place which the LORD thy God shall choose to place his name in, there thou shalt sacrifice the passover at even, at the going down of the sun, at the season that thou camest forth out of Egypt.",
       "tokens": [
         {
-          "t": "But at the place which the"
+          "t": "But at the place which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall choose to place his name in, there thou shalt sacrifice the passover at even, at the going down of the sun, at the season that thou camest forth out of Egypt."
+          "t": " thy God shall choose to place his name in, there thou shalt sacrifice the passover at even, at the going down of the sun, at the season that thou camest forth out of Egypt. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And thou shalt roast and eat it in the place which the LORD thy God shall choose: and thou shalt turn in the morning, and go unto thy tents.",
       "tokens": [
         {
-          "t": "And thou shalt roast and eat"
+          "t": "And thou shalt roast and eat "
         },
         {
           "add": "it"
         },
         {
-          "t": "in the place which the"
+          "t": " in the place which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall choose: and thou shalt turn in the morning, and go unto thy tents."
+          "t": " thy God shall choose: and thou shalt turn in the morning, and go unto thy tents. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Six days thou shalt eat unleavened bread: and on the seventh day shall be a solemn assembly to the LORD thy God: thou shalt do no work therein.",
       "tokens": [
         {
-          "t": "Six days thou shalt eat unleavened bread: and on the seventh day"
+          "t": "Six days thou shalt eat unleavened bread: and on the seventh day "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a solemn assembly to the"
+          "t": " a solemn assembly to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God: thou shalt do no work"
+          "t": " thy God: thou shalt do no work "
         },
         {
           "add": "therein"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ Seven weeks shalt thou number unto thee: begin to number the seven weeks from such time as thou beginnest to put the sickle to the corn.",
       "tokens": [
         {
-          "t": "¶ Seven weeks shalt thou number unto thee: begin to number the seven weeks from"
+          "t": "¶ Seven weeks shalt thou number unto thee: begin to number the seven weeks from "
         },
         {
           "add": "such time as"
         },
         {
-          "t": "thou beginnest"
+          "t": " thou beginnest "
         },
         {
           "add": "to put"
         },
         {
-          "t": "the sickle to the corn."
+          "t": " the sickle to the corn. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And thou shalt keep the feast of weeks unto the LORD thy God with a tribute of a freewill offering of thine hand, which thou shalt give unto the Lord thy God, according as the LORD thy God hath blessed thee:",
       "tokens": [
         {
-          "t": "And thou shalt keep the feast of weeks unto the"
+          "t": "And thou shalt keep the feast of weeks unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God with a tribute of a freewill offering of thine hand, which thou shalt give"
+          "t": " thy God with a tribute of a freewill offering of thine hand, which thou shalt give "
         },
         {
           "add": "unto the Lord thy God"
         },
         {
-          "t": ", according as the"
+          "t": ", according as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath blessed thee:"
+          "t": " thy God hath blessed thee: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And thou shalt rejoice before the LORD thy God, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates, and the stranger, and the fatherless, and the widow, that are among you, in the place which the LORD thy God hath chosen to place his name there.",
       "tokens": [
         {
-          "t": "And thou shalt rejoice before the"
+          "t": "And thou shalt rejoice before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that"
+          "t": " thy God, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that "
         },
         {
           "add": "is"
         },
         {
-          "t": "within thy gates, and the stranger, and the fatherless, and the widow, that"
+          "t": " within thy gates, and the stranger, and the fatherless, and the widow, that "
         },
         {
           "add": "are"
         },
         {
-          "t": "among you, in the place which the"
+          "t": " among you, in the place which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath chosen to place his name there."
+          "t": " thy God hath chosen to place his name there. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And thou shalt remember that thou wast a bondman in Egypt: and thou shalt observe and do these statutes.",
       "tokens": [
         {
-          "t": "And thou shalt remember that thou wast a bondman in Egypt: and thou shalt observe and do these statutes."
+          "t": "And thou shalt remember that thou wast a bondman in Egypt: and thou shalt observe and do these statutes. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine:",
       "tokens": [
         {
-          "t": "¶ Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine:"
+          "t": "¶ Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite, the stranger, and the fatherless, and the widow, that are within thy gates.",
       "tokens": [
         {
-          "t": "And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite, the stranger, and the fatherless, and the widow, that"
+          "t": "And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite, the stranger, and the fatherless, and the widow, that "
         },
         {
           "add": "are"
         },
         {
-          "t": "within thy gates."
+          "t": " within thy gates. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Seven days shalt thou keep a solemn feast unto the LORD thy God in the place which the LORD shall choose: because the LORD thy God shall bless thee in all thine increase, and in all the works of thine hands, therefore thou shalt surely rejoice.",
       "tokens": [
         {
-          "t": "Seven days shalt thou keep a solemn feast unto the"
+          "t": "Seven days shalt thou keep a solemn feast unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God in the place which the"
+          "t": " thy God in the place which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall choose: because the"
+          "t": " shall choose: because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall bless thee in all thine increase, and in all the works of thine hands, therefore thou shalt surely rejoice."
+          "t": " thy God shall bless thee in all thine increase, and in all the works of thine hands, therefore thou shalt surely rejoice. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Three times in a year shall all thy males appear before the LORD thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the LORD empty:",
       "tokens": [
         {
-          "t": "¶ Three times in a year shall all thy males appear before the"
+          "t": "¶ Three times in a year shall all thy males appear before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the"
+          "t": " thy God in the place which he shall choose; in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles: and they shall not appear before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "empty:"
+          "t": " empty: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Every man shall give as he is able, according to the blessing of the LORD thy God which he hath given thee.",
       "tokens": [
         {
-          "t": "Every man"
+          "t": "Every man "
         },
         {
           "add": "shall give"
         },
         {
-          "t": "as he is able, according to the blessing of the"
+          "t": " as he is able, according to the blessing of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God which he hath given thee."
+          "t": " thy God which he hath given thee. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "¶ Judges and officers shalt thou make thee in all thy gates, which the LORD thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment.",
       "tokens": [
         {
-          "t": "¶ Judges and officers shalt thou make thee in all thy gates, which the"
+          "t": "¶ Judges and officers shalt thou make thee in all thy gates, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment."
+          "t": " thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift: for a gift doth blind the eyes of the wise, and pervert the words of the righteous.",
       "tokens": [
         {
-          "t": "Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift: for a gift doth blind the eyes of the wise, and pervert the words of the righteous."
+          "t": "Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift: for a gift doth blind the eyes of the wise, and pervert the words of the righteous. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the LORD thy God giveth thee.",
       "tokens": [
         {
-          "t": "That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the"
+          "t": "That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee."
+          "t": " thy God giveth thee. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ Thou shalt not plant thee a grove of any trees near unto the altar of the LORD thy God, which thou shalt make thee.",
       "tokens": [
         {
-          "t": "¶ Thou shalt not plant thee a grove of any trees near unto the altar of the"
+          "t": "¶ Thou shalt not plant thee a grove of any trees near unto the altar of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, which thou shalt make thee."
+          "t": " thy God, which thou shalt make thee. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Neither shalt thou set thee up any image; which the LORD thy God hateth.",
       "tokens": [
         {
-          "t": "Neither shalt thou set thee up"
+          "t": "Neither shalt thou set thee up "
         },
         {
           "add": "any"
         },
         {
-          "t": "image; which the"
+          "t": " image; which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hateth."
+          "t": " thy God hateth. "
         }
       ]
     }

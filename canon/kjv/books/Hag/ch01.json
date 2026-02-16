@@ -7,268 +7,283 @@
   "verses": [
     {
       "v": 1,
+      "plain": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,",
       "tokens": [
         {
-          "t": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the"
+          "t": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,"
+          "t": " by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD’s house should be built.",
       "tokens": [
         {
-          "t": "Thus speaketh the"
+          "t": "Thus speaketh the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, saying, This people say, The time is not come, the time that the"
+          "t": " of hosts, saying, This people say, The time is not come, the time that the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "house should be built."
+          "t": " house should be built. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Then came the word of the LORD by Haggai the prophet, saying,",
       "tokens": [
         {
-          "t": "Then came the word of the"
+          "t": "Then came the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "by Haggai the prophet, saying,"
+          "t": " by Haggai the prophet, saying, "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?",
       "tokens": [
         {
           "add": "Is it"
         },
         {
-          "t": "time for you, O ye, to dwell in your cieled houses, and this house"
+          "t": " time for you, O ye, to dwell in your cieled houses, and this house "
         },
         {
           "add": "lie"
         },
         {
-          "t": "waste?"
+          "t": " waste? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Now therefore thus saith the LORD of hosts; Consider your ways.",
       "tokens": [
         {
-          "t": "Now therefore thus saith the"
+          "t": "Now therefore thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts; Consider your ways."
+          "t": " of hosts; Consider your ways. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.",
       "tokens": [
         {
-          "t": "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages"
+          "t": "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages "
         },
         {
           "add": "to put it"
         },
         {
-          "t": "into a bag with holes."
+          "t": " into a bag with holes. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ Thus saith the LORD of hosts; Consider your ways.",
       "tokens": [
         {
-          "t": "¶ Thus saith the"
+          "t": "¶ Thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts; Consider your ways."
+          "t": " of hosts; Consider your ways. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the LORD.",
       "tokens": [
         {
-          "t": "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the"
+          "t": "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the LORD of hosts. Because of mine house that is waste, and ye run every man unto his own house.",
       "tokens": [
         {
-          "t": "Ye looked for much, and, lo,"
+          "t": "Ye looked for much, and, lo, "
         },
         {
           "add": "it came"
         },
         {
-          "t": "to little; and when ye brought"
+          "t": " to little; and when ye brought "
         },
         {
           "add": "it"
         },
         {
-          "t": "home, I did blow upon it. Why? saith the"
+          "t": " home, I did blow upon it. Why? saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts. Because of mine house that"
+          "t": " of hosts. Because of mine house that "
         },
         {
           "add": "is"
         },
         {
-          "t": "waste, and ye run every man unto his own house."
+          "t": " waste, and ye run every man unto his own house. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit.",
       "tokens": [
         {
-          "t": "Therefore the heaven over you is stayed from dew, and the earth is stayed"
+          "t": "Therefore the heaven over you is stayed from dew, and the earth is stayed "
         },
         {
           "add": "from"
         },
         {
-          "t": "her fruit."
+          "t": " her fruit. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.",
       "tokens": [
         {
-          "t": "And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon"
+          "t": "And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon "
         },
         {
           "add": "that"
         },
         {
-          "t": "which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands."
+          "t": " which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him, and the people did fear before the LORD.",
       "tokens": [
         {
-          "t": "¶ Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the"
+          "t": "¶ Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "their God, and the words of Haggai the prophet, as the"
+          "t": " their God, and the words of Haggai the prophet, as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "their God had sent him, and the people did fear before the"
+          "t": " their God had sent him, and the people did fear before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Then spake Haggai the LORD’s messenger in the LORD’s message unto the people, saying, I am with you, saith the LORD.",
       "tokens": [
         {
-          "t": "Then spake Haggai the"
+          "t": "Then spake Haggai the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "messenger in the"
+          "t": " messenger in the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "message unto the people, saying, I"
+          "t": " message unto the people, saying, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "with you, saith the"
+          "t": " with you, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the LORD of hosts, their God,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the"
+          "t": " stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, their God,"
+          "t": " of hosts, their God, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "In the four and twentieth day of the sixth month, in the second year of Darius the king.",
       "tokens": [
         {
-          "t": "In the four and twentieth day of the sixth month, in the second year of Darius the king."
+          "t": "In the four and twentieth day of the sixth month, in the second year of Darius the king. "
         }
       ]
     }

@@ -7,157 +7,166 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because they are many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!",
       "tokens": [
         {
-          "t": "Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because"
+          "t": "Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because "
         },
         {
           "add": "they are"
         },
         {
-          "t": "many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the"
+          "t": " many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "!"
+          "t": "! "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Yet he also is wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity.",
       "tokens": [
         {
-          "t": "Yet he also"
+          "t": "Yet he also "
         },
         {
           "add": "is"
         },
         {
-          "t": "wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity."
+          "t": " wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Now the Egyptians are men, and not God; and their horses flesh, and not spirit. When the LORD shall stretch out his hand, both he that helpeth shall fall, and he that is holpen shall fall down, and they all shall fail together.",
       "tokens": [
         {
-          "t": "Now the Egyptians"
+          "t": "Now the Egyptians "
         },
         {
           "add": "are"
         },
         {
-          "t": "men, and not God; and their horses flesh, and not spirit. When the"
+          "t": " men, and not God; and their horses flesh, and not spirit. When the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall stretch out his hand, both he that helpeth shall fall, and he that is holpen shall fall down, and they all shall fail together."
+          "t": " shall stretch out his hand, both he that helpeth shall fall, and he that is holpen shall fall down, and they all shall fail together. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For thus hath the LORD spoken unto me, Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him, he will not be afraid of their voice, nor abase himself for the noise of them: so shall the LORD of hosts come down to fight for mount Zion, and for the hill thereof.",
       "tokens": [
         {
-          "t": "For thus hath the"
+          "t": "For thus hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spoken unto me, Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him,"
+          "t": " spoken unto me, Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him, "
         },
         {
           "add": "he"
         },
         {
-          "t": "will not be afraid of their voice, nor abase himself for the noise of them: so shall the"
+          "t": " will not be afraid of their voice, nor abase himself for the noise of them: so shall the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts come down to fight for mount Zion, and for the hill thereof."
+          "t": " of hosts come down to fight for mount Zion, and for the hill thereof. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "As birds flying, so will the LORD of hosts defend Jerusalem; defending also he will deliver it; and passing over he will preserve it.",
       "tokens": [
         {
-          "t": "As birds flying, so will the"
+          "t": "As birds flying, so will the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts defend Jerusalem; defending also he will deliver"
+          "t": " of hosts defend Jerusalem; defending also he will deliver "
         },
         {
           "add": "it; and"
         },
         {
-          "t": "passing over he will preserve it."
+          "t": " passing over he will preserve it. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ Turn ye unto him from whom the children of Israel have deeply revolted.",
       "tokens": [
         {
-          "t": "¶ Turn ye unto"
+          "t": "¶ Turn ye unto "
         },
         {
           "add": "him from"
         },
         {
-          "t": "whom the children of Israel have deeply revolted."
+          "t": " whom the children of Israel have deeply revolted. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "For in that day every man shall cast away his idols of silver, and his idols of gold, which your own hands have made unto you for a sin.",
       "tokens": [
         {
-          "t": "For in that day every man shall cast away his idols of silver, and his idols of gold, which your own hands have made unto you"
+          "t": "For in that day every man shall cast away his idols of silver, and his idols of gold, which your own hands have made unto you "
         },
         {
           "add": "for"
         },
         {
-          "t": "a sin."
+          "t": " a sin. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited.",
       "tokens": [
         {
-          "t": "¶ Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited."
+          "t": "¶ Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the LORD, whose fire is in Zion, and his furnace in Jerusalem.",
       "tokens": [
         {
-          "t": "And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the"
+          "t": "And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", whose fire"
+          "t": ", whose fire "
         },
         {
           "add": "is"
         },
         {
-          "t": "in Zion, and his furnace in Jerusalem."
+          "t": " in Zion, and his furnace in Jerusalem. "
         }
       ]
     }

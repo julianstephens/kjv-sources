@@ -7,234 +7,250 @@
   "verses": [
     {
       "v": 1,
+      "plain": "My breath is corrupt, my days are extinct, the graves are ready for me.",
       "tokens": [
         {
-          "t": "My breath is corrupt, my days are extinct, the graves"
+          "t": "My breath is corrupt, my days are extinct, the graves "
         },
         {
           "add": "are ready"
         },
         {
-          "t": "for me."
+          "t": " for me. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Are there not mockers with me? and doth not mine eye continue in their provocation?",
       "tokens": [
         {
           "add": "Are there"
         },
         {
-          "t": "not mockers with me? and doth not mine eye continue in their provocation?"
+          "t": " not mockers with me? and doth not mine eye continue in their provocation? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Lay down now, put me in a surety with thee; who is he that will strike hands with me?",
       "tokens": [
         {
-          "t": "Lay down now, put me in a surety with thee; who"
+          "t": "Lay down now, put me in a surety with thee; who "
         },
         {
           "add": "is"
         },
         {
-          "t": "he"
+          "t": " he "
         },
         {
           "add": "that"
         },
         {
-          "t": "will strike hands with me?"
+          "t": " will strike hands with me? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For thou hast hid their heart from understanding: therefore shalt thou not exalt them.",
       "tokens": [
         {
-          "t": "For thou hast hid their heart from understanding: therefore shalt thou not exalt"
+          "t": "For thou hast hid their heart from understanding: therefore shalt thou not exalt "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "He that speaketh flattery to his friends, even the eyes of his children shall fail.",
       "tokens": [
         {
-          "t": "He that speaketh flattery to"
+          "t": "He that speaketh flattery to "
         },
         {
           "add": "his"
         },
         {
-          "t": "friends, even the eyes of his children shall fail."
+          "t": " friends, even the eyes of his children shall fail. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "He hath made me also a byword of the people; and aforetime I was as a tabret.",
       "tokens": [
         {
-          "t": "He hath made me also a byword of the people; and aforetime I was as a tabret."
+          "t": "He hath made me also a byword of the people; and aforetime I was as a tabret. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Mine eye also is dim by reason of sorrow, and all my members are as a shadow.",
       "tokens": [
         {
-          "t": "Mine eye also is dim by reason of sorrow, and all my members"
+          "t": "Mine eye also is dim by reason of sorrow, and all my members "
         },
         {
           "add": "are"
         },
         {
-          "t": "as a shadow."
+          "t": " as a shadow. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite.",
       "tokens": [
         {
-          "t": "Upright"
+          "t": "Upright "
         },
         {
           "add": "men"
         },
         {
-          "t": "shall be astonied at this, and the innocent shall stir up himself against the hypocrite."
+          "t": " shall be astonied at this, and the innocent shall stir up himself against the hypocrite. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.",
       "tokens": [
         {
-          "t": "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger."
+          "t": "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "But as for you all, do ye return, and come now: for I cannot find one wise man among you.",
       "tokens": [
         {
-          "t": "But as for you all, do ye return, and come now: for I cannot find"
+          "t": "But as for you all, do ye return, and come now: for I cannot find "
         },
         {
           "add": "one"
         },
         {
-          "t": "wise"
+          "t": " wise "
         },
         {
           "add": "man"
         },
         {
-          "t": "among you."
+          "t": " among you. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "My days are past, my purposes are broken off, even the thoughts of my heart.",
       "tokens": [
         {
-          "t": "My days are past, my purposes are broken off,"
+          "t": "My days are past, my purposes are broken off, "
         },
         {
           "add": "even"
         },
         {
-          "t": "the thoughts of my heart."
+          "t": " the thoughts of my heart. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "They change the night into day: the light is short because of darkness.",
       "tokens": [
         {
-          "t": "They change the night into day: the light"
+          "t": "They change the night into day: the light "
         },
         {
           "add": "is"
         },
         {
-          "t": "short because of darkness."
+          "t": " short because of darkness. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "If I wait, the grave is mine house: I have made my bed in the darkness.",
       "tokens": [
         {
-          "t": "If I wait, the grave"
+          "t": "If I wait, the grave "
         },
         {
           "add": "is"
         },
         {
-          "t": "mine house: I have made my bed in the darkness."
+          "t": " mine house: I have made my bed in the darkness. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister.",
       "tokens": [
         {
-          "t": "I have said to corruption, Thou"
+          "t": "I have said to corruption, Thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "my father: to the worm,"
+          "t": " my father: to the worm, "
         },
         {
           "add": "Thou art"
         },
         {
-          "t": "my mother, and my sister."
+          "t": " my mother, and my sister. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And where is now my hope? as for my hope, who shall see it?",
       "tokens": [
         {
-          "t": "And where"
+          "t": "And where "
         },
         {
           "add": "is"
         },
         {
-          "t": "now my hope? as for my hope, who shall see it?"
+          "t": " now my hope? as for my hope, who shall see it? "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "They shall go down to the bars of the pit, when our rest together is in the dust.",
       "tokens": [
         {
-          "t": "They shall go down to the bars of the pit, when"
+          "t": "They shall go down to the bars of the pit, when "
         },
         {
           "add": "our"
         },
         {
-          "t": "rest together"
+          "t": " rest together "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the dust."
+          "t": " in the dust. "
         }
       ]
     }

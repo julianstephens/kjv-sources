@@ -7,343 +7,367 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?",
       "tokens": [
         {
-          "t": "Now the serpent was more subtil than any beast of the field which the"
+          "t": "Now the serpent was more subtil than any beast of the field which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?"
+          "t": " God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:",
       "tokens": [
         {
-          "t": "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:"
+          "t": "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.",
       "tokens": [
         {
-          "t": "But of the fruit of the tree which"
+          "t": "But of the fruit of the tree which "
         },
         {
           "add": "is"
         },
         {
-          "t": "in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die."
+          "t": " in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the serpent said unto the woman, Ye shall not surely die:",
       "tokens": [
         {
-          "t": "And the serpent said unto the woman, Ye shall not surely die:"
+          "t": "And the serpent said unto the woman, Ye shall not surely die: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.",
       "tokens": [
         {
-          "t": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
+          "t": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.",
       "tokens": [
         {
-          "t": "And when the woman saw that the tree"
+          "t": "And when the woman saw that the tree "
         },
         {
           "add": "was"
         },
         {
-          "t": "good for food, and that it"
+          "t": " good for food, and that it "
         },
         {
           "add": "was"
         },
         {
-          "t": "pleasant to the eyes, and a tree to be desired to make"
+          "t": " pleasant to the eyes, and a tree to be desired to make "
         },
         {
           "add": "one"
         },
         {
-          "t": "wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat."
+          "t": " wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.",
       "tokens": [
         {
-          "t": "And the eyes of them both were opened, and they knew that they"
+          "t": "And the eyes of them both were opened, and they knew that they "
         },
         {
           "add": "were"
         },
         {
-          "t": "naked; and they sewed fig leaves together, and made themselves aprons."
+          "t": " naked; and they sewed fig leaves together, and made themselves aprons. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.",
       "tokens": [
         {
-          "t": "And they heard the voice of the"
+          "t": "And they heard the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the"
+          "t": " God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God amongst the trees of the garden."
+          "t": " God amongst the trees of the garden. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the LORD God called unto Adam, and said unto him, Where art thou?",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God called unto Adam, and said unto him, Where"
+          "t": " God called unto Adam, and said unto him, Where "
         },
         {
           "add": "art"
         },
         {
-          "t": "thou?"
+          "t": " thou? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.",
       "tokens": [
         {
-          "t": "And he said, I heard thy voice in the garden, and I was afraid, because I"
+          "t": "And he said, I heard thy voice in the garden, and I was afraid, because I "
         },
         {
           "add": "was"
         },
         {
-          "t": "naked; and I hid myself."
+          "t": " naked; and I hid myself. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?",
       "tokens": [
         {
-          "t": "And he said, Who told thee that thou"
+          "t": "And he said, Who told thee that thou "
         },
         {
           "add": "wast"
         },
         {
-          "t": "naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?"
+          "t": " naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.",
       "tokens": [
         {
-          "t": "And the man said, The woman whom thou gavest"
+          "t": "And the man said, The woman whom thou gavest "
         },
         {
           "add": "to be"
         },
         {
-          "t": "with me, she gave me of the tree, and I did eat."
+          "t": " with me, she gave me of the tree, and I did eat. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God said unto the woman, What"
+          "t": " God said unto the woman, What "
         },
         {
           "add": "is"
         },
         {
-          "t": "this"
+          "t": " this "
         },
         {
           "add": "that"
         },
         {
-          "t": "thou hast done? And the woman said, The serpent beguiled me, and I did eat."
+          "t": " thou hast done? And the woman said, The serpent beguiled me, and I did eat. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God said unto the serpent, Because thou hast done this, thou"
+          "t": " God said unto the serpent, Because thou hast done this, thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:"
+          "t": " cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.",
       "tokens": [
         {
-          "t": "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel."
+          "t": "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.",
       "tokens": [
         {
-          "t": "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire"
+          "t": "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "to thy husband, and he shall rule over thee."
+          "t": " to thy husband, and he shall rule over thee. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life;",
       "tokens": [
         {
-          "t": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed"
+          "t": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed "
         },
         {
           "add": "is"
         },
         {
-          "t": "the ground for thy sake; in sorrow shalt thou eat"
+          "t": " the ground for thy sake; in sorrow shalt thou eat "
         },
         {
           "add": "of"
         },
         {
-          "t": "it all the days of thy life;"
+          "t": " it all the days of thy life; "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;",
       "tokens": [
         {
-          "t": "Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;"
+          "t": "Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field; "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.",
       "tokens": [
         {
-          "t": "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou"
+          "t": "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou "
         },
         {
           "add": "art"
         },
         {
-          "t": ", and unto dust shalt thou return."
+          "t": ", and unto dust shalt thou return. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Adam called his wife’s name Eve; because she was the mother of all living.",
       "tokens": [
         {
-          "t": "And Adam called his wife’s name Eve; because she was the mother of all living."
+          "t": "And Adam called his wife’s name Eve; because she was the mother of all living. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.",
       "tokens": [
         {
-          "t": "Unto Adam also and to his wife did the"
+          "t": "Unto Adam also and to his wife did the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God make coats of skins, and clothed them."
+          "t": " God make coats of skins, and clothed them. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:"
+          "t": " God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.",
       "tokens": [
         {
-          "t": "Therefore the"
+          "t": "Therefore the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God sent him forth from the garden of Eden, to till the ground from whence he was taken."
+          "t": " God sent him forth from the garden of Eden, to till the ground from whence he was taken. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.",
       "tokens": [
         {
-          "t": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
+          "t": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life. "
         }
       ]
     }

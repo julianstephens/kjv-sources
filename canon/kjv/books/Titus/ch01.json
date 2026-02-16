@@ -7,171 +7,187 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;",
       "tokens": [
         {
-          "t": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;"
+          "t": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "In hope of eternal life, which God, that cannot lie, promised before the world began;",
       "tokens": [
         {
-          "t": "In hope of eternal life, which God, that cannot lie, promised before the world began;"
+          "t": "In hope of eternal life, which God, that cannot lie, promised before the world began; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;",
       "tokens": [
         {
-          "t": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;"
+          "t": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.",
       "tokens": [
         {
-          "t": "To Titus,"
+          "t": "To Titus, "
         },
         {
           "add": "mine"
         },
         {
-          "t": "own son after the common faith: Grace, mercy,"
+          "t": " own son after the common faith: Grace, mercy, "
         },
         {
           "add": "and"
         },
         {
-          "t": "peace, from God the Father and the Lord Jesus Christ our Saviour."
+          "t": " peace, from God the Father and the Lord Jesus Christ our Saviour. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
       "tokens": [
         {
-          "t": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:"
+          "t": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.",
       "tokens": [
         {
-          "t": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly."
+          "t": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;",
       "tokens": [
         {
-          "t": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;"
+          "t": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;",
       "tokens": [
         {
-          "t": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;"
+          "t": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate; "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.",
       "tokens": [
         {
-          "t": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers."
+          "t": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:",
       "tokens": [
         {
-          "t": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:"
+          "t": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake.",
       "tokens": [
         {
-          "t": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake."
+          "t": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies.",
       "tokens": [
         {
-          "t": "One of themselves,"
+          "t": "One of themselves, "
         },
         {
           "add": "even"
         },
         {
-          "t": "a prophet of their own, said, The Cretians"
+          "t": " a prophet of their own, said, The Cretians "
         },
         {
           "add": "are"
         },
         {
-          "t": "alway liars, evil beasts, slow bellies."
+          "t": " alway liars, evil beasts, slow bellies. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
       "tokens": [
         {
-          "t": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;"
+          "t": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith; "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth.",
       "tokens": [
         {
-          "t": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth."
+          "t": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.",
       "tokens": [
         {
-          "t": "Unto the pure all things"
+          "t": "Unto the pure all things "
         },
         {
           "add": "are"
         },
         {
-          "t": "pure: but unto them that are defiled and unbelieving"
+          "t": " pure: but unto them that are defiled and unbelieving "
         },
         {
           "add": "is"
         },
         {
-          "t": "nothing pure; but even their mind and conscience is defiled."
+          "t": " nothing pure; but even their mind and conscience is defiled. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.",
       "tokens": [
         {
-          "t": "They profess that they know God; but in works they deny"
+          "t": "They profess that they know God; but in works they deny "
         },
         {
           "add": "him"
         },
         {
-          "t": ", being abominable, and disobedient, and unto every good work reprobate."
+          "t": ", being abominable, and disobedient, and unto every good work reprobate. "
         }
       ]
     }

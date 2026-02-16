@@ -7,251 +7,265 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And it came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah in the fourth day of the ninth month, even in Chisleu;",
       "tokens": [
         {
-          "t": "And it came to pass in the fourth year of king Darius,"
+          "t": "And it came to pass in the fourth year of king Darius, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the word of the"
+          "t": " the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto Zechariah in the fourth"
+          "t": " came unto Zechariah in the fourth "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the ninth month,"
+          "t": " of the ninth month, "
         },
         {
           "add": "even"
         },
         {
-          "t": "in Chisleu;"
+          "t": " in Chisleu; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "When they had sent unto the house of God Sherezer and Regem-melech, and their men, to pray before the LORD,",
       "tokens": [
         {
-          "t": "When they had sent unto the house of God Sherezer and Regem-melech, and their men, to pray before the"
+          "t": "When they had sent unto the house of God Sherezer and Regem-melech, and their men, to pray before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And to speak unto the priests which were in the house of the LORD of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?",
       "tokens": [
         {
           "add": "And"
         },
         {
-          "t": "to speak unto the priests which"
+          "t": " to speak unto the priests which "
         },
         {
           "add": "were"
         },
         {
-          "t": "in the house of the"
+          "t": " in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?"
+          "t": " of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ Then came the word of the LORD of hosts unto me, saying,",
       "tokens": [
         {
-          "t": "¶ Then came the word of the"
+          "t": "¶ Then came the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts unto me, saying,"
+          "t": " of hosts unto me, saying, "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me?",
       "tokens": [
         {
-          "t": "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh"
+          "t": "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh "
         },
         {
           "add": "month"
         },
         {
-          "t": ", even those seventy years, did ye at all fast unto me,"
+          "t": ", even those seventy years, did ye at all fast unto me, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to me?"
+          "t": " to me? "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And when ye did eat, and when ye did drink, did not ye eat for yourselves, and drink for yourselves?",
       "tokens": [
         {
-          "t": "And when ye did eat, and when ye did drink, did not ye eat"
+          "t": "And when ye did eat, and when ye did drink, did not ye eat "
         },
         {
           "add": "for yourselves"
         },
         {
-          "t": ", and drink"
+          "t": ", and drink "
         },
         {
           "add": "for yourselves"
         },
         {
-          "t": "?"
+          "t": "? "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Should ye not hear the words which the LORD hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when men inhabited the south and the plain?",
       "tokens": [
         {
           "add": "Should ye"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "hear"
         },
         {
-          "t": "the words which the"
+          "t": " the words which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when"
+          "t": " hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when "
         },
         {
           "add": "men"
         },
         {
-          "t": "inhabited the south and the plain?"
+          "t": " inhabited the south and the plain? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And the word of the LORD came unto Zechariah, saying,",
       "tokens": [
         {
-          "t": "¶ And the word of the"
+          "t": "¶ And the word of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came unto Zechariah, saying,"
+          "t": " came unto Zechariah, saying, "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Thus speaketh the LORD of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:",
       "tokens": [
         {
-          "t": "Thus speaketh the"
+          "t": "Thus speaketh the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:"
+          "t": " of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.",
       "tokens": [
         {
-          "t": "And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart."
+          "t": "And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear.",
       "tokens": [
         {
-          "t": "But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear."
+          "t": "But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Yea, they made their hearts as an adamant stone, lest they should hear the law, and the words which the LORD of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the LORD of hosts.",
       "tokens": [
         {
-          "t": "Yea, they made their hearts"
+          "t": "Yea, they made their hearts "
         },
         {
           "add": "as"
         },
         {
-          "t": "an adamant stone, lest they should hear the law, and the words which the"
+          "t": " an adamant stone, lest they should hear the law, and the words which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the"
+          "t": " of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts."
+          "t": " of hosts. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Therefore it is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear, saith the LORD of hosts:",
       "tokens": [
         {
-          "t": "Therefore it is come to pass,"
+          "t": "Therefore it is come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "as he cried, and they would not hear; so they cried, and I would not hear, saith the"
+          "t": " as he cried, and they would not hear; so they cried, and I would not hear, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts:"
+          "t": " of hosts: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.",
       "tokens": [
         {
-          "t": "But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate."
+          "t": "But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate. "
         }
       ]
     }

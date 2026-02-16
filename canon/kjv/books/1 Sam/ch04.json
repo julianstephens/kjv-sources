@@ -7,261 +7,283 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Eben-ezer: and the Philistines pitched in Aphek.",
       "tokens": [
         {
-          "t": "And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Eben-ezer: and the Philistines pitched in Aphek."
+          "t": "And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Eben-ezer: and the Philistines pitched in Aphek. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.",
       "tokens": [
         {
-          "t": "And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men."
+          "t": "And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ And when the people were come into the camp, the elders of Israel said, Wherefore hath the LORD smitten us to day before the Philistines? Let us fetch the ark of the covenant of the LORD out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies.",
       "tokens": [
         {
-          "t": "¶ And when the people were come into the camp, the elders of Israel said, Wherefore hath the"
+          "t": "¶ And when the people were come into the camp, the elders of Israel said, Wherefore hath the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "smitten us to day before the Philistines? Let us fetch the ark of the covenant of the"
+          "t": " smitten us to day before the Philistines? Let us fetch the ark of the covenant of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies."
+          "t": " out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the LORD of hosts, which dwelleth between the cherubims: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.",
       "tokens": [
         {
-          "t": "So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the"
+          "t": "So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts, which dwelleth"
+          "t": " of hosts, which dwelleth "
         },
         {
           "add": "between"
         },
         {
-          "t": "the cherubims: and the two sons of Eli, Hophni and Phinehas,"
+          "t": " the cherubims: and the two sons of Eli, Hophni and Phinehas, "
         },
         {
           "add": "were"
         },
         {
-          "t": "there with the ark of the covenant of God."
+          "t": " there with the ark of the covenant of God. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And when the ark of the covenant of the LORD came into the camp, all Israel shouted with a great shout, so that the earth rang again.",
       "tokens": [
         {
-          "t": "And when the ark of the covenant of the"
+          "t": "And when the ark of the covenant of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "came into the camp, all Israel shouted with a great shout, so that the earth rang again."
+          "t": " came into the camp, all Israel shouted with a great shout, so that the earth rang again. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the LORD was come into the camp.",
       "tokens": [
         {
-          "t": "And when the Philistines heard the noise of the shout, they said, What"
+          "t": "And when the Philistines heard the noise of the shout, they said, What "
         },
         {
           "add": "meaneth"
         },
         {
-          "t": "the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the"
+          "t": " the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "was come into the camp."
+          "t": " was come into the camp. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore.",
       "tokens": [
         {
-          "t": "And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore."
+          "t": "And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Woe unto us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness.",
       "tokens": [
         {
-          "t": "Woe unto us! who shall deliver us out of the hand of these mighty Gods? these"
+          "t": "Woe unto us! who shall deliver us out of the hand of these mighty Gods? these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the Gods that smote the Egyptians with all the plagues in the wilderness."
+          "t": " the Gods that smote the Egyptians with all the plagues in the wilderness. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.",
       "tokens": [
         {
-          "t": "Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight."
+          "t": "Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.",
       "tokens": [
         {
-          "t": "¶ And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen."
+          "t": "¶ And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain.",
       "tokens": [
         {
-          "t": "And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain."
+          "t": "And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head.",
       "tokens": [
         {
-          "t": "¶ And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head."
+          "t": "¶ And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told it, all the city cried out.",
       "tokens": [
         {
-          "t": "And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told"
+          "t": "And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told "
         },
         {
           "add": "it"
         },
         {
-          "t": ", all the city cried out."
+          "t": ", all the city cried out. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And when Eli heard the noise of the crying, he said, What meaneth the noise of this tumult? And the man came in hastily, and told Eli.",
       "tokens": [
         {
-          "t": "And when Eli heard the noise of the crying, he said, What"
+          "t": "And when Eli heard the noise of the crying, he said, What "
         },
         {
           "add": "meaneth"
         },
         {
-          "t": "the noise of this tumult? And the man came in hastily, and told Eli."
+          "t": " the noise of this tumult? And the man came in hastily, and told Eli. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Now Eli was ninety and eight years old; and his eyes were dim, that he could not see.",
       "tokens": [
         {
-          "t": "Now Eli was ninety and eight years old; and his eyes were dim, that he could not see."
+          "t": "Now Eli was ninety and eight years old; and his eyes were dim, that he could not see. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the man said unto Eli, I am he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son?",
       "tokens": [
         {
-          "t": "And the man said unto Eli, I"
+          "t": "And the man said unto Eli, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son?"
+          "t": " he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken.",
       "tokens": [
         {
-          "t": "And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken."
+          "t": "And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years.",
       "tokens": [
         {
-          "t": "And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years."
+          "t": "And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And his daughter in law, Phinehas’ wife, was with child, near to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her.",
       "tokens": [
         {
-          "t": "¶ And his daughter in law, Phinehas’ wife, was with child,"
+          "t": "¶ And his daughter in law, Phinehas’ wife, was with child, "
         },
         {
           "add": "near"
         },
         {
-          "t": "to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her."
+          "t": " to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And about the time of her death the women that stood by her said unto her, Fear not; for thou hast born a son. But she answered not, neither did she regard it.",
       "tokens": [
         {
-          "t": "And about the time of her death the women that stood by her said unto her, Fear not; for thou hast born a son. But she answered not, neither did she regard"
+          "t": "And about the time of her death the women that stood by her said unto her, Fear not; for thou hast born a son. But she answered not, neither did she regard "
         },
         {
           "add": "it"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And she named the child I-chabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband.",
       "tokens": [
         {
-          "t": "And she named the child I-chabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband."
+          "t": "And she named the child I-chabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And she said, The glory is departed from Israel: for the ark of God is taken.",
       "tokens": [
         {
-          "t": "And she said, The glory is departed from Israel: for the ark of God is taken."
+          "t": "And she said, The glory is departed from Israel: for the ark of God is taken. "
         }
       ]
     }

@@ -7,161 +7,172 @@
   "verses": [
     {
       "v": 1,
+      "plain": "After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.",
       "tokens": [
         {
-          "t": "After this I looked, and, behold, a door"
+          "t": "After this I looked, and, behold, a door "
         },
         {
           "add": "was"
         },
         {
-          "t": "opened in heaven: and the first voice which I heard"
+          "t": " opened in heaven: and the first voice which I heard "
         },
         {
           "add": "was"
         },
         {
-          "t": "as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter."
+          "t": " as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.",
       "tokens": [
         {
-          "t": "And immediately I was in the spirit: and, behold, a throne was set in heaven, and"
+          "t": "And immediately I was in the spirit: and, behold, a throne was set in heaven, and "
         },
         {
           "add": "one"
         },
         {
-          "t": "sat on the throne."
+          "t": " sat on the throne. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald.",
       "tokens": [
         {
-          "t": "And he that sat was to look upon like a jasper and a sardine stone: and"
+          "t": "And he that sat was to look upon like a jasper and a sardine stone: and "
         },
         {
           "add": "there was"
         },
         {
-          "t": "a rainbow round about the throne, in sight like unto an emerald."
+          "t": " a rainbow round about the throne, in sight like unto an emerald. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.",
       "tokens": [
         {
-          "t": "And round about the throne"
+          "t": "And round about the throne "
         },
         {
           "add": "were"
         },
         {
-          "t": "four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold."
+          "t": " four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God.",
       "tokens": [
         {
-          "t": "And out of the throne proceeded lightnings and thunderings and voices: and"
+          "t": "And out of the throne proceeded lightnings and thunderings and voices: and "
         },
         {
           "add": "there were"
         },
         {
-          "t": "seven lamps of fire burning before the throne, which are the seven Spirits of God."
+          "t": " seven lamps of fire burning before the throne, which are the seven Spirits of God. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.",
       "tokens": [
         {
-          "t": "And before the throne"
+          "t": "And before the throne "
         },
         {
           "add": "there was"
         },
         {
-          "t": "a sea of glass like unto crystal: and in the midst of the throne, and round about the throne,"
+          "t": " a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, "
         },
         {
           "add": "were"
         },
         {
-          "t": "four beasts full of eyes before and behind."
+          "t": " four beasts full of eyes before and behind. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.",
       "tokens": [
         {
-          "t": "And the first beast"
+          "t": "And the first beast "
         },
         {
           "add": "was"
         },
         {
-          "t": "like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast"
+          "t": " like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast "
         },
         {
           "add": "was"
         },
         {
-          "t": "like a flying eagle."
+          "t": " like a flying eagle. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.",
       "tokens": [
         {
-          "t": "And the four beasts had each of them six wings about"
+          "t": "And the four beasts had each of them six wings about "
         },
         {
           "add": "him"
         },
         {
-          "t": "; and"
+          "t": "; and "
         },
         {
           "add": "they were"
         },
         {
-          "t": "full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come."
+          "t": " full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,",
       "tokens": [
         {
-          "t": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,"
+          "t": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,",
       "tokens": [
         {
-          "t": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,"
+          "t": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
       "tokens": [
         {
-          "t": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created."
+          "t": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created. "
         }
       ]
     }

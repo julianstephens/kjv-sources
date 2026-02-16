@@ -7,265 +7,292 @@
   "verses": [
     {
       "v": 1,
+      "plain": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.",
       "tokens": [
         {
-          "t": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting."
+          "t": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "My brethren, count it all joy when ye fall into divers temptations;",
       "tokens": [
         {
-          "t": "My brethren, count it all joy when ye fall into divers temptations;"
+          "t": "My brethren, count it all joy when ye fall into divers temptations; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Knowing this, that the trying of your faith worketh patience.",
       "tokens": [
         {
-          "t": "Knowing"
+          "t": "Knowing "
         },
         {
           "add": "this"
         },
         {
-          "t": ", that the trying of your faith worketh patience."
+          "t": ", that the trying of your faith worketh patience. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.",
       "tokens": [
         {
-          "t": "But let patience have"
+          "t": "But let patience have "
         },
         {
           "add": "her"
         },
         {
-          "t": "perfect work, that ye may be perfect and entire, wanting nothing."
+          "t": " perfect work, that ye may be perfect and entire, wanting nothing. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
       "tokens": [
         {
-          "t": "If any of you lack wisdom, let him ask of God, that giveth to all"
+          "t": "If any of you lack wisdom, let him ask of God, that giveth to all "
         },
         {
           "add": "men"
         },
         {
-          "t": "liberally, and upbraideth not; and it shall be given him."
+          "t": " liberally, and upbraideth not; and it shall be given him. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
       "tokens": [
         {
-          "t": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed."
+          "t": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "For let not that man think that he shall receive any thing of the Lord.",
       "tokens": [
         {
-          "t": "For let not that man think that he shall receive any thing of the Lord."
+          "t": "For let not that man think that he shall receive any thing of the Lord. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "A double minded man is unstable in all his ways.",
       "tokens": [
         {
-          "t": "A double minded man"
+          "t": "A double minded man "
         },
         {
           "add": "is"
         },
         {
-          "t": "unstable in all his ways."
+          "t": " unstable in all his ways. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Let the brother of low degree rejoice in that he is exalted:",
       "tokens": [
         {
-          "t": "Let the brother of low degree rejoice in that he is exalted:"
+          "t": "Let the brother of low degree rejoice in that he is exalted: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "But the rich, in that he is made low: because as the flower of the grass he shall pass away.",
       "tokens": [
         {
-          "t": "But the rich, in that he is made low: because as the flower of the grass he shall pass away."
+          "t": "But the rich, in that he is made low: because as the flower of the grass he shall pass away. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.",
       "tokens": [
         {
-          "t": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways."
+          "t": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
       "tokens": [
         {
-          "t": "Blessed"
+          "t": "Blessed "
         },
         {
           "add": "is"
         },
         {
-          "t": "the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
+          "t": " the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:",
       "tokens": [
         {
-          "t": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:"
+          "t": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "But every man is tempted, when he is drawn away of his own lust, and enticed.",
       "tokens": [
         {
-          "t": "But every man is tempted, when he is drawn away of his own lust, and enticed."
+          "t": "But every man is tempted, when he is drawn away of his own lust, and enticed. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.",
       "tokens": [
         {
-          "t": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death."
+          "t": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Do not err, my beloved brethren.",
       "tokens": [
         {
-          "t": "Do not err, my beloved brethren."
+          "t": "Do not err, my beloved brethren. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
       "tokens": [
         {
-          "t": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning."
+          "t": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.",
       "tokens": [
         {
-          "t": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures."
+          "t": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
       "tokens": [
         {
-          "t": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:"
+          "t": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "For the wrath of man worketh not the righteousness of God.",
       "tokens": [
         {
-          "t": "For the wrath of man worketh not the righteousness of God."
+          "t": "For the wrath of man worketh not the righteousness of God. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.",
       "tokens": [
         {
-          "t": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls."
+          "t": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
       "tokens": [
         {
-          "t": "But be ye doers of the word, and not hearers only, deceiving your own selves."
+          "t": "But be ye doers of the word, and not hearers only, deceiving your own selves. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:",
       "tokens": [
         {
-          "t": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:"
+          "t": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.",
       "tokens": [
         {
-          "t": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was."
+          "t": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.",
       "tokens": [
         {
-          "t": "But whoso looketh into the perfect law of liberty, and continueth"
+          "t": "But whoso looketh into the perfect law of liberty, and continueth "
         },
         {
           "add": "therein"
         },
         {
-          "t": ", he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed."
+          "t": ", he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain.",
       "tokens": [
         {
-          "t": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion"
+          "t": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion "
         },
         {
           "add": "is"
         },
         {
-          "t": "vain."
+          "t": " vain. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.",
       "tokens": [
         {
-          "t": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction,"
+          "t": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, "
         },
         {
           "add": "and"
         },
         {
-          "t": "to keep himself unspotted from the world."
+          "t": " to keep himself unspotted from the world. "
         }
       ]
     }

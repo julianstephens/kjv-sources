@@ -7,107 +7,112 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.",
       "tokens": [
         {
-          "t": "Then said the"
+          "t": "Then said the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto me, Go yet, love a woman beloved of"
+          "t": " unto me, Go yet, love a woman beloved of "
         },
         {
           "add": "her"
         },
         {
-          "t": "friend, yet an adulteress, according to the love of the"
+          "t": " friend, yet an adulteress, according to the love of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "toward the children of Israel, who look to other gods, and love flagons of wine."
+          "t": " toward the children of Israel, who look to other gods, and love flagons of wine. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:",
       "tokens": [
         {
-          "t": "So I bought her to me for fifteen"
+          "t": "So I bought her to me for fifteen "
         },
         {
           "add": "pieces"
         },
         {
-          "t": "of silver, and"
+          "t": " of silver, and "
         },
         {
           "add": "for"
         },
         {
-          "t": "an homer of barley, and an half homer of barley:"
+          "t": " an homer of barley, and an half homer of barley: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee.",
       "tokens": [
         {
-          "t": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for"
+          "t": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for "
         },
         {
           "add": "another"
         },
         {
-          "t": "man: so"
+          "t": " man: so "
         },
         {
           "add": "will"
         },
         {
-          "t": "I also"
+          "t": " I also "
         },
         {
           "add": "be"
         },
         {
-          "t": "for thee."
+          "t": " for thee. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:",
       "tokens": [
         {
-          "t": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and"
+          "t": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and "
         },
         {
           "add": "without"
         },
         {
-          "t": "teraphim:"
+          "t": " teraphim: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.",
       "tokens": [
         {
-          "t": "Afterward shall the children of Israel return, and seek the"
+          "t": "Afterward shall the children of Israel return, and seek the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "their God, and David their king; and shall fear the"
+          "t": " their God, and David their king; and shall fear the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "and his goodness in the latter days."
+          "t": " and his goodness in the latter days. "
         }
       ]
     }

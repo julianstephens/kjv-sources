@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 43,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+      "tokens": [
+        {
+          "t": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+      "tokens": [
+        {
+          "t": "For thou "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy? "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+      "tokens": [
+        {
+          "t": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
+      "tokens": [
+        {
+          "t": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+      "tokens": [
+        {
+          "t": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, "
+        },
+        {
+          "add": "who is"
+        },
+        {
+          "t": " the health of my countenance, and my God. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "ungodly: or, unmerciful"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "the deceitful…: Heb. a man of deceit and iniquity"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "my exceeding…: Heb. the gladness of my joy"
+    }
+  ]
+}

@@ -7,73 +7,79 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then answered Bildad the Shuhite, and said,",
       "tokens": [
         {
-          "t": "Then answered Bildad the Shuhite, and said,"
+          "t": "Then answered Bildad the Shuhite, and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Dominion and fear are with him, he maketh peace in his high places.",
       "tokens": [
         {
-          "t": "Dominion and fear"
+          "t": "Dominion and fear "
         },
         {
           "add": "are"
         },
         {
-          "t": "with him, he maketh peace in his high places."
+          "t": " with him, he maketh peace in his high places. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Is there any number of his armies? and upon whom doth not his light arise?",
       "tokens": [
         {
-          "t": "Is there any number of his armies? and upon whom doth not his light arise?"
+          "t": "Is there any number of his armies? and upon whom doth not his light arise? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "How then can man be justified with God? or how can he be clean that is born of a woman?",
       "tokens": [
         {
-          "t": "How then can man be justified with God? or how can he be clean"
+          "t": "How then can man be justified with God? or how can he be clean "
         },
         {
           "add": "that is"
         },
         {
-          "t": "born of a woman?"
+          "t": " born of a woman? "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.",
       "tokens": [
         {
-          "t": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight."
+          "t": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "How much less man, that is a worm? and the son of man, which is a worm?",
       "tokens": [
         {
-          "t": "How much less man,"
+          "t": "How much less man, "
         },
         {
           "add": "that is"
         },
         {
-          "t": "a worm? and the son of man,"
+          "t": " a worm? and the son of man, "
         },
         {
           "add": "which is"
         },
         {
-          "t": "a worm?"
+          "t": " a worm? "
         }
       ]
     }

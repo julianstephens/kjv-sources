@@ -1,0 +1,202 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 26,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide.",
+      "tokens": [
+        {
+          "t": "Judge me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for I have walked in mine integrity: I have trusted also in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; "
+        },
+        {
+          "add": "therefore"
+        },
+        {
+          "t": " I shall not slide. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Examine me, O LORD, and prove me; try my reins and my heart.",
+      "tokens": [
+        {
+          "t": "Examine me, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and prove me; try my reins and my heart. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For thy lovingkindness is before mine eyes: and I have walked in thy truth.",
+      "tokens": [
+        {
+          "t": "For thy lovingkindness "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " before mine eyes: and I have walked in thy truth. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "I have not sat with vain persons, neither will I go in with dissemblers.",
+      "tokens": [
+        {
+          "t": "I have not sat with vain persons, neither will I go in with dissemblers. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "I have hated the congregation of evil doers; and will not sit with the wicked.",
+      "tokens": [
+        {
+          "t": "I have hated the congregation of evil doers; and will not sit with the wicked. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "I will wash mine hands in innocency: so will I compass thine altar, O LORD:",
+      "tokens": [
+        {
+          "t": "I will wash mine hands in innocency: so will I compass thine altar, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.",
+      "tokens": [
+        {
+          "t": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
+      "tokens": [
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", I have loved the habitation of thy house, and the place where thine honour dwelleth. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Gather not my soul with sinners, nor my life with bloody men:",
+      "tokens": [
+        {
+          "t": "Gather not my soul with sinners, nor my life with bloody men: "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "In whose hands is mischief, and their right hand is full of bribes.",
+      "tokens": [
+        {
+          "t": "In whose hands "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " mischief, and their right hand is full of bribes. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
+      "tokens": [
+        {
+          "t": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "My foot standeth in an even place: in the congregations will I bless the LORD.",
+      "tokens": [
+        {
+          "t": "My foot standeth in an even place: in the congregations will I bless the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 8
+      },
+      "text": "where…: Heb. of the tabernacle of thy honour"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 9
+      },
+      "text": "Gather…: or, Take not away"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 9
+      },
+      "text": "bloody…: Heb. men of blood"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 10
+      },
+      "text": "full…: Heb. filled with"
+    }
+  ]
+}

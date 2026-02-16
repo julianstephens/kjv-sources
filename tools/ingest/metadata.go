@@ -5,26 +5,28 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+
+	"github.com/julianstephens/kjv-sources/tools/util"
 )
 
 // MetadataLoader loads and manages metadata from JSON files
 type MetadataLoader struct {
-	BooksData   BooksData
-	AliasesData AliasesData
-	BooksByAbbr map[string]BookMetadata
-	BooksByOSIS map[string]BookMetadata
+	BooksData   util.BooksData
+	AliasesData util.AliasesData
+	BooksByAbbr map[string]util.BookMetadata
+	BooksByOSIS map[string]util.BookMetadata
 }
 
 // NewMetadataLoader loads metadata from the canonical index directory
 func NewMetadataLoader(indexDir string) (*MetadataLoader, error) {
 	ml := &MetadataLoader{
-		BooksByAbbr: make(map[string]BookMetadata),
-		BooksByOSIS: make(map[string]BookMetadata),
+		BooksByAbbr: make(map[string]util.BookMetadata),
+		BooksByOSIS: make(map[string]util.BookMetadata),
 	}
 
 	// Load books.json
 	booksPath := filepath.Join(indexDir, "books.json")
-	booksData, err := os.ReadFile(booksPath)
+	booksData, err := os.ReadFile(booksPath) // nolint: gosec
 	if err != nil {
 		return nil, fmt.Errorf("failed to read books.json: %w", err)
 	}
@@ -36,7 +38,7 @@ func NewMetadataLoader(indexDir string) (*MetadataLoader, error) {
 
 	// Load aliases.json
 	aliasesPath := filepath.Join(indexDir, "aliases.json")
-	aliasesData, err := os.ReadFile(aliasesPath)
+	aliasesData, err := os.ReadFile(aliasesPath) // nolint: gosec
 	if err != nil {
 		return nil, fmt.Errorf("failed to read aliases.json: %w", err)
 	}
@@ -56,19 +58,19 @@ func NewMetadataLoader(indexDir string) (*MetadataLoader, error) {
 }
 
 // GetBookByAbbr returns book metadata by UBS abbreviation
-func (ml *MetadataLoader) GetBookByAbbr(abbr string) (BookMetadata, bool) {
+func (ml *MetadataLoader) GetBookByAbbr(abbr string) (util.BookMetadata, bool) {
 	book, exists := ml.BooksByAbbr[abbr]
 	return book, exists
 }
 
 // GetBookByOSIS returns book metadata by OSIS code
-func (ml *MetadataLoader) GetBookByOSIS(osis string) (BookMetadata, bool) {
+func (ml *MetadataLoader) GetBookByOSIS(osis string) (util.BookMetadata, bool) {
 	book, exists := ml.BooksByOSIS[osis]
 	return book, exists
 }
 
 // GetChaptersForBook returns the chapter files for a book by OSIS
-func (ml *MetadataLoader) GetChaptersForBook(osis string) (AliasChapters, bool) {
+func (ml *MetadataLoader) GetChaptersForBook(osis string) (util.AliasChapters, bool) {
 	chapters, exists := ml.AliasesData[osis]
 	return chapters, exists
 }

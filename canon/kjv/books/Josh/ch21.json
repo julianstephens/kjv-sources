@@ -7,541 +7,586 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;",
       "tokens": [
         {
-          "t": "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;"
+          "t": "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And they spake unto them at Shiloh in the land of Canaan, saying, The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle.",
       "tokens": [
         {
-          "t": "And they spake unto them at Shiloh in the land of Canaan, saying, The"
+          "t": "And they spake unto them at Shiloh in the land of Canaan, saying, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle."
+          "t": " commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the LORD, these cities and their suburbs.",
       "tokens": [
         {
-          "t": "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the"
+          "t": "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", these cities and their suburbs."
+          "t": ", these cities and their suburbs. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.",
       "tokens": [
         {
-          "t": "And the lot came out for the families of the Kohathites: and the children of Aaron the priest,"
+          "t": "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, "
         },
         {
           "add": "which were"
         },
         {
-          "t": "of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities."
+          "t": " of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.",
       "tokens": [
         {
-          "t": "And the rest of the children of Kohath"
+          "t": "And the rest of the children of Kohath "
         },
         {
           "add": "had"
         },
         {
-          "t": "by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities."
+          "t": " by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities.",
       "tokens": [
         {
-          "t": "And the children of Gershon"
+          "t": "And the children of Gershon "
         },
         {
           "add": "had"
         },
         {
-          "t": "by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities."
+          "t": " by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
       "tokens": [
         {
-          "t": "The children of Merari by their families"
+          "t": "The children of Merari by their families "
         },
         {
           "add": "had"
         },
         {
-          "t": "out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities."
+          "t": " out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the LORD commanded by the hand of Moses.",
       "tokens": [
         {
-          "t": "And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the"
+          "t": "And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded by the hand of Moses."
+          "t": " commanded by the hand of Moses. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,",
       "tokens": [
         {
-          "t": "¶ And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are"
+          "t": "¶ And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are "
         },
         {
           "add": "here"
         },
         {
-          "t": "mentioned by name,"
+          "t": " mentioned by name, "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot.",
       "tokens": [
         {
-          "t": "Which the children of Aaron,"
+          "t": "Which the children of Aaron, "
         },
         {
           "add": "being"
         },
         {
-          "t": "of the families of the Kohathites,"
+          "t": " of the families of the Kohathites, "
         },
         {
           "add": "who were"
         },
         {
-          "t": "of the children of Levi, had: for theirs was the first lot."
+          "t": " of the children of Levi, had: for theirs was the first lot. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it.",
       "tokens": [
         {
-          "t": "And they gave them the city of Arba the father of Anak, which"
+          "t": "And they gave them the city of Arba the father of Anak, which "
         },
         {
           "add": "city is"
         },
         {
-          "t": "Hebron, in the hill"
+          "t": " Hebron, in the hill "
         },
         {
           "add": "country"
         },
         {
-          "t": "of Judah, with the suburbs thereof round about it."
+          "t": " of Judah, with the suburbs thereof round about it. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.",
       "tokens": [
         {
-          "t": "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession."
+          "t": "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "¶ Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,",
       "tokens": [
         {
-          "t": "¶ Thus they gave to the children of Aaron the priest Hebron with her suburbs,"
+          "t": "¶ Thus they gave to the children of Aaron the priest Hebron with her suburbs, "
         },
         {
           "add": "to be"
         },
         {
-          "t": "a city of refuge for the slayer; and Libnah with her suburbs,"
+          "t": " a city of refuge for the slayer; and Libnah with her suburbs, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Jattir with her suburbs, and Eshtemoa with her suburbs,",
       "tokens": [
         {
-          "t": "And Jattir with her suburbs, and Eshtemoa with her suburbs,"
+          "t": "And Jattir with her suburbs, and Eshtemoa with her suburbs, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And Holon with her suburbs, and Debir with her suburbs,",
       "tokens": [
         {
-          "t": "And Holon with her suburbs, and Debir with her suburbs,"
+          "t": "And Holon with her suburbs, and Debir with her suburbs, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And Ain with her suburbs, and Juttah with her suburbs, and Beth-shemesh with her suburbs; nine cities out of those two tribes.",
       "tokens": [
         {
-          "t": "And Ain with her suburbs, and Juttah with her suburbs,"
+          "t": "And Ain with her suburbs, and Juttah with her suburbs, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Beth-shemesh with her suburbs; nine cities out of those two tribes."
+          "t": " Beth-shemesh with her suburbs; nine cities out of those two tribes. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,",
       "tokens": [
         {
-          "t": "And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,"
+          "t": "And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Anathoth with her suburbs, and Almon with her suburbs; four cities.",
       "tokens": [
         {
-          "t": "Anathoth with her suburbs, and Almon with her suburbs; four cities."
+          "t": "Anathoth with her suburbs, and Almon with her suburbs; four cities. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "All the cities of the children of Aaron, the priests, were thirteen cities with their suburbs.",
       "tokens": [
         {
-          "t": "All the cities of the children of Aaron, the priests,"
+          "t": "All the cities of the children of Aaron, the priests, "
         },
         {
           "add": "were"
         },
         {
-          "t": "thirteen cities with their suburbs."
+          "t": " thirteen cities with their suburbs. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.",
       "tokens": [
         {
-          "t": "¶ And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim."
+          "t": "¶ And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For they gave them Shechem with her suburbs in mount Ephraim, to be a city of refuge for the slayer; and Gezer with her suburbs,",
       "tokens": [
         {
-          "t": "For they gave them Shechem with her suburbs in mount Ephraim,"
+          "t": "For they gave them Shechem with her suburbs in mount Ephraim, "
         },
         {
           "add": "to be"
         },
         {
-          "t": "a city of refuge for the slayer; and Gezer with her suburbs,"
+          "t": " a city of refuge for the slayer; and Gezer with her suburbs, "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And Kibzaim with her suburbs, and Beth-horon with her suburbs; four cities.",
       "tokens": [
         {
-          "t": "And Kibzaim with her suburbs, and Beth-horon with her suburbs; four cities."
+          "t": "And Kibzaim with her suburbs, and Beth-horon with her suburbs; four cities. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,",
       "tokens": [
         {
-          "t": "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,"
+          "t": "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs, "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Aijalon with her suburbs, Gath-rimmon with her suburbs; four cities.",
       "tokens": [
         {
-          "t": "Aijalon with her suburbs, Gath-rimmon with her suburbs; four cities."
+          "t": "Aijalon with her suburbs, Gath-rimmon with her suburbs; four cities. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And out of the half tribe of Manasseh, Tanach with her suburbs, and Gath-rimmon with her suburbs; two cities.",
       "tokens": [
         {
-          "t": "And out of the half tribe of Manasseh, Tanach with her suburbs, and Gath-rimmon with her suburbs; two cities."
+          "t": "And out of the half tribe of Manasseh, Tanach with her suburbs, and Gath-rimmon with her suburbs; two cities. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "All the cities were ten with their suburbs for the families of the children of Kohath that remained.",
       "tokens": [
         {
-          "t": "All the cities"
+          "t": "All the cities "
         },
         {
           "add": "were"
         },
         {
-          "t": "ten with their suburbs for the families of the children of Kohath that remained."
+          "t": " ten with their suburbs for the families of the children of Kohath that remained. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And unto the children of Gershon, of the families of the Levites, out of the other half tribe of Manasseh they gave Golan in Bashan with her suburbs, to be a city of refuge for the slayer; and Beesh-terah with her suburbs; two cities.",
       "tokens": [
         {
-          "t": "¶ And unto the children of Gershon, of the families of the Levites, out of the"
+          "t": "¶ And unto the children of Gershon, of the families of the Levites, out of the "
         },
         {
           "add": "other"
         },
         {
-          "t": "half tribe of Manasseh"
+          "t": " half tribe of Manasseh "
         },
         {
           "add": "they gave"
         },
         {
-          "t": "Golan in Bashan with her suburbs,"
+          "t": " Golan in Bashan with her suburbs, "
         },
         {
           "add": "to be"
         },
         {
-          "t": "a city of refuge for the slayer; and Beesh-terah with her suburbs; two cities."
+          "t": " a city of refuge for the slayer; and Beesh-terah with her suburbs; two cities. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,",
       "tokens": [
         {
-          "t": "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,"
+          "t": "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs, "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Jarmuth with her suburbs, En-gannim with her suburbs; four cities.",
       "tokens": [
         {
-          "t": "Jarmuth with her suburbs, En-gannim with her suburbs; four cities."
+          "t": "Jarmuth with her suburbs, En-gannim with her suburbs; four cities. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,",
       "tokens": [
         {
-          "t": "And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,"
+          "t": "And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs, "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Helkath with her suburbs, and Rehob with her suburbs; four cities.",
       "tokens": [
         {
-          "t": "Helkath with her suburbs, and Rehob with her suburbs; four cities."
+          "t": "Helkath with her suburbs, and Rehob with her suburbs; four cities. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, to be a city of refuge for the slayer; and Hammoth-dor with her suburbs, and Kartan with her suburbs; three cities.",
       "tokens": [
         {
-          "t": "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs,"
+          "t": "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, "
         },
         {
           "add": "to be"
         },
         {
-          "t": "a city of refuge for the slayer; and Hammoth-dor with her suburbs, and Kartan with her suburbs; three cities."
+          "t": " a city of refuge for the slayer; and Hammoth-dor with her suburbs, and Kartan with her suburbs; three cities. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "All the cities of the Gershonites according to their families were thirteen cities with their suburbs.",
       "tokens": [
         {
-          "t": "All the cities of the Gershonites according to their families"
+          "t": "All the cities of the Gershonites according to their families "
         },
         {
           "add": "were"
         },
         {
-          "t": "thirteen cities with their suburbs."
+          "t": " thirteen cities with their suburbs. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "¶ And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,",
       "tokens": [
         {
-          "t": "¶ And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,"
+          "t": "¶ And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs, "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "Dimnah with her suburbs, Nahalal with her suburbs; four cities.",
       "tokens": [
         {
-          "t": "Dimnah with her suburbs, Nahalal with her suburbs; four cities."
+          "t": "Dimnah with her suburbs, Nahalal with her suburbs; four cities. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,",
       "tokens": [
         {
-          "t": "And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,"
+          "t": "And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs, "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Kedemoth with her suburbs, and Mephaath with her suburbs; four cities.",
       "tokens": [
         {
-          "t": "Kedemoth with her suburbs, and Mephaath with her suburbs; four cities."
+          "t": "Kedemoth with her suburbs, and Mephaath with her suburbs; four cities. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And out of the tribe of Gad, Ramoth in Gilead with her suburbs, to be a city of refuge for the slayer; and Mahanaim with her suburbs,",
       "tokens": [
         {
-          "t": "And out of the tribe of Gad, Ramoth in Gilead with her suburbs,"
+          "t": "And out of the tribe of Gad, Ramoth in Gilead with her suburbs, "
         },
         {
           "add": "to be"
         },
         {
-          "t": "a city of refuge for the slayer; and Mahanaim with her suburbs,"
+          "t": " a city of refuge for the slayer; and Mahanaim with her suburbs, "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "Heshbon with her suburbs, Jazer with her suburbs; four cities in all.",
       "tokens": [
         {
-          "t": "Heshbon with her suburbs, Jazer with her suburbs; four cities in all."
+          "t": "Heshbon with her suburbs, Jazer with her suburbs; four cities in all. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were by their lot twelve cities.",
       "tokens": [
         {
-          "t": "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were"
+          "t": "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were "
         },
         {
           "add": "by"
         },
         {
-          "t": "their lot twelve cities."
+          "t": " their lot twelve cities. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "All the cities of the Levites within the possession of the children of Israel were forty and eight cities with their suburbs.",
       "tokens": [
         {
-          "t": "All the cities of the Levites within the possession of the children of Israel"
+          "t": "All the cities of the Levites within the possession of the children of Israel "
         },
         {
           "add": "were"
         },
         {
-          "t": "forty and eight cities with their suburbs."
+          "t": " forty and eight cities with their suburbs. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "These cities were every one with their suburbs round about them: thus were all these cities.",
       "tokens": [
         {
-          "t": "These cities were every one with their suburbs round about them: thus"
+          "t": "These cities were every one with their suburbs round about them: thus "
         },
         {
           "add": "were"
         },
         {
-          "t": "all these cities."
+          "t": " all these cities. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "¶ And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein.",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein."
+          "t": " gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And the LORD gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the"
+          "t": " gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "delivered all their enemies into their hand."
+          "t": " delivered all their enemies into their hand. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass.",
       "tokens": [
         {
-          "t": "There failed not ought of any good thing which the"
+          "t": "There failed not ought of any good thing which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had spoken unto the house of Israel; all came to pass."
+          "t": " had spoken unto the house of Israel; all came to pass. "
         }
       ]
     }

@@ -7,147 +7,465 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then drew near unto him all the publicans and sinners for to hear him.",
       "tokens": [
         {
-          "t": "Then drew near unto him all the publicans and sinners for to hear him."
+          "t": "Then drew near unto him all the publicans and sinners for to hear him. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.",
       "tokens": [
         {
-          "t": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them."
+          "t": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "¶ And he spake this parable unto them, saying,",
       "tokens": [
         {
-          "t": "¶ And he spake this parable unto them, saying,"
+          "t": "¶ And he spake this parable unto them, saying, "
         }
       ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?",
+      "tokens": [
+        {
+          "t": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "And when he hath found it, he layeth it on his shoulders, rejoicing.",
+      "tokens": [
+        {
+          "t": "And when he hath found "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", he layeth "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " on his shoulders, rejoicing."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.",
+      "tokens": [
+        {
+          "t": "And when he cometh home, he calleth together "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.",
+      "tokens": [
+        {
+          "t": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "¶ Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?",
+      "tokens": [
+        {
+          "t": "¶ Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.",
+      "tokens": [
+        {
+          "t": "And when she hath found "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": ", she calleth "
+        },
+        {
+          "add": "her"
+        },
+        {
+          "t": " friends and "
+        },
+        {
+          "add": "her"
+        },
+        {
+          "t": " neighbours together, saying, Rejoice with me; for I have found the piece which I had lost."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.",
+      "tokens": [
+        {
+          "t": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
+      "plain": "¶ And he said, A certain man had two sons:",
       "tokens": [
         {
-          "t": "¶ And he said,"
+          "t": "¶ And he said, "
+        },
+        {
+          "t": "A certain man had two sons:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.",
+      "tokens": [
+        {
+          "t": "And the younger of them said to "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " father, Father, give me the portion of goods that falleth "
+        },
+        {
+          "add": "to me"
+        },
+        {
+          "t": ". And he divided unto them "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " living. "
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.",
+      "tokens": [
+        {
+          "t": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "And when he had spent all, there arose a mighty famine in that land; and he began to be in want.",
+      "tokens": [
+        {
+          "t": "And when he had spent all, there arose a mighty famine in that land; and he began to be in want."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.",
+      "tokens": [
+        {
+          "t": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.",
+      "tokens": [
+        {
+          "t": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!",
+      "tokens": [
+        {
+          "t": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,",
+      "tokens": [
+        {
+          "t": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "And am no more worthy to be called thy son: make me as one of thy hired servants.",
+      "tokens": [
+        {
+          "t": "And am no more worthy to be called thy son: make me as one of thy hired servants."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.",
+      "tokens": [
+        {
+          "t": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.",
+      "tokens": [
+        {
+          "t": "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:",
+      "tokens": [
+        {
+          "t": "But the father said to his servants, Bring forth the best robe, and put "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " on him; and put a ring on his hand, and shoes on "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " feet:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "And bring hither the fatted calf, and kill it; and let us eat, and be merry:",
+      "tokens": [
+        {
+          "t": "And bring hither the fatted calf, and kill "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "; and let us eat, and be merry:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.",
+      "tokens": [
+        {
+          "t": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.",
+      "tokens": [
+        {
+          "t": "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "And he called one of the servants, and asked what these things meant.",
+      "tokens": [
+        {
+          "t": "And he called one of the servants, and asked what these things meant."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.",
+      "tokens": [
+        {
+          "t": "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "And he was angry, and would not go in: therefore came his father out, and intreated him.",
+      "tokens": [
+        {
+          "t": "And he was angry, and would not go in: therefore came his father out, and intreated him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:",
+      "tokens": [
+        {
+          "t": "And he answering said to "
+        },
+        {
+          "add": "his"
+        },
+        {
+          "t": " father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.",
+      "tokens": [
+        {
+          "t": "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
-      "tokens": null
+      "plain": "And he said unto him, Son, thou art ever with me, and all that I have is thine.",
+      "tokens": [
+        {
+          "t": "And he said unto him, Son, thou art ever with me, and all that I have is thine."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.",
+      "tokens": [
+        {
+          "t": "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

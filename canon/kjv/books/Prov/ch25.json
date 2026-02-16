@@ -7,408 +7,439 @@
   "verses": [
     {
       "v": 1,
+      "plain": "These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "also proverbs of Solomon, which the men of Hezekiah king of Judah copied out."
+          "t": " also proverbs of Solomon, which the men of Hezekiah king of Judah copied out. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "It is the glory of God to conceal a thing: but the honour of kings is to search out a matter.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "the glory of God to conceal a thing: but the honour of kings"
+          "t": " the glory of God to conceal a thing: but the honour of kings "
         },
         {
           "add": "is"
         },
         {
-          "t": "to search out a matter."
+          "t": " to search out a matter. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The heaven for height, and the earth for depth, and the heart of kings is unsearchable.",
       "tokens": [
         {
-          "t": "The heaven for height, and the earth for depth, and the heart of kings"
+          "t": "The heaven for height, and the earth for depth, and the heart of kings "
         },
         {
           "add": "is"
         },
         {
-          "t": "unsearchable."
+          "t": " unsearchable. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Take away the dross from the silver, and there shall come forth a vessel for the finer.",
       "tokens": [
         {
-          "t": "Take away the dross from the silver, and there shall come forth a vessel for the finer."
+          "t": "Take away the dross from the silver, and there shall come forth a vessel for the finer. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Take away the wicked from before the king, and his throne shall be established in righteousness.",
       "tokens": [
         {
-          "t": "Take away the wicked"
+          "t": "Take away the wicked "
         },
         {
           "add": "from"
         },
         {
-          "t": "before the king, and his throne shall be established in righteousness."
+          "t": " before the king, and his throne shall be established in righteousness. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Put not forth thyself in the presence of the king, and stand not in the place of great men:",
       "tokens": [
         {
-          "t": "Put not forth thyself in the presence of the king, and stand not in the place of great"
+          "t": "Put not forth thyself in the presence of the king, and stand not in the place of great "
         },
         {
           "add": "men:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "For better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.",
       "tokens": [
         {
-          "t": "For better"
+          "t": "For better "
         },
         {
           "add": "it is"
         },
         {
-          "t": "that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
+          "t": " that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame.",
       "tokens": [
         {
-          "t": "Go not forth hastily to strive, lest"
+          "t": "Go not forth hastily to strive, lest "
         },
         {
           "add": "thou know not"
         },
         {
-          "t": "what to do in the end thereof, when thy neighbour hath put thee to shame."
+          "t": " what to do in the end thereof, when thy neighbour hath put thee to shame. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Debate thy cause with thy neighbour himself; and discover not a secret to another:",
       "tokens": [
         {
-          "t": "Debate thy cause with thy neighbour"
+          "t": "Debate thy cause with thy neighbour "
         },
         {
           "add": "himself;"
         },
         {
-          "t": "and discover not a secret to another:"
+          "t": " and discover not a secret to another: "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Lest he that heareth it put thee to shame, and thine infamy turn not away.",
       "tokens": [
         {
-          "t": "Lest he that heareth"
+          "t": "Lest he that heareth "
         },
         {
           "add": "it"
         },
         {
-          "t": "put thee to shame, and thine infamy turn not away."
+          "t": " put thee to shame, and thine infamy turn not away. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "A word fitly spoken is like apples of gold in pictures of silver.",
       "tokens": [
         {
-          "t": "A word fitly spoken"
+          "t": "A word fitly spoken "
         },
         {
           "add": "is like"
         },
         {
-          "t": "apples of gold in pictures of silver."
+          "t": " apples of gold in pictures of silver. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "an earring of gold, and an ornament of fine gold,"
+          "t": " an earring of gold, and an ornament of fine gold, "
         },
         {
           "add": "so is"
         },
         {
-          "t": "a wise reprover upon an obedient ear."
+          "t": " a wise reprover upon an obedient ear. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "As the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refresheth the soul of his masters.",
       "tokens": [
         {
-          "t": "As the cold of snow in the time of harvest,"
+          "t": "As the cold of snow in the time of harvest, "
         },
         {
           "add": "so is"
         },
         {
-          "t": "a faithful messenger to them that send him: for he refresheth the soul of his masters."
+          "t": " a faithful messenger to them that send him: for he refresheth the soul of his masters. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Whoso boasteth himself of a false gift is like clouds and wind without rain.",
       "tokens": [
         {
-          "t": "Whoso boasteth himself of a false gift"
+          "t": "Whoso boasteth himself of a false gift "
         },
         {
           "add": "is like"
         },
         {
-          "t": "clouds and wind without rain."
+          "t": " clouds and wind without rain. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.",
       "tokens": [
         {
-          "t": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone."
+          "t": "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.",
       "tokens": [
         {
-          "t": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it."
+          "t": "Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and so hate thee.",
       "tokens": [
         {
-          "t": "Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and"
+          "t": "Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and "
         },
         {
           "add": "so"
         },
         {
-          "t": "hate thee."
+          "t": " hate thee. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "A man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow.",
       "tokens": [
         {
-          "t": "A man that beareth false witness against his neighbour"
+          "t": "A man that beareth false witness against his neighbour "
         },
         {
           "add": "is"
         },
         {
-          "t": "a maul, and a sword, and a sharp arrow."
+          "t": " a maul, and a sword, and a sharp arrow. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.",
       "tokens": [
         {
-          "t": "Confidence in an unfaithful man in time of trouble"
+          "t": "Confidence in an unfaithful man in time of trouble "
         },
         {
           "add": "is like"
         },
         {
-          "t": "a broken tooth, and a foot out of joint."
+          "t": " a broken tooth, and a foot out of joint. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "he that taketh away a garment in cold weather,"
+          "t": " he that taketh away a garment in cold weather, "
         },
         {
           "add": "and as"
         },
         {
-          "t": "vinegar upon nitre, so"
+          "t": " vinegar upon nitre, so "
         },
         {
           "add": "is"
         },
         {
-          "t": "he that singeth songs to an heavy heart."
+          "t": " he that singeth songs to an heavy heart. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:",
       "tokens": [
         {
-          "t": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:"
+          "t": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee.",
       "tokens": [
         {
-          "t": "For thou shalt heap coals of fire upon his head, and the"
+          "t": "For thou shalt heap coals of fire upon his head, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall reward thee."
+          "t": " shall reward thee. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "The north wind driveth away rain: so doth an angry countenance a backbiting tongue.",
       "tokens": [
         {
-          "t": "The north wind driveth away rain: so"
+          "t": "The north wind driveth away rain: so "
         },
         {
           "add": "doth"
         },
         {
-          "t": "an angry countenance a backbiting tongue."
+          "t": " an angry countenance a backbiting tongue. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "It is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "better to dwell in the corner of the housetop, than with a brawling woman and in a wide house."
+          "t": " better to dwell in the corner of the housetop, than with a brawling woman and in a wide house. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "As cold waters to a thirsty soul, so is good news from a far country.",
       "tokens": [
         {
           "add": "As"
         },
         {
-          "t": "cold waters to a thirsty soul, so"
+          "t": " cold waters to a thirsty soul, so "
         },
         {
           "add": "is"
         },
         {
-          "t": "good news from a far country."
+          "t": " good news from a far country. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring.",
       "tokens": [
         {
-          "t": "A righteous man falling down before the wicked"
+          "t": "A righteous man falling down before the wicked "
         },
         {
           "add": "is as"
         },
         {
-          "t": "a troubled fountain, and a corrupt spring."
+          "t": " a troubled fountain, and a corrupt spring. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "It is not good to eat much honey: so for men to search their own glory is not glory.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "not good to eat much honey: so"
+          "t": " not good to eat much honey: so "
         },
         {
           "add": "for men"
         },
         {
-          "t": "to search their own glory"
+          "t": " to search their own glory "
         },
         {
           "add": "is not"
         },
         {
-          "t": "glory."
+          "t": " glory. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "He that hath no rule over his own spirit is like a city that is broken down, and without walls.",
       "tokens": [
         {
-          "t": "He that"
+          "t": "He that "
         },
         {
           "add": "hath"
         },
         {
-          "t": "no rule over his own spirit"
+          "t": " no rule over his own spirit "
         },
         {
           "add": "is like"
         },
         {
-          "t": "a city"
+          "t": " a city "
         },
         {
           "add": "that is"
         },
         {
-          "t": "broken down,"
+          "t": " broken down, "
         },
         {
           "add": "and"
         },
         {
-          "t": "without walls."
+          "t": " without walls. "
         }
       ]
     }

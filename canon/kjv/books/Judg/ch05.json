@@ -7,474 +7,505 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then sang Deborah and Barak the son of Abinoam on that day, saying,",
       "tokens": [
         {
-          "t": "Then sang Deborah and Barak the son of Abinoam on that day, saying,"
+          "t": "Then sang Deborah and Barak the son of Abinoam on that day, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Praise ye the LORD for the avenging of Israel, when the people willingly offered themselves.",
       "tokens": [
         {
-          "t": "Praise ye the"
+          "t": "Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for the avenging of Israel, when the people willingly offered themselves."
+          "t": " for the avenging of Israel, when the people willingly offered themselves. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Hear, O ye kings; give ear, O ye princes; I, even I, will sing unto the LORD; I will sing praise to the LORD God of Israel.",
       "tokens": [
         {
-          "t": "Hear, O ye kings; give ear, O ye princes; I,"
+          "t": "Hear, O ye kings; give ear, O ye princes; I, "
         },
         {
           "add": "even"
         },
         {
-          "t": "I, will sing unto the"
+          "t": " I, will sing unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; I will sing"
+          "t": "; I will sing "
         },
         {
           "add": "praise"
         },
         {
-          "t": "to the"
+          "t": " to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel."
+          "t": " God of Israel. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "LORD, when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water.",
       "tokens": [
         {
           "nd": "LORD"
         },
         {
-          "t": ", when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water."
+          "t": ", when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The mountains melted from before the LORD, even that Sinai from before the LORD God of Israel.",
       "tokens": [
         {
-          "t": "The mountains melted from before the"
+          "t": "The mountains melted from before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "even"
         },
         {
-          "t": "that Sinai from before the"
+          "t": " that Sinai from before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of Israel."
+          "t": " God of Israel. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways.",
       "tokens": [
         {
-          "t": "In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways."
+          "t": "In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "The inhabitants of the villages ceased, they ceased in Israel, until that I Deborah arose, that I arose a mother in Israel.",
       "tokens": [
         {
           "add": "The inhabitants of"
         },
         {
-          "t": "the villages ceased, they ceased in Israel, until that I Deborah arose, that I arose a mother in Israel."
+          "t": " the villages ceased, they ceased in Israel, until that I Deborah arose, that I arose a mother in Israel. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "They chose new gods; then was war in the gates: was there a shield or spear seen among forty thousand in Israel?",
       "tokens": [
         {
-          "t": "They chose new gods; then"
+          "t": "They chose new gods; then "
         },
         {
           "add": "was"
         },
         {
-          "t": "war in the gates: was there a shield or spear seen among forty thousand in Israel?"
+          "t": " war in the gates: was there a shield or spear seen among forty thousand in Israel? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "My heart is toward the governors of Israel, that offered themselves willingly among the people. Bless ye the LORD.",
       "tokens": [
         {
-          "t": "My heart"
+          "t": "My heart "
         },
         {
           "add": "is"
         },
         {
-          "t": "toward the governors of Israel, that offered themselves willingly among the people. Bless ye the"
+          "t": " toward the governors of Israel, that offered themselves willingly among the people. Bless ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Speak, ye that ride on white asses, ye that sit in judgment, and walk by the way.",
       "tokens": [
         {
-          "t": "Speak, ye that ride on white asses, ye that sit in judgment, and walk by the way."
+          "t": "Speak, ye that ride on white asses, ye that sit in judgment, and walk by the way. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "They that are delivered from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the LORD, even the righteous acts toward the inhabitants of his villages in Israel: then shall the people of the LORD go down to the gates.",
       "tokens": [
         {
           "add": "They that are delivered"
         },
         {
-          "t": "from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the"
+          "t": " from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "even"
         },
         {
-          "t": "the righteous acts"
+          "t": " the righteous acts "
         },
         {
           "add": "toward the inhabitants"
         },
         {
-          "t": "of his villages in Israel: then shall the people of the"
+          "t": " of his villages in Israel: then shall the people of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "go down to the gates."
+          "t": " go down to the gates. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam.",
       "tokens": [
         {
-          "t": "Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam."
+          "t": "Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Then he made him that remaineth have dominion over the nobles among the people: the LORD made me have dominion over the mighty.",
       "tokens": [
         {
-          "t": "Then he made him that remaineth have dominion over the nobles among the people: the"
+          "t": "Then he made him that remaineth have dominion over the nobles among the people: the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "made me have dominion over the mighty."
+          "t": " made me have dominion over the mighty. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Out of Ephraim was there a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer.",
       "tokens": [
         {
-          "t": "Out of Ephraim"
+          "t": "Out of Ephraim "
         },
         {
           "add": "was there"
         },
         {
-          "t": "a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer."
+          "t": " a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the princes of Issachar were with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben there were great thoughts of heart.",
       "tokens": [
         {
-          "t": "And the princes of Issachar"
+          "t": "And the princes of Issachar "
         },
         {
           "add": "were"
         },
         {
-          "t": "with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben"
+          "t": " with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben "
         },
         {
           "add": "there were"
         },
         {
-          "t": "great thoughts of heart."
+          "t": " great thoughts of heart. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great searchings of heart.",
       "tokens": [
         {
-          "t": "Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben"
+          "t": "Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben "
         },
         {
           "add": "there were"
         },
         {
-          "t": "great searchings of heart."
+          "t": " great searchings of heart. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches.",
       "tokens": [
         {
-          "t": "Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches."
+          "t": "Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Zebulun and Naphtali were a people that jeoparded their lives unto the death in the high places of the field.",
       "tokens": [
         {
-          "t": "Zebulun and Naphtali"
+          "t": "Zebulun and Naphtali "
         },
         {
           "add": "were"
         },
         {
-          "t": "a people"
+          "t": " a people "
         },
         {
           "add": "that"
         },
         {
-          "t": "jeoparded their lives unto the death in the high places of the field."
+          "t": " jeoparded their lives unto the death in the high places of the field. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "The kings came and fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.",
       "tokens": [
         {
-          "t": "The kings came"
+          "t": "The kings came "
         },
         {
           "add": "and"
         },
         {
-          "t": "fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money."
+          "t": " fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "They fought from heaven; the stars in their courses fought against Sisera.",
       "tokens": [
         {
-          "t": "They fought from heaven; the stars in their courses fought against Sisera."
+          "t": "They fought from heaven; the stars in their courses fought against Sisera. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength.",
       "tokens": [
         {
-          "t": "The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength."
+          "t": "The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Then were the horsehoofs broken by the means of the pransings, the pransings of their mighty ones.",
       "tokens": [
         {
-          "t": "Then were the horsehoofs broken by the means of the pransings, the pransings of their mighty ones."
+          "t": "Then were the horsehoofs broken by the means of the pransings, the pransings of their mighty ones. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Curse ye Meroz, said the angel of the LORD, curse ye bitterly the inhabitants thereof; because they came not to the help of the LORD, to the help of the LORD against the mighty.",
       "tokens": [
         {
-          "t": "Curse ye Meroz, said the angel of the"
+          "t": "Curse ye Meroz, said the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", curse ye bitterly the inhabitants thereof; because they came not to the help of the"
+          "t": ", curse ye bitterly the inhabitants thereof; because they came not to the help of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to the help of the"
+          "t": ", to the help of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "against the mighty."
+          "t": " against the mighty. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Blessed above women shall Jael the wife of Heber the Kenite be, blessed shall she be above women in the tent.",
       "tokens": [
         {
-          "t": "Blessed above women shall Jael the wife of Heber the Kenite be, blessed shall she be above women in the tent."
+          "t": "Blessed above women shall Jael the wife of Heber the Kenite be, blessed shall she be above women in the tent. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "He asked water, and she gave him milk; she brought forth butter in a lordly dish.",
       "tokens": [
         {
-          "t": "He asked water,"
+          "t": "He asked water, "
         },
         {
           "add": "and"
         },
         {
-          "t": "she gave"
+          "t": " she gave "
         },
         {
           "add": "him"
         },
         {
-          "t": "milk; she brought forth butter in a lordly dish."
+          "t": " milk; she brought forth butter in a lordly dish. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.",
       "tokens": [
         {
-          "t": "She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples."
+          "t": "She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell: where he bowed, there he fell down dead.",
       "tokens": [
         {
-          "t": "At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell: where he bowed, there he fell down dead."
+          "t": "At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell: where he bowed, there he fell down dead. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot so long in coming? why tarry the wheels of his chariots?",
       "tokens": [
         {
-          "t": "The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot"
+          "t": "The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot "
         },
         {
           "add": "so"
         },
         {
-          "t": "long in coming? why tarry the wheels of his chariots?"
+          "t": " long in coming? why tarry the wheels of his chariots? "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Her wise ladies answered her, yea, she returned answer to herself,",
       "tokens": [
         {
-          "t": "Her wise ladies answered her, yea, she returned answer to herself,"
+          "t": "Her wise ladies answered her, yea, she returned answer to herself, "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Have they not sped? have they not divided the prey; to every man a damsel or two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, meet for the necks of them that take the spoil?",
       "tokens": [
         {
-          "t": "Have they not sped? have they"
+          "t": "Have they not sped? have they "
         },
         {
           "add": "not"
         },
         {
-          "t": "divided the prey; to every man a damsel"
+          "t": " divided the prey; to every man a damsel "
         },
         {
           "add": "or"
         },
         {
-          "t": "two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides,"
+          "t": " two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, "
         },
         {
           "add": "meet"
         },
         {
-          "t": "for the necks of"
+          "t": " for the necks of "
         },
         {
           "add": "them that take"
         },
         {
-          "t": "the spoil?"
+          "t": " the spoil? "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "So let all thine enemies perish, O LORD: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years.",
       "tokens": [
         {
-          "t": "So let all thine enemies perish, O"
+          "t": "So let all thine enemies perish, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": but"
+          "t": ": but "
         },
         {
           "add": "let"
         },
         {
-          "t": "them that love him"
+          "t": " them that love him "
         },
         {
           "add": "be"
         },
         {
-          "t": "as the sun when he goeth forth in his might. And the land had rest forty years."
+          "t": " as the sun when he goeth forth in his might. And the land had rest forty years. "
         }
       ]
     }

@@ -7,199 +7,214 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.",
       "tokens": [
         {
-          "t": "Israel"
+          "t": "Israel "
         },
         {
           "add": "is"
         },
         {
-          "t": "an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images."
+          "t": " an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images.",
       "tokens": [
         {
-          "t": "Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images."
+          "t": "Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For now they shall say, We have no king, because we feared not the LORD; what then should a king do to us?",
       "tokens": [
         {
-          "t": "For now they shall say, We have no king, because we feared not the"
+          "t": "For now they shall say, We have no king, because we feared not the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; what then should a king do to us?"
+          "t": "; what then should a king do to us? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field.",
       "tokens": [
         {
-          "t": "They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field."
+          "t": "They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The inhabitants of Samaria shall fear because of the calves of Beth-aven: for the people thereof shall mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it.",
       "tokens": [
         {
-          "t": "The inhabitants of Samaria shall fear because of the calves of Beth-aven: for the people thereof shall mourn over it, and the priests thereof"
+          "t": "The inhabitants of Samaria shall fear because of the calves of Beth-aven: for the people thereof shall mourn over it, and the priests thereof "
         },
         {
           "add": "that"
         },
         {
-          "t": "rejoiced on it, for the glory thereof, because it is departed from it."
+          "t": " rejoiced on it, for the glory thereof, because it is departed from it. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "It shall be also carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.",
       "tokens": [
         {
-          "t": "It shall be also carried unto Assyria"
+          "t": "It shall be also carried unto Assyria "
         },
         {
           "add": "for"
         },
         {
-          "t": "a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel."
+          "t": " a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "As for Samaria, her king is cut off as the foam upon the water.",
       "tokens": [
         {
           "add": "As for"
         },
         {
-          "t": "Samaria, her king is cut off as the foam upon the water."
+          "t": " Samaria, her king is cut off as the foam upon the water. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.",
       "tokens": [
         {
-          "t": "The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us."
+          "t": "The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.",
       "tokens": [
         {
-          "t": "O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them."
+          "t": "O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "It is in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows.",
       "tokens": [
         {
           "add": "It is"
         },
         {
-          "t": "in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows."
+          "t": " in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And Ephraim is as an heifer that is taught, and loveth to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods.",
       "tokens": [
         {
-          "t": "And Ephraim"
+          "t": "And Ephraim "
         },
         {
           "add": "is as"
         },
         {
-          "t": "an heifer"
+          "t": " an heifer "
         },
         {
           "add": "that is"
         },
         {
-          "t": "taught,"
+          "t": " taught, "
         },
         {
           "add": "and"
         },
         {
-          "t": "loveth to tread out"
+          "t": " loveth to tread out "
         },
         {
           "add": "the corn;"
         },
         {
-          "t": "but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow,"
+          "t": " but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Jacob shall break his clods."
+          "t": " Jacob shall break his clods. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the LORD, till he come and rain righteousness upon you.",
       "tokens": [
         {
-          "t": "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for"
+          "t": "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for "
         },
         {
           "add": "it is"
         },
         {
-          "t": "time to seek the"
+          "t": " time to seek the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", till he come and rain righteousness upon you."
+          "t": ", till he come and rain righteousness upon you. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.",
       "tokens": [
         {
-          "t": "Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men."
+          "t": "Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the mother was dashed in pieces upon her children.",
       "tokens": [
         {
-          "t": "Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the mother was dashed in pieces upon"
+          "t": "Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the mother was dashed in pieces upon "
         },
         {
           "add": "her"
         },
         {
-          "t": "children."
+          "t": " children. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.",
       "tokens": [
         {
-          "t": "So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off."
+          "t": "So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off. "
         }
       ]
     }

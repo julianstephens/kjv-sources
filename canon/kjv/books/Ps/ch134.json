@@ -7,67 +7,70 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD.",
       "tokens": [
         {
-          "t": "Behold, bless ye the"
+          "t": "Behold, bless ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", all"
+          "t": ", all "
         },
         {
           "add": "ye"
         },
         {
-          "t": "servants of the"
+          "t": " servants of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which by night stand in the house of the"
+          "t": ", which by night stand in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Lift up your hands in the sanctuary, and bless the LORD.",
       "tokens": [
         {
-          "t": "Lift up your hands"
+          "t": "Lift up your hands "
         },
         {
           "add": "in"
         },
         {
-          "t": "the sanctuary, and bless the"
+          "t": " the sanctuary, and bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The LORD that made heaven and earth bless thee out of Zion.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that made heaven and earth bless thee out of Zion."
+          "t": " that made heaven and earth bless thee out of Zion. "
         }
       ]
     }

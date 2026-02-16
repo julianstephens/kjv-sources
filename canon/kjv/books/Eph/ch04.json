@@ -7,290 +7,322 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,",
       "tokens": [
         {
-          "t": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,"
+          "t": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "With all lowliness and meekness, with longsuffering, forbearing one another in love;",
       "tokens": [
         {
-          "t": "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
+          "t": "With all lowliness and meekness, with longsuffering, forbearing one another in love; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Endeavouring to keep the unity of the Spirit in the bond of peace.",
       "tokens": [
         {
-          "t": "Endeavouring to keep the unity of the Spirit in the bond of peace."
+          "t": "Endeavouring to keep the unity of the Spirit in the bond of peace. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "There is one body, and one Spirit, even as ye are called in one hope of your calling;",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "one body, and one Spirit, even as ye are called in one hope of your calling;"
+          "t": " one body, and one Spirit, even as ye are called in one hope of your calling; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "One Lord, one faith, one baptism,",
       "tokens": [
         {
-          "t": "One Lord, one faith, one baptism,"
+          "t": "One Lord, one faith, one baptism, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "One God and Father of all, who is above all, and through all, and in you all.",
       "tokens": [
         {
-          "t": "One God and Father of all, who"
+          "t": "One God and Father of all, who "
         },
         {
           "add": "is"
         },
         {
-          "t": "above all, and through all, and in you all."
+          "t": " above all, and through all, and in you all. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "But unto every one of us is given grace according to the measure of the gift of Christ.",
       "tokens": [
         {
-          "t": "But unto every one of us is given grace according to the measure of the gift of Christ."
+          "t": "But unto every one of us is given grace according to the measure of the gift of Christ. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.",
       "tokens": [
         {
-          "t": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men."
+          "t": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?",
       "tokens": [
         {
-          "t": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"
+          "t": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth? "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)",
       "tokens": [
         {
-          "t": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)"
+          "t": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.) "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
       "tokens": [
         {
-          "t": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"
+          "t": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
       "tokens": [
         {
-          "t": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
+          "t": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
       "tokens": [
         {
-          "t": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:"
+          "t": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;",
       "tokens": [
         {
-          "t": "That we"
+          "t": "That we "
         },
         {
           "add": "henceforth"
         },
         {
-          "t": "be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men,"
+          "t": " be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, "
         },
         {
           "add": "and"
         },
         {
-          "t": "cunning craftiness, whereby they lie in wait to deceive;"
+          "t": " cunning craftiness, whereby they lie in wait to deceive; "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:",
       "tokens": [
         {
-          "t": "But speaking the truth in love, may grow up into him in all things, which is the head,"
+          "t": "But speaking the truth in love, may grow up into him in all things, which is the head, "
         },
         {
           "add": "even"
         },
         {
-          "t": "Christ:"
+          "t": " Christ: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.",
       "tokens": [
         {
-          "t": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love."
+          "t": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
       "tokens": [
         {
-          "t": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,"
+          "t": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:",
       "tokens": [
         {
-          "t": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
+          "t": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.",
       "tokens": [
         {
-          "t": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness."
+          "t": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "But ye have not so learned Christ;",
       "tokens": [
         {
-          "t": "But ye have not so learned Christ;"
+          "t": "But ye have not so learned Christ; "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:",
       "tokens": [
         {
-          "t": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:"
+          "t": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;",
       "tokens": [
         {
-          "t": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
+          "t": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts; "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And be renewed in the spirit of your mind;",
       "tokens": [
         {
-          "t": "And be renewed in the spirit of your mind;"
+          "t": "And be renewed in the spirit of your mind; "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And that ye put on the new man, which after God is created in righteousness and true holiness.",
       "tokens": [
         {
-          "t": "And that ye put on the new man, which after God is created in righteousness and true holiness."
+          "t": "And that ye put on the new man, which after God is created in righteousness and true holiness. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
       "tokens": [
         {
-          "t": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
+          "t": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Be ye angry, and sin not: let not the sun go down upon your wrath:",
       "tokens": [
         {
-          "t": "Be ye angry, and sin not: let not the sun go down upon your wrath:"
+          "t": "Be ye angry, and sin not: let not the sun go down upon your wrath: "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Neither give place to the devil.",
       "tokens": [
         {
-          "t": "Neither give place to the devil."
+          "t": "Neither give place to the devil. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.",
       "tokens": [
         {
-          "t": "Let him that stole steal no more: but rather let him labour, working with"
+          "t": "Let him that stole steal no more: but rather let him labour, working with "
         },
         {
           "add": "his"
         },
         {
-          "t": "hands the thing which is good, that he may have to give to him that needeth."
+          "t": " hands the thing which is good, that he may have to give to him that needeth. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
       "tokens": [
         {
-          "t": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
+          "t": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
       "tokens": [
         {
-          "t": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
+          "t": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
       "tokens": [
         {
-          "t": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
+          "t": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice: "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.",
       "tokens": [
         {
-          "t": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you."
+          "t": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you. "
         }
       ]
     }

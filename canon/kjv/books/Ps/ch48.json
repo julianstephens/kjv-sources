@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 48,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness.",
+      "tokens": [
+        {
+          "t": "Great "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", and greatly to be praised in the city of our God, "
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": " the mountain of his holiness. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.",
+      "tokens": [
+        {
+          "t": "Beautiful for situation, the joy of the whole earth, "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " mount Zion, "
+        },
+        {
+          "add": "on"
+        },
+        {
+          "t": " the sides of the north, the city of the great King. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "God is known in her palaces for a refuge.",
+      "tokens": [
+        {
+          "t": "God is known in her palaces for a refuge. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "For, lo, the kings were assembled, they passed by together.",
+      "tokens": [
+        {
+          "t": "For, lo, the kings were assembled, they passed by together. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "They saw it, and so they marvelled; they were troubled, and hasted away.",
+      "tokens": [
+        {
+          "t": "They saw "
+        },
+        {
+          "add": "it, and"
+        },
+        {
+          "t": " so they marvelled; they were troubled, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " hasted away. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Fear took hold upon them there, and pain, as of a woman in travail.",
+      "tokens": [
+        {
+          "t": "Fear took hold upon them there, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " pain, as of a woman in travail. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Thou breakest the ships of Tarshish with an east wind.",
+      "tokens": [
+        {
+          "t": "Thou breakest the ships of Tarshish with an east wind. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah.",
+      "tokens": [
+        {
+          "t": "As we have heard, so have we seen in the city of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " of hosts, in the city of our God: God will establish it for ever. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "We have thought of thy lovingkindness, O God, in the midst of thy temple.",
+      "tokens": [
+        {
+          "t": "We have thought of thy lovingkindness, O God, in the midst of thy temple. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "According to thy name, O God, so is thy praise unto the ends of the earth: thy right hand is full of righteousness.",
+      "tokens": [
+        {
+          "t": "According to thy name, O God, so "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " thy praise unto the ends of the earth: thy right hand is full of righteousness. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.",
+      "tokens": [
+        {
+          "t": "Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Walk about Zion, and go round about her: tell the towers thereof.",
+      "tokens": [
+        {
+          "t": "Walk about Zion, and go round about her: tell the towers thereof. "
+        }
+      ]
+    },
+    {
+      "v": 13,
+      "plain": "Mark ye well her bulwarks, consider her palaces; that ye may tell it to the generation following.",
+      "tokens": [
+        {
+          "t": "Mark ye well her bulwarks, consider her palaces; that ye may tell "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " to the generation following. "
+        }
+      ]
+    },
+    {
+      "v": 14,
+      "plain": "For this God is our God for ever and ever: he will be our guide even unto death.",
+      "tokens": [
+        {
+          "t": "For this God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " our God for ever and ever: he will be our guide "
+        },
+        {
+          "add": "even"
+        },
+        {
+          "t": " unto death. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "for: or, of"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 13
+      },
+      "text": "Mark…: Heb. Set your heart to"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 13
+      },
+      "text": "consider: or, raise up"
+    }
+  ]
+}

@@ -7,247 +7,262 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?",
       "tokens": [
         {
-          "t": "Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why"
+          "t": "Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why "
         },
         {
           "add": "art"
         },
         {
-          "t": "thou alone, and no man with thee?"
+          "t": " thou alone, and no man with thee? "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed my servants to such and such a place.",
       "tokens": [
         {
-          "t": "And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed"
+          "t": "And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed "
         },
         {
           "add": "my"
         },
         {
-          "t": "servants to such and such a place."
+          "t": " servants to such and such a place. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present.",
       "tokens": [
         {
-          "t": "Now therefore what is under thine hand? give"
+          "t": "Now therefore what is under thine hand? give "
         },
         {
           "add": "me"
         },
         {
-          "t": "five"
+          "t": " five "
         },
         {
           "add": "loaves of"
         },
         {
-          "t": "bread in mine hand, or what there is present."
+          "t": " bread in mine hand, or what there is present. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.",
       "tokens": [
         {
-          "t": "And the priest answered David, and said,"
+          "t": "And the priest answered David, and said, "
         },
         {
           "add": "There is"
         },
         {
-          "t": "no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women."
+          "t": " no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.",
       "tokens": [
         {
-          "t": "And David answered the priest, and said unto him, Of a truth women"
+          "t": "And David answered the priest, and said unto him, Of a truth women "
         },
         {
           "add": "have been"
         },
         {
-          "t": "kept from us about these three days, since I came out, and the vessels of the young men are holy, and"
+          "t": " kept from us about these three days, since I came out, and the vessels of the young men are holy, and "
         },
         {
           "add": "the bread is"
         },
         {
-          "t": "in a manner common, yea, though it were sanctified this day in the vessel."
+          "t": " in a manner common, yea, though it were sanctified this day in the vessel. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the LORD, to put hot bread in the day when it was taken away.",
       "tokens": [
         {
-          "t": "So the priest gave him hallowed"
+          "t": "So the priest gave him hallowed "
         },
         {
           "add": "bread:"
         },
         {
-          "t": "for there was no bread there but the shewbread, that was taken from before the"
+          "t": " for there was no bread there but the shewbread, that was taken from before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to put hot bread in the day when it was taken away."
+          "t": ", to put hot bread in the day when it was taken away. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Now a certain man of the servants of Saul was there that day, detained before the LORD; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul.",
       "tokens": [
         {
-          "t": "Now a certain man of the servants of Saul"
+          "t": "Now a certain man of the servants of Saul "
         },
         {
           "add": "was"
         },
         {
-          "t": "there that day, detained before the"
+          "t": " there that day, detained before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and his name"
+          "t": "; and his name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Doeg, an Edomite, the chiefest of the herdmen that"
+          "t": " Doeg, an Edomite, the chiefest of the herdmen that "
         },
         {
           "add": "belonged"
         },
         {
-          "t": "to Saul."
+          "t": " to Saul. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste.",
       "tokens": [
         {
-          "t": "¶ And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste."
+          "t": "¶ And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if thou wilt take that, take it: for there is no other save that here. And David said, There is none like that; give it me.",
       "tokens": [
         {
-          "t": "And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it"
+          "t": "And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it "
         },
         {
           "add": "is here"
         },
         {
-          "t": "wrapped in a cloth behind the ephod: if thou wilt take that, take"
+          "t": " wrapped in a cloth behind the ephod: if thou wilt take that, take "
         },
         {
           "add": "it:"
         },
         {
-          "t": "for"
+          "t": " for "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no other save that here. And David said,"
+          "t": " no other save that here. And David said, "
         },
         {
           "add": "There is"
         },
         {
-          "t": "none like that; give it me."
+          "t": " none like that; give it me. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath.",
       "tokens": [
         {
-          "t": "¶ And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath."
+          "t": "¶ And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?",
       "tokens": [
         {
-          "t": "And the servants of Achish said unto him,"
+          "t": "And the servants of Achish said unto him, "
         },
         {
           "add": "Is"
         },
         {
-          "t": "not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?"
+          "t": " not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath.",
       "tokens": [
         {
-          "t": "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath."
+          "t": "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he changed his behaviour before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard.",
       "tokens": [
         {
-          "t": "And he changed his behaviour before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard."
+          "t": "And he changed his behaviour before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Then said Achish unto his servants, Lo, ye see the man is mad: wherefore then have ye brought him to me?",
       "tokens": [
         {
-          "t": "Then said Achish unto his servants, Lo, ye see the man is mad: wherefore"
+          "t": "Then said Achish unto his servants, Lo, ye see the man is mad: wherefore "
         },
         {
           "add": "then"
         },
         {
-          "t": "have ye brought him to me?"
+          "t": " have ye brought him to me? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Have I need of mad men, that ye have brought this fellow to play the mad man in my presence? shall this fellow come into my house?",
       "tokens": [
         {
-          "t": "Have I need of mad men, that ye have brought this"
+          "t": "Have I need of mad men, that ye have brought this "
         },
         {
           "add": "fellow"
         },
         {
-          "t": "to play the mad man in my presence? shall this"
+          "t": " to play the mad man in my presence? shall this "
         },
         {
           "add": "fellow"
         },
         {
-          "t": "come into my house?"
+          "t": " come into my house? "
         }
       ]
     }

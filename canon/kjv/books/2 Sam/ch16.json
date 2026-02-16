@@ -7,347 +7,370 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And when David was a little past the top of the hill, behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred loaves of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine.",
       "tokens": [
         {
-          "t": "And when David was a little past the top"
+          "t": "And when David was a little past the top "
         },
         {
           "add": "of the hill"
         },
         {
-          "t": ", behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred"
+          "t": ", behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred "
         },
         {
           "add": "loaves"
         },
         {
-          "t": "of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine."
+          "t": " of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the king said unto Ziba, What meanest thou by these? And Ziba said, The asses be for the king’s household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that such as be faint in the wilderness may drink.",
       "tokens": [
         {
-          "t": "And the king said unto Ziba, What meanest thou by these? And Ziba said, The asses"
+          "t": "And the king said unto Ziba, What meanest thou by these? And Ziba said, The asses "
         },
         {
           "add": "be"
         },
         {
-          "t": "for the king’s household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that such as be faint in the wilderness may drink."
+          "t": " for the king’s household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that such as be faint in the wilderness may drink. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the king said, And where is thy master’s son? And Ziba said unto the king, Behold, he abideth at Jerusalem: for he said, To day shall the house of Israel restore me the kingdom of my father.",
       "tokens": [
         {
-          "t": "And the king said, And where"
+          "t": "And the king said, And where "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy master’s son? And Ziba said unto the king, Behold, he abideth at Jerusalem: for he said, To day shall the house of Israel restore me the kingdom of my father."
+          "t": " thy master’s son? And Ziba said unto the king, Behold, he abideth at Jerusalem: for he said, To day shall the house of Israel restore me the kingdom of my father. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Then said the king to Ziba, Behold, thine are all that pertained unto Mephibosheth. And Ziba said, I humbly beseech thee that I may find grace in thy sight, my lord, O king.",
       "tokens": [
         {
-          "t": "Then said the king to Ziba, Behold, thine"
+          "t": "Then said the king to Ziba, Behold, thine "
         },
         {
           "add": "are"
         },
         {
-          "t": "all that"
+          "t": " all that "
         },
         {
           "add": "pertained"
         },
         {
-          "t": "unto Mephibosheth. And Ziba said, I humbly beseech thee"
+          "t": " unto Mephibosheth. And Ziba said, I humbly beseech thee "
         },
         {
           "add": "that"
         },
         {
-          "t": "I may find grace in thy sight, my lord, O king."
+          "t": " I may find grace in thy sight, my lord, O king. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.",
       "tokens": [
         {
-          "t": "¶ And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name"
+          "t": "¶ And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Shimei, the son of Gera: he came forth, and cursed still as he came."
+          "t": " Shimei, the son of Gera: he came forth, and cursed still as he came. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on his right hand and on his left.",
       "tokens": [
         {
-          "t": "And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men"
+          "t": "And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men "
         },
         {
           "add": "were"
         },
         {
-          "t": "on his right hand and on his left."
+          "t": " on his right hand and on his left. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:",
       "tokens": [
         {
-          "t": "And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:"
+          "t": "And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "The LORD hath returned upon thee all the blood of the house of Saul, in whose stead thou hast reigned; and the LORD hath delivered the kingdom into the hand of Absalom thy son: and, behold, thou art taken in thy mischief, because thou art a bloody man.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath returned upon thee all the blood of the house of Saul, in whose stead thou hast reigned; and the"
+          "t": " hath returned upon thee all the blood of the house of Saul, in whose stead thou hast reigned; and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath delivered the kingdom into the hand of Absalom thy son: and, behold, thou"
+          "t": " hath delivered the kingdom into the hand of Absalom thy son: and, behold, thou "
         },
         {
           "add": "art taken"
         },
         {
-          "t": "in thy mischief, because thou"
+          "t": " in thy mischief, because thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "a bloody man."
+          "t": " a bloody man. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head.",
       "tokens": [
         {
-          "t": "¶ Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head."
+          "t": "¶ Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the LORD hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so?",
       "tokens": [
         {
-          "t": "And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the"
+          "t": "And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so?"
+          "t": " hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the LORD hath bidden him.",
       "tokens": [
         {
-          "t": "And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now"
+          "t": "And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now "
         },
         {
           "add": "may this"
         },
         {
-          "t": "Benjamite"
+          "t": " Benjamite "
         },
         {
           "add": "do it"
         },
         {
-          "t": "? let him alone, and let him curse; for the"
+          "t": "? let him alone, and let him curse; for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath bidden him."
+          "t": " hath bidden him. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "It may be that the LORD will look on mine affliction, and that the LORD will requite me good for his cursing this day.",
       "tokens": [
         {
-          "t": "It may be that the"
+          "t": "It may be that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will look on mine affliction, and that the"
+          "t": " will look on mine affliction, and that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will requite me good for his cursing this day."
+          "t": " will requite me good for his cursing this day. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And as David and his men went by the way, Shimei went along on the hill’s side over against him, and cursed as he went, and threw stones at him, and cast dust.",
       "tokens": [
         {
-          "t": "And as David and his men went by the way, Shimei went along on the hill’s side over against him, and cursed as he went, and threw stones at him, and cast dust."
+          "t": "And as David and his men went by the way, Shimei went along on the hill’s side over against him, and cursed as he went, and threw stones at him, and cast dust. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the king, and all the people that were with him, came weary, and refreshed themselves there.",
       "tokens": [
         {
-          "t": "And the king, and all the people that"
+          "t": "And the king, and all the people that "
         },
         {
           "add": "were"
         },
         {
-          "t": "with him, came weary, and refreshed themselves there."
+          "t": " with him, came weary, and refreshed themselves there. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him.",
       "tokens": [
         {
-          "t": "¶ And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him."
+          "t": "¶ And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And it came to pass, when Hushai the Archite, David’s friend, was come unto Absalom, that Hushai said unto Absalom, God save the king, God save the king.",
       "tokens": [
         {
-          "t": "And it came to pass, when Hushai the Archite, David’s friend, was come unto Absalom, that Hushai said unto Absalom, God save the king, God save the king."
+          "t": "And it came to pass, when Hushai the Archite, David’s friend, was come unto Absalom, that Hushai said unto Absalom, God save the king, God save the king. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Absalom said to Hushai, Is this thy kindness to thy friend? why wentest thou not with thy friend?",
       "tokens": [
         {
-          "t": "And Absalom said to Hushai,"
+          "t": "And Absalom said to Hushai, "
         },
         {
           "add": "Is"
         },
         {
-          "t": "this thy kindness to thy friend? why wentest thou not with thy friend?"
+          "t": " this thy kindness to thy friend? why wentest thou not with thy friend? "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And Hushai said unto Absalom, Nay; but whom the LORD, and this people, and all the men of Israel, choose, his will I be, and with him will I abide.",
       "tokens": [
         {
-          "t": "And Hushai said unto Absalom, Nay; but whom the"
+          "t": "And Hushai said unto Absalom, Nay; but whom the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and this people, and all the men of Israel, choose, his will I be, and with him will I abide."
+          "t": ", and this people, and all the men of Israel, choose, his will I be, and with him will I abide. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And again, whom should I serve? should I not serve in the presence of his son? as I have served in thy father’s presence, so will I be in thy presence.",
       "tokens": [
         {
-          "t": "And again, whom should I serve?"
+          "t": "And again, whom should I serve? "
         },
         {
           "add": "should I"
         },
         {
-          "t": "not"
+          "t": " not "
         },
         {
           "add": "serve"
         },
         {
-          "t": "in the presence of his son? as I have served in thy father’s presence, so will I be in thy presence."
+          "t": " in the presence of his son? as I have served in thy father’s presence, so will I be in thy presence. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ Then said Absalom to Ahithophel, Give counsel among you what we shall do.",
       "tokens": [
         {
-          "t": "¶ Then said Absalom to Ahithophel, Give counsel among you what we shall do."
+          "t": "¶ Then said Absalom to Ahithophel, Give counsel among you what we shall do. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And Ahithophel said unto Absalom, Go in unto thy father’s concubines, which he hath left to keep the house; and all Israel shall hear that thou art abhorred of thy father: then shall the hands of all that are with thee be strong.",
       "tokens": [
         {
-          "t": "And Ahithophel said unto Absalom, Go in unto thy father’s concubines, which he hath left to keep the house; and all Israel shall hear that thou art abhorred of thy father: then shall the hands of all that"
+          "t": "And Ahithophel said unto Absalom, Go in unto thy father’s concubines, which he hath left to keep the house; and all Israel shall hear that thou art abhorred of thy father: then shall the hands of all that "
         },
         {
           "add": "are"
         },
         {
-          "t": "with thee be strong."
+          "t": " with thee be strong. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "So they spread Absalom a tent upon the top of the house; and Absalom went in unto his father’s concubines in the sight of all Israel.",
       "tokens": [
         {
-          "t": "So they spread Absalom a tent upon the top of the house; and Absalom went in unto his father’s concubines in the sight of all Israel."
+          "t": "So they spread Absalom a tent upon the top of the house; and Absalom went in unto his father’s concubines in the sight of all Israel. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And the counsel of Ahithophel, which he counselled in those days, was as if a man had enquired at the oracle of God: so was all the counsel of Ahithophel both with David and with Absalom.",
       "tokens": [
         {
-          "t": "And the counsel of Ahithophel, which he counselled in those days,"
+          "t": "And the counsel of Ahithophel, which he counselled in those days, "
         },
         {
           "add": "was"
         },
         {
-          "t": "as if a man had enquired at the oracle of God: so"
+          "t": " as if a man had enquired at the oracle of God: so "
         },
         {
           "add": "was"
         },
         {
-          "t": "all the counsel of Ahithophel both with David and with Absalom."
+          "t": " all the counsel of Ahithophel both with David and with Absalom. "
         }
       ]
     }

@@ -7,667 +7,721 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first"
+          "t": " spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the second month, in the second year after they were come out of the land of Egypt, saying,"
+          "t": " of the second month, in the second year after they were come out of the land of Egypt, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;",
       "tokens": [
         {
-          "t": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of"
+          "t": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of "
         },
         {
           "add": "their"
         },
         {
-          "t": "names, every male by their polls;"
+          "t": " names, every male by their polls; "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.",
       "tokens": [
         {
-          "t": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies."
+          "t": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And with you there shall be a man of every tribe; every one head of the house of his fathers.",
       "tokens": [
         {
-          "t": "And with you there shall be a man of every tribe; every one head of the house of his fathers."
+          "t": "And with you there shall be a man of every tribe; every one head of the house of his fathers. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur.",
       "tokens": [
         {
-          "t": "¶ And these"
+          "t": "¶ And these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the names of the men that shall stand with you: of"
+          "t": " the names of the men that shall stand with you: of "
         },
         {
           "add": "the tribe of"
         },
         {
-          "t": "Reuben; Elizur the son of Shedeur."
+          "t": " Reuben; Elizur the son of Shedeur. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Of Simeon; Shelumiel the son of Zurishaddai.",
       "tokens": [
         {
-          "t": "Of Simeon; Shelumiel the son of Zurishaddai."
+          "t": "Of Simeon; Shelumiel the son of Zurishaddai. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Of Judah; Nahshon the son of Amminadab.",
       "tokens": [
         {
-          "t": "Of Judah; Nahshon the son of Amminadab."
+          "t": "Of Judah; Nahshon the son of Amminadab. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Of Issachar; Nethaneel the son of Zuar.",
       "tokens": [
         {
-          "t": "Of Issachar; Nethaneel the son of Zuar."
+          "t": "Of Issachar; Nethaneel the son of Zuar. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Of Zebulun; Eliab the son of Helon.",
       "tokens": [
         {
-          "t": "Of Zebulun; Eliab the son of Helon."
+          "t": "Of Zebulun; Eliab the son of Helon. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.",
       "tokens": [
         {
-          "t": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur."
+          "t": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Of Benjamin; Abidan the son of Gideoni.",
       "tokens": [
         {
-          "t": "Of Benjamin; Abidan the son of Gideoni."
+          "t": "Of Benjamin; Abidan the son of Gideoni. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Of Dan; Ahiezer the son of Ammishaddai.",
       "tokens": [
         {
-          "t": "Of Dan; Ahiezer the son of Ammishaddai."
+          "t": "Of Dan; Ahiezer the son of Ammishaddai. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Of Asher; Pagiel the son of Ocran.",
       "tokens": [
         {
-          "t": "Of Asher; Pagiel the son of Ocran."
+          "t": "Of Asher; Pagiel the son of Ocran. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Of Gad; Eliasaph the son of Deuel.",
       "tokens": [
         {
-          "t": "Of Gad; Eliasaph the son of Deuel."
+          "t": "Of Gad; Eliasaph the son of Deuel. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Of Naphtali; Ahira the son of Enan.",
       "tokens": [
         {
-          "t": "Of Naphtali; Ahira the son of Enan."
+          "t": "Of Naphtali; Ahira the son of Enan. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "These were the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": " were"
         },
         {
-          "t": "the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel."
+          "t": " the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And Moses and Aaron took these men which are expressed by their names:",
       "tokens": [
         {
-          "t": "¶ And Moses and Aaron took these men which are expressed by"
+          "t": "¶ And Moses and Aaron took these men which are expressed by "
         },
         {
           "add": "their"
         },
         {
-          "t": "names:"
+          "t": " names: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.",
       "tokens": [
         {
-          "t": "And they assembled all the congregation together on the first"
+          "t": "And they assembled all the congregation together on the first "
         },
         {
           "add": "day"
         },
         {
-          "t": "of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls."
+          "t": " of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.",
       "tokens": [
         {
-          "t": "As the"
+          "t": "As the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded Moses, so he numbered them in the wilderness of Sinai."
+          "t": " commanded Moses, so he numbered them in the wilderness of Sinai. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And the children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "And the children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;"
+          "t": "And the children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Those that were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Reuben,"
+          "t": " of the tribe of Reuben, "
         },
         {
           "add": "were"
         },
         {
-          "t": "forty and six thousand and five hundred."
+          "t": " forty and six thousand and five hundred. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Those that were numbered of them, even of the tribe of Simeon, were fifty and nine thousand and three hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Simeon,"
+          "t": " of the tribe of Simeon, "
         },
         {
           "add": "were"
         },
         {
-          "t": "fifty and nine thousand and three hundred."
+          "t": " fifty and nine thousand and three hundred. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "¶ Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Those that were numbered of them, even of the tribe of Gad, were forty and five thousand six hundred and fifty.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Gad,"
+          "t": " of the tribe of Gad, "
         },
         {
           "add": "were"
         },
         {
-          "t": "forty and five thousand six hundred and fifty."
+          "t": " forty and five thousand six hundred and fifty. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "¶ Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Judah,"
+          "t": " of the tribe of Judah, "
         },
         {
           "add": "were"
         },
         {
-          "t": "threescore and fourteen thousand and six hundred."
+          "t": " threescore and fourteen thousand and six hundred. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "¶ Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Those that were numbered of them, even of the tribe of Issachar, were fifty and four thousand and four hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Issachar,"
+          "t": " of the tribe of Issachar, "
         },
         {
           "add": "were"
         },
         {
-          "t": "fifty and four thousand and four hundred."
+          "t": " fifty and four thousand and four hundred. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "¶ Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Those that were numbered of them, even of the tribe of Zebulun, were fifty and seven thousand and four hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Zebulun,"
+          "t": " of the tribe of Zebulun, "
         },
         {
           "add": "were"
         },
         {
-          "t": "fifty and seven thousand and four hundred."
+          "t": " fifty and seven thousand and four hundred. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "¶ Of the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Joseph,"
+          "t": "¶ Of the children of Joseph, "
         },
         {
           "add": "namely"
         },
         {
-          "t": ", of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": ", of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Ephraim,"
+          "t": " of the tribe of Ephraim, "
         },
         {
           "add": "were"
         },
         {
-          "t": "forty thousand and five hundred."
+          "t": " forty thousand and five hundred. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "¶ Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "Those that were numbered of them, even of the tribe of Manasseh, were thirty and two thousand and two hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Manasseh,"
+          "t": " of the tribe of Manasseh, "
         },
         {
           "add": "were"
         },
         {
-          "t": "thirty and two thousand and two hundred."
+          "t": " thirty and two thousand and two hundred. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "¶ Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Those that were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Benjamin,"
+          "t": " of the tribe of Benjamin, "
         },
         {
           "add": "were"
         },
         {
-          "t": "thirty and five thousand and four hundred."
+          "t": " thirty and five thousand and four hundred. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "¶ Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "Those that were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Dan,"
+          "t": " of the tribe of Dan, "
         },
         {
           "add": "were"
         },
         {
-          "t": "threescore and two thousand and seven hundred."
+          "t": " threescore and two thousand and seven hundred. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "¶ Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "Those that were numbered of them, even of the tribe of Asher, were forty and one thousand and five hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Asher,"
+          "t": " of the tribe of Asher, "
         },
         {
           "add": "were"
         },
         {
-          "t": "forty and one thousand and five hundred."
+          "t": " forty and one thousand and five hundred. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "¶ Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
       "tokens": [
         {
-          "t": "¶ Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+          "t": "¶ Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war; "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "Those that were numbered of them, even of the tribe of Naphtali, were fifty and three thousand and four hundred.",
       "tokens": [
         {
-          "t": "Those that were numbered of them,"
+          "t": "Those that were numbered of them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "of the tribe of Naphtali,"
+          "t": " of the tribe of Naphtali, "
         },
         {
           "add": "were"
         },
         {
-          "t": "fifty and three thousand and four hundred."
+          "t": " fifty and three thousand and four hundred. "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "those that were numbered, which Moses and Aaron numbered, and the princes of Israel,"
+          "t": " those that were numbered, which Moses and Aaron numbered, and the princes of Israel, "
         },
         {
           "add": "being"
         },
         {
-          "t": "twelve men: each one was for the house of his fathers."
+          "t": " twelve men: each one was for the house of his fathers. "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;",
       "tokens": [
         {
-          "t": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;"
+          "t": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel; "
         }
       ]
     },
     {
       "v": 46,
+      "plain": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.",
       "tokens": [
         {
-          "t": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty."
+          "t": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty. "
         }
       ]
     },
     {
       "v": 47,
+      "plain": "¶ But the Levites after the tribe of their fathers were not numbered among them.",
       "tokens": [
         {
-          "t": "¶ But the Levites after the tribe of their fathers were not numbered among them."
+          "t": "¶ But the Levites after the tribe of their fathers were not numbered among them. "
         }
       ]
     },
     {
       "v": 48,
+      "plain": "For the LORD had spoken unto Moses, saying,",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "had spoken unto Moses, saying,"
+          "t": " had spoken unto Moses, saying, "
         }
       ]
     },
     {
       "v": 49,
+      "plain": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:",
       "tokens": [
         {
-          "t": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:"
+          "t": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel: "
         }
       ]
     },
     {
       "v": 50,
+      "plain": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.",
       "tokens": [
         {
-          "t": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that"
+          "t": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that "
         },
         {
           "add": "belong"
         },
         {
-          "t": "to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle."
+          "t": " to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle. "
         }
       ]
     },
     {
       "v": 51,
+      "plain": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.",
       "tokens": [
         {
-          "t": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death."
+          "t": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death. "
         }
       ]
     },
     {
       "v": 52,
+      "plain": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.",
       "tokens": [
         {
-          "t": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts."
+          "t": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts. "
         }
       ]
     },
     {
       "v": 53,
+      "plain": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.",
       "tokens": [
         {
-          "t": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony."
+          "t": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony. "
         }
       ]
     },
     {
       "v": 54,
+      "plain": "And the children of Israel did according to all that the LORD commanded Moses, so did they.",
       "tokens": [
         {
-          "t": "And the children of Israel did according to all that the"
+          "t": "And the children of Israel did according to all that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded Moses, so did they."
+          "t": " commanded Moses, so did they. "
         }
       ]
     }

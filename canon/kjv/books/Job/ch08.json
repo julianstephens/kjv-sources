@@ -7,285 +7,307 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then answered Bildad the Shuhite, and said,",
       "tokens": [
         {
-          "t": "Then answered Bildad the Shuhite, and said,"
+          "t": "Then answered Bildad the Shuhite, and said, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "How long wilt thou speak these things? and how long shall the words of thy mouth be like a strong wind?",
       "tokens": [
         {
-          "t": "How long wilt thou speak these"
+          "t": "How long wilt thou speak these "
         },
         {
           "add": "things"
         },
         {
-          "t": "? and"
+          "t": "? and "
         },
         {
           "add": "how long shall"
         },
         {
-          "t": "the words of thy mouth"
+          "t": " the words of thy mouth "
         },
         {
           "add": "be like"
         },
         {
-          "t": "a strong wind?"
+          "t": " a strong wind? "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Doth God pervert judgment? or doth the Almighty pervert justice?",
       "tokens": [
         {
-          "t": "Doth God pervert judgment? or doth the Almighty pervert justice?"
+          "t": "Doth God pervert judgment? or doth the Almighty pervert justice? "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "If thy children have sinned against him, and he have cast them away for their transgression;",
       "tokens": [
         {
-          "t": "If thy children have sinned against him, and he have cast them away for their transgression;"
+          "t": "If thy children have sinned against him, and he have cast them away for their transgression; "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;",
       "tokens": [
         {
-          "t": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;"
+          "t": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty; "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.",
       "tokens": [
         {
-          "t": "If thou"
+          "t": "If thou "
         },
         {
           "add": "wert"
         },
         {
-          "t": "pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous."
+          "t": " pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Though thy beginning was small, yet thy latter end should greatly increase.",
       "tokens": [
         {
-          "t": "Though thy beginning was small, yet thy latter end should greatly increase."
+          "t": "Though thy beginning was small, yet thy latter end should greatly increase. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:",
       "tokens": [
         {
-          "t": "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:"
+          "t": "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)",
       "tokens": [
         {
-          "t": "(For we"
+          "t": "(For we "
         },
         {
           "add": "are but of"
         },
         {
-          "t": "yesterday, and know nothing, because our days upon earth"
+          "t": " yesterday, and know nothing, because our days upon earth "
         },
         {
           "add": "are"
         },
         {
-          "t": "a shadow:)"
+          "t": " a shadow:) "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Shall not they teach thee, and tell thee, and utter words out of their heart?",
       "tokens": [
         {
-          "t": "Shall not they teach thee,"
+          "t": "Shall not they teach thee, "
         },
         {
           "add": "and"
         },
         {
-          "t": "tell thee, and utter words out of their heart?"
+          "t": " tell thee, and utter words out of their heart? "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Can the rush grow up without mire? can the flag grow without water?",
       "tokens": [
         {
-          "t": "Can the rush grow up without mire? can the flag grow without water?"
+          "t": "Can the rush grow up without mire? can the flag grow without water? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Whilst it is yet in his greenness, and not cut down, it withereth before any other herb.",
       "tokens": [
         {
-          "t": "Whilst it"
+          "t": "Whilst it "
         },
         {
           "add": "is"
         },
         {
-          "t": "yet in his greenness,"
+          "t": " yet in his greenness, "
         },
         {
           "add": "and"
         },
         {
-          "t": "not cut down, it withereth before any"
+          "t": " not cut down, it withereth before any "
         },
         {
           "add": "other"
         },
         {
-          "t": "herb."
+          "t": " herb. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "So are the paths of all that forget God; and the hypocrite’s hope shall perish:",
       "tokens": [
         {
-          "t": "So"
+          "t": "So "
         },
         {
           "add": "are"
         },
         {
-          "t": "the paths of all that forget God; and the hypocrite’s hope shall perish:"
+          "t": " the paths of all that forget God; and the hypocrite’s hope shall perish: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Whose hope shall be cut off, and whose trust shall be a spider’s web.",
       "tokens": [
         {
-          "t": "Whose hope shall be cut off, and whose trust"
+          "t": "Whose hope shall be cut off, and whose trust "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a spider’s web."
+          "t": " a spider’s web. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.",
       "tokens": [
         {
-          "t": "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure."
+          "t": "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "He is green before the sun, and his branch shooteth forth in his garden.",
       "tokens": [
         {
-          "t": "He"
+          "t": "He "
         },
         {
           "add": "is"
         },
         {
-          "t": "green before the sun, and his branch shooteth forth in his garden."
+          "t": " green before the sun, and his branch shooteth forth in his garden. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "His roots are wrapped about the heap, and seeth the place of stones.",
       "tokens": [
         {
-          "t": "His roots are wrapped about the heap,"
+          "t": "His roots are wrapped about the heap, "
         },
         {
           "add": "and"
         },
         {
-          "t": "seeth the place of stones."
+          "t": " seeth the place of stones. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "If he destroy him from his place, then it shall deny him, saying, I have not seen thee.",
       "tokens": [
         {
-          "t": "If he destroy him from his place, then"
+          "t": "If he destroy him from his place, then "
         },
         {
           "add": "it"
         },
         {
-          "t": "shall deny him,"
+          "t": " shall deny him, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", I have not seen thee."
+          "t": ", I have not seen thee. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Behold, this is the joy of his way, and out of the earth shall others grow.",
       "tokens": [
         {
-          "t": "Behold, this"
+          "t": "Behold, this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the joy of his way, and out of the earth shall others grow."
+          "t": " the joy of his way, and out of the earth shall others grow. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Behold, God will not cast away a perfect man, neither will he help the evil doers:",
       "tokens": [
         {
-          "t": "Behold, God will not cast away a perfect"
+          "t": "Behold, God will not cast away a perfect "
         },
         {
           "add": "man"
         },
         {
-          "t": ", neither will he help the evil doers:"
+          "t": ", neither will he help the evil doers: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Till he fill thy mouth with laughing, and thy lips with rejoicing.",
       "tokens": [
         {
-          "t": "Till he fill thy mouth with laughing, and thy lips with rejoicing."
+          "t": "Till he fill thy mouth with laughing, and thy lips with rejoicing. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.",
       "tokens": [
         {
-          "t": "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought."
+          "t": "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought. "
         }
       ]
     }

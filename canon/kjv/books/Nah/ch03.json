@@ -7,288 +7,307 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;",
       "tokens": [
         {
-          "t": "Woe to the bloody city! it"
+          "t": "Woe to the bloody city! it "
         },
         {
           "add": "is"
         },
         {
-          "t": "all full of lies"
+          "t": " all full of lies "
         },
         {
           "add": "and"
         },
         {
-          "t": "robbery; the prey departeth not;"
+          "t": " robbery; the prey departeth not; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.",
       "tokens": [
         {
-          "t": "The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots."
+          "t": "The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The horseman lifteth up both the bright sword and the glittering spear: and there is a multitude of slain, and a great number of carcases; and there is none end of their corpses; they stumble upon their corpses:",
       "tokens": [
         {
-          "t": "The horseman lifteth up both the bright sword and the glittering spear: and"
+          "t": "The horseman lifteth up both the bright sword and the glittering spear: and "
         },
         {
           "add": "there is"
         },
         {
-          "t": "a multitude of slain, and a great number of carcases; and"
+          "t": " a multitude of slain, and a great number of carcases; and "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none end of"
+          "t": " none end of "
         },
         {
           "add": "their"
         },
         {
-          "t": "corpses; they stumble upon their corpses:"
+          "t": " corpses; they stumble upon their corpses: "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.",
       "tokens": [
         {
-          "t": "Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts."
+          "t": "Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Behold, I am against thee, saith the LORD of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame.",
       "tokens": [
         {
-          "t": "Behold, I"
+          "t": "Behold, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "against thee, saith the"
+          "t": " against thee, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame."
+          "t": " of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock.",
       "tokens": [
         {
-          "t": "And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock."
+          "t": "And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?",
       "tokens": [
         {
-          "t": "And it shall come to pass,"
+          "t": "And it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": "all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?"
+          "t": " all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Art thou better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?",
       "tokens": [
         {
-          "t": "Art thou better than populous No, that was situate among the rivers,"
+          "t": "Art thou better than populous No, that was situate among the rivers, "
         },
         {
           "add": "that had"
         },
         {
-          "t": "the waters round about it, whose rampart"
+          "t": " the waters round about it, whose rampart "
         },
         {
           "add": "was"
         },
         {
-          "t": "the sea,"
+          "t": " the sea, "
         },
         {
           "add": "and"
         },
         {
-          "t": "her wall"
+          "t": " her wall "
         },
         {
           "add": "was"
         },
         {
-          "t": "from the sea?"
+          "t": " from the sea? "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Ethiopia and Egypt were her strength, and it was infinite; Put and Lubim were thy helpers.",
       "tokens": [
         {
-          "t": "Ethiopia and Egypt"
+          "t": "Ethiopia and Egypt "
         },
         {
           "add": "were"
         },
         {
-          "t": "her strength, and"
+          "t": " her strength, and "
         },
         {
           "add": "it was"
         },
         {
-          "t": "infinite; Put and Lubim were thy helpers."
+          "t": " infinite; Put and Lubim were thy helpers. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Yet was she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains.",
       "tokens": [
         {
-          "t": "Yet"
+          "t": "Yet "
         },
         {
           "add": "was"
         },
         {
-          "t": "she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains."
+          "t": " she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy.",
       "tokens": [
         {
-          "t": "Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy."
+          "t": "Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "All thy strong holds shall be like fig trees with the firstripe figs: if they be shaken, they shall even fall into the mouth of the eater.",
       "tokens": [
         {
-          "t": "All thy strong holds"
+          "t": "All thy strong holds "
         },
         {
           "add": "shall be like"
         },
         {
-          "t": "fig trees with the firstripe figs: if they be shaken, they shall even fall into the mouth of the eater."
+          "t": " fig trees with the firstripe figs: if they be shaken, they shall even fall into the mouth of the eater. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars.",
       "tokens": [
         {
-          "t": "Behold, thy people in the midst of thee"
+          "t": "Behold, thy people in the midst of thee "
         },
         {
           "add": "are"
         },
         {
-          "t": "women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars."
+          "t": " women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the morter, make strong the brickkiln.",
       "tokens": [
         {
-          "t": "Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the morter, make strong the brickkiln."
+          "t": "Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the morter, make strong the brickkiln. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts.",
       "tokens": [
         {
-          "t": "There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts."
+          "t": "There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away.",
       "tokens": [
         {
-          "t": "Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away."
+          "t": "Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Thy crowned are as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, but when the sun ariseth they flee away, and their place is not known where they are.",
       "tokens": [
         {
-          "t": "Thy crowned"
+          "t": "Thy crowned "
         },
         {
           "add": "are"
         },
         {
-          "t": "as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day,"
+          "t": " as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, "
         },
         {
           "add": "but"
         },
         {
-          "t": "when the sun ariseth they flee away, and their place is not known where they"
+          "t": " when the sun ariseth they flee away, and their place is not known where they "
         },
         {
           "add": "are"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them.",
       "tokens": [
         {
-          "t": "Thy shepherds slumber, O king of Assyria: thy nobles shall dwell"
+          "t": "Thy shepherds slumber, O king of Assyria: thy nobles shall dwell "
         },
         {
           "add": "in the dust:"
         },
         {
-          "t": "thy people is scattered upon the mountains, and no man gathereth"
+          "t": " thy people is scattered upon the mountains, and no man gathereth "
         },
         {
           "add": "them"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "There is no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?",
       "tokens": [
         {
           "add": "There is"
         },
         {
-          "t": "no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?"
+          "t": " no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually? "
         }
       ]
     }

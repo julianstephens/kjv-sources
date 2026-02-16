@@ -7,329 +7,361 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
       "tokens": [
         {
-          "t": "Now these"
+          "t": "Now these "
         },
         {
           "add": "are"
         },
         {
-          "t": "the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood."
+          "t": " the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
       "tokens": [
         {
-          "t": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."
+          "t": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
       "tokens": [
         {
-          "t": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah."
+          "t": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
       "tokens": [
         {
-          "t": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
+          "t": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
       "tokens": [
         {
-          "t": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations."
+          "t": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
       "tokens": [
         {
-          "t": "¶ And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
+          "t": "¶ And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.",
       "tokens": [
         {
-          "t": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan."
+          "t": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Cush begat Nimrod: he began to be a mighty one in the earth.",
       "tokens": [
         {
-          "t": "And Cush begat Nimrod: he began to be a mighty one in the earth."
+          "t": "And Cush begat Nimrod: he began to be a mighty one in the earth. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.",
       "tokens": [
         {
-          "t": "He was a mighty hunter before the"
+          "t": "He was a mighty hunter before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": wherefore it is said, Even as Nimrod the mighty hunter before the"
+          "t": ": wherefore it is said, Even as Nimrod the mighty hunter before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
       "tokens": [
         {
-          "t": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
+          "t": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,",
       "tokens": [
         {
-          "t": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,"
+          "t": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And Resen between Nineveh and Calah: the same is a great city.",
       "tokens": [
         {
-          "t": "And Resen between Nineveh and Calah: the same"
+          "t": "And Resen between Nineveh and Calah: the same "
         },
         {
           "add": "is"
         },
         {
-          "t": "a great city."
+          "t": " a great city. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
       "tokens": [
         {
-          "t": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,"
+          "t": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.",
       "tokens": [
         {
-          "t": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim."
+          "t": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "¶ And Canaan begat Sidon his firstborn, and Heth,",
       "tokens": [
         {
-          "t": "¶ And Canaan begat Sidon his firstborn, and Heth,"
+          "t": "¶ And Canaan begat Sidon his firstborn, and Heth, "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the Jebusite, and the Amorite, and the Girgasite,",
       "tokens": [
         {
-          "t": "And the Jebusite, and the Amorite, and the Girgasite,"
+          "t": "And the Jebusite, and the Amorite, and the Girgasite, "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the Hivite, and the Arkite, and the Sinite,",
       "tokens": [
         {
-          "t": "And the Hivite, and the Arkite, and the Sinite,"
+          "t": "And the Hivite, and the Arkite, and the Sinite, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
       "tokens": [
         {
-          "t": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad."
+          "t": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.",
       "tokens": [
         {
-          "t": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha."
+          "t": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the sons of Ham, after their families, after their tongues, in their countries,"
+          "t": " the sons of Ham, after their families, after their tongues, in their countries, "
         },
         {
           "add": "and"
         },
         {
-          "t": "in their nations."
+          "t": " in their nations. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.",
       "tokens": [
         {
-          "t": "¶ Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were"
+          "t": "¶ Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were "
         },
         {
           "add": "children"
         },
         {
-          "t": "born."
+          "t": " born. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
       "tokens": [
         {
-          "t": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram."
+          "t": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And the children of Aram; Uz, and Hul, and Gether, and Mash.",
       "tokens": [
         {
-          "t": "And the children of Aram; Uz, and Hul, and Gether, and Mash."
+          "t": "And the children of Aram; Uz, and Hul, and Gether, and Mash. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Arphaxad begat Salah; and Salah begat Eber.",
       "tokens": [
         {
-          "t": "And Arphaxad begat Salah; and Salah begat Eber."
+          "t": "And Arphaxad begat Salah; and Salah begat Eber. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother’s name was Joktan.",
       "tokens": [
         {
-          "t": "And unto Eber were born two sons: the name of one"
+          "t": "And unto Eber were born two sons: the name of one "
         },
         {
           "add": "was"
         },
         {
-          "t": "Peleg; for in his days was the earth divided; and his brother’s name"
+          "t": " Peleg; for in his days was the earth divided; and his brother’s name "
         },
         {
           "add": "was"
         },
         {
-          "t": "Joktan."
+          "t": " Joktan. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
       "tokens": [
         {
-          "t": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,"
+          "t": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah, "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And Hadoram, and Uzal, and Diklah,",
       "tokens": [
         {
-          "t": "And Hadoram, and Uzal, and Diklah,"
+          "t": "And Hadoram, and Uzal, and Diklah, "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Obal, and Abimael, and Sheba,",
       "tokens": [
         {
-          "t": "And Obal, and Abimael, and Sheba,"
+          "t": "And Obal, and Abimael, and Sheba, "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Ophir, and Havilah, and Jobab: all these were the sons of Joktan.",
       "tokens": [
         {
-          "t": "And Ophir, and Havilah, and Jobab: all these"
+          "t": "And Ophir, and Havilah, and Jobab: all these "
         },
         {
           "add": "were"
         },
         {
-          "t": "the sons of Joktan."
+          "t": " the sons of Joktan. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.",
       "tokens": [
         {
-          "t": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east."
+          "t": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "These are the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the sons of Shem, after their families, after their tongues, in their lands, after their nations."
+          "t": " the sons of Shem, after their families, after their tongues, in their lands, after their nations. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.",
       "tokens": [
         {
-          "t": "These"
+          "t": "These "
         },
         {
           "add": "are"
         },
         {
-          "t": "the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood."
+          "t": " the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood. "
         }
       ]
     }

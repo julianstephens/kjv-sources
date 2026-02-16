@@ -7,237 +7,532 @@
   "verses": [
     {
       "v": 1,
-      "tokens": null
+      "plain": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.",
+      "tokens": [
+        {
+          "t": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 2,
-      "tokens": null
+      "plain": "But he that entereth in by the door is the shepherd of the sheep.",
+      "tokens": [
+        {
+          "t": "But he that entereth in by the door is the shepherd of the sheep."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 3,
-      "tokens": null
+      "plain": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.",
+      "tokens": [
+        {
+          "t": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.",
+      "tokens": [
+        {
+          "t": "And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.",
+      "tokens": [
+        {
+          "t": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
+      "plain": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.",
       "tokens": [
         {
-          "t": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them."
+          "t": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.",
       "tokens": [
         {
-          "t": "Then said Jesus unto them again,"
+          "t": "Then said Jesus unto them again, "
+        },
+        {
+          "t": "Verily, verily, I say unto you, I am the door of the sheep."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "All that ever came before me are thieves and robbers: but the sheep did not hear them.",
+      "tokens": [
+        {
+          "t": "All that ever came before me are thieves and robbers: but the sheep did not hear them."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.",
+      "tokens": [
+        {
+          "t": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+      "tokens": [
+        {
+          "t": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": " more abundantly."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
+      "tokens": [
+        {
+          "t": "I am the good shepherd: the good shepherd giveth his life for the sheep."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.",
+      "tokens": [
+        {
+          "t": "But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "The hireling fleeth, because he is an hireling, and careth not for the sheep.",
+      "tokens": [
+        {
+          "t": "The hireling fleeth, because he is an hireling, and careth not for the sheep."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "I am the good shepherd, and know my sheep, and am known of mine.",
+      "tokens": [
+        {
+          "t": "I am the good shepherd, and know my "
+        },
+        {
+          "add": "sheep"
+        },
+        {
+          "t": ", and am known of mine."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.",
+      "tokens": [
+        {
+          "t": "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.",
+      "tokens": [
+        {
+          "t": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " one shepherd."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "Therefore doth my Father love me, because I lay down my life, that I might take it again.",
+      "tokens": [
+        {
+          "t": "Therefore doth my Father love me, because I lay down my life, that I might take it again."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.",
+      "tokens": [
+        {
+          "t": "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
+      "plain": "¶ There was a division therefore again among the Jews for these sayings.",
       "tokens": [
         {
-          "t": "¶ There was a division therefore again among the Jews for these sayings."
+          "t": "¶ There was a division therefore again among the Jews for these sayings. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And many of them said, He hath a devil, and is mad; why hear ye him?",
       "tokens": [
         {
-          "t": "And many of them said, He hath a devil, and is mad; why hear ye him?"
+          "t": "And many of them said, He hath a devil, and is mad; why hear ye him? "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?",
       "tokens": [
         {
-          "t": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?"
+          "t": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind? "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And it was at Jerusalem the feast of the dedication, and it was winter.",
       "tokens": [
         {
-          "t": "¶ And it was at Jerusalem the feast of the dedication, and it was winter."
+          "t": "¶ And it was at Jerusalem the feast of the dedication, and it was winter. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And Jesus walked in the temple in Solomon’s porch.",
       "tokens": [
         {
-          "t": "And Jesus walked in the temple in Solomon’s porch."
+          "t": "And Jesus walked in the temple in Solomon’s porch. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.",
       "tokens": [
         {
-          "t": "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly."
+          "t": "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.",
       "tokens": [
         {
-          "t": "Jesus answered them,"
+          "t": "Jesus answered them, "
+        },
+        {
+          "t": "I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "But ye believe not, because ye are not of my sheep, as I said unto you.",
+      "tokens": [
+        {
+          "t": "But ye believe not, because ye are not of my sheep, as I said unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "My sheep hear my voice, and I know them, and they follow me:",
+      "tokens": [
+        {
+          "t": "My sheep hear my voice, and I know them, and they follow me:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.",
+      "tokens": [
+        {
+          "t": "And I give unto them eternal life; and they shall never perish, neither shall any "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": " pluck them out of my hand."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand.",
+      "tokens": [
+        {
+          "t": "My Father, which gave "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " me, is greater than all; and no "
+        },
+        {
+          "add": "man"
+        },
+        {
+          "t": " is able to pluck "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " out of my Father’s hand."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "I and my Father are one.",
+      "tokens": [
+        {
+          "t": "I and "
+        },
+        {
+          "add": "my"
+        },
+        {
+          "t": " Father are one."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
+      "plain": "Then the Jews took up stones again to stone him.",
       "tokens": [
         {
-          "t": "Then the Jews took up stones again to stone him."
+          "t": "Then the Jews took up stones again to stone him. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?",
       "tokens": [
         {
-          "t": "Jesus answered them,"
+          "t": "Jesus answered them, "
+        },
+        {
+          "t": "Many good works have I shewed you from my Father; for which of those works do ye stone me?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.",
       "tokens": [
         {
-          "t": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God."
+          "t": "The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "Jesus answered them, Is it not written in your law, I said, Ye are gods?",
       "tokens": [
         {
-          "t": "Jesus answered them,"
+          "t": "Jesus answered them, "
+        },
+        {
+          "t": "Is it not written in your law, I said, Ye are gods?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 35,
-      "tokens": null
+      "plain": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;",
+      "tokens": [
+        {
+          "t": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 36,
-      "tokens": null
+      "plain": "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?",
+      "tokens": [
+        {
+          "t": "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 37,
-      "tokens": null
+      "plain": "If I do not the works of my Father, believe me not.",
+      "tokens": [
+        {
+          "t": "If I do not the works of my Father, believe me not."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 38,
-      "tokens": null
+      "plain": "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.",
+      "tokens": [
+        {
+          "t": "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in me, and I in him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 39,
+      "plain": "Therefore they sought again to take him: but he escaped out of their hand,",
       "tokens": [
         {
-          "t": "Therefore they sought again to take him: but he escaped out of their hand,"
+          "t": "Therefore they sought again to take him: but he escaped out of their hand, "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And went away again beyond Jordan into the place where John at first baptized; and there he abode.",
       "tokens": [
         {
-          "t": "And went away again beyond Jordan into the place where John at first baptized; and there he abode."
+          "t": "And went away again beyond Jordan into the place where John at first baptized; and there he abode. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.",
       "tokens": [
         {
-          "t": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true."
+          "t": "And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true. "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And many believed on him there.",
       "tokens": [
         {
-          "t": "And many believed on him there."
+          "t": "And many believed on him there. "
         }
       ]
     }

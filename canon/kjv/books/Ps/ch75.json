@@ -1,0 +1,199 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 75,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.",
+      "tokens": [
+        {
+          "t": "Unto thee, O God, do we give thanks, "
+        },
+        {
+          "add": "unto thee"
+        },
+        {
+          "t": " do we give thanks: for "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " thy name is near thy wondrous works declare. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "When I shall receive the congregation I will judge uprightly.",
+      "tokens": [
+        {
+          "t": "When I shall receive the congregation I will judge uprightly. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.",
+      "tokens": [
+        {
+          "t": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:",
+      "tokens": [
+        {
+          "t": "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn: "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "Lift not up your horn on high: speak not with a stiff neck.",
+      "tokens": [
+        {
+          "t": "Lift not up your horn on high: speak "
+        },
+        {
+          "add": "not with"
+        },
+        {
+          "t": " a stiff neck. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "For promotion cometh neither from the east, nor from the west, nor from the south.",
+      "tokens": [
+        {
+          "t": "For promotion "
+        },
+        {
+          "add": "cometh"
+        },
+        {
+          "t": " neither from the east, nor from the west, nor from the south. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "But God is the judge: he putteth down one, and setteth up another.",
+      "tokens": [
+        {
+          "t": "But God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the judge: he putteth down one, and setteth up another. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "For in the hand of the LORD there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.",
+      "tokens": [
+        {
+          "t": "For in the hand of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "there is"
+        },
+        {
+          "t": " a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": " out, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " drink "
+        },
+        {
+          "add": "them"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "But I will declare for ever; I will sing praises to the God of Jacob.",
+      "tokens": [
+        {
+          "t": "But I will declare for ever; I will sing praises to the God of Jacob. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted.",
+      "tokens": [
+        {
+          "t": "All the horns of the wicked also will I cut off; "
+        },
+        {
+          "add": "but"
+        },
+        {
+          "t": " the horns of the righteous shall be exalted. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Al-taschith: or, Destroy not"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "of: or, for"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 2
+      },
+      "text": "receive…: or, take a set time"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 6
+      },
+      "text": "south: Heb. desert"
+    }
+  ]
+}

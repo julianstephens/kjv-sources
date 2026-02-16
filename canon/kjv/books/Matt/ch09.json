@@ -7,344 +7,513 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And he entered into a ship, and passed over, and came into his own city.",
       "tokens": [
         {
-          "t": "And he entered into a ship, and passed over, and came into his own city."
+          "t": "And he entered into a ship, and passed over, and came into his own city. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee.",
       "tokens": [
         {
-          "t": "And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy;"
+          "t": "And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; "
+        },
+        {
+          "t": "Son, be of good cheer; thy sins be forgiven thee."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And, behold, certain of the scribes said within themselves, This man blasphemeth.",
       "tokens": [
         {
-          "t": "And, behold, certain of the scribes said within themselves, This"
+          "t": "And, behold, certain of the scribes said within themselves, This "
         },
         {
           "add": "man"
         },
         {
-          "t": "blasphemeth."
+          "t": " blasphemeth. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Jesus knowing their thoughts said, Wherefore think ye evil in your hearts?",
       "tokens": [
         {
-          "t": "And Jesus knowing their thoughts said,"
+          "t": "And Jesus knowing their thoughts said, "
+        },
+        {
+          "t": "Wherefore think ye evil in your hearts?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "For whether is easier, to say, Thy sins be forgiven thee; or to say, Arise, and walk?",
+      "tokens": [
+        {
+          "t": "For whether is easier, to say, "
+        },
+        {
+          "add": "Thy"
+        },
+        {
+          "t": " sins be forgiven thee; or to say, Arise, and walk?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
+      "plain": "But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.",
       "tokens": [
         {
-          "t": "(then saith he to the sick of the palsy,)"
+          "t": "But that ye may know that the Son of man hath power on earth to forgive sins,"
         },
         {
-          "t": "(then saith he to the sick of the palsy,)"
+          "t": " (then saith he to the sick of the palsy,) "
+        },
+        {
+          "t": "Arise, take up thy bed, and go unto thine house."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And he arose, and departed to his house.",
       "tokens": [
         {
-          "t": "And he arose, and departed to his house."
+          "t": "And he arose, and departed to his house. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But when the multitudes saw it, they marvelled, and glorified God, which had given such power unto men.",
       "tokens": [
         {
-          "t": "But when the multitudes saw"
+          "t": "But when the multitudes saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they marvelled, and glorified God, which had given such power unto men."
+          "t": ", they marvelled, and glorified God, which had given such power unto men. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him.",
       "tokens": [
         {
-          "t": "And he arose, and followed him."
+          "t": "¶ And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, "
         },
         {
-          "t": "¶ And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, And he arose, and followed him."
+          "t": "Follow me."
+        },
+        {
+          "t": " And he arose, and followed him. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples.",
       "tokens": [
         {
-          "t": "¶ And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples."
+          "t": "¶ And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?",
       "tokens": [
         {
-          "t": "And when the Pharisees saw"
+          "t": "And when the Pharisees saw "
         },
         {
           "add": "it"
         },
         {
-          "t": ", they said unto his disciples, Why eateth your Master with publicans and sinners?"
+          "t": ", they said unto his disciples, Why eateth your Master with publicans and sinners? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.",
       "tokens": [
         {
-          "t": "But when Jesus heard"
+          "t": "But when Jesus heard "
         },
         {
           "add": "that"
         },
         {
-          "t": ", he said unto them,"
+          "t": ", he said unto them, "
+        },
+        {
+          "t": "They that be whole need not a physician, but they that are sick."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.",
+      "tokens": [
+        {
+          "t": "But go ye and learn what "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
+      "plain": "¶ Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?",
       "tokens": [
         {
-          "t": "¶ Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?"
+          "t": "¶ Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not? "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.",
       "tokens": [
         {
-          "t": "And Jesus said unto them,"
+          "t": "And Jesus said unto them, "
+        },
+        {
+          "t": "Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse.",
+      "tokens": [
+        {
+          "t": "No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.",
+      "tokens": [
+        {
+          "t": "Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
+      "plain": "¶ While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.",
       "tokens": [
         {
-          "t": "¶ While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live."
+          "t": "¶ While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Jesus arose, and followed him, and so did his disciples.",
       "tokens": [
         {
-          "t": "And Jesus arose, and followed him, and"
+          "t": "And Jesus arose, and followed him, and "
         },
         {
           "add": "so did"
         },
         {
-          "t": "his disciples."
+          "t": " his disciples. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And, behold, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment:",
       "tokens": [
         {
-          "t": "¶ And, behold, a woman, which was diseased with an issue of blood twelve years, came behind"
+          "t": "¶ And, behold, a woman, which was diseased with an issue of blood twelve years, came behind "
         },
         {
           "add": "him"
         },
         {
-          "t": ", and touched the hem of his garment:"
+          "t": ", and touched the hem of his garment: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "For she said within herself, If I may but touch his garment, I shall be whole.",
       "tokens": [
         {
-          "t": "For she said within herself, If I may but touch his garment, I shall be whole."
+          "t": "For she said within herself, If I may but touch his garment, I shall be whole. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.",
       "tokens": [
         {
-          "t": "And the woman was made whole from that hour."
+          "t": "But Jesus turned him about, and when he saw her, he said, "
         },
         {
-          "t": "But Jesus turned him about, and when he saw her, he said, And the woman was made whole from that hour."
+          "t": "Daughter, be of good comfort; thy faith hath made thee whole."
+        },
+        {
+          "t": " And the woman was made whole from that hour. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,",
       "tokens": [
         {
-          "t": "And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,"
+          "t": "And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise, "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn.",
       "tokens": [
         {
-          "t": "And they laughed him to scorn."
+          "t": "He said unto them, "
         },
         {
-          "t": "He said unto them, And they laughed him to scorn."
+          "t": "Give place: for the maid is not dead, but sleepeth."
+        },
+        {
+          "t": " And they laughed him to scorn. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "But when the people were put forth, he went in, and took her by the hand, and the maid arose.",
       "tokens": [
         {
-          "t": "But when the people were put forth, he went in, and took her by the hand, and the maid arose."
+          "t": "But when the people were put forth, he went in, and took her by the hand, and the maid arose. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And the fame hereof went abroad into all that land.",
       "tokens": [
         {
-          "t": "And the fame hereof went abroad into all that land."
+          "t": "And the fame hereof went abroad into all that land. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And when Jesus departed thence, two blind men followed him, crying, and saying, Thou Son of David, have mercy on us.",
       "tokens": [
         {
-          "t": "¶ And when Jesus departed thence, two blind men followed him, crying, and saying,"
+          "t": "¶ And when Jesus departed thence, two blind men followed him, crying, and saying, "
         },
         {
           "add": "Thou"
         },
         {
-          "t": "Son of David, have mercy on us."
+          "t": " Son of David, have mercy on us. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord.",
       "tokens": [
         {
-          "t": "They said unto him, Yea, Lord."
+          "t": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, "
         },
         {
-          "t": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, They said unto him, Yea, Lord."
+          "t": "Believe ye that I am able to do this?"
+        },
+        {
+          "t": " They said unto him, Yea, Lord. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "Then touched he their eyes, saying, According to your faith be it unto you.",
       "tokens": [
         {
-          "t": "Then touched he their eyes, saying,"
+          "t": "Then touched he their eyes, saying, "
+        },
+        {
+          "t": "According to your faith be it unto you."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And their eyes were opened; and Jesus straitly charged them, saying, See that no man know it.",
       "tokens": [
         {
-          "t": "And their eyes were opened; and Jesus straitly charged them, saying,"
+          "t": "And their eyes were opened; and Jesus straitly charged them, saying, "
+        },
+        {
+          "t": "See "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " no man know "
+        },
+        {
+          "add": "it"
+        },
+        {
+          "t": "."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "But they, when they were departed, spread abroad his fame in all that country.",
       "tokens": [
         {
-          "t": "But they, when they were departed, spread abroad his fame in all that country."
+          "t": "But they, when they were departed, spread abroad his fame in all that country. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "¶ As they went out, behold, they brought to him a dumb man possessed with a devil.",
       "tokens": [
         {
-          "t": "¶ As they went out, behold, they brought to him a dumb man possessed with a devil."
+          "t": "¶ As they went out, behold, they brought to him a dumb man possessed with a devil. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel.",
       "tokens": [
         {
-          "t": "And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel."
+          "t": "And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "But the Pharisees said, He casteth out devils through the prince of the devils.",
       "tokens": [
         {
-          "t": "But the Pharisees said, He casteth out devils through the prince of the devils."
+          "t": "But the Pharisees said, He casteth out devils through the prince of the devils. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.",
       "tokens": [
         {
-          "t": "And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people."
+          "t": "And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "¶ But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.",
       "tokens": [
         {
-          "t": "¶ But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd."
+          "t": "¶ But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few;",
       "tokens": [
         {
-          "t": "Then saith he unto his disciples,"
+          "t": "Then saith he unto his disciples, "
+        },
+        {
+          "t": "The harvest truly "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " plenteous, but the labourers "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " few;"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 38,
-      "tokens": null
+      "plain": "Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.",
+      "tokens": [
+        {
+          "t": "Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

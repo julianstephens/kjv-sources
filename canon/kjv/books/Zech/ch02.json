@@ -7,195 +7,208 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.",
       "tokens": [
         {
-          "t": "I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand."
+          "t": "I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof.",
       "tokens": [
         {
-          "t": "Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what"
+          "t": "Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what "
         },
         {
           "add": "is"
         },
         {
-          "t": "the breadth thereof, and what"
+          "t": " the breadth thereof, and what "
         },
         {
           "add": "is"
         },
         {
-          "t": "the length thereof."
+          "t": " the length thereof. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And, behold, the angel that talked with me went forth, and another angel went out to meet him,",
       "tokens": [
         {
-          "t": "And, behold, the angel that talked with me went forth, and another angel went out to meet him,"
+          "t": "And, behold, the angel that talked with me went forth, and another angel went out to meet him, "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And said unto him, Run, speak to this young man, saying, Jerusalem shall be inhabited as towns without walls for the multitude of men and cattle therein:",
       "tokens": [
         {
-          "t": "And said unto him, Run, speak to this young man, saying, Jerusalem shall be inhabited"
+          "t": "And said unto him, Run, speak to this young man, saying, Jerusalem shall be inhabited "
         },
         {
           "add": "as"
         },
         {
-          "t": "towns without walls for the multitude of men and cattle therein:"
+          "t": " towns without walls for the multitude of men and cattle therein: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For I, saith the LORD, will be unto her a wall of fire round about, and will be the glory in the midst of her.",
       "tokens": [
         {
-          "t": "For I, saith the"
+          "t": "For I, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", will be unto her a wall of fire round about, and will be the glory in the midst of her."
+          "t": ", will be unto her a wall of fire round about, and will be the glory in the midst of her. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ Ho, ho, come forth, and flee from the land of the north, saith the LORD: for I have spread you abroad as the four winds of the heaven, saith the LORD.",
       "tokens": [
         {
-          "t": "¶ Ho, ho,"
+          "t": "¶ Ho, ho, "
         },
         {
           "add": "come forth"
         },
         {
-          "t": ", and flee from the land of the north, saith the"
+          "t": ", and flee from the land of the north, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for I have spread you abroad as the four winds of the heaven, saith the"
+          "t": ": for I have spread you abroad as the four winds of the heaven, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Deliver thyself, O Zion, that dwellest with the daughter of Babylon.",
       "tokens": [
         {
-          "t": "Deliver thyself, O Zion, that dwellest"
+          "t": "Deliver thyself, O Zion, that dwellest "
         },
         {
           "add": "with"
         },
         {
-          "t": "the daughter of Babylon."
+          "t": " the daughter of Babylon. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "For thus saith the LORD of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.",
       "tokens": [
         {
-          "t": "For thus saith the"
+          "t": "For thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye."
+          "t": " of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the LORD of hosts hath sent me.",
       "tokens": [
         {
-          "t": "For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the"
+          "t": "For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts hath sent me."
+          "t": " of hosts hath sent me. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the LORD.",
       "tokens": [
         {
-          "t": "¶ Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the"
+          "t": "¶ Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And many nations shall be joined to the LORD in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the LORD of hosts hath sent me unto thee.",
       "tokens": [
         {
-          "t": "And many nations shall be joined to the"
+          "t": "And many nations shall be joined to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the"
+          "t": " in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "of hosts hath sent me unto thee."
+          "t": " of hosts hath sent me unto thee. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And the LORD shall inherit Judah his portion in the holy land, and shall choose Jerusalem again.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall inherit Judah his portion in the holy land, and shall choose Jerusalem again."
+          "t": " shall inherit Judah his portion in the holy land, and shall choose Jerusalem again. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Be silent, O all flesh, before the LORD: for he is raised up out of his holy habitation.",
       "tokens": [
         {
-          "t": "Be silent, O all flesh, before the"
+          "t": "Be silent, O all flesh, before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": for he is raised up out of his holy habitation."
+          "t": ": for he is raised up out of his holy habitation. "
         }
       ]
     }

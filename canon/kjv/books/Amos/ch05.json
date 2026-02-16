@@ -7,394 +7,430 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Hear ye this word which I take up against you, even a lamentation, O house of Israel.",
       "tokens": [
         {
-          "t": "Hear ye this word which I take up against you,"
+          "t": "Hear ye this word which I take up against you, "
         },
         {
           "add": "even"
         },
         {
-          "t": "a lamentation, O house of Israel."
+          "t": " a lamentation, O house of Israel. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; there is none to raise her up.",
       "tokens": [
         {
-          "t": "The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land;"
+          "t": "The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; "
         },
         {
           "add": "there is"
         },
         {
-          "t": "none to raise her up."
+          "t": " none to raise her up. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "For thus saith the Lord GOD; The city that went out by a thousand shall leave an hundred, and that which went forth by an hundred shall leave ten, to the house of Israel.",
       "tokens": [
         {
-          "t": "For thus saith the Lord"
+          "t": "For thus saith the Lord "
         },
         {
           "nd": "GOD"
         },
         {
-          "t": "; The city that went out"
+          "t": "; The city that went out "
         },
         {
           "add": "by"
         },
         {
-          "t": "a thousand shall leave an hundred, and that which went forth"
+          "t": " a thousand shall leave an hundred, and that which went forth "
         },
         {
           "add": "by"
         },
         {
-          "t": "an hundred shall leave ten, to the house of Israel."
+          "t": " an hundred shall leave ten, to the house of Israel. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "¶ For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:",
       "tokens": [
         {
-          "t": "¶ For thus saith the"
+          "t": "¶ For thus saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "unto the house of Israel, Seek ye me, and ye shall live:"
+          "t": " unto the house of Israel, Seek ye me, and ye shall live: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "But seek not Beth-el, nor enter into Gilgal, and pass not to Beer-sheba: for Gilgal shall surely go into captivity, and Beth-el shall come to nought.",
       "tokens": [
         {
-          "t": "But seek not Beth-el, nor enter into Gilgal, and pass not to Beer-sheba: for Gilgal shall surely go into captivity, and Beth-el shall come to nought."
+          "t": "But seek not Beth-el, nor enter into Gilgal, and pass not to Beer-sheba: for Gilgal shall surely go into captivity, and Beth-el shall come to nought. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour it, and there be none to quench it in Beth-el.",
       "tokens": [
         {
-          "t": "Seek the"
+          "t": "Seek the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and ye shall live; lest he break out like fire in the house of Joseph, and devour"
+          "t": ", and ye shall live; lest he break out like fire in the house of Joseph, and devour "
         },
         {
           "add": "it"
         },
         {
-          "t": ", and"
+          "t": ", and "
         },
         {
           "add": "there be"
         },
         {
-          "t": "none to quench"
+          "t": " none to quench "
         },
         {
           "add": "it"
         },
         {
-          "t": "in Beth-el."
+          "t": " in Beth-el. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Ye who turn judgment to wormwood, and leave off righteousness in the earth,",
       "tokens": [
         {
-          "t": "Ye who turn judgment to wormwood, and leave off righteousness in the earth,"
+          "t": "Ye who turn judgment to wormwood, and leave off righteousness in the earth, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Seek him that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD is his name:",
       "tokens": [
         {
           "add": "Seek him"
         },
         {
-          "t": "that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The"
+          "t": " that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "his name:"
+          "t": " his name: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress.",
       "tokens": [
         {
-          "t": "That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress."
+          "t": "That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.",
       "tokens": [
         {
-          "t": "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly."
+          "t": "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Forasmuch therefore as your treading is upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them.",
       "tokens": [
         {
-          "t": "Forasmuch therefore as your treading"
+          "t": "Forasmuch therefore as your treading "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them."
+          "t": " upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate from their right.",
       "tokens": [
         {
-          "t": "For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate"
+          "t": "For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate "
         },
         {
           "add": "from their right"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Therefore the prudent shall keep silence in that time; for it is an evil time.",
       "tokens": [
         {
-          "t": "Therefore the prudent shall keep silence in that time; for it"
+          "t": "Therefore the prudent shall keep silence in that time; for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "an evil time."
+          "t": " an evil time. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken.",
       "tokens": [
         {
-          "t": "Seek good, and not evil, that ye may live: and so the"
+          "t": "Seek good, and not evil, that ye may live: and so the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the God of hosts, shall be with you, as ye have spoken."
+          "t": ", the God of hosts, shall be with you, as ye have spoken. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Hate the evil, and love the good, and establish judgment in the gate: it may be that the LORD God of hosts will be gracious unto the remnant of Joseph.",
       "tokens": [
         {
-          "t": "Hate the evil, and love the good, and establish judgment in the gate: it may be that the"
+          "t": "Hate the evil, and love the good, and establish judgment in the gate: it may be that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of hosts will be gracious unto the remnant of Joseph."
+          "t": " God of hosts will be gracious unto the remnant of Joseph. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Therefore the LORD, the God of hosts, the Lord, saith thus; Wailing shall be in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing.",
       "tokens": [
         {
-          "t": "Therefore the"
+          "t": "Therefore the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the God of hosts, the Lord, saith thus; Wailing"
+          "t": ", the God of hosts, the Lord, saith thus; Wailing "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing."
+          "t": " in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And in all vineyards shall be wailing: for I will pass through thee, saith the LORD.",
       "tokens": [
         {
-          "t": "And in all vineyards"
+          "t": "And in all vineyards "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "wailing: for I will pass through thee, saith the"
+          "t": " wailing: for I will pass through thee, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Woe unto you that desire the day of the LORD! to what end is it for you? the day of the LORD is darkness, and not light.",
       "tokens": [
         {
-          "t": "Woe unto you that desire the day of the"
+          "t": "Woe unto you that desire the day of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "! to what end"
+          "t": "! to what end "
         },
         {
           "add": "is"
         },
         {
-          "t": "it for you? the day of the"
+          "t": " it for you? the day of the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "darkness, and not light."
+          "t": " darkness, and not light. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him.",
       "tokens": [
         {
-          "t": "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him."
+          "t": "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Shall not the day of the LORD be darkness, and not light? even very dark, and no brightness in it?",
       "tokens": [
         {
           "add": "Shall"
         },
         {
-          "t": "not the day of the"
+          "t": " not the day of the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "be"
         },
         {
-          "t": "darkness, and not light? even very dark, and no brightness in it?"
+          "t": " darkness, and not light? even very dark, and no brightness in it? "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "¶ I hate, I despise your feast days, and I will not smell in your solemn assemblies.",
       "tokens": [
         {
-          "t": "¶ I hate, I despise your feast days, and I will not smell in your solemn assemblies."
+          "t": "¶ I hate, I despise your feast days, and I will not smell in your solemn assemblies. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Though ye offer me burnt offerings and your meat offerings, I will not accept them: neither will I regard the peace offerings of your fat beasts.",
       "tokens": [
         {
-          "t": "Though ye offer me burnt offerings and your meat offerings, I will not accept"
+          "t": "Though ye offer me burnt offerings and your meat offerings, I will not accept "
         },
         {
           "add": "them:"
         },
         {
-          "t": "neither will I regard the peace offerings of your fat beasts."
+          "t": " neither will I regard the peace offerings of your fat beasts. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.",
       "tokens": [
         {
-          "t": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols."
+          "t": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "But let judgment run down as waters, and righteousness as a mighty stream.",
       "tokens": [
         {
-          "t": "But let judgment run down as waters, and righteousness as a mighty stream."
+          "t": "But let judgment run down as waters, and righteousness as a mighty stream. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?",
       "tokens": [
         {
-          "t": "Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?"
+          "t": "Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel? "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.",
       "tokens": [
         {
-          "t": "But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves."
+          "t": "But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name is The God of hosts.",
       "tokens": [
         {
-          "t": "Therefore will I cause you to go into captivity beyond Damascus, saith the"
+          "t": "Therefore will I cause you to go into captivity beyond Damascus, saith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", whose name"
+          "t": ", whose name "
         },
         {
           "add": "is"
         },
         {
-          "t": "The God of hosts."
+          "t": " The God of hosts. "
         }
       ]
     }

@@ -7,139 +7,459 @@
   "verses": [
     {
       "v": 1,
-      "tokens": null
+      "plain": "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.",
+      "tokens": [
+        {
+          "t": "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 2,
-      "tokens": null
+      "plain": "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.",
+      "tokens": [
+        {
+          "t": "Therefore when thou doest "
+        },
+        {
+          "add": "thine"
+        },
+        {
+          "t": " alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 3,
-      "tokens": null
+      "plain": "But when thou doest alms, let not thy left hand know what thy right hand doeth:",
+      "tokens": [
+        {
+          "t": "But when thou doest alms, let not thy left hand know what thy right hand doeth:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 4,
-      "tokens": null
+      "plain": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.",
+      "tokens": [
+        {
+          "t": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 5,
-      "tokens": null
+      "plain": "¶ And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.",
+      "tokens": [
+        {
+          "t": "¶ And when thou prayest, thou shalt not be as the hypocrites "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": ": for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 6,
-      "tokens": null
+      "plain": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.",
+      "tokens": [
+        {
+          "t": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 7,
-      "tokens": null
+      "plain": "But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.",
+      "tokens": [
+        {
+          "t": "But when ye pray, use not vain repetitions, as the heathen "
+        },
+        {
+          "add": "do"
+        },
+        {
+          "t": ": for they think that they shall be heard for their much speaking."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 8,
-      "tokens": null
+      "plain": "Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.",
+      "tokens": [
+        {
+          "t": "Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.",
+      "tokens": [
+        {
+          "t": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
-      "tokens": null
+      "plain": "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+      "tokens": [
+        {
+          "t": "Thy kingdom come. Thy will be done in earth, as "
+        },
+        {
+          "add": "it is"
+        },
+        {
+          "t": " in heaven."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "Give us this day our daily bread.",
+      "tokens": [
+        {
+          "t": "Give us this day our daily bread."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
-      "tokens": null
+      "plain": "And forgive us our debts, as we forgive our debtors.",
+      "tokens": [
+        {
+          "t": "And forgive us our debts, as we forgive our debtors."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 13,
-      "tokens": null
+      "plain": "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.",
+      "tokens": [
+        {
+          "t": "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 14,
-      "tokens": null
+      "plain": "For if ye forgive men their trespasses, your heavenly Father will also forgive you:",
+      "tokens": [
+        {
+          "t": "For if ye forgive men their trespasses, your heavenly Father will also forgive you:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 15,
-      "tokens": null
+      "plain": "But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.",
+      "tokens": [
+        {
+          "t": "But if ye forgive not men their trespasses, neither will your Father forgive your trespasses."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 16,
-      "tokens": null
+      "plain": "¶ Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.",
+      "tokens": [
+        {
+          "t": "¶ Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 17,
-      "tokens": null
+      "plain": "But thou, when thou fastest, anoint thine head, and wash thy face;",
+      "tokens": [
+        {
+          "t": "But thou, when thou fastest, anoint thine head, and wash thy face;"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 18,
-      "tokens": null
+      "plain": "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.",
+      "tokens": [
+        {
+          "t": "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 19,
-      "tokens": null
+      "plain": "¶ Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:",
+      "tokens": [
+        {
+          "t": "¶ Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:",
+      "tokens": [
+        {
+          "t": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "For where your treasure is, there will your heart be also.",
+      "tokens": [
+        {
+          "t": "For where your treasure is, there will your heart be also."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.",
+      "tokens": [
+        {
+          "t": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
-      "tokens": null
+      "plain": "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!",
+      "tokens": [
+        {
+          "t": "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " that darkness!"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 24,
-      "tokens": null
+      "plain": "¶ No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+      "tokens": [
+        {
+          "t": "¶ No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 25,
-      "tokens": null
+      "plain": "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?",
+      "tokens": [
+        {
+          "t": "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?",
+      "tokens": [
+        {
+          "t": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
-      "tokens": null
+      "plain": "Which of you by taking thought can add one cubit unto his stature?",
+      "tokens": [
+        {
+          "t": "Which of you by taking thought can add one cubit unto his stature?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:",
+      "tokens": [
+        {
+          "t": "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 29,
-      "tokens": null
+      "plain": "And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.",
+      "tokens": [
+        {
+          "t": "And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 30,
-      "tokens": null
+      "plain": "Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?",
+      "tokens": [
+        {
+          "t": "Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, "
+        },
+        {
+          "add": "shall he"
+        },
+        {
+          "t": " not much more "
+        },
+        {
+          "add": "clothe"
+        },
+        {
+          "t": " you, O ye of little faith?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 31,
-      "tokens": null
+      "plain": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?",
+      "tokens": [
+        {
+          "t": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 32,
-      "tokens": null
+      "plain": "(For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.",
+      "tokens": [
+        {
+          "t": "(For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 33,
-      "tokens": null
+      "plain": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+      "tokens": [
+        {
+          "t": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 34,
-      "tokens": null
+      "plain": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.",
+      "tokens": [
+        {
+          "t": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the evil thereof."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

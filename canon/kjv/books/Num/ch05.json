@@ -7,450 +7,484 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:",
       "tokens": [
         {
-          "t": "Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:"
+          "t": "Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell.",
       "tokens": [
         {
-          "t": "Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell."
+          "t": "Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel.",
       "tokens": [
         {
-          "t": "And the children of Israel did so, and put them out without the camp: as the"
+          "t": "And the children of Israel did so, and put them out without the camp: as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, so did the children of Israel."
+          "t": " spake unto Moses, so did the children of Israel. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the"
+          "t": "Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and that person be guilty;"
+          "t": ", and that person be guilty; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth part thereof, and give it unto him against whom he hath trespassed.",
       "tokens": [
         {
-          "t": "Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth"
+          "t": "Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth "
         },
         {
           "add": "part"
         },
         {
-          "t": "thereof, and give"
+          "t": " thereof, and give "
         },
         {
           "add": "it"
         },
         {
-          "t": "unto"
+          "t": " unto "
         },
         {
           "add": "him"
         },
         {
-          "t": "against whom he hath trespassed."
+          "t": " against whom he hath trespassed. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.",
       "tokens": [
         {
-          "t": "But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the"
+          "t": "But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "even"
         },
         {
-          "t": "to the priest; beside the ram of the atonement, whereby an atonement shall be made for him."
+          "t": " to the priest; beside the ram of the atonement, whereby an atonement shall be made for him. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.",
       "tokens": [
         {
-          "t": "And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his."
+          "t": "And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.",
       "tokens": [
         {
-          "t": "And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his."
+          "t": "And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him,",
       "tokens": [
         {
-          "t": "Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him,"
+          "t": "Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken with the manner;",
       "tokens": [
         {
-          "t": "And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and"
+          "t": "And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and "
         },
         {
           "add": "there be"
         },
         {
-          "t": "no witness against her, neither she be taken"
+          "t": " no witness against her, neither she be taken "
         },
         {
           "add": "with the manner;"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:",
       "tokens": [
         {
-          "t": "And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:"
+          "t": "And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.",
       "tokens": [
         {
-          "t": "Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth"
+          "t": "Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth "
         },
         {
           "add": "part"
         },
         {
-          "t": "of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it"
+          "t": " of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "an offering of jealousy, an offering of memorial, bringing iniquity to remembrance."
+          "t": " an offering of jealousy, an offering of memorial, bringing iniquity to remembrance. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the priest shall bring her near, and set her before the LORD:",
       "tokens": [
         {
-          "t": "And the priest shall bring her near, and set her before the"
+          "t": "And the priest shall bring her near, and set her before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put it into the water:",
       "tokens": [
         {
-          "t": "And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put"
+          "t": "And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put "
         },
         {
           "add": "it"
         },
         {
-          "t": "into the water:"
+          "t": " into the water: "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the priest shall set the woman before the LORD, and uncover the woman’s head, and put the offering of memorial in her hands, which is the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse:",
       "tokens": [
         {
-          "t": "And the priest shall set the woman before the"
+          "t": "And the priest shall set the woman before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and uncover the woman’s head, and put the offering of memorial in her hands, which"
+          "t": ", and uncover the woman’s head, and put the offering of memorial in her hands, which "
         },
         {
           "add": "is"
         },
         {
-          "t": "the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse:"
+          "t": " the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse: "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness with another instead of thy husband, be thou free from this bitter water that causeth the curse:",
       "tokens": [
         {
-          "t": "And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness"
+          "t": "And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness "
         },
         {
           "add": "with another"
         },
         {
-          "t": "instead of thy husband, be thou free from this bitter water that causeth the curse:"
+          "t": " instead of thy husband, be thou free from this bitter water that causeth the curse: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "But if thou hast gone aside to another instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:",
       "tokens": [
         {
-          "t": "But if thou hast gone aside"
+          "t": "But if thou hast gone aside "
         },
         {
           "add": "to another"
         },
         {
-          "t": "instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:"
+          "t": " instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband: "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to rot, and thy belly to swell;",
       "tokens": [
         {
-          "t": "Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The"
+          "t": "Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "make thee a curse and an oath among thy people, when the"
+          "t": " make thee a curse and an oath among thy people, when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "doth make thy thigh to rot, and thy belly to swell;"
+          "t": " doth make thy thigh to rot, and thy belly to swell; "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And this water that causeth the curse shall go into thy bowels, to make thy belly to swell, and thy thigh to rot: And the woman shall say, Amen, amen.",
       "tokens": [
         {
-          "t": "And this water that causeth the curse shall go into thy bowels, to make"
+          "t": "And this water that causeth the curse shall go into thy bowels, to make "
         },
         {
           "add": "thy"
         },
         {
-          "t": "belly to swell, and"
+          "t": " belly to swell, and "
         },
         {
           "add": "thy"
         },
         {
-          "t": "thigh to rot: And the woman shall say, Amen, amen."
+          "t": " thigh to rot: And the woman shall say, Amen, amen. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And the priest shall write these curses in a book, and he shall blot them out with the bitter water:",
       "tokens": [
         {
-          "t": "And the priest shall write these curses in a book, and he shall blot"
+          "t": "And the priest shall write these curses in a book, and he shall blot "
         },
         {
           "add": "them"
         },
         {
-          "t": "out with the bitter water:"
+          "t": " out with the bitter water: "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And he shall cause the woman to drink the bitter water that causeth the curse: and the water that causeth the curse shall enter into her, and become bitter.",
       "tokens": [
         {
-          "t": "And he shall cause the woman to drink the bitter water that causeth the curse: and the water that causeth the curse shall enter into her,"
+          "t": "And he shall cause the woman to drink the bitter water that causeth the curse: and the water that causeth the curse shall enter into her, "
         },
         {
           "add": "and become"
         },
         {
-          "t": "bitter."
+          "t": " bitter. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Then the priest shall take the jealousy offering out of the woman’s hand, and shall wave the offering before the LORD, and offer it upon the altar:",
       "tokens": [
         {
-          "t": "Then the priest shall take the jealousy offering out of the woman’s hand, and shall wave the offering before the"
+          "t": "Then the priest shall take the jealousy offering out of the woman’s hand, and shall wave the offering before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and offer it upon the altar:"
+          "t": ", and offer it upon the altar: "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And the priest shall take an handful of the offering, even the memorial thereof, and burn it upon the altar, and afterward shall cause the woman to drink the water.",
       "tokens": [
         {
-          "t": "And the priest shall take an handful of the offering,"
+          "t": "And the priest shall take an handful of the offering, "
         },
         {
           "add": "even"
         },
         {
-          "t": "the memorial thereof, and burn"
+          "t": " the memorial thereof, and burn "
         },
         {
           "add": "it"
         },
         {
-          "t": "upon the altar, and afterward shall cause the woman to drink the water."
+          "t": " upon the altar, and afterward shall cause the woman to drink the water. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And when he hath made her to drink the water, then it shall come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, and become bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people.",
       "tokens": [
         {
-          "t": "And when he hath made her to drink the water, then it shall come to pass,"
+          "t": "And when he hath made her to drink the water, then it shall come to pass, "
         },
         {
           "add": "that"
         },
         {
-          "t": ", if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her,"
+          "t": ", if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, "
         },
         {
           "add": "and become"
         },
         {
-          "t": "bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people."
+          "t": " bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed.",
       "tokens": [
         {
-          "t": "And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed."
+          "t": "And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "This is the law of jealousies, when a wife goeth aside to another instead of her husband, and is defiled;",
       "tokens": [
         {
-          "t": "This"
+          "t": "This "
         },
         {
           "add": "is"
         },
         {
-          "t": "the law of jealousies, when a wife goeth aside"
+          "t": " the law of jealousies, when a wife goeth aside "
         },
         {
           "add": "to another"
         },
         {
-          "t": "instead of her husband, and is defiled;"
+          "t": " instead of her husband, and is defiled; "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "Or when the spirit of jealousy cometh upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law.",
       "tokens": [
         {
-          "t": "Or when the spirit of jealousy cometh upon him, and he be jealous over his wife, and shall set the woman before the"
+          "t": "Or when the spirit of jealousy cometh upon him, and he be jealous over his wife, and shall set the woman before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and the priest shall execute upon her all this law."
+          "t": ", and the priest shall execute upon her all this law. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity.",
       "tokens": [
         {
-          "t": "Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity."
+          "t": "Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity. "
         }
       ]
     }

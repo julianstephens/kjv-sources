@@ -1,0 +1,209 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 97,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof.",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " reigneth; let the earth rejoice; let the multitude of isles be glad "
+        },
+        {
+          "add": "thereof"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne.",
+      "tokens": [
+        {
+          "t": "Clouds and darkness "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " round about him: righteousness and judgment "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the habitation of his throne. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "A fire goeth before him, and burneth up his enemies round about.",
+      "tokens": [
+        {
+          "t": "A fire goeth before him, and burneth up his enemies round about. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "His lightnings enlightened the world: the earth saw, and trembled.",
+      "tokens": [
+        {
+          "t": "His lightnings enlightened the world: the earth saw, and trembled. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth.",
+      "tokens": [
+        {
+          "t": "The hills melted like wax at the presence of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", at the presence of the Lord of the whole earth. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "The heavens declare his righteousness, and all the people see his glory.",
+      "tokens": [
+        {
+          "t": "The heavens declare his righteousness, and all the people see his glory. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Confounded be all they that serve graven images, that boast themselves of idols: worship him, all ye gods.",
+      "tokens": [
+        {
+          "t": "Confounded be all they that serve graven images, that boast themselves of idols: worship him, all "
+        },
+        {
+          "add": "ye"
+        },
+        {
+          "t": " gods. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.",
+      "tokens": [
+        {
+          "t": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "For thou, LORD, art high above all the earth: thou art exalted far above all gods.",
+      "tokens": [
+        {
+          "t": "For thou, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", "
+        },
+        {
+          "add": "art"
+        },
+        {
+          "t": " high above all the earth: thou art exalted far above all gods. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Ye that love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.",
+      "tokens": [
+        {
+          "t": "Ye that love the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked. "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Light is sown for the righteous, and gladness for the upright in heart.",
+      "tokens": [
+        {
+          "t": "Light is sown for the righteous, and gladness for the upright in heart. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness.",
+      "tokens": [
+        {
+          "t": "Rejoice in the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", ye righteous; and give thanks at the remembrance of his holiness. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "multitude…: Heb. many, or, great isles"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 2
+      },
+      "text": "habitation: or, establishment"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 12
+      },
+      "text": "at…: or, to the memorial"
+    }
+  ]
+}

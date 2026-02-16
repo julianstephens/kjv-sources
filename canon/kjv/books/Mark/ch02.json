@@ -7,241 +7,363 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And again he entered into Capernaum after some days; and it was noised that he was in the house.",
       "tokens": [
         {
-          "t": "And again he entered into Capernaum after"
+          "t": "And again he entered into Capernaum after "
         },
         {
           "add": "some"
         },
         {
-          "t": "days; and it was noised that he was in the house."
+          "t": " days; and it was noised that he was in the house. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And straightway many were gathered together, insomuch that there was no room to receive them, no, not so much as about the door: and he preached the word unto them.",
       "tokens": [
         {
-          "t": "And straightway many were gathered together, insomuch that there was no room to receive"
+          "t": "And straightway many were gathered together, insomuch that there was no room to receive "
         },
         {
           "add": "them"
         },
         {
-          "t": ", no, not so much as about the door: and he preached the word unto them."
+          "t": ", no, not so much as about the door: and he preached the word unto them. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And they come unto him, bringing one sick of the palsy, which was borne of four.",
       "tokens": [
         {
-          "t": "And they come unto him, bringing one sick of the palsy, which was borne of four."
+          "t": "And they come unto him, bringing one sick of the palsy, which was borne of four. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the palsy lay.",
       "tokens": [
         {
-          "t": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken"
+          "t": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken "
         },
         {
           "add": "it"
         },
         {
-          "t": "up, they let down the bed wherein the sick of the palsy lay."
+          "t": " up, they let down the bed wherein the sick of the palsy lay. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.",
       "tokens": [
         {
-          "t": "When Jesus saw their faith, he said unto the sick of the palsy,"
+          "t": "When Jesus saw their faith, he said unto the sick of the palsy, "
+        },
+        {
+          "t": "Son, thy sins be forgiven thee."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "But there were certain of the scribes sitting there, and reasoning in their hearts,",
       "tokens": [
         {
-          "t": "But there were certain of the scribes sitting there, and reasoning in their hearts,"
+          "t": "But there were certain of the scribes sitting there, and reasoning in their hearts, "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Why doth this man thus speak blasphemies? who can forgive sins but God only?",
       "tokens": [
         {
-          "t": "Why doth this"
+          "t": "Why doth this "
         },
         {
           "add": "man"
         },
         {
-          "t": "thus speak blasphemies? who can forgive sins but God only?"
+          "t": " thus speak blasphemies? who can forgive sins but God only? "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?",
       "tokens": [
         {
-          "t": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them,"
+          "t": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, "
+        },
+        {
+          "t": "Why reason ye these things in your hearts?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 9,
-      "tokens": null
+      "plain": "Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?",
+      "tokens": [
+        {
+          "t": "Whether is it easier to say to the sick of the palsy, "
+        },
+        {
+          "add": "Thy"
+        },
+        {
+          "t": " sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 10,
+      "plain": "But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)",
       "tokens": [
         {
-          "t": "(he saith to the sick of the palsy,)"
+          "t": "But that ye may know that the Son of man hath power on earth to forgive sins,"
         },
         {
-          "t": "(he saith to the sick of the palsy,)"
+          "t": " (he saith to the sick of the palsy,) "
         }
       ]
     },
     {
       "v": 11,
-      "tokens": null
+      "plain": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house.",
+      "tokens": [
+        {
+          "t": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 12,
+      "plain": "And immediately he arose, took up the bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion.",
       "tokens": [
         {
-          "t": "And immediately he arose, took up the bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion."
+          "t": "And immediately he arose, took up the bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them.",
       "tokens": [
         {
-          "t": "And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them."
+          "t": "And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And as he passed by, he saw Levi the son of Alphæus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him.",
       "tokens": [
         {
-          "t": "And as he passed by, he saw Levi the"
+          "t": "And as he passed by, he saw Levi the "
         },
         {
           "add": "son"
         },
         {
-          "t": "And he arose and followed him."
+          "t": " of Alphæus sitting at the receipt of custom, and said unto him, "
         },
         {
-          "t": "of Alphæus sitting at the receipt of custom, and said unto him, And he arose and followed him."
+          "t": "Follow me."
+        },
+        {
+          "t": " And he arose and followed him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him.",
       "tokens": [
         {
-          "t": "And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him."
+          "t": "And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?",
       "tokens": [
         {
-          "t": "And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?"
+          "t": "And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners? "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "When Jesus heard it, he saith unto them, They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.",
       "tokens": [
         {
-          "t": "When Jesus heard"
+          "t": "When Jesus heard "
         },
         {
           "add": "it"
         },
         {
-          "t": ", he saith unto them,"
+          "t": ", he saith unto them, "
+        },
+        {
+          "t": "They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?",
       "tokens": [
         {
-          "t": "And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?"
+          "t": "And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not? "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast.",
       "tokens": [
         {
-          "t": "And Jesus said unto them,"
+          "t": "And Jesus said unto them, "
+        },
+        {
+          "t": "Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 20,
-      "tokens": null
+      "plain": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.",
+      "tokens": [
+        {
+          "t": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 21,
-      "tokens": null
+      "plain": "No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse.",
+      "tokens": [
+        {
+          "t": "No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 22,
-      "tokens": null
+      "plain": "And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.",
+      "tokens": [
+        {
+          "t": "And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles."
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 23,
+      "plain": "And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.",
       "tokens": [
         {
-          "t": "And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn."
+          "t": "And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?",
       "tokens": [
         {
-          "t": "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?"
+          "t": "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful? "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 26,
-      "tokens": null
+      "plain": "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?",
+      "tokens": [
+        {
+          "t": "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?"
+        },
+        {
+          "t": " "
+        }
+      ]
     },
     {
       "v": 27,
+      "plain": "And he said unto them, The sabbath was made for man, and not man for the sabbath:",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "The sabbath was made for man, and not man for the sabbath:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 28,
-      "tokens": null
+      "plain": "Therefore the Son of man is Lord also of the sabbath.",
+      "tokens": [
+        {
+          "t": "Therefore the Son of man is Lord also of the sabbath."
+        },
+        {
+          "t": " "
+        }
+      ]
     }
   ]
 }

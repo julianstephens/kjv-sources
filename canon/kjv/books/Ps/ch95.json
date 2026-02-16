@@ -1,0 +1,242 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 95,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.",
+      "tokens": [
+        {
+          "t": "O come, let us sing unto the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ": let us make a joyful noise to the rock of our salvation. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.",
+      "tokens": [
+        {
+          "t": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For the LORD is a great God, and a great King above all gods.",
+      "tokens": [
+        {
+          "t": "For the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " a great God, and a great King above all gods. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "In his hand are the deep places of the earth: the strength of the hills is his also.",
+      "tokens": [
+        {
+          "t": "In his hand "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the deep places of the earth: the strength of the hills "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " his also. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "The sea is his, and he made it: and his hands formed the dry land.",
+      "tokens": [
+        {
+          "t": "The sea "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " his, and he made it: and his hands formed the dry "
+        },
+        {
+          "add": "land"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "O come, let us worship and bow down: let us kneel before the LORD our maker.",
+      "tokens": [
+        {
+          "t": "O come, let us worship and bow down: let us kneel before the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " our maker. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,",
+      "tokens": [
+        {
+          "t": "For he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " our God; and we "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " the people of his pasture, and the sheep of his hand. To day if ye will hear his voice, "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:",
+      "tokens": [
+        {
+          "t": "Harden not your heart, as in the provocation, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " as "
+        },
+        {
+          "add": "in"
+        },
+        {
+          "t": " the day of temptation in the wilderness: "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "When your fathers tempted me, proved me, and saw my work.",
+      "tokens": [
+        {
+          "t": "When your fathers tempted me, proved me, and saw my work. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:",
+      "tokens": [
+        {
+          "t": "Forty years long was I grieved with "
+        },
+        {
+          "add": "this"
+        },
+        {
+          "t": " generation, and said, It "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " a people that do err in their heart, and they have not known my ways: "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Unto whom I sware in my wrath that they should not enter into my rest.",
+      "tokens": [
+        {
+          "t": "Unto whom I sware in my wrath that they should not enter into my rest. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 2
+      },
+      "text": "come…: Heb. prevent his face"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 4
+      },
+      "text": "In…: Heb. In whose"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 4
+      },
+      "text": "the strength…: or, the heights of the hills are his"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 5
+      },
+      "text": "The sea…: Heb. Whose the sea is"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 8
+      },
+      "text": "provocation: Heb. contention"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 11
+      },
+      "text": "that…: Heb. if they enter into my rest"
+    }
+  ]
+}

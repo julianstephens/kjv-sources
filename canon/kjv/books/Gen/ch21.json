@@ -7,387 +7,421 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken.",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "visited Sarah as he had said, and the"
+          "t": " visited Sarah as he had said, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "did unto Sarah as he had spoken."
+          "t": " did unto Sarah as he had spoken. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him.",
       "tokens": [
         {
-          "t": "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him."
+          "t": "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.",
       "tokens": [
         {
-          "t": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac."
+          "t": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And Abraham circumcised his son Isaac being eight days old, as God had commanded him.",
       "tokens": [
         {
-          "t": "And Abraham circumcised his son Isaac being eight days old, as God had commanded him."
+          "t": "And Abraham circumcised his son Isaac being eight days old, as God had commanded him. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And Abraham was an hundred years old, when his son Isaac was born unto him.",
       "tokens": [
         {
-          "t": "And Abraham was an hundred years old, when his son Isaac was born unto him."
+          "t": "And Abraham was an hundred years old, when his son Isaac was born unto him. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "¶ And Sarah said, God hath made me to laugh, so that all that hear will laugh with me.",
       "tokens": [
         {
-          "t": "¶ And Sarah said, God hath made me to laugh,"
+          "t": "¶ And Sarah said, God hath made me to laugh, "
         },
         {
           "add": "so that"
         },
         {
-          "t": "all that hear will laugh with me."
+          "t": " all that hear will laugh with me. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born him a son in his old age.",
       "tokens": [
         {
-          "t": "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born"
+          "t": "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born "
         },
         {
           "add": "him"
         },
         {
-          "t": "a son in his old age."
+          "t": " a son in his old age. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned.",
       "tokens": [
         {
-          "t": "And the child grew, and was weaned: and Abraham made a great feast the"
+          "t": "And the child grew, and was weaned: and Abraham made a great feast the "
         },
         {
           "add": "same"
         },
         {
-          "t": "day that Isaac was weaned."
+          "t": " day that Isaac was weaned. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.",
       "tokens": [
         {
-          "t": "¶ And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking."
+          "t": "¶ And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac.",
       "tokens": [
         {
-          "t": "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son,"
+          "t": "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, "
         },
         {
           "add": "even"
         },
         {
-          "t": "with Isaac."
+          "t": " with Isaac. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And the thing was very grievous in Abraham’s sight because of his son.",
       "tokens": [
         {
-          "t": "And the thing was very grievous in Abraham’s sight because of his son."
+          "t": "And the thing was very grievous in Abraham’s sight because of his son. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.",
       "tokens": [
         {
-          "t": "¶ And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called."
+          "t": "¶ And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And also of the son of the bondwoman will I make a nation, because he is thy seed.",
       "tokens": [
         {
-          "t": "And also of the son of the bondwoman will I make a nation, because he"
+          "t": "And also of the son of the bondwoman will I make a nation, because he "
         },
         {
           "add": "is"
         },
         {
-          "t": "thy seed."
+          "t": " thy seed. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave it unto Hagar, putting it on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer-sheba.",
       "tokens": [
         {
-          "t": "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave"
+          "t": "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave "
         },
         {
           "add": "it"
         },
         {
-          "t": "unto Hagar, putting"
+          "t": " unto Hagar, putting "
         },
         {
           "add": "it"
         },
         {
-          "t": "on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer-sheba."
+          "t": " on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer-sheba. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the water was spent in the bottle, and she cast the child under one of the shrubs.",
       "tokens": [
         {
-          "t": "And the water was spent in the bottle, and she cast the child under one of the shrubs."
+          "t": "And the water was spent in the bottle, and she cast the child under one of the shrubs. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And she went, and sat her down over against him a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept.",
       "tokens": [
         {
-          "t": "And she went, and sat her down over against"
+          "t": "And she went, and sat her down over against "
         },
         {
           "add": "him"
         },
         {
-          "t": "a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against"
+          "t": " a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against "
         },
         {
           "add": "him"
         },
         {
-          "t": ", and lift up her voice, and wept."
+          "t": ", and lift up her voice, and wept. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is.",
       "tokens": [
         {
-          "t": "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he"
+          "t": "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he "
         },
         {
           "add": "is"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation.",
       "tokens": [
         {
-          "t": "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation."
+          "t": "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.",
       "tokens": [
         {
-          "t": "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink."
+          "t": "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer.",
       "tokens": [
         {
-          "t": "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer."
+          "t": "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.",
       "tokens": [
         {
-          "t": "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt."
+          "t": "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest:",
       "tokens": [
         {
-          "t": "¶ And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God"
+          "t": "¶ And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God "
         },
         {
           "add": "is"
         },
         {
-          "t": "with thee in all that thou doest:"
+          "t": " with thee in all that thou doest: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.",
       "tokens": [
         {
-          "t": "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son:"
+          "t": "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: "
         },
         {
           "add": "but"
         },
         {
-          "t": "according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned."
+          "t": " according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Abraham said, I will swear.",
       "tokens": [
         {
-          "t": "And Abraham said, I will swear."
+          "t": "And Abraham said, I will swear. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Abraham reproved Abimelech because of a well of water, which Abimelech’s servants had violently taken away.",
       "tokens": [
         {
-          "t": "And Abraham reproved Abimelech because of a well of water, which Abimelech’s servants had violently taken away."
+          "t": "And Abraham reproved Abimelech because of a well of water, which Abimelech’s servants had violently taken away. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I of it, but to day.",
       "tokens": [
         {
-          "t": "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I"
+          "t": "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I "
         },
         {
           "add": "of it"
         },
         {
-          "t": ", but to day."
+          "t": ", but to day. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.",
       "tokens": [
         {
-          "t": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant."
+          "t": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And Abraham set seven ewe lambs of the flock by themselves.",
       "tokens": [
         {
-          "t": "And Abraham set seven ewe lambs of the flock by themselves."
+          "t": "And Abraham set seven ewe lambs of the flock by themselves. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?",
       "tokens": [
         {
-          "t": "And Abimelech said unto Abraham, What"
+          "t": "And Abimelech said unto Abraham, What "
         },
         {
           "add": "mean"
         },
         {
-          "t": "these seven ewe lambs which thou hast set by themselves?"
+          "t": " these seven ewe lambs which thou hast set by themselves? "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And he said, For these seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well.",
       "tokens": [
         {
-          "t": "And he said, For"
+          "t": "And he said, For "
         },
         {
           "add": "these"
         },
         {
-          "t": "seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well."
+          "t": " seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "Wherefore he called that place Beer-sheba; because there they sware both of them.",
       "tokens": [
         {
-          "t": "Wherefore he called that place Beer-sheba; because there they sware both of them."
+          "t": "Wherefore he called that place Beer-sheba; because there they sware both of them. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.",
       "tokens": [
         {
-          "t": "Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines."
+          "t": "Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "¶ And Abraham planted a grove in Beer-sheba, and called there on the name of the LORD, the everlasting God.",
       "tokens": [
         {
-          "t": "¶ And"
+          "t": "¶ And "
         },
         {
           "add": "Abraham"
         },
         {
-          "t": "planted a grove in Beer-sheba, and called there on the name of the"
+          "t": " planted a grove in Beer-sheba, and called there on the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the everlasting God."
+          "t": ", the everlasting God. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And Abraham sojourned in the Philistines’ land many days.",
       "tokens": [
         {
-          "t": "And Abraham sojourned in the Philistines’ land many days."
+          "t": "And Abraham sojourned in the Philistines’ land many days. "
         }
       ]
     }

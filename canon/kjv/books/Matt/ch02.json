@@ -7,209 +7,232 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,",
       "tokens": [
         {
-          "t": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,"
+          "t": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.",
       "tokens": [
         {
-          "t": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him."
+          "t": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "When Herod the king had heard these things, he was troubled, and all Jerusalem with him.",
       "tokens": [
         {
-          "t": "When Herod the king had heard"
+          "t": "When Herod the king had heard "
         },
         {
           "add": "these things"
         },
         {
-          "t": ", he was troubled, and all Jerusalem with him."
+          "t": ", he was troubled, and all Jerusalem with him. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.",
       "tokens": [
         {
-          "t": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born."
+          "t": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,",
       "tokens": [
         {
-          "t": "And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,"
+          "t": "And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet, "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.",
       "tokens": [
         {
-          "t": "And thou Bethlehem,"
+          "t": "And thou Bethlehem, "
         },
         {
           "add": "in"
         },
         {
-          "t": "the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel."
+          "t": " the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.",
       "tokens": [
         {
-          "t": "Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared."
+          "t": "Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also.",
       "tokens": [
         {
-          "t": "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found"
+          "t": "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found "
         },
         {
           "add": "him"
         },
         {
-          "t": ", bring me word again, that I may come and worship him also."
+          "t": ", bring me word again, that I may come and worship him also. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.",
       "tokens": [
         {
-          "t": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was."
+          "t": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "When they saw the star, they rejoiced with exceeding great joy.",
       "tokens": [
         {
-          "t": "When they saw the star, they rejoiced with exceeding great joy."
+          "t": "When they saw the star, they rejoiced with exceeding great joy. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.",
       "tokens": [
         {
-          "t": "¶ And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh."
+          "t": "¶ And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.",
       "tokens": [
         {
-          "t": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way."
+          "t": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.",
       "tokens": [
         {
-          "t": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him."
+          "t": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "When he arose, he took the young child and his mother by night, and departed into Egypt:",
       "tokens": [
         {
-          "t": "When he arose, he took the young child and his mother by night, and departed into Egypt:"
+          "t": "When he arose, he took the young child and his mother by night, and departed into Egypt: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.",
       "tokens": [
         {
-          "t": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son."
+          "t": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.",
       "tokens": [
         {
-          "t": "¶ Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men."
+          "t": "¶ Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Then was fulfilled that which was spoken by Jeremy the prophet, saying,",
       "tokens": [
         {
-          "t": "Then was fulfilled that which was spoken by Jeremy the prophet, saying,"
+          "t": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.",
       "tokens": [
         {
-          "t": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping"
+          "t": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping "
         },
         {
           "add": "for"
         },
         {
-          "t": "her children, and would not be comforted, because they are not."
+          "t": " her children, and would not be comforted, because they are not. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,",
       "tokens": [
         {
-          "t": "¶ But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,"
+          "t": "¶ But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life.",
       "tokens": [
         {
-          "t": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life."
+          "t": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And he arose, and took the young child and his mother, and came into the land of Israel.",
       "tokens": [
         {
-          "t": "And he arose, and took the young child and his mother, and came into the land of Israel."
+          "t": "And he arose, and took the young child and his mother, and came into the land of Israel. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:",
       "tokens": [
         {
-          "t": "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:"
+          "t": "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee: "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.",
       "tokens": [
         {
-          "t": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene."
+          "t": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene. "
         }
       ]
     }

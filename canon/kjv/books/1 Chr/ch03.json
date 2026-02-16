@@ -7,223 +7,247 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:",
       "tokens": [
         {
-          "t": "Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:"
+          "t": "Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:",
       "tokens": [
         {
-          "t": "The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:"
+          "t": "The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife.",
       "tokens": [
         {
-          "t": "The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife."
+          "t": "The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "These six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years.",
       "tokens": [
         {
           "add": "These"
         },
         {
-          "t": "six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years."
+          "t": " six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bath-shua the daughter of Ammiel:",
       "tokens": [
         {
-          "t": "And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bath-shua the daughter of Ammiel:"
+          "t": "And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bath-shua the daughter of Ammiel: "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Ibhar also, and Elishama, and Eliphelet,",
       "tokens": [
         {
-          "t": "Ibhar also, and Elishama, and Eliphelet,"
+          "t": "Ibhar also, and Elishama, and Eliphelet, "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Nogah, and Nepheg, and Japhia,",
       "tokens": [
         {
-          "t": "And Nogah, and Nepheg, and Japhia,"
+          "t": "And Nogah, and Nepheg, and Japhia, "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And Elishama, and Eliada, and Eliphelet, nine.",
       "tokens": [
         {
-          "t": "And Elishama, and Eliada, and Eliphelet, nine."
+          "t": "And Elishama, and Eliada, and Eliphelet, nine. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "These were all the sons of David, beside the sons of the concubines, and Tamar their sister.",
       "tokens": [
         {
           "add": "These were"
         },
         {
-          "t": "all the sons of David, beside the sons of the concubines, and Tamar their sister."
+          "t": " all the sons of David, beside the sons of the concubines, and Tamar their sister. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ And Solomon’s son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,",
       "tokens": [
         {
-          "t": "¶ And Solomon’s son"
+          "t": "¶ And Solomon’s son "
         },
         {
           "add": "was"
         },
         {
-          "t": "Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,"
+          "t": " Rehoboam, Abia his son, Asa his son, Jehoshaphat his son, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Joram his son, Ahaziah his son, Joash his son,",
       "tokens": [
         {
-          "t": "Joram his son, Ahaziah his son, Joash his son,"
+          "t": "Joram his son, Ahaziah his son, Joash his son, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Amaziah his son, Azariah his son, Jotham his son,",
       "tokens": [
         {
-          "t": "Amaziah his son, Azariah his son, Jotham his son,"
+          "t": "Amaziah his son, Azariah his son, Jotham his son, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Ahaz his son, Hezekiah his son, Manasseh his son,",
       "tokens": [
         {
-          "t": "Ahaz his son, Hezekiah his son, Manasseh his son,"
+          "t": "Ahaz his son, Hezekiah his son, Manasseh his son, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Amon his son, Josiah his son.",
       "tokens": [
         {
-          "t": "Amon his son, Josiah his son."
+          "t": "Amon his son, Josiah his son. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.",
       "tokens": [
         {
-          "t": "And the sons of Josiah"
+          "t": "And the sons of Josiah "
         },
         {
           "add": "were"
         },
         {
-          "t": ", the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum."
+          "t": ", the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.",
       "tokens": [
         {
-          "t": "And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son."
+          "t": "And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And the sons of Jeconiah; Assir, Salathiel his son,",
       "tokens": [
         {
-          "t": "¶ And the sons of Jeconiah; Assir, Salathiel his son,"
+          "t": "¶ And the sons of Jeconiah; Assir, Salathiel his son, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah.",
       "tokens": [
         {
-          "t": "Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah."
+          "t": "Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And the sons of Pedaiah were, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:",
       "tokens": [
         {
-          "t": "And the sons of Pedaiah"
+          "t": "And the sons of Pedaiah "
         },
         {
           "add": "were"
         },
         {
-          "t": ", Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:"
+          "t": ", Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushab-hesed, five.",
       "tokens": [
         {
-          "t": "And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushab-hesed, five."
+          "t": "And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushab-hesed, five. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And the sons of Hananiah; Pelatiah, and Jesaiah: the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shechaniah.",
       "tokens": [
         {
-          "t": "And the sons of Hananiah; Pelatiah, and Jesaiah: the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shechaniah."
+          "t": "And the sons of Hananiah; Pelatiah, and Jesaiah: the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shechaniah. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six.",
       "tokens": [
         {
-          "t": "And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six."
+          "t": "And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three.",
       "tokens": [
         {
-          "t": "And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three."
+          "t": "And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And the sons of Elioenai were, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven.",
       "tokens": [
         {
-          "t": "And the sons of Elioenai"
+          "t": "And the sons of Elioenai "
         },
         {
           "add": "were"
         },
         {
-          "t": ", Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven."
+          "t": ", Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven. "
         }
       ]
     }

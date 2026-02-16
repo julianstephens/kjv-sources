@@ -7,403 +7,484 @@
   "verses": [
     {
       "v": 1,
+      "plain": "The beginning of the gospel of Jesus Christ, the Son of God;",
       "tokens": [
         {
-          "t": "The beginning of the gospel of Jesus Christ, the Son of God;"
+          "t": "The beginning of the gospel of Jesus Christ, the Son of God; "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
       "tokens": [
         {
-          "t": "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+          "t": "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
       "tokens": [
         {
-          "t": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+          "t": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.",
       "tokens": [
         {
-          "t": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins."
+          "t": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And there went out unto him all the land of Judæa, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.",
       "tokens": [
         {
-          "t": "And there went out unto him all the land of Judæa, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins."
+          "t": "And there went out unto him all the land of Judæa, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;",
       "tokens": [
         {
-          "t": "And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;"
+          "t": "And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey; "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose.",
       "tokens": [
         {
-          "t": "And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose."
+          "t": "And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.",
       "tokens": [
         {
-          "t": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost."
+          "t": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.",
       "tokens": [
         {
-          "t": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan."
+          "t": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:",
       "tokens": [
         {
-          "t": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:"
+          "t": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him: "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.",
       "tokens": [
         {
-          "t": "And there came a voice from heaven,"
+          "t": "And there came a voice from heaven, "
         },
         {
           "add": "saying"
         },
         {
-          "t": ", Thou art my beloved Son, in whom I am well pleased."
+          "t": ", Thou art my beloved Son, in whom I am well pleased. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And immediately the Spirit driveth him into the wilderness.",
       "tokens": [
         {
-          "t": "And immediately the Spirit driveth him into the wilderness."
+          "t": "And immediately the Spirit driveth him into the wilderness. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.",
       "tokens": [
         {
-          "t": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him."
+          "t": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,",
       "tokens": [
         {
-          "t": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,"
+          "t": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
       "tokens": [
         {
-          "t": "And saying,"
+          "t": "And saying, "
+        },
+        {
+          "t": "The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.",
       "tokens": [
         {
-          "t": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers."
+          "t": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men.",
       "tokens": [
         {
-          "t": "And Jesus said unto them,"
+          "t": "And Jesus said unto them, "
+        },
+        {
+          "t": "Come ye after me, and I will make you to become fishers of men."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And straightway they forsook their nets, and followed him.",
       "tokens": [
         {
-          "t": "And straightway they forsook their nets, and followed him."
+          "t": "And straightway they forsook their nets, and followed him. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "And when he had gone a little further thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets.",
       "tokens": [
         {
-          "t": "And when he had gone a little further thence, he saw James the"
+          "t": "And when he had gone a little further thence, he saw James the "
         },
         {
           "add": "son"
         },
         {
-          "t": "of Zebedee, and John his brother, who also were in the ship mending their nets."
+          "t": " of Zebedee, and John his brother, who also were in the ship mending their nets. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him.",
       "tokens": [
         {
-          "t": "And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him."
+          "t": "And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.",
       "tokens": [
         {
-          "t": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught."
+          "t": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.",
       "tokens": [
         {
-          "t": "And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes."
+          "t": "And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "And there was in their synagogue a man with an unclean spirit; and he cried out,",
       "tokens": [
         {
-          "t": "And there was in their synagogue a man with an unclean spirit; and he cried out,"
+          "t": "And there was in their synagogue a man with an unclean spirit; and he cried out, "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God.",
       "tokens": [
         {
-          "t": "Saying, Let"
+          "t": "Saying, Let "
         },
         {
           "add": "us"
         },
         {
-          "t": "alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God."
+          "t": " alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And Jesus rebuked him, saying, Hold thy peace, and come out of him.",
       "tokens": [
         {
-          "t": "And Jesus rebuked him, saying,"
+          "t": "And Jesus rebuked him, saying, "
+        },
+        {
+          "t": "Hold thy peace, and come out of him."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.",
       "tokens": [
         {
-          "t": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him."
+          "t": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him.",
       "tokens": [
         {
-          "t": "And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine"
+          "t": "And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine "
         },
         {
           "add": "is"
         },
         {
-          "t": "this? for with authority commandeth he even the unclean spirits, and they do obey him."
+          "t": " this? for with authority commandeth he even the unclean spirits, and they do obey him. "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And immediately his fame spread abroad throughout all the region round about Galilee.",
       "tokens": [
         {
-          "t": "And immediately his fame spread abroad throughout all the region round about Galilee."
+          "t": "And immediately his fame spread abroad throughout all the region round about Galilee. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John.",
       "tokens": [
         {
-          "t": "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John."
+          "t": "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "But Simon’s wife’s mother lay sick of a fever, and anon they tell him of her.",
       "tokens": [
         {
-          "t": "But Simon’s wife’s mother lay sick of a fever, and anon they tell him of her."
+          "t": "But Simon’s wife’s mother lay sick of a fever, and anon they tell him of her. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them.",
       "tokens": [
         {
-          "t": "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them."
+          "t": "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.",
       "tokens": [
         {
-          "t": "And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils."
+          "t": "And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "And all the city was gathered together at the door.",
       "tokens": [
         {
-          "t": "And all the city was gathered together at the door."
+          "t": "And all the city was gathered together at the door. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.",
       "tokens": [
         {
-          "t": "And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him."
+          "t": "And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him. "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.",
       "tokens": [
         {
-          "t": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed."
+          "t": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed. "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And Simon and they that were with him followed after him.",
       "tokens": [
         {
-          "t": "And Simon and they that were with him followed after him."
+          "t": "And Simon and they that were with him followed after him. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And when they had found him, they said unto him, All men seek for thee.",
       "tokens": [
         {
-          "t": "And when they had found him, they said unto him, All"
+          "t": "And when they had found him, they said unto him, All "
         },
         {
           "add": "men"
         },
         {
-          "t": "seek for thee."
+          "t": " seek for thee. "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.",
       "tokens": [
         {
-          "t": "And he said unto them,"
+          "t": "And he said unto them, "
+        },
+        {
+          "t": "Let us go into the next towns, that I may preach there also: for therefore came I forth."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 39,
+      "plain": "And he preached in their synagogues throughout all Galilee, and cast out devils.",
       "tokens": [
         {
-          "t": "And he preached in their synagogues throughout all Galilee, and cast out devils."
+          "t": "And he preached in their synagogues throughout all Galilee, and cast out devils. "
         }
       ]
     },
     {
       "v": 40,
+      "plain": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.",
       "tokens": [
         {
-          "t": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean."
+          "t": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean. "
         }
       ]
     },
     {
       "v": 41,
+      "plain": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean.",
       "tokens": [
         {
-          "t": "And Jesus, moved with compassion, put forth"
+          "t": "And Jesus, moved with compassion, put forth "
         },
         {
           "add": "his"
         },
         {
-          "t": "hand, and touched him, and saith unto him,"
+          "t": " hand, and touched him, and saith unto him, "
+        },
+        {
+          "t": "I will; be thou clean."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 42,
+      "plain": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed.",
       "tokens": [
         {
-          "t": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed."
+          "t": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed. "
         }
       ]
     },
     {
       "v": 43,
+      "plain": "And he straitly charged him, and forthwith sent him away;",
       "tokens": [
         {
-          "t": "And he straitly charged him, and forthwith sent him away;"
+          "t": "And he straitly charged him, and forthwith sent him away; "
         }
       ]
     },
     {
       "v": 44,
+      "plain": "And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them.",
       "tokens": [
         {
-          "t": "And saith unto him,"
+          "t": "And saith unto him, "
+        },
+        {
+          "t": "See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them."
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 45,
+      "plain": "But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.",
       "tokens": [
         {
-          "t": "But he went out, and began to publish"
+          "t": "But he went out, and began to publish "
         },
         {
           "add": "it"
         },
         {
-          "t": "much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter."
+          "t": " much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter. "
         }
       ]
     }

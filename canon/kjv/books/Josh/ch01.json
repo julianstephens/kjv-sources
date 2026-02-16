@@ -7,247 +7,265 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses’ minister, saying,",
       "tokens": [
         {
-          "t": "Now after the death of Moses the servant of the"
+          "t": "Now after the death of Moses the servant of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "it came to pass, that the"
+          "t": " it came to pass, that the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Joshua the son of Nun, Moses’ minister, saying,"
+          "t": " spake unto Joshua the son of Nun, Moses’ minister, saying, "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.",
       "tokens": [
         {
-          "t": "Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them,"
+          "t": "Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to the children of Israel."
+          "t": " to the children of Israel. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses.",
       "tokens": [
         {
-          "t": "Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses."
+          "t": "Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast.",
       "tokens": [
         {
-          "t": "From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast."
+          "t": "From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee.",
       "tokens": [
         {
-          "t": "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses,"
+          "t": "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, "
         },
         {
           "add": "so"
         },
         {
-          "t": "I will be with thee: I will not fail thee, nor forsake thee."
+          "t": " I will be with thee: I will not fail thee, nor forsake thee. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them.",
       "tokens": [
         {
-          "t": "Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them."
+          "t": "Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest.",
       "tokens": [
         {
-          "t": "Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it"
+          "t": "Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it "
         },
         {
           "add": "to"
         },
         {
-          "t": "the right hand or"
+          "t": " the right hand or "
         },
         {
           "add": "to"
         },
         {
-          "t": "the left, that thou mayest prosper whithersoever thou goest."
+          "t": " the left, that thou mayest prosper whithersoever thou goest. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.",
       "tokens": [
         {
-          "t": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success."
+          "t": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.",
       "tokens": [
         {
-          "t": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the"
+          "t": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God"
+          "t": " thy God "
         },
         {
           "add": "is"
         },
         {
-          "t": "with thee whithersoever thou goest."
+          "t": " with thee whithersoever thou goest. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "¶ Then Joshua commanded the officers of the people, saying,",
       "tokens": [
         {
-          "t": "¶ Then Joshua commanded the officers of the people, saying,"
+          "t": "¶ Then Joshua commanded the officers of the people, saying, "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the LORD your God giveth you to possess it.",
       "tokens": [
         {
-          "t": "Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the"
+          "t": "Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God giveth you to possess it."
+          "t": " your God giveth you to possess it. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,",
       "tokens": [
         {
-          "t": "¶ And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,"
+          "t": "¶ And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying, "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Remember the word which Moses the servant of the LORD commanded you, saying, The LORD your God hath given you rest, and hath given you this land.",
       "tokens": [
         {
-          "t": "Remember the word which Moses the servant of the"
+          "t": "Remember the word which Moses the servant of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "commanded you, saying, The"
+          "t": " commanded you, saying, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God hath given you rest, and hath given you this land."
+          "t": " your God hath given you rest, and hath given you this land. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;",
       "tokens": [
         {
-          "t": "Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;"
+          "t": "Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them; "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Until the LORD have given your brethren rest, as he hath given you, and they also have possessed the land which the LORD your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the LORD’s servant gave you on this side Jordan toward the sunrising.",
       "tokens": [
         {
-          "t": "Until the"
+          "t": "Until the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "have given your brethren rest, as"
+          "t": " have given your brethren rest, as "
         },
         {
           "add": "he hath given"
         },
         {
-          "t": "you, and they also have possessed the land which the"
+          "t": " you, and they also have possessed the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the"
+          "t": " your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "servant gave you on this side Jordan toward the sunrising."
+          "t": " servant gave you on this side Jordan toward the sunrising. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go.",
       "tokens": [
         {
-          "t": "¶ And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go."
+          "t": "¶ And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "According as we hearkened unto Moses in all things, so will we hearken unto thee: only the LORD thy God be with thee, as he was with Moses.",
       "tokens": [
         {
-          "t": "According as we hearkened unto Moses in all things, so will we hearken unto thee: only the"
+          "t": "According as we hearkened unto Moses in all things, so will we hearken unto thee: only the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God be with thee, as he was with Moses."
+          "t": " thy God be with thee, as he was with Moses. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Whosoever he be that doth rebel against thy commandment, and will not hearken unto thy words in all that thou commandest him, he shall be put to death: only be strong and of a good courage.",
       "tokens": [
         {
-          "t": "Whosoever"
+          "t": "Whosoever "
         },
         {
           "add": "he be"
         },
         {
-          "t": "that doth rebel against thy commandment, and will not hearken unto thy words in all that thou commandest him, he shall be put to death: only be strong and of a good courage."
+          "t": " that doth rebel against thy commandment, and will not hearken unto thy words in all that thou commandest him, he shall be put to death: only be strong and of a good courage. "
         }
       ]
     }

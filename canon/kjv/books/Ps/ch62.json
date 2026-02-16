@@ -1,0 +1,293 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 62,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Truly my soul waiteth upon God: from him cometh my salvation.",
+      "tokens": [
+        {
+          "t": "Truly my soul waiteth upon God: from him "
+        },
+        {
+          "add": "cometh"
+        },
+        {
+          "t": " my salvation. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "He only is my rock and my salvation; he is my defence; I shall not be greatly moved.",
+      "tokens": [
+        {
+          "t": "He only "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my rock and my salvation; "
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": " my defence; I shall not be greatly moved. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall shall ye be, and as a tottering fence.",
+      "tokens": [
+        {
+          "t": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall "
+        },
+        {
+          "add": "shall ye be, and as"
+        },
+        {
+          "t": " a tottering fence. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.",
+      "tokens": [
+        {
+          "t": "They only consult to cast "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "My soul, wait thou only upon God; for my expectation is from him.",
+      "tokens": [
+        {
+          "t": "My soul, wait thou only upon God; for my expectation "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " from him. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "He only is my rock and my salvation: he is my defence; I shall not be moved.",
+      "tokens": [
+        {
+          "t": "He only "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my rock and my salvation: "
+        },
+        {
+          "add": "he is"
+        },
+        {
+          "t": " my defence; I shall not be moved. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God.",
+      "tokens": [
+        {
+          "t": "In God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my salvation and my glory: the rock of my strength, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " my refuge, "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " in God. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah.",
+      "tokens": [
+        {
+          "t": "Trust in him at all times; "
+        },
+        {
+          "add": "ye"
+        },
+        {
+          "t": " people, pour out your heart before him: God "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " a refuge for us. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity.",
+      "tokens": [
+        {
+          "t": "Surely men of low degree "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " vanity, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " men of high degree "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " a lie: to be laid in the balance, they "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " altogether "
+        },
+        {
+          "add": "lighter"
+        },
+        {
+          "t": " than vanity. "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them.",
+      "tokens": [
+        {
+          "t": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart "
+        },
+        {
+          "add": "upon them"
+        },
+        {
+          "t": ". "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "God hath spoken once; twice have I heard this; that power belongeth unto God.",
+      "tokens": [
+        {
+          "t": "God hath spoken once; twice have I heard this; that power "
+        },
+        {
+          "add": "belongeth"
+        },
+        {
+          "t": " unto God. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work.",
+      "tokens": [
+        {
+          "t": "Also unto thee, O Lord, "
+        },
+        {
+          "add": "belongeth"
+        },
+        {
+          "t": " mercy: for thou renderest to every man according to his work. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Truly: or, Only"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "waiteth: Heb. is silent"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 2
+      },
+      "text": "defence: Heb. high place"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 4
+      },
+      "text": "inwardly: Heb. in their inward parts"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 9
+      },
+      "text": "altogether: or, alike"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 11
+      },
+      "text": "power: or, strength"
+    }
+  ]
+}

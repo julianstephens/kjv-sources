@@ -7,6 +7,8 @@ import (
 	"strings"
 
 	"golang.org/x/net/html"
+
+	"github.com/julianstephens/kjv-sources/tools/util"
 )
 
 // Parser extracts verse data from HTML chapter files
@@ -18,14 +20,14 @@ func NewParser() *Parser {
 }
 
 // Parse parses an HTML document and extracts verses
-func (p *Parser) Parse(content []byte, filename string) (*ExtractedChapter, error) {
+func (p *Parser) Parse(content []byte, filename string) (*util.ExtractedChapter, error) {
 	doc, err := html.Parse(strings.NewReader(string(content)))
 	if err != nil {
 		return nil, fmt.Errorf("failed to parse HTML: %w", err)
 	}
 
-	result := &ExtractedChapter{
-		Verses:     make([]ExtractedVerse, 0),
+	result := &util.ExtractedChapter{
+		Verses:     make([]util.ExtractedVerse, 0),
 		SourceFile: filename,
 	}
 
@@ -100,9 +102,9 @@ func (p *Parser) extractChapterNumber(n *html.Node) (int, error) {
 }
 
 // extractVerses finds all <span class="verse"> elements and extracts verse data with tokens
-func (p *Parser) extractVerses(n *html.Node) ([]ExtractedVerse, error) {
-	verses := make([]ExtractedVerse, 0)
-	verseMap := make(map[int]*ExtractedVerse) // verse number -> ExtractedVerse
+func (p *Parser) extractVerses(n *html.Node) ([]util.ExtractedVerse, error) {
+	verses := make([]util.ExtractedVerse, 0)
+	verseMap := make(map[int]*util.ExtractedVerse) // verse number -> ExtractedVerse
 
 	var walk func(*html.Node)
 	walk = func(n *html.Node) {
@@ -120,10 +122,13 @@ func (p *Parser) extractVerses(n *html.Node) ([]ExtractedVerse, error) {
 					})
 					if len(verseNumStr) > 0 {
 						if num, err := strconv.Atoi(verseNumStr[0]); err == nil {
+							// Extract raw plain text before tokenizing
+							plainText := p.extractVersePlainText(n)
 							// Extract tokenized content after the verse number span through the next verse or end
 							tokens := p.extractVerseTokens(n)
-							verseMap[num] = &ExtractedVerse{
+							verseMap[num] = &util.ExtractedVerse{
 								Number: num,
+								Plain:  plainText,
 								Tokens: tokens,
 							}
 						}
@@ -153,54 +158,6 @@ func (p *Parser) extractVerses(n *html.Node) ([]ExtractedVerse, error) {
 	return verses, nil
 }
 
-// extractVerseContent extracts the text content after a verse number span
-func (p *Parser) extractVerseContent(verseSpan *html.Node) string {
-	var text strings.Builder
-
-	// Get text from the verse span itself (skip the verse number)
-	content := p.getTextContent(verseSpan)
-	parts := strings.FieldsFunc(content, func(r rune) bool {
-		return r == ' ' || r == '\n' || r == '\t'
-	})
-	// Skip first part (verse number)
-	if len(parts) > 1 {
-		text.WriteString(strings.Join(parts[1:], " "))
-		text.WriteString(" ")
-	}
-
-	// Get text from siblings until the next verse span or end of content
-	for sibling := verseSpan.NextSibling; sibling != nil; sibling = sibling.NextSibling {
-		if sibling.Type == html.ElementNode && sibling.Data == "span" {
-			// Check if it's another verse
-			for _, attr := range sibling.Attr {
-				if attr.Key == "class" && attr.Val == "verse" {
-					return text.String()
-				}
-			}
-		}
-
-		// Add text content, but skip footnote links
-		if !p.isFootnoteElement(sibling) {
-			text.WriteString(p.getTextContent(sibling))
-			text.WriteString(" ")
-		}
-	}
-
-	return text.String()
-}
-
-// isFootnoteElement checks if a node is a footnote link
-func (p *Parser) isFootnoteElement(n *html.Node) bool {
-	if n.Type == html.ElementNode && n.Data == "a" {
-		for _, attr := range n.Attr {
-			if attr.Key == "href" && strings.HasPrefix(attr.Val, "#FN") {
-				return true
-			}
-		}
-	}
-	return false
-}
-
 // getTextContent extracts all text content from a node and its children
 func (p *Parser) getTextContent(n *html.Node) string {
 	var text strings.Builder
@@ -220,7 +177,7 @@ func (p *Parser) getTextContent(n *html.Node) string {
 	return text.String()
 }
 
-// cleanVerseText normalizes whitespace in verse text
+// cleanVerseText normalizes whitespace in verse text (with trim)
 func (p *Parser) cleanVerseText(text string) string {
 	// Replace multiple spaces, tabs, newlines with single space
 	re := regexp.MustCompile(`\s+`)
@@ -231,6 +188,21 @@ func (p *Parser) cleanVerseText(text string) string {
 
 	// Decode HTML entities
 	text = decodeHTMLEntities(text)
+
+	return text
+}
+
+// cleanVerseTextNoTrim normalizes whitespace but preserves leading/trailing spaces
+// This is used for individual tokens so inter-element spacing is preserved
+func (p *Parser) cleanVerseTextNoTrim(text string) string {
+	// Replace multiple spaces, tabs, newlines with single space
+	re := regexp.MustCompile(`\s+`)
+	text = re.ReplaceAllString(text, " ")
+
+	// Decode HTML entities
+	text = decodeHTMLEntities(text)
+
+	// DO NOT trim - preserve leading/trailing spaces for proper concatenation
 
 	return text
 }
@@ -273,9 +245,50 @@ func decodeHTMLEntities(s string) string {
 	return result
 }
 
+// extractVersePlainText extracts the raw plain text of a verse from the verse span to the next verse span
+// This captures the original text without tokenization for validation purposes
+func (p *Parser) extractVersePlainText(verseSpan *html.Node) string {
+	var plainText strings.Builder
+
+	// Start from the next sibling after the verse span
+	node := verseSpan.NextSibling
+
+	for node != nil {
+		// Stop if we hit another verse span
+		if node.Type == html.ElementNode && node.Data == "span" {
+			for _, attr := range node.Attr {
+				if attr.Key == "class" && attr.Val == "verse" {
+					// Found next verse, return the accumulated plain text
+					return p.cleanVerseText(plainText.String())
+				}
+			}
+		}
+
+		// Extract text from this node
+		switch node.Type {
+		case html.TextNode:
+			plainText.WriteString(node.Data)
+		case html.ElementNode:
+			// Get text content from element, skipping footnote marks
+			switch {
+			case node.Data == "a" && p.hasClass(node, "notemark"):
+				// Skip footnote marks - they're not part of verse text
+			default:
+				// Include text from this element
+				plainText.WriteString(p.getTextContent(node))
+			}
+		}
+
+		node = node.NextSibling
+	}
+
+	// End of document, return what we accumulated
+	return p.cleanVerseText(plainText.String())
+}
+
 // extractVerseTokens extracts tokenized content from a verse span through the next verse
-func (p *Parser) extractVerseTokens(verseSpan *html.Node) []Token {
-	var tokens []Token
+func (p *Parser) extractVerseTokens(verseSpan *html.Node) []util.Token {
+	var tokens []util.Token
 	var currentText strings.Builder
 
 	// Start from the next sibling after the verse span
@@ -288,9 +301,9 @@ func (p *Parser) extractVerseTokens(verseSpan *html.Node) []Token {
 				if attr.Key == "class" && attr.Val == "verse" {
 					// Found next verse, flush any accumulated text
 					if currentText.Len() > 0 {
-						text := p.cleanVerseText(currentText.String())
+						text := p.cleanVerseTextNoTrim(currentText.String())
 						if text != "" {
-							tokens = append(tokens, Token{Text: text})
+							tokens = append(tokens, util.Token{Text: text})
 						}
 					}
 					return tokens
@@ -299,39 +312,49 @@ func (p *Parser) extractVerseTokens(verseSpan *html.Node) []Token {
 		}
 
 		// Handle different node types
-		if node.Type == html.TextNode {
+		switch node.Type {
+		case html.TextNode:
 			// Accumulate text
 			currentText.WriteString(node.Data)
-		} else if node.Type == html.ElementNode {
+		case html.ElementNode:
 			// Handle special spans (add, nd) and other elements
 			switch {
 			case p.hasClass(node, "add"):
 				// Flush current text
 				if currentText.Len() > 0 {
-					text := p.cleanVerseText(currentText.String())
+					text := p.cleanVerseTextNoTrim(currentText.String())
 					if text != "" {
-						tokens = append(tokens, Token{Text: text})
+						tokens = append(tokens, util.Token{Text: text})
 					}
 					currentText.Reset()
 				}
-				// Add "add" token
-				tokens = append(tokens, Token{Add: p.getTextContent(node)})
+				// Add "add" token - store raw text for later cleaning
+				tokens = append(tokens, util.Token{Add: p.getTextContent(node)})
 			case p.hasClass(node, "nd"):
 				// Flush current text
 				if currentText.Len() > 0 {
-					text := p.cleanVerseText(currentText.String())
+					text := p.cleanVerseTextNoTrim(currentText.String())
 					if text != "" {
-						tokens = append(tokens, Token{Text: text})
+						tokens = append(tokens, util.Token{Text: text})
 					}
 					currentText.Reset()
 				}
-				// Add "nd" (divine name) token
-				tokens = append(tokens, Token{ND: p.getTextContent(node)})
+				// Add "nd" (divine name) token - store raw text for later cleaning
+				tokens = append(tokens, util.Token{ND: p.getTextContent(node)})
 			case node.Data == "a" && p.hasClass(node, "notemark"):
 				// Skip footnote marks - they're not part of verse text
 			default:
-				// Recurse into other elements
-				tokens = append(tokens, p.extractVerseTokens(node)...)
+				// Flush current text before recursing
+				if currentText.Len() > 0 {
+					text := p.cleanVerseTextNoTrim(currentText.String())
+					if text != "" {
+						tokens = append(tokens, util.Token{Text: text})
+					}
+					currentText.Reset()
+				}
+				// Recurse into children of other elements (not siblings)
+				childTokens := p.extractTokensFromNode(node)
+				tokens = append(tokens, childTokens...)
 			}
 		}
 
@@ -340,9 +363,69 @@ func (p *Parser) extractVerseTokens(verseSpan *html.Node) []Token {
 
 	// Flush any remaining text
 	if currentText.Len() > 0 {
-		text := p.cleanVerseText(currentText.String())
+		text := p.cleanVerseTextNoTrim(currentText.String())
 		if text != "" {
-			tokens = append(tokens, Token{Text: text})
+			tokens = append(tokens, util.Token{Text: text})
+		}
+	}
+
+	return tokens
+}
+
+// extractTokensFromNode extracts tokenized content from a node's children
+// This is different from extractVerseTokens which walks through siblings
+// This function walks through the children of the given node
+func (p *Parser) extractTokensFromNode(node *html.Node) []util.Token {
+	var tokens []util.Token
+	var currentText strings.Builder
+
+	// Walk through this node's children
+	for child := node.FirstChild; child != nil; child = child.NextSibling {
+		// Handle different node types
+		switch child.Type {
+		case html.TextNode:
+			// Accumulate text
+			currentText.WriteString(child.Data)
+		case html.ElementNode:
+			// Handle special spans (add, nd) and other elements
+			switch {
+			case p.hasClass(child, "add"):
+				// Flush current text
+				if currentText.Len() > 0 {
+					text := p.cleanVerseTextNoTrim(currentText.String())
+					if text != "" {
+						tokens = append(tokens, util.Token{Text: text})
+					}
+					currentText.Reset()
+				}
+				// Add "add" token - store raw text for later cleaning
+				tokens = append(tokens, util.Token{Add: p.getTextContent(child)})
+			case p.hasClass(child, "nd"):
+				// Flush current text
+				if currentText.Len() > 0 {
+					text := p.cleanVerseTextNoTrim(currentText.String())
+					if text != "" {
+						tokens = append(tokens, util.Token{Text: text})
+					}
+					currentText.Reset()
+				}
+				// Add "nd" (divine name) token - store raw text for later cleaning
+				tokens = append(tokens, util.Token{ND: p.getTextContent(child)})
+			case child.Data == "a" && p.hasClass(child, "notemark"):
+				// Skip footnote marks - they're not part of verse text
+			default:
+				// Recurse into children of other elements
+				childTokens := p.extractTokensFromNode(child)
+				tokens = append(tokens, childTokens...)
+			}
+		}
+	}
+
+	// Flush any remaining text
+	if currentText.Len() > 0 {
+		text := p.cleanVerseTextNoTrim(currentText.String())
+		if text != "" {
+			tokens = append(tokens, util.Token{Text: text})
 		}
 	}
 
@@ -365,8 +448,8 @@ func (p *Parser) hasClass(node *html.Node, className string) bool {
 }
 
 // extractFootnotes extracts footnotes from the footnote section
-func (p *Parser) extractFootnotes(n *html.Node) ([]ExtractedFootnote, error) {
-	footnotes := make([]ExtractedFootnote, 0)
+func (p *Parser) extractFootnotes(n *html.Node) ([]util.ExtractedFootnote, error) {
+	footnotes := make([]util.ExtractedFootnote, 0)
 
 	var walk func(*html.Node)
 	walk = func(n *html.Node) {
@@ -399,8 +482,8 @@ func (p *Parser) extractFootnotes(n *html.Node) ([]ExtractedFootnote, error) {
 
 // parseFootnoteParagraph extracts footnote data from a <p class="f"> element
 // Format: <p class="f" id="FN1"><span class="notemark">*</span><a class="notebackref" href="#V3">1.3</a><span class="ft">equity: Heb. equities</span></p>
-func (p *Parser) parseFootnoteParagraph(paraNode *html.Node) *ExtractedFootnote {
-	fn := &ExtractedFootnote{}
+func (p *Parser) parseFootnoteParagraph(paraNode *html.Node) *util.ExtractedFootnote {
+	fn := &util.ExtractedFootnote{}
 
 	// Get id (e.g., "FN1")
 	for _, attr := range paraNode.Attr {
@@ -448,22 +531,4 @@ func (p *Parser) parseFootnoteParagraph(paraNode *html.Node) *ExtractedFootnote 
 	}
 
 	return fn
-}
-
-// tokenizeVerseText converts plain verse text into a token array
-// For now, creates a single text token unless special patterns are detected
-func (p *Parser) tokenizeVerseText(text string) []Token {
-	text = strings.TrimSpace(text)
-	if text == "" {
-		return []Token{}
-	}
-
-	// For now, treat the entire text as a single "t" token
-	// In the future, this could be enhanced to:
-	// - Parse HTML tags for italics (added words -> "add")
-	// - Detect divine name patterns (-> "nd")
-	// - Split on punctuation for more granular tokens
-	return []Token{
-		{Text: text},
-	}
 }

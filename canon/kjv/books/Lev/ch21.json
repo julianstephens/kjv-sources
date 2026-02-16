@@ -7,334 +7,358 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:",
       "tokens": [
         {
-          "t": "And the"
+          "t": "And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:"
+          "t": " said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people: "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "But for his kin, that is near unto him, that is, for his mother, and for his father, and for his son, and for his daughter, and for his brother,",
       "tokens": [
         {
-          "t": "But for his kin, that is near unto him,"
+          "t": "But for his kin, that is near unto him, "
         },
         {
           "add": "that is"
         },
         {
-          "t": ", for his mother, and for his father, and for his son, and for his daughter, and for his brother,"
+          "t": ", for his mother, and for his father, and for his son, and for his daughter, and for his brother, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.",
       "tokens": [
         {
-          "t": "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled."
+          "t": "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "But he shall not defile himself, being a chief man among his people, to profane himself.",
       "tokens": [
         {
           "add": "But"
         },
         {
-          "t": "he shall not defile himself,"
+          "t": " he shall not defile himself, "
         },
         {
           "add": "being"
         },
         {
-          "t": "a chief man among his people, to profane himself."
+          "t": " a chief man among his people, to profane himself. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.",
       "tokens": [
         {
-          "t": "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh."
+          "t": "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "They shall be holy unto their God, and not profane the name of their God: for the offerings of the LORD made by fire, and the bread of their God, they do offer: therefore they shall be holy.",
       "tokens": [
         {
-          "t": "They shall be holy unto their God, and not profane the name of their God: for the offerings of the"
+          "t": "They shall be holy unto their God, and not profane the name of their God: for the offerings of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "made by fire,"
+          "t": " made by fire, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the bread of their God, they do offer: therefore they shall be holy."
+          "t": " the bread of their God, they do offer: therefore they shall be holy. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God.",
       "tokens": [
         {
-          "t": "They shall not take a wife"
+          "t": "They shall not take a wife "
         },
         {
           "add": "that is"
         },
         {
-          "t": "a whore, or profane; neither shall they take a woman put away from her husband: for he"
+          "t": " a whore, or profane; neither shall they take a woman put away from her husband: for he "
         },
         {
           "add": "is"
         },
         {
-          "t": "holy unto his God."
+          "t": " holy unto his God. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, am holy.",
       "tokens": [
         {
-          "t": "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the"
+          "t": "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", which sanctify you,"
+          "t": ", which sanctify you, "
         },
         {
           "add": "am"
         },
         {
-          "t": "holy."
+          "t": " holy. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.",
       "tokens": [
         {
-          "t": "¶ And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire."
+          "t": "¶ And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he that is the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "he that is"
         },
         {
-          "t": "the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;"
+          "t": " the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;",
       "tokens": [
         {
-          "t": "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;"
+          "t": "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother; "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am the LORD.",
       "tokens": [
         {
-          "t": "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God"
+          "t": "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God "
         },
         {
           "add": "is"
         },
         {
-          "t": "upon him: I"
+          "t": " upon him: I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And he shall take a wife in her virginity.",
       "tokens": [
         {
-          "t": "And he shall take a wife in her virginity."
+          "t": "And he shall take a wife in her virginity. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "A widow, or a divorced woman, or profane, or an harlot, these shall he not take: but he shall take a virgin of his own people to wife.",
       "tokens": [
         {
-          "t": "A widow, or a divorced woman, or profane,"
+          "t": "A widow, or a divorced woman, or profane, "
         },
         {
           "add": "or"
         },
         {
-          "t": "an harlot, these shall he not take: but he shall take a virgin of his own people to wife."
+          "t": " an harlot, these shall he not take: but he shall take a virgin of his own people to wife. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Neither shall he profane his seed among his people: for I the LORD do sanctify him.",
       "tokens": [
         {
-          "t": "Neither shall he profane his seed among his people: for I the"
+          "t": "Neither shall he profane his seed among his people: for I the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "do sanctify him."
+          "t": " do sanctify him. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God.",
       "tokens": [
         {
-          "t": "Speak unto Aaron, saying, Whosoever"
+          "t": "Speak unto Aaron, saying, Whosoever "
         },
         {
           "add": "he be"
         },
         {
-          "t": "of thy seed in their generations that hath"
+          "t": " of thy seed in their generations that hath "
         },
         {
           "add": "any"
         },
         {
-          "t": "blemish, let him not approach to offer the bread of his God."
+          "t": " blemish, let him not approach to offer the bread of his God. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,",
       "tokens": [
         {
-          "t": "For whatsoever man"
+          "t": "For whatsoever man "
         },
         {
           "add": "he be"
         },
         {
-          "t": "that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,"
+          "t": " that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous, "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Or a man that is brokenfooted, or brokenhanded,",
       "tokens": [
         {
-          "t": "Or a man that is brokenfooted, or brokenhanded,"
+          "t": "Or a man that is brokenfooted, or brokenhanded, "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;",
       "tokens": [
         {
-          "t": "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;"
+          "t": "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken; "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the LORD made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.",
       "tokens": [
         {
-          "t": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the"
+          "t": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God."
+          "t": " made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "He shall eat the bread of his God, both of the most holy, and of the holy.",
       "tokens": [
         {
-          "t": "He shall eat the bread of his God,"
+          "t": "He shall eat the bread of his God, "
         },
         {
           "add": "both"
         },
         {
-          "t": "of the most holy, and of the holy."
+          "t": " of the most holy, and of the holy. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them.",
       "tokens": [
         {
-          "t": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the"
+          "t": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "do sanctify them."
+          "t": " do sanctify them. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And Moses told it unto Aaron, and to his sons, and unto all the children of Israel.",
       "tokens": [
         {
-          "t": "And Moses told"
+          "t": "And Moses told "
         },
         {
           "add": "it"
         },
         {
-          "t": "unto Aaron, and to his sons, and unto all the children of Israel."
+          "t": " unto Aaron, and to his sons, and unto all the children of Israel. "
         }
       ]
     }

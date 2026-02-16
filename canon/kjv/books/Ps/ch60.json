@@ -1,0 +1,234 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 60,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.",
+      "tokens": [
+        {
+          "t": "O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.",
+      "tokens": [
+        {
+          "t": "Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "Thou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment.",
+      "tokens": [
+        {
+          "t": "Thou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah.",
+      "tokens": [
+        {
+          "t": "Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "That thy beloved may be delivered; save with thy right hand, and hear me.",
+      "tokens": [
+        {
+          "t": "That thy beloved may be delivered; save "
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": " thy right hand, and hear me. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
+      "tokens": [
+        {
+          "t": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;",
+      "tokens": [
+        {
+          "t": "Gilead "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " mine, and Manasseh "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " mine; Ephraim also "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the strength of mine head; Judah "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my lawgiver; "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "Moab is my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me.",
+      "tokens": [
+        {
+          "t": "Moab "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me. "
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "plain": "Who will bring me into the strong city? who will lead me into Edom?",
+      "tokens": [
+        {
+          "t": "Who will bring me "
+        },
+        {
+          "add": "into"
+        },
+        {
+          "t": " the strong city? who will lead me into Edom? "
+        }
+      ]
+    },
+    {
+      "v": 10,
+      "plain": "Wilt not thou, O God, which hadst cast us off? and thou, O God, which didst not go out with our armies?",
+      "tokens": [
+        {
+          "add": "Wilt"
+        },
+        {
+          "t": " not thou, O God, "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " hadst cast us off? and "
+        },
+        {
+          "add": "thou"
+        },
+        {
+          "t": ", O God, "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " didst not go out with our armies? "
+        }
+      ]
+    },
+    {
+      "v": 11,
+      "plain": "Give us help from trouble: for vain is the help of man.",
+      "tokens": [
+        {
+          "t": "Give us help from trouble: for vain "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " the help of man. "
+        }
+      ]
+    },
+    {
+      "v": 12,
+      "plain": "Through God we shall do valiantly: for he it is that shall tread down our enemies.",
+      "tokens": [
+        {
+          "t": "Through God we shall do valiantly: for he "
+        },
+        {
+          "add": "it is that"
+        },
+        {
+          "t": " shall tread down our enemies. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "Michtam: or, A golden Psalm"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "scattered: Heb. broken"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 8
+      },
+      "text": "triumph…: or, triumph thou over me: (by an irony)"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 9
+      },
+      "text": "strong…: Heb. city of strength?"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 11
+      },
+      "text": "help of man: Heb. salvation, etc"
+    }
+  ]
+}

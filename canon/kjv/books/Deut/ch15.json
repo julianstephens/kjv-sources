@@ -7,383 +7,406 @@
   "verses": [
     {
       "v": 1,
+      "plain": "At the end of every seven years thou shalt make a release.",
       "tokens": [
         {
-          "t": "At the end of"
+          "t": "At the end of "
         },
         {
           "add": "every"
         },
         {
-          "t": "seven years thou shalt make a release."
+          "t": " seven years thou shalt make a release. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And this is the manner of the release: Every creditor that lendeth ought unto his neighbour shall release it; he shall not exact it of his neighbour, or of his brother; because it is called the LORD’s release.",
       "tokens": [
         {
-          "t": "And this"
+          "t": "And this "
         },
         {
           "add": "is"
         },
         {
-          "t": "the manner of the release: Every creditor that lendeth"
+          "t": " the manner of the release: Every creditor that lendeth "
         },
         {
           "add": "ought"
         },
         {
-          "t": "unto his neighbour shall release"
+          "t": " unto his neighbour shall release "
         },
         {
           "add": "it;"
         },
         {
-          "t": "he shall not exact"
+          "t": " he shall not exact "
         },
         {
           "add": "it"
         },
         {
-          "t": "of his neighbour, or of his brother; because it is called the"
+          "t": " of his neighbour, or of his brother; because it is called the "
         },
         {
           "nd": "LORD’s"
         },
         {
-          "t": "release."
+          "t": " release. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Of a foreigner thou mayest exact it again: but that which is thine with thy brother thine hand shall release;",
       "tokens": [
         {
-          "t": "Of a foreigner thou mayest exact"
+          "t": "Of a foreigner thou mayest exact "
         },
         {
           "add": "it again:"
         },
         {
-          "t": "but"
+          "t": " but "
         },
         {
           "add": "that"
         },
         {
-          "t": "which is thine with thy brother thine hand shall release;"
+          "t": " which is thine with thy brother thine hand shall release; "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Save when there shall be no poor among you; for the LORD shall greatly bless thee in the land which the LORD thy God giveth thee for an inheritance to possess it:",
       "tokens": [
         {
-          "t": "Save when there shall be no poor among you; for the"
+          "t": "Save when there shall be no poor among you; for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall greatly bless thee in the land which the"
+          "t": " shall greatly bless thee in the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee"
+          "t": " thy God giveth thee "
         },
         {
           "add": "for"
         },
         {
-          "t": "an inheritance to possess it:"
+          "t": " an inheritance to possess it: "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Only if thou carefully hearken unto the voice of the LORD thy God, to observe to do all these commandments which I command thee this day.",
       "tokens": [
         {
-          "t": "Only if thou carefully hearken unto the voice of the"
+          "t": "Only if thou carefully hearken unto the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, to observe to do all these commandments which I command thee this day."
+          "t": " thy God, to observe to do all these commandments which I command thee this day. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "For the LORD thy God blesseth thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God blesseth thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee."
+          "t": " thy God blesseth thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the LORD thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:",
       "tokens": [
         {
-          "t": "¶ If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the"
+          "t": "¶ If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:"
+          "t": " thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother: "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, in that which he wanteth.",
       "tokens": [
         {
-          "t": "But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need,"
+          "t": "But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, "
         },
         {
           "add": "in that"
         },
         {
-          "t": "which he wanteth."
+          "t": " which he wanteth. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the LORD against thee, and it be sin unto thee.",
       "tokens": [
         {
-          "t": "Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the"
+          "t": "Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "against thee, and it be sin unto thee."
+          "t": " against thee, and it be sin unto thee. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the LORD thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto.",
       "tokens": [
         {
-          "t": "Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the"
+          "t": "Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto."
+          "t": " thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land.",
       "tokens": [
         {
-          "t": "For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land."
+          "t": "For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "¶ And if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee.",
       "tokens": [
         {
-          "t": "¶"
+          "t": "¶ "
         },
         {
           "add": "And"
         },
         {
-          "t": "if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee."
+          "t": " if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And when thou sendest him out free from thee, thou shalt not let him go away empty:",
       "tokens": [
         {
-          "t": "And when thou sendest him out free from thee, thou shalt not let him go away empty:"
+          "t": "And when thou sendest him out free from thee, thou shalt not let him go away empty: "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: of that wherewith the LORD thy God hath blessed thee thou shalt give unto him.",
       "tokens": [
         {
-          "t": "Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress:"
+          "t": "Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: "
         },
         {
           "add": "of that"
         },
         {
-          "t": "wherewith the"
+          "t": " wherewith the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God hath blessed thee thou shalt give unto him."
+          "t": " thy God hath blessed thee thou shalt give unto him. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee: therefore I command thee this thing to day.",
       "tokens": [
         {
-          "t": "And thou shalt remember that thou wast a bondman in the land of Egypt, and the"
+          "t": "And thou shalt remember that thou wast a bondman in the land of Egypt, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God redeemed thee: therefore I command thee this thing to day."
+          "t": " thy God redeemed thee: therefore I command thee this thing to day. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee;",
       "tokens": [
         {
-          "t": "And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee;"
+          "t": "And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Then thou shalt take an aul, and thrust it through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise.",
       "tokens": [
         {
-          "t": "Then thou shalt take an aul, and thrust"
+          "t": "Then thou shalt take an aul, and thrust "
         },
         {
           "add": "it"
         },
         {
-          "t": "through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise."
+          "t": " through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant to thee, in serving thee six years: and the LORD thy God shall bless thee in all that thou doest.",
       "tokens": [
         {
-          "t": "It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant"
+          "t": "It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant "
         },
         {
           "add": "to thee"
         },
         {
-          "t": ", in serving thee six years: and the"
+          "t": ", in serving thee six years: and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God shall bless thee in all that thou doest."
+          "t": " thy God shall bless thee in all that thou doest. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep.",
       "tokens": [
         {
-          "t": "¶ All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the"
+          "t": "¶ All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep."
+          "t": " thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Thou shalt eat it before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household.",
       "tokens": [
         {
-          "t": "Thou shalt eat"
+          "t": "Thou shalt eat "
         },
         {
           "add": "it"
         },
         {
-          "t": "before the"
+          "t": " before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God year by year in the place which the"
+          "t": " thy God year by year in the place which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall choose, thou and thy household."
+          "t": " shall choose, thou and thy household. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And if there be any blemish therein, as if it be lame, or blind, or have any ill blemish, thou shalt not sacrifice it unto the LORD thy God.",
       "tokens": [
         {
-          "t": "And if there be"
+          "t": "And if there be "
         },
         {
           "add": "any"
         },
         {
-          "t": "blemish therein,"
+          "t": " blemish therein, "
         },
         {
           "add": "as if it be"
         },
         {
-          "t": "lame, or blind,"
+          "t": " lame, or blind, "
         },
         {
           "add": "or have"
         },
         {
-          "t": "any ill blemish, thou shalt not sacrifice it unto the"
+          "t": " any ill blemish, thou shalt not sacrifice it unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God."
+          "t": " thy God. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Thou shalt eat it within thy gates: the unclean and the clean person shall eat it alike, as the roebuck, and as the hart.",
       "tokens": [
         {
-          "t": "Thou shalt eat it within thy gates: the unclean and the clean"
+          "t": "Thou shalt eat it within thy gates: the unclean and the clean "
         },
         {
           "add": "person shall eat it"
         },
         {
-          "t": "alike, as the roebuck, and as the hart."
+          "t": " alike, as the roebuck, and as the hart. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water.",
       "tokens": [
         {
-          "t": "Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water."
+          "t": "Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water. "
         }
       ]
     }

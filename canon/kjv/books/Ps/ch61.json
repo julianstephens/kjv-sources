@@ -1,0 +1,137 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 61,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Hear my cry, O God; attend unto my prayer.",
+      "tokens": [
+        {
+          "t": "Hear my cry, O God; attend unto my prayer. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.",
+      "tokens": [
+        {
+          "t": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock "
+        },
+        {
+          "add": "that"
+        },
+        {
+          "t": " is higher than I. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "For thou hast been a shelter for me, and a strong tower from the enemy.",
+      "tokens": [
+        {
+          "t": "For thou hast been a shelter for me, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " a strong tower from the enemy. "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
+      "tokens": [
+        {
+          "t": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah. "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name.",
+      "tokens": [
+        {
+          "t": "For thou, O God, hast heard my vows: thou hast given "
+        },
+        {
+          "add": "me"
+        },
+        {
+          "t": " the heritage of those that fear thy name. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "Thou wilt prolong the king’s life: and his years as many generations.",
+      "tokens": [
+        {
+          "t": "Thou wilt prolong the king’s life: "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " his years as many generations. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "He shall abide before God for ever: O prepare mercy and truth, which may preserve him.",
+      "tokens": [
+        {
+          "t": "He shall abide before God for ever: O prepare mercy and truth, "
+        },
+        {
+          "add": "which"
+        },
+        {
+          "t": " may preserve him. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "So will I sing praise unto thy name for ever, that I may daily perform my vows.",
+      "tokens": [
+        {
+          "t": "So will I sing praise unto thy name for ever, that I may daily perform my vows. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 4
+      },
+      "text": "trust: or, make my refuge"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 6
+      },
+      "text": "Thou…: Heb. Thou shalt add days to the days of the king"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 6
+      },
+      "text": "as…: Heb. as generation and generation"
+    }
+  ]
+}

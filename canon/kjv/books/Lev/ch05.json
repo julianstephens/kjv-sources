@@ -7,354 +7,376 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity.",
       "tokens": [
         {
-          "t": "And if a soul sin, and hear the voice of swearing, and"
+          "t": "And if a soul sin, and hear the voice of swearing, and "
         },
         {
           "add": "is"
         },
         {
-          "t": "a witness, whether he hath seen or known"
+          "t": " a witness, whether he hath seen or known "
         },
         {
           "add": "of it;"
         },
         {
-          "t": "if he do not utter"
+          "t": " if he do not utter "
         },
         {
           "add": "it"
         },
         {
-          "t": ", then he shall bear his iniquity."
+          "t": ", then he shall bear his iniquity. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Or if a soul touch any unclean thing, whether it be a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and if it be hidden from him; he also shall be unclean, and guilty.",
       "tokens": [
         {
-          "t": "Or if a soul touch any unclean thing, whether"
+          "t": "Or if a soul touch any unclean thing, whether "
         },
         {
           "add": "it be"
         },
         {
-          "t": "a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and"
+          "t": " a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and "
         },
         {
           "add": "if"
         },
         {
-          "t": "it be hidden from him; he also shall be unclean, and guilty."
+          "t": " it be hidden from him; he also shall be unclean, and guilty. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Or if he touch the uncleanness of man, whatsoever uncleanness it be that a man shall be defiled withal, and it be hid from him; when he knoweth of it, then he shall be guilty.",
       "tokens": [
         {
-          "t": "Or if he touch the uncleanness of man, whatsoever uncleanness"
+          "t": "Or if he touch the uncleanness of man, whatsoever uncleanness "
         },
         {
           "add": "it be"
         },
         {
-          "t": "that a man shall be defiled withal, and it be hid from him; when he knoweth"
+          "t": " that a man shall be defiled withal, and it be hid from him; when he knoweth "
         },
         {
           "add": "of it"
         },
         {
-          "t": ", then he shall be guilty."
+          "t": ", then he shall be guilty. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Or if a soul swear, pronouncing with his lips to do evil, or to do good, whatsoever it be that a man shall pronounce with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these.",
       "tokens": [
         {
-          "t": "Or if a soul swear, pronouncing with"
+          "t": "Or if a soul swear, pronouncing with "
         },
         {
           "add": "his"
         },
         {
-          "t": "lips to do evil, or to do good, whatsoever"
+          "t": " lips to do evil, or to do good, whatsoever "
         },
         {
           "add": "it be"
         },
         {
-          "t": "that a man shall pronounce with an oath, and it be hid from him; when he knoweth"
+          "t": " that a man shall pronounce with an oath, and it be hid from him; when he knoweth "
         },
         {
           "add": "of it"
         },
         {
-          "t": ", then he shall be guilty in one of these."
+          "t": ", then he shall be guilty in one of these. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And it shall be, when he shall be guilty in one of these things, that he shall confess that he hath sinned in that thing:",
       "tokens": [
         {
-          "t": "And it shall be, when he shall be guilty in one of these"
+          "t": "And it shall be, when he shall be guilty in one of these "
         },
         {
           "add": "things"
         },
         {
-          "t": ", that he shall confess that he hath sinned in that"
+          "t": ", that he shall confess that he hath sinned in that "
         },
         {
           "add": "thing:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And he shall bring his trespass offering unto the LORD for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.",
       "tokens": [
         {
-          "t": "And he shall bring his trespass offering unto the"
+          "t": "And he shall bring his trespass offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin."
+          "t": " for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering.",
       "tokens": [
         {
-          "t": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the"
+          "t": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; one for a sin offering, and the other for a burnt offering."
+          "t": "; one for a sin offering, and the other for a burnt offering. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And he shall bring them unto the priest, who shall offer that which is for the sin offering first, and wring off his head from his neck, but shall not divide it asunder:",
       "tokens": [
         {
-          "t": "And he shall bring them unto the priest, who shall offer"
+          "t": "And he shall bring them unto the priest, who shall offer "
         },
         {
           "add": "that"
         },
         {
-          "t": "which"
+          "t": " which "
         },
         {
           "add": "is"
         },
         {
-          "t": "for the sin offering first, and wring off his head from his neck, but shall not divide"
+          "t": " for the sin offering first, and wring off his head from his neck, but shall not divide "
         },
         {
           "add": "it"
         },
         {
-          "t": "asunder:"
+          "t": " asunder: "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it is a sin offering.",
       "tokens": [
         {
-          "t": "And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it"
+          "t": "And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a sin offering."
+          "t": " a sin offering. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him.",
       "tokens": [
         {
-          "t": "And he shall offer the second"
+          "t": "And he shall offer the second "
         },
         {
           "add": "for"
         },
         {
-          "t": "a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him."
+          "t": " a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put any frankincense thereon: for it is a sin offering.",
       "tokens": [
         {
-          "t": "¶ But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put"
+          "t": "¶ But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put "
         },
         {
           "add": "any"
         },
         {
-          "t": "frankincense thereon: for it"
+          "t": " frankincense thereon: for it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a sin offering."
+          "t": " a sin offering. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Then shall he bring it to the priest, and the priest shall take his handful of it, even a memorial thereof, and burn it on the altar, according to the offerings made by fire unto the LORD: it is a sin offering.",
       "tokens": [
         {
-          "t": "Then shall he bring it to the priest, and the priest shall take his handful of it,"
+          "t": "Then shall he bring it to the priest, and the priest shall take his handful of it, "
         },
         {
           "add": "even"
         },
         {
-          "t": "a memorial thereof, and burn"
+          "t": " a memorial thereof, and burn "
         },
         {
           "add": "it"
         },
         {
-          "t": "on the altar, according to the offerings made by fire unto the"
+          "t": " on the altar, according to the offerings made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ": it"
+          "t": ": it "
         },
         {
           "add": "is"
         },
         {
-          "t": "a sin offering."
+          "t": " a sin offering. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and the remnant shall be the priest’s, as a meat offering.",
       "tokens": [
         {
-          "t": "And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and"
+          "t": "And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and "
         },
         {
           "add": "the remnant"
         },
         {
-          "t": "shall be the priest’s, as a meat offering."
+          "t": " shall be the priest’s, as a meat offering. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "If a soul commit a trespass, and sin through ignorance, in the holy things of the LORD; then he shall bring for his trespass unto the LORD a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering:",
       "tokens": [
         {
-          "t": "If a soul commit a trespass, and sin through ignorance, in the holy things of the"
+          "t": "If a soul commit a trespass, and sin through ignorance, in the holy things of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; then he shall bring for his trespass unto the"
+          "t": "; then he shall bring for his trespass unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering:"
+          "t": " a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering: "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.",
       "tokens": [
         {
-          "t": "And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him."
+          "t": "And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the LORD; though he wist it not, yet is he guilty, and shall bear his iniquity.",
       "tokens": [
         {
-          "t": "¶ And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the"
+          "t": "¶ And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; though he wist"
+          "t": "; though he wist "
         },
         {
           "add": "it"
         },
         {
-          "t": "not, yet is he guilty, and shall bear his iniquity."
+          "t": " not, yet is he guilty, and shall bear his iniquity. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist it not, and it shall be forgiven him.",
       "tokens": [
         {
-          "t": "And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist"
+          "t": "And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist "
         },
         {
           "add": "it"
         },
         {
-          "t": "not, and it shall be forgiven him."
+          "t": " not, and it shall be forgiven him. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "It is a trespass offering: he hath certainly trespassed against the LORD.",
       "tokens": [
         {
-          "t": "It"
+          "t": "It "
         },
         {
           "add": "is"
         },
         {
-          "t": "a trespass offering: he hath certainly trespassed against the"
+          "t": " a trespass offering: he hath certainly trespassed against the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

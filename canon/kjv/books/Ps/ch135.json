@@ -7,364 +7,391 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Praise ye the LORD. Praise ye the name of the LORD; praise him, O ye servants of the LORD.",
       "tokens": [
         {
-          "t": "Praise ye the"
+          "t": "Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ". Praise ye the name of the"
+          "t": ". Praise ye the name of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; praise"
+          "t": "; praise "
         },
         {
           "add": "him"
         },
         {
-          "t": ", O ye servants of the"
+          "t": ", O ye servants of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Ye that stand in the house of the LORD, in the courts of the house of our God,",
       "tokens": [
         {
-          "t": "Ye that stand in the house of the"
+          "t": "Ye that stand in the house of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", in the courts of the house of our God,"
+          "t": ", in the courts of the house of our God, "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Praise the LORD; for the LORD is good: sing praises unto his name; for it is pleasant.",
       "tokens": [
         {
-          "t": "Praise the"
+          "t": "Praise the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; for the"
+          "t": "; for the "
         },
         {
           "nd": "LORD"
+        },
+        {
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "good: sing praises unto his name; for"
+          "t": " good: sing praises unto his name; for "
         },
         {
           "add": "it is"
         },
         {
-          "t": "pleasant."
+          "t": " pleasant. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "For the LORD hath chosen Jacob unto himself, and Israel for his peculiar treasure.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath chosen Jacob unto himself,"
+          "t": " hath chosen Jacob unto himself, "
         },
         {
           "add": "and"
         },
         {
-          "t": "Israel for his peculiar treasure."
+          "t": " Israel for his peculiar treasure. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "For I know that the LORD is great, and that our Lord is above all gods.",
       "tokens": [
         {
-          "t": "For I know that the"
+          "t": "For I know that the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "great, and"
+          "t": " great, and "
         },
         {
           "add": "that"
         },
         {
-          "t": "our Lord"
+          "t": " our Lord "
         },
         {
           "add": "is"
         },
         {
-          "t": "above all gods."
+          "t": " above all gods. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places.",
       "tokens": [
         {
-          "t": "Whatsoever the"
+          "t": "Whatsoever the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "pleased,"
+          "t": " pleased, "
         },
         {
           "add": "that"
         },
         {
-          "t": "did he in heaven, and in earth, in the seas, and all deep places."
+          "t": " did he in heaven, and in earth, in the seas, and all deep places. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries.",
       "tokens": [
         {
-          "t": "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries."
+          "t": "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "Who smote the firstborn of Egypt, both of man and beast.",
       "tokens": [
         {
-          "t": "Who smote the firstborn of Egypt, both of man and beast."
+          "t": "Who smote the firstborn of Egypt, both of man and beast. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.",
       "tokens": [
         {
           "add": "Who"
         },
         {
-          "t": "sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants."
+          "t": " sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Who smote great nations, and slew mighty kings;",
       "tokens": [
         {
-          "t": "Who smote great nations, and slew mighty kings;"
+          "t": "Who smote great nations, and slew mighty kings; "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:",
       "tokens": [
         {
-          "t": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:"
+          "t": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan: "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And gave their land for an heritage, an heritage unto Israel his people.",
       "tokens": [
         {
-          "t": "And gave their land"
+          "t": "And gave their land "
         },
         {
           "add": "for"
         },
         {
-          "t": "an heritage, an heritage unto Israel his people."
+          "t": " an heritage, an heritage unto Israel his people. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thy name, O LORD, endureth for ever; and thy memorial, O LORD, throughout all generations.",
       "tokens": [
         {
-          "t": "Thy name, O"
+          "t": "Thy name, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "endureth"
         },
         {
-          "t": "for ever;"
+          "t": " for ever; "
         },
         {
           "add": "and"
         },
         {
-          "t": "thy memorial, O"
+          "t": " thy memorial, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", throughout all generations."
+          "t": ", throughout all generations. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "For the LORD will judge his people, and he will repent himself concerning his servants.",
       "tokens": [
         {
-          "t": "For the"
+          "t": "For the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "will judge his people, and he will repent himself concerning his servants."
+          "t": " will judge his people, and he will repent himself concerning his servants. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The idols of the heathen are silver and gold, the work of men’s hands.",
       "tokens": [
         {
-          "t": "The idols of the heathen"
+          "t": "The idols of the heathen "
         },
         {
           "add": "are"
         },
         {
-          "t": "silver and gold, the work of men’s hands."
+          "t": " silver and gold, the work of men’s hands. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "They have mouths, but they speak not; eyes have they, but they see not;",
       "tokens": [
         {
-          "t": "They have mouths, but they speak not; eyes have they, but they see not;"
+          "t": "They have mouths, but they speak not; eyes have they, but they see not; "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "They have ears, but they hear not; neither is there any breath in their mouths.",
       "tokens": [
         {
-          "t": "They have ears, but they hear not; neither is there"
+          "t": "They have ears, but they hear not; neither is there "
         },
         {
           "add": "any"
         },
         {
-          "t": "breath in their mouths."
+          "t": " breath in their mouths. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "They that make them are like unto them: so is every one that trusteth in them.",
       "tokens": [
         {
-          "t": "They that make them are like unto them:"
+          "t": "They that make them are like unto them: "
         },
         {
           "add": "so is"
         },
         {
-          "t": "every one that trusteth in them."
+          "t": " every one that trusteth in them. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:",
       "tokens": [
         {
-          "t": "Bless the"
+          "t": "Bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", O house of Israel: bless the"
+          "t": ", O house of Israel: bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", O house of Aaron:"
+          "t": ", O house of Aaron: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD.",
       "tokens": [
         {
-          "t": "Bless the"
+          "t": "Bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", O house of Levi: ye that fear the"
+          "t": ", O house of Levi: ye that fear the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", bless the"
+          "t": ", bless the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Blessed be the LORD out of Zion, which dwelleth at Jerusalem. Praise ye the LORD.",
       "tokens": [
         {
-          "t": "Blessed be the"
+          "t": "Blessed be the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "out of Zion, which dwelleth at Jerusalem. Praise ye the"
+          "t": " out of Zion, which dwelleth at Jerusalem. Praise ye the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

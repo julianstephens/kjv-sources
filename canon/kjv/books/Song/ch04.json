@@ -7,279 +7,295 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Behold, thou art fair, my love; behold, thou art fair; thou hast doves’ eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.",
       "tokens": [
         {
-          "t": "Behold, thou"
+          "t": "Behold, thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "fair, my love; behold, thou"
+          "t": " fair, my love; behold, thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "fair; thou"
+          "t": " fair; thou "
         },
         {
           "add": "hast"
         },
         {
-          "t": "doves’ eyes within thy locks: thy hair"
+          "t": " doves’ eyes within thy locks: thy hair "
         },
         {
           "add": "is"
         },
         {
-          "t": "as a flock of goats, that appear from mount Gilead."
+          "t": " as a flock of goats, that appear from mount Gilead. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Thy teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.",
       "tokens": [
         {
-          "t": "Thy teeth"
+          "t": "Thy teeth "
         },
         {
           "add": "are"
         },
         {
-          "t": "like a flock"
+          "t": " like a flock "
         },
         {
           "add": "of sheep that are even"
         },
         {
-          "t": "shorn, which came up from the washing; whereof every one bear twins, and none"
+          "t": " shorn, which came up from the washing; whereof every one bear twins, and none "
         },
         {
           "add": "is"
         },
         {
-          "t": "barren among them."
+          "t": " barren among them. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "Thy lips are like a thread of scarlet, and thy speech is comely: thy temples are like a piece of a pomegranate within thy locks.",
       "tokens": [
         {
-          "t": "Thy lips"
+          "t": "Thy lips "
         },
         {
           "add": "are"
         },
         {
-          "t": "like a thread of scarlet, and thy speech"
+          "t": " like a thread of scarlet, and thy speech "
         },
         {
           "add": "is"
         },
         {
-          "t": "comely: thy temples"
+          "t": " comely: thy temples "
         },
         {
           "add": "are"
         },
         {
-          "t": "like a piece of a pomegranate within thy locks."
+          "t": " like a piece of a pomegranate within thy locks. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Thy neck is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.",
       "tokens": [
         {
-          "t": "Thy neck"
+          "t": "Thy neck "
         },
         {
           "add": "is"
         },
         {
-          "t": "like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men."
+          "t": " like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Thy two breasts are like two young roes that are twins, which feed among the lilies.",
       "tokens": [
         {
-          "t": "Thy two breasts"
+          "t": "Thy two breasts "
         },
         {
           "add": "are"
         },
         {
-          "t": "like two young roes that are twins, which feed among the lilies."
+          "t": " like two young roes that are twins, which feed among the lilies. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.",
       "tokens": [
         {
-          "t": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense."
+          "t": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "Thou art all fair, my love; there is no spot in thee.",
       "tokens": [
         {
-          "t": "Thou"
+          "t": "Thou "
         },
         {
           "add": "art"
         },
         {
-          "t": "all fair, my love;"
+          "t": " all fair, my love; "
         },
         {
           "add": "there is"
         },
         {
-          "t": "no spot in thee."
+          "t": " no spot in thee. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "¶ Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards.",
       "tokens": [
         {
-          "t": "¶ Come with me from Lebanon,"
+          "t": "¶ Come with me from Lebanon, "
         },
         {
           "add": "my"
         },
         {
-          "t": "spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards."
+          "t": " spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Thou hast ravished my heart, my sister, my spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.",
       "tokens": [
         {
-          "t": "Thou hast ravished my heart, my sister,"
+          "t": "Thou hast ravished my heart, my sister, "
         },
         {
           "add": "my"
         },
         {
-          "t": "spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck."
+          "t": " spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "How fair is thy love, my sister, my spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!",
       "tokens": [
         {
-          "t": "How fair is thy love, my sister,"
+          "t": "How fair is thy love, my sister, "
         },
         {
           "add": "my"
         },
         {
-          "t": "spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!"
+          "t": " spouse! how much better is thy love than wine! and the smell of thine ointments than all spices! "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Thy lips, O my spouse, drop as the honeycomb: honey and milk are under thy tongue; and the smell of thy garments is like the smell of Lebanon.",
       "tokens": [
         {
-          "t": "Thy lips, O"
+          "t": "Thy lips, O "
         },
         {
           "add": "my"
         },
         {
-          "t": "spouse, drop"
+          "t": " spouse, drop "
         },
         {
           "add": "as"
         },
         {
-          "t": "the honeycomb: honey and milk"
+          "t": " the honeycomb: honey and milk "
         },
         {
           "add": "are"
         },
         {
-          "t": "under thy tongue; and the smell of thy garments"
+          "t": " under thy tongue; and the smell of thy garments "
         },
         {
           "add": "is"
         },
         {
-          "t": "like the smell of Lebanon."
+          "t": " like the smell of Lebanon. "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed.",
       "tokens": [
         {
-          "t": "A garden inclosed"
+          "t": "A garden inclosed "
         },
         {
           "add": "is"
         },
         {
-          "t": "my sister,"
+          "t": " my sister, "
         },
         {
           "add": "my"
         },
         {
-          "t": "spouse; a spring shut up, a fountain sealed."
+          "t": " spouse; a spring shut up, a fountain sealed. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thy plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,",
       "tokens": [
         {
-          "t": "Thy plants"
+          "t": "Thy plants "
         },
         {
           "add": "are"
         },
         {
-          "t": "an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,"
+          "t": " an orchard of pomegranates, with pleasant fruits; camphire, with spikenard, "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:",
       "tokens": [
         {
-          "t": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:"
+          "t": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices: "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "A fountain of gardens, a well of living waters, and streams from Lebanon.",
       "tokens": [
         {
-          "t": "A fountain of gardens, a well of living waters, and streams from Lebanon."
+          "t": "A fountain of gardens, a well of living waters, and streams from Lebanon. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "¶ Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
       "tokens": [
         {
-          "t": "¶ Awake, O north wind; and come, thou south; blow upon my garden,"
+          "t": "¶ Awake, O north wind; and come, thou south; blow upon my garden, "
         },
         {
           "add": "that"
         },
         {
-          "t": "the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits."
+          "t": " the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits. "
         }
       ]
     }

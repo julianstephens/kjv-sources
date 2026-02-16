@@ -7,85 +7,91 @@
   "verses": [
     {
       "v": 1,
+      "plain": "When the LORD turned again the captivity of Zion, we were like them that dream.",
       "tokens": [
         {
-          "t": "When the"
+          "t": "When the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "turned again the captivity of Zion, we were like them that dream."
+          "t": " turned again the captivity of Zion, we were like them that dream. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.",
       "tokens": [
         {
-          "t": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The"
+          "t": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath done great things for them."
+          "t": " hath done great things for them. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The LORD hath done great things for us; whereof we are glad.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "hath done great things for us;"
+          "t": " hath done great things for us; "
         },
         {
           "add": "whereof"
         },
         {
-          "t": "we are glad."
+          "t": " we are glad. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Turn again our captivity, O LORD, as the streams in the south.",
       "tokens": [
         {
-          "t": "Turn again our captivity, O"
+          "t": "Turn again our captivity, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", as the streams in the south."
+          "t": ", as the streams in the south. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "They that sow in tears shall reap in joy.",
       "tokens": [
         {
-          "t": "They that sow in tears shall reap in joy."
+          "t": "They that sow in tears shall reap in joy. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.",
       "tokens": [
         {
-          "t": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves"
+          "t": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves "
         },
         {
           "add": "with him"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

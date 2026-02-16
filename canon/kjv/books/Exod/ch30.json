@@ -7,578 +7,619 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it.",
       "tokens": [
         {
-          "t": "And thou shalt make an altar to burn incense upon:"
+          "t": "And thou shalt make an altar to burn incense upon: "
         },
         {
           "add": "of"
         },
         {
-          "t": "shittim wood shalt thou make it."
+          "t": " shittim wood shalt thou make it. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same.",
       "tokens": [
         {
-          "t": "A cubit"
+          "t": "A cubit "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits"
+          "t": " the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the height thereof: the horns thereof"
+          "t": " the height thereof: the horns thereof "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "of the same."
+          "t": " of the same. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.",
       "tokens": [
         {
-          "t": "And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about."
+          "t": "And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal.",
       "tokens": [
         {
-          "t": "And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make"
+          "t": "And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make "
         },
         {
           "add": "it;"
         },
         {
-          "t": "and they shall be for places for the staves to bear it withal."
+          "t": " and they shall be for places for the staves to bear it withal. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And thou shalt make the staves of shittim wood, and overlay them with gold.",
       "tokens": [
         {
-          "t": "And thou shalt make the staves"
+          "t": "And thou shalt make the staves "
         },
         {
           "add": "of"
         },
         {
-          "t": "shittim wood, and overlay them with gold."
+          "t": " shittim wood, and overlay them with gold. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "And thou shalt put it before the vail that is by the ark of the testimony, before the mercy seat that is over the testimony, where I will meet with thee.",
       "tokens": [
         {
-          "t": "And thou shalt put it before the vail that"
+          "t": "And thou shalt put it before the vail that "
         },
         {
           "add": "is"
         },
         {
-          "t": "by the ark of the testimony, before the mercy seat that"
+          "t": " by the ark of the testimony, before the mercy seat that "
         },
         {
           "add": "is"
         },
         {
-          "t": "over the testimony, where I will meet with thee."
+          "t": " over the testimony, where I will meet with thee. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.",
       "tokens": [
         {
-          "t": "And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it."
+          "t": "And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perpetual incense before the LORD throughout your generations.",
       "tokens": [
         {
-          "t": "And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perpetual incense before the"
+          "t": "And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perpetual incense before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "throughout your generations."
+          "t": " throughout your generations. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon.",
       "tokens": [
         {
-          "t": "Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon."
+          "t": "Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it is most holy unto the LORD.",
       "tokens": [
         {
-          "t": "And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it"
+          "t": "And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "most holy unto the"
+          "t": " most holy unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the LORD, when thou numberest them; that there be no plague among them, when thou numberest them.",
       "tokens": [
         {
-          "t": "When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the"
+          "t": "When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", when thou numberest them; that there be no plague among them, when"
+          "t": ", when thou numberest them; that there be no plague among them, when "
         },
         {
           "add": "thou"
         },
         {
-          "t": "numberest them."
+          "t": " numberest them. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel shall be the offering of the LORD.",
       "tokens": [
         {
-          "t": "This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel"
+          "t": "This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel "
         },
         {
           "add": "is"
         },
         {
-          "t": "twenty gerahs:) an half shekel"
+          "t": " twenty gerahs:) an half shekel "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "the offering of the"
+          "t": " the offering of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD.",
       "tokens": [
         {
-          "t": "Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the"
+          "t": "Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the LORD, to make an atonement for your souls.",
       "tokens": [
         {
-          "t": "The rich shall not give more, and the poor shall not give less than half a shekel, when"
+          "t": "The rich shall not give more, and the poor shall not give less than half a shekel, when "
         },
         {
           "add": "they"
         },
         {
-          "t": "give an offering unto the"
+          "t": " give an offering unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to make an atonement for your souls."
+          "t": ", to make an atonement for your souls. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the LORD, to make an atonement for your souls.",
       "tokens": [
         {
-          "t": "And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the"
+          "t": "And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", to make an atonement for your souls."
+          "t": ", to make an atonement for your souls. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "¶ And the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Thou shalt also make a laver of brass, and his foot also of brass, to wash withal: and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein.",
       "tokens": [
         {
-          "t": "Thou shalt also make a laver"
+          "t": "Thou shalt also make a laver "
         },
         {
           "add": "of"
         },
         {
-          "t": "brass, and his foot"
+          "t": " brass, and his foot "
         },
         {
           "add": "also of"
         },
         {
-          "t": "brass, to wash"
+          "t": " brass, to wash "
         },
         {
           "add": "withal:"
         },
         {
-          "t": "and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein."
+          "t": " and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "For Aaron and his sons shall wash their hands and their feet thereat:",
       "tokens": [
         {
-          "t": "For Aaron and his sons shall wash their hands and their feet thereat:"
+          "t": "For Aaron and his sons shall wash their hands and their feet thereat: "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the LORD:",
       "tokens": [
         {
-          "t": "When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the"
+          "t": "When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ":"
+          "t": ": "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them, even to him and to his seed throughout their generations.",
       "tokens": [
         {
-          "t": "So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them,"
+          "t": "So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to him and to his seed throughout their generations."
+          "t": " to him and to his seed throughout their generations. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "¶ Moreover the LORD spake unto Moses, saying,",
       "tokens": [
         {
-          "t": "¶ Moreover the"
+          "t": "¶ Moreover the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "spake unto Moses, saying,"
+          "t": " spake unto Moses, saying, "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Take thou also unto thee principal spices, of pure myrrh five hundred shekels, and of sweet cinnamon half so much, even two hundred and fifty shekels, and of sweet calamus two hundred and fifty shekels,",
       "tokens": [
         {
-          "t": "Take thou also unto thee principal spices, of pure myrrh five hundred"
+          "t": "Take thou also unto thee principal spices, of pure myrrh five hundred "
         },
         {
           "add": "shekels"
         },
         {
-          "t": ", and of sweet cinnamon half so much,"
+          "t": ", and of sweet cinnamon half so much, "
         },
         {
           "add": "even"
         },
         {
-          "t": "two hundred and fifty"
+          "t": " two hundred and fifty "
         },
         {
           "add": "shekels"
         },
         {
-          "t": ", and of sweet calamus two hundred and fifty"
+          "t": ", and of sweet calamus two hundred and fifty "
         },
         {
           "add": "shekels"
         },
         {
-          "t": ","
+          "t": ", "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And of cassia five hundred shekels, after the shekel of the sanctuary, and of oil olive an hin:",
       "tokens": [
         {
-          "t": "And of cassia five hundred"
+          "t": "And of cassia five hundred "
         },
         {
           "add": "shekels"
         },
         {
-          "t": ", after the shekel of the sanctuary, and of oil olive an hin:"
+          "t": ", after the shekel of the sanctuary, and of oil olive an hin: "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil.",
       "tokens": [
         {
-          "t": "And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil."
+          "t": "And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And thou shalt anoint the tabernacle of the congregation therewith, and the ark of the testimony,",
       "tokens": [
         {
-          "t": "And thou shalt anoint the tabernacle of the congregation therewith, and the ark of the testimony,"
+          "t": "And thou shalt anoint the tabernacle of the congregation therewith, and the ark of the testimony, "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "And the table and all his vessels, and the candlestick and his vessels, and the altar of incense,",
       "tokens": [
         {
-          "t": "And the table and all his vessels, and the candlestick and his vessels, and the altar of incense,"
+          "t": "And the table and all his vessels, and the candlestick and his vessels, and the altar of incense, "
         }
       ]
     },
     {
       "v": 28,
+      "plain": "And the altar of burnt offering with all his vessels, and the laver and his foot.",
       "tokens": [
         {
-          "t": "And the altar of burnt offering with all his vessels, and the laver and his foot."
+          "t": "And the altar of burnt offering with all his vessels, and the laver and his foot. "
         }
       ]
     },
     {
       "v": 29,
+      "plain": "And thou shalt sanctify them, that they may be most holy: whatsoever toucheth them shall be holy.",
       "tokens": [
         {
-          "t": "And thou shalt sanctify them, that they may be most holy: whatsoever toucheth them shall be holy."
+          "t": "And thou shalt sanctify them, that they may be most holy: whatsoever toucheth them shall be holy. "
         }
       ]
     },
     {
       "v": 30,
+      "plain": "And thou shalt anoint Aaron and his sons, and consecrate them, that they may minister unto me in the priest’s office.",
       "tokens": [
         {
-          "t": "And thou shalt anoint Aaron and his sons, and consecrate them, that"
+          "t": "And thou shalt anoint Aaron and his sons, and consecrate them, that "
         },
         {
           "add": "they"
         },
         {
-          "t": "may minister unto me in the priest’s office."
+          "t": " may minister unto me in the priest’s office. "
         }
       ]
     },
     {
       "v": 31,
+      "plain": "And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations.",
       "tokens": [
         {
-          "t": "And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations."
+          "t": "And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations. "
         }
       ]
     },
     {
       "v": 32,
+      "plain": "Upon man’s flesh shall it not be poured, neither shall ye make any other like it, after the composition of it: it is holy, and it shall be holy unto you.",
       "tokens": [
         {
-          "t": "Upon man’s flesh shall it not be poured, neither shall ye make"
+          "t": "Upon man’s flesh shall it not be poured, neither shall ye make "
         },
         {
           "add": "any other"
         },
         {
-          "t": "like it, after the composition of it: it"
+          "t": " like it, after the composition of it: it "
         },
         {
           "add": "is"
         },
         {
-          "t": "holy,"
+          "t": " holy, "
         },
         {
           "add": "and"
         },
         {
-          "t": "it shall be holy unto you."
+          "t": " it shall be holy unto you. "
         }
       ]
     },
     {
       "v": 33,
+      "plain": "Whosoever compoundeth any like it, or whosoever putteth any of it upon a stranger, shall even be cut off from his people.",
       "tokens": [
         {
-          "t": "Whosoever compoundeth"
+          "t": "Whosoever compoundeth "
         },
         {
           "add": "any"
         },
         {
-          "t": "like it, or whosoever putteth"
+          "t": " like it, or whosoever putteth "
         },
         {
           "add": "any"
         },
         {
-          "t": "of it upon a stranger, shall even be cut off from his people."
+          "t": " of it upon a stranger, shall even be cut off from his people. "
         }
       ]
     },
     {
       "v": 34,
+      "plain": "¶ And the LORD said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum;"
+          "t": " said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; "
         },
         {
           "add": "these"
         },
         {
-          "t": "sweet spices with pure frankincense: of each shall there be a like"
+          "t": " sweet spices with pure frankincense: of each shall there be a like "
         },
         {
           "add": "weight:"
+        },
+        {
+          "t": " "
         }
       ]
     },
     {
       "v": 35,
+      "plain": "And thou shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure and holy:",
       "tokens": [
         {
-          "t": "And thou shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure"
+          "t": "And thou shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure "
         },
         {
           "add": "and"
         },
         {
-          "t": "holy:"
+          "t": " holy: "
         }
       ]
     },
     {
       "v": 36,
+      "plain": "And thou shalt beat some of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy.",
       "tokens": [
         {
-          "t": "And thou shalt beat"
+          "t": "And thou shalt beat "
         },
         {
           "add": "some"
         },
         {
-          "t": "of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy."
+          "t": " of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy. "
         }
       ]
     },
     {
       "v": 37,
+      "plain": "And as for the perfume which thou shalt make, ye shall not make to yourselves according to the composition thereof: it shall be unto thee holy for the LORD.",
       "tokens": [
         {
-          "t": "And"
+          "t": "And "
         },
         {
           "add": "as for"
         },
         {
-          "t": "the perfume which thou shalt make, ye shall not make to yourselves according to the composition thereof: it shall be unto thee holy for the"
+          "t": " the perfume which thou shalt make, ye shall not make to yourselves according to the composition thereof: it shall be unto thee holy for the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 38,
+      "plain": "Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people.",
       "tokens": [
         {
-          "t": "Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people."
+          "t": "Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people. "
         }
       ]
     }

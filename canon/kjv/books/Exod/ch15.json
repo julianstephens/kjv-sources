@@ -7,448 +7,484 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.",
       "tokens": [
         {
-          "t": "Then sang Moses and the children of Israel this song unto the"
+          "t": "Then sang Moses and the children of Israel this song unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", and spake, saying, I will sing unto the"
+          "t": ", and spake, saying, I will sing unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea."
+          "t": ", for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father’s God, and I will exalt him.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "add": "is"
-        },
-        {
-          "t": "my strength and song, and he is become my salvation: he"
+          "t": " "
         },
         {
           "add": "is"
         },
         {
-          "t": "my God, and I will prepare him an habitation; my father’s God, and I will exalt him."
+          "t": " my strength and song, and he is become my salvation: he "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " my God, and I will prepare him an habitation; my father’s God, and I will exalt him. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "The LORD is a man of war: the LORD is his name.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "a man of war: the"
+          "t": " a man of war: the "
         },
         {
           "nd": "LORD"
         },
         {
+          "t": " "
+        },
+        {
           "add": "is"
         },
         {
-          "t": "his name."
+          "t": " his name. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.",
       "tokens": [
         {
-          "t": "Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea."
+          "t": "Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "The depths have covered them: they sank into the bottom as a stone.",
       "tokens": [
         {
-          "t": "The depths have covered them: they sank into the bottom as a stone."
+          "t": "The depths have covered them: they sank into the bottom as a stone. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Thy right hand, O LORD, is become glorious in power: thy right hand, O LORD, hath dashed in pieces the enemy.",
       "tokens": [
         {
-          "t": "Thy right hand, O"
+          "t": "Thy right hand, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", is become glorious in power: thy right hand, O"
+          "t": ", is become glorious in power: thy right hand, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", hath dashed in pieces the enemy."
+          "t": ", hath dashed in pieces the enemy. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath, which consumed them as stubble.",
       "tokens": [
         {
-          "t": "And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath,"
+          "t": "And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath, "
         },
         {
           "add": "which"
         },
         {
-          "t": "consumed them as stubble."
+          "t": " consumed them as stubble. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, and the depths were congealed in the heart of the sea.",
       "tokens": [
         {
-          "t": "And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap,"
+          "t": "And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, "
         },
         {
           "add": "and"
         },
         {
-          "t": "the depths were congealed in the heart of the sea."
+          "t": " the depths were congealed in the heart of the sea. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.",
       "tokens": [
         {
-          "t": "The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them."
+          "t": "The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.",
       "tokens": [
         {
-          "t": "Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters."
+          "t": "Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?",
       "tokens": [
         {
-          "t": "Who"
+          "t": "Who "
         },
         {
           "add": "is"
         },
         {
-          "t": "like unto thee, O"
+          "t": " like unto thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", among the gods? who"
+          "t": ", among the gods? who "
         },
         {
           "add": "is"
         },
         {
-          "t": "like thee, glorious in holiness, fearful"
+          "t": " like thee, glorious in holiness, fearful "
         },
         {
           "add": "in"
         },
         {
-          "t": "praises, doing wonders?"
+          "t": " praises, doing wonders? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "Thou stretchedst out thy right hand, the earth swallowed them.",
       "tokens": [
         {
-          "t": "Thou stretchedst out thy right hand, the earth swallowed them."
+          "t": "Thou stretchedst out thy right hand, the earth swallowed them. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "Thou in thy mercy hast led forth the people which thou hast redeemed: thou hast guided them in thy strength unto thy holy habitation.",
       "tokens": [
         {
-          "t": "Thou in thy mercy hast led forth the people"
+          "t": "Thou in thy mercy hast led forth the people "
         },
         {
           "add": " which"
         },
         {
-          "t": "thou hast redeemed: thou hast guided"
+          "t": " thou hast redeemed: thou hast guided "
         },
         {
           "add": "them"
         },
         {
-          "t": "in thy strength unto thy holy habitation."
+          "t": " in thy strength unto thy holy habitation. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Palestina.",
       "tokens": [
         {
-          "t": "The people shall hear,"
+          "t": "The people shall hear, "
         },
         {
           "add": "and"
         },
         {
-          "t": "be afraid: sorrow shall take hold on the inhabitants of Palestina."
+          "t": " be afraid: sorrow shall take hold on the inhabitants of Palestina. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away.",
       "tokens": [
         {
-          "t": "Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away."
+          "t": "Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Fear and dread shall fall upon them; by the greatness of thine arm they shall be as still as a stone; till thy people pass over, O LORD, till the people pass over, which thou hast purchased.",
       "tokens": [
         {
-          "t": "Fear and dread shall fall upon them; by the greatness of thine arm they shall be"
+          "t": "Fear and dread shall fall upon them; by the greatness of thine arm they shall be "
         },
         {
           "add": "as"
         },
         {
-          "t": "still as a stone; till thy people pass over, O"
+          "t": " still as a stone; till thy people pass over, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", till the people pass over,"
+          "t": ", till the people pass over, "
         },
         {
           "add": " which"
         },
         {
-          "t": "thou hast purchased."
+          "t": " thou hast purchased. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Thou shalt bring them in, and plant them in the mountain of thine inheritance, in the place, O LORD, which thou hast made for thee to dwell in, in the Sanctuary, O Lord, which thy hands have established.",
       "tokens": [
         {
-          "t": "Thou shalt bring them in, and plant them in the mountain of thine inheritance,"
+          "t": "Thou shalt bring them in, and plant them in the mountain of thine inheritance, "
         },
         {
           "add": "in"
         },
         {
-          "t": "the place, O"
+          "t": " the place, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ","
+          "t": ", "
         },
         {
           "add": "which"
         },
         {
-          "t": "thou hast made for thee to dwell in,"
+          "t": " thou hast made for thee to dwell in, "
         },
         {
           "add": "in"
         },
         {
-          "t": "the Sanctuary, O Lord,"
+          "t": " the Sanctuary, O Lord, "
         },
         {
           "add": "which"
         },
         {
-          "t": "thy hands have established."
+          "t": " thy hands have established. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "The LORD shall reign for ever and ever.",
       "tokens": [
         {
-          "t": "The"
+          "t": "The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shall reign for ever and ever."
+          "t": " shall reign for ever and ever. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the LORD brought again the waters of the sea upon them; but the children of Israel went on dry land in the midst of the sea.",
       "tokens": [
         {
-          "t": "For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the"
+          "t": "For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "brought again the waters of the sea upon them; but the children of Israel went on dry"
+          "t": " brought again the waters of the sea upon them; but the children of Israel went on dry "
         },
         {
           "add": "land"
         },
         {
-          "t": "in the midst of the sea."
+          "t": " in the midst of the sea. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "¶ And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances.",
       "tokens": [
         {
-          "t": "¶ And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances."
+          "t": "¶ And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And Miriam answered them, Sing ye to the LORD, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea.",
       "tokens": [
         {
-          "t": "And Miriam answered them, Sing ye to the"
+          "t": "And Miriam answered them, Sing ye to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea."
+          "t": ", for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.",
       "tokens": [
         {
-          "t": "So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water."
+          "t": "So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "¶ And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.",
       "tokens": [
         {
-          "t": "¶ And when they came to Marah, they could not drink of the waters of Marah, for they"
+          "t": "¶ And when they came to Marah, they could not drink of the waters of Marah, for they "
         },
         {
           "add": "were"
         },
         {
-          "t": "bitter: therefore the name of it was called Marah."
+          "t": " bitter: therefore the name of it was called Marah. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "And the people murmured against Moses, saying, What shall we drink?",
       "tokens": [
         {
-          "t": "And the people murmured against Moses, saying, What shall we drink?"
+          "t": "And the people murmured against Moses, saying, What shall we drink? "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "And he cried unto the LORD; and the LORD shewed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,",
       "tokens": [
         {
-          "t": "And he cried unto the"
+          "t": "And he cried unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "; and the"
+          "t": "; and the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "shewed him a tree,"
+          "t": " shewed him a tree, "
         },
         {
           "add": "which"
         },
         {
-          "t": "when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,"
+          "t": " when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them, "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the LORD that healeth thee.",
       "tokens": [
         {
-          "t": "And said, If thou wilt diligently hearken to the voice of the"
+          "t": "And said, If thou wilt diligently hearken to the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I"
+          "t": " thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the"
+          "t": " the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "that healeth thee."
+          "t": " that healeth thee. "
         }
       ]
     },
     {
       "v": 27,
+      "plain": "¶ And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.",
       "tokens": [
         {
-          "t": "¶ And they came to Elim, where"
+          "t": "¶ And they came to Elim, where "
         },
         {
           "add": "were"
         },
         {
-          "t": "twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters."
+          "t": " twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters. "
         }
       ]
     }

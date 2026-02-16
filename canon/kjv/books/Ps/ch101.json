@@ -7,95 +7,103 @@
   "verses": [
     {
       "v": 1,
+      "plain": "I will sing of mercy and judgment: unto thee, O LORD, will I sing.",
       "tokens": [
         {
-          "t": "I will sing of mercy and judgment: unto thee, O"
+          "t": "I will sing of mercy and judgment: unto thee, O "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", will I sing."
+          "t": ", will I sing. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
       "tokens": [
         {
-          "t": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart."
+          "t": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.",
       "tokens": [
         {
-          "t": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside;"
+          "t": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; "
         },
         {
           "add": "it"
         },
         {
-          "t": "shall not cleave to me."
+          "t": " shall not cleave to me. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "A froward heart shall depart from me: I will not know a wicked person.",
       "tokens": [
         {
-          "t": "A froward heart shall depart from me: I will not know a wicked"
+          "t": "A froward heart shall depart from me: I will not know a wicked "
         },
         {
           "add": "person"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
       "tokens": [
         {
-          "t": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer."
+          "t": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
       "tokens": [
         {
-          "t": "Mine eyes"
+          "t": "Mine eyes "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me."
+          "t": " upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.",
       "tokens": [
         {
-          "t": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight."
+          "t": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.",
       "tokens": [
         {
-          "t": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the"
+          "t": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "."
+          "t": ". "
         }
       ]
     }

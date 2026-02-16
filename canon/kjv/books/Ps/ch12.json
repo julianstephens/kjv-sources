@@ -1,0 +1,231 @@
+{
+  "schema": 1,
+  "work": "KJV",
+  "osis": "Ps",
+  "abbr": "PSA",
+  "chapter": 12,
+  "verses": [
+    {
+      "v": 1,
+      "plain": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.",
+      "tokens": [
+        {
+          "t": "Help, "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; for the godly man ceaseth; for the faithful fail from among the children of men. "
+        }
+      ]
+    },
+    {
+      "v": 2,
+      "plain": "They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.",
+      "tokens": [
+        {
+          "t": "They speak vanity every one with his neighbour: "
+        },
+        {
+          "add": "with"
+        },
+        {
+          "t": " flattering lips "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " with a double heart do they speak. "
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "plain": "The LORD shall cut off all flattering lips, and the tongue that speaketh proud things:",
+      "tokens": [
+        {
+          "t": "The "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " shall cut off all flattering lips, "
+        },
+        {
+          "add": "and"
+        },
+        {
+          "t": " the tongue that speaketh proud things: "
+        }
+      ]
+    },
+    {
+      "v": 4,
+      "plain": "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?",
+      "tokens": [
+        {
+          "t": "Who have said, With our tongue will we prevail; our lips "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " our own: who "
+        },
+        {
+          "add": "is"
+        },
+        {
+          "t": " lord over us? "
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "plain": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him.",
+      "tokens": [
+        {
+          "t": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": "; I will set "
+        },
+        {
+          "add": "him"
+        },
+        {
+          "t": " in safety "
+        },
+        {
+          "add": "from him that"
+        },
+        {
+          "t": " puffeth at him. "
+        }
+      ]
+    },
+    {
+      "v": 6,
+      "plain": "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.",
+      "tokens": [
+        {
+          "t": "The words of the "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": " "
+        },
+        {
+          "add": "are"
+        },
+        {
+          "t": " pure words: "
+        },
+        {
+          "add": "as"
+        },
+        {
+          "t": " silver tried in a furnace of earth, purified seven times. "
+        }
+      ]
+    },
+    {
+      "v": 7,
+      "plain": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.",
+      "tokens": [
+        {
+          "t": "Thou shalt keep them, O "
+        },
+        {
+          "nd": "LORD"
+        },
+        {
+          "t": ", thou shalt preserve them from this generation for ever. "
+        }
+      ]
+    },
+    {
+      "v": 8,
+      "plain": "The wicked walk on every side, when the vilest men are exalted.",
+      "tokens": [
+        {
+          "t": "The wicked walk on every side, when the vilest men are exalted. "
+        }
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "FN1",
+      "mark": "*",
+      "at": {
+        "v": 1
+      },
+      "text": "upon…: or, upon the eighth"
+    },
+    {
+      "id": "FN2",
+      "mark": "†",
+      "at": {
+        "v": 1
+      },
+      "text": "Help: or, Save"
+    },
+    {
+      "id": "FN3",
+      "mark": "‡",
+      "at": {
+        "v": 2
+      },
+      "text": "a double…: Heb. an heart and an heart"
+    },
+    {
+      "id": "FN4",
+      "mark": "§",
+      "at": {
+        "v": 3
+      },
+      "text": "proud: Heb. great"
+    },
+    {
+      "id": "FN5",
+      "mark": "**",
+      "at": {
+        "v": 4
+      },
+      "text": "are…: Heb. are with us"
+    },
+    {
+      "id": "FN6",
+      "mark": "††",
+      "at": {
+        "v": 5
+      },
+      "text": "puffeth…: or, would ensnare him"
+    },
+    {
+      "id": "FN7",
+      "mark": "‡‡",
+      "at": {
+        "v": 7
+      },
+      "text": "them from: Heb. him, etc: that is, every one of them, etc"
+    },
+    {
+      "id": "FN8",
+      "mark": "§§",
+      "at": {
+        "v": 8
+      },
+      "text": "men: Heb. of the sons of the men"
+    }
+  ]
+}

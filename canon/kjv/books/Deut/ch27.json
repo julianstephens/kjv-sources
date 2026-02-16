@@ -7,389 +7,415 @@
   "verses": [
     {
       "v": 1,
+      "plain": "And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.",
       "tokens": [
         {
-          "t": "And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day."
+          "t": "And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And it shall be on the day when ye shall pass over Jordan unto the land which the LORD thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister:",
       "tokens": [
         {
-          "t": "And it shall be on the day when ye shall pass over Jordan unto the land which the"
+          "t": "And it shall be on the day when ye shall pass over Jordan unto the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister:"
+          "t": " thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister: "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And thou shalt write upon them all the words of this law, when thou art passed over, that thou mayest go in unto the land which the LORD thy God giveth thee, a land that floweth with milk and honey; as the LORD God of thy fathers hath promised thee.",
       "tokens": [
         {
-          "t": "And thou shalt write upon them all the words of this law, when thou art passed over, that thou mayest go in unto the land which the"
+          "t": "And thou shalt write upon them all the words of this law, when thou art passed over, that thou mayest go in unto the land which the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God giveth thee, a land that floweth with milk and honey; as the"
+          "t": " thy God giveth thee, a land that floweth with milk and honey; as the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of thy fathers hath promised thee."
+          "t": " God of thy fathers hath promised thee. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "Therefore it shall be when ye be gone over Jordan, that ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaister them with plaister.",
       "tokens": [
         {
-          "t": "Therefore it shall be when ye be gone over Jordan,"
+          "t": "Therefore it shall be when ye be gone over Jordan, "
         },
         {
           "add": "that"
         },
         {
-          "t": "ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaister them with plaister."
+          "t": " ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaister them with plaister. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And there shalt thou build an altar unto the LORD thy God, an altar of stones: thou shalt not lift up any iron tool upon them.",
       "tokens": [
         {
-          "t": "And there shalt thou build an altar unto the"
+          "t": "And there shalt thou build an altar unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, an altar of stones: thou shalt not lift up"
+          "t": " thy God, an altar of stones: thou shalt not lift up "
         },
         {
           "add": "any"
         },
         {
-          "t": "iron"
+          "t": " iron "
         },
         {
           "add": "tool"
         },
         {
-          "t": "upon them."
+          "t": " upon them. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Thou shalt build the altar of the LORD thy God of whole stones: and thou shalt offer burnt offerings thereon unto the LORD thy God:",
       "tokens": [
         {
-          "t": "Thou shalt build the altar of the"
+          "t": "Thou shalt build the altar of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God of whole stones: and thou shalt offer burnt offerings thereon unto the"
+          "t": " thy God of whole stones: and thou shalt offer burnt offerings thereon unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God:"
+          "t": " thy God: "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "And thou shalt offer peace offerings, and shalt eat there, and rejoice before the LORD thy God.",
       "tokens": [
         {
-          "t": "And thou shalt offer peace offerings, and shalt eat there, and rejoice before the"
+          "t": "And thou shalt offer peace offerings, and shalt eat there, and rejoice before the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God."
+          "t": " thy God. "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And thou shalt write upon the stones all the words of this law very plainly.",
       "tokens": [
         {
-          "t": "And thou shalt write upon the stones all the words of this law very plainly."
+          "t": "And thou shalt write upon the stones all the words of this law very plainly. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "¶ And Moses and the priests the Levites spake unto all Israel, saying, Take heed, and hearken, O Israel; this day thou art become the people of the LORD thy God.",
       "tokens": [
         {
-          "t": "¶ And Moses and the priests the Levites spake unto all Israel, saying, Take heed, and hearken, O Israel; this day thou art become the people of the"
+          "t": "¶ And Moses and the priests the Levites spake unto all Israel, saying, Take heed, and hearken, O Israel; this day thou art become the people of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God."
+          "t": " thy God. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Thou shalt therefore obey the voice of the LORD thy God, and do his commandments and his statutes, which I command thee this day.",
       "tokens": [
         {
-          "t": "Thou shalt therefore obey the voice of the"
+          "t": "Thou shalt therefore obey the voice of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "thy God, and do his commandments and his statutes, which I command thee this day."
+          "t": " thy God, and do his commandments and his statutes, which I command thee this day. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And Moses charged the people the same day, saying,",
       "tokens": [
         {
-          "t": "¶ And Moses charged the people the same day, saying,"
+          "t": "¶ And Moses charged the people the same day, saying, "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:",
       "tokens": [
         {
-          "t": "These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:"
+          "t": "These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin: "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And these shall stand upon mount Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.",
       "tokens": [
         {
-          "t": "And these shall stand upon mount Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali."
+          "t": "And these shall stand upon mount Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali. "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "¶ And the Levites shall speak, and say unto all the men of Israel with a loud voice,",
       "tokens": [
         {
-          "t": "¶ And the Levites shall speak, and say unto all the men of Israel with a loud voice,"
+          "t": "¶ And the Levites shall speak, and say unto all the men of Israel with a loud voice, "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "Cursed be the man that maketh any graven or molten image, an abomination unto the LORD, the work of the hands of the craftsman, and putteth it in a secret place. And all the people shall answer and say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "the man that maketh"
+          "t": " the man that maketh "
         },
         {
           "add": "any"
         },
         {
-          "t": "graven or molten image, an abomination unto the"
+          "t": " graven or molten image, an abomination unto the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": ", the work of the hands of the craftsman, and putteth"
+          "t": ", the work of the hands of the craftsman, and putteth "
         },
         {
           "add": "it"
         },
         {
-          "t": "in"
+          "t": " in "
         },
         {
           "add": "a"
         },
         {
-          "t": "secret"
+          "t": " secret "
         },
         {
           "add": "place"
         },
         {
-          "t": ". And all the people shall answer and say, Amen."
+          "t": ". And all the people shall answer and say, Amen. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Cursed be he that setteth light by his father or his mother. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that setteth light by his father or his mother. And all the people shall say, Amen."
+          "t": " he that setteth light by his father or his mother. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "Cursed be he that removeth his neighbour’s landmark. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that removeth his neighbour’s landmark. And all the people shall say, Amen."
+          "t": " he that removeth his neighbour’s landmark. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "Cursed be he that maketh the blind to wander out of the way. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that maketh the blind to wander out of the way. And all the people shall say, Amen."
+          "t": " he that maketh the blind to wander out of the way. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "Cursed be he that perverteth the judgment of the stranger, fatherless, and widow. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that perverteth the judgment of the stranger, fatherless, and widow. And all the people shall say, Amen."
+          "t": " he that perverteth the judgment of the stranger, fatherless, and widow. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "Cursed be he that lieth with his father’s wife; because he uncovereth his father’s skirt. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that lieth with his father’s wife; because he uncovereth his father’s skirt. And all the people shall say, Amen."
+          "t": " he that lieth with his father’s wife; because he uncovereth his father’s skirt. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "Cursed be he that lieth with any manner of beast. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that lieth with any manner of beast. And all the people shall say, Amen."
+          "t": " he that lieth with any manner of beast. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "Cursed be he that lieth with his sister, the daughter of his father, or the daughter of his mother. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that lieth with his sister, the daughter of his father, or the daughter of his mother. And all the people shall say, Amen."
+          "t": " he that lieth with his sister, the daughter of his father, or the daughter of his mother. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 23,
+      "plain": "Cursed be he that lieth with his mother in law. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that lieth with his mother in law. And all the people shall say, Amen."
+          "t": " he that lieth with his mother in law. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 24,
+      "plain": "Cursed be he that smiteth his neighbour secretly. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that smiteth his neighbour secretly. And all the people shall say, Amen."
+          "t": " he that smiteth his neighbour secretly. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 25,
+      "plain": "Cursed be he that taketh reward to slay an innocent person. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that taketh reward to slay an innocent person. And all the people shall say, Amen."
+          "t": " he that taketh reward to slay an innocent person. And all the people shall say, Amen. "
         }
       ]
     },
     {
       "v": 26,
+      "plain": "Cursed be he that confirmeth not all the words of this law to do them. And all the people shall say, Amen.",
       "tokens": [
         {
-          "t": "Cursed"
+          "t": "Cursed "
         },
         {
           "add": "be"
         },
         {
-          "t": "he that confirmeth not"
+          "t": " he that confirmeth not "
         },
         {
           "add": "all"
         },
         {
-          "t": "the words of this law to do them. And all the people shall say, Amen."
+          "t": " the words of this law to do them. And all the people shall say, Amen. "
         }
       ]
     }

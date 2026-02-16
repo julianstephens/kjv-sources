@@ -7,303 +7,325 @@
   "verses": [
     {
       "v": 1,
+      "plain": "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.",
       "tokens": [
         {
-          "t": "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God,"
+          "t": "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, "
         },
         {
           "add": "even"
         },
         {
-          "t": "to Horeb."
+          "t": " to Horeb. "
         }
       ]
     },
     {
       "v": 2,
+      "plain": "And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.",
       "tokens": [
         {
-          "t": "And the angel of the"
+          "t": "And the angel of the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush"
+          "t": " appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush "
         },
         {
           "add": "was"
         },
         {
-          "t": "not consumed."
+          "t": " not consumed. "
         }
       ]
     },
     {
       "v": 3,
+      "plain": "And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt.",
       "tokens": [
         {
-          "t": "And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt."
+          "t": "And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt. "
         }
       ]
     },
     {
       "v": 4,
+      "plain": "And when the LORD saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here am I.",
       "tokens": [
         {
-          "t": "And when the"
+          "t": "And when the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here"
+          "t": " saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here "
         },
         {
           "add": "am"
         },
         {
-          "t": "I."
+          "t": " I. "
         }
       ]
     },
     {
       "v": 5,
+      "plain": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground.",
       "tokens": [
         {
-          "t": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest"
+          "t": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest "
         },
         {
           "add": "is"
         },
         {
-          "t": "holy ground."
+          "t": " holy ground. "
         }
       ]
     },
     {
       "v": 6,
+      "plain": "Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.",
       "tokens": [
         {
-          "t": "Moreover he said, I"
+          "t": "Moreover he said, I "
         },
         {
           "add": "am"
         },
         {
-          "t": "the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God."
+          "t": " the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God. "
         }
       ]
     },
     {
       "v": 7,
+      "plain": "¶ And the LORD said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;",
       "tokens": [
         {
-          "t": "¶ And the"
+          "t": "¶ And the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "said, I have surely seen the affliction of my people which"
+          "t": " said, I have surely seen the affliction of my people which "
         },
         {
           "add": "are"
         },
         {
-          "t": "in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;"
+          "t": " in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows; "
         }
       ]
     },
     {
       "v": 8,
+      "plain": "And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey; unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites.",
       "tokens": [
         {
-          "t": "And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey; unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites."
+          "t": "And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey; unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites. "
         }
       ]
     },
     {
       "v": 9,
+      "plain": "Now therefore, behold, the cry of the children of Israel is come unto me: and I have also seen the oppression wherewith the Egyptians oppress them.",
       "tokens": [
         {
-          "t": "Now therefore, behold, the cry of the children of Israel is come unto me: and I have also seen the oppression wherewith the Egyptians oppress them."
+          "t": "Now therefore, behold, the cry of the children of Israel is come unto me: and I have also seen the oppression wherewith the Egyptians oppress them. "
         }
       ]
     },
     {
       "v": 10,
+      "plain": "Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt.",
       "tokens": [
         {
-          "t": "Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt."
+          "t": "Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt. "
         }
       ]
     },
     {
       "v": 11,
+      "plain": "¶ And Moses said unto God, Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?",
       "tokens": [
         {
-          "t": "¶ And Moses said unto God, Who"
+          "t": "¶ And Moses said unto God, Who "
         },
         {
           "add": "am"
         },
         {
-          "t": "I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?"
+          "t": " I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt? "
         }
       ]
     },
     {
       "v": 12,
+      "plain": "And he said, Certainly I will be with thee; and this shall be a token unto thee, that I have sent thee: When thou hast brought forth the people out of Egypt, ye shall serve God upon this mountain.",
       "tokens": [
         {
-          "t": "And he said, Certainly I will be with thee; and this"
+          "t": "And he said, Certainly I will be with thee; and this "
         },
         {
           "add": "shall be"
         },
         {
-          "t": "a token unto thee, that I have sent thee: When thou hast brought forth the people out of Egypt, ye shall serve God upon this mountain."
+          "t": " a token unto thee, that I have sent thee: When thou hast brought forth the people out of Egypt, ye shall serve God upon this mountain. "
         }
       ]
     },
     {
       "v": 13,
+      "plain": "And Moses said unto God, Behold, when I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What is his name? what shall I say unto them?",
       "tokens": [
         {
-          "t": "And Moses said unto God, Behold,"
+          "t": "And Moses said unto God, Behold, "
         },
         {
           "add": "when"
         },
         {
-          "t": "I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What"
+          "t": " I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What "
         },
         {
           "add": "is"
         },
         {
-          "t": "his name? what shall I say unto them?"
+          "t": " his name? what shall I say unto them? "
         }
       ]
     },
     {
       "v": 14,
+      "plain": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
       "tokens": [
         {
-          "t": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you."
+          "t": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you. "
         }
       ]
     },
     {
       "v": 15,
+      "plain": "And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.",
       "tokens": [
         {
-          "t": "And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The"
+          "t": "And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this"
+          "t": " God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this "
         },
         {
           "add": "is"
         },
         {
-          "t": "my name for ever, and this"
+          "t": " my name for ever, and this "
         },
         {
           "add": "is"
         },
         {
-          "t": "my memorial unto all generations."
+          "t": " my memorial unto all generations. "
         }
       ]
     },
     {
       "v": 16,
+      "plain": "Go, and gather the elders of Israel together, and say unto them, The LORD God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and seen that which is done to you in Egypt:",
       "tokens": [
         {
-          "t": "Go, and gather the elders of Israel together, and say unto them, The"
+          "t": "Go, and gather the elders of Israel together, and say unto them, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and"
+          "t": " God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and "
         },
         {
           "add": "seen"
         },
         {
-          "t": "that which is done to you in Egypt:"
+          "t": " that which is done to you in Egypt: "
         }
       ]
     },
     {
       "v": 17,
+      "plain": "And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey.",
       "tokens": [
         {
-          "t": "And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey."
+          "t": "And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey. "
         }
       ]
     },
     {
       "v": 18,
+      "plain": "And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The LORD God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the LORD our God.",
       "tokens": [
         {
-          "t": "And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The"
+          "t": "And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the"
+          "t": " God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the "
         },
         {
           "nd": "LORD"
         },
         {
-          "t": "our God."
+          "t": " our God. "
         }
       ]
     },
     {
       "v": 19,
+      "plain": "¶ And I am sure that the king of Egypt will not let you go, no, not by a mighty hand.",
       "tokens": [
         {
-          "t": "¶ And I am sure that the king of Egypt will not let you go, no, not by a mighty hand."
+          "t": "¶ And I am sure that the king of Egypt will not let you go, no, not by a mighty hand. "
         }
       ]
     },
     {
       "v": 20,
+      "plain": "And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go.",
       "tokens": [
         {
-          "t": "And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go."
+          "t": "And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go. "
         }
       ]
     },
     {
       "v": 21,
+      "plain": "And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:",
       "tokens": [
         {
-          "t": "And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:"
+          "t": "And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty: "
         }
       ]
     },
     {
       "v": 22,
+      "plain": "But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall spoil the Egyptians.",
       "tokens": [
         {
-          "t": "But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put"
+          "t": "But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put "
         },
         {
           "add": "them"
         },
         {
-          "t": "upon your sons, and upon your daughters; and ye shall spoil the Egyptians."
+          "t": " upon your sons, and upon your daughters; and ye shall spoil the Egyptians. "
         }
       ]
     }
