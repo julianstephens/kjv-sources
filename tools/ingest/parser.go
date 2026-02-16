@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/net/html"
 
-	"github.com/julianstephens/kjv-sources/tools/util"
+	"github.com/julianstephens/kjv-sources/internal/util"
 )
 
 // Parser extracts verse data from HTML chapter files

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/julianstephens/kjv-sources/tools/util"
+	"github.com/julianstephens/kjv-sources/internal/util"
 )
 
 // Validator validates the 3-point check for HTML chapter files
@@ -61,7 +61,10 @@ func (v *Validator) ValidateBook(abbr string) ([]util.ValidationError, error) {
 }
 
 // ValidateChapterFile validates the 3-point check for a single chapter
-func (v *Validator) ValidateChapterFile(filename string, extractedChapter *util.ExtractedChapter) []util.ValidationError {
+func (v *Validator) ValidateChapterFile(
+	filename string,
+	extractedChapter *util.ExtractedChapter,
+) []util.ValidationError {
 	var errors []util.ValidationError
 
 	// 1. Extract abbreviation from filename (e.g., PRO01.htm -> PRO)

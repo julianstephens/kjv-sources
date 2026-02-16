@@ -7,16 +7,16 @@ import (
 
 	"github.com/alecthomas/kong"
 
-	"github.com/julianstephens/kjv-sources/tools/util"
+	"github.com/julianstephens/kjv-sources/internal/util"
 )
 
 type IngestCLI struct {
 	RawDir    string `type:"existingdir" help:"Directory containing raw HTML chapter files"                                     default:"raw"`
 	OutputDir string `type:"existingdir" help:"Directory to write processed output files"                                       default:"canon/kjv"`
-	Book      string `help:"Book abbreviation to process (e.g. GEN, EXO, PRO) or 'all' to process all books" default:"all"`
-	Work      string `help:"The work identifier"                                                             default:"KJV"`
-	Manifest  bool   `help:"Generate SHA256 manifest of raw files"                                           default:"false"`
-	Verbose   bool   `help:"Enable verbose logging output"                                                   default:"false"`
+	Book      string `                   help:"Book abbreviation to process (e.g. GEN, EXO, PRO) or 'all' to process all books" default:"all"`
+	Work      string `                   help:"The work identifier"                                                             default:"KJV"`
+	Manifest  bool   `                   help:"Generate SHA256 manifest of raw files"                                           default:"false"`
+	Verbose   bool   `                   help:"Enable verbose logging output"                                                   default:"false"`
 }
 
 func main() {

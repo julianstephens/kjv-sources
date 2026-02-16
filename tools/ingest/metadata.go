@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/julianstephens/kjv-sources/tools/util"
+	"github.com/julianstephens/kjv-sources/internal/util"
 )
 
 // MetadataLoader loads and manages metadata from JSON files

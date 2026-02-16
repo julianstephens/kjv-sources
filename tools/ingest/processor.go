@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/julianstephens/kjv-sources/tools/util"
+	"github.com/julianstephens/kjv-sources/internal/util"
 )
 
 // Processor orchestrates the parsing, validation, and output of chapters

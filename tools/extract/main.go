@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/julianstephens/kjv-sources/tools/util"
+	"github.com/julianstephens/kjv-sources/internal/util"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/julianstephens/kjv-sources/tools/util"
+	"github.com/julianstephens/kjv-sources/internal/util"
 )
 
 func TestNewProcessor(t *testing.T) {
@@ -397,10 +397,6 @@ func TestWriteChapterJSON(t *testing.T) {
 		t.Errorf("failed to unmarshal JSON: %v", err)
 		return
 	}
-	if err != nil {
-		t.Errorf("failed to unmarshal JSON: %v", err)
-		return
-	}
 
 	if readChapter.Chapter != chapter.Chapter {
 		t.Errorf("chapter number mismatch: expected %d, got %d", chapter.Chapter, readChapter.Chapter)
@@ -450,10 +446,6 @@ func TestWriteFileMap(t *testing.T) {
 
 	var readMap util.FileMap
 	if err := json.Unmarshal(data, &readMap); err != nil {
-		t.Errorf("failed to unmarshal filemap: %v", err)
-		return
-	}
-	if err != nil {
 		t.Errorf("failed to unmarshal filemap: %v", err)
 		return
 	}

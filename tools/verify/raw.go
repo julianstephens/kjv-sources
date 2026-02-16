@@ -25,7 +25,11 @@ func (r *RawCmd) Run(stop chan bool) error {
 	if err != nil {
 		return fmt.Errorf("failed to open manifest file: %w", err)
 	}
-	defer file.Close()
+	defer func() {
+		if err := file.Close(); err != nil {
+			fmt.Printf("Error closing manifest file: %v\n", err)
+		}
+	}()
 
 	var totalFiles int
 	var mismatches int

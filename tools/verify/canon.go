@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/julianstephens/kjv-sources/tools/util"
+	"github.com/julianstephens/kjv-sources/internal/util"
 )
 
 func (c *CanonCmd) Run(stop chan bool) error {
@@ -89,7 +89,12 @@ func (c *CanonCmd) Run(stop chan bool) error {
 			if book.OSIS == "Add Esth" {
 				continue
 			}
-			fmt.Printf("Chapter count mismatch for %s: expected %d, found %d\n", book.Name, book.Chapters, bookChapterCounts[book.OSIS])
+			fmt.Printf(
+				"Chapter count mismatch for %s: expected %d, found %d\n",
+				book.Name,
+				book.Chapters,
+				bookChapterCounts[book.OSIS],
+			)
 			totalErrors++
 		}
 	}

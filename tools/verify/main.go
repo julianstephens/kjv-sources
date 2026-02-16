@@ -12,7 +12,7 @@ type RawCmd struct {
 }
 
 type CanonCmd struct {
-	Canon   string `type:"existingdir" help:"The output directory for processed files" default:"./canon/kjv"`
+	Canon   string `type:"existingdir" help:"The output directory for processed files"      default:"./canon/kjv"`
 	Indexes string `type:"existingdir" help:"The index directory containing metadata files" default:"./canon/kjv/index"`
 }
 
